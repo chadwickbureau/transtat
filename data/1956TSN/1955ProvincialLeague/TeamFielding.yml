@@ -1,0 +1,66 @@
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  G: '130'
+  DP: '141'
+  PB: '34'
+  PO: '3370'
+  A: '1363'
+  E: '148'
+  PCT: '.970'
+  TP: '1'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Sherbrooke
+  G: '129'
+  DP: '109'
+  PB: '36'
+  PO: '3198'
+  A: '1322'
+  E: '192'
+  PCT: '.959'
+  TP: '0'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Burlington
+  G: '129'
+  DP: '115'
+  PB: '18'
+  PO: '3288'
+  A: '1294'
+  E: '198'
+  PCT: '.959'
+  TP: '0'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Thetford Mines
+  G: '130'
+  DP: '130'
+  PB: '26'
+  PO: '3369'
+  A: '1411'
+  E: '215'
+  PCT: '.957'
+  TP: '0'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Three Rivers
+  G: '130'
+  DP: '131'
+  PB: '44'
+  PO: '3396'
+  A: '1404'
+  E: '217'
+  PCT: '.957'
+  TP: '1'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  G: '130'
+  DP: '111'
+  PB: '25'
+  PO: '3424'
+  A: '1373'
+  E: '217'
+  PCT: '.957'
+  TP: '0'

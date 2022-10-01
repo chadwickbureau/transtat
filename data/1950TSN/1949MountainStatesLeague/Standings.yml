@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Harlan
+  phase: regular
+  W: '83'
+  L: '41'
+  T: '1'
+  PCT: '.669'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Morristown
+  phase: regular
+  W: '72'
+  L: '52'
+  T: '0'
+  PCT: '.581'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Middlesboro
+  phase: regular
+  W: '69'
+  L: '56'
+  T: '0'
+  PCT: '.552'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Jenkins
+  phase: regular
+  W: '63'
+  L: '61'
+  T: '0'
+  PCT: '.508'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Pennington Gap
+  phase: regular
+  W: '62'
+  L: '63'
+  T: '0'
+  PCT: '.496'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Newport
+  phase: regular
+  W: '59'
+  L: '66'
+  T: '0'
+  PCT: '.472'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Big Stone Gap
+  phase: regular
+  W: '55'
+  L: '70'
+  T: '0'
+  PCT: '.440'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Hazard
+  phase: regular
+  W: '35'
+  L: '89'
+  T: '1'
+  PCT: '.282'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Harlan
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Middlesboro
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Morristown
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Jenkins
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Harlan
+  phase: final
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Morristown
+  phase: final
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'

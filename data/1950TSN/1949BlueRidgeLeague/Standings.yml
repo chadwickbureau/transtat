@@ -1,0 +1,106 @@
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  phase: regular
+  W: '68'
+  L: '58'
+  T: '0'
+  PCT: '.540'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  phase: regular
+  W: '66'
+  L: '61'
+  T: '0'
+  PCT: '.520'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Wytheville
+  phase: regular
+  W: '65'
+  L: '61'
+  T: '1'
+  PCT: '.516'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: North Wilkesboro
+  phase: regular
+  W: '62'
+  L: '62'
+  T: '2'
+  PCT: '.500'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Elkin
+  phase: regular
+  W: '62'
+  L: '65'
+  T: '2'
+  PCT: '.488'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Radford
+  phase: regular
+  W: '55'
+  L: '71'
+  T: '1'
+  PCT: '.437'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Wytheville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: North Wilkesboro
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: North Wilkesboro
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Wytheville
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

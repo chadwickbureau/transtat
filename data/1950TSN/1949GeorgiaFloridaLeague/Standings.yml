@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '96'
+  L: '42'
+  T: '2'
+  PCT: '.696'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular
+  W: '86'
+  L: '54'
+  T: '2'
+  PCT: '.614'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular
+  W: '83'
+  L: '56'
+  T: '0'
+  PCT: '.597'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  phase: regular
+  W: '71'
+  L: '67'
+  T: '1'
+  PCT: '.514'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '60'
+  L: '80'
+  T: '1'
+  PCT: '.429'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular
+  W: '56'
+  L: '82'
+  T: '0'
+  PCT: '.406'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: regular
+  W: '54'
+  L: '85'
+  T: '0'
+  PCT: '.388'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: regular
+  W: '49'
+  L: '89'
+  T: '0'
+  PCT: '.355'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

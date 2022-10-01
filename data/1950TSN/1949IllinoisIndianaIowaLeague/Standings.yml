@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '74'
+  L: '51'
+  T: '0'
+  PCT: '.592'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular
+  W: '70'
+  L: '56'
+  T: '0'
+  PCT: '.556'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: regular
+  W: '69'
+  L: '56'
+  T: '0'
+  PCT: '.552'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: regular
+  W: '67'
+  L: '59'
+  T: '0'
+  PCT: '.532'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular
+  W: '59'
+  L: '67'
+  T: '0'
+  PCT: '.468'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Decatur
+  phase: regular
+  W: '55'
+  L: '70'
+  T: '0'
+  PCT: '.440'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Danville
+  phase: regular
+  W: '55'
+  L: '70'
+  T: '0'
+  PCT: '.440'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Springfield
+  phase: regular
+  W: '53'
+  L: '73'
+  T: '0'
+  PCT: '.421'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: final
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: final
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'

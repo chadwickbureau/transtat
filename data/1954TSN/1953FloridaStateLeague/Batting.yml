@@ -1,0 +1,4514 @@
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sprouse
+  nameFirst: Walter
+  nameClub1: Orlando
+  G: '14'
+  AB: '18'
+  R: '5'
+  H: '7'
+  TB: '11'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  AVG: '.389'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Leonard
+  nameFirst: Thomas V.
+  nameClub1: Sanford
+  bats: L
+  G: '127'
+  AB: '502'
+  R: '104'
+  H: '191'
+  TB: '232'
+  H2B: '27'
+  H3B: '4'
+  HR: '2'
+  SH: '3'
+  SB: '32'
+  BB: '80'
+  HP: '4'
+  RBI: '112'
+  SO: '14'
+  AVG: '.380'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Yochim
+  nameFirst: Raymond A.
+  nameClub1: Leesburg
+  G: '20'
+  AB: '50'
+  R: '5'
+  H: '19'
+  TB: '28'
+  H2B: '6'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  HP: '1'
+  RBI: '5'
+  SO: '4'
+  AVG: '.380'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Crawford
+  nameFirst: Paul
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '10'
+  AB: '29'
+  R: '4'
+  H: '11'
+  TB: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '10'
+  HP: '1'
+  RBI: '4'
+  SO: '5'
+  AVG: '.379'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Treadway
+  nameFirst: Leon
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '123'
+  AB: '472'
+  R: '93'
+  H: '172'
+  TB: '225'
+  H2B: '36'
+  H3B: '7'
+  HR: '1'
+  SH: '9'
+  SB: '24'
+  BB: '59'
+  HP: '1'
+  RBI: '82'
+  SO: '14'
+  AVG: '.365'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kantor
+  nameFirst: Peter F.
+  nameClub1: Palatka/Lakeland
+  G: '21'
+  AB: '79'
+  R: '12'
+  H: '28'
+  TB: '40'
+  H2B: '6'
+  H3B: '3'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '12'
+  HP: '0'
+  RBI: '11'
+  SO: '5'
+  AVG: '.354'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Cade
+  nameFirst: Jesse H.
+  nameClub1: DeLand
+  G: '131'
+  AB: '501'
+  R: '118'
+  H: '176'
+  TB: '242'
+  H2B: '26'
+  H3B: '14'
+  HR: '4'
+  SH: '9'
+  SB: '34'
+  BB: '88'
+  HP: '6'
+  RBI: '82'
+  SO: '52'
+  AVG: '.351'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Briggs
+  nameFirst: Clyde
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '61'
+  AB: '257'
+  R: '33'
+  H: '90'
+  TB: '115'
+  H2B: '16'
+  H3B: '3'
+  HR: '1'
+  SH: '1'
+  SB: '6'
+  BB: '11'
+  HP: '2'
+  RBI: '55'
+  SO: '20'
+  AVG: '.350'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Dunn
+  nameFirst: J.C.
+  nameClub1: Sanford
+  G: '128'
+  AB: '516'
+  R: '127'
+  H: '179'
+  TB: '284'
+  H2B: '29'
+  H3B: '8'
+  HR: '20'
+  SH: '3'
+  SB: '32'
+  BB: '48'
+  HP: '10'
+  RBI: '122'
+  SO: '22'
+  AVG: '.347'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Rowell
+  nameFirst: Carvel
+  nameClub1: Cocoa
+  bats: L
+  G: '126'
+  AB: '498'
+  R: '104'
+  H: '172'
+  TB: '244'
+  H2B: '26'
+  H3B: '5'
+  HR: '12'
+  SH: '0'
+  SB: '42'
+  BB: '63'
+  HP: '7'
+  RBI: '127'
+  SO: '18'
+  AVG: '.346'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kassabian
+  nameFirst: Michael
+  nameClub1: Palatka/Lakeland
+  G: '36'
+  AB: '120'
+  R: '28'
+  H: '41'
+  TB: '50'
+  H2B: '6'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '4'
+  BB: '46'
+  HP: '2'
+  RBI: '31'
+  SO: '4'
+  AVG: '.342'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Pardue
+  nameFirst: Othur
+  nameClub1: Daytona Beach
+  G: '131'
+  AB: '495'
+  R: '91'
+  H: '169'
+  TB: '237'
+  H2B: '38'
+  H3B: '3'
+  HR: '8'
+  SH: '7'
+  SB: '9'
+  BB: '68'
+  HP: '5'
+  RBI: '119'
+  SO: '33'
+  AVG: '.341'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Bartley
+  nameFirst: Don E.
+  nameClub1: Daytona Beach
+  bats: L
+  G: '88'
+  AB: '321'
+  R: '77'
+  H: '109'
+  TB: '130'
+  H2B: '13'
+  H3B: '4'
+  HR: '0'
+  SH: '5'
+  SB: '16'
+  BB: '32'
+  HP: '4'
+  RBI: '52'
+  SO: '28'
+  AVG: '.340'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Pirtle
+  nameFirst: V. Aldene
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '105'
+  AB: '410'
+  R: '78'
+  H: '138'
+  TB: '196'
+  H2B: '25'
+  H3B: '0'
+  HR: '11'
+  SH: '0'
+  SB: '0'
+  BB: '59'
+  HP: '2'
+  RBI: '82'
+  SO: '11'
+  AVG: '.337'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Baller
+  nameFirst: Richard H.
+  nameClub1: Daytona Beach
+  bats: L
+  G: '129'
+  AB: '555'
+  R: '139'
+  H: '183'
+  TB: '241'
+  H2B: '20'
+  H3B: '10'
+  HR: '6'
+  SH: '11'
+  SB: '60'
+  BB: '48'
+  HP: '3'
+  RBI: '78'
+  SO: '50'
+  AVG: '.330'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hughes
+  nameFirst: George
+  nameClub1: Cocoa
+  bats: L
+  G: '135'
+  AB: '517'
+  R: '132'
+  H: '170'
+  TB: '218'
+  H2B: '32'
+  H3B: '2'
+  HR: '4'
+  SH: '1'
+  SB: '4'
+  BB: '113'
+  HP: '5'
+  RBI: '67'
+  SO: '59'
+  AVG: '.329'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Dunne
+  nameFirst: Ray V.
+  nameClub1: DeLand
+  G: '131'
+  AB: '505'
+  R: '62'
+  H: '159'
+  TB: '209'
+  H2B: '30'
+  H3B: '7'
+  HR: '2'
+  SH: '3'
+  SB: '7'
+  BB: '64'
+  HP: '1'
+  RBI: '102'
+  SO: '16'
+  AVG: '.315'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: O'Flynn
+  nameFirst: Howard
+  nameClub1: DeLand
+  G: '105'
+  AB: '344'
+  R: '89'
+  H: '108'
+  TB: '171'
+  H2B: '13'
+  H3B: '19'
+  HR: '4'
+  SH: '2'
+  SB: '4'
+  BB: '91'
+  HP: '3'
+  RBI: '80'
+  SO: '66'
+  AVG: '.314'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wagner
+  nameFirst: Robert
+  nameClub1: Sanford
+  bats: L
+  G: '37'
+  AB: '140'
+  R: '39'
+  H: '44'
+  TB: '49'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '16'
+  BB: '33'
+  HP: '0'
+  RBI: '16'
+  SO: '25'
+  AVG: '.314'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Irby
+  nameFirst: LeRoy
+  nameClub1: Daytona Beach
+  bats: L
+  G: '130'
+  AB: '533'
+  R: '105'
+  H: '167'
+  TB: '249'
+  H2B: '30'
+  H3B: '17'
+  HR: '6'
+  SH: '11'
+  SB: '18'
+  BB: '41'
+  HP: '3'
+  RBI: '100'
+  SO: '64'
+  AVG: '.313'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Bellone
+  nameFirst: Michael
+  nameClub1: Daytona Beach
+  G: '132'
+  AB: '556'
+  R: '120'
+  H: '171'
+  TB: '249'
+  H2B: '35'
+  H3B: '8'
+  HR: '9'
+  SH: '8'
+  SB: '15'
+  BB: '61'
+  HP: '3'
+  RBI: '77'
+  SO: '47'
+  AVG: '.308'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Aleno
+  nameFirst: Charles
+  nameClub1: Palatka/Lakeland
+  G: '64'
+  AB: '226'
+  R: '35'
+  H: '69'
+  TB: '101'
+  H2B: '14'
+  H3B: '0'
+  HR: '6'
+  SH: '1'
+  SB: '3'
+  BB: '40'
+  HP: '2'
+  RBI: '50'
+  SO: '11'
+  AVG: '.305'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Silverthorne
+  nameFirst: William B.
+  nameClub1: Sanford
+  G: '107'
+  AB: '402'
+  R: '67'
+  H: '122'
+  TB: '164'
+  H2B: '26'
+  H3B: '2'
+  HR: '4'
+  SH: '16'
+  SB: '20'
+  BB: '51'
+  HP: '11'
+  RBI: '64'
+  SO: '53'
+  AVG: '.303'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Fundora
+  nameFirst: Raoul V.
+  nameClub1: Leesburg
+  G: '101'
+  AB: '366'
+  R: '53'
+  H: '111'
+  TB: '152'
+  H2B: '20'
+  H3B: '3'
+  HR: '5'
+  SH: '5'
+  SB: '11'
+  BB: '54'
+  HP: '5'
+  RBI: '67'
+  SO: '27'
+  AVG: '.303'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Faberlee
+  nameFirst: Hector
+  nameClub1: DeLand
+  bats: S
+  G: '83'
+  AB: '314'
+  R: '74'
+  H: '95'
+  TB: '102'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  SH: '7'
+  SB: '27'
+  BB: '69'
+  HP: '4'
+  RBI: '24'
+  SO: '19'
+  AVG: '.303'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Walker
+  nameFirst: Jewel H.
+  nameClub1: Leesburg
+  bats: L
+  G: '53'
+  AB: '198'
+  R: '32'
+  H: '60'
+  TB: '66'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SH: '11'
+  SB: '4'
+  BB: '39'
+  HP: '1'
+  RBI: '15'
+  SO: '5'
+  AVG: '.303'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Levy
+  nameFirst: Edward W.
+  nameClub1: Daytona Beach
+  G: '116'
+  AB: '440'
+  R: '95'
+  H: '133'
+  TB: '212'
+  H2B: '33'
+  H3B: '2'
+  HR: '14'
+  SH: '2'
+  SB: '8'
+  BB: '75'
+  HP: '4'
+  RBI: '99'
+  SO: '21'
+  AVG: '.302'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Shores
+  nameFirst: William
+  nameClub1: Orlando
+  G: '102'
+  AB: '404'
+  R: '68'
+  H: '122'
+  TB: '184'
+  H2B: '19'
+  H3B: '11'
+  HR: '7'
+  SH: '3'
+  SB: '15'
+  BB: '32'
+  HP: '2'
+  RBI: '59'
+  SO: '56'
+  AVG: '.302'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Foster
+  nameFirst: James
+  nameClub1: Jacksonville Beach
+  G: '133'
+  AB: '481'
+  R: '106'
+  H: '145'
+  TB: '194'
+  H2B: '30'
+  H3B: '8'
+  HR: '1'
+  SH: '8'
+  SB: '22'
+  BB: '114'
+  HP: '5'
+  RBI: '86'
+  SO: '48'
+  AVG: '.301'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Collins
+  nameFirst: Calvin R.
+  nameClub1: Leesburg
+  G: '123'
+  AB: '491'
+  R: '83'
+  H: '147'
+  TB: '188'
+  H2B: '26'
+  H3B: '3'
+  HR: '3'
+  SH: '16'
+  SB: '18'
+  BB: '63'
+  HP: '4'
+  RBI: '51'
+  SO: '48'
+  AVG: '.299'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Duncan
+  nameFirst: Robert
+  nameClub1: Jacksonville Beach
+  G: '35'
+  AB: '107'
+  R: '19'
+  H: '32'
+  TB: '35'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '19'
+  HP: '1'
+  RBI: '16'
+  SO: '11'
+  AVG: '.299'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Locke
+  nameFirst: Lawrence
+  nameClub1: Daytona Beach
+  G: '66'
+  AB: '121'
+  R: '18'
+  H: '36'
+  TB: '53'
+  H2B: '5'
+  H3B: '3'
+  HR: '2'
+  SH: '3'
+  SB: '1'
+  BB: '13'
+  HP: '0'
+  RBI: '17'
+  SO: '16'
+  AVG: '.298'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Batty
+  nameFirst: William S.
+  nameClub1: Sanford
+  G: '129'
+  AB: '474'
+  R: '111'
+  H: '140'
+  TB: '188'
+  H2B: '13'
+  H3B: '13'
+  HR: '3'
+  SH: '23'
+  SB: '37'
+  BB: '111'
+  HP: '1'
+  RBI: '77'
+  SO: '67'
+  AVG: '.295'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Shuster
+  nameFirst: Harold
+  nameClub1: Jacksonville Beach
+  G: '84'
+  AB: '318'
+  R: '50'
+  H: '93'
+  TB: '124'
+  H2B: '14'
+  H3B: '4'
+  HR: '3'
+  SH: '4'
+  SB: '6'
+  BB: '58'
+  HP: '0'
+  RBI: '49'
+  SO: '34'
+  AVG: '.292'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Velez
+  nameFirst: Domingo
+  nameClub1: Cocoa
+  G: '123'
+  AB: '499'
+  R: '98'
+  H: '145'
+  TB: '189'
+  H2B: '23'
+  H3B: '3'
+  HR: '5'
+  SH: '7'
+  SB: '19'
+  BB: '49'
+  HP: '10'
+  RBI: '59'
+  SO: '46'
+  AVG: '.291'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Griner
+  nameFirst: Hal S.
+  nameClub1: DeLand
+  bats: L
+  G: '108'
+  AB: '409'
+  R: '75'
+  H: '118'
+  TB: '128'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  SH: '16'
+  SB: '15'
+  BB: '73'
+  HP: '2'
+  RBI: '39'
+  SO: '36'
+  AVG: '.289'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Penza
+  nameFirst: Gale
+  nameClub1: DeLand
+  bats: L
+  G: '120'
+  AB: '476'
+  R: '73'
+  H: '137'
+  TB: '193'
+  H2B: '20'
+  H3B: '15'
+  HR: '2'
+  SH: '2'
+  SB: '6'
+  BB: '51'
+  HP: '0'
+  RBI: '97'
+  SO: '58'
+  AVG: '.288'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ramsey
+  nameFirst: Claude
+  nameClub1: Leesburg
+  bats: L
+  G: '106'
+  AB: '408'
+  R: '54'
+  H: '117'
+  TB: '156'
+  H2B: '19'
+  H3B: '4'
+  HR: '4'
+  SH: '6'
+  SB: '5'
+  BB: '64'
+  HP: '3'
+  RBI: '74'
+  SO: '36'
+  AVG: '.287'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Simmons
+  nameFirst: James C.
+  nameClub1: Leesburg
+  nameClub2: Orlando
+  G: '15'
+  AB: '14'
+  R: '2'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Houck
+  nameFirst: Harold G.
+  nameClub1: DeLand
+  G: '14'
+  AB: '21'
+  R: '2'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '6'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Prescott
+  nameFirst: Glen C.
+  nameClub1: DeLand
+  bats: L
+  G: '131'
+  AB: '506'
+  R: '92'
+  H: '144'
+  TB: '194'
+  H2B: '21'
+  H3B: '13'
+  HR: '1'
+  SH: '3'
+  SB: '24'
+  BB: '72'
+  HP: '5'
+  RBI: '73'
+  SO: '75'
+  AVG: '.285'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Reimer
+  nameFirst: Donald
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '123'
+  AB: '470'
+  R: '91'
+  H: '133'
+  TB: '160'
+  H2B: '11'
+  H3B: '5'
+  HR: '2'
+  SH: '9'
+  SB: '10'
+  BB: '104'
+  HP: '2'
+  RBI: '45'
+  SO: '34'
+  AVG: '.283'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Zuccato
+  nameFirst: Richard
+  nameClub1: Daytona Beach
+  G: '114'
+  AB: '399'
+  R: '69'
+  H: '113'
+  TB: '175'
+  H2B: '28'
+  H3B: '5'
+  HR: '8'
+  SH: '11'
+  SB: '4'
+  BB: '39'
+  HP: '0'
+  RBI: '64'
+  SO: '43'
+  AVG: '.283'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Skorupski
+  nameFirst: John
+  nameClub1: Daytona Beach
+  G: '135'
+  AB: '497'
+  R: '88'
+  H: '140'
+  TB: '203'
+  H2B: '18'
+  H3B: '9'
+  HR: '9'
+  SH: '9'
+  SB: '13'
+  BB: '57'
+  HP: '12'
+  RBI: '80'
+  SO: '106'
+  AVG: '.282'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Skelton
+  nameFirst: Robert W.
+  nameClub1: Sanford
+  G: '25'
+  AB: '78'
+  R: '19'
+  H: '22'
+  TB: '29'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '6'
+  BB: '19'
+  HP: '0'
+  RBI: '11'
+  SO: '11'
+  AVG: '.282'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: O'Toole
+  nameFirst: James
+  nameClub1: DeLand
+  nameClub2: Leesburg
+  G: '11'
+  AB: '32'
+  R: '3'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  AVG: '.281'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Baird
+  nameFirst: Charles R.
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '21'
+  AB: '50'
+  R: '11'
+  H: '14'
+  TB: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '22'
+  HP: '0'
+  RBI: '7'
+  SO: '6'
+  AVG: '.280'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Zingone
+  nameFirst: Vincent
+  nameClub1: Orlando
+  G: '75'
+  AB: '276'
+  R: '62'
+  H: '77'
+  TB: '113'
+  H2B: '11'
+  H3B: '5'
+  HR: '5'
+  SH: '2'
+  SB: '7'
+  BB: '46'
+  HP: '3'
+  RBI: '39'
+  SO: '36'
+  AVG: '.279'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Mayling
+  nameFirst: Rudolph M.
+  nameClub1: Cocoa
+  nameClub2: Daytona Beach
+  G: '117'
+  AB: '382'
+  R: '69'
+  H: '105'
+  TB: '155'
+  H2B: '23'
+  H3B: '9'
+  HR: '3'
+  SH: '4'
+  SB: '9'
+  BB: '71'
+  HP: '3'
+  RBI: '69'
+  SO: '52'
+  AVG: '.275'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Harris
+  nameFirst: William E.
+  nameClub1: Sanford
+  G: '94'
+  AB: '378'
+  R: '40'
+  H: '104'
+  TB: '137'
+  H2B: '18'
+  H3B: '3'
+  HR: '3'
+  SH: '5'
+  SB: '25'
+  BB: '24'
+  HP: '2'
+  RBI: '77'
+  SO: '33'
+  AVG: '.275'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Westbrook
+  nameFirst: Price V.
+  nameClub1: Sanford
+  bats: L
+  G: '43'
+  AB: '150'
+  R: '22'
+  H: '41'
+  TB: '56'
+  H2B: '11'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '29'
+  HP: '0'
+  RBI: '18'
+  SO: '19'
+  AVG: '.273'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kiernan
+  nameFirst: Clarence F.
+  nameClub1: DeLand
+  G: '66'
+  AB: '232'
+  R: '32'
+  H: '62'
+  TB: '82'
+  H2B: '14'
+  H3B: '3'
+  HR: '0'
+  SH: '4'
+  SB: '5'
+  BB: '27'
+  HP: '2'
+  RBI: '42'
+  SO: '25'
+  AVG: '.269'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Thurman
+  nameFirst: Dewey W.
+  nameClub1: Cocoa
+  bats: L
+  G: '133'
+  AB: '513'
+  R: '77'
+  H: '137'
+  TB: '187'
+  H2B: '27'
+  H3B: '4'
+  HR: '5'
+  SH: '7'
+  SB: '6'
+  BB: '63'
+  HP: '8'
+  RBI: '97'
+  SO: '33'
+  AVG: '.267'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Martinez
+  nameFirst: Enio
+  nameClub1: Cocoa
+  nameClub2: Palatka/Lakeland
+  G: '107'
+  AB: '384'
+  R: '65'
+  H: '102'
+  TB: '124'
+  H2B: '12'
+  H3B: '5'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '56'
+  HP: '6'
+  RBI: '32'
+  SO: '26'
+  AVG: '.266'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Smeltzly
+  nameFirst: Harold M.
+  nameClub1: Palatka/Lakeland
+  G: '78'
+  AB: '288'
+  R: '50'
+  H: '76'
+  TB: '114'
+  H2B: '11'
+  H3B: '6'
+  HR: '5'
+  SH: '5'
+  SB: '19'
+  BB: '31'
+  HP: '3'
+  RBI: '42'
+  SO: '66'
+  AVG: '.264'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Busma
+  nameFirst: Walter J.
+  nameClub1: Cocoa
+  bats: L
+  G: '80'
+  AB: '265'
+  R: '63'
+  H: '70'
+  TB: '87'
+  H2B: '11'
+  H3B: '0'
+  HR: '2'
+  SH: '4'
+  SB: '10'
+  BB: '76'
+  HP: '4'
+  RBI: '45'
+  SO: '27'
+  AVG: '.264'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Arendt
+  nameFirst: Robert W.
+  nameClub1: Palatka/Lakeland
+  G: '131'
+  AB: '488'
+  R: '82'
+  H: '128'
+  TB: '184'
+  H2B: '21'
+  H3B: '7'
+  HR: '7'
+  SH: '4'
+  SB: '29'
+  BB: '79'
+  HP: '11'
+  RBI: '61'
+  SO: '84'
+  AVG: '.262'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Pompelia
+  nameFirst: August
+  nameClub1: Jacksonville Beach
+  G: '104'
+  AB: '427'
+  R: '82'
+  H: '112'
+  TB: '128'
+  H2B: '10'
+  H3B: '3'
+  HR: '0'
+  SH: '5'
+  SB: '3'
+  BB: '64'
+  HP: '1'
+  RBI: '42'
+  SO: '30'
+  AVG: '.262'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Bass
+  nameFirst: Billy
+  nameClub1: Palatka/Lakeland
+  nameClub2: Leesburg
+  G: '50'
+  AB: '92'
+  R: '16'
+  H: '24'
+  TB: '25'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '1'
+  BB: '16'
+  HP: '0'
+  RBI: '10'
+  SO: '13'
+  AVG: '.261'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: McGuire
+  nameFirst: Edward P.
+  nameClub1: Leesburg
+  G: '35'
+  AB: '104'
+  R: '12'
+  H: '27'
+  TB: '31'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '8'
+  SO: '16'
+  AVG: '.260'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hatfield
+  nameFirst: Sidney
+  nameClub1: Jacksonville Beach
+  G: '18'
+  AB: '73'
+  R: '6'
+  H: '19'
+  TB: '21'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '3'
+  HP: '1'
+  RBI: '14'
+  SO: '7'
+  AVG: '.260'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Houseknecht
+  nameFirst: Edward J.
+  nameClub1: Orlando
+  G: '86'
+  AB: '316'
+  R: '50'
+  H: '82'
+  TB: '111'
+  H2B: '9'
+  H3B: '10'
+  HR: '0'
+  SH: '3'
+  SB: '12'
+  BB: '57'
+  HP: '3'
+  RBI: '37'
+  SO: '49'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Baer
+  nameFirst: Roger W.
+  nameClub1: Palatka/Lakeland
+  G: '76'
+  AB: '239'
+  R: '21'
+  H: '62'
+  TB: '69'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '2'
+  BB: '43'
+  HP: '1'
+  RBI: '28'
+  SO: '50'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Lowery
+  nameFirst: J. L.
+  nameClub1: Orlando
+  bats: L
+  G: '69'
+  AB: '263'
+  R: '51'
+  H: '68'
+  TB: '89'
+  H2B: '9'
+  H3B: '3'
+  HR: '2'
+  SH: '2'
+  SB: '14'
+  BB: '38'
+  HP: '2'
+  RBI: '36'
+  SO: '29'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hartman
+  nameFirst: Frank
+  nameClub1: Sanford
+  G: '21'
+  AB: '62'
+  R: '7'
+  H: '16'
+  TB: '22'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '10'
+  HP: '0'
+  RBI: '6'
+  SO: '17'
+  AVG: '.258'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Docker
+  nameFirst: Joseph J.
+  nameClub1: Cocoa
+  G: '64'
+  AB: '238'
+  R: '51'
+  H: '61'
+  TB: '88'
+  H2B: '12'
+  H3B: '3'
+  HR: '3'
+  SH: '11'
+  SB: '13'
+  BB: '50'
+  HP: '1'
+  RBI: '43'
+  SO: '52'
+  AVG: '.256'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Payne
+  nameFirst: Harold
+  nameClub1: Jacksonville Beach
+  G: '21'
+  AB: '55'
+  R: '4'
+  H: '14'
+  TB: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '8'
+  HP: '3'
+  RBI: '6'
+  SO: '7'
+  AVG: '.255'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Cimmino
+  nameFirst: Vincent
+  nameClub1: Leesburg
+  G: '13'
+  AB: '12'
+  R: '2'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Liverman
+  nameFirst: Leonard
+  nameClub1: Orlando
+  bats: L
+  G: '11'
+  AB: '20'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wise
+  nameFirst: Howard R.
+  nameClub1: Orlando
+  bats: L
+  G: '30'
+  AB: '85'
+  R: '12'
+  H: '21'
+  TB: '22'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '11'
+  SO: '19'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wiecek
+  nameFirst: Frank
+  nameClub1: Orlando
+  G: '85'
+  AB: '301'
+  R: '39'
+  H: '73'
+  TB: '93'
+  H2B: '10'
+  H3B: '5'
+  HR: '0'
+  SH: '7'
+  SB: '2'
+  BB: '36'
+  HP: '0'
+  RBI: '34'
+  SO: '67'
+  AVG: '.243'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Garcia
+  nameFirst: Louis
+  nameClub1: Cocoa
+  nameClub2: DeLand
+  G: '63'
+  AB: '214'
+  R: '33'
+  H: '52'
+  TB: '56'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '35'
+  HP: '0'
+  RBI: '31'
+  SO: '16'
+  AVG: '.243'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: West
+  nameFirst: John H.
+  nameClub1: Jacksonville Beach
+  G: '20'
+  AB: '74'
+  R: '3'
+  H: '18'
+  TB: '19'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '9'
+  HP: '0'
+  RBI: '6'
+  SO: '4'
+  AVG: '.243'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wyatt
+  nameFirst: Billy E.
+  nameClub1: Leesburg
+  G: '49'
+  AB: '198'
+  R: '29'
+  H: '48'
+  TB: '55'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '1'
+  BB: '26'
+  HP: '1'
+  RBI: '6'
+  SO: '22'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sykes
+  nameFirst: John
+  nameClub1: Palatka/Lakeland
+  G: '76'
+  AB: '313'
+  R: '47'
+  H: '75'
+  TB: '96'
+  H2B: '4'
+  H3B: '7'
+  HR: '1'
+  SH: '6'
+  SB: '4'
+  BB: '30'
+  HP: '2'
+  RBI: '26'
+  SO: '41'
+  AVG: '.240'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sloan
+  nameFirst: James E.
+  nameClub1: Orlando
+  bats: L
+  G: '119'
+  AB: '469'
+  R: '60'
+  H: '112'
+  TB: '161'
+  H2B: '21'
+  H3B: '8'
+  HR: '4'
+  SH: '13'
+  SB: '14'
+  BB: '47'
+  HP: '5'
+  RBI: '60'
+  SO: '80'
+  AVG: '.239'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Williamson
+  nameFirst: Martin E.
+  nameClub1: Palatka/Lakeland
+  G: '45'
+  AB: '155'
+  R: '13'
+  H: '37'
+  TB: '40'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '10'
+  HP: '1'
+  RBI: '15'
+  SO: '23'
+  AVG: '.239'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wise
+  nameFirst: Merle L.
+  nameClub1: Sanford
+  G: '27'
+  AB: '92'
+  R: '8'
+  H: '22'
+  TB: '30'
+  H2B: '2'
+  H3B: '0'
+  HR: '2'
+  SH: '2'
+  SB: '3'
+  BB: '6'
+  HP: '2'
+  RBI: '10'
+  SO: '20'
+  AVG: '.239'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Gandolfi
+  nameFirst: Alfred
+  nameClub1: Leesburg
+  bats: L
+  G: '119'
+  AB: '391'
+  R: '67'
+  H: '93'
+  TB: '131'
+  H2B: '15'
+  H3B: '7'
+  HR: '3'
+  SH: '7'
+  SB: '23'
+  BB: '78'
+  HP: '8'
+  RBI: '43'
+  SO: '92'
+  AVG: '.238'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Benedict
+  nameFirst: Cletus W.
+  nameClub1: Sanford
+  bats: L
+  G: '57'
+  AB: '189'
+  R: '28'
+  H: '45'
+  TB: '56'
+  H2B: '4'
+  H3B: '2'
+  HR: '1'
+  SH: '5'
+  SB: '9'
+  BB: '35'
+  HP: '6'
+  RBI: '27'
+  SO: '42'
+  AVG: '.238'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Boyd
+  nameFirst: Lincoln
+  nameClub1: Leesburg
+  G: '88'
+  AB: '323'
+  R: '56'
+  H: '77'
+  TB: '118'
+  H2B: '15'
+  H3B: '1'
+  HR: '8'
+  SH: '1'
+  SB: '15'
+  BB: '68'
+  HP: '2'
+  RBI: '57'
+  SO: '49'
+  AVG: '.238'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Alborano
+  nameFirst: Peter J.
+  nameClub1: Palatka/Lakeland
+  nameClub2: Cocoa
+  bats: L
+  G: '25'
+  AB: '76'
+  R: '14'
+  H: '18'
+  TB: '22'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '16'
+  HP: '1'
+  RBI: '6'
+  SO: '26'
+  AVG: '.237'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Seoane
+  nameFirst: Manuel
+  nameClub1: Palatka/Lakeland
+  G: '16'
+  AB: '38'
+  R: '4'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '4'
+  SO: '3'
+  AVG: '.237'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Fidler
+  nameFirst: Lamar
+  nameClub1: DeLand
+  nameClub2: Cocoa
+  G: '130'
+  AB: '500'
+  R: '73'
+  H: '118'
+  TB: '180'
+  H2B: '11'
+  H3B: '9'
+  HR: '11'
+  SH: '9'
+  SB: '7'
+  BB: '49'
+  HP: '3'
+  RBI: '100'
+  SO: '59'
+  AVG: '.236'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: McClamrock
+  nameFirst: Kenneth R.
+  nameClub1: Orlando
+  G: '47'
+  AB: '119'
+  R: '18'
+  H: '28'
+  TB: '37'
+  H2B: '5'
+  H3B: '2'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '17'
+  SO: '20'
+  AVG: '.235'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Clarich
+  nameFirst: James R.
+  nameClub1: DeLand
+  G: '48'
+  AB: '124'
+  R: '15'
+  H: '29'
+  TB: '40'
+  H2B: '6'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '12'
+  SO: '30'
+  AVG: '.234'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Vadimsky
+  nameFirst: Edward
+  nameClub1: Cocoa
+  G: '118'
+  AB: '412'
+  R: '46'
+  H: '96'
+  TB: '118'
+  H2B: '13'
+  H3B: '0'
+  HR: '3'
+  SH: '9'
+  SB: '2'
+  BB: '40'
+  HP: '7'
+  RBI: '65'
+  SO: '62'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Barone
+  nameFirst: Anthony
+  nameClub1: Sanford
+  G: '92'
+  AB: '309'
+  R: '77'
+  H: '72'
+  TB: '82'
+  H2B: '10'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '16'
+  BB: '99'
+  HP: '4'
+  RBI: '29'
+  SO: '39'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kolker
+  nameFirst: James H.
+  nameClub1: Cocoa
+  nameClub2: Leesburg
+  G: '57'
+  AB: '210'
+  R: '19'
+  H: '49'
+  TB: '60'
+  H2B: '9'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '4'
+  BB: '22'
+  HP: '1'
+  RBI: '24'
+  SO: '14'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameFirst: M. W.
+  nameClub1: DeLand
+  nameClub2: Palatka/Lakeland
+  G: '28'
+  AB: '86'
+  R: '15'
+  H: '20'
+  TB: '24'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '10'
+  SO: '18'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Filkins
+  nameFirst: Leslie
+  nameClub1: Orlando
+  G: '75'
+  AB: '238'
+  R: '43'
+  H: '55'
+  TB: '86'
+  H2B: '7'
+  H3B: '3'
+  HR: '6'
+  SH: '3'
+  SB: '1'
+  BB: '57'
+  HP: '2'
+  RBI: '33'
+  SO: '59'
+  AVG: '.231'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Thrift
+  nameFirst: Sydnor W.
+  nameClub1: Leesburg
+  bats: L
+  G: '72'
+  AB: '260'
+  R: '30'
+  H: '60'
+  TB: '84'
+  H2B: '13'
+  H3B: '1'
+  HR: '3'
+  SH: '5'
+  SB: '7'
+  BB: '37'
+  HP: '3'
+  RBI: '28'
+  SO: '45'
+  AVG: '.231'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Chuba
+  nameFirst: Stephen
+  nameClub1: Jacksonville Beach
+  G: '11'
+  AB: '35'
+  R: '4'
+  H: '8'
+  TB: '12'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '6'
+  SO: '10'
+  AVG: '.229'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Weeks
+  nameFirst: Troy
+  nameClub1: Palatka/Lakeland
+  G: '17'
+  AB: '57'
+  R: '5'
+  H: '13'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '8'
+  SO: '13'
+  AVG: '.228'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Roberts
+  nameFirst: Robert D.
+  nameClub1: Palatka/Lakeland
+  G: '122'
+  AB: '437'
+  R: '35'
+  H: '99'
+  TB: '124'
+  H2B: '18'
+  H3B: '2'
+  HR: '1'
+  SH: '4'
+  SB: '5'
+  BB: '43'
+  HP: '4'
+  RBI: '61'
+  SO: '74'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ford
+  nameFirst: Donald E.
+  nameClub1: Orlando
+  nameClub2: Jacksonville Beach
+  G: '58'
+  AB: '225'
+  R: '29'
+  H: '51'
+  TB: '61'
+  H2B: '7'
+  H3B: '0'
+  HR: '1'
+  SH: '9'
+  SB: '9'
+  BB: '28'
+  HP: '1'
+  RBI: '46'
+  SO: '9'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameFirst: William E.
+  nameClub1: Daytona Beach
+  bats: L
+  G: '46'
+  AB: '97'
+  R: '13'
+  H: '22'
+  TB: '23'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '15'
+  SO: '20'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Abrams
+  nameFirst: Alex J.
+  nameClub1: Orlando
+  bats: L
+  G: '17'
+  AB: '44'
+  R: '4'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '11'
+  HP: '1'
+  RBI: '6'
+  SO: '12'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Young
+  nameFirst: Harmon
+  nameClub1: Jacksonville Beach
+  G: '26'
+  AB: '93'
+  R: '12'
+  H: '21'
+  TB: '32'
+  H2B: '3'
+  H3B: '1'
+  HR: '2'
+  SH: '1'
+  SB: '0'
+  BB: '17'
+  HP: '1'
+  RBI: '16'
+  SO: '15'
+  AVG: '.226'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Caldwell
+  nameFirst: A. J.
+  nameClub1: Leesburg
+  nameClub2: Cocoa
+  G: '76'
+  AB: '244'
+  R: '39'
+  H: '55'
+  TB: '77'
+  H2B: '14'
+  H3B: '1'
+  HR: '2'
+  SH: '6'
+  SB: '4'
+  BB: '39'
+  HP: '3'
+  RBI: '32'
+  SO: '40'
+  AVG: '.225'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hamm
+  nameFirst: Bascom
+  nameClub1: Palatka/Lakeland
+  G: '48'
+  AB: '89'
+  R: '5'
+  H: '20'
+  TB: '20'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '2'
+  BB: '7'
+  HP: '0'
+  RBI: '3'
+  SO: '26'
+  AVG: '.225'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Simard
+  nameFirst: Leo
+  nameClub1: Cocoa
+  nameClub2: Palatka/Lakeland
+  bats: S
+  G: '52'
+  AB: '126'
+  R: '13'
+  H: '28'
+  TB: '34'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '41'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Lopez
+  nameFirst: Francisco
+  nameClub1: Cocoa
+  bats: L
+  G: '48'
+  AB: '117'
+  R: '15'
+  H: '26'
+  TB: '33'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '20'
+  HP: '0'
+  RBI: '19'
+  SO: '21'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Craumer
+  nameFirst: Ernest
+  nameClub1: Daytona Beach
+  bats: L
+  G: '40'
+  AB: '72'
+  R: '10'
+  H: '16'
+  TB: '20'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '5'
+  HP: '3'
+  RBI: '7'
+  SO: '15'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kelly
+  nameFirst: Kenneth L.
+  nameClub1: Leesburg
+  G: '33'
+  AB: '109'
+  R: '15'
+  H: '22'
+  TB: '23'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '4'
+  BB: '10'
+  HP: '1'
+  RBI: '4'
+  SO: '24'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Angel
+  nameFirst: Joe R. L.
+  nameClub1: Jacksonville Beach
+  G: '56'
+  AB: '131'
+  R: '14'
+  H: '29'
+  TB: '32'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '13'
+  HP: '2'
+  RBI: '13'
+  SO: '27'
+  AVG: '.221'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Johnson
+  nameFirst: Orland
+  nameClub1: Cocoa
+  G: '16'
+  AB: '68'
+  R: '7'
+  H: '15'
+  TB: '15'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '1'
+  BB: '7'
+  HP: '1'
+  RBI: '9'
+  SO: '15'
+  AVG: '.221'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Urquhart
+  nameFirst: Donald F.
+  nameClub1: Leesburg
+  G: '21'
+  AB: '59'
+  R: '11'
+  H: '13'
+  TB: '13'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '5'
+  HP: '0'
+  RBI: '10'
+  SO: '10'
+  AVG: '.220'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Jones
+  nameFirst: Robert D.
+  nameClub1: Cocoa
+  bats: S
+  G: '49'
+  AB: '188'
+  R: '25'
+  H: '41'
+  TB: '47'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '7'
+  BB: '30'
+  HP: '1'
+  RBI: '16'
+  SO: '36'
+  AVG: '.218'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Dunbar
+  nameFirst: Thompson
+  nameClub1: Leesburg
+  bats: L
+  G: '47'
+  AB: '170'
+  R: '23'
+  H: '37'
+  TB: '62'
+  H2B: '11'
+  H3B: '1'
+  HR: '4'
+  SH: '0'
+  SB: '3'
+  BB: '28'
+  HP: '4'
+  RBI: '31'
+  SO: '36'
+  AVG: '.218'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Blodgett
+  nameFirst: John O.
+  nameClub1: DeLand
+  G: '26'
+  AB: '60'
+  R: '9'
+  H: '13'
+  TB: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '5'
+  SO: '14'
+  AVG: '.217'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Saye
+  nameFirst: Warren C.
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '18'
+  AB: '69'
+  R: '9'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '3'
+  BB: '7'
+  HP: '0'
+  RBI: '10'
+  SO: '10'
+  AVG: '.217'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Reinert
+  nameFirst: Clyde
+  nameClub1: Jacksonville Beach
+  G: '125'
+  AB: '467'
+  R: '71'
+  H: '100'
+  TB: '122'
+  H2B: '10'
+  H3B: '3'
+  HR: '2'
+  SH: '4'
+  SB: '7'
+  BB: '63'
+  HP: '3'
+  RBI: '61'
+  SO: '48'
+  AVG: '.214'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Vickery
+  nameFirst: James A.
+  nameClub1: DeLand
+  G: '36'
+  AB: '98'
+  R: '9'
+  H: '21'
+  TB: '26'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '9'
+  SO: '14'
+  AVG: '.214'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Noles
+  nameFirst: Robert R.
+  nameClub1: Orlando
+  G: '119'
+  AB: '472'
+  R: '58'
+  H: '100'
+  TB: '119'
+  H2B: '11'
+  H3B: '4'
+  HR: '0'
+  SH: '8'
+  SB: '11'
+  BB: '38'
+  HP: '2'
+  RBI: '43'
+  SO: '55'
+  AVG: '.212'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Billings
+  nameFirst: Frank
+  nameClub1: Orlando
+  bats: L
+  G: '72'
+  AB: '226'
+  R: '39'
+  H: '48'
+  TB: '67'
+  H2B: '7'
+  H3B: '3'
+  HR: '2'
+  SH: '0'
+  SB: '3'
+  BB: '40'
+  HP: '6'
+  RBI: '25'
+  SO: '57'
+  AVG: '.212'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Brumfield
+  nameFirst: J. J.
+  nameClub1: Orlando
+  nameClub2: Cocoa
+  bats: L
+  G: '28'
+  AB: '52'
+  R: '3'
+  H: '11'
+  TB: '14'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '3'
+  HP: '1'
+  RBI: '5'
+  SO: '8'
+  AVG: '.212'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Walker
+  nameFirst: John
+  nameClub1: Orlando
+  bats: L
+  G: '25'
+  AB: '95'
+  R: '7'
+  H: '20'
+  TB: '30'
+  H2B: '4'
+  H3B: '0'
+  HR: '2'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '12'
+  SO: '20'
+  AVG: '.211'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Thorpe
+  nameFirst: Charles J.
+  nameClub1: DeLand
+  bats: S
+  G: '34'
+  AB: '124'
+  R: '32'
+  H: '26'
+  TB: '34'
+  H2B: '1'
+  H3B: '2'
+  HR: '1'
+  SH: '2'
+  SB: '4'
+  BB: '33'
+  HP: '6'
+  RBI: '7'
+  SO: '33'
+  AVG: '.210'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Trump
+  nameFirst: Bobby
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '111'
+  AB: '363'
+  R: '41'
+  H: '76'
+  TB: '89'
+  H2B: '7'
+  H3B: '3'
+  HR: '0'
+  SH: '9'
+  SB: '6'
+  BB: '44'
+  HP: '7'
+  RBI: '36'
+  SO: '64'
+  AVG: '.209'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Palmieri
+  nameFirst: Ernest
+  nameClub1: Sanford
+  G: '56'
+  AB: '129'
+  R: '14'
+  H: '27'
+  TB: '33'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '2'
+  BB: '20'
+  HP: '1'
+  RBI: '12'
+  SO: '27'
+  AVG: '.209'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Whitely
+  nameFirst: Lawrence
+  nameClub1: Orlando
+  G: '58'
+  AB: '227'
+  R: '21'
+  H: '47'
+  TB: '60'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  SH: '4'
+  SB: '1'
+  BB: '15'
+  HP: '2'
+  RBI: '22'
+  SO: '55'
+  AVG: '.207'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Brandenburg
+  nameFirst: James R.
+  nameClub1: Orlando
+  G: '20'
+  AB: '82'
+  R: '12'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '3'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '11'
+  AVG: '.207'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hegy
+  nameFirst: Frank J.
+  nameClub1: Orlando
+  G: '26'
+  AB: '78'
+  R: '14'
+  H: '16'
+  TB: '17'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '18'
+  HP: '4'
+  RBI: '10'
+  SO: '21'
+  AVG: '.205'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Caruso
+  nameFirst: Donald R.
+  nameClub1: Orlando
+  G: '12'
+  AB: '39'
+  R: '5'
+  H: '8'
+  TB: '10'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  AVG: '.205'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hazen
+  nameFirst: Jack E.
+  nameClub1: Jacksonville Beach
+  G: '29'
+  AB: '64'
+  R: '11'
+  H: '13'
+  TB: '16'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '16'
+  HP: '0'
+  RBI: '11'
+  SO: '14'
+  AVG: '.203'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Corso
+  nameFirst: Joseph
+  nameClub1: Cocoa
+  nameClub2: Palatka/Lakeland
+  G: '109'
+  AB: '338'
+  R: '64'
+  H: '68'
+  TB: '77'
+  H2B: '7'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '16'
+  BB: '100'
+  HP: '1'
+  RBI: '22'
+  SO: '58'
+  AVG: '.201'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Rogers
+  nameFirst: Curtis A.
+  nameClub1: Leesburg
+  bats: L
+  G: '19'
+  AB: '40'
+  R: '1'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '15'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameFirst: James H.
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '12'
+  AB: '45'
+  R: '3'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Dotson
+  nameFirst: Richard A.
+  nameClub1: Palatka/Lakeland
+  G: '17'
+  AB: '46'
+  R: '6'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '4'
+  AVG: '.196'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Crosson
+  nameFirst: Donald
+  nameClub1: Cocoa
+  G: '23'
+  AB: '41'
+  R: '10'
+  H: '8'
+  TB: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '2'
+  SO: '11'
+  AVG: '.195'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ingram
+  nameFirst: Clarence E.
+  nameClub1: Sanford
+  G: '38'
+  AB: '78'
+  R: '11'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '7'
+  SO: '16'
+  AVG: '.192'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Zimmerman
+  nameFirst: William
+  nameClub1: Daytona Beach
+  bats: L
+  G: '17'
+  AB: '52'
+  R: '6'
+  H: '10'
+  TB: '15'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '8'
+  SO: '20'
+  AVG: '.192'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Frazier
+  nameFirst: Virgil
+  nameClub1: Cocoa
+  G: '69'
+  AB: '165'
+  R: '31'
+  H: '31'
+  TB: '39'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  SH: '8'
+  SB: '1'
+  BB: '59'
+  HP: '2'
+  RBI: '14'
+  SO: '39'
+  AVG: '.188'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Mitchener
+  nameFirst: Richard
+  nameClub1: Daytona Beach
+  G: '39'
+  AB: '96'
+  R: '14'
+  H: '18'
+  TB: '22'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '9'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '24'
+  AVG: '.188'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Gaines
+  nameFirst: Fred J.
+  nameClub1: Leesburg
+  G: '43'
+  AB: '134'
+  R: '19'
+  H: '25'
+  TB: '26'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '16'
+  HP: '4'
+  RBI: '13'
+  SO: '7'
+  AVG: '.187'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Zaia
+  nameFirst: Charles
+  nameClub1: Cocoa
+  G: '11'
+  AB: '27'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '6'
+  AVG: '.185'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Samuels
+  nameFirst: William G.
+  nameClub1: Sanford
+  G: '62'
+  AB: '212'
+  R: '26'
+  H: '39'
+  TB: '52'
+  H2B: '5'
+  H3B: '1'
+  HR: '2'
+  SH: '2'
+  SB: '8'
+  BB: '47'
+  HP: '2'
+  RBI: '32'
+  SO: '66'
+  AVG: '.184'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Calvetti
+  nameFirst: Louis E.
+  nameClub1: Sanford
+  nameClub2: DeLand
+  bats: L
+  G: '26'
+  AB: '82'
+  R: '10'
+  H: '15'
+  TB: '19'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '1'
+  BB: '15'
+  HP: '1'
+  RBI: '10'
+  SO: '15'
+  AVG: '.183'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Nix
+  nameFirst: Tommy
+  nameClub1: Sanford
+  bats: L
+  G: '16'
+  AB: '67'
+  R: '12'
+  H: '12'
+  TB: '14'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '6'
+  HP: '1'
+  RBI: '4'
+  SO: '24'
+  AVG: '.179'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Browning
+  nameFirst: Leroy
+  nameClub1: Orlando
+  G: '13'
+  AB: '39'
+  R: '2'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '5'
+  AVG: '.179'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Byrd
+  nameFirst: Murray F.
+  nameClub1: Sanford
+  G: '10'
+  AB: '28'
+  R: '5'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '2'
+  SO: '6'
+  AVG: '.179'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Calloway
+  nameFirst: Donald G.
+  nameClub1: Cocoa
+  bats: L
+  G: '59'
+  AB: '175'
+  R: '28'
+  H: '31'
+  TB: '46'
+  H2B: '4'
+  H3B: '1'
+  HR: '3'
+  SH: '5'
+  SB: '0'
+  BB: '37'
+  HP: '5'
+  RBI: '24'
+  SO: '42'
+  AVG: '.177'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Padreda
+  nameFirst: Camilo
+  nameClub1: Orlando
+  G: '15'
+  AB: '40'
+  R: '3'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '19'
+  HP: '0'
+  RBI: '4'
+  SO: '7'
+  AVG: '.175'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Geary
+  nameFirst: Henry T.
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '39'
+  AB: '144'
+  R: '22'
+  H: '25'
+  TB: '31'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '4'
+  BB: '31'
+  HP: '0'
+  RBI: '18'
+  SO: '27'
+  AVG: '.174'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Vastano
+  nameFirst: Patrick
+  nameClub1: Jacksonville Beach
+  G: '30'
+  AB: '72'
+  R: '14'
+  H: '12'
+  TB: '15'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '16'
+  HP: '2'
+  RBI: '10'
+  SO: '10'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Gray
+  nameFirst: Zack
+  nameClub1: Daytona Beach
+  G: '21'
+  AB: '30'
+  R: '3'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '18'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Phillips
+  nameFirst: William E.
+  nameClub1: Leesburg
+  G: '15'
+  AB: '42'
+  R: '3'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '15'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ortega
+  nameFirst: Rolando
+  nameClub1: Leesburg
+  G: '67'
+  AB: '152'
+  R: '8'
+  H: '25'
+  TB: '29'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '6'
+  SB: '2'
+  BB: '19'
+  HP: '2'
+  RBI: '15'
+  SO: '10'
+  AVG: '.164'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Daviault
+  nameFirst: R. J. R.
+  nameClub1: Cocoa
+  G: '19'
+  AB: '55'
+  R: '1'
+  H: '9'
+  TB: '12'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '14'
+  AVG: '.164'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Gary
+  nameFirst: Louis A.
+  nameClub1: Sanford
+  G: '42'
+  AB: '155'
+  R: '18'
+  H: '25'
+  TB: '28'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '5'
+  BB: '23'
+  HP: '0'
+  RBI: '15'
+  SO: '25'
+  AVG: '.161'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Scargle
+  nameFirst: John R.
+  nameClub1: Palatka/Lakeland
+  G: '27'
+  AB: '50'
+  R: '7'
+  H: '8'
+  TB: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '4'
+  SO: '6'
+  AVG: '.160'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Patten
+  nameFirst: Roger
+  nameClub1: Palatka/Lakeland
+  nameClub2: DeLand
+  bats: L
+  G: '14'
+  AB: '25'
+  R: '3'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '9'
+  AVG: '.160'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Folkert
+  nameFirst: Robert E.
+  nameClub1: Sanford
+  bats: L
+  G: '16'
+  AB: '63'
+  R: '7'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '13'
+  HP: '0'
+  RBI: '12'
+  SO: '10'
+  AVG: '.159'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Donato
+  nameFirst: Carmen
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '10'
+  AB: '19'
+  R: '2'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.158'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Pruett
+  nameFirst: Joseph A.
+  nameClub1: Leesburg
+  G: '88'
+  AB: '305'
+  R: '32'
+  H: '48'
+  TB: '65'
+  H2B: '12'
+  H3B: '1'
+  HR: '1'
+  SH: '5'
+  SB: '5'
+  BB: '31'
+  HP: '2'
+  RBI: '26'
+  SO: '131'
+  AVG: '.157'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Barrow
+  nameFirst: Gilbert E.
+  nameClub1: DeLand
+  G: '71'
+  AB: '235'
+  R: '20'
+  H: '37'
+  TB: '41'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '8'
+  SB: '3'
+  BB: '36'
+  HP: '1'
+  RBI: '18'
+  SO: '65'
+  AVG: '.155'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Krogel
+  nameFirst: Philip R.
+  nameClub1: DeLand
+  G: '10'
+  AB: '33'
+  R: '5'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '4'
+  SO: '7'
+  AVG: '.152'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Caron
+  nameFirst: Barthelmy
+  nameClub1: Palatka/Lakeland
+  nameClub2: DeLand
+  G: '27'
+  AB: '81'
+  R: '13'
+  H: '12'
+  TB: '15'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '13'
+  HP: '1'
+  RBI: '6'
+  SO: '28'
+  AVG: '.148'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Leavell
+  nameFirst: Jimmy
+  nameClub1: Orlando
+  G: '29'
+  AB: '57'
+  R: '7'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '9'
+  AVG: '.140'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Exter
+  nameFirst: David I.
+  nameClub1: Cocoa
+  nameClub2: DeLand
+  G: '39'
+  AB: '30'
+  R: '4'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '1'
+  SO: '9'
+  AVG: '.133'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Green
+  nameFirst: Lester
+  nameClub1: Leesburg
+  bats: S
+  G: '21'
+  AB: '60'
+  R: '11'
+  H: '8'
+  TB: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '14'
+  HP: '0'
+  RBI: '2'
+  SO: '23'
+  AVG: '.133'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Whitefleet
+  nameFirst: Robert
+  nameClub1: Cocoa
+  nameClub2: Palatka/Lakeland
+  G: '17'
+  AB: '23'
+  R: '4'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '8'
+  AVG: '.130'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Moreno
+  nameFirst: Manuel
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '15'
+  AB: '47'
+  R: '5'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '13'
+  HP: '0'
+  RBI: '2'
+  SO: '11'
+  AVG: '.128'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Cohen
+  nameFirst: Claude S.
+  nameClub1: Orlando
+  G: '14'
+  AB: '55'
+  R: '3'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '2'
+  SO: '9'
+  AVG: '.127'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Jones
+  nameFirst: William M.
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '13'
+  AB: '8'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameFirst: Norman E.
+  nameClub1: Leesburg
+  bats: L
+  G: '12'
+  AB: '32'
+  R: '3'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '1'
+  RBI: '4'
+  SO: '10'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Britt
+  nameFirst: Ray
+  nameClub1: Jacksonville Beach
+  G: '25'
+  AB: '74'
+  R: '6'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '10'
+  AVG: '.122'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Leonard
+  nameFirst: David K.
+  nameClub1: Sanford
+  G: '25'
+  AB: '51'
+  R: '6'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '6'
+  SO: '19'
+  AVG: '.118'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Funkhouser
+  nameFirst: Dewey W.
+  nameClub1: Palatka/Lakeland
+  G: '18'
+  AB: '45'
+  R: '1'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Garrett
+  nameFirst: Harold
+  nameClub1: Orlando
+  G: '20'
+  AB: '68'
+  R: '7'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '5'
+  SO: '18'
+  AVG: '.103'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Flanigan
+  nameFirst: Cheri Jim
+  nameClub1: Sanford
+  G: '12'
+  AB: '31'
+  R: '2'
+  H: '3'
+  TB: '6'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '7'
+  AVG: '.097'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Aderholt
+  nameFirst: James C.
+  nameClub1: Orlando
+  G: '11'
+  AB: '11'
+  R: '4'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.091'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Galucci
+  nameFirst: Joseph W.
+  nameClub1: Palatka/Lakeland
+  G: '17'
+  AB: '56'
+  R: '9'
+  H: '5'
+  TB: '7'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '12'
+  HP: '0'
+  RBI: '1'
+  SO: '22'
+  AVG: '.089'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Parnell
+  nameFirst: Wayne
+  nameClub1: Leesburg
+  nameClub2: Palatka/Lakeland
+  bats: L
+  G: '11'
+  AB: '45'
+  R: '7'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '11'
+  AVG: '.089'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Skaza
+  nameFirst: Stanley
+  nameClub1: Daytona Beach
+  G: '18'
+  AB: '25'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '1'
+  SO: '14'
+  AVG: '.080'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Walton
+  nameFirst: Earl D.
+  nameClub1: Orlando
+  G: '14'
+  AB: '25'
+  R: '2'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '0'
+  SO: '9'
+  AVG: '.080'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Richards
+  nameFirst: Leslie
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '18'
+  AB: '38'
+  R: '1'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '17'
+  AVG: '.079'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Tuccillo
+  nameFirst: Joseph M.
+  nameClub1: Palatka/Lakeland
+  G: '30'
+  AB: '86'
+  R: '25'
+  H: '6'
+  TB: '9'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '4'
+  BB: '54'
+  HP: '2'
+  RBI: '40'
+  SO: '52'
+  AVG: '.070'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Letchworth
+  nameFirst: William A.
+  nameClub1: Cocoa
+  G: '18'
+  AB: '45'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '27'
+  AVG: '.067'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Bridges
+  nameFirst: Floyd A.
+  nameClub1: Palatka/Lakeland
+  nameClub2: Jacksonville Beach
+  bats: L
+  G: '37'
+  AB: '67'
+  R: '5'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '2'
+  SO: '26'
+  AVG: '.060'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Whitten
+  nameFirst: Dave
+  nameClub1: Jacksonville Beach
+  G: '11'
+  AB: '18'
+  R: '2'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '10'
+  AVG: '.056'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: DeChant
+  nameFirst: John A.
+  nameClub1: DeLand
+  nameClub2: Cocoa
+  G: '12'
+  AB: '20'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '6'
+  AVG: '.050'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Arena
+  nameFirst: Vincent
+  nameClub1: Orlando
+  G: '12'
+  AB: '22'
+  R: '2'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '8'
+  AVG: '.045'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Loftin
+  nameFirst: Jackie D.
+  nameClub1: Orlando
+  G: '14'
+  AB: '24'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '9'
+  AVG: '.042'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kitchen
+  nameFirst: Robert
+  nameClub1: Jacksonville Beach
+  G: '34'
+  AB: '56'
+  R: '5'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '11'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '3'
+  SO: '23'
+  AVG: '.036'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Naponen
+  nameFirst: Thomas
+  nameClub1: Palatka/Lakeland
+  nameClub2: Leesburg
+  G: '20'
+  AB: '32'
+  R: '1'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '1'
+  SO: '14'
+  AVG: '.031'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameFirst: Paul E.
+  nameClub1: Sanford
+  G: '44'
+  AB: '66'
+  R: '8'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '15'
+  HP: '1'
+  RBI: '2'
+  SO: '31'
+  AVG: '.030'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Melia
+  nameFirst: Harry F.
+  nameClub1: Sanford
+  G: '36'
+  AB: '34'
+  R: '4'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '0'
+  SO: '20'
+  AVG: '.029'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Corbett
+  nameFirst: Paul F.
+  nameClub1: Sanford
+  bats: L
+  G: '10'
+  AB: '9'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Senger
+  nameFirst: Charles G.
+  nameClub1: Palatka/Lakeland
+  G: '10'
+  AB: '16'
+  R: '2'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Cooper
+  nameFirst: Charles W.
+  nameClub1: Cocoa
+  G: '6'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hayes
+  nameFirst: Thomas J.
+  nameClub1: Cocoa
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Klein
+  nameFirst: Lewis B.
+  nameClub1: Cocoa
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Lupardo
+  nameFirst: Richard D.
+  nameClub1: Cocoa
+  bats: L
+  G: '1'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: McCardell
+  nameFirst: John
+  nameClub1: Cocoa
+  bats: L
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Rodriguez
+  nameFirst: Jose E.
+  nameClub1: Cocoa
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Roth
+  nameFirst: Leonard R.
+  nameClub1: Cocoa
+  bats: S
+  G: '3'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kovacic
+  nameFirst: Victor E.
+  nameClub1: Daytona Beach
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Meine
+  nameFirst: Howard J.
+  nameClub1: Daytona Beach
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Russell
+  nameFirst: Edward G.
+  nameClub1: Daytona Beach
+  bats: L
+  G: '7'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Stuffel
+  nameFirst: David E.
+  nameClub1: Daytona Beach
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sullivan
+  nameFirst: Clarence H.
+  nameClub1: Daytona Beach
+  G: '8'
+  AVG: '.048'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Aldridge
+  nameFirst: Roger W.
+  nameClub1: DeLand
+  G: '7'
+  AVG: '.077'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Becker
+  nameFirst: Donald M.
+  nameClub1: DeLand
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Chergey
+  nameFirst: Paul P.
+  nameClub1: DeLand
+  G: '3'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: LeBeck
+  nameFirst: E. Ross
+  nameClub1: DeLand
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Matesich
+  nameFirst: Joseph
+  nameClub1: Palatka/Lakeland
+  nameClub2: DeLand
+  G: '6'
+  AVG: '.095'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameFirst: Stanley A.
+  nameClub1: DeLand
+  bats: L
+  G: '6'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Pritchard
+  nameFirst: Jerry L.
+  nameClub1: DeLand
+  G: '4'
+  AVG: '.211'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ridenour
+  nameFirst: R. Wayne
+  nameClub1: DeLand
+  bats: S
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Roth
+  nameFirst: Tom A.
+  nameClub1: DeLand
+  G: '6'
+  AVG: '.231'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Rotola
+  nameFirst: Louis
+  nameClub1: Sanford
+  nameClub2: DeLand
+  G: '4'
+  AVG: '.071'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Titus
+  nameFirst: Ellis L.
+  nameClub1: DeLand
+  bats: L
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Warshaw
+  nameFirst: Arthur J.
+  nameClub1: DeLand
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Epps
+  nameFirst: Richard W.
+  nameClub1: Jacksonville Beach
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Griffith
+  nameFirst: Richard D.
+  nameClub1: Jacksonville Beach
+  G: '5'
+  AVG: '.375'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Jack
+  nameFirst: Richard
+  nameClub1: Jacksonville Beach
+  G: '6'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Kohlenberger
+  nameFirst: Ronald
+  nameClub1: Jacksonville Beach
+  bats: S
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Liberto
+  nameFirst: William J.
+  nameClub1: Jacksonville Beach
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Long
+  nameFirst: James M.
+  nameClub1: Jacksonville Beach
+  G: '9'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Marjenhoff
+  nameFirst: Fred E.
+  nameClub1: Jacksonville Beach
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameFirst: John R.
+  nameClub1: Jacksonville Beach
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Paruch
+  nameFirst: Edward
+  nameClub1: Jacksonville Beach
+  G: '9'
+  AVG: '.273'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Richard
+  nameFirst: John B.
+  nameClub1: Jacksonville Beach
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameFirst: Donald H.
+  nameClub1: Jacksonville Beach
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Yarborough
+  nameFirst: James W.
+  nameClub1: Jacksonville Beach
+  G: '4'
+  AVG: '.071'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Austin
+  nameFirst: Clyde W.
+  nameClub1: Palatka/Lakeland
+  G: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Goggins
+  nameFirst: Carl W.
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '9'
+  AVG: '.100'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Greenwald
+  nameFirst: John F.
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '9'
+  AVG: '.133'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Hildebrand
+  nameFirst: Gary P.
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '4'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Lopez
+  nameFirst: Boris
+  nameClub1: Palatka/Lakeland
+  G: '6'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: McCullock
+  nameFirst: John
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '5'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Moran
+  nameFirst: W. G.
+  nameClub1: Palatka/Lakeland
+  G: '6'
+  AVG: '.136'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sassano
+  nameFirst: Robert
+  nameClub1: Palatka/Lakeland
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sincore
+  nameFirst: Sam L.
+  nameClub1: Palatka/Lakeland
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sullivan
+  nameFirst: John L.
+  nameClub1: Palatka/Lakeland
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Colvin
+  nameFirst: Harvey
+  nameClub1: Leesburg
+  G: '7'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Deevers
+  nameFirst: Billy H.
+  nameClub1: Leesburg
+  bats: L
+  G: '8'
+  AVG: '.174'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ettman
+  nameFirst: Robert J.
+  nameClub1: Orlando
+  nameClub2: Leesburg
+  G: '9'
+  AVG: '.083'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Faye
+  nameFirst: Peter
+  nameClub1: Leesburg
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Griffith
+  nameFirst: James B.
+  nameClub1: Leesburg
+  G: '7'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Osborne
+  nameFirst: Wilson B.
+  nameClub1: Leesburg
+  bats: L
+  G: '3'
+  AVG: '.429'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Vladinedes
+  nameFirst: George
+  nameClub1: Palatka/Lakeland
+  nameClub2: Leesburg
+  G: '5'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wilder
+  nameFirst: Walter P.
+  nameClub1: Leesburg
+  G: '5'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Brown
+  nameFirst: Harold I.
+  nameClub1: Orlando
+  G: '8'
+  AVG: '.077'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Guarascio
+  nameFirst: Nick
+  nameClub1: Orlando
+  G: '3'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: McCormick
+  nameFirst: Ronald P.
+  nameClub1: Orlando
+  G: '7'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Nigro
+  nameFirst: Alex J.
+  nameClub1: Orlando
+  G: '4'
+  AVG: '.077'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Shifflett
+  nameFirst: Forrest
+  nameClub1: Orlando
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Teti
+  nameFirst: Louis T.
+  nameClub1: Orlando
+  G: '6'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Valmas
+  nameFirst: John J.
+  nameClub1: Orlando
+  G: '7'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wilder
+  nameFirst: Robert A.
+  nameClub1: Orlando
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Alderman
+  nameFirst: Robert E.
+  nameClub1: Palatka/Lakeland
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Anile
+  nameFirst: Joseph
+  nameClub1: Palatka/Lakeland
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ashbridge
+  nameFirst: George H.
+  nameClub1: Palatka/Lakeland
+  G: '6'
+  AVG: '.308'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ashton
+  nameFirst: Andrew
+  nameClub1: Palatka/Lakeland
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Haloff
+  nameFirst: Jerome A.
+  nameClub1: Palatka/Lakeland
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Jaworski
+  nameFirst: Richard D.
+  nameClub1: Palatka/Lakeland
+  G: '2'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Lindley
+  nameFirst: Jerry
+  nameClub1: Palatka/Lakeland
+  bats: L
+  G: '6'
+  AVG: '.208'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Rakestraw
+  nameFirst: James K.
+  nameClub1: Palatka/Lakeland
+  G: '9'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Rowe
+  nameFirst: Billy Ray
+  nameClub1: Palatka/Lakeland
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Seitz
+  nameFirst: Gordon J.
+  nameClub1: Palatka/Lakeland
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Szazynski
+  nameFirst: T. Charles
+  nameClub1: Daytona Beach
+  nameClub2: Palatka/Lakeland
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Thorpe
+  nameFirst: Charles K.
+  nameClub1: Palatka/Lakeland
+  G: '4'
+  AVG: '.091'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Werse
+  nameFirst: Edward F.
+  nameClub1: Palatka/Lakeland
+  G: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Wetherington
+  nameFirst: Milton A.
+  nameClub1: Palatka/Lakeland
+  G: '6'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Yaomans
+  nameFirst: Wastine
+  nameClub1: Palatka/Lakeland
+  G: '3'
+  AVG: '.300'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Ashcraft
+  nameFirst: Billy B.
+  nameClub1: Sanford
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Barr
+  nameFirst: Gerry E.
+  nameClub1: Sanford
+  bats: L
+  G: '6'
+  AVG: '.158'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Bruen
+  nameFirst: Richard C.
+  nameClub1: Sanford
+  bats: L
+  G: '3'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: McMurray
+  nameFirst: Paul L.
+  nameClub1: Sanford
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Mitchell
+  nameFirst: William A.
+  nameClub1: Sanford
+  G: '9'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Florida State League
+  nameLast: Sullivan
+  nameFirst: John F.
+  nameClub1: Sanford
+  G: '7'
+  AVG: '.077'

@@ -1,0 +1,66 @@
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  G: '140'
+  DP: '73'
+  TP: '0'
+  PB: '57'
+  PO: '3624'
+  A: '1505'
+  E: '282'
+  PCT: '.948'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: McAlester
+  G: '140'
+  DP: '118'
+  TP: '0'
+  PB: '33'
+  PO: '3589'
+  A: '1615'
+  E: '341'
+  PCT: '.939'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  G: '139'
+  DP: '116'
+  TP: '0'
+  PB: '79'
+  PO: '3539'
+  A: '1600'
+  E: '398'
+  PCT: '.928'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Seminole
+  G: '138'
+  DP: '92'
+  TP: '0'
+  PB: '43'
+  PO: '3462'
+  A: '1553'
+  E: '418'
+  PCT: '.923'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Ada
+  G: '137'
+  DP: '83'
+  TP: '1'
+  PB: '29'
+  PO: '3539'
+  A: '1403'
+  E: '424'
+  PCT: '.921'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Duncan
+  G: '138'
+  DP: '81'
+  TP: '0'
+  PB: '71'
+  PO: '3456'
+  A: '1454'
+  E: '535'
+  PCT: '.902'

@@ -1,0 +1,86 @@
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Jamestown
+  phase: regular
+  W: '73'
+  L: '50'
+  T: '3'
+  PCT: '.593'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '67'
+  L: '52'
+  T: '3'
+  PCT: '.563'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: regular
+  W: '65'
+  L: '54'
+  T: '4'
+  PCT: '.546'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Wausau
+  phase: regular
+  W: '61'
+  L: '59'
+  T: '4'
+  PCT: '.508'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '59'
+  L: '61'
+  T: '2'
+  PCT: '.492'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: regular
+  W: '59'
+  L: '63'
+  T: '3'
+  PCT: '.484'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Crookston
+  phase: regular
+  W: '54'
+  L: '68'
+  T: '1'
+  PCT: '.443'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: regular
+  W: '42'
+  L: '73'
+  T: '6'
+  PCT: '.365'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

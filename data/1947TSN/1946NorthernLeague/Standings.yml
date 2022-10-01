@@ -1,0 +1,118 @@
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular
+  W: '73'
+  L: '31'
+  T: '1'
+  PCT: '.702'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '63'
+  L: '41'
+  T: '2'
+  PCT: '.606'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: regular
+  W: '59'
+  L: '52'
+  T: '0'
+  PCT: '.532'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '56'
+  L: '52'
+  T: '0'
+  PCT: '.519'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular
+  W: '57'
+  L: '53'
+  T: '1'
+  PCT: '.518'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '50'
+  L: '56'
+  T: '0'
+  PCT: '.472'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Sioux Falls
+  phase: regular
+  W: '41'
+  L: '68'
+  T: '0'
+  PCT: '.376'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: regular
+  W: '30'
+  L: '76'
+  T: '2'
+  PCT: '.283'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

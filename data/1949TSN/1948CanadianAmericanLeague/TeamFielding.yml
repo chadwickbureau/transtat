@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  G: '137'
+  DP: '138'
+  TP: '1'
+  PB: '14'
+  PO: '3508'
+  A: '1545'
+  E: '217'
+  PCT: '.959'
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  G: '136'
+  DP: '103'
+  TP: '0'
+  PB: '11'
+  PO: '3451'
+  A: '1426'
+  E: '218'
+  PCT: '.957'
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Schenectady
+  G: '138'
+  DP: '105'
+  TP: '0'
+  PB: '21'
+  PO: '3602'
+  A: '1268'
+  E: '220'
+  PCT: '.957'
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  G: '139'
+  DP: '116'
+  TP: '0'
+  PB: '23'
+  PO: '3464'
+  A: '1335'
+  E: '223'
+  PCT: '.956'
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  G: '137'
+  DP: '110'
+  TP: '1'
+  PB: '17'
+  PO: '3462'
+  A: '1458'
+  E: '233'
+  PCT: '.955'
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Trois-Rivieres
+  G: '138'
+  DP: '127'
+  TP: '0'
+  PB: '14'
+  PO: '3511'
+  A: '1396'
+  E: '233'
+  PCT: '.955'
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  G: '137'
+  DP: '106'
+  TP: '0'
+  PB: '24'
+  PO: '3471'
+  A: '1394'
+  E: '240'
+  PCT: '.953'
+- year: '1948'
+  nameLeague: Canadian-American League
+  nameClub: Quebec
+  G: '138'
+  DP: '125'
+  TP: '3'
+  PB: '27'
+  PO: '3497'
+  A: '1555'
+  E: '258'
+  PCT: '.951'

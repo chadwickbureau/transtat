@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: regular
+  W: '88'
+  L: '37'
+  T: '1'
+  PCT: '.704'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: regular
+  W: '70'
+  L: '56'
+  T: '1'
+  PCT: '.556'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: regular
+  W: '69'
+  L: '57'
+  T: '0'
+  PCT: '.548'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: regular
+  W: '66'
+  L: '60'
+  T: '0'
+  PCT: '.524'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: regular
+  W: '63'
+  L: '61'
+  T: '0'
+  PCT: '.508'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: regular
+  W: '59'
+  L: '67'
+  T: '0'
+  PCT: '.468'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: regular
+  W: '46'
+  L: '78'
+  T: '0'
+  PCT: '.371'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Corning
+  phase: regular
+  W: '40'
+  L: '85'
+  T: '0'
+  PCT: '.320'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

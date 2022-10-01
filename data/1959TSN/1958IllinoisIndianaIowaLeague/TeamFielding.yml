@@ -1,0 +1,66 @@
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  G: '130'
+  DP: '128'
+  PB: '32'
+  PO: '3355'
+  A: '1405'
+  E: '177'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  G: '129'
+  DP: '129'
+  PB: '40'
+  PO: '3371'
+  A: '1399'
+  E: '185'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Green Bay
+  G: '130'
+  DP: '132'
+  PB: '22'
+  PO: '3341'
+  A: '1282'
+  E: '198'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Rochester/Winona
+  G: '130'
+  DP: '136'
+  PB: '27'
+  PO: '3406'
+  A: '1401'
+  E: '207'
+  PCT: '.959'
+  TP: '1'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Fox Cities
+  G: '129'
+  DP: '102'
+  PB: '21'
+  PO: '3310'
+  A: '1281'
+  E: '204'
+  PCT: '.957'
+  TP: '1'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  G: '130'
+  DP: '108'
+  PB: '28'
+  PO: '3384'
+  A: '1275'
+  E: '222'
+  PCT: '.955'
+  TP: '0'

@@ -1,0 +1,1691 @@
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Harrison
+  nameClub1: Meridian
+  GP: '33'
+  GS: '29'
+  CG: '26'
+  SHO: '6'
+  W: '19'
+  L: '8'
+  PCT: '.704'
+  IP: '247'
+  H: '218'
+  HR: '12'
+  R: '86'
+  ER: '59'
+  BB: '46'
+  SO: '172'
+  HB: '1'
+  WP: '9'
+  ERA: '2.15'
+  T: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Miller
+  nameClub1: Greenville
+  throws: L
+  GP: '18'
+  GS: '14'
+  CG: '10'
+  SHO: '1'
+  W: '8'
+  L: '4'
+  PCT: '.667'
+  IP: '125'
+  H: '112'
+  HR: '1'
+  R: '40'
+  ER: '30'
+  BB: '41'
+  SO: '34'
+  HB: '1'
+  WP: '6'
+  ERA: '2.17'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Hatcher
+  nameClub1: Monroe
+  GP: '45'
+  GS: '28'
+  CG: '14'
+  SHO: '2'
+  W: '13'
+  L: '16'
+  PCT: '.448'
+  IP: '249'
+  H: '241'
+  HR: '10'
+  R: '114'
+  ER: '79'
+  BB: '95'
+  SO: '102'
+  HB: '2'
+  WP: '6'
+  ERA: '2.86'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Jayne
+  nameClub1: Natchez
+  GP: '38'
+  GS: '24'
+  CG: '17'
+  SHO: '3'
+  W: '11'
+  L: '14'
+  PCT: '.440'
+  IP: '219'
+  H: '215'
+  HR: '7'
+  R: '94'
+  ER: '71'
+  BB: '75'
+  SO: '161'
+  HB: '5'
+  WP: '7'
+  ERA: '2.92'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Dupuy
+  nameClub1: Meridian
+  GP: '29'
+  GS: '24'
+  CG: '18'
+  SHO: '1'
+  W: '14'
+  L: '6'
+  PCT: '.700'
+  IP: '190'
+  H: '158'
+  HR: '7'
+  R: '77'
+  ER: '64'
+  BB: '107'
+  SO: '149'
+  HB: '5'
+  WP: '1'
+  ERA: '3.03'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Chapel
+  nameClub1: Pine Bluff
+  GP: '38'
+  GS: '6'
+  CG: '2'
+  SHO: '0'
+  W: '8'
+  L: '5'
+  PCT: '.615'
+  IP: '153'
+  H: '143'
+  HR: '4'
+  R: '74'
+  ER: '53'
+  BB: '62'
+  SO: '56'
+  HB: '6'
+  WP: '12'
+  ERA: '3.11'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Brown
+  nameClub1: El Dorado
+  throws: L
+  GP: '29'
+  GS: '20'
+  CG: '14'
+  SHO: '5'
+  W: '15'
+  L: '10'
+  PCT: '.600'
+  IP: '187'
+  H: '181'
+  HR: '7'
+  R: '90'
+  ER: '66'
+  BB: '76'
+  SO: '134'
+  HB: '2'
+  WP: '9'
+  ERA: '3.17'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Blanton
+  nameClub1: Monroe
+  GP: '41'
+  GS: '29'
+  CG: '23'
+  SHO: '3'
+  W: '17'
+  L: '14'
+  PCT: '.548'
+  IP: '229'
+  H: '205'
+  HR: '4'
+  R: '111'
+  ER: '81'
+  BB: '116'
+  SO: '146'
+  HB: '6'
+  WP: '8'
+  ERA: '3.18'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Fernandez
+  nameClub1: Hot Springs
+  GP: '24'
+  GS: '10'
+  CG: '4'
+  SHO: '0'
+  W: '9'
+  L: '4'
+  PCT: '.692'
+  IP: '113'
+  H: '104'
+  HR: '4'
+  R: '63'
+  ER: '40'
+  BB: '49'
+  SO: '49'
+  HB: '2'
+  WP: '4'
+  ERA: '3.20'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Slaber
+  nameClub1: El Dorado
+  throws: L
+  GP: '41'
+  GS: '22'
+  CG: '13'
+  SHO: '2'
+  W: '12'
+  L: '10'
+  PCT: '.545'
+  IP: '203'
+  H: '202'
+  HR: '6'
+  R: '113'
+  ER: '73'
+  BB: '101'
+  SO: '94'
+  HB: '5'
+  WP: '9'
+  ERA: '3.24'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Lindquist
+  nameClub1: Greenville
+  throws: L
+  GP: '37'
+  GS: '26'
+  CG: '14'
+  SHO: '2'
+  W: '14'
+  L: '10'
+  PCT: '.583'
+  IP: '210'
+  H: '215'
+  HR: '10'
+  R: '100'
+  ER: '77'
+  BB: '124'
+  SO: '134'
+  HB: '3'
+  WP: '12'
+  ERA: '3.30'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameClub1: Jackson
+  GP: '34'
+  GS: '25'
+  CG: '21'
+  SHO: '3'
+  W: '15'
+  L: '8'
+  PCT: '.652'
+  IP: '214'
+  H: '217'
+  HR: '8'
+  R: '104'
+  ER: '79'
+  BB: '88'
+  SO: '141'
+  HB: '5'
+  WP: '6'
+  ERA: '3.33'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Schwegman
+  nameClub1: Pine Bluff
+  throws: L
+  GP: '27'
+  GS: '19'
+  CG: '12'
+  SHO: '2'
+  W: '10'
+  L: '9'
+  PCT: '.526'
+  IP: '168'
+  H: '157'
+  HR: '10'
+  R: '89'
+  ER: '62'
+  BB: '82'
+  SO: '114'
+  HB: '5'
+  WP: '5'
+  ERA: '3.33'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Gross
+  nameClub1: Meridian
+  GP: '22'
+  GS: '17'
+  CG: '15'
+  SHO: '1'
+  W: '13'
+  L: '5'
+  PCT: '.722'
+  IP: '165'
+  H: '178'
+  HR: '10'
+  R: '91'
+  ER: '63'
+  BB: '48'
+  SO: '94'
+  HB: '4'
+  WP: '3'
+  ERA: '3.42'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Brightwell
+  nameClub1: El Dorado
+  GP: '25'
+  GS: '9'
+  CG: '9'
+  SHO: '1'
+  W: '11'
+  L: '6'
+  PCT: '.647'
+  IP: '116'
+  H: '96'
+  HR: '4'
+  R: '48'
+  ER: '44'
+  BB: '37'
+  SO: '68'
+  HB: '4'
+  WP: '3'
+  ERA: '3.42'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Ronay
+  nameClub1: Hot Springs
+  GP: '36'
+  GS: '24'
+  CG: '14'
+  SHO: '1'
+  W: '12'
+  L: '12'
+  PCT: '.500'
+  IP: '197'
+  H: '194'
+  HR: '12'
+  R: '104'
+  ER: '77'
+  BB: '96'
+  SO: '94'
+  HB: '2'
+  WP: '7'
+  ERA: '3.51'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Kelly
+  nameClub1: Jackson
+  GP: '31'
+  GS: '21'
+  CG: '7'
+  SHO: '3'
+  W: '10'
+  L: '10'
+  PCT: '.500'
+  IP: '140'
+  H: '124'
+  HR: '1'
+  R: '77'
+  ER: '55'
+  BB: '81'
+  SO: '66'
+  HB: '3'
+  WP: '5'
+  ERA: '3.53'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Picken
+  nameClub1: Pine Bluff
+  GP: '32'
+  GS: '19'
+  CG: '16'
+  SHO: '1'
+  W: '10'
+  L: '8'
+  PCT: '.556'
+  IP: '153'
+  H: '158'
+  HR: '10'
+  R: '87'
+  ER: '60'
+  BB: '52'
+  SO: '65'
+  HB: '5'
+  WP: '2'
+  ERA: '3.54'
+  T: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Wingard
+  nameClub1: Monroe
+  throws: L
+  GP: '31'
+  GS: '18'
+  CG: '10'
+  SHO: '0'
+  W: '6'
+  L: '12'
+  PCT: '.333'
+  IP: '176'
+  H: '171'
+  HR: '10'
+  R: '90'
+  ER: '70'
+  BB: '85'
+  SO: '71'
+  HB: '3'
+  WP: '4'
+  ERA: '3.58'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Healy
+  nameClub1: Natchez
+  nameClub2: Meridian
+  GP: '32'
+  GS: '25'
+  CG: '14'
+  SHO: '0'
+  W: '16'
+  L: '10'
+  PCT: '.615'
+  IP: '209'
+  H: '219'
+  HR: '9'
+  R: '111'
+  ER: '84'
+  BB: '126'
+  SO: '94'
+  HB: '12'
+  WP: '8'
+  ERA: '3.62'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Hanners
+  nameClub1: Natchez
+  throws: L
+  GP: '12'
+  GS: '10'
+  CG: '3'
+  SHO: '2'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '65'
+  H: '61'
+  HR: '5'
+  R: '39'
+  ER: '27'
+  BB: '37'
+  SO: '29'
+  HB: '1'
+  WP: '0'
+  ERA: '3.72'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Radcliffe
+  nameClub1: Natchez
+  GP: '33'
+  GS: '18'
+  CG: '15'
+  SHO: '2'
+  W: '13'
+  L: '13'
+  PCT: '.500'
+  IP: '183'
+  H: '169'
+  HR: '18'
+  R: '95'
+  ER: '76'
+  BB: '107'
+  SO: '90'
+  HB: '3'
+  WP: '7'
+  ERA: '3.74'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Pollet, Jr.
+  nameClub1: Greenville
+  GP: '37'
+  GS: '27'
+  CG: '17'
+  SHO: '1'
+  W: '16'
+  L: '11'
+  PCT: '.593'
+  IP: '218'
+  H: '206'
+  HR: '7'
+  R: '132'
+  ER: '91'
+  BB: '134'
+  SO: '112'
+  HB: '4'
+  WP: '9'
+  ERA: '3.75'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: White
+  nameClub1: Meridian
+  throws: L
+  GP: '11'
+  GS: '6'
+  CG: '3'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '45'
+  H: '50'
+  HR: '1'
+  R: '30'
+  ER: '19'
+  BB: '33'
+  SO: '18'
+  HB: '0'
+  WP: '6'
+  ERA: '3.77'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Van Proyen
+  nameClub1: Pine Bluff
+  GP: '26'
+  GS: '18'
+  CG: '10'
+  SHO: '3'
+  W: '9'
+  L: '6'
+  PCT: '.600'
+  IP: '146'
+  H: '139'
+  HR: '8'
+  R: '85'
+  ER: '62'
+  BB: '84'
+  SO: '71'
+  HB: '0'
+  WP: '3'
+  ERA: '3.83'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Hobbs
+  nameClub1: Pine Bluff
+  GP: '30'
+  GS: '24'
+  CG: '14'
+  SHO: '3'
+  W: '8'
+  L: '14'
+  PCT: '.364'
+  IP: '178'
+  H: '192'
+  HR: '16'
+  R: '112'
+  ER: '76'
+  BB: '104'
+  SO: '82'
+  HB: '6'
+  WP: '9'
+  ERA: '3.84'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Gibbons
+  nameClub1: Hot Springs
+  GP: '27'
+  GS: '17'
+  CG: '8'
+  SHO: '1'
+  W: '10'
+  L: '5'
+  PCT: '.667'
+  IP: '137'
+  H: '117'
+  HR: '15'
+  R: '69'
+  ER: '59'
+  BB: '78'
+  SO: '97'
+  HB: '3'
+  WP: '12'
+  ERA: '3.89'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Kopach
+  nameClub1: Meridian
+  GP: '22'
+  GS: '14'
+  CG: '8'
+  SHO: '1'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '120'
+  H: '133'
+  HR: '10'
+  R: '72'
+  ER: '53'
+  BB: '44'
+  SO: '63'
+  HB: '1'
+  WP: '3'
+  ERA: '3.98'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Collins
+  nameClub1: Natchez
+  GP: '15'
+  GS: '12'
+  CG: '8'
+  SHO: '1'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  IP: '93'
+  H: '106'
+  HR: '3'
+  R: '53'
+  ER: '42'
+  BB: '49'
+  SO: '42'
+  HB: '2'
+  WP: '7'
+  ERA: '4.05'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Cottle
+  nameClub1: Natchez
+  GP: '30'
+  GS: '20'
+  CG: '7'
+  SHO: '0'
+  W: '6'
+  L: '15'
+  PCT: '.286'
+  IP: '145'
+  H: '157'
+  HR: '4'
+  R: '99'
+  ER: '66'
+  BB: '61'
+  SO: '83'
+  HB: '7'
+  WP: '5'
+  ERA: '4.10'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Siefert
+  nameClub1: Hot Springs
+  GP: '37'
+  GS: '28'
+  CG: '17'
+  SHO: '1'
+  W: '15'
+  L: '11'
+  PCT: '.577'
+  IP: '215'
+  H: '246'
+  HR: '19'
+  R: '121'
+  ER: '98'
+  BB: '82'
+  SO: '138'
+  HB: '4'
+  WP: '3'
+  ERA: '4.11'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameClub1: Pine Bluff
+  GP: '14'
+  GS: '13'
+  CG: '4'
+  SHO: '1'
+  W: '6'
+  L: '6'
+  PCT: '.500'
+  IP: '77'
+  H: '62'
+  HR: '4'
+  R: '43'
+  ER: '36'
+  BB: '73'
+  SO: '47'
+  HB: '2'
+  WP: '4'
+  ERA: '4.19'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Drobot
+  nameClub1: Jackson
+  GP: '12'
+  GS: '10'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '6'
+  PCT: '.333'
+  IP: '59'
+  H: '74'
+  HR: '2'
+  R: '37'
+  ER: '28'
+  BB: '34'
+  SO: '20'
+  HB: '0'
+  WP: '2'
+  ERA: '4.27'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: White
+  nameClub1: Monroe
+  GP: '28'
+  GS: '19'
+  CG: '8'
+  SHO: '0'
+  W: '5'
+  L: '13'
+  PCT: '.278'
+  IP: '151'
+  H: '140'
+  HR: '8'
+  R: '97'
+  ER: '72'
+  BB: '104'
+  SO: '112'
+  HB: '4'
+  WP: '14'
+  ERA: '4.29'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Campver
+  nameClub1: Hot Springs
+  GP: '34'
+  GS: '21'
+  CG: '7'
+  SHO: '1'
+  W: '9'
+  L: '11'
+  PCT: '.450'
+  IP: '176'
+  H: '172'
+  HR: '12'
+  R: '103'
+  ER: '84'
+  BB: '93'
+  SO: '80'
+  HB: '5'
+  WP: '8'
+  ERA: '4.30'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Cortes
+  nameClub1: Greenville
+  GP: '22'
+  GS: '18'
+  CG: '8'
+  SHO: '0'
+  W: '8'
+  L: '8'
+  PCT: '.500'
+  IP: '128'
+  H: '96'
+  HR: '6'
+  R: '88'
+  ER: '61'
+  BB: '114'
+  SO: '107'
+  HB: '8'
+  WP: '15'
+  ERA: '4.30'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Ward
+  nameClub1: Jackson
+  GP: '16'
+  GS: '13'
+  CG: '5'
+  SHO: '1'
+  W: '6'
+  L: '2'
+  PCT: '.750'
+  IP: '95'
+  H: '92'
+  HR: '4'
+  R: '62'
+  ER: '46'
+  BB: '95'
+  SO: '48'
+  HB: '1'
+  WP: '7'
+  ERA: '4.37'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Sarmiento
+  nameClub1: Greenville
+  GP: '12'
+  GS: '9'
+  CG: '5'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '62'
+  H: '73'
+  HR: '2'
+  R: '39'
+  ER: '30'
+  BB: '22'
+  SO: '38'
+  HB: '1'
+  WP: '1'
+  ERA: '4.38'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Ardrey
+  nameClub1: El Dorado
+  GP: '35'
+  GS: '24'
+  CG: '10'
+  SHO: '2'
+  W: '12'
+  L: '11'
+  PCT: '.522'
+  IP: '169'
+  H: '188'
+  HR: '6'
+  R: '109'
+  ER: '83'
+  BB: '72'
+  SO: '94'
+  HB: '2'
+  WP: '7'
+  ERA: '4.42'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Drach
+  nameClub1: Greenville
+  GP: '41'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '7'
+  L: '9'
+  PCT: '.438'
+  IP: '137'
+  H: '153'
+  HR: '13'
+  R: '87'
+  ER: '68'
+  BB: '64'
+  SO: '47'
+  HB: '5'
+  WP: '3'
+  ERA: '4.47'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: McWilliams
+  nameClub1: Natchez
+  GP: '30'
+  GS: '18'
+  CG: '11'
+  SHO: '1'
+  W: '6'
+  L: '10'
+  PCT: '.375'
+  IP: '153'
+  H: '165'
+  HR: '8'
+  R: '109'
+  ER: '78'
+  BB: '103'
+  SO: '86'
+  HB: '2'
+  WP: '9'
+  ERA: '4.60'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Alford
+  nameClub1: Meridian
+  GP: '23'
+  GS: '15'
+  CG: '8'
+  SHO: '2'
+  W: '11'
+  L: '6'
+  PCT: '.647'
+  IP: '129'
+  H: '133'
+  HR: '16'
+  R: '71'
+  ER: '58'
+  BB: '38'
+  SO: '40'
+  HB: '1'
+  WP: '0'
+  ERA: '4.65'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Renn
+  nameClub1: Jackson
+  GP: '45'
+  GS: '6'
+  CG: '1'
+  SHO: '0'
+  W: '11'
+  L: '6'
+  PCT: '.647'
+  IP: '123'
+  H: '128'
+  HR: '4'
+  R: '86'
+  ER: '64'
+  BB: '51'
+  SO: '43'
+  HB: '4'
+  WP: '5'
+  ERA: '4.67'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Baldwin
+  nameClub1: Hot Springs
+  GP: '33'
+  GS: '24'
+  CG: '14'
+  SHO: '1'
+  W: '13'
+  L: '5'
+  PCT: '.722'
+  IP: '184'
+  H: '210'
+  HR: '9'
+  R: '121'
+  ER: '96'
+  BB: '91'
+  SO: '78'
+  HB: '4'
+  WP: '6'
+  ERA: '4.69'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Daugherty
+  nameClub1: Greenville
+  GP: '7'
+  GS: '6'
+  CG: '4'
+  SHO: '1'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '48'
+  H: '47'
+  HR: '3'
+  R: '32'
+  ER: '25'
+  BB: '29'
+  SO: '24'
+  HB: '0'
+  WP: '7'
+  ERA: '4.69'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Dotson
+  nameClub1: Jackson
+  GP: '14'
+  GS: '11'
+  CG: '6'
+  SHO: '0'
+  W: '3'
+  L: '8'
+  PCT: '.273'
+  IP: '76'
+  H: '73'
+  HR: '0'
+  R: '50'
+  ER: '40'
+  BB: '50'
+  SO: '41'
+  HB: '1'
+  WP: '2'
+  ERA: '4.72'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Callihan
+  nameClub1: Pine Bluff
+  throws: L
+  GP: '29'
+  GS: '23'
+  CG: '13'
+  SHO: '2'
+  W: '12'
+  L: '11'
+  PCT: '.522'
+  IP: '157'
+  H: '167'
+  HR: '12'
+  R: '102'
+  ER: '83'
+  BB: '91'
+  SO: '75'
+  HB: '7'
+  WP: '9'
+  ERA: '4.77'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Gookin
+  nameClub1: Jackson
+  GP: '20'
+  GS: '9'
+  CG: '4'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '80'
+  H: '87'
+  HR: '4'
+  R: '60'
+  ER: '43'
+  BB: '54'
+  SO: '32'
+  HB: '1'
+  WP: '3'
+  ERA: '4.77'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Royce
+  nameClub1: El Dorado
+  GP: '31'
+  GS: '18'
+  CG: '6'
+  SHO: '2'
+  W: '3'
+  L: '11'
+  PCT: '.214'
+  IP: '142'
+  H: '127'
+  HR: '4'
+  R: '99'
+  ER: '76'
+  BB: '96'
+  SO: '61'
+  HB: '5'
+  WP: '7'
+  ERA: '4.82'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Summerlin
+  nameClub1: Monroe
+  throws: L
+  GP: '11'
+  GS: '9'
+  CG: '4'
+  SHO: '0'
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  IP: '58'
+  H: '58'
+  HR: '0'
+  R: '40'
+  ER: '32'
+  BB: '43'
+  SO: '37'
+  HB: '0'
+  WP: '3'
+  ERA: '4.99'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Rowe
+  nameClub1: Jackson
+  GP: '15'
+  GS: '9'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '76'
+  H: '72'
+  HR: '1'
+  R: '49'
+  ER: '45'
+  BB: '66'
+  SO: '49'
+  HB: '3'
+  WP: '7'
+  ERA: '5.35'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Callighan
+  nameClub1: Greenville
+  GP: '12'
+  GS: '6'
+  CG: '2'
+  SHO: '0'
+  W: '0'
+  L: '5'
+  PCT: '.000'
+  IP: '50'
+  H: '65'
+  HR: '1'
+  R: '48'
+  ER: '30'
+  BB: '36'
+  SO: '25'
+  HB: '0'
+  WP: '2'
+  ERA: '5.40'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Myrland
+  nameClub1: Monroe
+  throws: L
+  GP: '22'
+  GS: '9'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '8'
+  PCT: '.200'
+  IP: '92'
+  H: '100'
+  HR: '5'
+  R: '75'
+  ER: '62'
+  BB: '56'
+  SO: '67'
+  HB: '1'
+  WP: '5'
+  ERA: '6.07'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Boim
+  nameClub1: Jackson
+  GP: '14'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '52'
+  H: '67'
+  HR: '4'
+  R: '53'
+  ER: '42'
+  BB: '43'
+  SO: '35'
+  HB: '1'
+  WP: '6'
+  ERA: '7.27'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Ward
+  nameClub1: Hot Springs
+  GP: '14'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '58'
+  H: '78'
+  HR: '12'
+  R: '60'
+  ER: '47'
+  BB: '33'
+  SO: '24'
+  HB: '0'
+  WP: '2'
+  ERA: '7.33'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Bourgeois
+  nameClub1: Natchez
+  nameClub2: Meridian
+  GP: '13'
+  GS: '9'
+  CG: '1'
+  SHO: '0'
+  W: '0'
+  L: '6'
+  PCT: '.000'
+  IP: '59'
+  H: '72'
+  HR: '2'
+  R: '69'
+  ER: '55'
+  BB: '74'
+  SO: '29'
+  HB: '1'
+  WP: '4'
+  ERA: '8.44'
+  T: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Ford
+  nameClub1: El Dorado
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Kruppa
+  nameClub1: El Dorado
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Lovallo
+  nameClub1: El Dorado
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Myers
+  nameClub1: El Dorado
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Naponen
+  nameClub1: El Dorado
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Ross
+  nameClub1: El Dorado
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Straub
+  nameClub1: El Dorado
+  W: '0'
+  L: '3'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Braziel
+  nameClub1: Greenville
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Cueto
+  nameClub1: Greenville
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: DeCarr
+  nameClub1: Greenville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Fortman
+  nameClub1: Greenville
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Jackson
+  nameClub1: Greenville
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Posipanka
+  nameClub1: Greenville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Pollet
+  nameFirst: T., Sr.
+  nameClub1: Greenville
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Rada
+  nameClub1: Greenville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Strickland
+  nameClub1: Greenville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Tidwell
+  nameClub1: Greenville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Zerda
+  nameClub1: Greenville
+  W: '2'
+  L: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Bales
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Baski
+  nameClub1: Hot Springs
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Brooks
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Cook
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Dick
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Fentem
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Fields
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Fleischer
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Giddings
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Hicks
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Hubbard
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Jarvis
+  nameClub1: Hot Springs
+  W: '0'
+  L: '3'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Jessen
+  nameClub1: Hot Springs
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Kuchta
+  nameClub1: Hot Springs
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Korfonta
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Martin
+  nameClub1: Hot Springs
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Moore
+  nameClub1: Hot Springs
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Odem
+  nameClub1: Hot Springs
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Parks
+  nameClub1: Hot Springs
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Sullivan
+  nameClub1: Hot Springs
+  W: '2'
+  L: '4'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Brocato
+  nameClub1: Jackson
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Demus
+  nameClub1: Jackson
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Doolittle
+  nameClub1: Jackson
+  W: '2'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Garrett
+  nameClub1: Jackson
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Gilmore
+  nameClub1: Jackson
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Hotard
+  nameClub1: Jackson
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Martin
+  nameClub1: Jackson
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Melanson
+  nameClub1: Jackson
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Simononis
+  nameClub1: Jackson
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Venable
+  nameClub1: Jackson
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Corneth
+  nameClub1: Meridian
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Harrod
+  nameClub1: Meridian
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Knight
+  nameClub1: Meridian
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Morales
+  nameClub1: Meridian
+  W: '2'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Mullineaux
+  nameClub1: Meridian
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Regelsky
+  nameClub1: Meridian
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Torrance
+  nameClub1: Meridian
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Bartkowski
+  nameClub1: Monroe
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Gaines
+  nameFirst: J.
+  nameClub1: Monroe
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Harrington
+  nameClub1: Monroe
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Possessky
+  nameClub1: Monroe
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Rogers
+  nameClub1: Monroe
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Sharp
+  nameClub1: Monroe
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Sorensen
+  nameClub1: Monroe
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Stasney
+  nameClub1: Monroe
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Thompson
+  nameClub1: Monroe
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Thornhill
+  nameClub1: Monroe
+  W: '0'
+  L: '4'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Dunlap
+  nameClub1: Natchez
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Falatic
+  nameClub1: Natchez
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Goss
+  nameClub1: Natchez
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Scott
+  nameClub1: Natchez
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Shipman
+  nameClub1: Natchez
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Young
+  nameClub1: Natchez
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Dillon
+  nameClub1: Pine Bluff
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Saager
+  nameClub1: Pine Bluff
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameLast: Sergo
+  nameClub1: Pine Bluff
+  W: '1'
+  L: '0'

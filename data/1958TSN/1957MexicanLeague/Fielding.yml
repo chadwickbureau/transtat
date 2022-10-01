@@ -1,0 +1,2106 @@
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Osorio
+  nameClub1: Monterrey
+  nameClub2: Mexico City Tigers
+  throws: L
+  Pos: 1B
+  G: '46'
+  PO: '312'
+  A: '16'
+  E: '3'
+  DP: '35'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Fernandez
+  nameClub1: Nuevo Laredo
+  Pos: 1B
+  G: '13'
+  PO: '94'
+  A: '6'
+  E: '1'
+  DP: '13'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Montemayor
+  nameClub1: Mexico City Tigers
+  throws: L
+  Pos: 1B
+  G: '32'
+  PO: '253'
+  A: '15'
+  E: '3'
+  DP: '43'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Escalante
+  nameClub1: Mexico City Tigers
+  throws: L
+  Pos: 1B
+  G: '23'
+  PO: '157'
+  A: '6'
+  E: '2'
+  DP: '16'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Castro
+  nameClub1: Veracruz
+  throws: L
+  Pos: 1B
+  G: '112'
+  PO: '932'
+  A: '41'
+  E: '13'
+  DP: '98'
+  PCT: '.987'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Jackson
+  nameFirst: W.
+  nameClub1: Mexico City Tigers
+  Pos: 1B
+  G: '36'
+  PO: '282'
+  A: '34'
+  E: '4'
+  DP: '40'
+  PCT: '.987'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Gomez
+  nameFirst: Garza
+  nameClub1: Monterrey
+  Pos: 1B
+  G: '111'
+  PO: '952'
+  A: '45'
+  E: '14'
+  DP: '98'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Serrell
+  nameClub1: Nuevo Laredo
+  nameClub2: Monterrey
+  Pos: 1B
+  G: '51'
+  PO: '407'
+  A: '22'
+  E: '8'
+  DP: '55'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Auaiz
+  nameClub1: Yucatan
+  Pos: 1B
+  G: '114'
+  PO: '903'
+  A: '58'
+  E: '19'
+  DP: '73'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Basso
+  nameClub1: Nuevo Laredo
+  Pos: 1B
+  G: '20'
+  PO: '141'
+  A: '10'
+  E: '3'
+  DP: '14'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Perry
+  nameClub1: Mexico City Reds
+  Pos: 1B
+  G: '121'
+  PO: '913'
+  A: '55'
+  E: '25'
+  DP: '107'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameClub1: Nuevo Laredo
+  Pos: 1B
+  G: '35'
+  PO: '232'
+  A: '10'
+  E: '7'
+  DP: '27'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Tucker
+  nameClub1: Nuevo Laredo
+  nameClub2: Veracruz
+  Pos: 1B
+  G: '14'
+  PO: '92'
+  A: '3'
+  E: '3'
+  DP: '11'
+  PCT: '.969'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Berzunza
+  nameClub1: Yucatan
+  throws: L
+  Pos: 1B
+  G: '16'
+  PO: '80'
+  A: '10'
+  E: '3'
+  DP: '6'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameClub1: Mexico City Reds
+  Pos: 2B
+  G: '110'
+  PO: '273'
+  A: '278'
+  E: '10'
+  DP: '86'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Camacho
+  nameFirst: M.
+  nameClub1: Nuevo Laredo
+  Pos: 2B
+  G: '121'
+  PO: '324'
+  A: '267'
+  E: '19'
+  DP: '89'
+  PCT: '.969'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Suarez
+  nameFirst: O.
+  nameClub1: Yucatan
+  Pos: 2B
+  G: '119'
+  PO: '342'
+  A: '280'
+  E: '21'
+  DP: '61'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ariosa
+  nameClub1: Veracruz
+  Pos: 2B
+  G: '48'
+  PO: '141'
+  A: '102'
+  E: '9'
+  DP: '27'
+  PCT: '.964'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Rios
+  nameClub1: Monterrey
+  Pos: 2B
+  G: '120'
+  PO: '346'
+  A: '302'
+  E: '26'
+  DP: '81'
+  PCT: '.961'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Piver
+  nameClub1: Mexico City Tigers
+  Pos: 2B
+  G: '79'
+  PO: '237'
+  A: '228'
+  E: '20'
+  DP: '75'
+  PCT: '.959'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Salvent
+  nameClub1: Veracruz
+  Pos: 2B
+  G: '74'
+  PO: '219'
+  A: '172'
+  E: '25'
+  DP: '41'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Cortes
+  nameClub1: Mexico City Tigers
+  Pos: 2B
+  G: '39'
+  PO: '105'
+  A: '89'
+  E: '16'
+  DP: '28'
+  PCT: '.924'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Torres
+  nameClub1: Mexico City Reds
+  Pos: 2B
+  G: '10'
+  PO: '21'
+  A: '24'
+  E: '5'
+  DP: '7'
+  PCT: '.900'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameClub1: Nuevo Laredo
+  Pos: 3B
+  G: '13'
+  PO: '5'
+  A: '25'
+  E: '1'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Vazquez
+  nameClub1: Yucatan
+  Pos: 3B
+  G: '12'
+  PO: '11'
+  A: '17'
+  E: '1'
+  DP: '3'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Fitch
+  nameClub1: Mexico City Tigers
+  Pos: 3B
+  G: '12'
+  PO: '12'
+  A: '31'
+  E: '2'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Rodriguez
+  nameClub1: Mexico City Tigers
+  Pos: 3B
+  G: '46'
+  PO: '38'
+  A: '78'
+  E: '6'
+  DP: '3'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Guerrero
+  nameClub1: Monterrey
+  Pos: 3B
+  G: '115'
+  PO: '115'
+  A: '238'
+  E: '24'
+  DP: '27'
+  PCT: '.936'
+  TP: '1'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Hernandez
+  nameClub1: Mexico City Reds
+  Pos: 3B
+  G: '122'
+  PO: '114'
+  A: '238'
+  E: '25'
+  DP: '23'
+  PCT: '.934'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameClub1: Yucatan
+  Pos: 3B
+  G: '114'
+  PO: '124'
+  A: '282'
+  E: '29'
+  DP: '16'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Carmona
+  nameClub1: Nuevo Laredo
+  Pos: 3B
+  G: '87'
+  PO: '78'
+  A: '203'
+  E: '24'
+  DP: '18'
+  PCT: '.921'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Soler
+  nameFirst: J.
+  nameClub1: Nuevo Laredo
+  Pos: 3B
+  G: '12'
+  PO: '8'
+  A: '20'
+  E: '3'
+  DP: '8'
+  PCT: '.903'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ariosa
+  nameClub1: Veracruz
+  Pos: 3B
+  G: '17'
+  PO: '22'
+  A: '34'
+  E: '7'
+  DP: '6'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Salfran
+  nameClub1: Veracruz
+  Pos: 3B
+  G: '74'
+  PO: '71'
+  A: '158'
+  E: '31'
+  DP: '19'
+  PCT: '.881'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Serratos
+  nameClub1: Veracruz
+  Pos: 3B
+  G: '18'
+  PO: '16'
+  A: '41'
+  E: '9'
+  DP: '3'
+  PCT: '.864'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Harris
+  nameClub1: Nuevo Laredo
+  Pos: 3B
+  G: '10'
+  PO: '6'
+  A: '17'
+  E: '4'
+  DP: '5'
+  PCT: '.852'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Fernandez
+  nameClub1: Mexico City Tigers
+  Pos: 3B
+  G: '47'
+  PO: '40'
+  A: '96'
+  E: '24'
+  DP: '14'
+  PCT: '.850'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameClub1: Veracruz
+  Pos: 3B
+  G: '11'
+  PO: '12'
+  A: '25'
+  E: '7'
+  DP: '3'
+  PCT: '.841'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Piver
+  nameClub1: Mexico City Tigers
+  Pos: 3B
+  G: '13'
+  PO: '15'
+  A: '24'
+  E: '8'
+  DP: '3'
+  PCT: '.830'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Bache
+  nameClub1: Yucatan
+  Pos: SS
+  G: '102'
+  PO: '179'
+  A: '281'
+  E: '9'
+  DP: '49'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Mayer
+  nameClub1: Mexico City Reds
+  Pos: SS
+  G: '122'
+  PO: '221'
+  A: '360'
+  E: '26'
+  DP: '78'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Alvarez
+  nameClub1: Veracruz
+  Pos: SS
+  G: '102'
+  PO: '196'
+  A: '331'
+  E: '25'
+  DP: '46'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Fitch
+  nameClub1: Mexico City Tigers
+  Pos: SS
+  G: '57'
+  PO: '101'
+  A: '198'
+  E: '14'
+  DP: '38'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Jackson
+  nameFirst: W.
+  nameClub1: Mexico City Tigers
+  Pos: SS
+  G: '22'
+  PO: '45'
+  A: '92'
+  E: '7'
+  DP: '24'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Montelongo
+  nameClub1: Monterrey
+  Pos: SS
+  G: '120'
+  PO: '235'
+  A: '404'
+  E: '37'
+  DP: '78'
+  PCT: '.945'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Salvent
+  nameClub1: Veracruz
+  Pos: SS
+  G: '20'
+  PO: '43'
+  A: '69'
+  E: '8'
+  DP: '12'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Vazquez
+  nameClub1: Yucatan
+  Pos: SS
+  G: '26'
+  PO: '32'
+  A: '57'
+  E: '7'
+  DP: '8'
+  PCT: '.927'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Camacho
+  nameFirst: R.
+  nameClub1: Nuevo Laredo
+  Pos: SS
+  G: '15'
+  PO: '21'
+  A: '48'
+  E: '6'
+  DP: '10'
+  PCT: '.920'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Soler
+  nameFirst: J.
+  nameClub1: Nuevo Laredo
+  Pos: SS
+  G: '53'
+  PO: '105'
+  A: '158'
+  E: '28'
+  DP: '34'
+  PCT: '.904'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Serrell
+  nameClub1: Nuevo Laredo
+  nameClub2: Monterrey
+  Pos: SS
+  G: '14'
+  PO: '28'
+  A: '50'
+  E: '9'
+  DP: '8'
+  PCT: '.897'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Harris
+  nameClub1: Nuevo Laredo
+  Pos: SS
+  G: '50'
+  PO: '62'
+  A: '114'
+  E: '23'
+  DP: '29'
+  PCT: '.884'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Fernandez
+  nameClub1: Mexico City Tigers
+  Pos: SS
+  G: '48'
+  PO: '74'
+  A: '138'
+  E: '29'
+  DP: '32'
+  PCT: '.880'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ford
+  nameClub1: Mexico City Reds
+  Pos: OF
+  G: '39'
+  PO: '103'
+  A: '5'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Pena
+  nameClub1: Mexico City Reds
+  Pos: OF
+  G: '42'
+  PO: '96'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Mierkowicz
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '27'
+  PO: '52'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Brovia
+  nameClub1: Veracruz
+  Pos: OF
+  G: '23'
+  PO: '38'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Basso
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '11'
+  PO: '29'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ceballos
+  nameClub1: Mexico City Reds
+  Pos: OF
+  G: '12'
+  PO: '23'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Soler
+  nameFirst: J.
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '17'
+  PO: '19'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Montemayor
+  nameClub1: Mexico City Tigers
+  throws: L
+  Pos: OF
+  G: '73'
+  PO: '155'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Luna
+  nameClub1: Mexico City Reds
+  Pos: OF
+  G: '106'
+  PO: '278'
+  A: '12'
+  E: '4'
+  DP: '4'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Moreno
+  nameClub1: Yucatan
+  Pos: OF
+  G: '113'
+  PO: '388'
+  A: '17'
+  E: '6'
+  DP: '4'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Joshua
+  nameClub1: Monterrey
+  Pos: OF
+  G: '34'
+  PO: '60'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Long
+  nameClub1: Mexico City Tigers
+  Pos: OF
+  G: '28'
+  PO: '60'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '56'
+  PO: '108'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Diaz
+  nameClub1: Yucatan
+  nameClub2: Nuevo Laredo
+  Pos: OF
+  G: '22'
+  PO: '46'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Abad
+  nameClub1: Mexico City Tigers
+  Pos: OF
+  G: '103'
+  PO: '203'
+  A: '4'
+  E: '5'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Moore
+  nameClub1: Monterrey
+  Pos: OF
+  G: '112'
+  PO: '307'
+  A: '10'
+  E: '8'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Sardinas
+  nameClub1: Monterrey
+  throws: L
+  Pos: OF
+  G: '96'
+  PO: '147'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garmendia
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '49'
+  PO: '108'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Collins
+  nameClub1: Veracruz
+  throws: L
+  Pos: OF
+  G: '75'
+  PO: '173'
+  A: '2'
+  E: '6'
+  DP: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Robinette
+  nameClub1: Monterrey
+  Pos: OF
+  G: '26'
+  PO: '57'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Christopher
+  nameClub1: Mexico City Tigers
+  Pos: OF
+  G: '60'
+  PO: '162'
+  A: '1'
+  E: '6'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Leroux
+  nameClub1: Yucatan
+  Pos: OF
+  G: '96'
+  PO: '160'
+  A: '7'
+  E: '7'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Gomez
+  nameClub1: Mexico City Reds
+  Pos: OF
+  G: '15'
+  PO: '23'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Williams
+  nameClub1: Monterrey
+  Pos: OF
+  G: '13'
+  PO: '23'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Toledo
+  nameClub1: Yucatan
+  Pos: OF
+  G: '117'
+  PO: '238'
+  A: '7'
+  E: '11'
+  DP: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: O'Flynn
+  nameClub1: Nuevo Laredo
+  nameClub2: Mexico City Reds
+  Pos: OF
+  G: '18'
+  PO: '44'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Duran
+  nameClub1: Mexico City Tigers
+  Pos: OF
+  G: '64'
+  PO: '79'
+  A: '5'
+  E: '4'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Trice
+  nameClub1: Mexico City Reds
+  Pos: OF
+  G: '23'
+  PO: '61'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Harris
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '38'
+  PO: '78'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Tucker
+  nameClub1: Nuevo Laredo
+  nameClub2: Veracruz
+  throws: L
+  Pos: OF
+  G: '32'
+  PO: '80'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.953'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Osorio
+  nameClub1: Monterrey
+  nameClub2: Mexico City Tigers
+  throws: L
+  Pos: OF
+  G: '14'
+  PO: '19'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Vistuer
+  nameClub1: Mexico City Reds
+  nameClub2: Veracruz
+  throws: L
+  Pos: OF
+  G: '97'
+  PO: '251'
+  A: '11'
+  E: '15'
+  DP: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ariosa
+  nameClub1: Veracruz
+  Pos: OF
+  G: '54'
+  PO: '106'
+  A: '10'
+  E: '7'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Brown
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '29'
+  PO: '48'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Santomauro
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '31'
+  PO: '42'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Rodriguez
+  nameClub1: Mexico City Tigers
+  Pos: OF
+  G: '11'
+  PO: '15'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Senties
+  nameClub1: Nuevo Laredo
+  nameClub2: Veracruz
+  nameClub3: Yucatan
+  throws: L
+  Pos: OF
+  G: '62'
+  PO: '103'
+  A: '6'
+  E: '7'
+  DP: '1'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Arrieta
+  nameClub1: Veracruz
+  nameClub2: Yucatan
+  throws: L
+  Pos: OF
+  G: '53'
+  PO: '75'
+  A: '4'
+  E: '5'
+  DP: '3'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameFirst: Trevino
+  nameClub1: Monterrey
+  Pos: OF
+  G: '54'
+  PO: '85'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.936'
+  TP: '1'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Serratos
+  nameClub1: Veracruz
+  Pos: OF
+  G: '23'
+  PO: '29'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Pedrozo
+  nameClub1: Mexico City Reds
+  Pos: OF
+  G: '114'
+  PO: '217'
+  A: '9'
+  E: '16'
+  DP: '2'
+  PCT: '.934'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameClub1: Veracruz
+  Pos: OF
+  G: '19'
+  PO: '27'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.914'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Chavis
+  nameClub1: Nuevo Laredo
+  throws: L
+  Pos: OF
+  G: '14'
+  PO: '29'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Soler
+  nameFirst: G.
+  nameClub1: Nuevo Laredo
+  throws: L
+  Pos: OF
+  G: '36'
+  PO: '64'
+  A: '3'
+  E: '7'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Howard
+  nameClub1: Monterrey
+  Pos: OF
+  G: '15'
+  PO: '30'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Fernandez
+  nameClub1: Nuevo Laredo
+  Pos: OF
+  G: '25'
+  PO: '36'
+  A: '1'
+  E: '5'
+  DP: '1'
+  PCT: '.881'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Serrell
+  nameClub1: Nuevo Laredo
+  nameClub2: Monterrey
+  Pos: OF
+  G: '20'
+  PO: '36'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.881'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Cortes
+  nameClub1: Mexico City Tigers
+  Pos: OF
+  G: '62'
+  PO: '88'
+  A: '9'
+  E: '14'
+  DP: '1'
+  PCT: '.874'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Truss
+  nameClub1: Nuevo Laredo
+  nameClub2: Monterrey
+  Pos: OF
+  G: '40'
+  PO: '68'
+  A: '4'
+  E: '12'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Poole
+  nameClub1: Veracruz
+  Pos: C
+  G: '12'
+  PO: '71'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Villarreal
+  nameClub1: Monterrey
+  Pos: C
+  G: '14'
+  PO: '40'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PB: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Vento
+  nameClub1: Monterrey
+  Pos: C
+  G: '111'
+  PO: '526'
+  A: '45'
+  E: '2'
+  DP: '6'
+  PB: '8'
+  PCT: '.997'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Friol
+  nameClub1: Mexico City Reds
+  Pos: C
+  G: '84'
+  PO: '445'
+  A: '44'
+  E: '8'
+  DP: '8'
+  PB: '14'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Seoane
+  nameClub1: Yucatan
+  Pos: C
+  G: '58'
+  PO: '164'
+  A: '13'
+  E: '3'
+  DP: '4'
+  PB: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Sandoval
+  nameClub1: Nuevo Laredo
+  Pos: C
+  G: '37'
+  PO: '157'
+  A: '14'
+  E: '3'
+  DP: '3'
+  PB: '2'
+  PCT: '.983'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Flores
+  nameClub1: Mexico City Tigers
+  Pos: C
+  G: '13'
+  PO: '52'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PB: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Kellman
+  nameClub1: Yucatan
+  Pos: C
+  G: '100'
+  PO: '402'
+  A: '40'
+  E: '10'
+  DP: '8'
+  PB: '9'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Frayde
+  nameClub1: Mexico City Reds
+  Pos: C
+  G: '50'
+  PO: '214'
+  A: '12'
+  E: '5'
+  DP: '3'
+  PB: '6'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Villegas
+  nameClub1: Veracruz
+  Pos: C
+  G: '109'
+  PO: '436'
+  A: '40'
+  E: '11'
+  DP: '3'
+  PB: '23'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Taborn
+  nameClub1: Nuevo Laredo
+  Pos: C
+  G: '102'
+  PO: '548'
+  A: '44'
+  E: '16'
+  DP: '8'
+  PB: '6'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Rodriguez
+  nameClub1: Mexico City Tigers
+  Pos: C
+  G: '43'
+  PO: '178'
+  A: '24'
+  E: '7'
+  DP: '0'
+  PB: '12'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Piver
+  nameClub1: Mexico City Tigers
+  Pos: C
+  G: '24'
+  PO: '77'
+  A: '9'
+  E: '3'
+  DP: '1'
+  PB: '14'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Cobos
+  nameClub1: Mexico City Tigers
+  Pos: C
+  G: '52'
+  PO: '236'
+  A: '32'
+  E: '10'
+  DP: '0'
+  PB: '11'
+  PCT: '.964'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Gonzalez
+  nameClub1: Mexico City Reds
+  throws: L
+  Pos: P
+  G: '40'
+  PO: '4'
+  A: '33'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Locke
+  nameClub1: Monterrey
+  Pos: P
+  G: '43'
+  PO: '2'
+  A: '31'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Wooldridge
+  nameClub1: Mexico City Reds
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameFirst: G.
+  nameClub1: Mexico City Reds
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '14'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Rivas
+  nameClub1: Mexico City Reds
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '0'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ordonez
+  nameClub1: Monterrey
+  Pos: P
+  G: '17'
+  PO: '0'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Dangleis
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Reyna
+  nameClub1: Monterrey
+  nameClub2: Nuevo Laredo
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Cadena
+  nameClub1: Yucatan
+  nameClub2: Monterrey
+  Pos: P
+  G: '18'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Montemayor
+  nameClub1: Mexico City Tigers
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ferrer
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Correoso
+  nameClub1: Veracruz
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Nakamura
+  nameClub1: Yucatan
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '36'
+  E: '1'
+  DP: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Williams
+  nameClub1: Veracruz
+  Pos: P
+  G: '36'
+  PO: '10'
+  A: '24'
+  E: '1'
+  DP: '4'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Herrera
+  nameFirst: P.
+  nameClub1: Nuevo Laredo
+  Pos: P
+  G: '29'
+  PO: '5'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Montane
+  nameClub1: Yucatan
+  Pos: P
+  G: '39'
+  PO: '2'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Guerra
+  nameClub1: Mexico City Reds
+  Pos: P
+  G: '37'
+  PO: '3'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: DeLeon
+  nameClub1: Veracruz
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Hardison
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '36'
+  PO: '16'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Sotelo
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '45'
+  PO: '10'
+  A: '28'
+  E: '2'
+  DP: '5'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Trice
+  nameClub1: Mexico City Reds
+  Pos: P
+  G: '14'
+  PO: '7'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Vega
+  nameClub1: Monterrey
+  Pos: P
+  G: '34'
+  PO: '5'
+  A: '30'
+  E: '2'
+  DP: '5'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Diemer
+  nameClub1: Mexico City Reds
+  nameClub2: Monterrey
+  Pos: P
+  G: '37'
+  PO: '4'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Donoso
+  nameClub1: Mexico City Tigers
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ramos
+  nameClub1: Veracruz
+  Pos: P
+  G: '46'
+  PO: '9'
+  A: '39'
+  E: '3'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Herrera
+  nameFirst: T.
+  nameClub1: Nuevo Laredo
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '24'
+  E: '2'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Moreno
+  nameClub1: Yucatan
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameClub1: Nuevo Laredo
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Robertson
+  nameClub1: Nuevo Laredo
+  nameClub2: Veracruz
+  nameClub3: Monterrey
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '24'
+  E: '2'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Azamar
+  nameClub1: Monterrey
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '5'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Rodriguez
+  nameClub1: Yucatan
+  Pos: P
+  G: '28'
+  PO: '0'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Salgado
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Galindo
+  nameClub1: Monterrey
+  nameClub2: Veracruz
+  Pos: P
+  G: '26'
+  PO: '1'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Cardenas
+  nameClub1: Nuevo Laredo
+  Pos: P
+  G: '40'
+  PO: '3'
+  A: '20'
+  E: '2'
+  DP: '4'
+  PCT: '.920'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Contreras
+  nameClub1: Monterrey
+  Pos: P
+  G: '38'
+  PO: '5'
+  A: '39'
+  E: '4'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Guzman
+  nameClub1: Mexico City Reds
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Suarez
+  nameClub1: Monterrey
+  nameClub2: Nuevo Laredo
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '3'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Alvarez
+  nameClub1: Nuevo Laredo
+  Pos: P
+  G: '16'
+  PO: '5'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Alvarado
+  nameClub1: Yucatan
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '24'
+  E: '3'
+  DP: '0'
+  PCT: '.912'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ruiz
+  nameClub1: Veracruz
+  nameClub2: Nuevo Laredo
+  Pos: P
+  G: '25'
+  PO: '3'
+  A: '17'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Galata
+  nameClub1: Veracruz
+  throws: L
+  Pos: P
+  G: '45'
+  PO: '4'
+  A: '32'
+  E: '5'
+  DP: '2'
+  PCT: '.878'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Arroyo
+  nameClub1: Nuevo Laredo
+  Pos: P
+  G: '24'
+  PO: '3'
+  A: '17'
+  E: '3'
+  DP: '0'
+  PCT: '.870'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Searcy
+  nameClub1: Nuevo Laredo
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '1'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.867'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ramirez
+  nameClub1: Mexico City Reds
+  Pos: P
+  G: '25'
+  PO: '2'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Cacheux
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Rayle
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '27'
+  PO: '3'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Munoz
+  nameClub1: Veracruz
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Wilson
+  nameClub1: Nuevo Laredo
+  nameClub2: Veracruz
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Nelson
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '40'
+  PO: '8'
+  A: '26'
+  E: '6'
+  DP: '2'
+  PCT: '.850'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Ladera
+  nameClub1: Yucatan
+  Pos: P
+  G: '40'
+  PO: '8'
+  A: '31'
+  E: '7'
+  DP: '3'
+  PCT: '.848'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Powell
+  nameClub1: Nuevo Laredo
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Calvillo
+  nameClub1: Yucatan
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Jackson
+  nameFirst: A.
+  nameClub1: Mexico City Tigers
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '10'
+  E: '3'
+  DP: '1'
+  PCT: '.824'
+  TP: '0'
+- year: '1957'
+  nameLeague: Mexican League
+  nameLast: Hurst
+  nameClub1: Mexico City Tigers
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.600'
+  TP: '0'

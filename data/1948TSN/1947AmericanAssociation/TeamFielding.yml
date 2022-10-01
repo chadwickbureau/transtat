@@ -1,0 +1,88 @@
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  G: '157'
+  DP: '145'
+  TP: '1'
+  PB: '21'
+  PO: '4066'
+  A: '1646'
+  E: '154'
+  PCT: '.974'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  G: '156'
+  DP: '161'
+  TP: '0'
+  PB: '22'
+  PO: '3788'
+  A: '1751'
+  E: '165'
+  PCT: '.971'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Toledo
+  G: '154'
+  DP: '134'
+  TP: '0'
+  PB: '20'
+  PO: '3853'
+  A: '1550'
+  E: '167'
+  PCT: '.970'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Kansas City
+  G: '156'
+  DP: '178'
+  TP: '0'
+  PB: '15'
+  PO: '3887'
+  A: '1597'
+  E: '176'
+  PCT: '.969'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  G: '154'
+  DP: '130'
+  TP: '0'
+  PB: '29'
+  PO: '3884'
+  A: '1644'
+  E: '185'
+  PCT: '.968'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Louisville
+  G: '154'
+  DP: '148'
+  TP: '0'
+  PB: '11'
+  PO: '3915'
+  A: '1581'
+  E: '185'
+  PCT: '.967'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Columbus
+  G: '155'
+  DP: '132'
+  TP: '0'
+  PB: '18'
+  PO: '3943'
+  A: '1656'
+  E: '200'
+  PCT: '.966'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: St. Paul
+  G: '156'
+  DP: '168'
+  TP: '0'
+  PB: '28'
+  PO: '3971'
+  A: '1807'
+  E: '244'
+  PCT: '.959'

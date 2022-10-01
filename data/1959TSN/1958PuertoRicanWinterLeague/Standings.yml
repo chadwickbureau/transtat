@@ -1,0 +1,40 @@
+- year: '1958'
+  nameLeague: Puerto Rican Winter League
+  nameClub: San Juan
+  phase: regular
+  W: '39'
+  L: '24'
+  PCT: '.619'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Puerto Rican Winter League
+  nameClub: Santurce
+  phase: regular
+  W: '36'
+  L: '27'
+  PCT: '.571'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Puerto Rican Winter League
+  nameClub: Caguas-Guayama
+  phase: regular
+  W: '30'
+  L: '34'
+  PCT: '.469'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Puerto Rican Winter League
+  nameClub: Mayaguez
+  phase: regular
+  W: '28'
+  L: '36'
+  PCT: '.438'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Puerto Rican Winter League
+  nameClub: Ponce
+  phase: regular
+  W: '26'
+  L: '38'
+  PCT: '.406'
+  RANK: '5'

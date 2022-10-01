@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Central Mexican League
+  nameClub: Chihuahua
+  Saltillo: '11'
+  Durango-Laguna: '12'
+  Ciudad Juarez: '11'
+  Fresnillo: '15'
+  Aguascalientes: '13'
+- year: '1957'
+  nameLeague: Central Mexican League
+  nameClub: Saltillo
+  Chihuahua: '9'
+  Durango-Laguna: '11'
+  Ciudad Juarez: '14'
+  Fresnillo: '8'
+  Aguascalientes: '13'
+- year: '1957'
+  nameLeague: Central Mexican League
+  nameClub: Durango-Laguna
+  Chihuahua: '8'
+  Saltillo: '9'
+  Ciudad Juarez: '14'
+  Fresnillo: '9'
+  Aguascalientes: '12'
+- year: '1957'
+  nameLeague: Central Mexican League
+  nameClub: Ciudad Juarez
+  Chihuahua: '9'
+  Saltillo: '6'
+  Durango-Laguna: '6'
+  Fresnillo: '14'
+  Aguascalientes: '14'
+- year: '1957'
+  nameLeague: Central Mexican League
+  nameClub: Fresnillo
+  Chihuahua: '5'
+  Saltillo: '12'
+  Durango-Laguna: '11'
+  Ciudad Juarez: '6'
+  Aguascalientes: '9'
+- year: '1957'
+  nameLeague: Central Mexican League
+  nameClub: Aguascalientes
+  Chihuahua: '7'
+  Saltillo: '7'
+  Durango-Laguna: '8'
+  Ciudad Juarez: '6'
+  Fresnillo: '9'

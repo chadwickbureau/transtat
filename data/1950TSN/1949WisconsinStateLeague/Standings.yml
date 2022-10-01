@@ -1,0 +1,72 @@
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Oshkosh
+  phase: regular
+  W: '72'
+  L: '49'
+  T: '2'
+  PCT: '.595'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Green Bay
+  phase: regular
+  W: '71'
+  L: '55'
+  T: '2'
+  PCT: '.564'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Sheboygan
+  phase: regular
+  W: '67'
+  L: '56'
+  T: '1'
+  PCT: '.545'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Wisconsin Rapids
+  phase: regular
+  W: '64'
+  L: '58'
+  T: '1'
+  PCT: '.525'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Fond du Lac
+  phase: regular
+  W: '59'
+  L: '63'
+  T: '1'
+  PCT: '.480'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Appleton
+  phase: regular
+  W: '57'
+  L: '69'
+  T: '0'
+  PCT: '.452'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Wausau
+  phase: regular
+  W: '54'
+  L: '69'
+  T: '0'
+  PCT: '.439'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Janesville
+  phase: regular
+  W: '50'
+  L: '75'
+  T: '1'
+  PCT: '.400'
+  RANK: '8'

@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: International League
+  nameClub: Montreal
+  Toronto: '10'
+  Rochester: '15'
+  Columbus: '13'
+  Miami: '12'
+  Richmond: '12'
+  Buffalo: '13'
+  Havana: '15'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Toronto
+  Montreal: '11'
+  Rochester: '14'
+  Columbus: '10'
+  Miami: '12'
+  Richmond: '15'
+  Buffalo: '14'
+  Havana: '11'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Rochester
+  Montreal: '7'
+  Toronto: '8'
+  Columbus: '15'
+  Miami: '11'
+  Richmond: '13'
+  Buffalo: '12'
+  Havana: '11'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Columbus
+  Montreal: '9'
+  Toronto: '12'
+  Rochester: '7'
+  Miami: '9'
+  Richmond: '12'
+  Buffalo: '13'
+  Havana: '15'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Miami
+  Montreal: '10'
+  Toronto: '9'
+  Rochester: '11'
+  Columbus: '13'
+  Richmond: '12'
+  Buffalo: '9'
+  Havana: '11'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Richmond
+  Montreal: '10'
+  Toronto: '7'
+  Rochester: '9'
+  Columbus: '10'
+  Miami: '10'
+  Buffalo: '12'
+  Havana: '13'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Buffalo
+  Montreal: '9'
+  Toronto: '8'
+  Rochester: '9'
+  Columbus: '9'
+  Miami: '13'
+  Richmond: '9'
+  Havana: '12'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Havana
+  Montreal: '7'
+  Toronto: '11'
+  Rochester: '10'
+  Columbus: '7'
+  Miami: '11'
+  Richmond: '9'
+  Buffalo: '10'

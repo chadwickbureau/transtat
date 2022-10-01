@@ -1,0 +1,1043 @@
+- year: '1937'
+  nameLeague: Western League
+  nameLast: VanCamp
+  nameClub1: Davenport
+  Pos: 1B
+  G: '14'
+  PO: '115'
+  A: '7'
+  E: '1'
+  DP: '7'
+  PCT: '.992'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Clarke
+  nameClub1: Davenport
+  Pos: 1B
+  G: '104'
+  PO: '1007'
+  A: '38'
+  E: '13'
+  DP: '68'
+  PCT: '.988'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Richards
+  nameClub1: Waterloo
+  Pos: 1B
+  G: '36'
+  PO: '300'
+  A: '17'
+  E: '4'
+  DP: '17'
+  PCT: '.988'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Monahan
+  nameClub1: Sioux City
+  Pos: 1B
+  G: '113'
+  PO: '1042'
+  A: '56'
+  E: '14'
+  DP: '93'
+  PCT: '.987'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: DeForrest
+  nameClub1: Cedar Rapids
+  Pos: 1B
+  G: '111'
+  PO: '952'
+  A: '66'
+  E: '13'
+  DP: '70'
+  PCT: '.987'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Kentling
+  nameClub1: Waterloo
+  Pos: 1B
+  G: '41'
+  PO: '408'
+  A: '17'
+  E: '6'
+  DP: '28'
+  PCT: '.986'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Bissonette
+  nameClub1: Des Moines
+  Pos: 1B
+  G: '79'
+  PO: '688'
+  A: '39'
+  E: '11'
+  DP: '42'
+  PCT: '.985'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Larson
+  nameClub1: Rock Island
+  nameClub2: Waterloo
+  Pos: 1B
+  G: '65'
+  PO: '571'
+  A: '23'
+  E: '11'
+  DP: '45'
+  PCT: '.982'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Stroner
+  nameClub1: Waterloo
+  Pos: 1B
+  G: '21'
+  PO: '194'
+  A: '10'
+  E: '5'
+  DP: '13'
+  PCT: '.976'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hughes
+  nameClub1: Des Moines
+  Pos: 1B
+  G: '48'
+  PO: '403'
+  A: '23'
+  E: '11'
+  DP: '25'
+  PCT: '.975'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Mack
+  nameClub1: Waterloo
+  Pos: 1B
+  G: '22'
+  PO: '185'
+  A: '7'
+  E: '6'
+  DP: '15'
+  PCT: '.970'
+  TP: '1'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Michaels
+  nameClub1: Rock Island
+  Pos: 2B
+  G: '16'
+  PO: '43'
+  A: '49'
+  E: '1'
+  DP: '17'
+  PCT: '.989'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Williamson
+  nameClub1: Rock Island
+  Pos: 2B
+  G: '44'
+  PO: '132'
+  A: '109'
+  E: '10'
+  DP: '25'
+  PCT: '.960'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hall
+  nameClub1: Davenport
+  Pos: 2B
+  G: '116'
+  PO: '277'
+  A: '364'
+  E: '30'
+  DP: '70'
+  PCT: '.955'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Martinez
+  nameClub1: Des Moines
+  Pos: 2B
+  G: '111'
+  PO: '266'
+  A: '317'
+  E: '32'
+  DP: '55'
+  PCT: '.948'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Filbert
+  nameClub1: Cedar Rapids
+  Pos: 2B
+  G: '116'
+  PO: '264'
+  A: '304'
+  E: '35'
+  DP: '41'
+  PCT: '.942'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Geer
+  nameClub1: Waterloo
+  Pos: 2B
+  G: '48'
+  PO: '121'
+  A: '157'
+  E: '18'
+  DP: '30'
+  PCT: '.939'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Huff
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '109'
+  PO: '290'
+  A: '328'
+  E: '45'
+  DP: '76'
+  PCT: '.932'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Blackburn
+  nameClub1: Waterloo
+  Pos: 2B
+  G: '68'
+  PO: '165'
+  A: '193'
+  E: '29'
+  DP: '34'
+  PCT: '.925'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Backer
+  nameClub1: Waterloo
+  Pos: 3B
+  G: '115'
+  PO: '134'
+  A: '226'
+  E: '19'
+  DP: '23'
+  PCT: '.950'
+  TP: '1'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Crossley
+  nameClub1: Cedar Rapids
+  Pos: 3B
+  G: '61'
+  PO: '54'
+  A: '116'
+  E: '9'
+  DP: '9'
+  PCT: '.950'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Piet(zak)
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '99'
+  PO: '101'
+  A: '211'
+  E: '24'
+  DP: '19'
+  PCT: '.929'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Tutaj
+  nameClub1: Cedar Rapids
+  Pos: 3B
+  G: '15'
+  PO: '13'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Peddicord
+  nameClub1: Davenport
+  Pos: 3B
+  G: '116'
+  PO: '136'
+  A: '239'
+  E: '29'
+  DP: '15'
+  PCT: '.928'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Michaels
+  nameClub1: Rock Island
+  Pos: 3B
+  G: '49'
+  PO: '54'
+  A: '99'
+  E: '13'
+  DP: '12'
+  PCT: '.922'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Wiklund
+  nameClub1: Sioux City
+  Pos: 3B
+  G: '83'
+  PO: '95'
+  A: '168'
+  E: '26'
+  DP: '16'
+  PCT: '.910'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Kosy
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '14'
+  PO: '9'
+  A: '202'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Gasaway
+  nameClub1: Cedar Rapids
+  Pos: 3B
+  G: '45'
+  PO: '45'
+  A: '73'
+  E: '19'
+  DP: '5'
+  PCT: '.861'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Oetting
+  nameClub1: Rock Island
+  nameClub2: Sioux City
+  Pos: 3B
+  G: '31'
+  PO: '27'
+  A: '71'
+  E: '20'
+  DP: '7'
+  PCT: '.831'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Zelasko
+  nameClub1: Davenport
+  Pos: SS
+  G: '23'
+  PO: '33'
+  A: '62'
+  E: '3'
+  DP: '11'
+  PCT: '.969'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Wiklund
+  nameClub1: Sioux City
+  Pos: SS
+  G: '27'
+  PO: '44'
+  A: '78'
+  E: '18'
+  DP: '16'
+  PCT: '.936'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Kahny
+  nameClub1: Waterloo
+  Pos: SS
+  G: '48'
+  PO: '94'
+  A: '173'
+  E: '19'
+  DP: '29'
+  PCT: '.934'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Blackstock
+  nameClub1: Waterloo
+  Pos: SS
+  G: '13'
+  PO: '26'
+  A: '30'
+  E: '4'
+  DP: '5'
+  PCT: '.933'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Keenoy
+  nameClub1: Cedar Rapids
+  Pos: SS
+  G: '116'
+  PO: '200'
+  A: '309'
+  E: '42'
+  DP: '48'
+  PCT: '.924'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Floyd
+  nameClub1: Davenport
+  Pos: SS
+  G: '91'
+  PO: '175'
+  A: '287'
+  E: '40'
+  DP: '48'
+  PCT: '.920'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Borcherding
+  nameClub1: Sioux City
+  Pos: SS
+  G: '30'
+  PO: '66'
+  A: '91'
+  E: '14'
+  DP: '16'
+  PCT: '.918'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Schohl
+  nameClub1: Rock Island
+  Pos: SS
+  G: '17'
+  PO: '20'
+  A: '47'
+  E: '6'
+  DP: '5'
+  PCT: '.918'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Allaire
+  nameClub1: Des Moines
+  Pos: SS
+  G: '113'
+  PO: '219'
+  A: '348'
+  E: '51'
+  DP: '44'
+  PCT: '.917'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hoover
+  nameClub1: Rock Island
+  Pos: SS
+  G: '45'
+  PO: '79'
+  A: '126'
+  E: '20'
+  DP: '20'
+  PCT: '.911'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Bestudik
+  nameClub1: Waterloo
+  Pos: SS
+  G: '49'
+  PO: '82'
+  A: '142'
+  E: '27'
+  DP: '19'
+  PCT: '.892'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Flippen
+  nameClub1: Sioux City
+  Pos: SS
+  G: '53'
+  PO: '91'
+  A: '183'
+  E: '46'
+  DP: '23'
+  PCT: '.856'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Gasaway
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '14'
+  PO: '27'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Clementi
+  nameClub1: Waterloo
+  Pos: OF
+  G: '12'
+  PO: '22'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Fitzpatrick
+  nameClub1: Davenport
+  Pos: OF
+  G: '15'
+  PO: '17'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Criscola
+  nameClub1: Des Moines
+  Pos: OF
+  G: '60'
+  PO: '168'
+  A: '7'
+  E: '2'
+  DP: '2'
+  PCT: '.989'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Lahman
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '111'
+  PO: '205'
+  A: '8'
+  E: '3'
+  DP: '2'
+  PCT: '.986'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Oetting
+  nameClub1: Rock Island
+  nameClub2: Sioux City
+  Pos: OF
+  G: '74'
+  PO: '138'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.986'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Gamble
+  nameClub1: Waterloo
+  Pos: OF
+  G: '57'
+  PO: '160'
+  A: '11'
+  E: '3'
+  DP: '4'
+  PCT: '.983'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Vesely
+  nameClub1: Sioux City
+  Pos: OF
+  G: '18'
+  PO: '31'
+  A: '4'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Spadafore
+  nameClub1: Rock Island
+  nameClub2: Davenport
+  Pos: OF
+  G: '82'
+  PO: '182'
+  A: '10'
+  E: '6'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Chartak
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '110'
+  PO: '261'
+  A: '18'
+  E: '9'
+  DP: '6'
+  PCT: '.969'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Van Camp
+  nameClub1: Davenport
+  Pos: OF
+  G: '102'
+  PO: '169'
+  A: '18'
+  E: '6'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Prerost
+  nameClub1: Davenport
+  Pos: OF
+  G: '69'
+  PO: '120'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Corbelli
+  nameClub1: Waterloo
+  Pos: OF
+  G: '21'
+  PO: '28'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Traweek
+  nameClub1: Des Moines
+  Pos: OF
+  G: '54'
+  PO: '112'
+  A: '8'
+  E: '4'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Craft
+  nameClub1: Waterloo
+  Pos: OF
+  G: '47'
+  PO: '109'
+  A: '12'
+  E: '4'
+  DP: '3'
+  PCT: '.968'
+  TP: '1'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Frink
+  nameClub1: Sioux City
+  Pos: OF
+  G: '70'
+  PO: '135'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Cosbey
+  nameClub1: Waterloo
+  Pos: OF
+  G: '49'
+  PO: '80'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Plummer
+  nameClub1: Sioux City
+  Pos: OF
+  G: '90'
+  PO: '151'
+  A: '9'
+  E: '6'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hoover
+  nameClub1: Rock Island
+  Pos: OF
+  G: '11'
+  PO: '23'
+  A: '4'
+  E: '1'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Kosy
+  nameClub1: Des Moines
+  Pos: OF
+  G: '37'
+  PO: '70'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hughes
+  nameClub1: Des Moines
+  Pos: OF
+  G: '73'
+  PO: '136'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.959'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Gorman
+  nameClub1: Des Moines
+  Pos: OF
+  G: '103'
+  PO: '190'
+  A: '9'
+  E: '9'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Flood
+  nameClub1: Davenport
+  Pos: OF
+  G: '113'
+  PO: '236'
+  A: '11'
+  E: '12'
+  DP: '2'
+  PCT: '.954'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hall
+  nameClub1: Sioux City
+  Pos: OF
+  G: '111'
+  PO: '255'
+  A: '8'
+  E: '14'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Howard
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '114'
+  PO: '214'
+  A: '15'
+  E: '13'
+  DP: '2'
+  PCT: '.946'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Schinski
+  nameClub1: Sioux City
+  nameClub2: Rock Island
+  nameClub3: Waterloo
+  Pos: OF
+  G: '91'
+  PO: '144'
+  A: '7'
+  E: '9'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Menke
+  nameClub1: Des Moines
+  Pos: OF
+  G: '36'
+  PO: '84'
+  A: '0'
+  E: '6'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Mack
+  nameClub1: Waterloo
+  Pos: OF
+  G: '91'
+  PO: '152'
+  A: '12'
+  E: '12'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Newman
+  nameClub1: Rock Island
+  Pos: OF
+  G: '30'
+  PO: '57'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Stroner
+  nameClub1: Waterloo
+  Pos: OF
+  G: '14'
+  PO: '10'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.990'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Kennedy
+  nameClub1: Rock Island
+  Pos: OF
+  G: '13'
+  PO: '17'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Lorbeer
+  nameClub1: Sioux City
+  Pos: C
+  G: '14'
+  PO: '68'
+  A: '8'
+  E: '1'
+  DP: '2'
+  PB: '1'
+  PCT: '.987'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Krole
+  nameClub1: Sioux City
+  Pos: C
+  G: '25'
+  PO: '104'
+  A: '32'
+  E: '2'
+  DP: '4'
+  PB: '1'
+  PCT: '.986'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Payton
+  nameClub1: Des Moines
+  Pos: C
+  G: '54'
+  PO: '273'
+  A: '49'
+  E: '5'
+  DP: '4'
+  PB: '3'
+  PCT: '.985'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Bergmann
+  nameClub1: Cedar Rapids
+  Pos: C
+  G: '40'
+  PO: '214'
+  A: '22'
+  E: '4'
+  DP: '1'
+  PB: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Clark
+  nameClub1: Rock Island
+  nameClub2: Davenport
+  Pos: C
+  G: '95'
+  PO: '458'
+  A: '81'
+  E: '13'
+  DP: '8'
+  PB: '8'
+  PCT: '.976'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Morgan (Czar.)
+  nameClub1: Davenport
+  Pos: C
+  G: '55'
+  PO: '327'
+  A: '42'
+  E: '9'
+  DP: '2'
+  PB: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Thomas
+  nameClub1: Cedar Rapids
+  Pos: C
+  G: '78'
+  PO: '507'
+  A: '37'
+  E: '16'
+  DP: '7'
+  PB: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Erickson
+  nameClub1: Waterloo
+  Pos: C
+  G: '64'
+  PO: '310'
+  A: '47'
+  E: '12'
+  DP: '4'
+  PB: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Onis
+  nameClub1: Sioux City
+  Pos: C
+  G: '71'
+  PO: '305'
+  A: '57'
+  E: '13'
+  DP: '6'
+  PB: '4'
+  PCT: '.966'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Menke
+  nameFirst: John
+  nameClub1: Des Moines
+  nameClub2: Sioux City
+  Pos: C
+  G: '29'
+  PO: '127'
+  A: '20'
+  E: '6'
+  DP: '2'
+  PB: '6'
+  PCT: '.961'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Menke
+  nameFirst: Walter
+  nameClub1: Des Moines
+  Pos: C
+  G: '34'
+  PO: '145'
+  A: '22'
+  E: '7'
+  DP: '1'
+  PB: '5'
+  PCT: '.960'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Fitzpatrick
+  nameClub1: Davenport
+  Pos: C
+  G: '32'
+  PO: '154'
+  A: '32'
+  E: '8'
+  DP: '5'
+  PB: '0'
+  PCT: '.959'
+  TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Richards
+  nameClub1: Waterloo
+  Pos: C
+  G: '47'
+  PO: '216'
+  A: '24'
+  E: '11'
+  DP: '2'
+  PB: '4'
+  PCT: '.956'
+  TP: '0'

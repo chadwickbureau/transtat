@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: regular
+  W: '85'
+  L: '40'
+  T: '0'
+  PCT: '.680'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: regular
+  W: '70'
+  L: '53'
+  T: '1'
+  PCT: '.569'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: regular
+  W: '68'
+  L: '52'
+  T: '0'
+  PCT: '.567'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular
+  W: '67'
+  L: '56'
+  T: '1'
+  PCT: '.545'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: regular
+  W: '64'
+  L: '61'
+  T: '0'
+  PCT: '.512'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular
+  W: '49'
+  L: '72'
+  T: '1'
+  PCT: '.405'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: New River
+  phase: regular
+  W: '48'
+  L: '76'
+  T: '0'
+  PCT: '.387'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: regular
+  W: '42'
+  L: '83'
+  T: '1'
+  PCT: '.336'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

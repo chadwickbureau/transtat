@@ -1,0 +1,124 @@
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Lockport
+  phase: regular
+  W: '76'
+  L: '49'
+  T: '1'
+  PCT: '.608'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: regular
+  W: '70'
+  L: '54'
+  T: '0'
+  PCT: '.565'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: regular
+  W: '70'
+  L: '55'
+  T: '1'
+  PCT: '.560'
+  RANK: '3'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: regular
+  W: '62'
+  L: '61'
+  T: '0'
+  PCT: '.504'
+  RANK: '4'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Erie
+  phase: regular
+  W: '61'
+  L: '63'
+  T: '0'
+  PCT: '.492'
+  RANK: '5'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: regular
+  W: '57'
+  L: '66'
+  T: '0'
+  PCT: '.463'
+  RANK: '6'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: regular
+  W: '51'
+  L: '73'
+  T: '1'
+  PCT: '.411'
+  RANK: '7'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: regular
+  W: '48'
+  L: '74'
+  T: '1'
+  PCT: '.393'
+  RANK: '8'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Lockford
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: final
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Lockport
+  phase: final
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'

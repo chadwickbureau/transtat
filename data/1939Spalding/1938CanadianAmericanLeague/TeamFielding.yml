@@ -1,0 +1,80 @@
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Cornwall
+  G: '121'
+  PO: '3034'
+  A: '1329'
+  E: '185'
+  TC: '4548'
+  DP: '71'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  G: '127'
+  PO: '3067'
+  A: '1398'
+  E: '206'
+  TC: '4671'
+  DP: '100'
+  PCT: '.956'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  G: '123'
+  PO: '3071'
+  A: '1344'
+  E: '215'
+  TC: '4630'
+  DP: '95'
+  PCT: '.954'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Ottawa
+  G: '125'
+  PO: '3048'
+  A: '1436'
+  E: '231'
+  TC: '4715'
+  DP: '109'
+  PCT: '.951'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  G: '124'
+  PO: '3127'
+  A: '1334'
+  E: '238'
+  TC: '4699'
+  DP: '70'
+  PCT: '.949'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Auburn
+  G: '121'
+  PO: '2983'
+  A: '1338'
+  E: '242'
+  TC: '4563'
+  DP: '84'
+  PCT: '.947'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  G: '130'
+  PO: '3246'
+  A: '1544'
+  E: '277'
+  TC: '5067'
+  DP: '115'
+  PCT: '.945'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Oswego
+  G: '125'
+  PO: '3153'
+  A: '1284'
+  E: '259'
+  TC: '4696'
+  DP: '71'
+  PCT: '.944'

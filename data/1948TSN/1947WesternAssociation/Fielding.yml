@@ -1,0 +1,2633 @@
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Davenport
+  nameClub1: Salina
+  throws: L
+  Pos: 1B
+  G: '131'
+  PO: '1167'
+  A: '44'
+  E: '15'
+  DP: '72'
+  PCT: '.988'
+  TP: '1'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Lane
+  nameClub1: Muskogee
+  throws: L
+  Pos: 1B
+  G: '132'
+  PO: '1113'
+  A: '72'
+  E: '17'
+  DP: '120'
+  PCT: '.986'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Ott
+  nameClub1: St. Joseph
+  throws: L
+  Pos: 1B
+  G: '28'
+  PO: '257'
+  A: '14'
+  E: '4'
+  DP: '22'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Yednock
+  nameClub1: Leavenworth
+  Pos: 1B
+  G: '31'
+  PO: '270'
+  A: '20'
+  E: '5'
+  DP: '24'
+  PCT: '.983'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McCollum
+  nameClub1: Fort Smith
+  throws: L
+  Pos: 1B
+  G: '126'
+  PO: '1100'
+  A: '51'
+  E: '21'
+  DP: '62'
+  PCT: '.982'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Smith
+  nameClub1: St. Joseph
+  throws: L
+  Pos: 1B
+  G: '97'
+  PO: '870'
+  A: '39'
+  E: '17'
+  DP: '78'
+  PCT: '.982'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Czaplewski
+  nameClub1: St. Joseph
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '84'
+  A: '3'
+  E: '2'
+  DP: '10'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Malattia
+  nameClub1: Topeka
+  throws: L
+  Pos: 1B
+  G: '139'
+  PO: '1127'
+  A: '47'
+  E: '28'
+  DP: '82'
+  PCT: '.977'
+  TP: '1'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Sousley
+  nameClub1: Joplin
+  throws: L
+  Pos: 1B
+  G: '127'
+  PO: '1158'
+  A: '43'
+  E: '31'
+  DP: '118'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Curnal
+  nameClub1: Hutchinson
+  throws: L
+  Pos: 1B
+  G: '70'
+  PO: '595'
+  A: '29'
+  E: '16'
+  DP: '41'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kestler
+  nameClub1: Fort Smith
+  Pos: 1B
+  G: '12'
+  PO: '91'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Baker
+  nameClub1: Muskogee
+  Pos: 1B
+  G: '11'
+  PO: '55'
+  A: '3'
+  E: '2'
+  DP: '8'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Lewis
+  nameClub1: Leavenworth
+  throws: L
+  Pos: 1B
+  G: '74'
+  PO: '648'
+  A: '32'
+  E: '25'
+  DP: '42'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Skaggs
+  nameClub1: Joplin
+  Pos: 1B
+  G: '13'
+  PO: '101'
+  A: '6'
+  E: '4'
+  DP: '9'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Clements
+  nameClub1: Hutchinson
+  Pos: 1B
+  G: '58'
+  PO: '499'
+  A: '30'
+  E: '25'
+  DP: '36'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Winslett
+  nameClub1: Hutchinson
+  Pos: 2B
+  G: '12'
+  PO: '17'
+  A: '15'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Command
+  nameClub1: Salina
+  Pos: 2B
+  G: '10'
+  PO: '21'
+  A: '19'
+  E: '1'
+  DP: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Bulkley
+  nameClub1: Topeka
+  Pos: 2B
+  G: '134'
+  PO: '342'
+  A: '357'
+  E: '18'
+  DP: '63'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kleine
+  nameClub1: Hutchinson
+  Pos: 2B
+  G: '13'
+  PO: '26'
+  A: '29'
+  E: '2'
+  DP: '5'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Berry
+  nameClub1: Hutchinson
+  Pos: 2B
+  G: '44'
+  PO: '103'
+  A: '108'
+  E: '8'
+  DP: '20'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Poelker
+  nameClub1: Fort Smith
+  Pos: 2B
+  G: '17'
+  PO: '42'
+  A: '32'
+  E: '3'
+  DP: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Waychoff
+  nameClub1: Salina
+  Pos: 2B
+  G: '120'
+  PO: '328'
+  A: '310'
+  E: '29'
+  DP: '64'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Stanton
+  nameClub1: St. Joseph
+  Pos: 2B
+  G: '107'
+  PO: '282'
+  A: '280'
+  E: '26'
+  DP: '69'
+  PCT: '.956'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Sharp
+  nameClub1: Leavenworth
+  Pos: 2B
+  G: '13'
+  PO: '35'
+  A: '28'
+  E: '3'
+  DP: '4'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kestler
+  nameClub1: Fort Smith
+  Pos: 2B
+  G: '78'
+  PO: '179'
+  A: '193'
+  E: '20'
+  DP: '34'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Horning
+  nameClub1: Hutchinson
+  Pos: 2B
+  G: '65'
+  PO: '175'
+  A: '172'
+  E: '19'
+  DP: '31'
+  PCT: '.948'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Wingo
+  nameClub1: Muskogee
+  Pos: 2B
+  G: '139'
+  PO: '358'
+  A: '391'
+  E: '45'
+  DP: '101'
+  PCT: '.943'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Cook
+  nameClub1: Fort Smith
+  Pos: 2B
+  G: '48'
+  PO: '97'
+  A: '99'
+  E: '13'
+  DP: '7'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Leahey
+  nameClub1: Joplin
+  Pos: 2B
+  G: '119'
+  PO: '338'
+  A: '368'
+  E: '48'
+  DP: '115'
+  PCT: '.936'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Quinn
+  nameClub1: Leavenworth
+  Pos: 2B
+  G: '11'
+  PO: '21'
+  A: '22'
+  E: '3'
+  DP: '9'
+  PCT: '.935'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Landis
+  nameClub1: St. Joseph
+  Pos: 2B
+  G: '38'
+  PO: '84'
+  A: '94'
+  E: '14'
+  DP: '18'
+  PCT: '.927'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Gerber
+  nameClub1: Leavenworth
+  Pos: 2B
+  G: '19'
+  PO: '50'
+  A: '49'
+  E: '9'
+  DP: '13'
+  PCT: '.917'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Wonka
+  nameClub1: Leavenworth
+  Pos: 2B
+  G: '57'
+  PO: '164'
+  A: '134'
+  E: '28'
+  DP: '32'
+  PCT: '.914'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Randolph
+  nameClub1: Leavenworth
+  Pos: 2B
+  G: '13'
+  PO: '23'
+  A: '36'
+  E: '7'
+  DP: '6'
+  PCT: '.894'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Wennemann
+  nameClub1: Joplin
+  Pos: 2B
+  G: '14'
+  PO: '23'
+  A: '28'
+  E: '7'
+  DP: '6'
+  PCT: '.879'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Messuri
+  nameClub1: Hutchinson
+  Pos: 2B
+  G: '15'
+  PO: '30'
+  A: '29'
+  E: '10'
+  DP: '3'
+  PCT: '.855'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Carras
+  nameClub1: Joplin
+  Pos: 2B
+  G: '10'
+  PO: '15'
+  A: '25'
+  E: '11'
+  DP: '2'
+  PCT: '.784'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Alfone
+  nameClub1: Topeka
+  Pos: 3B
+  G: '33'
+  PO: '38'
+  A: '39'
+  E: '1'
+  DP: '4'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Priebe
+  nameClub1: Topeka
+  Pos: 3B
+  G: '27'
+  PO: '23'
+  A: '52'
+  E: '5'
+  DP: '6'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Bushkar
+  nameClub1: Hutchinson
+  Pos: 3B
+  G: '108'
+  PO: '82'
+  A: '244'
+  E: '23'
+  DP: '14'
+  PCT: '.934'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Yednock
+  nameClub1: Leavenworth
+  Pos: 3B
+  G: '89'
+  PO: '121'
+  A: '202'
+  E: '23'
+  DP: '26'
+  PCT: '.934'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Young
+  nameClub1: Topeka
+  Pos: 3B
+  G: '12'
+  PO: '12'
+  A: '28'
+  E: '3'
+  DP: '1'
+  PCT: '.930'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Poppin
+  nameClub1: Salina
+  Pos: 3B
+  G: '47'
+  PO: '43'
+  A: '73'
+  E: '9'
+  DP: '6'
+  PCT: '.928'
+  TP: '1'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Nesmith
+  nameClub1: Leavenworth
+  Pos: 3B
+  G: '12'
+  PO: '6'
+  A: '17'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Klein
+  nameClub1: Muskogee
+  Pos: 3B
+  G: '76'
+  PO: '64'
+  A: '123'
+  E: '17'
+  DP: '11'
+  PCT: '.917'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Switalski
+  nameClub1: Salina
+  Pos: 3B
+  G: '93'
+  PO: '84'
+  A: '176'
+  E: '25'
+  DP: '10'
+  PCT: '.912'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Quinn
+  nameClub1: Leavenworth
+  Pos: 3B
+  G: '11'
+  PO: '4'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kehoe
+  nameClub1: Topeka
+  Pos: 3B
+  G: '20'
+  PO: '14'
+  A: '35'
+  E: '5'
+  DP: '1'
+  PCT: '.907'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: White
+  nameClub1: Topeka
+  Pos: 3B
+  G: '48'
+  PO: '55'
+  A: '60'
+  E: '12'
+  DP: '3'
+  PCT: '.906'
+  TP: '1'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Hafenecker
+  nameClub1: Joplin
+  Pos: 3B
+  G: '109'
+  PO: '98'
+  A: '244'
+  E: '37'
+  DP: '30'
+  PCT: '.902'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Brennan
+  nameClub1: Fort Smith
+  Pos: 3B
+  G: '124'
+  PO: '119'
+  A: '258'
+  E: '43'
+  DP: '19'
+  PCT: '.898'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kronberg
+  nameClub1: Muskogee
+  Pos: 3B
+  G: '59'
+  PO: '40'
+  A: '102'
+  E: '18'
+  DP: '15'
+  PCT: '.888'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Randolph
+  nameClub1: Leavenworth
+  Pos: 3B
+  G: '31'
+  PO: '23'
+  A: '55'
+  E: '10'
+  DP: '4'
+  PCT: '.866'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Schumm
+  nameClub1: Joplin
+  Pos: 3B
+  G: '31'
+  PO: '36'
+  A: '76'
+  E: '15'
+  DP: '6'
+  PCT: '.882'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Landis
+  nameClub1: St. Joseph
+  Pos: 3B
+  G: '47'
+  PO: '42'
+  A: '92'
+  E: '21'
+  DP: '9'
+  PCT: '.865'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Smith
+  nameClub1: Hutchinson
+  Pos: 3B
+  G: '22'
+  PO: '21'
+  A: '27'
+  E: '8'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Cloude
+  nameClub1: St. Joseph
+  Pos: 3B
+  G: '93'
+  PO: '86'
+  A: '169'
+  E: '49'
+  DP: '17'
+  PCT: '.839'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Berry
+  nameClub1: Hutchinson
+  Pos: 3B
+  G: '12'
+  PO: '6'
+  A: '23'
+  E: '8'
+  DP: '0'
+  PCT: '.784'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Dolan
+  nameClub1: Fort Smith
+  Pos: 3B
+  G: '10'
+  PO: '11'
+  A: '15'
+  E: '10'
+  DP: '2'
+  PCT: '.722'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Falk
+  nameFirst: R.
+  nameClub1: Muskogee
+  Pos: SS
+  G: '136'
+  PO: '217'
+  A: '428'
+  E: '41'
+  DP: '92'
+  PCT: '.940'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Celona
+  nameClub1: St. Joseph
+  Pos: SS
+  G: '138'
+  PO: '231'
+  A: '393'
+  E: '59'
+  DP: '85'
+  PCT: '.914'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Picchiotti
+  nameClub1: Hutchinson
+  Pos: SS
+  G: '130'
+  PO: '242'
+  A: '402'
+  E: '61'
+  DP: '59'
+  PCT: '.913'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Eikenberg
+  nameClub1: Leavenworth
+  Pos: SS
+  G: '95'
+  PO: '135'
+  A: '253'
+  E: '37'
+  DP: '34'
+  PCT: '.913'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Poppin
+  nameClub1: Salina
+  Pos: SS
+  G: '87'
+  PO: '123'
+  A: '278'
+  E: '46'
+  DP: '41'
+  PCT: '.897'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Ragone
+  nameClub1: Joplin
+  Pos: SS
+  G: '15'
+  PO: '37'
+  A: '49'
+  E: '10'
+  DP: '3'
+  PCT: '.896'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kestler
+  nameClub1: Fort Smith
+  Pos: SS
+  G: '33'
+  PO: '46'
+  A: '70'
+  E: '14'
+  DP: '4'
+  PCT: '.892'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Dickens
+  nameClub1: Fort Smith
+  Pos: SS
+  G: '93'
+  PO: '146'
+  A: '238'
+  E: '53'
+  DP: '37'
+  PCT: '.879'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Priebe
+  nameClub1: Topeka
+  Pos: SS
+  G: '54'
+  PO: '110'
+  A: '152'
+  E: '36'
+  DP: '27'
+  PCT: '.879'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Young
+  nameClub1: Topeka
+  Pos: SS
+  G: '12'
+  PO: '19'
+  A: '30'
+  E: '7'
+  DP: '5'
+  PCT: '.875'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Brennan
+  nameClub1: Fort Smith
+  Pos: SS
+  G: '12'
+  PO: '21'
+  A: '33'
+  E: '8'
+  DP: '2'
+  PCT: '.871'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Randolph
+  nameClub1: Leavenworth
+  Pos: SS
+  G: '27'
+  PO: '37'
+  A: '78'
+  E: '18'
+  DP: '7'
+  PCT: '.865'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Tretiak
+  nameClub1: Joplin
+  Pos: SS
+  G: '21'
+  PO: '42'
+  A: '48'
+  E: '14'
+  DP: '6'
+  PCT: '.865'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Millsap
+  nameClub1: Leavenworth
+  Pos: SS
+  G: '13'
+  PO: '21'
+  A: '28'
+  E: '8'
+  DP: '2'
+  PCT: '.860'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Bushkar
+  nameClub1: Hutchinson
+  Pos: SS
+  G: '14'
+  PO: '24'
+  A: '31'
+  E: '9'
+  DP: '5'
+  PCT: '.859'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Alfone
+  nameClub1: Topeka
+  Pos: SS
+  G: '74'
+  PO: '120'
+  A: '180'
+  E: '51'
+  DP: '27'
+  PCT: '.855'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Snyder
+  nameClub1: Joplin
+  Pos: SS
+  G: '93'
+  PO: '182'
+  A: '292'
+  E: '81'
+  DP: '70'
+  PCT: '.854'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Dinyer
+  nameClub1: Salina
+  Pos: SS
+  G: '33'
+  PO: '47'
+  A: '78'
+  E: '24'
+  DP: '11'
+  PCT: '.839'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McElreath
+  nameClub1: Muskogee
+  throws: L
+  Pos: OF
+  G: '25'
+  PO: '45'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Carroll
+  nameClub1: Muskogee
+  Pos: OF
+  G: '21'
+  PO: '30'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Cloude
+  nameClub1: St. Joseph
+  Pos: OF
+  G: '15'
+  PO: '22'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Slaysman
+  nameClub1: St. Joseph
+  Pos: OF
+  G: '18'
+  PO: '18'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Edwards
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '10'
+  PO: '14'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Krupa
+  nameClub1: Hutchinson
+  Pos: OF
+  G: '15'
+  PO: '8'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Torres
+  nameClub1: Muskogee
+  Pos: OF
+  G: '12'
+  PO: '7'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Arnovich
+  nameClub1: Hutchinson
+  Pos: OF
+  G: '38'
+  PO: '62'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McQuillen
+  nameClub1: Muskogee
+  Pos: OF
+  G: '77'
+  PO: '163'
+  A: '15'
+  E: '4'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Cunningham
+  nameClub1: St. Joseph
+  throws: L
+  Pos: OF
+  G: '43'
+  PO: '74'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Command
+  nameClub1: Salina
+  Pos: OF
+  G: '127'
+  PO: '225'
+  A: '22'
+  E: '7'
+  DP: '4'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Wonka
+  nameClub1: Leavenworth
+  Pos: OF
+  G: '77'
+  PO: '195'
+  A: '12'
+  E: '6'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Beck
+  nameClub1: St. Joseph
+  Pos: OF
+  G: '84'
+  PO: '165'
+  A: '6'
+  E: '5'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Bowman
+  nameClub1: Leavenworth
+  Pos: OF
+  G: '17'
+  PO: '34'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Glenn
+  nameClub1: Muskogee
+  nameClub2: Salina
+  Pos: OF
+  G: '125'
+  PO: '184'
+  A: '11'
+  E: '6'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Richesin
+  nameClub1: Joplin
+  Pos: OF
+  G: '103'
+  PO: '227'
+  A: '24'
+  E: '8'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Long
+  nameClub1: Salina
+  Pos: OF
+  G: '138'
+  PO: '316'
+  A: '23'
+  E: '12'
+  DP: '3'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Aeschliman
+  nameClub1: Hutchinson
+  Pos: OF
+  G: '139'
+  PO: '283'
+  A: '12'
+  E: '11'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Czaplewski
+  nameClub1: St. Joseph
+  throws: L
+  Pos: OF
+  G: '68'
+  PO: '129'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Baker
+  nameClub1: St. Joseph
+  Pos: OF
+  G: '15'
+  PO: '25'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Shields
+  nameClub1: St. Joseph
+  Pos: OF
+  G: '123'
+  PO: '189'
+  A: '15'
+  E: '8'
+  DP: '5'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McCabe
+  nameClub1: St. Joseph
+  Pos: OF
+  G: '18'
+  PO: '24'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Darnell
+  nameClub1: Topeka
+  Pos: OF
+  G: '34'
+  PO: '44'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Brasse
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '24'
+  PO: '44'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Bocian
+  nameClub1: Joplin
+  Pos: OF
+  G: '23'
+  PO: '38'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Gilmore
+  nameClub1: Joplin
+  Pos: OF
+  G: '122'
+  PO: '225'
+  A: '24'
+  E: '12'
+  DP: '5'
+  PCT: '.954'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Cook
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '91'
+  PO: '211'
+  A: '15'
+  E: '11'
+  DP: '4'
+  PCT: '.954'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Meyers
+  nameClub1: Muskogee
+  Pos: OF
+  G: '63'
+  PO: '133'
+  A: '5'
+  E: '7'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Nieman
+  nameClub1: Topeka
+  throws: L
+  Pos: OF
+  G: '136'
+  PO: '197'
+  A: '18'
+  E: '11'
+  DP: '4'
+  PCT: '.951'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kehoe
+  nameClub1: Topeka
+  throws: L
+  Pos: OF
+  G: '36'
+  PO: '31'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McArthur
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '58'
+  PO: '103'
+  A: '6'
+  E: '6'
+  DP: '0'
+  PCT: '.948'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Ott
+  nameClub1: St. Joseph
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '18'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Nesmith
+  nameClub1: Leavenworth
+  Pos: OF
+  G: '114'
+  PO: '211'
+  A: '13'
+  E: '13'
+  DP: '3'
+  PCT: '.945'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Rasmussen
+  nameClub1: Hutchinson
+  throws: L
+  Pos: OF
+  G: '35'
+  PO: '27'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Baker
+  nameClub1: Muskogee
+  Pos: OF
+  G: '52'
+  PO: '92'
+  A: '10'
+  E: '7'
+  DP: '2'
+  PCT: '.936'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Thomas
+  nameClub1: Joplin
+  Pos: OF
+  G: '57'
+  PO: '82'
+  A: '15'
+  E: '7'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: King
+  nameClub1: Muskogee
+  Pos: OF
+  G: '83'
+  PO: '110'
+  A: '7'
+  E: '9'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kern
+  nameClub1: Joplin
+  Pos: OF
+  G: '24'
+  PO: '23'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Buerger
+  nameClub1: Leavenworth
+  Pos: OF
+  G: '123'
+  PO: '220'
+  A: '10'
+  E: '18'
+  DP: '4'
+  PCT: '.927'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McLean
+  nameClub1: Topeka
+  Pos: OF
+  G: '90'
+  PO: '115'
+  A: '5'
+  E: '10'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: White
+  nameClub1: Topeka
+  Pos: OF
+  G: '40'
+  PO: '32'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McNulty
+  nameClub1: St. Joseph
+  throws: L
+  Pos: OF
+  G: '19'
+  PO: '22'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Church
+  nameClub1: Salina
+  Pos: OF
+  G: '54'
+  PO: '63'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.918'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Scire
+  nameClub1: Hutchinson
+  throws: L
+  Pos: OF
+  G: '134'
+  PO: '159'
+  A: '9'
+  E: '15'
+  DP: '3'
+  PCT: '.918'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Koppa
+  nameClub1: Leavenworth
+  Pos: OF
+  G: '45'
+  PO: '92'
+  A: '6'
+  E: '9'
+  DP: '0'
+  PCT: '.916'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Watkins
+  nameClub1: Topeka
+  Pos: OF
+  G: '67'
+  PO: '86'
+  A: '11'
+  E: '9'
+  DP: '2'
+  PCT: '.915'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Cowen
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '133'
+  PO: '209'
+  A: '12'
+  E: '21'
+  DP: '5'
+  PCT: '.913'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Lilly
+  nameClub1: Salina
+  Pos: OF
+  G: '17'
+  PO: '21'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: McCarnes
+  nameClub1: Joplin
+  Pos: OF
+  G: '69'
+  PO: '107'
+  A: '4'
+  E: '11'
+  DP: '1'
+  PCT: '.910'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Waterman
+  nameClub1: Leavenworth
+  Pos: OF
+  G: '15'
+  PO: '17'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Luciano
+  nameClub1: Topeka
+  Pos: OF
+  G: '10'
+  PO: '10'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Signaigo
+  nameClub1: Joplin
+  Pos: OF
+  G: '17'
+  PO: '18'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Falk
+  nameFirst: J.
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '31'
+  PO: '39'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Zubak
+  nameClub1: Muskogee
+  Pos: OF
+  G: '33'
+  PO: '46'
+  A: '3'
+  E: '6'
+  DP: '1'
+  PCT: '.891'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Morris
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '10'
+  PO: '8'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Switalski
+  nameClub1: Salina
+  Pos: OF
+  G: '15'
+  PO: '20'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Caliento
+  nameClub1: Leavenworth
+  Pos: OF
+  G: '13'
+  PO: '22'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.862'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Arendt
+  nameClub1: Fort Smith
+  Pos: OF
+  G: '30'
+  PO: '56'
+  A: '6'
+  E: '10'
+  DP: '1'
+  PCT: '.861'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Throop
+  nameClub1: Hutchinson
+  Pos: OF
+  G: '71'
+  PO: '82'
+  A: '3'
+  E: '14'
+  DP: '0'
+  PCT: '.859'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Hegwood
+  nameClub1: Topeka
+  Pos: OF
+  G: '13'
+  PO: '9'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Carson
+  nameClub1: Muskogee
+  Pos: C
+  G: '22'
+  PO: '117'
+  A: '12'
+  E: '0'
+  DP: '2'
+  PB: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Estridge
+  nameClub1: Muskogee
+  Pos: C
+  G: '16'
+  PO: '76'
+  A: '7'
+  E: '0'
+  DP: '3'
+  PB: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Sheehan
+  nameClub1: Topeka
+  Pos: C
+  G: '45'
+  PO: '280'
+  A: '51'
+  E: '3'
+  DP: '4'
+  PB: '19'
+  PCT: '.991'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Landis
+  nameClub1: St. Joseph
+  Pos: C
+  G: '39'
+  PO: '211'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PB: '15'
+  PCT: '.991'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Vickery
+  nameClub1: Hutchinson
+  Pos: C
+  G: '37'
+  PO: '217'
+  A: '27'
+  E: '3'
+  DP: '4'
+  PB: '12'
+  PCT: '.988'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kern
+  nameClub1: Joplin
+  Pos: C
+  G: '52'
+  PO: '299'
+  A: '60'
+  E: '5'
+  DP: '5'
+  PB: '10'
+  PCT: '.986'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Benites
+  nameClub1: Muskogee
+  Pos: C
+  G: '103'
+  PO: '586'
+  A: '66'
+  E: '10'
+  DP: '8'
+  PB: '5'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Anderson
+  nameClub1: Topeka
+  Pos: C
+  G: '95'
+  PO: '783'
+  A: '80'
+  E: '17'
+  DP: '4'
+  PB: '11'
+  PCT: '.981'
+  TP: '1'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Rapp
+  nameClub1: St. Joseph
+  Pos: C
+  G: '96'
+  PO: '532'
+  A: '76'
+  E: '15'
+  DP: '13'
+  PB: '18'
+  PCT: '.976'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Brookey
+  nameClub1: Salina
+  Pos: C
+  G: '132'
+  PO: '897'
+  A: '85'
+  E: '25'
+  DP: '15'
+  PB: '18'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Johnson
+  nameFirst: E.
+  nameClub1: Hutchinson
+  Pos: C
+  G: '85'
+  PO: '567'
+  A: '70'
+  E: '16'
+  DP: '12'
+  PB: '21'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Welbrock
+  nameClub1: Leavenworth
+  Pos: C
+  G: '93'
+  PO: '487'
+  A: '50'
+  E: '14'
+  DP: '10'
+  PB: '21'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Falk
+  nameFirst: J.
+  nameClub1: Fort Smith
+  Pos: C
+  G: '60'
+  PO: '335'
+  A: '50'
+  E: '10'
+  DP: '6'
+  PB: '16'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: O'Neal
+  nameClub1: Joplin
+  Pos: C
+  G: '27'
+  PO: '136'
+  A: '20'
+  E: '4'
+  DP: '2'
+  PB: '7'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Narron
+  nameClub1: Fort Smith
+  Pos: C
+  G: '67'
+  PO: '241'
+  A: '45'
+  E: '9'
+  DP: '2'
+  PB: '17'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Hackett
+  nameClub1: Fort Smith
+  Pos: C
+  G: '22'
+  PO: '142'
+  A: '12'
+  E: '5'
+  DP: '0'
+  PB: '8'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Wiles
+  nameClub1: Hutchinson
+  Pos: C
+  G: '26'
+  PO: '158'
+  A: '15'
+  E: '6'
+  DP: '1'
+  PB: '10'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Skaggs
+  nameClub1: Joplin
+  Pos: C
+  G: '61'
+  PO: '278'
+  A: '57'
+  E: '13'
+  DP: '4'
+  PB: '12'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Koppa
+  nameClub1: Leavenworth
+  Pos: C
+  G: '55'
+  PO: '271'
+  A: '45'
+  E: '12'
+  DP: '9'
+  PB: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Connelly
+  nameClub1: St. Joseph
+  Pos: C
+  G: '16'
+  PO: '53'
+  A: '6'
+  E: '10'
+  DP: '0'
+  PB: '5'
+  PCT: '.855'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Harmsen
+  nameClub1: Joplin
+  Pos: P
+  G: '20'
+  PO: '9'
+  A: '29'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Eisiminger
+  nameClub1: St. Joseph
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '29'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Fritz
+  nameClub1: Muskogee
+  Pos: P
+  G: '29'
+  PO: '5'
+  A: '27'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Salisbury
+  nameClub1: Salina
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '17'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Hurgin
+  nameClub1: Fort Smith
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kintz
+  nameClub1: Joplin
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '8'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kuehl
+  nameClub1: Joplin
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '6'
+  A: '42'
+  E: '1'
+  DP: '3'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Jones
+  nameClub1: Joplin
+  Pos: P
+  G: '28'
+  PO: '12'
+  A: '35'
+  E: '1'
+  DP: '0'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Menking
+  nameClub1: Hutchinson
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '41'
+  E: '1'
+  DP: '1'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Bohman
+  nameClub1: Joplin
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '36'
+  E: '1'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Teutsch
+  nameClub1: Salina
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '37'
+  E: '1'
+  DP: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Esqueda
+  nameClub1: Fort Smith
+  Pos: P
+  G: '30'
+  PO: '11'
+  A: '50'
+  E: '2'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Hartley
+  nameClub1: Salina
+  Pos: P
+  G: '38'
+  PO: '8'
+  A: '52'
+  E: '2'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Wolfe
+  nameClub1: Fort Smith
+  Pos: P
+  G: '32'
+  PO: '8'
+  A: '80'
+  E: '3'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Mills
+  nameClub1: Hutchinson
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '50'
+  E: '2'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Popps
+  nameClub1: Fort Smith
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Johnson
+  nameFirst: W.
+  nameClub1: Topeka
+  Pos: P
+  G: '45'
+  PO: '3'
+  A: '71'
+  E: '3'
+  DP: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Houston
+  nameClub1: Muskogee
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Collum
+  nameClub1: St. Joseph
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '64'
+  E: '3'
+  DP: '4'
+  PCT: '.959'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Groves
+  nameClub1: Fort Smith
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Zabotka
+  nameClub1: Muskogee
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '5'
+  A: '39'
+  E: '2'
+  DP: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Hoffman
+  nameClub1: St. Joseph
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '39'
+  E: '2'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Cobo
+  nameClub1: Leavenworth
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '20'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Ross
+  nameClub1: Muskogee
+  Pos: P
+  G: '44'
+  PO: '8'
+  A: '52'
+  E: '3'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Dodson
+  nameClub1: Topeka
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '36'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Luciano
+  nameClub1: Topeka
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Skinner
+  nameClub1: Leavenworth
+  Pos: P
+  G: '29'
+  PO: '1'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Crocco
+  nameClub1: Muskogee
+  Pos: P
+  G: '38'
+  PO: '14'
+  A: '54'
+  E: '4'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Graney
+  nameClub1: Salina
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '45'
+  E: '3'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Madigan
+  nameClub1: Fort Smith
+  Pos: P
+  G: '19'
+  PO: '10'
+  A: '40'
+  E: '3'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Pasquerella
+  nameClub1: Hutchinson
+  Pos: P
+  G: '31'
+  PO: '11'
+  A: '37'
+  E: '3'
+  DP: '2'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: VanHoose
+  nameClub1: Leavenworth
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '30'
+  E: '2'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Kendrick
+  nameClub1: Salina
+  nameClub2: Fort Smith
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Foulk
+  nameClub1: Hutchinson
+  Pos: P
+  G: '32'
+  PO: '9'
+  A: '60'
+  E: '5'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Haughey
+  nameClub1: St. Joseph
+  Pos: P
+  G: '36'
+  PO: '1'
+  A: '26'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Stuffel
+  nameClub1: Salina
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '23'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Rogers
+  nameClub1: St. Joseph
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Hudson
+  nameClub1: Muskogee
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '8'
+  A: '63'
+  E: '6'
+  DP: '5'
+  PCT: '.922'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Grimsley
+  nameClub1: Topeka
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '4'
+  A: '54'
+  E: '5'
+  DP: '4'
+  PCT: '.921'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Matthews
+  nameClub1: Leavenworth
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '30'
+  E: '3'
+  DP: '3'
+  PCT: '.921'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Belinsky
+  nameClub1: Fort Smith
+  Pos: P
+  G: '39'
+  PO: '13'
+  A: '56'
+  E: '6'
+  DP: '3'
+  PCT: '.920'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Curley
+  nameClub1: Topeka
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '49'
+  E: '5'
+  DP: '2'
+  PCT: '.918'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Brown
+  nameFirst: Rob.
+  nameClub1: Hutchinson
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '28'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Church
+  nameClub1: Salina
+  Pos: P
+  G: '30'
+  PO: '10'
+  A: '61'
+  E: '7'
+  DP: '1'
+  PCT: '.910'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Verderame
+  nameClub1: Topeka
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '0'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Baker
+  nameClub1: Hutchinson
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Bowman
+  nameClub1: Leavenworth
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Malman
+  nameClub1: Leavenworth
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Michels
+  nameClub1: Joplin
+  Pos: P
+  G: '34'
+  PO: '3'
+  A: '32'
+  E: '4'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Langley
+  nameClub1: Hutchinson
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '24'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Geraci
+  nameClub1: Leavenworth
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '48'
+  E: '7'
+  DP: '4'
+  PCT: '.896'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Vondrashek
+  nameClub1: Joplin
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '28'
+  E: '4'
+  DP: '2'
+  PCT: '.895'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Coughlin
+  nameClub1: Leavenworth
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '40'
+  E: '6'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Albrecht
+  nameClub1: Fort Smith
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '13'
+  E: '2'
+  DP: '4'
+  PCT: '.882'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Gilmore
+  nameFirst: D.
+  nameClub1: St. Joseph
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '31'
+  E: '5'
+  DP: '1'
+  PCT: '.881'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Jester
+  nameClub1: Leavenworth
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '26'
+  E: '5'
+  DP: '2'
+  PCT: '.861'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western Association
+  nameLast: Muhr
+  nameClub1: St. Joseph
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '9'
+  A: '38'
+  E: '11'
+  DP: '4'
+  PCT: '.810'
+  TP: '0'

@@ -1,0 +1,94 @@
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  phase: regular
+  W: '77'
+  L: '62'
+  PCT: '.554'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  phase: regular
+  W: '74'
+  L: '64'
+  PCT: '.536'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: York
+  phase: regular
+  W: '69'
+  L: '68'
+  PCT: '.504'
+  RANK: '3'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  phase: regular
+  W: '66'
+  L: '72'
+  PCT: '.478'
+  RANK: '4'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Hagerstown
+  phase: regular
+  W: '65'
+  L: '73'
+  PCT: '.471'
+  RANK: '5'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Trenton
+  phase: regular
+  W: '63'
+  L: '75'
+  PCT: '.457'
+  RANK: '6'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: York
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

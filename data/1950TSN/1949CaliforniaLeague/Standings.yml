@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '85'
+  L: '54'
+  T: '0'
+  PCT: '.612'
+  RANK: '1'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '0'
+  PCT: '.592'
+  RANK: '2'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '1'
+  PCT: '.571'
+  RANK: '3'
+- year: '1949'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular
+  W: '76'
+  L: '64'
+  T: '1'
+  PCT: '.543'
+  RANK: '4'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: regular
+  W: '75'
+  L: '65'
+  T: '0'
+  PCT: '.536'
+  RANK: '5'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '64'
+  L: '76'
+  T: '0'
+  PCT: '.457'
+  RANK: '6'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '54'
+  L: '85'
+  T: '0'
+  PCT: '.388'
+  RANK: '7'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '52'
+  L: '98'
+  T: '0'
+  PCT: '.300'
+  RANK: '8'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

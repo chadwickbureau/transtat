@@ -1,0 +1,118 @@
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: regular
+  W: '76'
+  L: '44'
+  T: '0'
+  PCT: '.618'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Danville
+  phase: regular
+  W: '76'
+  L: '44'
+  T: '0'
+  PCT: '.618'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '68'
+  L: '51'
+  T: '1'
+  PCT: '.571'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: regular
+  W: '63'
+  L: '60'
+  T: '0'
+  PCT: '.512'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular
+  W: '62'
+  L: '63'
+  T: '0'
+  PCT: '.496'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Springfield
+  phase: regular
+  W: '58'
+  L: '67'
+  T: '1'
+  PCT: '.464'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Decatur
+  phase: regular
+  W: '43'
+  L: '72'
+  T: '0'
+  PCT: '.374'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular
+  W: '37'
+  L: '82'
+  T: '0'
+  PCT: '.311'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Danville
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

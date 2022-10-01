@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  Schenectady: '14'
+  Reading: '17'
+  Albany: '15'
+  Allentown: '21'
+  Springfield: '18'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  Binghamton: '14'
+  Reading: '14'
+  Albany: '19'
+  Allentown: '17'
+  Springfield: '19'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Reading
+  Binghamton: '11'
+  Schenectady: '14'
+  Albany: '15'
+  Allentown: '15'
+  Springfield: '19'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Albany
+  Binghamton: '13'
+  Schenectady: '9'
+  Reading: '13'
+  Allentown: '15'
+  Springfield: '16'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  Binghamton: '7'
+  Schenectady: '11'
+  Reading: '13'
+  Albany: '13'
+  Springfield: '12'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Springfield
+  Binghamton: '10'
+  Schenectady: '9'
+  Reading: '9'
+  Albany: '11'
+  Allentown: '16'

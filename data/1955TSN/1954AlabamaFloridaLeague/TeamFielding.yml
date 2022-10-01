@@ -1,0 +1,66 @@
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Andalusia-Opp
+  G: '126'
+  DP: '122'
+  PB: '33'
+  PO: '3294'
+  A: '1301'
+  E: '228'
+  PCT: '.953'
+  TP: '2'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Dothan
+  G: '126'
+  DP: '82'
+  PB: '30'
+  PO: '3329'
+  A: '1314'
+  E: '247'
+  PCT: '.949'
+  TP: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Crestview
+  G: '124'
+  DP: '131'
+  PB: '27'
+  PO: '3238'
+  A: '1347'
+  E: '247'
+  PCT: '.949'
+  TP: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  G: '127'
+  DP: '94'
+  PB: '33'
+  PO: '3369'
+  A: '1301'
+  E: '293'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  G: '125'
+  DP: '98'
+  PB: '21'
+  PO: '3261'
+  A: '1278'
+  E: '306'
+  PCT: '.937'
+  TP: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  G: '126'
+  DP: '101'
+  PB: '28'
+  PO: '3244'
+  A: '1278'
+  E: '326'
+  PCT: '.933'
+  TP: '0'

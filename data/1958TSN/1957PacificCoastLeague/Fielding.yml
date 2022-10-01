@@ -1,0 +1,3142 @@
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Mickelson
+  nameClub1: Portland
+  Pos: 1B
+  G: '59'
+  PO: '496'
+  A: '41'
+  E: '1'
+  DP: '51'
+  PCT: '.998'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: DiPietro
+  nameClub1: San Diego
+  Pos: 1B
+  G: '41'
+  PO: '301'
+  A: '23'
+  E: '1'
+  DP: '25'
+  PCT: '.997'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Marshall
+  nameClub1: Vancouver
+  throws: L
+  Pos: 1B
+  G: '168'
+  PO: '1535'
+  A: '101'
+  E: '7'
+  DP: '172'
+  PCT: '.996'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Kellert
+  nameClub1: San Francisco
+  Pos: 1B
+  G: '162'
+  PO: '1362'
+  A: '88'
+  E: '9'
+  DP: '129'
+  PCT: '.994'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Stevens
+  nameClub1: Hollywood
+  throws: L
+  Pos: 1B
+  G: '73'
+  PO: '569'
+  A: '44'
+  E: '4'
+  DP: '52'
+  PCT: '.994'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bevan
+  nameClub1: Seattle
+  Pos: 1B
+  G: '55'
+  PO: '4579'
+  A: '35'
+  E: '3'
+  DP: '41'
+  PCT: '.994'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bowen
+  nameClub1: Portland
+  Pos: 1B
+  G: '37'
+  PO: '314'
+  A: '24'
+  E: '2'
+  DP: '30'
+  PCT: '.994'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Baumer
+  nameClub1: Hollywood
+  Pos: 1B
+  G: '16'
+  PO: '131'
+  A: '7'
+  E: '1'
+  DP: '16'
+  PCT: '.993'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bilko
+  nameClub1: Los Angeles
+  Pos: 1B
+  G: '157'
+  PO: '1289'
+  A: '110'
+  E: '12'
+  DP: '142'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Westlake
+  nameClub1: Sacramento
+  throws: L
+  Pos: 1B
+  G: '96'
+  PO: '810'
+  A: '68'
+  E: '8'
+  DP: '80'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bartirome
+  nameClub1: Hollywood
+  throws: L
+  Pos: 1B
+  G: '67'
+  PO: '499'
+  A: '26'
+  E: '5'
+  DP: '53'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Ward
+  nameClub1: San Diego
+  Pos: 1B
+  G: '95'
+  PO: '707'
+  A: '51'
+  E: '8'
+  DP: '68'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameClub1: Portland
+  Pos: 1B
+  G: '11'
+  PO: '95'
+  A: '9'
+  E: '1'
+  DP: '12'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Glynn
+  nameClub1: Seattle
+  nameClub2: San Diego
+  throws: L
+  Pos: 1B
+  G: '122'
+  PO: '1026'
+  A: '86'
+  E: '12'
+  DP: '88'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Marquez
+  nameClub1: Portland
+  Pos: 1B
+  G: '41'
+  PO: '356'
+  A: '14'
+  E: '5'
+  DP: '28'
+  PCT: '.987'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Metkovich
+  nameClub1: San Diego
+  throws: L
+  Pos: 1B
+  G: '21'
+  PO: '180'
+  A: '11'
+  E: '3'
+  DP: '24'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jones
+  nameClub1: Sacramento
+  Pos: 1B
+  G: '66'
+  PO: '545'
+  A: '50'
+  E: '11'
+  DP: '47'
+  PCT: '.982'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Pettit
+  nameClub1: Hollywood
+  throws: L
+  Pos: 1B
+  G: '22'
+  PO: '169'
+  A: '19'
+  E: '4'
+  DP: '14'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Macko
+  nameClub1: Portland
+  Pos: 1B
+  G: '19'
+  PO: '160'
+  A: '7'
+  E: '4'
+  DP: '11'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Locklin
+  nameClub1: San Diego
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '112'
+  A: '5'
+  E: '3'
+  DP: '9'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Malmberg
+  nameClub1: San Francisco
+  Pos: 2B
+  G: '34'
+  PO: '87'
+  A: '77'
+  E: '0'
+  DP: '19'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameClub1: Portland
+  Pos: 2B
+  G: '39'
+  PO: '80'
+  A: '101'
+  E: '1'
+  DP: '23'
+  PCT: '.994'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Basinski
+  nameClub1: Portland
+  nameClub2: Seattle
+  Pos: 2B
+  G: '84'
+  PO: '194'
+  A: '210'
+  E: '3'
+  DP: '54'
+  PCT: '.992'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Young
+  nameClub1: San Diego
+  Pos: 2B
+  G: '24'
+  PO: '46'
+  A: '52'
+  E: '1'
+  DP: '17'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: DeMars
+  nameClub1: Portland
+  Pos: 2B
+  G: '21'
+  PO: '26'
+  A: '43'
+  E: '1'
+  DP: '7'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Anderson
+  nameClub1: Los Angeles
+  Pos: 2B
+  G: '168'
+  PO: '523'
+  A: '486'
+  E: '15'
+  DP: '135'
+  PCT: '.985'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Moran
+  nameClub1: San Diego
+  Pos: 2B
+  G: '106'
+  PO: '214'
+  A: '227'
+  E: '7'
+  DP: '59'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jorgensen
+  nameClub1: Vancouver
+  Pos: 2B
+  G: '89'
+  PO: '201'
+  A: '226'
+  E: '8'
+  DP: '57'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Agosta
+  nameClub1: Sacramento
+  Pos: 2B
+  G: '45'
+  PO: '100'
+  A: '105'
+  E: '4'
+  DP: '30'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jacobs
+  nameClub1: Hollywood
+  Pos: 2B
+  G: '134'
+  PO: '304'
+  A: '337'
+  E: '14'
+  DP: '97'
+  PCT: '.979'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Wise
+  nameClub1: Portland
+  Pos: 2B
+  G: '81'
+  PO: '198'
+  A: '207'
+  E: '9'
+  DP: '58'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Aspromonte
+  nameClub1: San Francisco
+  Pos: 2B
+  G: '108'
+  PO: '323'
+  A: '247'
+  E: '15'
+  DP: '79'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: McKee
+  nameClub1: Portland
+  Pos: 2B
+  G: '29'
+  PO: '54'
+  A: '59'
+  E: '3'
+  DP: '20'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Federoff
+  nameClub1: San Diego
+  nameClub2: Seattle
+  Pos: 2B
+  G: '93'
+  PO: '196'
+  A: '251'
+  E: '13'
+  DP: '62'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Wilson
+  nameClub1: Sacramento
+  Pos: 2B
+  G: '72'
+  PO: '196'
+  A: '174'
+  E: '12'
+  DP: '42'
+  PCT: '.969'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Friend
+  nameClub1: Vancouver
+  Pos: 2B
+  G: '87'
+  PO: '203'
+  A: '252'
+  E: '15'
+  DP: '70'
+  PCT: '.968'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Baumer
+  nameClub1: Hollywood
+  Pos: 2B
+  G: '34'
+  PO: '88'
+  A: '68'
+  E: '7'
+  DP: '21'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Streeter
+  nameClub1: Sacramento
+  Pos: 2B
+  G: '17'
+  PO: '48'
+  A: '39'
+  E: '4'
+  DP: '9'
+  PCT: '.956'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bright
+  nameClub1: Sacramento
+  Pos: 2B
+  G: '31'
+  PO: '75'
+  A: '70'
+  E: '7'
+  DP: '17'
+  PCT: '.954'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Righetti
+  nameClub1: Seattle
+  Pos: 2B
+  G: '40'
+  PO: '91'
+  A: '91'
+  E: '9'
+  DP: '25'
+  PCT: '.953'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Wills
+  nameClub1: Seattle
+  Pos: 2B
+  G: '12'
+  PO: '30'
+  A: '21'
+  E: '3'
+  DP: '6'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Winceniak
+  nameClub1: Portland
+  Pos: 2B
+  G: '19'
+  PO: '38'
+  A: '38'
+  E: '7'
+  DP: '15'
+  PCT: '.916'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Basinski
+  nameClub1: Seattle
+  Pos: 3B
+  G: '42'
+  PO: '28'
+  A: '91'
+  E: '1'
+  DP: '6'
+  PCT: '.992'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: DeMars
+  nameClub1: Portland
+  Pos: 3B
+  G: '73'
+  PO: '56'
+  A: '154'
+  E: '4'
+  DP: '13'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Regalado
+  nameClub1: San Diego
+  Pos: 3B
+  G: '85'
+  PO: '77'
+  A: '154'
+  E: '7'
+  DP: '10'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jorgensen
+  nameClub1: Vancouver
+  Pos: 3B
+  G: '26'
+  PO: '23'
+  A: '67'
+  E: '3'
+  DP: '10'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameClub1: Portland
+  Pos: 3B
+  G: '30'
+  PO: '14'
+  A: '34'
+  E: '2'
+  DP: '5'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Olsen
+  nameClub1: Sacramento
+  Pos: 3B
+  G: '53'
+  PO: '53'
+  A: '139'
+  E: '9'
+  DP: '7'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Freese
+  nameClub1: Portland
+  Pos: 3B
+  G: '63'
+  PO: '59'
+  A: '139'
+  E: '10'
+  DP: '10'
+  PCT: '.952'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Baxes
+  nameClub1: Los Angeles
+  Pos: 3B
+  G: '82'
+  PO: '89'
+  A: '164'
+  E: '15'
+  DP: '13'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hartsfield
+  nameClub1: Los Angeles
+  Pos: 3B
+  G: '85'
+  PO: '60'
+  A: '175'
+  E: '15'
+  DP: '19'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Rodriguez
+  nameClub1: Hollywood
+  Pos: 3B
+  G: '55'
+  PO: '50'
+  A: '107'
+  E: '10'
+  DP: '8'
+  PCT: '.940'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Dyck
+  nameClub1: Seattle
+  Pos: 3B
+  G: '29'
+  PO: '24'
+  A: '53'
+  E: '5'
+  DP: '5'
+  PCT: '.939'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Kazak
+  nameClub1: San Diego
+  Pos: 3B
+  G: '49'
+  PO: '45'
+  A: '92'
+  E: '8'
+  DP: '9'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Harrell
+  nameClub1: San Diego
+  Pos: 3B
+  G: '11'
+  PO: '11'
+  A: '19'
+  E: '2'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Segrist
+  nameClub1: Vancouver
+  Pos: 3B
+  G: '142'
+  PO: '118'
+  A: '329'
+  E: '30'
+  DP: '35'
+  PCT: '.937'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hatton
+  nameClub1: San Francisco
+  Pos: 3B
+  G: '92'
+  PO: '69'
+  A: '198'
+  E: '19'
+  DP: '22'
+  PCT: '.934'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameClub1: Hollywood
+  Pos: 3B
+  G: '32'
+  PO: '35'
+  A: '62'
+  E: '7'
+  DP: '4'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Borkowski
+  nameClub1: Portland
+  Pos: 3B
+  G: '23'
+  PO: '11'
+  A: '42'
+  E: '4'
+  DP: '3'
+  PCT: '.930'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Baumer
+  nameClub1: Hollywood
+  Pos: 3B
+  G: '81'
+  PO: '64'
+  A: '159'
+  E: '17'
+  DP: '15'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Tanner
+  nameClub1: San Francisco
+  Pos: 3B
+  G: '20'
+  PO: '15'
+  A: '49'
+  E: '5'
+  DP: '6'
+  PCT: '.928'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Phillips
+  nameClub1: San Francisco
+  Pos: 3B
+  G: '67'
+  PO: '62'
+  A: '127'
+  E: '15'
+  DP: '9'
+  PCT: '.926'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bevan
+  nameClub1: Seattle
+  Pos: 3B
+  G: '103'
+  PO: '86'
+  A: '209'
+  E: '29'
+  DP: '22'
+  PCT: '.910'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Heron
+  nameClub1: Sacramento
+  Pos: 3B
+  G: '49'
+  PO: '47'
+  A: '100'
+  E: '16'
+  DP: '7'
+  PCT: '.902'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hardin
+  nameClub1: San Diego
+  Pos: 3B
+  G: '11'
+  PO: '4'
+  A: '14'
+  E: '2'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bright
+  nameClub1: Sacramento
+  Pos: 3B
+  G: '67'
+  PO: '71'
+  A: '146'
+  E: '27'
+  DP: '14'
+  PCT: '.889'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: DiPietro
+  nameClub1: San Francisco
+  nameClub2: San Diego
+  Pos: 3B
+  G: '13'
+  PO: '5'
+  A: '21'
+  E: '4'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Friend
+  nameClub1: Vancouver
+  Pos: SS
+  G: '19'
+  PO: '25'
+  A: '40'
+  E: '1'
+  DP: '11'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Caro
+  nameClub1: Los Angeles
+  Pos: SS
+  G: '11'
+  PO: '13'
+  A: '27'
+  E: '1'
+  DP: '8'
+  PCT: '.976'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Malmberg
+  nameClub1: San Francisco
+  Pos: SS
+  G: '117'
+  PO: '165'
+  A: '387'
+  E: '17'
+  DP: '61'
+  PCT: '.970'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Rodriguez
+  nameClub1: Hollywood
+  Pos: SS
+  G: '88'
+  PO: '140'
+  A: '253'
+  E: '13'
+  DP: '55'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bell
+  nameClub1: Sacramento
+  Pos: SS
+  G: '25'
+  PO: '48'
+  A: '69'
+  E: '4'
+  DP: '14'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Righetti
+  nameClub1: Sacramento
+  Pos: SS
+  G: '114'
+  PO: '218'
+  A: '332'
+  E: '20'
+  DP: '69'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: DeMars
+  nameClub1: Portland
+  Pos: SS
+  G: '30'
+  PO: '54'
+  A: '84'
+  E: '5'
+  DP: '21'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: O'Brien
+  nameClub1: Hollywood
+  Pos: SS
+  G: '20'
+  PO: '38'
+  A: '44'
+  E: '3'
+  DP: '10'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Peterson
+  nameClub1: Vancouver
+  Pos: SS
+  G: '152'
+  PO: '261'
+  A: '554'
+  E: '31'
+  DP: '113'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Harrell
+  nameClub1: San Diego
+  Pos: SS
+  G: '108'
+  PO: '184'
+  A: '300'
+  E: '20'
+  DP: '66'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Heron
+  nameClub1: Sacramento
+  Pos: SS
+  G: '21'
+  PO: '35'
+  A: '58'
+  E: '4'
+  DP: '8'
+  PCT: '.959'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Phillips
+  nameClub1: San Francisco
+  Pos: SS
+  G: '12'
+  PO: '16'
+  A: '23'
+  E: '2'
+  DP: '6'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Moran
+  nameClub1: San Diego
+  Pos: SS
+  G: '55'
+  PO: '107'
+  A: '164'
+  E: '15'
+  DP: '34'
+  PCT: '.948'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Littrell
+  nameClub1: Portland
+  Pos: SS
+  G: '29'
+  PO: '45'
+  A: '96'
+  E: '8'
+  DP: '23'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Winceniak
+  nameClub1: Portland
+  Pos: SS
+  G: '112'
+  PO: '173'
+  A: '370'
+  E: '32'
+  DP: '64'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameClub1: Hollywood
+  Pos: SS
+  G: '62'
+  PO: '125'
+  A: '182'
+  E: '20'
+  DP: '39'
+  PCT: '.939'
+  TP: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Lammers
+  nameClub1: Los Angeles
+  Pos: SS
+  G: '117'
+  PO: '148'
+  A: '301'
+  E: '30'
+  DP: '54'
+  PCT: '.937'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hatton
+  nameClub1: San Francisco
+  Pos: SS
+  G: '12'
+  PO: '20'
+  A: '21'
+  E: '3'
+  DP: '6'
+  PCT: '.932'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Wills
+  nameClub1: Seattle
+  Pos: SS
+  G: '127'
+  PO: '234'
+  A: '404'
+  E: '48'
+  DP: '63'
+  PCT: '.930'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Dolan
+  nameClub1: Los Angeles
+  Pos: SS
+  G: '65'
+  PO: '92'
+  A: '161'
+  E: '20'
+  DP: '36'
+  PCT: '.927'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Aspromonte
+  nameClub1: San Francisco
+  Pos: SS
+  G: '27'
+  PO: '36'
+  A: '70'
+  E: '9'
+  DP: '12'
+  PCT: '.922'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Luttrell
+  nameClub1: Seattle
+  Pos: SS
+  G: '45'
+  PO: '71'
+  A: '139'
+  E: '20'
+  DP: '21'
+  PCT: '.913'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Kazak
+  nameClub1: San Diego
+  Pos: OF
+  G: '45'
+  PO: '82'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Mauro
+  nameClub1: Seattle
+  Pos: OF
+  G: '20'
+  PO: '56'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Ernaga
+  nameClub1: Portland
+  Pos: OF
+  G: '31'
+  PO: '50'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Taormina
+  nameClub1: San Francisco
+  Pos: OF
+  G: '30'
+  PO: '47'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Westlake
+  nameClub1: Sacramento
+  throws: L
+  Pos: OF
+  G: '33'
+  PO: '43'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Rosburg
+  nameClub1: Sacramento
+  throws: L
+  Pos: OF
+  G: '15'
+  PO: '43'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Tobin
+  nameClub1: Sacramento
+  Pos: OF
+  G: '14'
+  PO: '34'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Cuitti
+  nameClub1: Sacramento
+  Pos: OF
+  G: '10'
+  PO: '24'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Wehner
+  nameClub1: Sacramento
+  throws: L
+  Pos: OF
+  G: '14'
+  PO: '22'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Glynn
+  nameClub1: San Diego
+  throws: L
+  Pos: OF
+  G: '15'
+  PO: '19'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: DiPietro
+  nameClub1: San Francisco
+  nameClub2: San Diego
+  Pos: OF
+  G: '11'
+  PO: '15'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Clarkson
+  nameClub1: Portland
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '17'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Robinson
+  nameClub1: San Diego
+  Pos: OF
+  G: '137'
+  PO: '364'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.997'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Heist
+  nameClub1: Sacramento
+  Pos: OF
+  G: '166'
+  PO: '474'
+  A: '20'
+  E: '2'
+  DP: '3'
+  PCT: '.996'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Umphlett
+  nameClub1: San Francisco
+  Pos: OF
+  G: '69'
+  PO: '176'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.995'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bernier
+  nameClub1: Hollywood
+  Pos: OF
+  G: '120'
+  PO: '300'
+  A: '8'
+  E: '2'
+  DP: '2'
+  PCT: '.994'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Diering
+  nameClub1: Vancouver
+  Pos: OF
+  G: '62'
+  PO: '113'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.992'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Keough
+  nameClub1: San Francisco
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '372'
+  A: '10'
+  E: '4'
+  DP: '0'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Drake
+  nameClub1: Portland
+  Pos: OF
+  G: '168'
+  PO: '447'
+  A: '9'
+  E: '5'
+  DP: '2'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Frazier
+  nameClub1: Vancouver
+  Pos: OF
+  G: '134'
+  PO: '248'
+  A: '12'
+  E: '3'
+  DP: '1'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Rapp
+  nameClub1: San Diego
+  nameClub2: Portland
+  Pos: OF
+  G: '54'
+  PO: '83'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Green
+  nameClub1: Vancouver
+  throws: L
+  Pos: OF
+  G: '139'
+  PO: '382'
+  A: '6'
+  E: '5'
+  DP: '2'
+  PCT: '.987'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Balcena
+  nameClub1: Seattle
+  Pos: OF
+  G: '129'
+  PO: '352'
+  A: '12'
+  E: '5'
+  DP: '3'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Greengrass
+  nameClub1: Sacramento
+  Pos: OF
+  G: '148'
+  PO: '271'
+  A: '15'
+  E: '4'
+  DP: '3'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Carswell
+  nameClub1: Portland
+  Pos: OF
+  G: '47'
+  PO: '68'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Pope
+  nameClub1: San Diego
+  Pos: OF
+  G: '123'
+  PO: '252'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Averill
+  nameClub1: San Diego
+  Pos: OF
+  G: '34'
+  PO: '61'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Renna
+  nameClub1: San Francisco
+  Pos: OF
+  G: '124'
+  PO: '237'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Taylor
+  nameClub1: Seattle
+  Pos: OF
+  G: '114'
+  PO: '232'
+  A: '9'
+  E: '4'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: White
+  nameClub1: Sacramento
+  Pos: OF
+  G: '59'
+  PO: '117'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Borkowski
+  nameClub1: Los Angeles
+  nameClub2: Portland
+  Pos: OF
+  G: '130'
+  PO: '216'
+  A: '8'
+  E: '4'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Pearson
+  nameClub1: San Francisco
+  throws: L
+  Pos: OF
+  G: '149'
+  PO: '336'
+  A: '28'
+  E: '7'
+  DP: '7'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Saffell
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '117'
+  PO: '256'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Delis
+  nameClub1: Seattle
+  Pos: OF
+  G: '96'
+  PO: '201'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Locklin
+  nameClub1: San Diego
+  throws: L
+  Pos: OF
+  G: '24'
+  PO: '43'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Wade
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '92'
+  PO: '243'
+  A: '10'
+  E: '6'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Regalado
+  nameClub1: San Diego
+  Pos: OF
+  G: '41'
+  PO: '76'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Duhem
+  nameClub1: Hollywood
+  Pos: OF
+  G: '109'
+  PO: '209'
+  A: '16'
+  E: '6'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Causion
+  nameClub1: Hollywood
+  throws: L
+  Pos: OF
+  G: '143'
+  PO: '372'
+  A: '8'
+  E: '11'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Pettit
+  nameClub1: Hollywood
+  throws: L
+  Pos: OF
+  G: '133'
+  PO: '250'
+  A: '15'
+  E: '8'
+  DP: '5'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Lennon
+  nameClub1: San Diego
+  throws: L
+  Pos: OF
+  G: '99'
+  PO: '156'
+  A: '2'
+  E: '5'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hamric
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '108'
+  PO: '199'
+  A: '16'
+  E: '7'
+  DP: '5'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Dyck
+  nameClub1: Seattle
+  Pos: OF
+  G: '126'
+  PO: '223'
+  A: '8'
+  E: '8'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Marquez
+  nameClub1: Portland
+  Pos: OF
+  G: '121'
+  PO: '250'
+  A: '9'
+  E: '9'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bright
+  nameClub1: Sacramento
+  Pos: OF
+  G: '41'
+  PO: '72'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Thurman
+  nameClub1: Seattle
+  throws: L
+  Pos: OF
+  G: '27'
+  PO: '47'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Elliott
+  nameClub1: Vancouver
+  Pos: OF
+  G: '15'
+  PO: '21'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Fridley
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '74'
+  PO: '121'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Crawford
+  nameClub1: Vancouver
+  Pos: OF
+  G: '36'
+  PO: '60'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.954'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jenkins
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '73'
+  PO: '120'
+  A: '5'
+  E: '7'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hartsfield
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '32'
+  PO: '53'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.949'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Powis
+  nameClub1: Vancouver
+  Pos: OF
+  G: '75'
+  PO: '138'
+  A: '4'
+  E: '8'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hale
+  nameClub1: Vancouver
+  throws: L
+  Pos: OF
+  G: '36'
+  PO: '46'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Friend
+  nameClub1: Vancouver
+  Pos: OF
+  G: '16'
+  PO: '27'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Francona
+  nameClub1: Vancouver
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '27'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Moitoza
+  nameClub1: Vancouver
+  Pos: OF
+  G: '17'
+  PO: '28'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Stuart
+  nameClub1: Hollywood
+  Pos: OF
+  G: '19'
+  PO: '26'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Tappe
+  nameClub1: Los Angeles
+  Pos: C
+  G: '77'
+  PO: '309'
+  A: '41'
+  E: '0'
+  DP: '7'
+  PB: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Olson
+  nameClub1: Los Angeles
+  Pos: C
+  G: '51'
+  PO: '190'
+  A: '31'
+  E: '0'
+  DP: '9'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Koback
+  nameClub1: Hollywood
+  Pos: C
+  G: '10'
+  PO: '47'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PB: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Neal
+  nameClub1: Vancouver
+  nameClub2: Sacramento
+  Pos: C
+  G: '51'
+  PO: '215'
+  A: '30'
+  E: '1'
+  DP: '4'
+  PB: '4'
+  PCT: '.996'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Aylward
+  nameClub1: Seattle
+  Pos: C
+  G: '91'
+  PO: '327'
+  A: '52'
+  E: '2'
+  DP: '6'
+  PB: '2'
+  PCT: '.995'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jones
+  nameClub1: San Diego
+  Pos: C
+  G: '98'
+  PO: '587'
+  A: '56'
+  E: '4'
+  DP: '8'
+  PB: '5'
+  PCT: '.994'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Sadowski
+  nameClub1: San Francisco
+  Pos: C
+  G: '87'
+  PO: '319'
+  A: '36'
+  E: '2'
+  DP: '3'
+  PB: '2'
+  PCT: '.994'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Sullivan
+  nameClub1: San Francisco
+  Pos: C
+  G: '62'
+  PO: '272'
+  A: '29'
+  E: '2'
+  DP: '7'
+  PB: '3'
+  PCT: '.993'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Naton
+  nameClub1: Hollywood
+  Pos: C
+  G: '42'
+  PO: '195'
+  A: '14'
+  E: '2'
+  DP: '5'
+  PB: '2'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Baich
+  nameClub1: Portland
+  Pos: C
+  G: '61'
+  PO: '274'
+  A: '31'
+  E: '3'
+  DP: '8'
+  PB: '2'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Teed
+  nameClub1: Los Angeles
+  Pos: C
+  G: '20'
+  PO: '85'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PB: '3'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: White
+  nameClub1: Vancouver
+  Pos: C
+  G: '90'
+  PO: '437'
+  A: '52'
+  E: '6'
+  DP: '8'
+  PB: '6'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Averill
+  nameClub1: San Diego
+  Pos: C
+  G: '75'
+  PO: '435'
+  A: '49'
+  E: '6'
+  DP: '9'
+  PB: '4'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Calderone
+  nameClub1: Portland
+  Pos: C
+  G: '52'
+  PO: '215'
+  A: '31'
+  E: '3'
+  DP: '8'
+  PB: '2'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Mangan
+  nameClub1: Sacramento
+  Pos: C
+  G: '39'
+  PO: '140'
+  A: '15'
+  E: '2'
+  DP: '2'
+  PB: '7'
+  PCT: '.987'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hall
+  nameClub1: Hollywood
+  Pos: C
+  G: '129'
+  PO: '645'
+  A: '59'
+  E: '10'
+  DP: '13'
+  PB: '12'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Atwell
+  nameClub1: Vancouver
+  Pos: C
+  G: '69'
+  PO: '331'
+  A: '25'
+  E: '5'
+  DP: '8'
+  PB: '4'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Orteig
+  nameClub1: Seattle
+  Pos: C
+  G: '107'
+  PO: '441'
+  A: '49'
+  E: '8'
+  DP: '6'
+  PB: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Battey
+  nameClub1: Los Angeles
+  Pos: C
+  G: '41'
+  PO: '209'
+  A: '23'
+  E: '5'
+  DP: '6'
+  PB: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Tornay
+  nameClub1: San Francisco
+  Pos: C
+  G: '39'
+  PO: '140'
+  A: '17'
+  E: '4'
+  DP: '1'
+  PB: '4'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameFirst: M.
+  nameClub1: Portland
+  Pos: C
+  G: '23'
+  PO: '105'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PB: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bottler
+  nameClub1: Portland
+  Pos: C
+  G: '53'
+  PO: '232'
+  A: '24'
+  E: '7'
+  DP: '2'
+  PB: '2'
+  PCT: '.973'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Barragan
+  nameClub1: Sacramento
+  Pos: C
+  G: '103'
+  PO: '424'
+  A: '58'
+  E: '15'
+  DP: '7'
+  PB: '14'
+  PCT: '.970'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bridges
+  nameClub1: Sacramento
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '36'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jancse
+  nameClub1: Los Angeles
+  Pos: P
+  G: '36'
+  PO: '7'
+  A: '31'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Mauriello
+  nameClub1: Los Angeles
+  Pos: P
+  G: '27'
+  PO: '11'
+  A: '25'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: George
+  nameClub1: Los Angeles
+  throws: L
+  Pos: P
+  G: '59'
+  PO: '10'
+  A: '26'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Held
+  nameClub1: Vancouver
+  Pos: P
+  G: '30'
+  PO: '13'
+  A: '21'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Brodowski
+  nameClub1: San Diego
+  Pos: P
+  G: '30'
+  PO: '15'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Birrer
+  nameClub1: Vancouver
+  nameClub2: Los Angeles
+  Pos: P
+  G: '33'
+  PO: '9'
+  A: '20'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Theil
+  nameClub1: San Francisco
+  Pos: P
+  G: '41'
+  PO: '4'
+  A: '17'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Consuegra
+  nameClub1: Vancouver
+  Pos: P
+  G: '44'
+  PO: '1'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Gray
+  nameClub1: San Diego
+  Pos: P
+  G: '13'
+  PO: '6'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Houtteman
+  nameClub1: Vancouver
+  Pos: P
+  G: '17'
+  PO: '5'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Candini
+  nameClub1: Sacramento
+  Pos: P
+  G: '57'
+  PO: '4'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Greene
+  nameClub1: Sacramento
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hughes
+  nameClub1: Los Angeles
+  Pos: P
+  G: '45'
+  PO: '2'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: McCall
+  nameClub1: San Francisco
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '9'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bell
+  nameClub1: San Diego
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Lohrke
+  nameClub1: Seattle
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Meyer
+  nameClub1: Seattle
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameFirst: D.
+  nameClub1: Portland
+  Pos: P
+  G: '25'
+  PO: '2'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Shore
+  nameClub1: Portland
+  Pos: P
+  G: '41'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Fodge
+  nameClub1: Portland
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Pillette
+  nameClub1: San Francisco
+  nameClub2: Seattle
+  Pos: P
+  G: '35'
+  PO: '19'
+  A: '46'
+  E: '1'
+  DP: '3'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Dorish
+  nameClub1: San Francisco
+  Pos: P
+  G: '31'
+  PO: '11'
+  A: '40'
+  E: '1'
+  DP: '3'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Beamon
+  nameClub1: Vancouver
+  Pos: P
+  G: '32'
+  PO: '10'
+  A: '40'
+  E: '1'
+  DP: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Werle
+  nameClub1: Portland
+  nameClub2: San Diego
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '11'
+  A: '37'
+  E: '1'
+  DP: '8'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Stanka
+  nameClub1: Sacramento
+  Pos: P
+  G: '33'
+  PO: '11'
+  A: '25'
+  E: '1'
+  DP: '6'
+  PCT: '.973'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Munger
+  nameClub1: Seattle
+  Pos: P
+  G: '22'
+  PO: '10'
+  A: '24'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Nichols
+  nameClub1: San Diego
+  nameClub2: Portland
+  Pos: P
+  G: '46'
+  PO: '8'
+  A: '24'
+  E: '1'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Ferrarese
+  nameClub1: Vancouver
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '4'
+  A: '28'
+  E: '1'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Rabe
+  nameClub1: Seattle
+  throws: L
+  Pos: P
+  G: '41'
+  PO: '10'
+  A: '52'
+  E: '1'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Grob
+  nameClub1: Los Angeles
+  Pos: P
+  G: '13'
+  PO: '7'
+  A: '23'
+  E: '2'
+  DP: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bowman
+  nameClub1: Sacramento
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '26'
+  E: '1'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Valentinetti
+  nameClub1: Los Angeles
+  Pos: P
+  G: '19'
+  PO: '8'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Churn
+  nameClub1: Hollywood
+  Pos: P
+  G: '67'
+  PO: '4'
+  A: '25'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Lombardi
+  nameClub1: San Diego
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Abernathie
+  nameClub1: San Francisco
+  Pos: P
+  G: '45'
+  PO: '6'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Watkins
+  nameClub1: Sacramento
+  Pos: P
+  G: '44'
+  PO: '9'
+  A: '40'
+  E: '2'
+  DP: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Palica
+  nameClub1: Vancouver
+  Pos: P
+  G: '36'
+  PO: '13'
+  A: '35'
+  E: '2'
+  DP: '3'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Podbielan
+  nameClub1: Seattle
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '18'
+  E: '1'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Garber
+  nameClub1: Hollywood
+  Pos: P
+  G: '42'
+  PO: '14'
+  A: '30'
+  E: '2'
+  DP: '5'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hurd
+  nameClub1: San Francisco
+  Pos: P
+  G: '29'
+  PO: '10'
+  A: '34'
+  E: '2'
+  DP: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Coen
+  nameClub1: Sacramento
+  Pos: P
+  G: '40'
+  PO: '11'
+  A: '32'
+  E: '2'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Daniels
+  nameClub1: Hollywood
+  Pos: P
+  G: '31'
+  PO: '13'
+  A: '45'
+  E: '3'
+  DP: '4'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Thorpe
+  nameClub1: Portland
+  Pos: P
+  G: '35'
+  PO: '9'
+  A: '29'
+  E: '2'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hanlon
+  nameClub1: Los Angeles
+  Pos: P
+  G: '11'
+  PO: '8'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Lary
+  nameClub1: San Diego
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '15'
+  E: '1'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Mickens
+  nameClub1: Los Angeles
+  Pos: P
+  G: '61'
+  PO: '9'
+  A: '26'
+  E: '2'
+  DP: '5'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameClub1: Vancouver
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '29'
+  E: '2'
+  DP: '4'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bauer
+  nameClub1: Portland
+  throws: L
+  Pos: P
+  G: '48'
+  PO: '6'
+  A: '28'
+  E: '2'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Anderson
+  nameClub1: Portland
+  Pos: P
+  G: '32'
+  PO: '2'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Bamberger
+  nameClub1: Vancouver
+  Pos: P
+  G: '34'
+  PO: '17'
+  A: '33'
+  E: '3'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Kennedy
+  nameClub1: Seattle
+  throws: L
+  Pos: P
+  G: '51'
+  PO: '5'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Mesa
+  nameClub1: San Diego
+  Pos: P
+  G: '34'
+  PO: '8'
+  A: '23'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Gasque
+  nameClub1: San Diego
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '21'
+  E: '2'
+  DP: '3'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Alexander
+  nameClub1: Portland
+  Pos: P
+  G: '36'
+  PO: '6'
+  A: '24'
+  E: '2'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Pepper
+  nameClub1: Hollywood
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Fricano
+  nameClub1: Seattle
+  Pos: P
+  G: '36'
+  PO: '16'
+  A: '40'
+  E: '4'
+  DP: '4'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Harrist
+  nameClub1: Sacramento
+  Pos: P
+  G: '30'
+  PO: '1'
+  A: '27'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: O'Donnell
+  nameClub1: Hollywood
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Fiedler
+  nameClub1: Portland
+  Pos: P
+  G: '50'
+  PO: '10'
+  A: '31'
+  E: '4'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Osenbaugh
+  nameClub1: Sacramento
+  Pos: P
+  G: '25'
+  PO: '11'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Witt
+  nameClub1: Hollywood
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '34'
+  E: '3'
+  DP: '3'
+  PCT: '.932'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Spring
+  nameClub1: San Francisco
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '20'
+  E: '2'
+  DP: '2'
+  PCT: '.931'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Jansen
+  nameClub1: Seattle
+  Pos: P
+  G: '30'
+  PO: '8'
+  A: '31'
+  E: '3'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Darnell
+  nameClub1: Los Angeles
+  Pos: P
+  G: '22'
+  PO: '10'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Kiely
+  nameClub1: San Francisco
+  throws: L
+  Pos: P
+  G: '59'
+  PO: '6'
+  A: '33'
+  E: '3'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Grant
+  nameClub1: San Diego
+  Pos: P
+  G: '34'
+  PO: '6'
+  A: '29'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Carmichael
+  nameClub1: San Diego
+  nameClub2: Portland
+  Pos: P
+  G: '37'
+  PO: '2'
+  A: '31'
+  E: '3'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Raydon
+  nameClub1: Hollywood
+  Pos: P
+  G: '32'
+  PO: '4'
+  A: '18'
+  E: '2'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Kaiser
+  nameClub1: Portland
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameClub1: San Francisco
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Marlowe
+  nameClub1: Vancouver
+  nameClub2: Portland
+  Pos: P
+  G: '50'
+  PO: '8'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Erautt
+  nameClub1: San Diego
+  nameClub2: Vancouver
+  Pos: P
+  G: '22'
+  PO: '8'
+  A: '12'
+  E: '2'
+  DP: '5'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Lasorda
+  nameClub1: Los Angeles
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '21'
+  E: '3'
+  DP: '2'
+  PCT: '.903'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Wade
+  nameClub1: Hollywood
+  Pos: P
+  G: '39'
+  PO: '6'
+  A: '22'
+  E: '3'
+  DP: '1'
+  PCT: '.903'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Dailey
+  nameClub1: San Diego
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.895'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Rowe
+  nameClub1: Hollywood
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '10'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Waters
+  nameClub1: Hollywood
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '1'
+  A: '15'
+  E: '2'
+  DP: '2'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Negray
+  nameClub1: Los Angeles
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Hayden
+  nameClub1: Seattle
+  throws: L
+  Pos: P
+  G: '38'
+  PO: '6'
+  A: '34'
+  E: '6'
+  DP: '1'
+  PCT: '.870'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Judson
+  nameClub1: Seattle
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Briggs
+  nameClub1: Portland
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Black
+  nameClub1: Seattle
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Prout
+  nameClub1: San Francisco
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Boyer
+  nameClub1: Sacramento
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+  TP: '0'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameLast: Aguirre
+  nameClub1: San Diego
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '3'
+  A: '16'
+  E: '7'
+  DP: '0'
+  PCT: '.731'
+  TP: '0'

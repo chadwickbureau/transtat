@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Montgomery
+  Graceville: '14'
+  Panama City: '12'
+  Fort Walton Beach: '11'
+  Pensacola: '16'
+  Selma: '15'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  Montgomery: '10'
+  Panama City: '17'
+  Fort Walton Beach: '13'
+  Pensacola: '13'
+  Selma: '13'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  Montgomery: '12'
+  Graceville: '7'
+  Fort Walton Beach: '12'
+  Pensacola: '15'
+  Selma: '13'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  Montgomery: '13'
+  Graceville: '11'
+  Panama City: '12'
+  Pensacola: '10'
+  Selma: '10'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Pensacola
+  Montgomery: '8'
+  Graceville: '11'
+  Panama City: '9'
+  Fort Walton Beach: '14'
+  Selma: '14'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Selma
+  Montgomery: '9'
+  Graceville: '11'
+  Panama City: '11'
+  Fort Walton Beach: '14'
+  Pensacola: '10'

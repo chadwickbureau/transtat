@@ -1,0 +1,100 @@
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '0'
+  PCT: '.593'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '76'
+  L: '60'
+  T: '0'
+  PCT: '.559'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: regular
+  W: '69'
+  L: '69'
+  T: '0'
+  PCT: '.500'
+  RANK: '3'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '67'
+  L: '69'
+  T: '0'
+  PCT: '.493'
+  RANK: '4'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: regular
+  W: '67'
+  L: '71'
+  T: '0'
+  PCT: '.486'
+  RANK: '5'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: regular
+  W: '52'
+  L: '88'
+  T: '0'
+  PCT: '.371'
+  RANK: '6'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

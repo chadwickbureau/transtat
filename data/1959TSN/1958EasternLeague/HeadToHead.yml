@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Lancaster
+  Reading: '10'
+  York: '12'
+  Springfield: '15'
+  Williamsport: '11'
+  Binghamton: '10'
+  Albany: '8'
+  Allentown: '9'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Reading
+  Lancaster: '10'
+  York: '10'
+  Springfield: '8'
+  Williamsport: '8'
+  Binghamton: '12'
+  Albany: '12'
+  Allentown: '15'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: York
+  Lancaster: '7'
+  Reading: '10'
+  Springfield: '10'
+  Williamsport: '10'
+  Binghamton: '8'
+  Albany: '10'
+  Allentown: '13'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Springfield
+  Lancaster: '5'
+  Reading: '10'
+  York: '9'
+  Williamsport: '10'
+  Binghamton: '13'
+  Albany: '8'
+  Allentown: '13'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  Lancaster: '6'
+  Reading: '11'
+  York: '8'
+  Springfield: '10'
+  Binghamton: '9'
+  Albany: '11'
+  Allentown: '12'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  Lancaster: '10'
+  Reading: '7'
+  York: '10'
+  Springfield: '6'
+  Williamsport: '10'
+  Albany: '12'
+  Allentown: '11'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Albany
+  Lancaster: '9'
+  Reading: '6'
+  York: '6'
+  Springfield: '10'
+  Williamsport: '8'
+  Binghamton: '8'
+  Allentown: '10'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  Lancaster: '10'
+  Reading: '4'
+  York: '6'
+  Springfield: '6'
+  Williamsport: '8'
+  Binghamton: '8'
+  Albany: '9'

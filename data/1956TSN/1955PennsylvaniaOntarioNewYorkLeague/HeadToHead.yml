@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  Bradford: '9'
+  Corning: '12'
+  Wellsville: '9'
+  Erie: '14'
+  Hornell: '13'
+  Jamestown: '13'
+  Olean: '12'
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  Hamilton: '8'
+  Corning: '10'
+  Wellsville: '11'
+  Erie: '10'
+  Hornell: '11'
+  Jamestown: '14'
+  Olean: '10'
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Corning
+  Hamilton: '6'
+  Bradford: '8'
+  Wellsville: '13'
+  Erie: '9'
+  Hornell: '12'
+  Jamestown: '9'
+  Olean: '12'
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  Hamilton: '9'
+  Bradford: '7'
+  Corning: '5'
+  Erie: '11'
+  Hornell: '10'
+  Jamestown: '10'
+  Olean: '16'
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Erie
+  Hamilton: '4'
+  Bradford: '8'
+  Corning: '9'
+  Wellsville: '7'
+  Hornell: '16'
+  Jamestown: '11'
+  Olean: '11'
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  Hamilton: '5'
+  Bradford: '7'
+  Corning: '6'
+  Wellsville: '8'
+  Erie: '2'
+  Jamestown: '10'
+  Olean: '12'
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  Hamilton: '5'
+  Bradford: '4'
+  Corning: '9'
+  Wellsville: '8'
+  Erie: '7'
+  Hornell: '8'
+  Olean: '7'
+- year: '1955'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  Hamilton: '6'
+  Bradford: '8'
+  Corning: '6'
+  Wellsville: '2'
+  Erie: '7'
+  Hornell: '6'
+  Jamestown: '11'

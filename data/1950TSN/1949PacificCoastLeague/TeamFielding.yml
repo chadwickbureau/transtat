@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  G: '188'
+  PO: '4863'
+  A: '2173'
+  E: '191'
+  DP: '185'
+  PB: '20'
+  PCT: '.974'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  G: '187'
+  PO: '4778'
+  A: '2172'
+  E: '197'
+  DP: '170'
+  PB: '11'
+  PCT: '.972'
+  TP: '1'
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  G: '189'
+  PO: '4845'
+  A: '1980'
+  E: '194'
+  DP: '185'
+  PB: '8'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  G: '187'
+  PO: '4781'
+  A: '2167'
+  E: '205'
+  DP: '182'
+  PB: '16'
+  PCT: '.971'
+  TP: '1'
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  G: '188'
+  PO: '4833'
+  A: '2012'
+  E: '220'
+  DP: '166'
+  PB: '20'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  G: '187'
+  PO: '4787'
+  A: '2034'
+  E: '220'
+  DP: '190'
+  PB: '9'
+  PCT: '.969'
+  TP: '1'
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  G: '187'
+  PO: '4763'
+  A: '1981'
+  E: '214'
+  DP: '170'
+  PB: '17'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  G: '187'
+  PO: '4903'
+  A: '2063'
+  E: '232'
+  DP: '196'
+  PB: '7'
+  PCT: '.967'
+  TP: '0'

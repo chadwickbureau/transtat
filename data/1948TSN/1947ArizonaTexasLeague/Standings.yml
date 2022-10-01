@@ -1,0 +1,142 @@
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  phase: regular/first
+  W: '41'
+  L: '20'
+  PCT: '.672'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: regular/first
+  W: '36'
+  L: '28'
+  PCT: '.563'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  phase: regular/first
+  W: '35'
+  L: '29'
+  PCT: '.547'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: regular/first
+  W: '31'
+  L: '32'
+  PCT: '.492'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: regular/first
+  W: '23'
+  L: '37'
+  PCT: '.383'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: regular/first
+  W: '21'
+  L: '41'
+  PCT: '.339'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: regular/second
+  W: '49'
+  L: '20'
+  PCT: '.710'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: regular/second
+  W: '46'
+  L: '23'
+  PCT: '.667'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  phase: regular/second
+  W: '39'
+  L: '30'
+  PCT: '.565'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: regular/second
+  W: '30'
+  L: '40'
+  PCT: '.429'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: regular/second
+  W: '23'
+  L: '45'
+  PCT: '.338'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Mesa
+  phase: regular/second
+  W: '20'
+  L: '49'
+  PCT: '.290'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

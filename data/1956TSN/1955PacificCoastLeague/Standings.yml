@@ -1,0 +1,64 @@
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  W: '95'
+  L: '77'
+  T: '0'
+  PCT: '.552'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  W: '92'
+  L: '80'
+  T: '0'
+  PCT: '.535'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  W: '91'
+  L: '81'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  W: '91'
+  L: '81'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  W: '86'
+  L: '86'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  W: '80'
+  L: '92'
+  T: '0'
+  PCT: '.465'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  W: '77'
+  L: '95'
+  T: '0'
+  PCT: '.448'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  W: '76'
+  L: '96'
+  T: '0'
+  PCT: '.442'
+  RANK: '8'

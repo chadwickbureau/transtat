@@ -1,0 +1,48 @@
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  Davenport: '14'
+  Green Bay: '14'
+  Burlington: '16'
+  Rochester/Winona: '18'
+  Fox Cities: '15'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  Cedar Rapids: '12'
+  Green Bay: '13'
+  Burlington: '14'
+  Rochester/Winona: '17'
+  Fox Cities: '15'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Green Bay
+  Cedar Rapids: '12'
+  Davenport: '12'
+  Burlington: '17'
+  Rochester/Winona: '11'
+  Fox Cities: '13'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  Cedar Rapids: '10'
+  Davenport: '12'
+  Green Bay: '9'
+  Rochester/Winona: '15'
+  Fox Cities: '16'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Rochester/Winona
+  Cedar Rapids: '8'
+  Davenport: '9'
+  Green Bay: '15'
+  Burlington: '11'
+  Fox Cities: '14'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Fox Cities
+  Cedar Rapids: '11'
+  Davenport: '11'
+  Green Bay: '13'
+  Burlington: '9'
+  Rochester/Winona: '12'

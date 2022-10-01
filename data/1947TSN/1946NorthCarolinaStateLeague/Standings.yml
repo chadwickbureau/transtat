@@ -1,0 +1,124 @@
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Concord
+  phase: regular
+  W: '77'
+  L: '34'
+  T: '0'
+  PCT: '.694'
+  RANK: '1'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: regular
+  W: '62'
+  L: '50'
+  T: '0'
+  PCT: '.554'
+  RANK: '2'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Thomasville
+  phase: regular
+  W: '58'
+  L: '52'
+  T: '2'
+  PCT: '.527'
+  RANK: '3'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: regular
+  W: '57'
+  L: '52'
+  T: '0'
+  PCT: '.523'
+  RANK: '4'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Salisbury
+  phase: regular
+  W: '58'
+  L: '54'
+  T: '0'
+  PCT: '.518'
+  RANK: '5'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Hickory
+  phase: regular
+  W: '55'
+  L: '56'
+  T: '1'
+  PCT: '.495'
+  RANK: '6'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Statesville
+  phase: regular
+  W: '41'
+  L: '69'
+  T: '0'
+  PCT: '.373'
+  RANK: '7'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: regular
+  W: '34'
+  L: '75'
+  T: '1'
+  PCT: '.313'
+  RANK: '8'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Concord
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Thomasville
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: North Carolina State League
+  nameClub: Concord
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

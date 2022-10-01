@@ -1,0 +1,80 @@
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  Mexicali: '9'
+  Cananea: '11'
+  El Paso: '12'
+  Tucson: '15'
+  Nogales: '15'
+  Bisbee-Douglas: '16'
+  Juarez: '15'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Mexicali
+  Phoenix: '11'
+  Cananea: '13'
+  El Paso: '13'
+  Tucson: '14'
+  Nogales: '12'
+  Bisbee-Douglas: '16'
+  Juarez: '13'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Cananea
+  Phoenix: '9'
+  Mexicali: '7'
+  El Paso: '11'
+  Tucson: '10'
+  Nogales: '9'
+  Bisbee-Douglas: '11'
+  Juarez: '12'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  Phoenix: '8'
+  Mexicali: '7'
+  Cananea: '9'
+  Tucson: '15'
+  Nogales: '9'
+  Bisbee-Douglas: '12'
+  Juarez: '9'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  Phoenix: '5'
+  Mexicali: '6'
+  Cananea: '10'
+  El Paso: '5'
+  Nogales: '15'
+  Bisbee-Douglas: '12'
+  Juarez: '11'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Nogales
+  Phoenix: '5'
+  Mexicali: '8'
+  Cananea: '11'
+  El Paso: '11'
+  Tucson: '5'
+  Bisbee-Douglas: '7'
+  Juarez: '14'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee-Douglas
+  Phoenix: '4'
+  Mexicali: '4'
+  Cananea: '9'
+  El Paso: '8'
+  Tucson: '8'
+  Nogales: '13'
+  Juarez: '11'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  Phoenix: '5'
+  Mexicali: '7'
+  Cananea: '8'
+  El Paso: '11'
+  Tucson: '9'
+  Nogales: '6'
+  Bisbee-Douglas: '9'

@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: regular
+  W: '87'
+  L: '51'
+  T: '0'
+  PCT: '.630'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Muskogee
+  phase: regular
+  W: '85'
+  L: '54'
+  T: '0'
+  PCT: '.612'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: regular
+  W: '82'
+  L: '57'
+  T: '0'
+  PCT: '.590'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Blackwell
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: regular
+  W: '72'
+  L: '67'
+  T: '0'
+  PCT: '.518'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Ponca City
+  phase: regular
+  W: '62'
+  L: '76'
+  T: '0'
+  PCT: '.449'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: regular
+  W: '50'
+  L: '89'
+  T: '0'
+  PCT: '.360'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Iola
+  phase: regular
+  W: '39'
+  L: '101'
+  T: '0'
+  PCT: '.279'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Blackwell
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Muskogee
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: Blackwell
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

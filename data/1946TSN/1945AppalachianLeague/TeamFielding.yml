@@ -1,0 +1,44 @@
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  G: '109'
+  DP: '64'
+  TP: '0'
+  PB: '66'
+  PO: '2765'
+  A: '1199'
+  E: '238'
+  PCT: '.943'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  G: '111'
+  DP: '79'
+  TP: '0'
+  PB: '41'
+  PO: '2787'
+  A: '1131'
+  E: '257'
+  PCT: '.938'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  G: '106'
+  DP: '51'
+  TP: '0'
+  PB: '39'
+  PO: '2671'
+  A: '950'
+  E: '291'
+  PCT: '.926'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  G: '108'
+  DP: '53'
+  TP: '1'
+  PB: '55'
+  PO: '2704'
+  A: '1165'
+  E: '322'
+  PCT: '.923'

@@ -1,0 +1,62 @@
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '93'
+  L: '50'
+  PCT: '.650'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Durham
+  phase: regular
+  W: '79'
+  L: '63'
+  PCT: '.556'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '76'
+  L: '66'
+  PCT: '.535'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Rocky Mount
+  phase: regular
+  W: '74'
+  L: '69'
+  PCT: '.517'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '66'
+  L: '77'
+  PCT: '.462'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Asheville
+  phase: regular
+  W: '40'
+  L: '103'
+  PCT: '.280'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Piedmont League
+  nameClub: Durham
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

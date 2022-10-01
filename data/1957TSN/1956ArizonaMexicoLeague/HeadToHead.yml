@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  Douglas: '7'
+  Nogales: '11'
+  Phoenix: '13'
+  Yuma: '12'
+  Mexicali: '12'
+  Tucson: '12'
+  Tijuana: '8'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  Cananea: '13'
+  Nogales: '10'
+  Phoenix: '10'
+  Yuma: '9'
+  Mexicali: '10'
+  Tucson: '10'
+  Tijuana: '11'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Nogales
+  Cananea: '9'
+  Douglas: '10'
+  Phoenix: '14'
+  Yuma: '10'
+  Mexicali: '10'
+  Tucson: '8'
+  Tijuana: '10'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  Cananea: '7'
+  Douglas: '10'
+  Nogales: '6'
+  Yuma: '11'
+  Mexicali: '14'
+  Tucson: '14'
+  Tijuana: '8'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Yuma
+  Cananea: '8'
+  Douglas: '11'
+  Nogales: '10'
+  Phoenix: '9'
+  Mexicali: '7'
+  Tucson: '12'
+  Tijuana: '9'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  Cananea: '8'
+  Douglas: '10'
+  Nogales: '10'
+  Phoenix: '5'
+  Yuma: '13'
+  Tucson: '12'
+  Tijuana: '5'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  Cananea: '8'
+  Douglas: '9'
+  Nogales: '11'
+  Phoenix: '6'
+  Yuma: '8'
+  Mexicali: '7'
+  Tijuana: '8'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tijuana
+  Cananea: '3'
+  Douglas: '1'
+  Nogales: '1'
+  Phoenix: '2'
+  Yuma: '2'
+  Mexicali: '5'
+  Tucson: '3'

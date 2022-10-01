@@ -1,0 +1,1416 @@
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Pettit
+  nameClub: Abbeville
+  GP: '11'
+  IP: '53'
+  AB: '223'
+  R: '28'
+  H: '49'
+  ER: '22'
+  SH: '0'
+  BB: '10'
+  HP: '1'
+  SO: '33'
+  WP: '1'
+  BK: '0'
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Love
+  nameClub: Abbeville
+  GP: '42'
+  IP: '278'
+  AB: '1152'
+  R: '100'
+  H: '240'
+  ER: '83'
+  SH: '17'
+  BB: '93'
+  HP: '5'
+  SO: '198'
+  WP: '1'
+  BK: '2'
+  W: '22'
+  L: '9'
+  PCT: '.710'
+  F_P_DP: '3'
+  F_P_PCT: '.911'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: McDonald
+  nameClub: Lafayette
+  GP: '32'
+  IP: '223'
+  AB: '921'
+  R: '89'
+  H: '200'
+  ER: '80'
+  SH: '19'
+  BB: '49'
+  HP: '10'
+  SO: '132'
+  WP: '1'
+  BK: '0'
+  W: '17'
+  L: '7'
+  PCT: '.708'
+  F_P_DP: '2'
+  F_P_PCT: '.979'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Pulford
+  nameClub: Abbeville
+  GP: '35'
+  IP: '245'
+  AB: '1000'
+  R: '79'
+  H: '180'
+  ER: '63'
+  SH: '10'
+  BB: '86'
+  HP: '16'
+  SO: '204'
+  WP: '9'
+  BK: '0'
+  W: '18'
+  L: '9'
+  PCT: '.667'
+  F_P_DP: '3'
+  F_P_PCT: '.960'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Himsl
+  nameClub: Alexandria
+  GP: '34'
+  IP: '261'
+  AB: '1073'
+  R: '96'
+  H: '233'
+  ER: '72'
+  SH: '12'
+  BB: '66'
+  HP: '2'
+  SO: '169'
+  WP: '4'
+  BK: '2'
+  W: '18'
+  L: '9'
+  PCT: '.667'
+  F_P_DP: '4'
+  F_P_PCT: '.952'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Johnson
+  nameClub: Alexandria
+  GP: '8'
+  IP: '51'
+  AB: '212'
+  R: '27'
+  H: '36'
+  ER: '19'
+  SH: '7'
+  BB: '31'
+  HP: '4'
+  SO: '43'
+  WP: '5'
+  BK: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Rachunok
+  nameClub: Alexandria
+  GP: '20'
+  IP: '128'
+  AB: '558'
+  R: '61'
+  H: '113'
+  ER: '52'
+  SH: '7'
+  BB: '68'
+  HP: '7'
+  SO: '45'
+  WP: '8'
+  BK: '0'
+  W: '10'
+  L: '5'
+  PCT: '.667'
+  F_P_DP: '1'
+  F_P_PCT: '.932'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Montalvo
+  nameClub: Lafayette
+  GP: '32'
+  IP: '173'
+  AB: '739'
+  R: '67'
+  H: '166'
+  ER: '55'
+  SH: '16'
+  BB: '67'
+  HP: '8'
+  SO: '84'
+  WP: '1'
+  BK: '0'
+  W: '14'
+  L: '7'
+  PCT: '.667'
+  F_P_DP: '21'
+  F_P_PCT: '.933'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Mann
+  nameClub: Rayne
+  GP: '25'
+  IP: '185'
+  AB: '792'
+  R: '73'
+  H: '161'
+  ER: '43'
+  SH: '16'
+  BB: '88'
+  HP: '6'
+  SO: '168'
+  WP: '2'
+  BK: '1'
+  W: '14'
+  L: '7'
+  PCT: '.667'
+  F_P_DP: '0'
+  F_P_PCT: '.837'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Scherer
+  nameClub: Lake Charles
+  GP: '41'
+  IP: '335'
+  AB: '1106'
+  R: '122'
+  H: '249'
+  ER: '100'
+  SH: '12'
+  BB: '69'
+  HP: '16'
+  SO: '158'
+  WP: '6'
+  BK: '0'
+  W: '21'
+  L: '11'
+  PCT: '.656'
+  F_P_DP: '3'
+  F_P_PCT: '.989'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Atkinson
+  nameClub: Lake Charles
+  GP: '23'
+  IP: '207'
+  AB: '874'
+  R: '115'
+  H: '197'
+  ER: '97'
+  SH: '6'
+  BB: '76'
+  HP: '7'
+  SO: '113'
+  WP: '5'
+  BK: '2'
+  W: '17'
+  L: '9'
+  PCT: '.654'
+  F_P_DP: '5'
+  F_P_PCT: '.961'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Flanagan
+  nameClub: Alexandria
+  GP: '35'
+  IP: '246'
+  AB: '941'
+  R: '110'
+  H: '220'
+  ER: '85'
+  SH: '19'
+  BB: '50'
+  HP: '9'
+  SO: '70'
+  WP: '7'
+  BK: '0'
+  W: '17'
+  L: '9'
+  PCT: '.654'
+  F_P_DP: '2'
+  F_P_PCT: '.976'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Hogan
+  nameClub: Lake Charles
+  GP: '28'
+  IP: '162'
+  AB: '709'
+  R: '83'
+  H: '176'
+  ER: '69'
+  SH: '13'
+  BB: '71'
+  HP: '5'
+  SO: '88'
+  WP: '7'
+  BK: '1'
+  W: '13'
+  L: '7'
+  PCT: '.650'
+  F_P_DP: '0'
+  F_P_PCT: '.946'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Butsko
+  nameClub: Lafayette
+  GP: '30'
+  IP: '174'
+  AB: '735'
+  R: '82'
+  H: '168'
+  ER: '69'
+  SH: '5'
+  BB: '41'
+  HP: '3'
+  SO: '92'
+  WP: '1'
+  BK: '0'
+  W: '13'
+  L: '7'
+  PCT: '.650'
+  F_P_DP: '0'
+  F_P_PCT: '.913'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Demoran
+  nameClub: Rayne
+  GP: '22'
+  IP: '126'
+  AB: '543'
+  R: '74'
+  H: '136'
+  ER: '47'
+  SH: '8'
+  BB: '37'
+  HP: '1'
+  SO: '56'
+  WP: '5'
+  BK: '0'
+  W: '9'
+  L: '5'
+  PCT: '.643'
+  F_P_DP: '3'
+  F_P_PCT: '.947'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Lancaster
+  nameClub: Rayne
+  GP: '13'
+  IP: '59'
+  AB: '270'
+  R: '39'
+  H: '85'
+  ER: '26'
+  SH: '7'
+  BB: '8'
+  HP: '0'
+  SO: '33'
+  WP: '6'
+  BK: '0'
+  W: '7'
+  L: '4'
+  PCT: '.636'
+  F_P_DP: '0'
+  F_P_PCT: '.882'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Hoppe
+  nameClub: Opelousas
+  GP: '24'
+  IP: '178'
+  AB: '765'
+  R: '76'
+  H: '151'
+  ER: '60'
+  SH: '19'
+  BB: '83'
+  HP: '6'
+  SO: '138'
+  WP: '4'
+  BK: '3'
+  W: '12'
+  L: '7'
+  PCT: '.632'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Lopat
+  nameClub: Jeanerette
+  GP: '23'
+  IP: '178'
+  AB: '757'
+  R: '65'
+  H: '159'
+  ER: '54'
+  SH: '8'
+  BB: '73'
+  HP: '8'
+  SO: '103'
+  WP: '4'
+  BK: '0'
+  W: '12'
+  L: '7'
+  PCT: '.632'
+  F_P_DP: '1'
+  F_P_PCT: '.986'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Amaral
+  nameClub: New Iberia
+  GP: '24'
+  IP: '125'
+  AB: '633'
+  R: '82'
+  H: '156'
+  ER: '65'
+  SH: '15'
+  BB: '45'
+  HP: '5'
+  SO: '62'
+  WP: '4'
+  BK: '0'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  F_P_DP: '3'
+  F_P_PCT: '.955'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Munger
+  nameClub: New Iberia
+  GP: '22'
+  IP: '131'
+  AB: '603'
+  R: '67'
+  H: '126'
+  ER: '36'
+  SH: '15'
+  BB: '42'
+  HP: '3'
+  SO: '115'
+  WP: '3'
+  BK: '1'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  F_P_DP: '0'
+  F_P_PCT: '.969'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Dorsett
+  nameClub: Lake Charles
+  GP: '19'
+  IP: '109'
+  AB: '443'
+  R: '32'
+  H: '99'
+  ER: '23'
+  SH: '7'
+  BB: '16'
+  HP: '1'
+  SO: '67'
+  WP: '1'
+  BK: '0'
+  W: '8'
+  L: '5'
+  PCT: '.615'
+  F_P_DP: '1'
+  F_P_PCT: '.967'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Kilgour
+  nameClub: Rayne
+  GP: '25'
+  IP: '199'
+  AB: '843'
+  R: '84'
+  H: '198'
+  ER: '62'
+  SH: '22'
+  BB: '53'
+  HP: '2'
+  SO: '88'
+  WP: '5'
+  BK: '0'
+  W: '14'
+  L: '9'
+  PCT: '.609'
+  F_P_DP: '3'
+  F_P_PCT: '.915'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Mackey
+  nameClub: Opelousas
+  GP: '40'
+  IP: '255'
+  AB: '1056'
+  R: '86'
+  H: '230'
+  ER: '75'
+  SH: '15'
+  BB: '63'
+  HP: '6'
+  SO: '141'
+  WP: '1'
+  BK: '0'
+  W: '20'
+  L: '13'
+  PCT: '.606'
+  F_P_DP: '3'
+  F_P_PCT: '.903'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Lamb
+  nameClub: Abbeville
+  GP: '16'
+  IP: '68'
+  AB: '269'
+  R: '35'
+  H: '71'
+  ER: '29'
+  SH: '3'
+  BB: '10'
+  HP: '0'
+  SO: '38'
+  WP: '0'
+  BK: '0'
+  W: '6'
+  L: '4'
+  PCT: '.600'
+  F_P_DP: '1'
+  F_P_PCT: '.917'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Howard
+  nameClub: Lake Charles
+  GP: '10'
+  IP: '54'
+  AB: '235'
+  R: '25'
+  H: '46'
+  ER: '20'
+  SH: '3'
+  BB: '22'
+  HP: '4'
+  SO: '23'
+  WP: '4'
+  BK: '0'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  F_P_DP: '1'
+  F_P_PCT: '.875'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Navie
+  nameClub: Rayne
+  GP: '33'
+  IP: '225'
+  AB: '1006'
+  R: '124'
+  H: '233'
+  ER: '102'
+  SH: '14'
+  BB: '100'
+  HP: '6'
+  SO: '177'
+  WP: '8'
+  BK: '0'
+  W: '16'
+  L: '11'
+  PCT: '.593'
+  F_P_DP: '2'
+  F_P_PCT: '.908'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Schumacher
+  nameClub: Alexandria
+  GP: '32'
+  IP: '197'
+  AB: '823'
+  R: '78'
+  H: '181'
+  ER: '82'
+  SH: '20'
+  BB: '59'
+  HP: '4'
+  SO: '99'
+  WP: '2'
+  BK: '0'
+  W: '11'
+  L: '8'
+  PCT: '.579'
+  F_P_DP: '3'
+  F_P_PCT: '.979'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Robertson
+  nameClub: Lafayette
+  GP: '32'
+  IP: '203'
+  AB: '895'
+  R: '90'
+  H: '187'
+  ER: '70'
+  SH: '18'
+  BB: '69'
+  HP: '33'
+  SO: '132'
+  WP: '7'
+  BK: '0'
+  W: '12'
+  L: '9'
+  PCT: '.571'
+  F_P_DP: '1'
+  F_P_PCT: '.889'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Maxfield
+  nameClub: Opelousas
+  GP: '31'
+  IP: '191'
+  AB: '778'
+  R: '70'
+  H: '158'
+  ER: '66'
+  SH: '6'
+  BB: '65'
+  HP: '4'
+  SO: '117'
+  WP: '5'
+  BK: '0'
+  W: '12'
+  L: '9'
+  PCT: '.571'
+  F_P_DP: '2'
+  F_P_PCT: '.952'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Carraway
+  nameClub: Abbeville
+  GP: '17'
+  IP: '94'
+  AB: '401'
+  R: '61'
+  H: '104'
+  ER: '50'
+  SH: '6'
+  BB: '20'
+  HP: '3'
+  SO: '51'
+  WP: '0'
+  BK: '1'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  F_P_DP: '2'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: East
+  nameClub: Jeanerette
+  GP: '21'
+  IP: '107'
+  AB: '493'
+  R: '75'
+  H: '146'
+  ER: '60'
+  SH: '9'
+  BB: '38'
+  HP: '1'
+  SO: '54'
+  WP: '5'
+  BK: '0'
+  W: '7'
+  L: '7'
+  PCT: '.500'
+  F_P_DP: '1'
+  F_P_PCT: '.958'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Williams
+  nameClub: Lake Charles
+  GP: '29'
+  IP: '192'
+  AB: '835'
+  R: '86'
+  H: '191'
+  ER: '80'
+  SH: '9'
+  BB: '68'
+  HP: '12'
+  SO: '116'
+  WP: '4'
+  BK: '1'
+  W: '12'
+  L: '12'
+  PCT: '.500'
+  F_P_DP: '1'
+  F_P_PCT: '.968'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: McKenna
+  nameClub: New Iberia
+  GP: '29'
+  IP: '149'
+  AB: '642'
+  R: '68'
+  H: '137'
+  ER: '54'
+  SH: '10'
+  BB: '52'
+  HP: '5'
+  SO: '81'
+  WP: '2'
+  BK: '1'
+  W: '6'
+  L: '7'
+  PCT: '.462'
+  F_P_DP: '3'
+  F_P_PCT: '.953'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Lewis
+  nameClub: New Iberia
+  GP: '17'
+  IP: '87'
+  AB: '372'
+  R: '51'
+  H: '94'
+  ER: '38'
+  SH: '4'
+  BB: '14'
+  HP: '1'
+  SO: '42'
+  WP: '8'
+  BK: '0'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Mueller
+  nameClub: Alexandria
+  GP: '38'
+  IP: '188'
+  AB: '781'
+  R: '115'
+  H: '145'
+  ER: '77'
+  SH: '12'
+  BB: '104'
+  HP: '6'
+  SO: '188'
+  WP: '5'
+  BK: '1'
+  W: '10'
+  L: '12'
+  PCT: '.455'
+  F_P_DP: '2'
+  F_P_PCT: '.904'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Burkhart
+  nameClub: New Iberia
+  GP: '39'
+  IP: '248'
+  AB: '1018'
+  R: '103'
+  H: '193'
+  ER: '81'
+  SH: '15'
+  BB: '103'
+  HP: '4'
+  SO: '188'
+  WP: '11'
+  BK: '2'
+  W: '14'
+  L: '17'
+  PCT: '.452'
+  F_P_DP: '8'
+  F_P_PCT: '.835'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Beazley
+  nameClub: Abbeville
+  GP: '20'
+  IP: '113'
+  AB: '435'
+  R: '51'
+  H: '99'
+  ER: '41'
+  SH: '11'
+  BB: '49'
+  HP: '3'
+  SO: '71'
+  WP: '2'
+  BK: '0'
+  W: '6'
+  L: '8'
+  PCT: '.429'
+  F_P_DP: '1'
+  F_P_PCT: '.979'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Green
+  nameClub: Lake Charles
+  GP: '16'
+  IP: '62'
+  AB: '266'
+  R: '31'
+  H: '71'
+  ER: '28'
+  SH: '3'
+  BB: '19'
+  HP: '0'
+  SO: '29'
+  WP: '1'
+  BK: '0'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Eddleman
+  nameClub: Rayne
+  GP: '34'
+  IP: '236'
+  AB: '1027'
+  R: '132'
+  H: '231'
+  ER: '108'
+  SH: '19'
+  BB: '126'
+  HP: '9'
+  SO: '150'
+  WP: '5'
+  BK: '0'
+  W: '10'
+  L: '14'
+  PCT: '.417'
+  F_P_DP: '1'
+  F_P_PCT: '.926'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Kinnard
+  nameClub: Opelousas
+  GP: '32'
+  IP: '168'
+  AB: '726'
+  R: '91'
+  H: '146'
+  ER: '76'
+  SH: '19'
+  BB: '76'
+  HP: '6'
+  SO: '66'
+  WP: '6'
+  BK: '0'
+  W: '7'
+  L: '10'
+  PCT: '.412'
+  F_P_DP: '1'
+  F_P_PCT: '.872'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Fatheree
+  nameClub: Lafayette
+  GP: '26'
+  IP: '172'
+  AB: '766'
+  R: '102'
+  H: '183'
+  ER: '83'
+  SH: '13'
+  BB: '71'
+  HP: '5'
+  SO: '81'
+  WP: '3'
+  BK: '0'
+  W: '8'
+  L: '12'
+  PCT: '.400'
+  F_P_DP: '1'
+  F_P_PCT: '.921'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Goss
+  nameClub: Rayne
+  GP: '25'
+  IP: '141'
+  AB: '593'
+  R: '81'
+  H: '144'
+  ER: '58'
+  SH: '8'
+  BB: '41'
+  HP: '1'
+  SO: '78'
+  WP: '11'
+  BK: '1'
+  W: '6'
+  L: '9'
+  PCT: '.400'
+  F_P_DP: '1'
+  F_P_PCT: '.915'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Oyler
+  nameClub: Opelousas
+  GP: '33'
+  IP: '178'
+  AB: '775'
+  R: '108'
+  H: '179'
+  ER: '87'
+  SH: '13'
+  BB: '98'
+  HP: '9'
+  SO: '91'
+  WP: '6'
+  BK: '0'
+  W: '9'
+  L: '14'
+  PCT: '.391'
+  F_P_DP: '0'
+  F_P_PCT: '.940'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: J. E.
+  nameClub: Jeanerette
+  GP: '13'
+  IP: '74'
+  AB: '338'
+  R: '39'
+  H: '75'
+  ER: '31'
+  SH: '5'
+  BB: '29'
+  HP: '5'
+  SO: '40'
+  WP: '2'
+  BK: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Mattson
+  nameClub: New Iberia
+  GP: '17'
+  IP: '101'
+  AB: '449'
+  R: '56'
+  H: '103'
+  ER: '36'
+  SH: '3'
+  BB: '37'
+  HP: '3'
+  SO: '34'
+  WP: '1'
+  BK: '1'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  F_P_DP: '1'
+  F_P_PCT: '.979'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Margavio
+  nameClub: Opelousas
+  GP: '21'
+  IP: '107'
+  AB: '462'
+  R: '64'
+  H: '121'
+  ER: '58'
+  SH: '9'
+  BB: '40'
+  HP: '8'
+  SO: '56'
+  WP: '0'
+  BK: '0'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  F_P_DP: '3'
+  F_P_PCT: '.918'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Norman
+  nameClub: Abbeville
+  GP: '15'
+  IP: '69'
+  AB: '282'
+  R: '37'
+  H: '55'
+  ER: '32'
+  SH: '4'
+  BB: '35'
+  HP: '1'
+  SO: '38'
+  WP: '2'
+  BK: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Brister
+  nameClub: Jeanerette
+  GP: '37'
+  IP: '178'
+  AB: '802'
+  R: '115'
+  H: '223'
+  ER: '83'
+  SH: '15'
+  BB: '39'
+  HP: '7'
+  SO: '49'
+  WP: '0'
+  BK: '0'
+  W: '7'
+  L: '14'
+  PCT: '.333'
+  F_P_DP: '2'
+  F_P_PCT: '.963'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Sproull
+  nameClub: Jeanerette
+  GP: '20'
+  IP: '149'
+  AB: '633'
+  R: '73'
+  H: '136'
+  ER: '67'
+  SH: '13'
+  BB: '71'
+  HP: '3'
+  SO: '96'
+  WP: '6'
+  BK: '0'
+  W: '6'
+  L: '12'
+  PCT: '.333'
+  F_P_DP: '2'
+  F_P_PCT: '.917'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Caughtry
+  nameClub: Lafayette
+  GP: '14'
+  IP: '77'
+  AB: '321'
+  R: '39'
+  H: '65'
+  ER: '38'
+  SH: '12'
+  BB: '49'
+  HP: '5'
+  SO: '68'
+  WP: '9'
+  BK: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  F_P_DP: '1'
+  F_P_PCT: '.767'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: E.
+  nameClub: Rayne
+  GP: '8'
+  IP: '43'
+  AB: '188'
+  R: '39'
+  H: '51'
+  ER: '22'
+  SH: '5'
+  BB: '11'
+  HP: '7'
+  SO: '12'
+  WP: '6'
+  BK: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  F_P_DP: '0'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Midkiff
+  nameClub: Abbeville
+  GP: '14'
+  IP: '64'
+  AB: '290'
+  R: '40'
+  H: '72'
+  ER: '36'
+  SH: '3'
+  BB: '24'
+  HP: '2'
+  SO: '28'
+  WP: '2'
+  BK: '0'
+  W: '3'
+  L: '7'
+  PCT: '.300'
+  F_P_DP: '0'
+  F_P_PCT: '.800'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Berger
+  nameClub: New Iberia
+  GP: '26'
+  IP: '120'
+  AB: '529'
+  R: '84'
+  H: '100'
+  ER: '62'
+  SH: '12'
+  BB: '78'
+  HP: '2'
+  SO: '104'
+  WP: '3'
+  BK: '0'
+  W: '4'
+  L: '10'
+  PCT: '.286'
+  F_P_DP: '1'
+  F_P_PCT: '.963'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: McLendon
+  nameClub: Jeanerette
+  GP: '21'
+  IP: '142'
+  AB: '569'
+  R: '113'
+  H: '192'
+  ER: '79'
+  SH: '14'
+  BB: '44'
+  HP: '5'
+  SO: '34'
+  WP: '1'
+  BK: '0'
+  W: '4'
+  L: '12'
+  PCT: '.250'
+  F_P_DP: '1'
+  F_P_PCT: '.941'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Cheauppis
+  nameClub: Jeanerette
+  GP: '12'
+  IP: '62'
+  AB: '274'
+  R: '32'
+  H: '66'
+  ER: '24'
+  SH: '1'
+  BB: '25'
+  HP: '0'
+  SO: '36'
+  WP: '4'
+  BK: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  F_P_DP: '0'
+  F_P_PCT: '.786'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Odneal
+  nameClub: Lafayette
+  GP: '10'
+  IP: '52'
+  AB: '220'
+  R: '38'
+  H: '64'
+  ER: '32'
+  SH: '3'
+  BB: '19'
+  HP: '5'
+  SO: '23'
+  WP: '6'
+  BK: '0'
+  W: '1'
+  L: '7'
+  PCT: '.125'
+  F_P_DP: '0'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Hendrix
+  nameClub: Jeanerette
+  GP: '18'
+  IP: '98'
+  AB: '442'
+  R: '71'
+  H: '114'
+  ER: '51'
+  SH: '16'
+  BB: '38'
+  HP: '3'
+  SO: '43'
+  WP: '1'
+  BK: '0'
+  W: '1'
+  L: '9'
+  PCT: '.100'
+  F_P_DP: '0'
+  F_P_PCT: '.933'
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Bernstein
+  nameFirst: Gerald
+  nameClub: Abbeville
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Brown
+  nameFirst: B.
+  nameClub: Abbeville
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Cvengros
+  nameFirst: Michael J.
+  nameClub: Abbeville
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Scott
+  nameFirst: M.
+  nameClub: Abbeville
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Holmes
+  nameFirst: Earl
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Lee
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Lowe
+  nameFirst: William
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Margavio
+  nameFirst: Philip
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Melton
+  nameFirst: Ben L.
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Scott
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Tuero
+  nameFirst: O.
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Walle
+  nameFirst: Evan G.
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Williams
+  nameFirst: Gibson
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Zelasko
+  nameFirst: Al
+  nameClub: Alexandria
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Barnett
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Birmingham
+  nameFirst: E.
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Coleman
+  nameFirst: G.
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Dean
+  nameFirst: John A.
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Huffman
+  nameFirst: Frederick
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Michael
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Shoenecker
+  nameFirst: George F.
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Wasmuth
+  nameFirst: F. K.
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Willis
+  nameFirst: Samuel F.
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Wisecup
+  nameFirst: John H.
+  nameClub: Jeanerette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Barbalo
+  nameFirst: M.
+  nameClub: Lafayette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: DiBartolo
+  nameFirst: Lloyd J.
+  nameClub: Lafayette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Burgess
+  nameFirst: Fred
+  nameClub: Lafayette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Hanke
+  nameFirst: Henry E.
+  nameClub: Lafayette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Johnson
+  nameClub: Lafayette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Key
+  nameClub: Lafayette
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Bailey
+  nameClub: Lake Charles
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Black
+  nameFirst: Kennan
+  nameClub: Lake Charles
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Clark
+  nameClub: Lake Charles
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Head
+  nameClub: Lake Charles
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Huser
+  nameFirst: Herbert
+  nameClub: Lake Charles
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Mitchum
+  nameClub: Lake Charles
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Berndt
+  nameFirst: Paul
+  nameClub: New Iberia
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Enger
+  nameFirst: Gordon
+  nameClub: New Iberia
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: George
+  nameFirst: Woodrow
+  nameClub: New Iberia
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Mitchan
+  nameFirst: L.
+  nameClub: New Iberia
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Polly
+  nameFirst: Henry
+  nameClub: New Iberia
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Hooten
+  nameClub: Opelousas
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Meyers
+  nameFirst: C.
+  nameClub: Opelousas
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Purvis
+  nameFirst: Bill
+  nameClub: Opelousas
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Gruich
+  nameFirst: August J.
+  nameClub: Rayne
+- year: '1938'
+  nameLeague: Evangeline League
+  nameLast: Horton
+  nameFirst: Claude
+  nameClub: Rayne

@@ -1,0 +1,3141 @@
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Tucker
+  nameFirst: W.
+  nameClub1: Kansas City
+  Pos: 1B
+  G: '16'
+  PO: '120'
+  A: '16'
+  E: '0'
+  DP: '6'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: McLain
+  nameClub1: Columbus
+  Pos: 1B
+  G: '15'
+  PO: '119'
+  A: '9'
+  E: '0'
+  DP: '8'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Berge
+  nameClub1: Minneapolis
+  nameClub2: St. Paul
+  Pos: 1B
+  G: '10'
+  PO: '77'
+  A: '6'
+  E: '0'
+  DP: '7'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Sturdy
+  nameClub1: Columbus
+  Pos: 1B
+  G: '93'
+  PO: '716'
+  A: '46'
+  E: '2'
+  DP: '70'
+  PCT: '.997'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Schultz
+  nameClub1: St. Paul
+  Pos: 1B
+  G: '19'
+  PO: '156'
+  A: '9'
+  E: '1'
+  DP: '12'
+  PCT: '.994'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Shupe
+  nameClub1: Indianapolis
+  throws: L
+  Pos: 1B
+  G: '73'
+  PO: '652'
+  A: '42'
+  E: '6'
+  DP: '54'
+  PCT: '.991'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Browne
+  nameClub1: Louisville
+  throws: L
+  Pos: 1B
+  G: '145'
+  PO: '1235'
+  A: '64'
+  E: '15'
+  DP: '107'
+  PCT: '.989'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Denning
+  nameClub1: Milwaukee
+  Pos: 1B
+  G: '141'
+  PO: '1206'
+  A: '82'
+  E: '17'
+  DP: '124'
+  PCT: '.987'
+  TP: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Nowak
+  nameFirst: W.
+  nameClub1: Kansas City
+  throws: L
+  Pos: 1B
+  G: '98'
+  PO: '807'
+  A: '60'
+  E: '11'
+  DP: '78'
+  PCT: '.987'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Schoendienst
+  nameClub1: St. Paul
+  throws: L
+  Pos: 1B
+  G: '114'
+  PO: '978'
+  A: '76'
+  E: '16'
+  DP: '89'
+  PCT: '.985'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Mack
+  nameClub1: Indianapolis
+  throws: L
+  Pos: 1B
+  G: '80'
+  PO: '676'
+  A: '63'
+  E: '11'
+  DP: '64'
+  PCT: '.985'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Ignasiak
+  nameClub1: Toledo
+  throws: L
+  Pos: 1B
+  G: '147'
+  PO: '1262'
+  A: '78'
+  E: '22'
+  DP: '105'
+  PCT: '.984'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lafata
+  nameClub1: Minneapolis
+  throws: L
+  Pos: 1B
+  G: '146'
+  PO: '1231'
+  A: '103'
+  E: '23'
+  DP: '121'
+  PCT: '.983'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Baron
+  nameClub1: Columbus
+  throws: L
+  Pos: 1B
+  G: '38'
+  PO: '312'
+  A: '29'
+  E: '7'
+  DP: '28'
+  PCT: '.980'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Suytar
+  nameClub1: Kansas City
+  Pos: 1B
+  G: '33'
+  PO: '247'
+  A: '14'
+  E: '6'
+  DP: '18'
+  PCT: '.978'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Gracey
+  nameClub1: Columbus
+  Pos: 1B
+  G: '11'
+  PO: '80'
+  A: '9'
+  E: '2'
+  DP: '11'
+  PCT: '.978'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Morgan
+  nameClub1: Indianapolis
+  nameClub2: Minneapolis
+  throws: L
+  Pos: 1B
+  G: '10'
+  PO: '61'
+  A: '3'
+  E: '2'
+  DP: '5'
+  PCT: '.970'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Etchison
+  nameClub1: Milwaukee
+  throws: L
+  Pos: 1B
+  G: '10'
+  PO: '83'
+  A: '10'
+  E: '3'
+  DP: '9'
+  PCT: '.969'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Huston
+  nameClub1: Columbus
+  Pos: 2B
+  G: '21'
+  PO: '44'
+  A: '51'
+  E: '1'
+  DP: '9'
+  PCT: '.990'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Tucker
+  nameFirst: W.
+  nameClub1: Kansas City
+  Pos: 2B
+  G: '14'
+  PO: '36'
+  A: '35'
+  E: '1'
+  DP: '6'
+  PCT: '.986'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Boaz
+  nameClub1: St. Paul
+  Pos: 2B
+  G: '38'
+  PO: '94'
+  A: '103'
+  E: '3'
+  DP: '17'
+  PCT: '.985'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Gracey
+  nameClub1: Columbus
+  Pos: 2B
+  G: '23'
+  PO: '56'
+  A: '60'
+  E: '2'
+  DP: '10'
+  PCT: '.983'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Berge
+  nameClub1: Minneapolis
+  nameClub2: St. Paul
+  Pos: 2B
+  G: '12'
+  PO: '21'
+  A: '27'
+  E: '1'
+  DP: '5'
+  PCT: '.980'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Geraghty
+  nameClub1: Indianapolis
+  Pos: 2B
+  G: '116'
+  PO: '310'
+  A: '305'
+  E: '13'
+  DP: '74'
+  PCT: '.979'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Serafini
+  nameClub1: Kansas City
+  Pos: 2B
+  G: '57'
+  PO: '106'
+  A: '147'
+  E: '6'
+  DP: '24'
+  PCT: '.977'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Biggs
+  nameClub1: Milwaukee
+  Pos: 2B
+  G: '41'
+  PO: '115'
+  A: '136'
+  E: '6'
+  DP: '22'
+  PCT: '.977'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Wren
+  nameClub1: Toledo
+  Pos: 2B
+  G: '124'
+  PO: '329'
+  A: '375'
+  E: '20'
+  DP: '75'
+  PCT: '.972'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Danneker
+  nameClub1: Minneapolis
+  Pos: 2B
+  G: '141'
+  PO: '402'
+  A: '428'
+  E: '29'
+  DP: '100'
+  PCT: '.966'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Young
+  nameClub1: Columbus
+  Pos: 2B
+  G: '18'
+  PO: '49'
+  A: '61'
+  E: '4'
+  DP: '22'
+  PCT: '.965'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Vitter
+  nameClub1: St. Paul
+  Pos: 2B
+  G: '95'
+  PO: '247'
+  A: '257'
+  E: '19'
+  DP: '60'
+  PCT: '.964'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Collins
+  nameClub1: Toledo
+  Pos: 2B
+  G: '28'
+  PO: '83'
+  A: '75'
+  E: '6'
+  DP: '17'
+  PCT: '.963'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rullo
+  nameClub1: Milwaukee
+  Pos: 2B
+  G: '116'
+  PO: '332'
+  A: '401'
+  E: '30'
+  DP: '89'
+  PCT: '.961'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Males
+  nameClub1: Louisville
+  nameClub2: Minneapolis
+  Pos: 2B
+  G: '14'
+  PO: '34'
+  A: '38'
+  E: '3'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Davis
+  nameFirst: G.
+  nameClub1: Columbus
+  Pos: 2B
+  G: '80'
+  PO: '232'
+  A: '215'
+  E: '19'
+  DP: '45'
+  PCT: '.959'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Koney
+  nameClub1: Louisville
+  Pos: 2B
+  G: '138'
+  PO: '371'
+  A: '389'
+  E: '34'
+  DP: '90'
+  PCT: '.957'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Bogard
+  nameClub1: Kansas City
+  Pos: 2B
+  G: '42'
+  PO: '77'
+  A: '110'
+  E: '9'
+  DP: '23'
+  PCT: '.954'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Fletcher
+  nameFirst: R.
+  nameClub1: Indianapolis
+  Pos: 2B
+  G: '14'
+  PO: '21'
+  A: '38'
+  E: '3'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Shemo
+  nameClub1: Indianapolis
+  Pos: 2B
+  G: '23'
+  PO: '63'
+  A: '49'
+  E: '6'
+  DP: '22'
+  PCT: '.949'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Sabol
+  nameClub1: Kansas City
+  Pos: 2B
+  G: '35'
+  PO: '55'
+  A: '85'
+  E: '13'
+  DP: '15'
+  PCT: '.915'
+  TP: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Tucker
+  nameClub1: St. Paul
+  Pos: 2B
+  G: '10'
+  PO: '12'
+  A: '20'
+  E: '4'
+  DP: '5'
+  PCT: '.889'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Scheiwe
+  nameClub1: St. Paul
+  Pos: 2B
+  G: '15'
+  PO: '23'
+  A: '33'
+  E: '8'
+  DP: '5'
+  PCT: '.875'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Blazo
+  nameClub1: Minneapolis
+  Pos: 3B
+  G: '10'
+  PO: '8'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Steiner
+  nameClub1: Louisville
+  Pos: 3B
+  G: '42'
+  PO: '37'
+  A: '90'
+  E: '3'
+  DP: '11'
+  PCT: '.977'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Wallen
+  nameClub1: Indianapolis
+  Pos: 3B
+  G: '51'
+  PO: '45'
+  A: '89'
+  E: '4'
+  DP: '9'
+  PCT: '.971'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: English
+  nameClub1: Indianapolis
+  Pos: 3B
+  G: '114'
+  PO: '118'
+  A: '256'
+  E: '12'
+  DP: '30'
+  PCT: '.969'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lipscomb
+  nameClub1: Louisville
+  Pos: 3B
+  G: '10'
+  PO: '10'
+  A: '15'
+  E: '1'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Collins
+  nameClub1: Toledo
+  Pos: 3B
+  G: '84'
+  PO: '87'
+  A: '167'
+  E: '14'
+  DP: '15'
+  PCT: '.948'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Males
+  nameClub1: Louisville
+  nameClub2: Minneapolis
+  Pos: 3B
+  G: '18'
+  PO: '20'
+  A: '35'
+  E: '3'
+  DP: '2'
+  PCT: '.948'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Nance
+  nameClub1: Milwaukee
+  Pos: 3B
+  G: '151'
+  PO: '135'
+  A: '257'
+  E: '22'
+  DP: '22'
+  PCT: '.947'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: LaForest
+  nameClub1: Louisville
+  Pos: 3B
+  G: '21'
+  PO: '22'
+  A: '50'
+  E: '4'
+  DP: '5'
+  PCT: '.947'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Huston
+  nameClub1: Columbus
+  Pos: 3B
+  G: '62'
+  PO: '63'
+  A: '108'
+  E: '11'
+  DP: '17'
+  PCT: '.940'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Berge
+  nameClub1: Minneapolis
+  nameClub2: St. Paul
+  Pos: 3B
+  G: '26'
+  PO: '29'
+  A: '34'
+  E: '4'
+  DP: '5'
+  PCT: '.940'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Ostrowski
+  nameClub1: Kansas City
+  Pos: 3B
+  G: '134'
+  PO: '170'
+  A: '217'
+  E: '26'
+  DP: '22'
+  PCT: '.937'
+  TP: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kimball
+  nameClub1: St. Paul
+  Pos: 3B
+  G: '147'
+  PO: '133'
+  A: '293'
+  E: '31'
+  DP: '30'
+  PCT: '.932'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Price
+  nameClub1: Columbus
+  nameClub2: Milwaukee
+  Pos: 3B
+  G: '26'
+  PO: '34'
+  A: '42'
+  E: '6'
+  DP: '8'
+  PCT: '.927'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Shofner
+  nameClub1: Louisville
+  Pos: 3B
+  G: '17'
+  PO: '22'
+  A: '29'
+  E: '4'
+  DP: '4'
+  PCT: '.927'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Thompson
+  nameFirst: B.
+  nameClub1: Toledo
+  Pos: 3B
+  G: '20'
+  PO: '15'
+  A: '32'
+  E: '4'
+  DP: '6'
+  PCT: '.922'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rhawn
+  nameClub1: Columbus
+  Pos: 3B
+  G: '19'
+  PO: '16'
+  A: '17'
+  E: '3'
+  DP: '3'
+  PCT: '.917'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lancellotti
+  nameClub1: Columbus
+  Pos: 3B
+  G: '28'
+  PO: '25'
+  A: '50'
+  E: '7'
+  DP: '2'
+  PCT: '.915'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Picciuto
+  nameClub1: Minneapolis
+  Pos: 3B
+  G: '98'
+  PO: '89'
+  A: '188'
+  E: '28'
+  DP: '23'
+  PCT: '.908'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Serafini
+  nameClub1: Kansas City
+  Pos: 3B
+  G: '22'
+  PO: '18'
+  A: '38'
+  E: '6'
+  DP: '3'
+  PCT: '.903'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Polly
+  nameClub1: Louisville
+  nameClub2: Toledo
+  Pos: 3B
+  G: '79'
+  PO: '74'
+  A: '137'
+  E: '25'
+  DP: '10'
+  PCT: '.879'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lanfersieck
+  nameClub1: Toledo
+  Pos: 3B
+  G: '32'
+  PO: '27'
+  A: '55'
+  E: '12'
+  DP: '5'
+  PCT: '.872'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Ruiz
+  nameClub1: Minneapolis
+  Pos: 3B
+  G: '18'
+  PO: '26'
+  A: '27'
+  E: '12'
+  DP: '5'
+  PCT: '.815'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Storenski
+  nameClub1: Columbus
+  Pos: SS
+  G: '10'
+  PO: '14'
+  A: '21'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rhawn
+  nameClub1: Columbus
+  Pos: SS
+  G: '11'
+  PO: '24'
+  A: '24'
+  E: '2'
+  DP: '5'
+  PCT: '.960'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Price
+  nameClub1: Columbus
+  nameClub2: Milwaukee
+  Pos: SS
+  G: '40'
+  PO: '82'
+  A: '133'
+  E: '10'
+  DP: '19'
+  PCT: '.956'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Zak
+  nameClub1: Kansas City
+  Pos: SS
+  G: '104'
+  PO: '212'
+  A: '318'
+  E: '25'
+  DP: '51'
+  PCT: '.955'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Wilkie
+  nameClub1: Indianapolis
+  Pos: SS
+  G: '14'
+  PO: '25'
+  A: '27'
+  E: '3'
+  DP: '7'
+  PCT: '.945'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Young
+  nameClub1: Columbus
+  Pos: SS
+  G: '65'
+  PO: '132'
+  A: '208'
+  E: '20'
+  DP: '33'
+  PCT: '.944'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Ostrowski
+  nameClub1: Kansas City
+  Pos: SS
+  G: '14'
+  PO: '20'
+  A: '28'
+  E: '3'
+  DP: '6'
+  PCT: '.941'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Hart
+  nameClub1: St. Paul
+  Pos: SS
+  G: '38'
+  PO: '70'
+  A: '109'
+  E: '12'
+  DP: '23'
+  PCT: '.937'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Males
+  nameClub1: Louisville
+  nameClub2: Minneapolis
+  Pos: SS
+  G: '98'
+  PO: '192'
+  A: '278'
+  E: '33'
+  DP: '51'
+  PCT: '.934'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kimble
+  nameClub1: Toledo
+  Pos: SS
+  G: '107'
+  PO: '203'
+  A: '316'
+  E: '37'
+  DP: '61'
+  PCT: '.933'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Heltzel
+  nameClub1: Indianapolis
+  Pos: SS
+  G: '141'
+  PO: '231'
+  A: '401'
+  E: '46'
+  DP: '70'
+  PCT: '.932'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Berge
+  nameClub1: Minneapolis
+  nameClub2: St. Paul
+  Pos: SS
+  G: '38'
+  PO: '62'
+  A: '94'
+  E: '12'
+  DP: '16'
+  PCT: '.929'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Biggs
+  nameClub1: Milwaukee
+  Pos: SS
+  G: '89'
+  PO: '192'
+  A: '267'
+  E: '37'
+  DP: '59'
+  PCT: '.925'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Brown
+  nameClub1: St. Paul
+  Pos: SS
+  G: '80'
+  PO: '167'
+  A: '201'
+  E: '30'
+  DP: '41'
+  PCT: '.925'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lehrman
+  nameClub1: Minneapolis
+  Pos: SS
+  G: '43'
+  PO: '75'
+  A: '103'
+  E: '15'
+  DP: '11'
+  PCT: '.922'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: LaForest
+  nameClub1: Louisville
+  Pos: SS
+  G: '14'
+  PO: '21'
+  A: '37'
+  E: '5'
+  DP: '7'
+  PCT: '.921'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Shofner
+  nameClub1: Louisville
+  Pos: SS
+  G: '128'
+  PO: '250'
+  A: '365'
+  E: '55'
+  DP: '70'
+  PCT: '.918'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Weingartner
+  nameClub1: Milwaukee
+  Pos: SS
+  G: '27'
+  PO: '52'
+  A: '97'
+  E: '14'
+  DP: '24'
+  PCT: '.914'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Towns
+  nameClub1: Columbus
+  Pos: SS
+  G: '60'
+  PO: '113'
+  A: '153'
+  E: '27'
+  DP: '40'
+  PCT: '.908'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Jackimchuk
+  nameClub1: Minneapolis
+  Pos: SS
+  G: '22'
+  PO: '49'
+  A: '59'
+  E: '11'
+  DP: '13'
+  PCT: '.908'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Tucker
+  nameFirst: W.
+  nameClub1: Kansas City
+  Pos: SS
+  G: '31'
+  PO: '67'
+  A: '81'
+  E: '16'
+  DP: '14'
+  PCT: '.902'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Thompson
+  nameFirst: B.
+  nameClub1: Toledo
+  Pos: SS
+  G: '52'
+  PO: '94'
+  A: '120'
+  E: '26'
+  DP: '21'
+  PCT: '.982'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kaney
+  nameClub1: Louisville
+  Pos: SS
+  G: '17'
+  PO: '27'
+  A: '34'
+  E: '9'
+  DP: '5'
+  PCT: '.871'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Genovese
+  nameClub1: Louisville
+  Pos: OF
+  G: '154'
+  PO: '310'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Platek
+  nameClub1: St. Paul
+  Pos: OF
+  G: '51'
+  PO: '100'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Thompson
+  nameFirst: B.
+  nameClub1: Toledo
+  Pos: OF
+  G: '23'
+  PO: '38'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: English
+  nameClub1: Indianapolis
+  Pos: OF
+  G: '26'
+  PO: '35'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Mallory
+  nameClub1: Columbus
+  Pos: OF
+  G: '16'
+  PO: '30'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Males
+  nameClub1: Louisville
+  nameClub2: Minneapolis
+  Pos: OF
+  G: '10'
+  PO: '17'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Bogard
+  nameClub1: Kansas City
+  Pos: OF
+  G: '12'
+  PO: '15'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Powaski
+  nameClub1: St. Paul
+  Pos: OF
+  G: '10'
+  PO: '9'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Barath
+  nameClub1: Louisville
+  Pos: OF
+  G: '108'
+  PO: '168'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.994'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kreevich
+  nameClub1: Kansas City
+  Pos: OF
+  G: '71'
+  PO: '150'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PCT: '.994'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Norman
+  nameClub1: Milwaukee
+  Pos: OF
+  G: '49'
+  PO: '110'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.991'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Bartosch
+  nameClub1: Columbus
+  Pos: OF
+  G: '50'
+  PO: '78'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.988'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Cicero
+  nameClub1: Minneapolis
+  Pos: OF
+  G: '56'
+  PO: '135'
+  A: '10'
+  E: '2'
+  DP: '4'
+  PCT: '.986'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kobesky
+  nameClub1: Milwaukee
+  Pos: OF
+  G: '46'
+  PO: '63'
+  A: '7'
+  E: '1'
+  DP: '2'
+  PCT: '.986'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Chapman
+  nameClub1: St. Paul
+  Pos: OF
+  G: '119'
+  PO: '194'
+  A: '9'
+  E: '3'
+  DP: '2'
+  PCT: '.985'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Cooney
+  nameClub1: Kansas City
+  throws: L
+  Pos: OF
+  G: '21'
+  PO: '58'
+  A: '2'
+  E: '1'
+  DP: '2'
+  PCT: '.984'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Scheiwe
+  nameClub1: St. Paul
+  Pos: OF
+  G: '36'
+  PO: '56'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Flick
+  nameClub1: Milwaukee
+  throws: L
+  Pos: OF
+  G: '139'
+  PO: '265'
+  A: '5'
+  E: '5'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Deal
+  nameClub1: Louisville
+  Pos: OF
+  G: '23'
+  PO: '40'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rebel
+  nameClub1: Columbus
+  throws: L
+  Pos: OF
+  G: '93'
+  PO: '158'
+  A: '10'
+  E: '4'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Cotelle
+  nameClub1: Louisville
+  throws: L
+  Pos: OF
+  G: '52'
+  PO: '81'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: King
+  nameClub1: Kansas City
+  Pos: OF
+  G: '132'
+  PO: '263'
+  A: '18'
+  E: '7'
+  DP: '5'
+  PCT: '.976'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Wentzel
+  nameClub1: Indianapolis
+  Pos: OF
+  G: '154'
+  PO: '379'
+  A: '17'
+  E: '10'
+  DP: '4'
+  PCT: '.975'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Maulini
+  nameClub1: Minneapolis
+  Pos: OF
+  G: '22'
+  PO: '38'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Smith
+  nameClub1: Toledo
+  Pos: OF
+  G: '88'
+  PO: '189'
+  A: '2'
+  E: '5'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Corona
+  nameClub1: Toledo
+  Pos: OF
+  G: '90'
+  PO: '166'
+  A: '14'
+  E: '5'
+  DP: '3'
+  PCT: '.973'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Parks
+  nameClub1: Indianapolis
+  Pos: OF
+  G: '133'
+  PO: '233'
+  A: '6'
+  E: '7'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Nowak
+  nameFirst: H.
+  nameClub1: Minneapolis
+  Pos: OF
+  G: '148'
+  PO: '340'
+  A: '24'
+  E: '11'
+  DP: '6'
+  PCT: '.971'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Musser
+  nameClub1: Kansas City
+  Pos: OF
+  G: '29'
+  PO: '62'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Dill
+  nameClub1: Minneapolis
+  nameClub2: Indianapolis
+  throws: L
+  Pos: OF
+  G: '127'
+  PO: '210'
+  A: '16'
+  E: '7'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Filipowicz
+  nameClub1: Columbus
+  Pos: OF
+  G: '48'
+  PO: '123'
+  A: '5'
+  E: '4'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: McLain
+  nameClub1: Columbus
+  Pos: OF
+  G: '122'
+  PO: '264'
+  A: '10'
+  E: '9'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Reinhart
+  nameClub1: Toledo
+  Pos: OF
+  G: '138'
+  PO: '220'
+  A: '24'
+  E: '8'
+  DP: '4'
+  PCT: '.968'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Yaeger
+  nameClub1: St. Paul
+  throws: L
+  Pos: OF
+  G: '91'
+  PO: '199'
+  A: '11'
+  E: '7'
+  DP: '5'
+  PCT: '.968'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rider
+  nameClub1: Columbus
+  Pos: OF
+  G: '30'
+  PO: '52'
+  A: '5'
+  E: '2'
+  DP: '3'
+  PCT: '.966'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Devincenzi
+  nameClub1: Kansas City
+  Pos: OF
+  G: '101'
+  PO: '183'
+  A: '12'
+  E: '7'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lund
+  nameClub1: St. Paul
+  Pos: OF
+  G: '70'
+  PO: '103'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Pike
+  nameClub1: Indianapolis
+  Pos: OF
+  G: '20'
+  PO: '25'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Sabol
+  nameClub1: Kansas City
+  Pos: OF
+  G: '33'
+  PO: '67'
+  A: '6'
+  E: '3'
+  DP: '2'
+  PCT: '.961'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Barna
+  nameClub1: Minneapolis
+  Pos: OF
+  G: '129'
+  PO: '202'
+  A: '12'
+  E: '9'
+  DP: '4'
+  PCT: '.960'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Meyers
+  nameClub1: Kansas City
+  throws: L
+  Pos: OF
+  G: '14'
+  PO: '24'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Hazen
+  nameClub1: Columbus
+  Pos: OF
+  G: '100'
+  PO: '242'
+  A: '13'
+  E: '11'
+  DP: '2'
+  PCT: '.959'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Polly
+  nameClub1: Louisville
+  nameClub2: Toledo
+  Pos: OF
+  G: '33'
+  PO: '46'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.959'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Marion
+  nameClub1: St. Paul
+  nameClub2: Louisville
+  Pos: OF
+  G: '103'
+  PO: '175'
+  A: '9'
+  E: '8'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Passero
+  nameClub1: Kansas City
+  Pos: OF
+  G: '42'
+  PO: '62'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: LaForest
+  nameClub1: Louisville
+  Pos: OF
+  G: '42'
+  PO: '60'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.956'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Howerton
+  nameClub1: Louisville
+  Pos: OF
+  G: '72'
+  PO: '107'
+  A: '9'
+  E: '6'
+  DP: '0'
+  PCT: '.951'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rosenthal
+  nameClub1: Milwaukee
+  throws: L
+  Pos: OF
+  G: '74'
+  PO: '184'
+  A: '3'
+  E: '10'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Okrie
+  nameClub1: Toledo
+  Pos: OF
+  G: '77'
+  PO: '119'
+  A: '7'
+  E: '7'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Burgo
+  nameClub1: Milwaukee
+  Pos: OF
+  G: '144'
+  PO: '239'
+  A: '11'
+  E: '16'
+  DP: '2'
+  PCT: '.940'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kresal
+  nameClub1: Minneapolis
+  Pos: OF
+  G: '49'
+  PO: '85'
+  A: '0'
+  E: '6'
+  DP: '0'
+  PCT: '.934'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Morgan
+  nameClub1: Indianapolis
+  nameClub2: Minneapolis
+  throws: L
+  Pos: OF
+  G: '57'
+  PO: '65'
+  A: '5'
+  E: '5'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Nowak
+  nameFirst: W.
+  nameClub1: Kansas City
+  throws: L
+  Pos: OF
+  G: '20'
+  PO: '26'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Vitter
+  nameClub1: St. Paul
+  Pos: OF
+  G: '31'
+  PO: '40'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Davis
+  nameFirst: T.
+  nameClub1: Indianapolis
+  Pos: OF
+  G: '22'
+  PO: '25'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Boken
+  nameClub1: Toledo
+  Pos: OF
+  G: '14'
+  PO: '15'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lucier
+  nameClub1: Minneapolis
+  Pos: P
+  G: '22'
+  PO: '13'
+  A: '28'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Moore
+  nameClub1: Kansas City
+  Pos: P
+  G: '27'
+  PO: '11'
+  A: '24'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lindquist
+  nameClub1: Milwaukee
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '22'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Pyle
+  nameClub1: Milwaukee
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Strommen
+  nameClub1: Columbus
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '21'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Hearn
+  nameClub1: Minneapolis
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '20'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Clark
+  nameClub1: Louisville
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '18'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Orphal
+  nameClub1: Kansas City
+  Pos: P
+  G: '14'
+  PO: '12'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Davis
+  nameFirst: Wen.
+  nameClub1: Milwaukee
+  Pos: P
+  G: '26'
+  PO: '1'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Camp
+  nameClub1: St. Paul
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rudolph
+  nameClub1: St. Paul
+  Pos: P
+  G: '15'
+  PO: '0'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Pavlick
+  nameClub1: Toledo
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Cunningham
+  nameClub1: Columbus
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Marleau
+  nameClub1: Kansas City
+  Pos: P
+  G: '30'
+  PO: '0'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kaufman
+  nameClub1: Toledo
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: McGillen
+  nameClub1: Milwaukee
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Earley
+  nameClub1: Indianapolis
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Peterson
+  nameClub1: Toledo
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lowery
+  nameClub1: Columbus
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Miller
+  nameFirst: Jack
+  nameClub1: St. Paul
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Scheetz
+  nameClub1: Milwaukee
+  Pos: P
+  G: '27'
+  PO: '12'
+  A: '50'
+  E: '1'
+  DP: '2'
+  PCT: '.984'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Webb
+  nameClub1: St. Paul
+  nameClub2: Minneapolis
+  Pos: P
+  G: '31'
+  PO: '11'
+  A: '43'
+  E: '1'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Whitehead
+  nameClub1: Toledo
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '43'
+  E: '1'
+  DP: '1'
+  PCT: '.979'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Jiminez
+  nameClub1: Indianapolis
+  Pos: P
+  G: '39'
+  PO: '8'
+  A: '37'
+  E: '1'
+  DP: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Wright
+  nameClub1: Indianapolis
+  Pos: P
+  G: '20'
+  PO: '9'
+  A: '36'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Fannin
+  nameClub1: Toledo
+  Pos: P
+  G: '25'
+  PO: '15'
+  A: '30'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Alberton
+  nameClub1: Minneapolis
+  Pos: P
+  G: '47'
+  PO: '5'
+  A: '30'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Weaver
+  nameClub1: St. Paul
+  Pos: P
+  G: '45'
+  PO: '4'
+  A: '31'
+  E: '1'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Tauscher
+  nameClub1: St. Paul
+  Pos: P
+  G: '61'
+  PO: '4'
+  A: '31'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Abernathy
+  nameClub1: Minneapolis
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '8'
+  A: '26'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Pepper
+  nameClub1: Kansas City
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '26'
+  E: '1'
+  DP: '3'
+  PCT: '.969'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Widmar
+  nameClub1: Louisville
+  Pos: P
+  G: '33'
+  PO: '7'
+  A: '54'
+  E: '2'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Flowers
+  nameClub1: Indianapolis
+  throws: L
+  Pos: P
+  G: '41'
+  PO: '10'
+  A: '51'
+  E: '2'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Simonds
+  nameClub1: Louisville
+  Pos: P
+  G: '39'
+  PO: '6'
+  A: '24'
+  E: '1'
+  DP: '1'
+  PCT: '.068'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Diehl
+  nameClub1: Louisville
+  Pos: P
+  G: '21'
+  PO: '7'
+  A: '23'
+  E: '1'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Brunswick
+  nameClub1: Columbus
+  Pos: P
+  G: '36'
+  PO: '8'
+  A: '49'
+  E: '2'
+  DP: '4'
+  PCT: '.966'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Bahr
+  nameClub1: Kansas City
+  Pos: P
+  G: '29'
+  PO: '10'
+  A: '46'
+  E: '2'
+  DP: '3'
+  PCT: '.966'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Hendrickson
+  nameClub1: Milwaukee
+  Pos: P
+  G: '18'
+  PO: '7'
+  A: '20'
+  E: '1'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Callahan
+  nameClub1: Louisville
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '44'
+  E: '2'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Sunkel
+  nameClub1: St. Paul
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '23'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Singleton
+  nameClub1: Kansas City
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Branca
+  nameClub1: St. Paul
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Pringle
+  nameClub1: Kansas City
+  Pos: P
+  G: '38'
+  PO: '15'
+  A: '34'
+  E: '2'
+  DP: '2'
+  PCT: '.961'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Swanson
+  nameClub1: Minneapolis
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '42'
+  E: '2'
+  DP: '4'
+  PCT: '.961'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Tart
+  nameClub1: St. Paul
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '8'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Miller
+  nameFirst: John
+  nameClub1: Toledo
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Davis
+  nameFirst: Wm.
+  nameClub1: Kansas City
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Garver
+  nameClub1: Toledo
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '47'
+  E: '3'
+  DP: '3'
+  PCT: '.949'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Nitcholas
+  nameClub1: St. Paul
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '48'
+  E: '3'
+  DP: '3'
+  PCT: '.948'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Jeffcoat
+  nameClub1: Indianapolis
+  Pos: P
+  G: '29'
+  PO: '16'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Brock
+  nameClub1: Columbus
+  Pos: P
+  G: '26'
+  PO: '2'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lanahan
+  nameClub1: St. Paul
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '43'
+  E: '3'
+  DP: '0'
+  PCT: '.942'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Martin (Mustaikis)
+  nameFirst: A.
+  nameClub1: Kansas City
+  Pos: P
+  G: '14'
+  PO: '7'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Sumey
+  nameClub1: Columbus
+  Pos: P
+  G: '41'
+  PO: '7'
+  A: '36'
+  E: '3'
+  DP: '4'
+  PCT: '.935'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Cecil
+  nameClub1: Louisville
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '35'
+  E: '3'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Chumley
+  nameClub1: Louisville
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lippold
+  nameClub1: Minneapolis
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lawson
+  nameClub1: Louisville
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '2'
+  A: '25'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Thompson
+  nameClub1: Louisville
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '10'
+  A: '28'
+  E: '3'
+  DP: '5'
+  PCT: '.927'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: LaMacchia
+  nameClub1: Toledo
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Rich
+  nameClub1: Indianapolis
+  Pos: P
+  G: '18'
+  PO: '1'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Knierim
+  nameClub1: Toledo
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '29'
+  E: '3'
+  DP: '0'
+  PCT: '.921'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Speer
+  nameClub1: Milwaukee
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '39'
+  E: '4'
+  DP: '1'
+  PCT: '.918'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Wallace
+  nameClub1: Indianapolis
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '8'
+  A: '36'
+  E: '4'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lopatka
+  nameClub1: Columbus
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '37'
+  E: '4'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Durheim
+  nameClub1: Indianapolis
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Root
+  nameClub1: Columbus
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '16'
+  E: '2'
+  DP: '2'
+  PCT: '.909'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Mistele
+  nameClub1: Milwaukee
+  nameClub2: Minneapolis
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '24'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Mains
+  nameClub1: Toledo
+  Pos: P
+  G: '36'
+  PO: '2'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Davis
+  nameFirst: R.
+  nameClub1: Milwaukee
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Smalling
+  nameClub1: Toledo
+  Pos: P
+  G: '24'
+  PO: '0'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.895'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kimberlin
+  nameClub1: Toledo
+  nameClub2: Louisville
+  Pos: P
+  G: '34'
+  PO: '4'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.893'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kash
+  nameClub1: Minneapolis
+  throws: L
+  Pos: P
+  G: '51'
+  PO: '9'
+  A: '32'
+  E: '5'
+  DP: '1'
+  PCT: '.891'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Kelly
+  nameClub1: St. Paul
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Mazar
+  nameClub1: Columbus
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '29'
+  E: '5'
+  DP: '2'
+  PCT: '.886'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Leon
+  nameClub1: Minneapolis
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '20'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Cardoni
+  nameClub1: Indianapolis
+  nameClub2: Milwaukee
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '23'
+  E: '4'
+  DP: '2'
+  PCT: '.882'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Hutchinson
+  nameClub1: Indianapolis
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '12'
+  E: '2'
+  DP: '3'
+  PCT: '.882'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Acosta
+  nameClub1: Milwaukee
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '42'
+  E: '7'
+  DP: '4'
+  PCT: '.879'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Fletcher
+  nameFirst: G.
+  nameClub1: Indianapolis
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '24'
+  E: '4'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Burkart
+  nameClub1: Columbus
+  nameClub2: Milwaukee
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '11'
+  E: '2'
+  DP: '1'
+  PCT: '.867'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Vucovich
+  nameClub1: Columbus
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Marshall
+  nameClub1: Kansas City
+  Pos: P
+  G: '39'
+  PO: '13'
+  A: '30'
+  E: '9'
+  DP: '1'
+  PCT: '.827'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Patton
+  nameClub1: Louisville
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '11'
+  E: '3'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Coffman
+  nameClub1: St. Paul
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.600'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Narron
+  nameClub1: St. Paul
+  Pos: C
+  G: '78'
+  PO: '355'
+  A: '37'
+  E: '3'
+  DP: '3'
+  PB: '7'
+  PCT: '.992'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Crompton
+  nameClub1: Kansas City
+  Pos: C
+  G: '49'
+  PO: '184'
+  A: '26'
+  E: '2'
+  DP: '2'
+  PB: '5'
+  PCT: '.991'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Crandall
+  nameClub1: Toledo
+  Pos: C
+  G: '57'
+  PO: '272'
+  A: '47'
+  E: '4'
+  DP: '3'
+  PB: '7'
+  PCT: '.988'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Cardinal
+  nameClub1: Minneapolis
+  nameClub2: St. Paul
+  Pos: C
+  G: '21'
+  PO: '72'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PB: '2'
+  PCT: '.988'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lyon
+  nameClub1: Indianapolis
+  nameClub2: Toledo
+  Pos: C
+  G: '73'
+  PO: '320'
+  A: '42'
+  E: '6'
+  DP: '4'
+  PB: '14'
+  PCT: '.984'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Detore
+  nameClub1: Indianapolis
+  Pos: C
+  G: '52'
+  PO: '201'
+  A: '34'
+  E: '4'
+  DP: '4'
+  PB: '2'
+  PCT: '.983'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Comyn
+  nameClub1: Toledo
+  Pos: C
+  G: '37'
+  PO: '148'
+  A: '21'
+  E: '3'
+  DP: '4'
+  PB: '7'
+  PCT: '.983'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Walters
+  nameClub1: Louisville
+  Pos: C
+  G: '29'
+  PO: '127'
+  A: '25'
+  E: '3'
+  DP: '4'
+  PB: '4'
+  PCT: '.981'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Missler
+  nameClub1: Toledo
+  Pos: C
+  G: '31'
+  PO: '90'
+  A: '16'
+  E: '2'
+  DP: '4'
+  PB: '5'
+  PCT: '.981'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Crumling
+  nameClub1: Columbus
+  Pos: C
+  G: '12'
+  PO: '43'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PB: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Savino
+  nameClub1: Louisville
+  nameClub2: Minneapolis
+  Pos: C
+  G: '91'
+  PO: '339'
+  A: '57'
+  E: '8'
+  DP: '8'
+  PB: '10'
+  PCT: '.980'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Lewis
+  nameClub1: St. Paul
+  Pos: C
+  G: '74'
+  PO: '260'
+  A: '28'
+  E: '6'
+  DP: '5'
+  PB: '3'
+  PCT: '.980'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Steinecke
+  nameClub1: Kansas City
+  Pos: C
+  G: '53'
+  PO: '229'
+  A: '36'
+  E: '6'
+  DP: '3'
+  PB: '5'
+  PCT: '.978'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Brady
+  nameClub1: Indianapolis
+  Pos: C
+  G: '107'
+  PO: '477'
+  A: '104'
+  E: '15'
+  DP: '17'
+  PB: '13'
+  PCT: '.975'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Padden
+  nameClub1: Milwaukee
+  Pos: C
+  G: '24'
+  PO: '102'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PB: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Stephenson
+  nameClub1: Milwaukee
+  Pos: C
+  G: '120'
+  PO: '602'
+  A: '66'
+  E: '18'
+  DP: '6'
+  PB: '12'
+  PCT: '.974'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Danielson
+  nameClub1: Kansas City
+  Pos: C
+  G: '38'
+  PO: '125'
+  A: '19'
+  E: '4'
+  DP: '2'
+  PB: '4'
+  PCT: '.973'
+  TP: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Castro
+  nameClub1: Kansas City
+  Pos: C
+  G: '31'
+  PO: '130'
+  A: '18'
+  E: '5'
+  DP: '2'
+  PB: '5'
+  PCT: '.967'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Pratt
+  nameClub1: Columbus
+  Pos: C
+  G: '16'
+  PO: '76'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PB: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Blazo
+  nameClub1: Minneapolis
+  Pos: C
+  G: '69'
+  PO: '225'
+  A: '43'
+  E: '10'
+  DP: '10'
+  PB: '6'
+  PCT: '.964'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Millies
+  nameClub1: Louisville
+  Pos: C
+  G: '42'
+  PO: '168'
+  A: '26'
+  E: '8'
+  DP: '5'
+  PB: '7'
+  PCT: '.960'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Gracey
+  nameClub1: Columbus
+  Pos: C
+  G: '25'
+  PO: '84'
+  A: '13'
+  E: '4'
+  DP: '0'
+  PB: '5'
+  PCT: '.960'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Aragon
+  nameClub1: Minneapolis
+  nameClub2: Louisville
+  Pos: C
+  G: '79'
+  PO: '306'
+  A: '48'
+  E: '16'
+  DP: '7'
+  PB: '11'
+  PCT: '.957'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Ulisney
+  nameClub1: Milwaukee
+  Pos: C
+  G: '13'
+  PO: '58'
+  A: '6'
+  E: '3'
+  DP: '3'
+  PB: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1945'
+  nameLeague: American Association
+  nameLast: Bucha
+  nameClub1: Columbus
+  Pos: C
+  G: '107'
+  PO: '481'
+  A: '76'
+  E: '28'
+  DP: '12'
+  PB: '12'
+  PCT: '.942'
+  TP: '0'

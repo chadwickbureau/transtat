@@ -1,0 +1,118 @@
+- year: '1957'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '88'
+  L: '65'
+  T: '2'
+  PCT: '.575'
+  RANK: '1'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '88'
+  L: '66'
+  T: '0'
+  PCT: '.571'
+  RANK: '2'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Richmond
+  phase: regular
+  W: '81'
+  L: '73'
+  T: '1'
+  PCT: '.526'
+  RANK: '3'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Miami
+  phase: regular
+  W: '75'
+  L: '78'
+  T: '2'
+  PCT: '.490'
+  RANK: '4'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '74'
+  L: '80'
+  T: '0'
+  PCT: '.481'
+  RANK: '5'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Havana
+  phase: regular
+  W: '72'
+  L: '82'
+  T: '0'
+  PCT: '.468'
+  RANK: '6'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Columbus
+  phase: regular
+  W: '69'
+  L: '85'
+  T: '0'
+  PCT: '.448'
+  RANK: '7'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '68'
+  L: '86'
+  T: '1'
+  PCT: '.442'
+  RANK: '8'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Miami
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Richmond
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1957'
+  nameLeague: International League
+  nameClub: Miami
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,1175 @@
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Morgan
+  nameClub1: Mount Airy
+  nameClub2: Galax
+  throws: L
+  Pos: 1B
+  G: '94'
+  PO: '864'
+  A: '38'
+  E: '13'
+  DP: '37'
+  PCT: '.986'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Caswell
+  nameClub1: Lenoir
+  Pos: 1B
+  G: '77'
+  PO: '657'
+  A: '32'
+  E: '15'
+  DP: '56'
+  PCT: '.979'
+  TP: '1'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Adams
+  nameClub1: Galax
+  Pos: 1B
+  G: '46'
+  PO: '361'
+  A: '13'
+  E: '10'
+  DP: '28'
+  PCT: '.974'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Juergens
+  nameClub1: Mount Airy
+  throws: L
+  Pos: 1B
+  G: '34'
+  PO: '303'
+  A: '11'
+  E: '10'
+  DP: '25'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Batchko
+  nameClub1: Radford
+  throws: L
+  Pos: 1B
+  G: '60'
+  PO: '537'
+  A: '16'
+  E: '19'
+  DP: '48'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Livingstone
+  nameClub1: Radford
+  throws: L
+  Pos: 1B
+  G: '27'
+  PO: '225'
+  A: '8'
+  E: '8'
+  DP: '12'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Lauffer
+  nameClub1: Galax
+  nameClub2: Lenoir
+  Pos: 1B
+  G: '30'
+  PO: '223'
+  A: '16'
+  E: '14'
+  DP: '16'
+  PCT: '.945'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: King
+  nameClub1: Galax
+  Pos: 1B
+  G: '15'
+  PO: '89'
+  A: '5'
+  E: '6'
+  DP: '3'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Sorensen
+  nameClub1: Mount Airy
+  Pos: 2B
+  G: '88'
+  PO: '222'
+  A: '241'
+  E: '15'
+  DP: '34'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Anderson
+  nameClub1: Radford
+  Pos: 2B
+  G: '46'
+  PO: '98'
+  A: '134'
+  E: '10'
+  DP: '19'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Mathews
+  nameClub1: Galax
+  Pos: 2B
+  G: '33'
+  PO: '93'
+  A: '92'
+  E: '8'
+  DP: '16'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Stewart
+  nameClub1: Lenoir
+  Pos: 2B
+  G: '103'
+  PO: '292'
+  A: '261'
+  E: '27'
+  DP: '55'
+  PCT: '.944'
+  TP: '1'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Vendetta
+  nameClub1: Mount Airy
+  Pos: 2B
+  G: '14'
+  PO: '37'
+  A: '40'
+  E: '5'
+  DP: '3'
+  PCT: '.939'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Cieslinski
+  nameClub1: Galax
+  nameClub2: Radford
+  Pos: 2B
+  G: '53'
+  PO: '120'
+  A: '136'
+  E: '24'
+  DP: '29'
+  PCT: '.914'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Leonard
+  nameClub1: Radford
+  Pos: 2B
+  G: '12'
+  PO: '23'
+  A: '29'
+  E: '5'
+  DP: '6'
+  PCT: '.912'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Underwood
+  nameClub1: Galax
+  Pos: 2B
+  G: '17'
+  PO: '29'
+  A: '58'
+  E: '11'
+  DP: '7'
+  PCT: '.888'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Crutchfield
+  nameClub1: Galax
+  Pos: 2B
+  G: '30'
+  PO: '39'
+  A: '50'
+  E: '18'
+  DP: '3'
+  PCT: '.832'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Adams
+  nameClub1: Galax
+  Pos: 2B
+  G: '21'
+  PO: '28'
+  A: '41'
+  E: '15'
+  DP: '5'
+  PCT: '.821'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Kalal
+  nameClub1: Lenoir
+  Pos: 3B
+  G: '98'
+  PO: '130'
+  A: '191'
+  E: '19'
+  DP: '21'
+  PCT: '.944'
+  TP: '1'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Scott
+  nameClub1: Radford
+  Pos: 3B
+  G: '40'
+  PO: '37'
+  A: '94'
+  E: '10'
+  DP: '7'
+  PCT: '.929'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Davis
+  nameClub1: Galax
+  Pos: 3B
+  G: '43'
+  PO: '53'
+  A: '76'
+  E: '11'
+  DP: '1'
+  PCT: '.921'
+  TP: '1'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Vendetta
+  nameClub1: Mount Airy
+  Pos: 3B
+  G: '78'
+  PO: '99'
+  A: '197'
+  E: '31'
+  DP: '18'
+  PCT: '.905'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Watts
+  nameClub1: Mount Airy
+  Pos: 3B
+  G: '21'
+  PO: '16'
+  A: '48'
+  E: '7'
+  DP: '1'
+  PCT: '.901'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Combs
+  nameClub1: Galax
+  nameClub2: Radford
+  Pos: 3B
+  G: '41'
+  PO: '50'
+  A: '102'
+  E: '24'
+  DP: '8'
+  PCT: '.864'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Humphrey
+  nameClub1: Galax
+  Pos: 3B
+  G: '31'
+  PO: '35'
+  A: '82'
+  E: '19'
+  DP: '7'
+  PCT: '.860'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Leonard
+  nameClub1: Radford
+  Pos: 3B
+  G: '34'
+  PO: '41'
+  A: '65'
+  E: '19'
+  DP: '8'
+  PCT: '.848'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Wayne
+  nameClub1: Lenoir
+  Pos: SS
+  G: '17'
+  PO: '20'
+  A: '42'
+  E: '3'
+  DP: '7'
+  PCT: '.954'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Matthews
+  nameClub1: Galax
+  Pos: SS
+  G: '29'
+  PO: '71'
+  A: '81'
+  E: '9'
+  DP: '19'
+  PCT: '.944'
+  TP: '1'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Casbier
+  nameClub1: Lenoir
+  Pos: SS
+  G: '85'
+  PO: '147'
+  A: '212'
+  E: '23'
+  DP: '30'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Mize
+  nameClub1: Radford
+  Pos: SS
+  G: '102'
+  PO: '203'
+  A: '295'
+  E: '47'
+  DP: '44'
+  PCT: '.914'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Carrick
+  nameClub1: Mount Airy
+  Pos: SS
+  G: '97'
+  PO: '162'
+  A: '304'
+  E: '45'
+  DP: '26'
+  PCT: '.912'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Kelly
+  nameClub1: Galax
+  Pos: SS
+  G: '10'
+  PO: '18'
+  A: '16'
+  E: '5'
+  DP: '1'
+  PCT: '.872'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Davis
+  nameClub1: Galax
+  Pos: SS
+  G: '25'
+  PO: '32'
+  A: '49'
+  E: '12'
+  DP: '7'
+  PCT: '.871'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Leonard
+  nameClub1: Radford
+  Pos: SS
+  G: '11'
+  PO: '12'
+  A: '16'
+  E: '6'
+  DP: '1'
+  PCT: '.824'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Adams
+  nameClub1: Galax
+  Pos: SS
+  G: '14'
+  PO: '22'
+  A: '19'
+  E: '9'
+  DP: '1'
+  PCT: '.820'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Principato
+  nameClub1: Radford
+  Pos: OF
+  G: '13'
+  PO: '24'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Livingstone
+  nameClub1: Radford
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '25'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Cohick
+  nameClub1: Radford
+  Pos: OF
+  G: '11'
+  PO: '14'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Cieslinski
+  nameClub1: Galax
+  nameClub2: Radford
+  Pos: OF
+  G: '12'
+  PO: '8'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Dean
+  nameClub1: Mount Airy
+  throws: L
+  Pos: OF
+  G: '14'
+  PO: '6'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Wyzkiewicz
+  nameClub1: Lenoir
+  Pos: OF
+  G: '93'
+  PO: '138'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.987'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Brelich
+  nameClub1: Radford
+  Pos: OF
+  G: '43'
+  PO: '55'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Wells
+  nameClub1: Mount Airy
+  Pos: OF
+  G: '30'
+  PO: '48'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Lauffer
+  nameClub1: Galax
+  nameClub2: Lenoir
+  Pos: OF
+  G: '42'
+  PO: '46'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.979'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Bortolotti
+  nameClub1: Lenoir
+  throws: L
+  Pos: OF
+  G: '93'
+  PO: '171'
+  A: '9'
+  E: '13'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Guinther
+  nameClub1: Galax
+  nameClub2: Radford
+  Pos: OF
+  G: '55'
+  PO: '99'
+  A: '6'
+  E: '4'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Leonard
+  nameClub1: Radford
+  Pos: OF
+  G: '21'
+  PO: '20'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Clarke
+  nameClub1: Mount Airy
+  throws: L
+  Pos: OF
+  G: '103'
+  PO: '213'
+  A: '19'
+  E: '10'
+  DP: '0'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Haywood
+  nameClub1: Radford
+  Pos: OF
+  G: '93'
+  PO: '151'
+  A: '7'
+  E: '8'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Wayne
+  nameClub1: Lenoir
+  Pos: OF
+  G: '66'
+  PO: '89'
+  A: '10'
+  E: '5'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Arakelane
+  nameClub1: Mount Airy
+  Pos: OF
+  G: '60'
+  PO: '96'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Paul
+  nameClub1: Galax
+  Pos: OF
+  G: '83'
+  PO: '168'
+  A: '10'
+  E: '12'
+  DP: '2'
+  PCT: '.937'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Chappell
+  nameClub1: Lenoir
+  nameClub2: Galax
+  Pos: OF
+  G: '70'
+  PO: '120'
+  A: '9'
+  E: '12'
+  DP: '0'
+  PCT: '.915'
+  TP: '1'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Juergens
+  nameClub1: Mount Airy
+  throws: L
+  Pos: OF
+  G: '49'
+  PO: '70'
+  A: '4'
+  E: '7'
+  DP: '1'
+  PCT: '.914'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Davis
+  nameClub1: Radford
+  Pos: OF
+  G: '79'
+  PO: '101'
+  A: '4'
+  E: '10'
+  DP: '2'
+  PCT: '.913'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Crutchfield
+  nameClub1: Galax
+  Pos: OF
+  G: '27'
+  PO: '45'
+  A: '1'
+  E: '5'
+  DP: '1'
+  PCT: '.902'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Phipps
+  nameClub1: Galax
+  Pos: OF
+  G: '76'
+  PO: '89'
+  A: '1'
+  E: '10'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Haynes
+  nameFirst: T.
+  nameClub1: Mount Airy
+  Pos: OF
+  G: '30'
+  PO: '47'
+  A: '1'
+  E: '6'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Dorsett
+  nameClub1: Mount Airy
+  Pos: OF
+  G: '11'
+  PO: '13'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Kimp
+  nameClub1: Lenoir
+  Pos: OF
+  G: '23'
+  PO: '27'
+  A: '5'
+  E: '5'
+  DP: '1'
+  PCT: '.865'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Hillard
+  nameClub1: Galax
+  nameClub2: Radford
+  Pos: OF
+  G: '45'
+  PO: '71'
+  A: '8'
+  E: '13'
+  DP: '0'
+  PCT: '.859'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Payne
+  nameClub1: Galax
+  Pos: OF
+  G: '10'
+  PO: '8'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Dean
+  nameClub1: Mount Airy
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '14'
+  A: '30'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Haynes
+  nameClub1: Mount Airy
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '21'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Bowman
+  nameClub1: Mount Airy
+  Pos: P
+  G: '12'
+  PO: '6'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Southard
+  nameClub1: Galax
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Kimp
+  nameClub1: Lenoir
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '13'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Grubbs
+  nameClub1: Mount Airy
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Wallace
+  nameClub1: Lenoir
+  Pos: P
+  G: '26'
+  PO: '9'
+  A: '34'
+  E: '1'
+  DP: '4'
+  PCT: '.977'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Warren
+  nameClub1: Radford
+  nameClub2: Mount Airy
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '30'
+  E: '1'
+  DP: '2'
+  PCT: '.973'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Cohick
+  nameClub1: Radford
+  Pos: P
+  G: '28'
+  PO: '12'
+  A: '44'
+  E: '2'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Ciracello
+  nameClub1: Galax
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Roode
+  nameClub1: Lenoir
+  Pos: P
+  G: '25'
+  PO: '11'
+  A: '23'
+  E: '2'
+  DP: '4'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Dixon
+  nameClub1: Lenoir
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Cockerham
+  nameClub1: Galax
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '29'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Case
+  nameClub1: Radford
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '32'
+  E: '3'
+  DP: '3'
+  PCT: '.927'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Treece
+  nameClub1: Mount Airy
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '23'
+  E: '2'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Cooper
+  nameClub1: Lenoir
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '5'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: James
+  nameClub1: Radford
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Adkins
+  nameClub1: Radford
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Livingstone
+  nameClub1: Radford
+  throws: L
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Clapper
+  nameClub1: Galax
+  Pos: P
+  G: '18'
+  PO: '8'
+  A: '17'
+  E: '3'
+  DP: '2'
+  PCT: '.893'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Porterfield
+  nameClub1: Radford
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Price
+  nameClub1: Lenoir
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '27'
+  E: '5'
+  DP: '0'
+  PCT: '.868'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Wainback
+  nameClub1: Galax
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Gorman
+  nameClub1: Radford
+  Pos: P
+  G: '10'
+  PO: '5'
+  A: '16'
+  E: '5'
+  DP: '1'
+  PCT: '.808'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Harrison
+  nameClub1: Galax
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '19'
+  E: '7'
+  DP: '1'
+  PCT: '.767'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Rowland
+  nameClub1: Mount Airy
+  Pos: C
+  G: '57'
+  PO: '226'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.992'
+  PB: '1'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Martin
+  nameClub1: Radford
+  Pos: C
+  G: '61'
+  PO: '445'
+  A: '19'
+  E: '4'
+  DP: '3'
+  PCT: '.991'
+  PB: '2'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Schuster
+  nameClub1: Lenoir
+  Pos: C
+  G: '71'
+  PO: '424'
+  A: '24'
+  E: '5'
+  DP: '5'
+  PCT: '.989'
+  PB: '2'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Brelich
+  nameClub1: Radford
+  Pos: C
+  G: '39'
+  PO: '248'
+  A: '33'
+  E: '6'
+  DP: '2'
+  PCT: '.979'
+  PB: '5'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Dorsett
+  nameClub1: Mount Airy
+  Pos: C
+  G: '61'
+  PO: '292'
+  A: '21'
+  E: '7'
+  DP: '0'
+  PCT: '.978'
+  PB: '2'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Winters
+  nameClub1: Lenoir
+  Pos: C
+  G: '40'
+  PO: '188'
+  A: '17'
+  E: '5'
+  DP: '4'
+  PCT: '.976'
+  PB: '3'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Ohlinger
+  nameClub1: Galax
+  Pos: C
+  G: '51'
+  PO: '273'
+  A: '26'
+  E: '11'
+  DP: '0'
+  PCT: '.965'
+  PB: '4'
+  TP: '0'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameLast: Thompson
+  nameClub1: Galax
+  Pos: C
+  G: '54'
+  PO: '240'
+  A: '23'
+  E: '11'
+  DP: '7'
+  PCT: '.960'
+  PB: '8'
+  TP: '0'

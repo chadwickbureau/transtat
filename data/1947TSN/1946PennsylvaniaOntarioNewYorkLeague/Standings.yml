@@ -1,0 +1,124 @@
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: regular
+  W: '84'
+  L: '41'
+  T: '0'
+  PCT: '.672'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: regular
+  W: '84'
+  L: '41'
+  T: '0'
+  PCT: '.672'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: regular
+  W: '69'
+  L: '56'
+  T: '0'
+  PCT: '.552'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: regular
+  W: '58'
+  L: '66'
+  T: '0'
+  PCT: '.468'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: regular
+  W: '53'
+  L: '73'
+  T: '0'
+  PCT: '.421'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: regular
+  W: '52'
+  L: '72'
+  T: '2'
+  PCT: '.419'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Lockport
+  phase: regular
+  W: '51'
+  L: '73'
+  T: '0'
+  PCT: '.411'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: regular
+  W: '48'
+  L: '77'
+  T: '2'
+  PCT: '.384'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

@@ -1,0 +1,995 @@
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Reagan
+  nameClub1: Neosho
+  Pos: 1B
+  G: '33'
+  PO: '252'
+  A: '9'
+  E: '3'
+  DP: '18'
+  PCT: '.989'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Arlitt
+  nameClub1: Carthage
+  Pos: 1B
+  G: '115'
+  PO: '965'
+  A: '45'
+  E: '14'
+  DP: '69'
+  PCT: '.986'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Burgess
+  nameClub1: Monett
+  Pos: 1B
+  G: '41'
+  PO: '351'
+  A: '10'
+  E: '6'
+  DP: '18'
+  PCT: '.984'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Moran
+  nameClub1: Rogers
+  Pos: 1B
+  G: '105'
+  PO: '839'
+  A: '35'
+  E: '19'
+  DP: '42'
+  PCT: '.979'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Kramer
+  nameClub1: Siloam Springs
+  Pos: 1B
+  G: '53'
+  PO: '445'
+  A: '13'
+  E: '12'
+  DP: '28'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Paul
+  nameClub1: Neosho
+  Pos: 1B
+  G: '29'
+  PO: '252'
+  A: '12'
+  E: '7'
+  DP: '12'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Sternau
+  nameClub1: Siloam Springs
+  Pos: 1B
+  G: '16'
+  PO: '161'
+  A: '9'
+  E: '10'
+  DP: '6'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Schwab
+  nameClub1: Fayetteville
+  Pos: 1B
+  G: '119'
+  PO: '972'
+  A: '55'
+  E: '30'
+  DP: '61'
+  PCT: '.972'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Reardon
+  nameClub1: Neosho
+  nameClub2: Siloam Springs
+  Pos: 1B
+  G: '43'
+  PO: '396'
+  A: '21'
+  E: '13'
+  DP: '15'
+  PCT: '.970'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Locke
+  nameClub1: Siloam Springs
+  Pos: 1B
+  G: '19'
+  PO: '142'
+  A: '16'
+  E: '6'
+  DP: '10'
+  PCT: '.963'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Leach
+  nameClub1: Monett
+  Pos: 1B
+  G: '62'
+  PO: '477'
+  A: '19'
+  E: '21'
+  DP: '44'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Skeber
+  nameClub1: Neosho
+  Pos: 1B
+  G: '16'
+  PO: '132'
+  A: '11'
+  E: '11'
+  DP: '6'
+  PCT: '.929'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bender
+  nameFirst: S.
+  nameClub1: Monett
+  nameClub2: Rogers
+  Pos: 2B
+  G: '49'
+  PO: '116'
+  A: '121'
+  E: '13'
+  DP: '19'
+  PCT: '.948'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Krueger
+  nameClub1: Fayetteville
+  Pos: 2B
+  G: '35'
+  PO: '73'
+  A: '87'
+  E: '10'
+  DP: '10'
+  PCT: '.941'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lawrence
+  nameClub1: Carthage
+  Pos: 2B
+  G: '29'
+  PO: '67'
+  A: '76'
+  E: '11'
+  DP: '19'
+  PCT: '.929'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Knoblauch
+  nameFirst: C.
+  nameClub1: Monett
+  nameClub2: Carthage
+  Pos: 2B
+  G: '97'
+  PO: '164'
+  A: '172'
+  E: '27'
+  DP: '40'
+  PCT: '.926'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Hribernik
+  nameClub1: Siloam Springs
+  nameClub2: Monett
+  nameClub3: Rogers
+  Pos: 2B
+  G: '94'
+  PO: '222'
+  A: '213'
+  E: '35'
+  DP: '23'
+  PCT: '.926'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Kwiatkoski
+  nameClub1: Rogers
+  Pos: 2B
+  G: '53'
+  PO: '118'
+  A: '128'
+  E: '20'
+  DP: '26'
+  PCT: '.925'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Luby
+  nameClub1: Neosho
+  Pos: 2B
+  G: '116'
+  PO: '230'
+  A: '287'
+  E: '46'
+  DP: '32'
+  PCT: '.918'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Seal
+  nameClub1: Fayetteville
+  Pos: 2B
+  G: '79'
+  PO: '177'
+  A: '192'
+  E: '36'
+  DP: '35'
+  PCT: '.914'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Dusak
+  nameClub1: Monett
+  Pos: 2B
+  G: '28'
+  PO: '63'
+  A: '76'
+  E: '15'
+  DP: '11'
+  PCT: '.914'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Burris
+  nameClub1: Siloam Springs
+  Pos: 2B
+  G: '51'
+  PO: '110'
+  A: '114'
+  E: '22'
+  DP: '18'
+  PCT: '.911'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Mullen
+  nameClub1: Siloam Springs
+  Pos: 2B
+  G: '18'
+  PO: '40'
+  A: '43'
+  E: '14'
+  DP: '6'
+  PCT: '.856'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lawrence
+  nameClub1: Carthage
+  Pos: 3B
+  G: '73'
+  PO: '81'
+  A: '151'
+  E: '14'
+  DP: '11'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Wolverton
+  nameClub1: Rogers
+  Pos: 3B
+  G: '110'
+  PO: '106'
+  A: '215'
+  E: '29'
+  DP: '23'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Watkins
+  nameClub1: Fayetteville
+  Pos: 3B
+  G: '16'
+  PO: '20'
+  A: '44'
+  E: '6'
+  DP: '2'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Krueger
+  nameClub1: Fayetteville
+  Pos: 3B
+  G: '73'
+  PO: '93'
+  A: '108'
+  E: '21'
+  DP: '6'
+  PCT: '.905'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Wrobel
+  nameClub1: Siloam Springs
+  Pos: 3B
+  G: '100'
+  PO: '99'
+  A: '189'
+  E: '36'
+  DP: '11'
+  PCT: '.889'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Fowler
+  nameClub1: Monett
+  Pos: 3B
+  G: '90'
+  PO: '135'
+  A: '151'
+  E: '36'
+  DP: '19'
+  PCT: '.888'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Board
+  nameClub1: Neosho
+  Pos: 3B
+  G: '15'
+  PO: '21'
+  A: '25'
+  E: '6'
+  DP: '4'
+  PCT: '.885'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Wilson
+  nameClub1: Carthage
+  Pos: 3B
+  G: '20'
+  PO: '19'
+  A: '29'
+  E: '7'
+  DP: '2'
+  PCT: '.873'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Madden
+  nameClub1: Fayetteville
+  Pos: 3B
+  G: '26'
+  PO: '30'
+  A: '39'
+  E: '13'
+  DP: '3'
+  PCT: '.841'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Sarver
+  nameClub1: Neosho
+  Pos: 3B
+  G: '92'
+  PO: '79'
+  A: '136'
+  E: '41'
+  DP: '11'
+  PCT: '.840'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Zielinski
+  nameClub1: Neosho
+  Pos: SS
+  G: '115'
+  PO: '236'
+  A: '348'
+  E: '34'
+  DP: '36'
+  PCT: '.945'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Knoblauch
+  nameFirst: I.
+  nameClub1: Carthage
+  Pos: SS
+  G: '87'
+  PO: '120'
+  A: '230'
+  E: '25'
+  DP: '36'
+  PCT: '.933'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: David
+  nameClub1: Siloam Springs
+  nameClub2: Fayetteville
+  Pos: SS
+  G: '75'
+  PO: '99'
+  A: '244'
+  E: '31'
+  DP: '34'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Marchi
+  nameClub1: Siloam Springs
+  Pos: SS
+  G: '43'
+  PO: '83'
+  A: '117'
+  E: '20'
+  DP: '13'
+  PCT: '.909'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lurtz
+  nameClub1: Siloam Springs
+  Pos: SS
+  G: '21'
+  PO: '41'
+  A: '38'
+  E: '8'
+  DP: '6'
+  PCT: '.908'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Laurel
+  nameClub1: Rogers
+  Pos: SS
+  G: '81'
+  PO: '141'
+  A: '228'
+  E: '40'
+  DP: '22'
+  PCT: '.902'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: VanSickel
+  nameClub1: Monett
+  Pos: SS
+  G: '112'
+  PO: '178'
+  A: '298'
+  E: '59'
+  DP: '43'
+  PCT: '.890'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Caldiraro
+  nameClub1: Siloam Springs
+  Pos: SS
+  G: '15'
+  PO: '17'
+  A: '13'
+  E: '5'
+  DP: '0'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bichsel
+  nameClub1: Rogers
+  Pos: SS
+  G: '33'
+  PO: '55'
+  A: '88'
+  E: '25'
+  DP: '8'
+  PCT: '.851'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Madden
+  nameClub1: Fayetteville
+  Pos: SS
+  G: '22'
+  PO: '24'
+  A: '43'
+  E: '12'
+  DP: '4'
+  PCT: '.848'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Seal
+  nameClub1: Fayetteville
+  Pos: SS
+  G: '27'
+  PO: '44'
+  A: '61'
+  E: '23'
+  DP: '8'
+  PCT: '.820'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Evans
+  nameClub1: Neosho
+  Pos: OF
+  G: '48'
+  PO: '98'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.990'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Watkins
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '51'
+  PO: '55'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Young
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '42'
+  PO: '50'
+  A: '4'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Kommy
+  nameClub1: Neosho
+  Pos: OF
+  G: '93'
+  PO: '171'
+  A: '13'
+  E: '4'
+  DP: '4'
+  PCT: '.979'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bender
+  nameFirst: G.
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '27'
+  PO: '40'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.976'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Westover
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '24'
+  PO: '40'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.976'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Nowak
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '51'
+  PO: '69'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.973'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Swanson
+  nameClub1: Rogers
+  Pos: OF
+  G: '76'
+  PO: '158'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.971'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Chadwick
+  nameClub1: Rogers
+  Pos: OF
+  G: '39'
+  PO: '61'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.971'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Barton
+  nameClub1: Carthage
+  Pos: OF
+  G: '23'
+  PO: '28'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Serpa
+  nameClub1: Rogers
+  Pos: OF
+  G: '98'
+  PO: '142'
+  A: '7'
+  E: '6'
+  DP: '1'
+  PCT: '.961'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Knoblauch
+  nameFirst: E.
+  nameClub1: Monett
+  Pos: OF
+  G: '63'
+  PO: '136'
+  A: '9'
+  E: '6'
+  DP: '2'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Naylor
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '97'
+  PO: '195'
+  A: '13'
+  E: '10'
+  DP: '3'
+  PCT: '.954'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lurtz
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '81'
+  PO: '182'
+  A: '10'
+  E: '10'
+  DP: '1'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Jerry
+  nameClub1: Rogers
+  Pos: OF
+  G: '16'
+  PO: '18'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Jansen
+  nameClub1: Carthage
+  Pos: OF
+  G: '104'
+  PO: '192'
+  A: '9'
+  E: '11'
+  DP: '1'
+  PCT: '.948'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Owen
+  nameClub1: Neosho
+  Pos: OF
+  G: '112'
+  PO: '145'
+  A: '9'
+  E: '9'
+  DP: '3'
+  PCT: '.945'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: DaLuga
+  nameClub1: Carthage
+  Pos: OF
+  G: '87'
+  PO: '139'
+  A: '15'
+  E: '9'
+  DP: '2'
+  PCT: '.945'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Carolan
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '75'
+  PO: '99'
+  A: '9'
+  E: '7'
+  DP: '2'
+  PCT: '.939'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Davis
+  nameClub1: Carthage
+  Pos: OF
+  G: '96'
+  PO: '132'
+  A: '2'
+  E: '9'
+  DP: '0'
+  PCT: '.937'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Mort
+  nameClub1: Rogers
+  Pos: OF
+  G: '71'
+  PO: '89'
+  A: '11'
+  E: '7'
+  DP: '3'
+  PCT: '.935'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Dusak
+  nameClub1: Monett
+  Pos: OF
+  G: '37'
+  PO: '76'
+  A: '9'
+  E: '6'
+  DP: '2'
+  PCT: '.934'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Skeber
+  nameClub1: Neosho
+  Pos: OF
+  G: '76'
+  PO: '87'
+  A: '7'
+  E: '7'
+  DP: '1'
+  PCT: '.931'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Morris
+  nameClub1: Siloam Springs
+  nameClub2: Monett
+  Pos: OF
+  G: '48'
+  PO: '60'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.931'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Hawkins
+  nameClub1: Monett
+  Pos: OF
+  G: '25'
+  PO: '50'
+  A: '4'
+  E: '5'
+  DP: '0'
+  PCT: '.915'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Demster
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '28'
+  PO: '31'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.914'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Castle
+  nameClub1: Rogers
+  Pos: OF
+  G: '39'
+  PO: '41'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.913'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Price
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '19'
+  PO: '28'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.912'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Steger
+  nameClub1: Monett
+  Pos: OF
+  G: '55'
+  PO: '85'
+  A: '4'
+  E: '9'
+  DP: '2'
+  PCT: '.908'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: James
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '59'
+  PO: '81'
+  A: '5'
+  E: '9'
+  DP: '1'
+  PCT: '.905'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Peterson
+  nameFirst: M.
+  nameClub1: Monett
+  Pos: OF
+  G: '21'
+  PO: '59'
+  A: '6'
+  E: '7'
+  DP: '2'
+  PCT: '.903'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Howe
+  nameClub1: Rogers
+  nameClub2: Monett
+  Pos: OF
+  G: '35'
+  PO: '53'
+  A: '1'
+  E: '9'
+  DP: '0'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Peterson
+  nameFirst: L.
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '20'
+  PO: '25'
+  A: '1'
+  E: '6'
+  DP: '2'
+  PCT: '.813'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Knox
+  nameClub1: Fayetteville
+  Pos: C
+  G: '86'
+  PO: '683'
+  A: '56'
+  E: '4'
+  DP: '5'
+  PB: '11'
+  PCT: '.995'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Pavlich
+  nameClub1: Carthage
+  Pos: C
+  G: '57'
+  PO: '330'
+  A: '34'
+  E: '3'
+  DP: '2'
+  PB: '7'
+  PCT: '.992'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Podein
+  nameClub1: Monett
+  Pos: C
+  G: '31'
+  PO: '226'
+  A: '26'
+  E: '2'
+  DP: '5'
+  PB: '5'
+  PCT: '.992'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Radakovich
+  nameClub1: Neosho
+  Pos: C
+  G: '109'
+  PO: '832'
+  A: '83'
+  E: '16'
+  DP: '5'
+  PB: '25'
+  PCT: '.983'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Naumann
+  nameClub1: Monett
+  Pos: C
+  G: '40'
+  PO: '245'
+  A: '38'
+  E: '6'
+  DP: '5'
+  PB: '11'
+  PCT: '.979'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Sertich
+  nameClub1: Siloam Springs
+  Pos: C
+  G: '101'
+  PO: '607'
+  A: '91'
+  E: '16'
+  DP: '9'
+  PB: '12'
+  PCT: '.978'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Navarro
+  nameClub1: Rogers
+  Pos: C
+  G: '107'
+  PO: '779'
+  A: '96'
+  E: '21'
+  DP: '16'
+  PB: '37'
+  PCT: '.977'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Watkins
+  nameClub1: Fayetteville
+  Pos: C
+  G: '33'
+  PO: '212'
+  A: '44'
+  E: '6'
+  DP: '6'
+  PB: '15'
+  PCT: '.977'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Goyings
+  nameClub1: Carthage
+  Pos: C
+  G: '49'
+  PO: '496'
+  A: '43'
+  E: '14'
+  DP: '5'
+  PB: '16'
+  PCT: '.975'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Smith
+  nameClub1: Monett
+  Pos: C
+  G: '26'
+  PO: '183'
+  A: '33'
+  E: '11'
+  DP: '0'
+  PB: '10'
+  PCT: '.952'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Morris
+  nameClub1: Siloam Springs
+  nameClub2: Monett
+  Pos: C
+  G: '16'
+  PO: '80'
+  A: '7'
+  E: '5'
+  DP: '0'
+  PB: '10'
+  PCT: '.853'

@@ -1,0 +1,2855 @@
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Vega
+  nameClub1: Baton Rouge
+  Pos: 1B
+  G: '25'
+  PO: '194'
+  A: '7'
+  E: '1'
+  DP: '20'
+  PCT: '.994'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Maul
+  nameClub1: Port Arthur
+  Pos: 1B
+  G: '24'
+  PO: '234'
+  A: '6'
+  E: '2'
+  DP: '27'
+  PCT: '.992'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Belford
+  nameClub1: Alexandria
+  Pos: 1B
+  G: '52'
+  PO: '466'
+  A: '41'
+  E: '5'
+  DP: '53'
+  PCT: '.990'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Ventura
+  nameClub1: Lake Charles
+  Pos: 1B
+  G: '20'
+  PO: '190'
+  A: '5'
+  E: '2'
+  DP: '16'
+  PCT: '.990'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: McKee
+  nameClub1: Baton Rouge
+  throws: L
+  Pos: 1B
+  G: '36'
+  PO: '328'
+  A: '15'
+  E: '4'
+  DP: '26'
+  PCT: '.988'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Neyen
+  nameClub1: Alexandria
+  Pos: 1B
+  G: '59'
+  PO: '470'
+  A: '21'
+  E: '6'
+  DP: '58'
+  PCT: '.988'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sessi
+  nameClub1: Lake Charles
+  throws: L
+  Pos: 1B
+  G: '63'
+  PO: '495'
+  A: '23'
+  E: '7'
+  DP: '39'
+  PCT: '.987'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Richmond
+  nameClub1: Thibodaux
+  Pos: 1B
+  G: '47'
+  PO: '424'
+  A: '24'
+  E: '7'
+  DP: '30'
+  PCT: '.985'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bello
+  nameClub1: Crowley
+  Pos: 1B
+  G: '81'
+  PO: '658'
+  A: '33'
+  E: '11'
+  DP: '58'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Goletz
+  nameClub1: Lake Charles
+  nameClub2: Port Arthur
+  throws: L
+  Pos: 1B
+  G: '103'
+  PO: '900'
+  A: '62'
+  E: '16'
+  DP: '69'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hurley
+  nameClub1: Port Arthur
+  Pos: 1B
+  G: '15'
+  PO: '124'
+  A: '2'
+  E: '2'
+  DP: '9'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Stutsman
+  nameClub1: Lafayette
+  throws: L
+  Pos: 1B
+  G: '131'
+  PO: '1084'
+  A: '69'
+  E: '21'
+  DP: '99'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Reynolds
+  nameClub1: New Iberia
+  throws: L
+  Pos: 1B
+  G: '134'
+  PO: '1014'
+  A: '69'
+  E: '21'
+  DP: '85'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Pearce
+  nameClub1: Baton Rouge
+  nameClub2: Thibodaux
+  throws: L
+  Pos: 1B
+  G: '74'
+  PO: '591'
+  A: '30'
+  E: '12'
+  DP: '51'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Conine
+  nameClub1: Port Arthur
+  Pos: 1B
+  G: '33'
+  PO: '318'
+  A: '20'
+  E: '6'
+  DP: '25'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Garrett
+  nameClub1: Lake Charles
+  Pos: 1B
+  G: '12'
+  PO: '100'
+  A: '5'
+  E: '2'
+  DP: '8'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Izaguirre
+  nameClub1: Crowley
+  Pos: 1B
+  G: '15'
+  PO: '126'
+  A: '9'
+  E: '3'
+  DP: '11'
+  PCT: '.980'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Karpinski
+  nameClub1: Thibodaux
+  Pos: 1B
+  G: '18'
+  PO: '117'
+  A: '7'
+  E: '3'
+  DP: '9'
+  PCT: '.978'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Parrado
+  nameClub1: Thibodaux
+  Pos: 1B
+  G: '17'
+  PO: '116'
+  A: '8'
+  E: '3'
+  DP: '13'
+  PCT: '.976'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Parma
+  nameClub1: Alexandria
+  Pos: 1B
+  G: '14'
+  PO: '115'
+  A: '5'
+  E: '3'
+  DP: '15'
+  PCT: '.976'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Basquez
+  nameClub1: Thibodaux
+  throws: L
+  Pos: 1B
+  G: '29'
+  PO: '161'
+  A: '8'
+  E: '5'
+  DP: '22'
+  PCT: '.971'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Young
+  nameClub1: Thibodaux
+  Pos: 1B
+  G: '19'
+  PO: '180'
+  A: '9'
+  E: '6'
+  DP: '9'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Grigiski
+  nameClub1: Crowley
+  Pos: 1B
+  G: '46'
+  PO: '287'
+  A: '29'
+  E: '11'
+  DP: '37'
+  PCT: '.966'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Thurman
+  nameClub1: Thibodaux
+  Pos: 1B
+  G: '11'
+  PO: '84'
+  A: '1'
+  E: '4'
+  DP: '7'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sanner
+  nameClub1: Port Arthur
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '85'
+  A: '2'
+  E: '5'
+  DP: '8'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hall
+  nameClub1: Alexandria
+  Pos: 1B
+  G: '14'
+  PO: '108'
+  A: '12'
+  E: '8'
+  DP: '14'
+  PCT: '.938'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Fitzgerald
+  nameClub1: Port Arthur
+  Pos: 2B
+  G: '111'
+  PO: '319'
+  A: '384'
+  E: '10'
+  DP: '74'
+  PCT: '.986'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Walther
+  nameClub1: Alexandria
+  Pos: 2B
+  G: '29'
+  PO: '97'
+  A: '77'
+  E: '3'
+  DP: '25'
+  PCT: '.983'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Colo
+  nameClub1: Alexandria
+  Pos: 2B
+  G: '105'
+  PO: '313'
+  A: '268'
+  E: '14'
+  DP: '77'
+  PCT: '.976'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Perez
+  nameClub1: Port Arthur
+  Pos: 2B
+  G: '22'
+  PO: '78'
+  A: '61'
+  E: '4'
+  DP: '16'
+  PCT: '.972'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Garbedian
+  nameClub1: Lafayette
+  Pos: 2B
+  G: '35'
+  PO: '107'
+  A: '103'
+  E: '6'
+  DP: '32'
+  PCT: '.972'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Giel
+  nameClub1: Crowley
+  Pos: 2B
+  G: '139'
+  PO: '407'
+  A: '378'
+  E: '25'
+  DP: '97'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Oliveros
+  nameClub1: Lake Charles
+  Pos: 2B
+  G: '29'
+  PO: '71'
+  A: '80'
+  E: '5'
+  DP: '19'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Vega
+  nameClub1: Baton Rouge
+  Pos: 2B
+  G: '82'
+  PO: '237'
+  A: '214'
+  E: '18'
+  DP: '56'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Dye
+  nameClub1: New Iberia
+  Pos: 2B
+  G: '29'
+  PO: '45'
+  A: '64'
+  E: '5'
+  DP: '11'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hedington
+  nameClub1: Lafayette
+  Pos: 2B
+  G: '46'
+  PO: '156'
+  A: '150'
+  E: '17'
+  DP: '10'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Smirnoff
+  nameClub1: Lake Charles
+  Pos: 2B
+  G: '110'
+  PO: '275'
+  A: '308'
+  E: '33'
+  DP: '55'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hernandez
+  nameClub1: Lafayette
+  Pos: 2B
+  G: '18'
+  PO: '27'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Adams
+  nameClub1: New Iberia
+  Pos: 2B
+  G: '74'
+  PO: '153'
+  A: '140'
+  E: '17'
+  DP: '30'
+  PCT: '.945'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bonilla
+  nameClub1: Thibodaux
+  Pos: 2B
+  G: '110'
+  PO: '333'
+  A: '272'
+  E: '36'
+  DP: '68'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Villarreal
+  nameClub1: Baton Rouge
+  Pos: 2B
+  G: '59'
+  PO: '172'
+  A: '134'
+  E: '18'
+  DP: '30'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Philip
+  nameClub1: Port Arthur
+  Pos: 2B
+  G: '13'
+  PO: '27'
+  A: '19'
+  E: '3'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Schindler
+  nameClub1: New Iberia
+  Pos: 2B
+  G: '47'
+  PO: '113'
+  A: '93'
+  E: '14'
+  DP: '18'
+  PCT: '.936'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Aguilar
+  nameClub1: Thibodaux
+  Pos: 2B
+  G: '34'
+  PO: '78'
+  A: '89'
+  E: '15'
+  DP: '22'
+  PCT: '.918'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Paconowski
+  nameClub1: Lafayette
+  Pos: 2B
+  G: '29'
+  PO: '53'
+  A: '97'
+  E: '14'
+  DP: '21'
+  PCT: '.915'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Fitzgerald
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '16'
+  PO: '15'
+  A: '43'
+  E: '1'
+  DP: '3'
+  PCT: '.983'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Simone
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '13'
+  PO: '7'
+  A: '24'
+  E: '1'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Anderson
+  nameClub1: Lafayette
+  Pos: 3B
+  G: '19'
+  PO: '76'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: DiGiantomasso
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '25'
+  PO: '31'
+  A: '47'
+  E: '5'
+  DP: '0'
+  PCT: '.940'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: York
+  nameClub1: Crowley
+  Pos: 3B
+  G: '123'
+  PO: '127'
+  A: '333'
+  E: '25'
+  DP: '22'
+  PCT: '.948'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hernandez
+  nameClub1: Lafayette
+  Pos: 3B
+  G: '36'
+  PO: '30'
+  A: '54'
+  E: '7'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Barcello
+  nameClub1: Port Arthur
+  nameClub2: Lafayette
+  Pos: 3B
+  G: '34'
+  PO: '46'
+  A: '102'
+  E: '13'
+  DP: '15'
+  PCT: '.919'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Conine
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '18'
+  PO: '15'
+  A: '29'
+  E: '4'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Gonzales
+  nameClub1: Baton Rouge
+  Pos: 3B
+  G: '127'
+  PO: '144'
+  A: '253'
+  E: '37'
+  DP: '27'
+  PCT: '.915'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Adams
+  nameClub1: New Iberia
+  Pos: 3B
+  G: '54'
+  PO: '70'
+  A: '87'
+  E: '15'
+  DP: '8'
+  PCT: '.913'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hedington
+  nameClub1: Lafayette
+  Pos: 3B
+  G: '69'
+  PO: '40'
+  A: '103'
+  E: '14'
+  DP: '3'
+  PCT: '.911'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Stephens
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '105'
+  PO: '143'
+  A: '216'
+  E: '36'
+  DP: '23'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Slider
+  nameClub1: Alexandria
+  Pos: 3B
+  G: '139'
+  PO: '150'
+  A: '342'
+  E: '50'
+  DP: '49'
+  PCT: '.908'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Mouton
+  nameClub1: Lafayette
+  nameClub2: Thibodaux
+  Pos: 3B
+  G: '43'
+  PO: '48'
+  A: '96'
+  E: '15'
+  DP: '10'
+  PCT: '.906'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Taylor
+  nameClub1: Thibodaux
+  Pos: 3B
+  G: '89'
+  PO: '92'
+  A: '231'
+  E: '37'
+  DP: '18'
+  PCT: '.897'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Stanziani
+  nameClub1: Crowley
+  Pos: 3B
+  G: '14'
+  PO: '11'
+  A: '24'
+  E: '4'
+  DP: '3'
+  PCT: '.897'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Ventura
+  nameClub1: Port Arthur
+  nameClub2: Lake Charles
+  Pos: 3B
+  G: '11'
+  PO: '5'
+  A: '30'
+  E: '5'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Philip
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '49'
+  PO: '44'
+  A: '83'
+  E: '20'
+  DP: '5'
+  PCT: '.864'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hodges
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '22'
+  PO: '25'
+  A: '44'
+  E: '12'
+  DP: '2'
+  PCT: '.852'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: J.
+  nameClub1: New Iberia
+  Pos: 3B
+  G: '88'
+  PO: '95'
+  A: '149'
+  E: '45'
+  DP: '12'
+  PCT: '.844'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bonilla
+  nameClub1: Thibodaux
+  Pos: 3B
+  G: '13'
+  PO: '23'
+  A: '29'
+  E: '11'
+  DP: '2'
+  PCT: '.825'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Gee
+  nameClub1: Thibodaux
+  Pos: 3B
+  G: '15'
+  PO: '20'
+  A: '25'
+  E: '11'
+  DP: '5'
+  PCT: '.804'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Walther
+  nameClub1: Alexandria
+  Pos: SS
+  G: '110'
+  PO: '267'
+  A: '366'
+  E: '38'
+  DP: '73'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: DiGiantomasso
+  nameClub1: Port Arthur
+  Pos: SS
+  G: '109'
+  PO: '188'
+  A: '337'
+  E: '36'
+  DP: '67'
+  PCT: '.936'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Colo
+  nameClub1: Alexandria
+  Pos: SS
+  G: '30'
+  PO: '36'
+  A: '94'
+  E: '9'
+  DP: '18'
+  PCT: '.935'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Schindler
+  nameClub1: New Iberia
+  Pos: SS
+  G: '92'
+  PO: '184'
+  A: '234'
+  E: '30'
+  DP: '92'
+  PCT: '.933'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Spears
+  nameClub1: Baton Rouge
+  Pos: SS
+  G: '128'
+  PO: '274'
+  A: '456'
+  E: '54'
+  DP: '83'
+  PCT: '.931'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Dickens
+  nameClub1: Thibodaux
+  Pos: SS
+  G: '83'
+  PO: '152'
+  A: '255'
+  E: '31'
+  DP: '39'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Stanziani
+  nameClub1: Crowley
+  Pos: SS
+  G: '83'
+  PO: '174'
+  A: '229'
+  E: '32'
+  DP: '47'
+  PCT: '.926'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Kawalec
+  nameClub1: Port Arthur
+  Pos: SS
+  G: '11'
+  PO: '15'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.919'
+  TP: '0'
+  apparatus: A=1, E=0
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Gomez
+  nameClub1: Lake Charles
+  Pos: SS
+  G: '141'
+  PO: '295'
+  A: '328'
+  E: '58'
+  DP: '54'
+  PCT: '.915'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Alvarez
+  nameClub1: Lafayette
+  Pos: SS
+  G: '131'
+  PO: '256'
+  A: '406'
+  E: '73'
+  DP: '66'
+  PCT: '.901'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Taylor
+  nameClub1: Thibodaux
+  Pos: SS
+  G: '42'
+  PO: '78'
+  A: '106'
+  E: '23'
+  DP: '21'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Demourelles
+  nameClub1: Crowley
+  Pos: SS
+  G: '19'
+  PO: '34'
+  A: '45'
+  E: '10'
+  DP: '5'
+  PCT: '.888'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: J.
+  nameClub1: New Iberia
+  Pos: SS
+  G: '49'
+  PO: '90'
+  A: '133'
+  E: '31'
+  DP: '22'
+  PCT: '.878'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Petti
+  nameClub1: Crowley
+  Pos: SS
+  G: '41'
+  PO: '46'
+  A: '98'
+  E: '21'
+  DP: '22'
+  PCT: '.873'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Carlini
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '15'
+  PO: '34'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Vega
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '14'
+  PO: '26'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Dye
+  nameClub1: New Iberia
+  Pos: OF
+  G: '13'
+  PO: '25'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Huggins
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '16'
+  PO: '38'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: McKee
+  nameClub1: Baton Rouge
+  throws: L
+  Pos: OF
+  G: '104'
+  PO: '325'
+  A: '9'
+  E: '3'
+  DP: '4'
+  PCT: '.991'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Schroeder
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '57'
+  PO: '145'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.987'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Ellison
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '40'
+  PO: '73'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.987'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Vucelich
+  nameClub1: Port Arthur
+  throws: L
+  Pos: OF
+  G: '37'
+  PO: '73'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.986'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Mendenhall
+  nameClub1: Alexandria
+  Pos: OF
+  G: '33'
+  PO: '60'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Nodar
+  nameClub1: Thibodaux
+  throws: L
+  Pos: OF
+  G: '121'
+  PO: '287'
+  A: '29'
+  E: '5'
+  DP: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Depperschmidt
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '40'
+  PO: '116'
+  A: '4'
+  E: '2'
+  DP: '3'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Mouton
+  nameClub1: Thibodaux
+  nameClub2: Lafayette
+  Pos: OF
+  G: '29'
+  PO: '60'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Dixon
+  nameClub1: Lafayette
+  Pos: OF
+  G: '39'
+  PO: '57'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Lavigne
+  nameClub1: Lafayette
+  Pos: OF
+  G: '67'
+  PO: '197'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Izaguirre
+  nameClub1: Crowley
+  Pos: OF
+  G: '119'
+  PO: '235'
+  A: '14'
+  E: '5'
+  DP: '3'
+  PCT: '.980'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Moore
+  nameClub1: Crowley
+  Pos: OF
+  G: '140'
+  PO: '418'
+  A: '12'
+  E: '9'
+  DP: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Iacovello
+  nameClub1: New Iberia
+  Pos: OF
+  G: '141'
+  PO: '236'
+  A: '10'
+  E: '5'
+  DP: '2'
+  PCT: '.980'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Lynn
+  nameClub1: Alexandria
+  Pos: OF
+  G: '129'
+  PO: '396'
+  A: '26'
+  E: '9'
+  DP: '5'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Centeno
+  nameClub1: Lafayette
+  Pos: OF
+  G: '138'
+  PO: '389'
+  A: '8'
+  E: '10'
+  DP: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Gregory
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '27'
+  PO: '38'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Edinger
+  nameClub1: Crowley
+  Pos: OF
+  G: '137'
+  PO: '305'
+  A: '8'
+  E: '8'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sessi
+  nameClub1: Lake Charles
+  throws: L
+  Pos: OF
+  G: '78'
+  PO: '106'
+  A: '5'
+  E: '3'
+  DP: '4'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Philip
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '43'
+  PO: '102'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Crowson
+  nameClub1: Alexandria
+  Pos: OF
+  G: '93'
+  PO: '221'
+  A: '12'
+  E: '7'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Post
+  nameClub1: Alexandria
+  Pos: OF
+  G: '49'
+  PO: '93'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Barrett
+  nameClub1: New Iberia
+  Pos: OF
+  G: '118'
+  PO: '321'
+  A: '19'
+  E: '11'
+  DP: '4'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: LeBlanc
+  nameClub1: New Iberia
+  Pos: OF
+  G: '140'
+  PO: '401'
+  A: '28'
+  E: '14'
+  DP: '8'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hernandez
+  nameClub1: Lafayette
+  Pos: OF
+  G: '16'
+  PO: '28'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Donato
+  nameClub1: Thibodaux
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '28'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Wilson
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '42'
+  PO: '80'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Karpinski
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '105'
+  PO: '171'
+  A: '17'
+  E: '7'
+  DP: '6'
+  PCT: '.964'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Ryan
+  nameClub1: Lake Charles
+  throws: L
+  Pos: OF
+  G: '36'
+  PO: '75'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bearden
+  nameClub1: New Iberia
+  Pos: OF
+  G: '23'
+  PO: '43'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.961'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Detoia
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '23'
+  PO: '45'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Brucato
+  nameClub1: Crowley
+  Pos: OF
+  G: '44'
+  PO: '41'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Warner
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '33'
+  PO: '62'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: James
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '95'
+  PO: '171'
+  A: '5'
+  E: '8'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: White
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '30'
+  PO: '42'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Garcia
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '129'
+  PO: '331'
+  A: '23'
+  E: '17'
+  DP: '4'
+  PCT: '.954'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sanner
+  nameClub1: Port Arthur
+  throws: L
+  Pos: OF
+  G: '104'
+  PO: '173'
+  A: '6'
+  E: '9'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Posado
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '92'
+  PO: '184'
+  A: '15'
+  E: '10'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Richmond
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '12'
+  PO: '20'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Parma
+  nameClub1: Alexandria
+  Pos: OF
+  G: '30'
+  PO: '59'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Gignac
+  nameClub1: Lafayette
+  Pos: OF
+  G: '75'
+  PO: '118'
+  A: '7'
+  E: '7'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bledsoe
+  nameClub1: Lafayette
+  nameClub2: Alexandria
+  Pos: OF
+  G: '33'
+  PO: '66'
+  A: '5'
+  E: '4'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Laliberte
+  nameClub1: Alexandria
+  Pos: OF
+  G: '23'
+  PO: '32'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Lambrinos
+  nameClub1: Lafayette
+  Pos: OF
+  G: '32'
+  PO: '46'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PCT: '.945'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Childs
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '39'
+  PO: '61'
+  A: '5'
+  E: '4'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: T.
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '65'
+  PO: '97'
+  A: '8'
+  E: '7'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Alomar
+  nameClub1: Lafayette
+  Pos: OF
+  G: '13'
+  PO: '14'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Graves
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '18'
+  PO: '44'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.936'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Gee
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '100'
+  PO: '170'
+  A: '12'
+  E: '13'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: J.
+  nameClub1: Lafayette
+  Pos: OF
+  G: '11'
+  PO: '24'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Foster
+  nameClub1: Alexandria
+  Pos: OF
+  G: '13'
+  PO: '25'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Petschow
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '16'
+  PO: '22'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Pearce
+  nameClub1: Baton Rouge
+  nameClub2: Thibodaux
+  throws: L
+  Pos: OF
+  G: '15'
+  PO: '20'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Ventura
+  nameFirst: H.
+  nameClub1: Port Arthur
+  nameClub2: Lake Charles
+  Pos: OF
+  G: '12'
+  PO: '8'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Marino
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '15'
+  PO: '28'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Solice
+  nameClub1: Alexandria
+  Pos: OF
+  G: '56'
+  PO: '88'
+  A: '11'
+  E: '11'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Jiminez
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '12'
+  PO: '22'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Krueger
+  nameClub1: Port Arthur
+  nameClub2: Thibodaux
+  Pos: OF
+  G: '24'
+  PO: '40'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Karpinski
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '16'
+  PO: '25'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: De Orio
+  nameClub1: Lafayette
+  Pos: OF
+  G: '17'
+  PO: '30'
+  A: '1'
+  E: '5'
+  DP: '1'
+  PCT: '.861'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Petty
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '14'
+  PO: '13'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.824'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Vega
+  nameClub1: Baton Rouge
+  Pos: C
+  G: '25'
+  PO: '71'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PB: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Faucett
+  nameClub1: Lake Charles
+  Pos: C
+  G: '107'
+  PO: '506'
+  A: '41'
+  E: '8'
+  DP: '8'
+  PB: '15'
+  PCT: '.986'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Tate
+  nameClub1: Port Arthur
+  nameClub2: Crowley
+  Pos: C
+  G: '108'
+  PO: '522'
+  A: '73'
+  E: '10'
+  DP: '7'
+  PB: '13'
+  PCT: '.983'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Nichols
+  nameClub1: Alexandria
+  Pos: C
+  G: '14'
+  PO: '74'
+  A: '7'
+  E: '2'
+  DP: '2'
+  PB: '4'
+  PCT: '.976'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hodges
+  nameClub1: Port Arthur
+  Pos: C
+  G: '19'
+  PO: '73'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: R.
+  nameClub1: New Iberia
+  Pos: C
+  G: '132'
+  PO: '558'
+  A: '47'
+  E: '16'
+  DP: '11'
+  PB: '14'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Dye
+  nameClub1: New Iberia
+  Pos: C
+  G: '30'
+  PO: '98'
+  A: '14'
+  E: '3'
+  DP: '1'
+  PB: '7'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: J.
+  nameClub1: Lafayette
+  Pos: C
+  G: '12'
+  PO: '30'
+  A: '6'
+  E: '1'
+  DP: '2'
+  PB: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hall
+  nameClub1: Baton Rouge
+  Pos: C
+  G: '82'
+  PO: '343'
+  A: '29'
+  E: '12'
+  DP: '10'
+  PB: '12'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Dossey
+  nameClub1: Thibodaux
+  Pos: C
+  G: '129'
+  PO: '602'
+  A: '71'
+  E: '23'
+  DP: '11'
+  PB: '23'
+  PCT: '.967'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Valdivia
+  nameClub1: Port Arthur
+  Pos: C
+  G: '74'
+  PO: '346'
+  A: '39'
+  E: '15'
+  DP: '1'
+  PB: '11'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Lyle
+  nameClub1: Lake Charles
+  Pos: C
+  G: '26'
+  PO: '136'
+  A: '20'
+  E: '6'
+  DP: '3'
+  PB: '7'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Anderson
+  nameClub1: Lafayette
+  Pos: C
+  G: '21'
+  PO: '95'
+  A: '6'
+  E: '4'
+  DP: '3'
+  PB: '5'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Hall
+  nameClub1: Alexandria
+  Pos: C
+  G: '124'
+  PO: '535'
+  A: '70'
+  E: '25'
+  DP: '14'
+  PB: '18'
+  PCT: '.960'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Reynolds
+  nameClub1: Crowley
+  Pos: C
+  G: '63'
+  PO: '268'
+  A: '24'
+  E: '12'
+  DP: '6'
+  PB: '9'
+  PCT: '.961'
+  TP: '0'
+  apparatus: DP=63
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Liness
+  nameClub1: Baton Rouge
+  Pos: C
+  G: '39'
+  PO: '145'
+  A: '25'
+  E: '7'
+  DP: '3'
+  PB: '7'
+  PCT: '.960'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Lambrinos
+  nameClub1: Lafayette
+  Pos: C
+  G: '15'
+  PO: '40'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PB: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Tomski
+  nameClub1: Crowley
+  Pos: C
+  G: '30'
+  PO: '134'
+  A: '10'
+  E: '8'
+  DP: '0'
+  PB: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: McElroy
+  nameClub1: Lafayette
+  Pos: C
+  G: '84'
+  PO: '376'
+  A: '46'
+  E: '25'
+  DP: '1'
+  PB: '12'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Aguilar
+  nameClub1: Thibodaux
+  Pos: C
+  G: '21'
+  PO: '56'
+  A: '11'
+  E: '6'
+  DP: '0'
+  PB: '9'
+  PCT: '.918'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bohnslav
+  nameClub1: Thibodaux
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '35'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Durnin
+  nameClub1: Port Arthur
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Baker
+  nameClub1: Port Arthur
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '17'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: McMasters
+  nameClub1: New Iberia
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Izaguirre
+  nameClub1: Crowley
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '20'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Kopach
+  nameClub1: Alexandria
+  Pos: P
+  G: '19'
+  PO: '7'
+  A: '28'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bensel
+  nameClub1: New Iberia
+  nameClub2: Baton Rouge
+  Pos: P
+  G: '40'
+  PO: '8'
+  A: '25'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Pollet
+  nameClub1: Lake Charles
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '17'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Carson
+  nameClub1: Alexandria
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '23'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Tucker
+  nameClub1: Alexandria
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '22'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Vazquez
+  nameClub1: Baton Rouge
+  nameClub2: Lafayette
+  Pos: P
+  G: '23'
+  PO: '2'
+  A: '22'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Yednak
+  nameClub1: Lafayette
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Kruppa
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '14'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Delgardo
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '13'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Robert
+  nameClub1: Crowley
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '30'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bumgardner
+  nameClub1: Alexandria
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Swygert
+  nameClub1: Alexandria
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Jones
+  nameClub1: Crowley
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Richard
+  nameClub1: Lafayette
+  Pos: P
+  G: '40'
+  PO: '14'
+  A: '66'
+  E: '1'
+  DP: '5'
+  PCT: '.988'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Stuart
+  nameClub1: New Iberia
+  Pos: P
+  G: '59'
+  PO: '13'
+  A: '39'
+  E: '1'
+  DP: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Alvarez
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '40'
+  PO: '8'
+  A: '32'
+  E: '1'
+  DP: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Simon
+  nameClub1: Crowley
+  Pos: P
+  G: '44'
+  PO: '19'
+  A: '58'
+  E: '2'
+  DP: '5'
+  PCT: '.975'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Torres
+  nameClub1: Baton Rouge
+  nameClub2: Lafayette
+  Pos: P
+  G: '40'
+  PO: '5'
+  A: '33'
+  E: '1'
+  DP: '5'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Alomar
+  nameClub1: Lafayette
+  Pos: P
+  G: '35'
+  PO: '24'
+  A: '45'
+  E: '2'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sanner
+  nameClub1: Port Arthur
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '7'
+  A: '27'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Gabor
+  nameClub1: Lafayette
+  nameClub2: Baton Rouge
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '31'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Masengill
+  nameClub1: Port Arthur
+  Pos: P
+  G: '27'
+  PO: '4'
+  A: '27'
+  E: '1'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Fox
+  nameClub1: New Iberia
+  Pos: P
+  G: '37'
+  PO: '9'
+  A: '47'
+  E: '2'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Karpinski
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '32'
+  PO: '10'
+  A: '45'
+  E: '2'
+  DP: '2'
+  PCT: '.965'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Luffey
+  nameClub1: Alexandria
+  nameClub2: New Iberia
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '20'
+  E: '1'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Donato
+  nameClub1: Thibodaux
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '11'
+  A: '43'
+  E: '2'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Laliberte
+  nameClub1: Alexandria
+  Pos: P
+  G: '32'
+  PO: '16'
+  A: '36'
+  E: '2'
+  DP: '3'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Siff
+  nameClub1: Crowley
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '41'
+  E: '2'
+  DP: '4'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Aguiar
+  nameClub1: Thibodaux
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '22'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Holleman
+  nameClub1: Crowley
+  throws: L
+  Pos: P
+  G: '45'
+  PO: '48'
+  A: '85'
+  E: '5'
+  DP: '5'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Monk
+  nameClub1: Crowley
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: White
+  nameClub1: Alexandria
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '16'
+  E: '1'
+  DP: '4'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Speranza
+  nameClub1: Port Arthur
+  nameClub2: Lake Charles
+  Pos: P
+  G: '27'
+  PO: '3'
+  A: '34'
+  E: '2'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sullivan
+  nameClub1: Thibodaux
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '31'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Rowe
+  nameClub1: Alexandria
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '15'
+  E: '1'
+  DP: '11'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Vega
+  nameClub1: Port Arthur
+  Pos: P
+  G: '40'
+  PO: '14'
+  A: '72'
+  E: '5'
+  DP: '3'
+  PCT: '.945'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Moore
+  nameClub1: Lake Charles
+  Pos: P
+  G: '29'
+  PO: '12'
+  A: '39'
+  E: '3'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bunch
+  nameClub1: Lake Charles
+  Pos: P
+  G: '24'
+  PO: '8'
+  A: '26'
+  E: '2'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Roger
+  nameClub1: Lafayette
+  nameClub2: Lake Charles
+  Pos: P
+  G: '37'
+  PO: '2'
+  A: '46'
+  E: '3'
+  DP: '6'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Oliver
+  nameClub1: Port Arthur
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '25'
+  E: '2'
+  DP: '0'
+  PCT: '.936'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Thompson
+  nameClub1: Lake Charles
+  Pos: P
+  G: '40'
+  PO: '6'
+  A: '23'
+  E: '2'
+  DP: '0'
+  PCT: '.935'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Tremel
+  nameClub1: Alexandria
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Cullens
+  nameClub1: Alexandria
+  Pos: P
+  G: '37'
+  PO: '10'
+  A: '28'
+  E: '3'
+  DP: '3'
+  PCT: '.927'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Alvarez
+  nameClub1: Port Arthur
+  Pos: P
+  G: '58'
+  PO: '13'
+  A: '53'
+  E: '6'
+  DP: '4'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Petti
+  nameClub1: Crowley
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '10'
+  E: '1'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Turano
+  nameClub1: Lake Charles
+  Pos: P
+  G: '43'
+  PO: '9'
+  A: '22'
+  E: '3'
+  DP: '1'
+  PCT: '.912'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Peeples
+  nameClub1: New Iberia
+  Pos: P
+  G: '25'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Babbitt
+  nameClub1: Lake Charles
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Exter
+  nameClub1: New Iberia
+  nameClub2: Lafayette
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Del Rio
+  nameClub1: New Iberia
+  Pos: P
+  G: '35'
+  PO: '15'
+  A: '24'
+  E: '4'
+  DP: '3'
+  PCT: '.907'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Avila
+  nameClub1: Port Arthur
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '31'
+  E: '4'
+  DP: '1'
+  PCT: '.902'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Karpinski
+  nameClub1: Thibodaux
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '26'
+  E: '4'
+  DP: '9'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sosa
+  nameClub1: Lafayette
+  Pos: P
+  G: '38'
+  PO: '17'
+  A: '14'
+  E: '4'
+  DP: '6'
+  PCT: '.886'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Waite
+  nameClub1: Thibodaux
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '25'
+  E: '4'
+  DP: '1'
+  PCT: '.886'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Griffin
+  nameClub1: Thibodaux
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '31'
+  E: '5'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Powers
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '32'
+  PO: '3'
+  A: '16'
+  E: '3'
+  DP: '2'
+  PCT: '.864'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Bonet
+  nameClub1: Lake Charles
+  nameClub2: Thibodaux
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '16'
+  E: '4'
+  DP: '3'
+  PCT: '.833'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Knight
+  nameClub1: Alexandria
+  Pos: P
+  G: '25'
+  PO: '3'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.818'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Chergey
+  nameClub1: Lake Charles
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Stranczek
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Simons
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '5'
+  E: '2'
+  DP: '2'
+  PCT: '.800'
+  TP: '0'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameLast: Sirois
+  nameClub1: Lafayette
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.625'
+  TP: '0'

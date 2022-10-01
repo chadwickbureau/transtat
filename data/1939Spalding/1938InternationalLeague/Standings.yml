@@ -1,0 +1,118 @@
+- year: '1938'
+  nameLeague: International League
+  nameClub: Newark
+  phase: regular
+  W: '104'
+  L: '48'
+  T: '0'
+  PCT: '.684'
+  RANK: '1'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '87'
+  L: '67'
+  T: '1'
+  PCT: '.565'
+  RANK: '2'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '80'
+  L: '74'
+  T: '2'
+  PCT: '.519'
+  RANK: '3'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '79'
+  L: '74'
+  T: '0'
+  PCT: '.516'
+  RANK: '4'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '72'
+  L: '81'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '69'
+  L: '84'
+  T: '2'
+  PCT: '.451'
+  RANK: '6'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Jersey City
+  phase: regular
+  W: '68'
+  L: '85'
+  T: '3'
+  PCT: '.444'
+  RANK: '7'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: regular
+  W: '52'
+  L: '98'
+  T: '2'
+  PCT: '.347'
+  RANK: '8'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Newark
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Newark
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

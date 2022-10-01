@@ -1,0 +1,182 @@
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/first
+  W: '52'
+  L: '19'
+  T: '0'
+  PCT: '.732'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/first
+  W: '43'
+  L: '26'
+  T: '0'
+  PCT: '.623'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular/first
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  phase: regular/first
+  W: '35'
+  L: '37'
+  T: '0'
+  PCT: '.486'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/first
+  W: '33'
+  L: '39'
+  T: '0'
+  PCT: '.458'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/first
+  W: '29'
+  L: '42'
+  T: '0'
+  PCT: '.408'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/first
+  W: '18'
+  L: '53'
+  T: '0'
+  PCT: '.254'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/second
+  W: '49'
+  L: '23'
+  T: '0'
+  PCT: '.681'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  phase: regular/second
+  W: '39'
+  L: '32'
+  T: '1'
+  PCT: '.549'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular/second
+  W: '38'
+  L: '33'
+  T: '1'
+  PCT: '.535'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/second
+  W: '36'
+  L: '32'
+  T: '0'
+  PCT: '.529'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/second
+  W: '31'
+  L: '39'
+  T: '1'
+  PCT: '.443'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/second
+  W: '29'
+  L: '39'
+  T: '0'
+  PCT: '.426'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/second
+  W: '22'
+  L: '46'
+  T: '1'
+  PCT: '.324'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular
+  W: '101'
+  L: '42'
+  T: '0'
+  PCT: '.706'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '79'
+  L: '58'
+  T: '0'
+  PCT: '.577'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular
+  W: '76'
+  L: '65'
+  T: '1'
+  PCT: '.539'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  phase: regular
+  W: '74'
+  L: '69'
+  T: '1'
+  PCT: '.518'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular
+  W: '64'
+  L: '78'
+  T: '1'
+  PCT: '.451'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular
+  W: '51'
+  L: '88'
+  T: '1'
+  PCT: '.367'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular
+  W: '47'
+  L: '92'
+  T: '0'
+  PCT: '.338'

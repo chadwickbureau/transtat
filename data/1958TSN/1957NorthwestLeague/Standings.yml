@@ -1,0 +1,180 @@
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: regular/first
+  W: '38'
+  L: '28'
+  T: '0'
+  PCT: '.576'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  phase: regular/first
+  W: '39'
+  L: '29'
+  T: '0'
+  PCT: '.574'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: regular/first
+  W: '35'
+  L: '31'
+  T: '0'
+  PCT: '.530'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: regular/first
+  W: '33'
+  L: '35'
+  T: '0'
+  PCT: '.485'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  phase: regular/first
+  W: '29'
+  L: '38'
+  T: '0'
+  PCT: '.330'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  phase: regular/first
+  W: '25'
+  L: '38'
+  T: '0'
+  PCT: '.397'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: regular/second
+  W: '44'
+  L: '24'
+  T: '0'
+  PCT: '.647'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: regular/second
+  W: '39'
+  L: '30'
+  T: '0'
+  PCT: '.565'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: regular/second
+  W: '34'
+  L: '36'
+  T: '0'
+  PCT: '.486'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  phase: regular/second
+  W: '33'
+  L: '40'
+  T: '0'
+  PCT: '.482'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  phase: regular/second
+  W: '30'
+  L: '37'
+  T: '0'
+  PCT: '.448'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  phase: regular/second
+  W: '28'
+  L: '41'
+  T: '0'
+  PCT: '.406'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: regular
+  W: '77'
+  L: '58'
+  T: '0'
+  PCT: '.570'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: regular
+  W: '77'
+  L: '59'
+  T: '0'
+  PCT: '.566'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  phase: regular
+  W: '69'
+  L: '66'
+  T: '0'
+  PCT: '.511'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: regular
+  W: '69'
+  L: '67'
+  T: '0'
+  PCT: '.507'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  phase: regular
+  W: '58'
+  L: '78'
+  T: '0'
+  PCT: '.426'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  phase: regular
+  W: '57'
+  L: '79'
+  T: '0'
+  PCT: '.419'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: final
+  W: '4'
+  L: '3'
+  T: '0'
+  PCT: '.571'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: final
+  W: '3'
+  L: '4'
+  T: '0'
+  PCT: '.429'
+  RANK: '2'

@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular
+  W: '90'
+  L: '50'
+  T: '1'
+  PCT: '.643'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '85'
+  L: '53'
+  T: '0'
+  PCT: '.616'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular
+  W: '77'
+  L: '63'
+  T: '0'
+  PCT: '.550'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular
+  W: '74'
+  L: '64'
+  T: '0'
+  PCT: '.536'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: regular
+  W: '71'
+  L: '69'
+  T: '0'
+  PCT: '.507'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular
+  W: '60'
+  L: '77'
+  T: '1'
+  PCT: '.438'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular
+  W: '50'
+  L: '90'
+  T: '1'
+  PCT: '.357'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular
+  W: '48'
+  L: '89'
+  T: '1'
+  PCT: '.350'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

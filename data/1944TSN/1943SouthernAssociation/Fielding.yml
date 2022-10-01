@@ -1,0 +1,2753 @@
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Veverka
+  nameClub1: Memphis
+  Pos: 1B
+  G: '10'
+  PO: '78'
+  A: '7'
+  E: '0'
+  DP: '8'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: McGhee
+  nameClub1: Little Rock
+  Pos: 1B
+  G: '139'
+  PO: '1298'
+  A: '91'
+  E: '8'
+  DP: '139'
+  PCT: '.994'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Goldstein
+  nameClub1: Birmingham
+  Pos: 1B
+  G: '56'
+  PO: '467'
+  A: '34'
+  E: '3'
+  DP: '30'
+  PCT: '.994'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Ignasiak
+  nameClub1: Memphis
+  Pos: 1B
+  G: '51'
+  PO: '416'
+  A: '31'
+  E: '4'
+  DP: '25'
+  PCT: '.991'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hicks
+  nameClub1: Nashville
+  Pos: 1B
+  G: '111'
+  PO: '951'
+  A: '52'
+  E: '10'
+  DP: '94'
+  PCT: '.990'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Bolling
+  nameClub1: New Orleans
+  Pos: 1B
+  G: '81'
+  PO: '724'
+  A: '49'
+  E: '8'
+  DP: '69'
+  PCT: '.990'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Smith
+  nameFirst: Albert
+  nameClub1: Atlanta
+  Pos: 1B
+  G: '28'
+  PO: '204'
+  A: '16'
+  E: '3'
+  DP: '26'
+  PCT: '.987'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Walsh
+  nameClub1: Birmingham
+  nameClub2: Montgomery
+  Pos: 1B
+  G: '129'
+  PO: '1169'
+  A: '56'
+  E: '18'
+  DP: '115'
+  PCT: '.986'
+  TP: '1'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mills
+  nameClub1: New Orleans
+  Pos: 1B
+  G: '25'
+  PO: '201'
+  A: '13'
+  E: '3'
+  DP: '20'
+  PCT: '.986'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hughes
+  nameClub1: Atlanta
+  Pos: 1B
+  G: '114'
+  PO: '946'
+  A: '73'
+  E: '16'
+  DP: '104'
+  PCT: '.985'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Sauer
+  nameClub1: Nashville
+  Pos: 1B
+  G: '15'
+  PO: '123'
+  A: '8'
+  E: '2'
+  DP: '13'
+  PCT: '.985'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Dunn
+  nameClub1: Knoxville
+  Pos: 1B
+  G: '124'
+  PO: '1052'
+  A: '64'
+  E: '18'
+  DP: '84'
+  PCT: '.984'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Frye
+  nameClub1: Montgomery
+  Pos: 1B
+  G: '89'
+  PO: '743'
+  A: '63'
+  E: '14'
+  DP: '59'
+  PCT: '.983'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Connors
+  nameClub1: Memphis
+  Pos: 1B
+  G: '48'
+  PO: '377'
+  A: '26'
+  E: '8'
+  DP: '35'
+  PCT: '.981'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hooks
+  nameClub1: New Orleans
+  Pos: 1B
+  G: '26'
+  PO: '224'
+  A: '11'
+  E: '5'
+  DP: '21'
+  PCT: '.979'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Seminick
+  nameClub1: Knoxville
+  Pos: 1B
+  G: '13'
+  PO: '126'
+  A: '10'
+  E: '3'
+  DP: '11'
+  PCT: '.978'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Kramer
+  nameClub1: Memphis
+  Pos: 1B
+  G: '21'
+  PO: '171'
+  A: '19'
+  E: '7'
+  DP: '17'
+  PCT: '.964'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Olson
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '101'
+  PO: '270'
+  A: '292'
+  E: '9'
+  DP: '56'
+  PCT: '.984'
+  TP: '1'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hausmann
+  nameClub1: New Orleans
+  Pos: 2B
+  G: '136'
+  PO: '392'
+  A: '423'
+  E: '17'
+  DP: '94'
+  PCT: '.980'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Chozen
+  nameClub1: Little Rock
+  Pos: 2B
+  G: '140'
+  PO: '390'
+  A: '422'
+  E: '18'
+  DP: '106'
+  PCT: '.978'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mihalic
+  nameClub1: Nashville
+  Pos: 2B
+  G: '62'
+  PO: '157'
+  A: '203'
+  E: '8'
+  DP: '52'
+  PCT: '.978'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Urban
+  nameClub1: Knoxville
+  Pos: 2B
+  G: '41'
+  PO: '115'
+  A: '96'
+  E: '5'
+  DP: '19'
+  PCT: '.977'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Benning
+  nameClub1: Knoxville
+  Pos: 2B
+  G: '94'
+  PO: '269'
+  A: '305'
+  E: '15'
+  DP: '56'
+  PCT: '.975'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Chapman
+  nameClub1: Nashville
+  Pos: 2B
+  G: '53'
+  PO: '105'
+  A: '161'
+  E: '9'
+  DP: '29'
+  PCT: '.967'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Rawlinson
+  nameClub1: Birmingham
+  Pos: 2B
+  G: '22'
+  PO: '48'
+  A: '53'
+  E: '4'
+  DP: '18'
+  PCT: '.962'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gunnells
+  nameClub1: Memphis
+  Pos: 2B
+  G: '59'
+  PO: '139'
+  A: '145'
+  E: '12'
+  DP: '30'
+  PCT: '.959'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Beeler
+  nameClub1: Birmingham
+  Pos: 2B
+  G: '122'
+  PO: '334'
+  A: '374'
+  E: '32'
+  DP: '77'
+  PCT: '.957'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mitrus
+  nameClub1: Memphis
+  Pos: 2B
+  G: '37'
+  PO: '88'
+  A: '76'
+  E: '8'
+  DP: '12'
+  PCT: '.953'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Nance
+  nameClub1: Memphis
+  Pos: 2B
+  G: '16'
+  PO: '46'
+  A: '31'
+  E: '4'
+  DP: '5'
+  PCT: '.951'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Viers
+  nameClub1: Atlanta
+  Pos: 2B
+  G: '77'
+  PO: '237'
+  A: '220'
+  E: '24'
+  DP: '60'
+  PCT: '.950'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Glock
+  nameClub1: Atlanta
+  Pos: 2B
+  G: '60'
+  PO: '145'
+  A: '160'
+  E: '16'
+  DP: '35'
+  PCT: '.950'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Chatman
+  nameClub1: Memphis
+  Pos: 2B
+  G: '18'
+  PO: '55'
+  A: '52'
+  E: '6'
+  DP: '9'
+  PCT: '.947'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Dean
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '28'
+  PO: '81'
+  A: '75'
+  E: '10'
+  DP: '12'
+  PCT: '.940'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Carlson
+  nameClub1: Nashville
+  Pos: 2B
+  G: '32'
+  PO: '72'
+  A: '73'
+  E: '10'
+  DP: '7'
+  PCT: '.935'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Wright
+  nameClub1: Memphis
+  Pos: 2B
+  G: '15'
+  PO: '30'
+  A: '38'
+  E: '8'
+  DP: '6'
+  PCT: '.895'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Brock
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '10'
+  PO: '16'
+  A: '15'
+  E: '4'
+  DP: '1'
+  PCT: '.886'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Chatham
+  nameClub1: Memphis
+  Pos: 3B
+  G: '36'
+  PO: '56'
+  A: '80'
+  E: '4'
+  DP: '5'
+  PCT: '.971'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hart
+  nameClub1: New Orleans
+  Pos: 3B
+  G: '81'
+  PO: '70'
+  A: '165'
+  E: '11'
+  DP: '17'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Aleno
+  nameClub1: Birmingham
+  Pos: 3B
+  G: '20'
+  PO: '26'
+  A: '38'
+  E: '3'
+  DP: '3'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Piet (rzak)
+  nameClub1: Knoxville
+  Pos: 3B
+  G: '105'
+  PO: '136'
+  A: '198'
+  E: '16'
+  DP: '14'
+  PCT: '.954'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Fausett
+  nameClub1: Little Rock
+  Pos: 3B
+  G: '133'
+  PO: '139'
+  A: '303'
+  E: '22'
+  DP: '27'
+  PCT: '.953'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Connors
+  nameClub1: Memphis
+  Pos: 3B
+  G: '20'
+  PO: '19'
+  A: '60'
+  E: '4'
+  DP: '5'
+  PCT: '.952'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Roberts
+  nameClub1: Knoxville
+  Pos: 3B
+  G: '24'
+  PO: '21'
+  A: '56'
+  E: '4'
+  DP: '6'
+  PCT: '.951'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gillenwater
+  nameClub1: New Orleans
+  Pos: 3B
+  G: '36'
+  PO: '29'
+  A: '68'
+  E: '6'
+  DP: '5'
+  PCT: '.942'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Elko
+  nameClub1: Nashville
+  Pos: 3B
+  G: '132'
+  PO: '118'
+  A: '254'
+  E: '26'
+  DP: '19'
+  PCT: '.935'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Polly
+  nameClub1: Birmingham
+  Pos: 3B
+  G: '118'
+  PO: '107'
+  A: '224'
+  E: '27'
+  DP: '19'
+  PCT: '.925'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Smith
+  nameFirst: Albert
+  nameClub1: Atlanta
+  Pos: 3B
+  G: '58'
+  PO: '65'
+  A: '103'
+  E: '15'
+  DP: '10'
+  PCT: '.918'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Glock
+  nameClub1: Atlanta
+  Pos: 3B
+  G: '47'
+  PO: '49'
+  A: '84'
+  E: '12'
+  DP: '8'
+  PCT: '.917'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Nance
+  nameClub1: Memphis
+  Pos: 3B
+  G: '39'
+  PO: '41'
+  A: '56'
+  E: '9'
+  DP: '4'
+  PCT: '.915'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mills
+  nameClub1: New Orleans
+  Pos: 3B
+  G: '17'
+  PO: '16'
+  A: '45'
+  E: '6'
+  DP: '2'
+  PCT: '.910'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Aderholt
+  nameClub1: Montgomery
+  Pos: 3B
+  G: '140'
+  PO: '165'
+  A: '281'
+  E: '47'
+  DP: '15'
+  PCT: '.905'
+  TP: '1'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Motto
+  nameClub1: Atlanta
+  Pos: 3B
+  G: '22'
+  PO: '24'
+  A: '41'
+  E: '7'
+  DP: '4'
+  PCT: '.903'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gunnells
+  nameClub1: Memphis
+  Pos: 3B
+  G: '15'
+  PO: '17'
+  A: '31'
+  E: '6'
+  DP: '2'
+  PCT: '.889'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mitrus
+  nameClub1: Memphis
+  Pos: 3B
+  G: '20'
+  PO: '17'
+  A: '41'
+  E: '8'
+  DP: '2'
+  PCT: '.879'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hartsfield
+  nameClub1: Atlanta
+  Pos: 3B
+  G: '12'
+  PO: '13'
+  A: '14'
+  E: '5'
+  DP: '1'
+  PCT: '.844'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Aleno
+  nameClub1: Birmingham
+  Pos: SS
+  G: '29'
+  PO: '42'
+  A: '74'
+  E: '3'
+  DP: '13'
+  PCT: '.975'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Carlson
+  nameClub1: Nashville
+  Pos: SS
+  G: '16'
+  PO: '28'
+  A: '59'
+  E: '3'
+  DP: '7'
+  PCT: '.967'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Benning
+  nameClub1: Knoxville
+  Pos: SS
+  G: '15'
+  PO: '29'
+  A: '57'
+  E: '3'
+  DP: '5'
+  PCT: '.966'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Chatham
+  nameClub1: Memphis
+  Pos: SS
+  G: '80'
+  PO: '139'
+  A: '223'
+  E: '17'
+  DP: '38'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hart
+  nameClub1: New Orleans
+  Pos: SS
+  G: '52'
+  PO: '110'
+  A: '162'
+  E: '14'
+  DP: '30'
+  PCT: '.951'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Ankenman
+  nameClub1: New Orleans
+  Pos: SS
+  G: '84'
+  PO: '172'
+  A: '276'
+  E: '25'
+  DP: '60'
+  PCT: '.947'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hancock
+  nameClub1: Little Rock
+  Pos: SS
+  G: '134'
+  PO: '269'
+  A: '491'
+  E: '48'
+  DP: '91'
+  PCT: '.941'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hamrick
+  nameClub1: Nashville
+  Pos: SS
+  G: '106'
+  PO: '258'
+  A: '362'
+  E: '40'
+  DP: '67'
+  PCT: '.939'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Roberts
+  nameClub1: Montgomery
+  Pos: SS
+  G: '131'
+  PO: '279'
+  A: '395'
+  E: '47'
+  DP: '70'
+  PCT: '.935'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Usciak
+  nameClub1: Birmingham
+  Pos: SS
+  G: '22'
+  PO: '41'
+  A: '59'
+  E: '7'
+  DP: '11'
+  PCT: '.935'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Conway
+  nameClub1: Birmingham
+  Pos: SS
+  G: '41'
+  PO: '72'
+  A: '134'
+  E: '15'
+  DP: '34'
+  PCT: '.932'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Todhunter
+  nameClub1: Atlanta
+  Pos: SS
+  G: '31'
+  PO: '57'
+  A: '95'
+  E: '12'
+  DP: '23'
+  PCT: '.927'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Urban
+  nameClub1: Knoxville
+  Pos: SS
+  G: '19'
+  PO: '32'
+  A: '64'
+  E: '8'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Collins
+  nameClub1: Knoxville
+  Pos: SS
+  G: '78'
+  PO: '152'
+  A: '247'
+  E: '37'
+  DP: '45'
+  PCT: '.915'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Massey
+  nameClub1: Birmingham
+  Pos: SS
+  G: '28'
+  PO: '52'
+  A: '75'
+  E: '12'
+  DP: '9'
+  PCT: '.914'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gunnells
+  nameClub1: Memphis
+  Pos: SS
+  G: '42'
+  PO: '72'
+  A: '111'
+  E: '18'
+  DP: '15'
+  PCT: '.910'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Dawson
+  nameClub1: Memphis
+  Pos: SS
+  G: '17'
+  PO: '28'
+  A: '33'
+  E: '6'
+  DP: '8'
+  PCT: '.910'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Moore
+  nameClub1: Birmingham
+  Pos: SS
+  G: '28'
+  PO: '47'
+  A: '69'
+  E: '12'
+  DP: '14'
+  PCT: '.906'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Beeler
+  nameClub1: Birmingham
+  Pos: SS
+  G: '14'
+  PO: '27'
+  A: '49'
+  E: '8'
+  DP: '14'
+  PCT: '.905'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hartsfield
+  nameClub1: Atlanta
+  Pos: SS
+  G: '108'
+  PO: '198'
+  A: '354'
+  E: '60'
+  DP: '70'
+  PCT: '.902'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Piet (rzak)
+  nameClub1: Knoxville
+  Pos: SS
+  G: '29'
+  PO: '54'
+  A: '78'
+  E: '16'
+  DP: '10'
+  PCT: '.892'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Brewster
+  nameClub1: Nashville
+  Pos: SS
+  G: '15'
+  PO: '33'
+  A: '58'
+  E: '11'
+  DP: '15'
+  PCT: '.892'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Kvasnak
+  nameClub1: Montgomery
+  Pos: OF
+  G: '17'
+  PO: '53'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Rambert
+  nameClub1: Atlanta
+  Pos: OF
+  G: '23'
+  PO: '54'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Theobold
+  nameClub1: Atlanta
+  Pos: OF
+  G: '19'
+  PO: '41'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Fair
+  nameClub1: Memphis
+  Pos: OF
+  G: '14'
+  PO: '25'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Carlson
+  nameClub1: Nashville
+  Pos: OF
+  G: '10'
+  PO: '18'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hartsfield
+  nameClub1: Atlanta
+  Pos: OF
+  G: '16'
+  PO: '17'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Torres
+  nameClub1: Montgomery
+  Pos: OF
+  G: '11'
+  PO: '15'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Busby
+  nameClub1: Knoxville
+  Pos: OF
+  G: '39'
+  PO: '102'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.991'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Treadway
+  nameClub1: Atlanta
+  Pos: OF
+  G: '108'
+  PO: '207'
+  A: '11'
+  E: '4'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Flick
+  nameClub1: Knoxville
+  Pos: OF
+  G: '21'
+  PO: '51'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.982'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gillenwater
+  nameClub1: New Orleans
+  Pos: OF
+  G: '72'
+  PO: '189'
+  A: '9'
+  E: '4'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Corriden
+  nameClub1: New Orleans
+  Pos: OF
+  G: '26'
+  PO: '48'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gilbert
+  nameClub1: Nashville
+  Pos: OF
+  G: '116'
+  PO: '305'
+  A: '16'
+  E: '7'
+  DP: '6'
+  PCT: '.979'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Bolling
+  nameClub1: New Orleans
+  Pos: OF
+  G: '27'
+  PO: '42'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Seeds
+  nameClub1: Little Rock
+  Pos: OF
+  G: '119'
+  PO: '269'
+  A: '11'
+  E: '7'
+  DP: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gray (Weisner)
+  nameClub1: Memphis
+  Pos: OF
+  G: '122'
+  PO: '312'
+  A: '3'
+  E: '8'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Douglas
+  nameClub1: New Orleans
+  Pos: OF
+  G: '123'
+  PO: '250'
+  A: '12'
+  E: '7'
+  DP: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Veazey
+  nameClub1: Montgomery
+  Pos: OF
+  G: '121'
+  PO: '282'
+  A: '11'
+  E: '8'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Platt
+  nameClub1: Nashville
+  Pos: OF
+  G: '92'
+  PO: '198'
+  A: '14'
+  E: '6'
+  DP: '3'
+  PCT: '.972'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mauldin
+  nameClub1: Atlanta
+  Pos: OF
+  G: '120'
+  PO: '265'
+  A: '7'
+  E: '8'
+  DP: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Roberts
+  nameClub1: Knoxville
+  Pos: OF
+  G: '52'
+  PO: '91'
+  A: '8'
+  E: '3'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Williams
+  nameClub1: Knoxville
+  nameClub2: Memphis
+  Pos: OF
+  G: '28'
+  PO: '63'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Smith
+  nameFirst: David
+  nameClub1: Montgomery
+  Pos: OF
+  G: '110'
+  PO: '277'
+  A: '12'
+  E: '9'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Sauer
+  nameClub1: Nashville
+  Pos: OF
+  G: '118'
+  PO: '238'
+  A: '24'
+  E: '8'
+  DP: '6'
+  PCT: '.970'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Deal
+  nameFirst: F. L.
+  nameClub1: Atlanta
+  Pos: OF
+  G: '128'
+  PO: '241'
+  A: '11'
+  E: '8'
+  DP: '3'
+  PCT: '.969'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Aleno
+  nameClub1: Birmingham
+  Pos: OF
+  G: '94'
+  PO: '156'
+  A: '14'
+  E: '6'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lawing
+  nameClub1: Birmingham
+  Pos: OF
+  G: '24'
+  PO: '52'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: McElreath
+  nameClub1: Little Rock
+  nameClub2: Memphis
+  Pos: OF
+  G: '119'
+  PO: '227'
+  A: '11'
+  E: '9'
+  DP: '3'
+  PCT: '.964'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Sloan
+  nameClub1: Little Rock
+  Pos: OF
+  G: '84'
+  PO: '141'
+  A: '12'
+  E: '6'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: McBryde
+  nameClub1: Knoxville
+  Pos: OF
+  G: '113'
+  PO: '315'
+  A: '8'
+  E: '13'
+  DP: '2'
+  PCT: '.961'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Thaxton
+  nameClub1: Birmingham
+  Pos: OF
+  G: '123'
+  PO: '302'
+  A: '11'
+  E: '13'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cantrell
+  nameClub1: Little Rock
+  Pos: OF
+  G: '138'
+  PO: '284'
+  A: '10'
+  E: '13'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Sipek
+  nameClub1: Birmingham
+  Pos: OF
+  G: '72'
+  PO: '105'
+  A: '5'
+  E: '5'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Matthews
+  nameClub1: Knoxville
+  Pos: OF
+  G: '131'
+  PO: '291'
+  A: '11'
+  E: '14'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Holliday
+  nameClub1: Memphis
+  Pos: OF
+  G: '47'
+  PO: '77'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Bowers
+  nameClub1: Memphis
+  Pos: OF
+  G: '51'
+  PO: '79'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.953'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Monteagudo
+  nameClub1: Montgomery
+  Pos: OF
+  G: '129'
+  PO: '224'
+  A: '10'
+  E: '12'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Chapman
+  nameClub1: Nashville
+  Pos: OF
+  G: '63'
+  PO: '85'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.948'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Usher
+  nameClub1: Birmingham
+  Pos: OF
+  G: '127'
+  PO: '260'
+  A: '17'
+  E: '16'
+  DP: '4'
+  PCT: '.945'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Seminick
+  nameClub1: Knoxville
+  Pos: OF
+  G: '46'
+  PO: '77'
+  A: '6'
+  E: '5'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: McCall
+  nameClub1: Nashville
+  Pos: OF
+  G: '16'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Fraker
+  nameClub1: Little Rock
+  Pos: OF
+  G: '45'
+  PO: '74'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lopat (ynski)
+  nameClub1: Little Rock
+  Pos: OF
+  G: '15'
+  PO: '28'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Dantonio
+  nameClub1: New Orleans
+  Pos: OF
+  G: '10'
+  PO: '14'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Simononis
+  nameClub1: New Orleans
+  Pos: OF
+  G: '124'
+  PO: '297'
+  A: '8'
+  E: '22'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Martin
+  nameClub1: Memphis
+  Pos: OF
+  G: '34'
+  PO: '50'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.912'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Frye
+  nameClub1: Montgomery
+  Pos: OF
+  G: '32'
+  PO: '68'
+  A: '4'
+  E: '7'
+  DP: '1'
+  PCT: '.911'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cummings
+  nameClub1: New Orleans
+  Pos: OF
+  G: '31'
+  PO: '49'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Langley
+  nameClub1: Montgomery
+  Pos: OF
+  G: '12'
+  PO: '19'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Veverka
+  nameClub1: Memphis
+  Pos: OF
+  G: '13'
+  PO: '27'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Churchill
+  nameClub1: Nashville
+  Pos: OF
+  G: '12'
+  PO: '15'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Beeler
+  nameClub1: Birmingham
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Jacobs
+  nameClub1: Montgomery
+  Pos: P
+  G: '28'
+  PO: '9'
+  A: '42'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gardner
+  nameClub1: Nashville
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '42'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Walker
+  nameClub1: Memphis
+  Pos: P
+  G: '32'
+  PO: '9'
+  A: '34'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cronic
+  nameClub1: Atlanta
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '26'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Wilson
+  nameClub1: Atlanta
+  nameClub2: Montgomery
+  Pos: P
+  G: '31'
+  PO: '5'
+  A: '20'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Ferguson
+  nameClub1: Birmingham
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '15'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: McClure
+  nameClub1: Memphis
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '15'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Pate
+  nameClub1: Little Rock
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cortes
+  nameClub1: Atlanta
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Adkins
+  nameClub1: Atlanta
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Stone
+  nameClub1: Birmingham
+  Pos: P
+  G: '17'
+  PO: '7'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: McCall
+  nameClub1: Nashville
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Perrin
+  nameClub1: Birmingham
+  nameClub2: Atlanta
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lapihuska
+  nameClub1: Birmingham
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '13'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Garner
+  nameClub1: Birmingham
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Bartholomew
+  nameClub1: Birmingham
+  Pos: P
+  G: '30'
+  PO: '1'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Schuessler
+  nameClub1: Birmingham
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Webb
+  nameClub1: New Orleans
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Brown
+  nameFirst: L.
+  nameClub1: Memphis
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cain
+  nameClub1: Birmingham
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Chitwood
+  nameClub1: Atlanta
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Alderson
+  nameClub1: Nashville
+  Pos: P
+  G: '42'
+  PO: '16'
+  A: '35'
+  E: '1'
+  DP: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Fox
+  nameClub1: Birmingham
+  Pos: P
+  G: '42'
+  PO: '10'
+  A: '39'
+  E: '1'
+  DP: '2'
+  PCT: '.980'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Rambert
+  nameClub1: Atlanta
+  Pos: P
+  G: '20'
+  PO: '8'
+  A: '38'
+  E: '1'
+  DP: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Stewart
+  nameClub1: Nashville
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '41'
+  E: '1'
+  DP: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Anderson
+  nameClub1: Knoxville
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '33'
+  E: '1'
+  DP: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Ayers
+  nameClub1: Atlanta
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.973'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Signer
+  nameClub1: Nashville
+  Pos: P
+  G: '32'
+  PO: '11'
+  A: '25'
+  E: '1'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Surratt
+  nameClub1: Montgomery
+  Pos: P
+  G: '22'
+  PO: '6'
+  A: '27'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hudlin
+  nameClub1: Little Rock
+  Pos: P
+  G: '13'
+  PO: '7'
+  A: '23'
+  E: '1'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Papish
+  nameClub1: Little Rock
+  Pos: P
+  G: '34'
+  PO: '12'
+  A: '42'
+  E: '2'
+  DP: '3'
+  PCT: '.964'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Kerksieck
+  nameClub1: Little Rock
+  Pos: P
+  G: '19'
+  PO: '9'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Torres
+  nameClub1: Montgomery
+  Pos: P
+  G: '37'
+  PO: '9'
+  A: '57'
+  E: '3'
+  DP: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lopat (ynski)
+  nameClub1: Little Rock
+  Pos: P
+  G: '32'
+  PO: '14'
+  A: '51'
+  E: '3'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Horn
+  nameClub1: New Orleans
+  Pos: P
+  G: '33'
+  PO: '8'
+  A: '34'
+  E: '2'
+  DP: '3'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Greer
+  nameClub1: Little Rock
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '39'
+  E: '2'
+  DP: '4'
+  PCT: '.953'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Hawley
+  nameClub1: Little Rock
+  Pos: P
+  G: '15'
+  PO: '8'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Todd
+  nameClub1: Atlanta
+  Pos: P
+  G: '33'
+  PO: '8'
+  A: '28'
+  E: '2'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Murray
+  nameClub1: Birmingham
+  Pos: P
+  G: '26'
+  PO: '1'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Curtis
+  nameClub1: Atlanta
+  Pos: P
+  G: '33'
+  PO: '12'
+  A: '38'
+  E: '3'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Kelley
+  nameClub1: Memphis
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '27'
+  E: '2'
+  DP: '2'
+  PCT: '.941'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Powers
+  nameClub1: Knoxville
+  Pos: P
+  G: '25'
+  PO: '1'
+  A: '29'
+  E: '2'
+  DP: '3'
+  PCT: '.938'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Rogers
+  nameClub1: Memphis
+  nameClub2: New Orleans
+  Pos: P
+  G: '45'
+  PO: '14'
+  A: '30'
+  E: '3'
+  DP: '3'
+  PCT: '.936'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Warchol
+  nameClub1: Knoxville
+  Pos: P
+  G: '36'
+  PO: '18'
+  A: '39'
+  E: '4'
+  DP: '0'
+  PCT: '.934'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Veverka
+  nameClub1: Memphis
+  Pos: P
+  G: '26'
+  PO: '12'
+  A: '29'
+  E: '3'
+  DP: '2'
+  PCT: '.932'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Coffman
+  nameClub1: Knoxville
+  Pos: P
+  G: '33'
+  PO: '9'
+  A: '32'
+  E: '3'
+  DP: '3'
+  PCT: '.932'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cathey
+  nameClub1: Montgomery
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '22'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: West
+  nameClub1: Memphis
+  Pos: P
+  G: '35'
+  PO: '6'
+  A: '33'
+  E: '3'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Beck
+  nameClub1: Knoxville
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Moran
+  nameClub1: Little Rock
+  Pos: P
+  G: '35'
+  PO: '11'
+  A: '35'
+  E: '4'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lindsey
+  nameFirst: E. M.
+  nameClub1: Nashville
+  nameClub2: Knoxville
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Danna
+  nameClub1: New Orleans
+  Pos: P
+  G: '40'
+  PO: '7'
+  A: '38'
+  E: '4'
+  DP: '4'
+  PCT: '.918'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Sanner
+  nameClub1: New Orleans
+  Pos: P
+  G: '30'
+  PO: '10'
+  A: '40'
+  E: '5'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: O'Neil
+  nameClub1: Knoxville
+  Pos: P
+  G: '28'
+  PO: '2'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Ogden
+  nameClub1: Knoxville
+  Pos: P
+  G: '35'
+  PO: '6'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Wells
+  nameClub1: New Orleans
+  Pos: P
+  G: '18'
+  PO: '0'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Miller
+  nameClub1: Montgomery
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '25'
+  E: '4'
+  DP: '4'
+  PCT: '.902'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Williams
+  nameClub1: New Orleans
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '30'
+  E: '4'
+  DP: '4'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Bush (Wojciechowski)
+  nameClub1: Knoxville
+  nameClub2: Memphis
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Malloy
+  nameClub1: Birmingham
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Baker
+  nameClub1: Birmingham
+  Pos: P
+  G: '27'
+  PO: '3'
+  A: '23'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Drefs
+  nameClub1: Memphis
+  Pos: P
+  G: '22'
+  PO: '6'
+  A: '26'
+  E: '4'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Gassaway
+  nameClub1: Nashville
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Brown
+  nameFirst: W.
+  nameClub1: Memphis
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '20'
+  E: '4'
+  DP: '0'
+  PCT: '.871'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Winfield
+  nameClub1: New Orleans
+  Pos: P
+  G: '42'
+  PO: '4'
+  A: '16'
+  E: '3'
+  DP: '2'
+  PCT: '.870'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Vosheski
+  nameClub1: Knoxville
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '11'
+  E: '2'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cozart
+  nameClub1: Atlanta
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '34'
+  E: '7'
+  DP: '1'
+  PCT: '.854'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mooty
+  nameClub1: Nashville
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '9'
+  E: '2'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Sahlin
+  nameClub1: Nashville
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.813'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Orphal
+  nameClub1: Birmingham
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '9'
+  E: '3'
+  DP: '3'
+  PCT: '.786'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Mosley
+  nameClub1: Montgomery
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.500'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Roth
+  nameClub1: Little Rock
+  Pos: C
+  G: '26'
+  PO: '78'
+  A: '19'
+  E: '1'
+  DP: '2'
+  PB: '2'
+  PCT: '.990'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Kreitner
+  nameClub1: Nashville
+  Pos: C
+  G: '107'
+  PO: '430'
+  A: '35'
+  E: '5'
+  DP: '5'
+  PB: '6'
+  PCT: '.989'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lane
+  nameClub1: Montgomery
+  Pos: C
+  G: '101'
+  PO: '328'
+  A: '69'
+  E: '5'
+  DP: '4'
+  PB: '7'
+  PCT: '.988'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Cummings
+  nameClub1: New Orleans
+  Pos: C
+  G: '32'
+  PO: '71'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PB: '2'
+  PCT: '.988'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Finley
+  nameClub1: Knoxville
+  Pos: C
+  G: '55'
+  PO: '142'
+  A: '41'
+  E: '3'
+  DP: '8'
+  PB: '1'
+  PCT: '.984'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Vettorel
+  nameClub1: Memphis
+  Pos: C
+  G: '14'
+  PO: '56'
+  A: '4'
+  E: '1'
+  DP: '2'
+  PB: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lewis
+  nameClub1: Knoxville
+  Pos: C
+  G: '30'
+  PO: '90'
+  A: '16'
+  E: '2'
+  DP: '2'
+  PB: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Leitz
+  nameClub1: Atlanta
+  Pos: C
+  G: '44'
+  PO: '201'
+  A: '35'
+  E: '5'
+  DP: '3'
+  PB: '4'
+  PCT: '.979'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Dews
+  nameClub1: Atlanta
+  Pos: C
+  G: '75'
+  PO: '254'
+  A: '43'
+  E: '7'
+  DP: '9'
+  PB: '9'
+  PCT: '.977'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Ringhofer
+  nameClub1: Nashville
+  Pos: C
+  G: '50'
+  PO: '152'
+  A: '14'
+  E: '4'
+  DP: '2'
+  PB: '7'
+  PCT: '.976'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Riddle
+  nameClub1: Birmingham
+  Pos: C
+  G: '69'
+  PO: '257'
+  A: '45'
+  E: '8'
+  DP: '4'
+  PB: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Carrola
+  nameClub1: New Orleans
+  Pos: C
+  G: '109'
+  PO: '335'
+  A: '67'
+  E: '11'
+  DP: '11'
+  PB: '3'
+  PCT: '.973'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Olson
+  nameClub1: Montgomery
+  Pos: C
+  G: '12'
+  PO: '29'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PB: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: O'Neil
+  nameClub1: Memphis
+  Pos: C
+  G: '87'
+  PO: '324'
+  A: '55'
+  E: '11'
+  DP: '7'
+  PB: '8'
+  PCT: '.972'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Campbell
+  nameClub1: Memphis
+  Pos: C
+  G: '24'
+  PO: '80'
+  A: '13'
+  E: '3'
+  DP: '1'
+  PB: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Palmisano
+  nameClub1: Memphis
+  Pos: C
+  G: '14'
+  PO: '54'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Smith
+  nameClub1: Birmingham
+  Pos: C
+  G: '85'
+  PO: '255'
+  A: '43'
+  E: '11'
+  DP: '8'
+  PB: '9'
+  PCT: '.964'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Dantonio
+  nameClub1: New Orleans
+  Pos: C
+  G: '27'
+  PO: '63'
+  A: '14'
+  E: '3'
+  DP: '3'
+  PB: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Bolton
+  nameClub1: Little Rock
+  Pos: C
+  G: '74'
+  PO: '222'
+  A: '32'
+  E: '10'
+  DP: '5'
+  PB: '5'
+  PCT: '.962'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Pare
+  nameClub1: Little Rock
+  Pos: C
+  G: '21'
+  PO: '90'
+  A: '9'
+  E: '4'
+  DP: '0'
+  PB: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Walls
+  nameClub1: Atlanta
+  Pos: C
+  G: '31'
+  PO: '123'
+  A: '11'
+  E: '6'
+  DP: '2'
+  PB: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Doolittle
+  nameClub1: Little Rock
+  Pos: C
+  G: '22'
+  PO: '62'
+  A: '13'
+  E: '4'
+  DP: '1'
+  PB: '6'
+  PCT: '.949'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Seminick
+  nameClub1: Knoxville
+  Pos: C
+  G: '65'
+  PO: '197'
+  A: '40'
+  E: '13'
+  DP: '3'
+  PB: '3'
+  PCT: '.948'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Lady
+  nameClub1: Birmingham
+  Pos: C
+  G: '17'
+  PO: '32'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PB: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Barbary
+  nameClub1: Montgomery
+  Pos: C
+  G: '37'
+  PO: '83'
+  A: '14'
+  E: '6'
+  DP: '0'
+  PB: '4'
+  PCT: '.942'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameLast: Bowers
+  nameClub1: Memphis
+  Pos: C
+  G: '20'
+  PO: '57'
+  A: '7'
+  E: '7'
+  DP: '0'
+  PB: '3'
+  PCT: '.901'
+  TP: '0'

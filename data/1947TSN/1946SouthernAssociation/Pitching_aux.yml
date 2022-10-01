@@ -1,0 +1,815 @@
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Ayers
+  nameClub1: Atlanta
+  SHO: '5'
+  GS: '33'
+  TO: '7'
+  GF: '7'
+  CG: '26'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: McGowan
+  nameClub1: Atlanta
+  SHO: '5'
+  GS: '35'
+  TO: '11'
+  GF: '4'
+  CG: '24'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Kinney
+  nameClub1: Atlanta
+  SHO: '4'
+  GS: '31'
+  TO: '9'
+  GF: '4'
+  CG: '22'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Danna
+  nameClub1: New Orleans
+  SHO: '2'
+  GS: '30'
+  TO: '12'
+  GF: '3'
+  CG: '18'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Willis
+  nameClub1: Memphis
+  SHO: '6'
+  GS: '21'
+  TO: '4'
+  GF: '9'
+  CG: '17'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Minner
+  nameClub1: Mobile
+  SHO: '3'
+  GS: '29'
+  TO: '12'
+  GF: '10'
+  CG: '17'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Cook
+  nameClub1: Memphis
+  SHO: '3'
+  GS: '22'
+  TO: '6'
+  GF: '1'
+  CG: '16'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: McGlothin
+  nameClub1: Mobile
+  SHO: '2'
+  GS: '27'
+  TO: '11'
+  GF: '13'
+  CG: '16'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Aloma
+  nameClub1: Chattanooga
+  SHO: '2'
+  GS: '27'
+  TO: '13'
+  GF: '5'
+  CG: '14'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Drefs
+  nameClub1: Memphis
+  SHO: '2'
+  GS: '29'
+  TO: '15'
+  GF: '1'
+  CG: '14'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Twardy
+  nameClub1: Nashville
+  SHO: '2'
+  GS: '30'
+  TO: '16'
+  GF: '5'
+  CG: '14'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: King
+  nameClub1: Mobile
+  SHO: '2'
+  GS: '23'
+  TO: '10'
+  GF: '8'
+  CG: '13'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Stone
+  nameClub1: Birmingham
+  SHO: '2'
+  GS: '24'
+  TO: '11'
+  GF: '2'
+  CG: '13'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Kerr
+  nameFirst: J.
+  nameClub1: Birmingham
+  SHO: '0'
+  GS: '20'
+  TO: '9'
+  GF: '5'
+  CG: '11'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Thompson
+  nameClub1: Atlanta
+  SHO: '2'
+  GS: '20'
+  TO: '9'
+  GF: '3'
+  CG: '11'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Satterfield
+  nameClub1: Birmingham
+  SHO: '1'
+  GS: '22'
+  TO: '11'
+  GF: '16'
+  CG: '11'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Peterson
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '22'
+  TO: '11'
+  GF: '9'
+  CG: '11'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Meketi
+  nameClub1: Birmingham
+  SHO: '0'
+  GS: '23'
+  TO: '12'
+  GF: '7'
+  CG: '11'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: McCall
+  nameClub1: Nashville
+  SHO: '1'
+  GS: '23'
+  TO: '12'
+  GF: '4'
+  CG: '11'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Pfund
+  nameClub1: Mobile
+  SHO: '1'
+  GS: '25'
+  TO: '15'
+  GF: '8'
+  CG: '10'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Smolko
+  nameClub1: Mobile
+  SHO: '2'
+  GS: '21'
+  TO: '12'
+  GF: '5'
+  CG: '9'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Ripple
+  nameClub1: Memphis
+  SHO: '2'
+  GS: '14'
+  TO: '5'
+  GF: '1'
+  CG: '9'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Anthony
+  nameClub1: Nashville
+  SHO: '0'
+  GS: '16'
+  TO: '8'
+  GF: '15'
+  CG: '8'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Callahan
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '15'
+  TO: '8'
+  GF: '5'
+  CG: '7'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Lambert
+  nameClub1: Memphis
+  SHO: '2'
+  GS: '16'
+  TO: '9'
+  GF: '5'
+  CG: '7'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Toenes
+  nameClub1: Chattanooga
+  SHO: '2'
+  GS: '17'
+  TO: '10'
+  GF: '13'
+  CG: '7'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Mains
+  nameClub1: Little Rock
+  SHO: '2'
+  GS: '23'
+  TO: '16'
+  GF: '9'
+  CG: '7'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Callan
+  nameClub1: Chattanooga
+  SHO: '1'
+  GS: '26'
+  TO: '19'
+  GF: '9'
+  CG: '7'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Laga
+  nameClub1: Mobile
+  SHO: '3'
+  GS: '9'
+  TO: '3'
+  GF: '2'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Midkiff
+  nameClub1: Birmingham
+  SHO: '0'
+  GS: '11'
+  TO: '5'
+  GF: '11'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Biggs
+  nameClub1: Memphis
+  SHO: '1'
+  GS: '13'
+  TO: '7'
+  GF: '2'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Hazel
+  nameClub1: Little Rock
+  SHO: '1'
+  GS: '14'
+  TO: '8'
+  GF: '8'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Hader
+  nameClub1: New Orleans
+  SHO: '1'
+  GS: '17'
+  TO: '11'
+  GF: '11'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Tamulis
+  nameClub1: Nashville
+  SHO: '2'
+  GS: '17'
+  TO: '11'
+  GF: '6'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Meyer
+  nameClub1: Nashville
+  SHO: '2'
+  GS: '18'
+  TO: '12'
+  GF: '20'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Adkins
+  nameClub1: Atlanta
+  SHO: '1'
+  GS: '20'
+  TO: '14'
+  GF: '6'
+  CG: '6'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Mistos
+  nameClub1: Atlanta
+  SHO: '2'
+  GS: '6'
+  TO: '1'
+  GF: '3'
+  CG: '5'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Blue
+  nameClub1: Birmingham
+  SHO: '1'
+  GS: '9'
+  TO: '4'
+  GF: '12'
+  CG: '5'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Spragins
+  nameClub1: Memphis
+  SHO: '0'
+  GS: '12'
+  TO: '7'
+  GF: '18'
+  CG: '5'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Cathey
+  nameClub1: Chattanooga
+  SHO: '2'
+  GS: '18'
+  TO: '8'
+  GF: '12'
+  CG: '5'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Brunke
+  nameClub1: Chattanooga
+  SHO: '1'
+  GS: '16'
+  TO: '11'
+  GF: '10'
+  CG: '5'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Beaty
+  nameClub1: Nashville
+  SHO: '0'
+  GS: '9'
+  TO: '5'
+  GF: '2'
+  CG: '4'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Messerly
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '12'
+  TO: '8'
+  GF: '5'
+  CG: '4'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Rogers
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '13'
+  TO: '9'
+  GF: '22'
+  CG: '4'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Gaddis
+  nameClub1: Birmingham
+  SHO: '0'
+  GS: '13'
+  TO: '9'
+  GF: '8'
+  CG: '4'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Wilson
+  nameClub1: Chattanooga
+  SHO: '1'
+  GS: '14'
+  TO: '10'
+  GF: '3'
+  CG: '4'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Shea
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '17'
+  TO: '13'
+  GF: '11'
+  CG: '4'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Brandt
+  nameClub1: Chattanooga
+  SHO: '0'
+  GS: '5'
+  TO: '2'
+  GF: '7'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Weaver
+  nameClub1: Chattanooga
+  SHO: '1'
+  GS: '6'
+  TO: '2'
+  GF: '1'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Voiselle
+  nameClub1: Memphis
+  SHO: '1'
+  GS: '6'
+  TO: '3'
+  GF: '9'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Schupp
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '7'
+  TO: '4'
+  GF: '6'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Flowers
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '7'
+  TO: '4'
+  GF: '16'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Gill
+  nameClub1: Little Rock
+  nameClub2: Chattanooga
+  SHO: '0'
+  GS: '8'
+  TO: '5'
+  GF: '8'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Javery
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '12'
+  TO: '9'
+  GF: '7'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Alderson
+  nameClub1: Nashville
+  SHO: '0'
+  GS: '16'
+  TO: '13'
+  GF: '13'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Washburn
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '16'
+  TO: '13'
+  GF: '7'
+  CG: '3'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Ferguson
+  nameClub1: Memphis
+  SHO: '0'
+  GS: '3'
+  TO: '1'
+  GF: '2'
+  CG: '2'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: LaMacchia
+  nameClub1: Chattanooga
+  SHO: '0'
+  GS: '4'
+  TO: '2'
+  GF: '0'
+  CG: '2'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Williams
+  nameFirst: E.
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '4'
+  TO: '2'
+  GF: '0'
+  CG: '2'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Byers
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '6'
+  TO: '4'
+  GF: '4'
+  CG: '2'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Trotter
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '6'
+  TO: '4'
+  GF: '5'
+  CG: '2'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Raney
+  nameClub1: Little Rock
+  SHO: '1'
+  GS: '8'
+  TO: '6'
+  GF: '2'
+  CG: '2'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Powers
+  nameClub1: Mobile
+  SHO: '2'
+  GS: '10'
+  TO: '8'
+  GF: '20'
+  CG: '2'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Hamilton
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '1'
+  TO: '0'
+  GF: '4'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Britt
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '1'
+  TO: '0'
+  GF: '0'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Thomas
+  nameClub1: Mobile
+  SHO: '0'
+  GS: '2'
+  TO: '1'
+  GF: '1'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Sanner
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '2'
+  TO: '1'
+  GF: '2'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: McClure
+  nameClub1: Memphis
+  SHO: '0'
+  GS: '2'
+  TO: '1'
+  GF: '4'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Bevil
+  nameClub1: Chattanooga
+  SHO: '1'
+  GS: '2'
+  TO: '1'
+  GF: '4'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: McKinney
+  nameClub1: Chattanooga
+  SHO: '1'
+  GS: '2'
+  TO: '1'
+  GF: '11'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Crowson
+  nameClub1: Memphis
+  SHO: '0'
+  GS: '3'
+  TO: '2'
+  GF: '2'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Meers
+  nameClub1: Nashville
+  SHO: '0'
+  GS: '3'
+  TO: '2'
+  GF: '4'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Crain
+  nameClub1: Atlanta
+  SHO: '0'
+  GS: '3'
+  TO: '2'
+  GF: '7'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Tate
+  nameClub1: Birmingham
+  SHO: '0'
+  GS: '3'
+  TO: '2'
+  GF: '1'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Rogovin
+  nameClub1: Chattanooga
+  SHO: '0'
+  GS: '3'
+  TO: '2'
+  GF: '2'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Hamrick
+  nameClub1: Mobile
+  SHO: '0'
+  GS: '3'
+  TO: '2'
+  GF: '0'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Wells
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '3'
+  TO: '2'
+  GF: '8'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Hudlin
+  nameClub1: Little Rock
+  SHO: '1'
+  GS: '4'
+  TO: '3'
+  GF: '0'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Dean
+  nameClub1: Little Rock
+  SHO: '0'
+  GS: '4'
+  TO: '3'
+  GF: '0'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Shepard
+  nameClub1: Chattanooga
+  SHO: '0'
+  GS: '5'
+  TO: '4'
+  GF: '1'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Bush
+  nameFirst: A.
+  nameClub1: Chattanooga
+  SHO: '0'
+  GS: '5'
+  TO: '4'
+  GF: '7'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Knierim
+  nameClub1: Little Rock
+  nameClub2: Memphis
+  SHO: '1'
+  GS: '5'
+  TO: '4'
+  GF: '13'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Turbeville
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '6'
+  TO: '5'
+  GF: '2'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Hanyzewski
+  nameClub1: Nashville
+  SHO: '1'
+  GS: '6'
+  TO: '5'
+  GF: '8'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Heinz
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '6'
+  TO: '5'
+  GF: '0'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Abernathy
+  nameClub1: Memphis
+  SHO: '0'
+  GS: '7'
+  TO: '6'
+  GF: '1'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Smola
+  nameClub1: New Orleans
+  SHO: '0'
+  GS: '8'
+  TO: '7'
+  GF: '7'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Treichel
+  nameClub1: Nashville
+  SHO: '0'
+  GS: '8'
+  TO: '7'
+  GF: '1'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Wade
+  nameClub1: Birmingham
+  SHO: '0'
+  GS: '8'
+  TO: '7'
+  GF: '3'
+  CG: '1'
+- year: '1946'
+  nameLeague: Southern Association
+  nameLast: Walsh
+  nameClub1: Birmingham
+  SHO: '0'
+  GS: '8'
+  TO: '7'
+  GF: '6'
+  CG: '1'

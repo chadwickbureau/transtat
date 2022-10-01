@@ -1,0 +1,100 @@
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  phase: regular
+  W: '86'
+  L: '54'
+  T: '0'
+  PCT: '.614'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  phase: regular
+  W: '72'
+  L: '66'
+  T: '0'
+  PCT: '.522'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  phase: regular
+  W: '68'
+  L: '72'
+  T: '0'
+  PCT: '.486'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: regular
+  W: '66'
+  L: '72'
+  T: '1'
+  PCT: '.478'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  phase: regular
+  W: '65'
+  L: '75'
+  T: '0'
+  PCT: '.464'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  phase: regular
+  W: '61'
+  L: '79'
+  T: '1'
+  PCT: '.436'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  phase: semifinal
+  'Unnamed: 4': Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  phase: semifinal
+  'Unnamed: 4': Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  phase: semifinal
+  'Unnamed: 4': Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: semifinal
+  'Unnamed: 4': Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

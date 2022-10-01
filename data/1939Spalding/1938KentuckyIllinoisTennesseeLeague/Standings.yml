@@ -1,0 +1,86 @@
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: regular
+  W: '76'
+  L: '53'
+  T: '1'
+  PCT: '.589'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Jackson
+  phase: regular
+  W: '74'
+  L: '54'
+  T: '0'
+  PCT: '.578'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Lexington
+  phase: regular
+  W: '66'
+  L: '59'
+  T: '2'
+  PCT: '.528'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: regular
+  W: '65'
+  L: '60'
+  T: '1'
+  PCT: '.520'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Paducah
+  phase: regular
+  W: '66'
+  L: '63'
+  T: '0'
+  PCT: '.512'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: regular
+  W: '66'
+  L: '64'
+  T: '1'
+  PCT: '.508'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: regular
+  W: '55'
+  L: '75'
+  T: '1'
+  PCT: '.423'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: regular
+  W: '45'
+  L: '85'
+  T: '0'
+  PCT: '.346'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Jackson
+  phase: final
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: final
+  W: '1'
+  L: '2'
+  RANK: '2'

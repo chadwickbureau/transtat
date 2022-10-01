@@ -1,0 +1,62 @@
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Tacoma
+  phase: regular/second
+  W: '42'
+  L: '25'
+  PCT: '.627'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular/second
+  W: '40'
+  L: '27'
+  PCT: '.597'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: regular/second
+  W: '40'
+  L: '28'
+  PCT: '.588'
+  RANK: '3'
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular/second
+  W: '41'
+  L: '29'
+  PCT: '.586'
+  RANK: '4'
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular/second
+  W: '25'
+  L: '45'
+  PCT: '.357'
+  RANK: '5'
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Lewiston
+  phase: regular/second
+  W: '18'
+  L: '52'
+  PCT: '.257'
+  RANK: '6'
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Tacoma
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

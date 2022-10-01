@@ -1,0 +1,116 @@
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  phase: regular
+  W: '79'
+  L: '40'
+  T: '4'
+  PCT: '.664'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Cornwall
+  phase: regular
+  W: '74'
+  L: '47'
+  T: '0'
+  PCT: '.612'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  phase: regular
+  W: '66'
+  L: '52'
+  T: '6'
+  PCT: '.559'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  phase: regular
+  W: '63'
+  L: '62'
+  T: '2'
+  PCT: '.504'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  phase: regular
+  W: '61'
+  L: '63'
+  T: '6'
+  PCT: '.492'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Oswego
+  phase: regular
+  W: '54'
+  L: '69'
+  T: '2'
+  PCT: '.439'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Auburn
+  phase: regular
+  W: '49'
+  L: '68'
+  T: '4'
+  PCT: '.419'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Ottawa
+  phase: regular
+  W: '38'
+  L: '83'
+  T: '4'
+  PCT: '.314'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Cornwall
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  phase: final
+  W: '1'
+  L: '2'
+- year: '1938'
+  nameLeague: Canadian-American League
+  nameClub: Cornwall
+  phase: final
+  W: '2'
+  L: '1'

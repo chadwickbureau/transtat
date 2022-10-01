@@ -1,0 +1,64 @@
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Leon
+  phase: regular/first
+  W: '16'
+  L: '11'
+  PCT: '.593'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Oriental
+  phase: regular/first
+  W: '15'
+  L: '12'
+  PCT: '.556'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Boer
+  phase: regular/first
+  W: '14'
+  L: '12'
+  PCT: '.538'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Cinco Estrellas
+  phase: regular/first
+  W: '8'
+  L: '18'
+  PCT: '.308'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Cinco Estrellas
+  phase: regular/second
+  W: '16'
+  L: '8'
+  PCT: '.667'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Boer
+  phase: regular/second
+  W: '12'
+  L: '12'
+  PCT: '.500'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Leon
+  phase: regular/second
+  W: '11'
+  L: '14'
+  PCT: '.440'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Nicaraguan Winter League
+  nameClub: Oriental
+  phase: regular/second
+  W: '10'
+  L: '15'
+  PCT: '.400'
+  RANK: '4'

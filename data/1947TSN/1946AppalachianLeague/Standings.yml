@@ -1,0 +1,116 @@
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: New River
+  phase: regular
+  W: '83'
+  L: '40'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular
+  W: '72'
+  L: '51'
+  T: '1'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '1'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: regular
+  W: '65'
+  L: '58'
+  T: '1'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular
+  W: '64'
+  L: '60'
+  T: '0'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: regular
+  W: '55'
+  L: '70'
+  T: '0'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: regular
+  W: '52'
+  L: '72'
+  T: '1'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: regular
+  W: '33'
+  L: '84'
+  T: '0'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: New River
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: New River
+  phase: final
+  W: '4'
+  L: '2'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: final
+  W: '2'
+  L: '4'
+  T: '0'
+  RANK: '2'

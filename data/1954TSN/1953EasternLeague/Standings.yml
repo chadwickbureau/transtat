@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: regular
+  W: '101'
+  L: '47'
+  T: '1'
+  PCT: '.682'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '96'
+  L: '55'
+  T: '0'
+  PCT: '.636'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: regular
+  W: '86'
+  L: '65'
+  T: '0'
+  PCT: '.570'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '78'
+  L: '74'
+  T: '0'
+  PCT: '.513'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  phase: regular
+  W: '70'
+  L: '80'
+  T: '0'
+  PCT: '.467'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  W: '65'
+  L: '85'
+  T: '0'
+  PCT: '.433'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: regular
+  W: '54'
+  L: '95'
+  T: '1'
+  PCT: '.362'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: regular
+  W: '51'
+  L: '100'
+  T: '0'
+  PCT: '.338'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

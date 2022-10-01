@@ -1,0 +1,2151 @@
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Nixon
+  nameFirst: Roy
+  nameClub1: Jacksonville Beach
+  Pos: 1B
+  G: '139'
+  PO: '1123'
+  A: '49'
+  E: '22'
+  DP: '106'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Forbes
+  nameClub1: DeLand
+  throws: L
+  Pos: 1B
+  G: '57'
+  PO: '470'
+  A: '28'
+  E: '9'
+  DP: '49'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Olmo
+  nameClub1: Orlando
+  throws: L
+  Pos: 1B
+  G: '41'
+  PO: '355'
+  A: '23'
+  E: '7'
+  DP: '35'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Bello
+  nameClub1: Lakeland
+  Pos: 1B
+  G: '18'
+  PO: '141'
+  A: '12'
+  E: '3'
+  DP: '5'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Penza
+  nameClub1: DeLand
+  throws: L
+  Pos: 1B
+  G: '94'
+  PO: '674'
+  A: '29'
+  E: '14'
+  DP: '61'
+  PCT: '.980'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Levy
+  nameClub1: Daytona Beach
+  Pos: 1B
+  G: '114'
+  PO: '940'
+  A: '64'
+  E: '23'
+  DP: '70'
+  PCT: '.978'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Shores
+  nameClub1: Orlando
+  Pos: 1B
+  G: '54'
+  PO: '464'
+  A: '24'
+  E: '11'
+  DP: '43'
+  PCT: '.978'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Strunak
+  nameClub1: Cocoa
+  Pos: 1B
+  G: '95'
+  PO: '813'
+  A: '34'
+  E: '20'
+  DP: '82'
+  PCT: '.977'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Niehaus
+  nameClub1: Lakeland
+  Pos: 1B
+  G: '120'
+  PO: '868'
+  A: '59'
+  E: '26'
+  DP: '70'
+  PCT: '.973'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Randle
+  nameClub1: Orlando
+  nameClub2: Lakeland
+  throws: L
+  Pos: 1B
+  G: '23'
+  PO: '180'
+  A: '6'
+  E: '6'
+  DP: '16'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Filiatrault
+  nameClub1: Cocoa
+  Pos: 1B
+  G: '25'
+  PO: '216'
+  A: '16'
+  E: '8'
+  DP: '17'
+  PCT: '.967'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Borders
+  nameClub1: Orlando
+  Pos: 1B
+  G: '21'
+  PO: '183'
+  A: '14'
+  E: '11'
+  DP: '12'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: O'Flynn
+  nameClub1: Daytona Beach
+  Pos: 1B
+  G: '18'
+  PO: '139'
+  A: '4'
+  E: '8'
+  DP: '13'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Mijido
+  nameClub1: Orlando
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '111'
+  A: '4'
+  E: '7'
+  DP: '11'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Gil
+  nameClub1: Lakeland
+  Pos: 2B
+  G: '11'
+  PO: '18'
+  A: '20'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Pacheco
+  nameClub1: Cocoa
+  Pos: 2B
+  G: '33'
+  PO: '110'
+  A: '109'
+  E: '4'
+  DP: '16'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Harrison
+  nameClub1: Orlando
+  Pos: 2B
+  G: '15'
+  PO: '28'
+  A: '45'
+  E: '2'
+  DP: '7'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Houseknecht
+  nameClub1: Orlando
+  Pos: 2B
+  G: '126'
+  PO: '370'
+  A: '387'
+  E: '32'
+  DP: '87'
+  PCT: '.959'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Gandolfi
+  nameClub1: Lakeland
+  Pos: 2B
+  G: '122'
+  PO: '324'
+  A: '278'
+  E: '27'
+  DP: '51'
+  PCT: '.957'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Huffman
+  nameClub1: Daytona Beach
+  Pos: 2B
+  G: '57'
+  PO: '168'
+  A: '175'
+  E: '17'
+  DP: '37'
+  PCT: '.953'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: West
+  nameClub1: Jacksonville Beach
+  Pos: 2B
+  G: '120'
+  PO: '327'
+  A: '306'
+  E: '32'
+  DP: '76'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Rowell
+  nameClub1: Cocoa
+  nameClub2: DeLand
+  Pos: 2B
+  G: '63'
+  PO: '181'
+  A: '175'
+  E: '18'
+  DP: '52'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Corso
+  nameClub1: DeLand
+  nameClub2: Daytona Beach
+  Pos: 2B
+  G: '17'
+  PO: '49'
+  A: '52'
+  E: '6'
+  DP: '11'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Lagano
+  nameClub1: Daytona Beach
+  Pos: 2B
+  G: '52'
+  PO: '144'
+  A: '119'
+  E: '17'
+  DP: '23'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Barrow
+  nameClub1: DeLand
+  Pos: 2B
+  G: '132'
+  PO: '352'
+  A: '324'
+  E: '48'
+  DP: '91'
+  PCT: '.934'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Chafin
+  nameClub1: Jacksonville Beach
+  Pos: 2B
+  G: '19'
+  PO: '48'
+  A: '52'
+  E: '12'
+  DP: '12'
+  PCT: '.893'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Tirado
+  nameClub1: Cocoa
+  nameClub2: Daytona Beach
+  nameClub3: DeLand
+  Pos: 2B
+  G: '42'
+  PO: '108'
+  A: '98'
+  E: '25'
+  DP: '23'
+  PCT: '.892'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Gonzales
+  nameClub1: Cocoa
+  Pos: 3B
+  G: '30'
+  PO: '30'
+  A: '67'
+  E: '5'
+  DP: '4'
+  PCT: '.951'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Corso
+  nameClub1: DeLand
+  nameClub2: Daytona Beach
+  Pos: 3B
+  G: '33'
+  PO: '39'
+  A: '71'
+  E: '8'
+  DP: '4'
+  PCT: '.932'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Henry
+  nameClub1: Jacksonville Beach
+  Pos: 3B
+  G: '137'
+  PO: '169'
+  A: '255'
+  E: '33'
+  DP: '33'
+  PCT: '.928'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Cade
+  nameClub1: DeLand
+  Pos: 3B
+  G: '129'
+  PO: '152'
+  A: '321'
+  E: '40'
+  DP: '33'
+  PCT: '.922'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wyatt
+  nameClub1: Orlando
+  Pos: 3B
+  G: '48'
+  PO: '58'
+  A: '108'
+  E: '16'
+  DP: '15'
+  PCT: '.912'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Rucker
+  nameClub1: Daytona Beach
+  Pos: 3B
+  G: '40'
+  PO: '36'
+  A: '63'
+  E: '10'
+  DP: '7'
+  PCT: '.908'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Houseknecht
+  nameClub1: Orlando
+  Pos: 3B
+  G: '10'
+  PO: '15'
+  A: '10'
+  E: '3'
+  DP: '2'
+  PCT: '.893'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Patriss
+  nameClub1: Cocoa
+  nameClub2: Daytona Beach
+  Pos: 3B
+  G: '132'
+  PO: '190'
+  A: '293'
+  E: '60'
+  DP: '26'
+  PCT: '.890'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameFirst: R.
+  nameClub1: Orlando
+  Pos: 3B
+  G: '82'
+  PO: '87'
+  A: '176'
+  E: '33'
+  DP: '15'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameClub1: Daytona Beach
+  Pos: 3B
+  G: '12'
+  PO: '12'
+  A: '14'
+  E: '4'
+  DP: '3'
+  PCT: '.867'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Baer
+  nameClub1: Lakeland
+  Pos: 3B
+  G: '66'
+  PO: '71'
+  A: '116'
+  E: '29'
+  DP: '8'
+  PCT: '.866'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Friol
+  nameClub1: Lakeland
+  Pos: 3B
+  G: '68'
+  PO: '104'
+  A: '107'
+  E: '34'
+  DP: '13'
+  PCT: '.861'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Van Dell
+  nameClub1: DeLand
+  Pos: 3B
+  G: '14'
+  PO: '20'
+  A: '25'
+  E: '8'
+  DP: '1'
+  PCT: '.849'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Fernandes
+  nameClub1: Daytona Beach
+  Pos: 3B
+  G: '25'
+  PO: '13'
+  A: '40'
+  E: '20'
+  DP: '2'
+  PCT: '.726'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Tschannen
+  nameClub1: DeLand
+  Pos: SS
+  G: '136'
+  PO: '296'
+  A: '401'
+  E: '41'
+  DP: '77'
+  PCT: '.944'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '58'
+  PO: '106'
+  A: '157'
+  E: '21'
+  DP: '20'
+  PCT: '.926'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wyatt
+  nameClub1: Orlando
+  Pos: SS
+  G: '90'
+  PO: '129'
+  A: '279'
+  E: '37'
+  DP: '51'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Craig
+  nameClub1: Lakeland
+  Pos: SS
+  G: '83'
+  PO: '121'
+  A: '239'
+  E: '34'
+  DP: '32'
+  PCT: '.914'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Harrison
+  nameClub1: Orlando
+  Pos: SS
+  G: '10'
+  PO: '17'
+  A: '35'
+  E: '5'
+  DP: '3'
+  PCT: '.912'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Meyer
+  nameClub1: Jacksonville Beach
+  Pos: SS
+  G: '139'
+  PO: '241'
+  A: '399'
+  E: '74'
+  DP: '60'
+  PCT: '.896'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: McCrary
+  nameClub1: Cocoa
+  Pos: SS
+  G: '37'
+  PO: '77'
+  A: '93'
+  E: '21'
+  DP: '15'
+  PCT: '.890'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameFirst: C.
+  nameClub1: Orlando
+  Pos: SS
+  G: '17'
+  PO: '31'
+  A: '50'
+  E: '10'
+  DP: '8'
+  PCT: '.890'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Lagano
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '29'
+  PO: '37'
+  A: '80'
+  E: '15'
+  DP: '16'
+  PCT: '.886'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Huffman
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '21'
+  PO: '43'
+  A: '58'
+  E: '13'
+  DP: '6'
+  PCT: '.886'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Bright
+  nameClub1: Lakeland
+  Pos: SS
+  G: '51'
+  PO: '81'
+  A: '129'
+  E: '29'
+  DP: '21'
+  PCT: '.879'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Corso
+  nameClub1: DeLand
+  nameClub2: Daytona Beach
+  Pos: SS
+  G: '27'
+  PO: '37'
+  A: '67'
+  E: '15'
+  DP: '6'
+  PCT: '.874'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Bell
+  nameClub1: Cocoa
+  Pos: SS
+  G: '16'
+  PO: '21'
+  A: '44'
+  E: '11'
+  DP: '8'
+  PCT: '.855'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Marston
+  nameClub1: Cocoa
+  Pos: SS
+  G: '33'
+  PO: '60'
+  A: '98'
+  E: '27'
+  DP: '14'
+  PCT: '.854'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Danoys
+  nameClub1: Orlando
+  Pos: SS
+  G: '21'
+  PO: '33'
+  A: '55'
+  E: '15'
+  DP: '8'
+  PCT: '.854'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Cruz
+  nameClub1: Cocoa
+  Pos: SS
+  G: '19'
+  PO: '27'
+  A: '59'
+  E: '15'
+  DP: '5'
+  PCT: '.851'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Tirado
+  nameClub1: Cocoa
+  nameClub2: Daytona Beach
+  nameClub3: DeLand
+  Pos: SS
+  G: '13'
+  PO: '19'
+  A: '50'
+  E: '13'
+  DP: '8'
+  PCT: '.841'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Council
+  nameClub1: Cocoa
+  Pos: SS
+  G: '16'
+  PO: '17'
+  A: '41'
+  E: '14'
+  DP: '5'
+  PCT: '.806'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Greenhill
+  nameClub1: Cocoa
+  Pos: OF
+  G: '29'
+  PO: '41'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameClub1: Jacksonville Beach
+  Pos: OF
+  G: '13'
+  PO: '13'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Corso
+  nameClub1: DeLand
+  nameClub2: Daytona Beach
+  Pos: OF
+  G: '12'
+  PO: '14'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Bartley
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '132'
+  PO: '331'
+  A: '20'
+  E: '5'
+  DP: '3'
+  PCT: '.986'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Braeseke
+  nameClub1: Orlando
+  Pos: OF
+  G: '67'
+  PO: '129'
+  A: '8'
+  E: '2'
+  DP: '3'
+  PCT: '.986'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Roberts
+  nameFirst: A.
+  nameClub1: Cocoa
+  Pos: OF
+  G: '36'
+  PO: '61'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.985'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Fazzino
+  nameClub1: Lakeland
+  throws: L
+  Pos: OF
+  G: '123'
+  PO: '350'
+  A: '26'
+  E: '10'
+  DP: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: MacPartland
+  nameClub1: DeLand
+  nameClub2: Lakeland
+  Pos: OF
+  G: '17'
+  PO: '32'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Martinez
+  nameClub1: Lakeland
+  nameClub2: DeLand
+  Pos: OF
+  G: '110'
+  PO: '292'
+  A: '17'
+  E: '9'
+  DP: '4'
+  PCT: '.972'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Rucker
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '90'
+  PO: '163'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Lovio
+  nameClub1: Orlando
+  Pos: OF
+  G: '136'
+  PO: '313'
+  A: '26'
+  E: '11'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Shores
+  nameClub1: Orlando
+  Pos: OF
+  G: '84'
+  PO: '136'
+  A: '14'
+  E: '5'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Roelofsz
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '53'
+  PO: '83'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Tirado
+  nameClub1: Cocoa
+  nameClub2: Daytona Beach
+  nameClub3: DeLand
+  Pos: OF
+  G: '39'
+  PO: '50'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Kassabian
+  nameClub1: DeLand
+  Pos: OF
+  G: '134'
+  PO: '330'
+  A: '20'
+  E: '14'
+  DP: '8'
+  PCT: '.962'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Hughes
+  nameClub1: Lakeland
+  Pos: OF
+  G: '50'
+  PO: '110'
+  A: '10'
+  E: '5'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Randle
+  nameClub1: Orlando
+  nameClub2: Lakeland
+  throws: L
+  Pos: OF
+  G: '104'
+  PO: '199'
+  A: '13'
+  E: '9'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Lauderdale
+  nameClub1: Cocoa
+  Pos: OF
+  G: '33'
+  PO: '45'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Briggs
+  nameClub1: Jacksonville Beach
+  Pos: OF
+  G: '38'
+  PO: '64'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Veliz
+  nameClub1: Cocoa
+  Pos: OF
+  G: '111'
+  PO: '281'
+  A: '29'
+  E: '17'
+  DP: '7'
+  PCT: '.948'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Marston
+  nameClub1: Cocoa
+  Pos: OF
+  G: '71'
+  PO: '121'
+  A: '18'
+  E: '8'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Collins
+  nameClub1: Orlando
+  Pos: OF
+  G: '32'
+  PO: '52'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Witherspoon
+  nameClub1: Lakeland
+  Pos: OF
+  G: '70'
+  PO: '145'
+  A: '8'
+  E: '9'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Penza
+  nameClub1: DeLand
+  throws: L
+  Pos: OF
+  G: '52'
+  PO: '59'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Black
+  nameClub1: Orlando
+  Pos: OF
+  G: '18'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Destifano
+  nameFirst: C.
+  nameClub1: Cocoa
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Prescott
+  nameClub1: Lakeland
+  nameClub2: DeLand
+  nameClub3: Cocoa
+  nameClub4: Daytona Beach
+  Pos: OF
+  G: '98'
+  PO: '154'
+  A: '17'
+  E: '11'
+  DP: '2'
+  PCT: '.940'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Dashner
+  nameClub1: Jacksonville Beach
+  Pos: OF
+  G: '135'
+  PO: '208'
+  A: '21'
+  E: '15'
+  DP: '4'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameFirst: R.
+  nameClub1: Orlando
+  Pos: OF
+  G: '27'
+  PO: '28'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Chambers
+  nameClub1: Jacksonville Beach
+  Pos: OF
+  G: '128'
+  PO: '265'
+  A: '18'
+  E: '19'
+  DP: '3'
+  PCT: '.937'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Rowell
+  nameClub1: Cocoa
+  nameClub2: DeLand
+  Pos: OF
+  G: '49'
+  PO: '79'
+  A: '6'
+  E: '6'
+  DP: '1'
+  PCT: '.934'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Morrison
+  nameClub1: Jacksonville Beach
+  Pos: OF
+  G: '54'
+  PO: '89'
+  A: '6'
+  E: '7'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Gil
+  nameClub1: Lakeland
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Hegy
+  nameClub1: Cocoa
+  Pos: OF
+  G: '13'
+  PO: '20'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Imgrund
+  nameClub1: DeLand
+  Pos: OF
+  G: '37'
+  PO: '41'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.915'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Mulby
+  nameClub1: Jacksonville Beach
+  Pos: OF
+  G: '23'
+  PO: '43'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.915'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Bolcar
+  nameClub1: Jacksonville Beach
+  Pos: OF
+  G: '33'
+  PO: '46'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.912'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Mullen
+  nameClub1: Cocoa
+  Pos: OF
+  G: '22'
+  PO: '26'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Whidden
+  nameClub1: Lakeland
+  throws: L
+  Pos: OF
+  G: '39'
+  PO: '51'
+  A: '6'
+  E: '6'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Fralic
+  nameClub1: Orlando
+  Pos: OF
+  G: '24'
+  PO: '44'
+  A: '2'
+  E: '5'
+  DP: '1'
+  PCT: '.902'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: O'Flynn
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '38'
+  PO: '69'
+  A: '5'
+  E: '10'
+  DP: '1'
+  PCT: '.881'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Battle
+  nameClub1: Cocoa
+  Pos: OF
+  G: '26'
+  PO: '38'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.870'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Thomas
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '12'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Maher
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '13'
+  PO: '15'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.850'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Long
+  nameClub1: DeLand
+  nameClub2: Orlando
+  nameClub3: Lakeland
+  Pos: OF
+  G: '25'
+  PO: '27'
+  A: '5'
+  E: '9'
+  DP: '0'
+  PCT: '.780'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Xiques
+  nameClub1: Cocoa
+  Pos: OF
+  G: '13'
+  PO: '16'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.773'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Williams
+  nameClub1: Cocoa
+  Pos: C
+  G: '37'
+  PO: '248'
+  A: '30'
+  E: '3'
+  DP: '3'
+  PB: '5'
+  PCT: '.989'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Turner
+  nameClub1: Lakeland
+  Pos: C
+  G: '18'
+  PO: '108'
+  A: '14'
+  E: '2'
+  DP: '3'
+  PB: '2'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Dunne
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '108'
+  PO: '672'
+  A: '91'
+  E: '14'
+  DP: '12'
+  PB: '9'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Mulby
+  nameClub1: Jacksonville Beach
+  Pos: C
+  G: '25'
+  PO: '181'
+  A: '21'
+  E: '4'
+  DP: '5'
+  PB: '10'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Reagin
+  nameClub1: Cocoa
+  Pos: C
+  G: '24'
+  PO: '138'
+  A: '17'
+  E: '3'
+  DP: '1'
+  PB: '4'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Nixon
+  nameFirst: Russ
+  nameClub1: Jacksonville Beach
+  Pos: C
+  G: '118'
+  PO: '821'
+  A: '95'
+  E: '22'
+  DP: '14'
+  PB: '23'
+  PCT: '.977'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Baer
+  nameClub1: Lakeland
+  Pos: C
+  G: '36'
+  PO: '192'
+  A: '22'
+  E: '6'
+  DP: '3'
+  PB: '10'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Marr
+  nameClub1: Orlando
+  Pos: C
+  G: '18'
+  PO: '98'
+  A: '9'
+  E: '3'
+  DP: '4'
+  PB: '3'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameFirst: C.
+  nameClub1: Orlando
+  Pos: C
+  G: '115'
+  PO: '673'
+  A: '79'
+  E: '24'
+  DP: '13'
+  PB: '21'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Roberts
+  nameClub1: Lakeland
+  Pos: C
+  G: '68'
+  PO: '463'
+  A: '45'
+  E: '18'
+  DP: '5'
+  PB: '7'
+  PCT: '.966'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Pope
+  nameClub1: DeLand
+  Pos: C
+  G: '78'
+  PO: '379'
+  A: '79'
+  E: '16'
+  DP: '13'
+  PB: '13'
+  PCT: '.966'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Van Dell
+  nameClub1: DeLand
+  Pos: C
+  G: '40'
+  PO: '169'
+  A: '14'
+  E: '7'
+  DP: '7'
+  PB: '3'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Ford
+  nameClub1: Cocoa
+  Pos: C
+  G: '42'
+  PO: '259'
+  A: '22'
+  E: '11'
+  DP: '4'
+  PB: '4'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Suarez
+  nameClub1: DeLand
+  Pos: C
+  G: '34'
+  PO: '178'
+  A: '17'
+  E: '9'
+  DP: '2'
+  PB: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Monje
+  nameClub1: Lakeland
+  Pos: C
+  G: '12'
+  PO: '68'
+  A: '8'
+  E: '4'
+  DP: '2'
+  PB: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Maher
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '36'
+  PO: '184'
+  A: '26'
+  E: '13'
+  DP: '3'
+  PB: '7'
+  PCT: '.942'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Tuck
+  nameClub1: Cocoa
+  Pos: C
+  G: '27'
+  PO: '131'
+  A: '22'
+  E: '10'
+  DP: '1'
+  PB: '4'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Ortega
+  nameClub1: Lakeland
+  Pos: P
+  G: '34'
+  PO: '12'
+  A: '40'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Leblanc
+  nameClub1: DeLand
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '33'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Turner
+  nameClub1: Cocoa
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '18'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Englert
+  nameClub1: Jacksonville Beach
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Sroda
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Crosson
+  nameClub1: Cocoa
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Brenek
+  nameClub1: DeLand
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Konkoleski
+  nameClub1: Jacksonville Beach
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '42'
+  E: '1'
+  DP: '4'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Cloos
+  nameClub1: Cocoa
+  nameClub2: DeLand
+  Pos: P
+  G: '41'
+  PO: '8'
+  A: '38'
+  E: '1'
+  DP: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Ruiz
+  nameClub1: DeLand
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '31'
+  E: '1'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wantz
+  nameClub1: Lakeland
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '2'
+  A: '33'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Lopez
+  nameClub1: Cocoa
+  nameClub2: Orlando
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Drach
+  nameClub1: Cocoa
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '28'
+  E: '1'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Deeds
+  nameClub1: Jacksonville Beach
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '22'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Skaza
+  nameClub1: Jacksonville Beach
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '6'
+  A: '45'
+  E: '2'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Reed
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Blodgett
+  nameClub1: DeLand
+  Pos: P
+  G: '43'
+  PO: '10'
+  A: '55'
+  E: '3'
+  DP: '6'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Tresp
+  nameClub1: Cocoa
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Morrison
+  nameClub1: Jacksonville Beach
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Roberts
+  nameFirst: N.
+  nameClub1: Cocoa
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '33'
+  E: '2'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Solomon
+  nameClub1: Orlando
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '59'
+  E: '4'
+  DP: '7'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Greer
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '26'
+  E: '2'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Imgrund
+  nameClub1: DeLand
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Hardison
+  nameClub1: Lakeland
+  Pos: P
+  G: '11'
+  PO: '5'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Stevens
+  nameClub1: Cocoa
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Neal
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: P
+  G: '44'
+  PO: '8'
+  A: '28'
+  E: '3'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Hogg
+  nameClub1: Jacksonville Beach
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '21'
+  E: '2'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Sewell
+  nameClub1: Orlando
+  Pos: P
+  G: '30'
+  PO: '12'
+  A: '35'
+  E: '4'
+  DP: '4'
+  PCT: '.922'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Sirois
+  nameClub1: Jacksonville Beach
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '19'
+  E: '2'
+  DP: '2'
+  PCT: '.920'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '14'
+  PO: '6'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Tucker
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Donnelly
+  nameClub1: Lakeland
+  Pos: P
+  G: '38'
+  PO: '18'
+  A: '40'
+  E: '6'
+  DP: '3'
+  PCT: '.906'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Holt
+  nameClub1: Orlando
+  throws: L
+  Pos: P
+  G: '38'
+  PO: '10'
+  A: '37'
+  E: '5'
+  DP: '1'
+  PCT: '.904'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Swanson
+  nameClub1: Jacksonville Beach
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '16'
+  E: '2'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Funkhouser
+  nameClub1: Lakeland
+  Pos: P
+  G: '28'
+  PO: '2'
+  A: '23'
+  E: '3'
+  DP: '1'
+  PCT: '.893'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Boyette
+  nameClub1: Lakeland
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PCT: '.885'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Forbes
+  nameClub1: DeLand
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '4'
+  A: '19'
+  E: '3'
+  DP: '3'
+  PCT: '.885'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Simard
+  nameClub1: Lakeland
+  nameClub2: Orlando
+  Pos: P
+  G: '51'
+  PO: '11'
+  A: '31'
+  E: '6'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Huffman
+  nameClub1: Lakeland
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Teti
+  nameClub1: Orlando
+  Pos: P
+  G: '42'
+  PO: '3'
+  A: '38'
+  E: '6'
+  DP: '0'
+  PCT: '.872'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Siebert
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '27'
+  E: '5'
+  DP: '1'
+  PCT: '.865'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Rogers
+  nameClub1: Orlando
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '17'
+  E: '3'
+  DP: '0'
+  PCT: '.864'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Keppel
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '11'
+  E: '2'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Schreiber
+  nameClub1: Lakeland
+  nameClub2: DeLand
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Hamm
+  nameClub1: Lakeland
+  nameClub2: Cocoa
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '21'
+  E: '5'
+  DP: '0'
+  PCT: '.839'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Rowell
+  nameClub1: Cocoa
+  nameClub2: DeLand
+  Pos: P
+  G: '23'
+  PO: '2'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Rooks
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '13'
+  E: '4'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Wolfe
+  nameClub1: DeLand
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Moran
+  nameClub1: Cocoa
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '19'
+  E: '5'
+  DP: '1'
+  PCT: '.815'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Joltki
+  nameClub1: DeLand
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.750'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameLast: Chrysler
+  nameClub1: Cocoa
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.700'
+  TP: '0'

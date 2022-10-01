@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Ponca City
+  phase: regular
+  W: '79'
+  L: '47'
+  T: '0'
+  PCT: '.627'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Independence
+  phase: regular
+  W: '74'
+  L: '46'
+  T: '0'
+  PCT: '.617'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Bartlesville
+  phase: regular
+  W: '71'
+  L: '52'
+  T: '0'
+  PCT: '.577'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Pittsburg
+  phase: regular
+  W: '60'
+  L: '60'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Miami
+  phase: regular
+  W: '58'
+  L: '66'
+  T: '1'
+  PCT: '.468'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Carthage
+  phase: regular
+  W: '51'
+  L: '67'
+  T: '1'
+  PCT: '.432'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Iola
+  phase: regular
+  W: '51'
+  L: '72'
+  T: '0'
+  PCT: '.415'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Chanute
+  phase: regular
+  W: '44'
+  L: '78'
+  T: '2'
+  PCT: '.361'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Pittsburg
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Ponca City
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Independence
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Bartlesville
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Independence
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Pittsburg
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

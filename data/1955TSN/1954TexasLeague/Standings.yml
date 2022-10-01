@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: regular
+  W: '90'
+  L: '71'
+  T: '0'
+  PCT: '.559'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: regular
+  W: '89'
+  L: '72'
+  T: '0'
+  PCT: '.553'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: regular
+  W: '87'
+  L: '74'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: regular
+  W: '81'
+  L: '80'
+  T: '0'
+  PCT: '.503'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  phase: regular
+  W: '78'
+  L: '83'
+  T: '0'
+  PCT: '.484'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: regular
+  W: '78'
+  L: '83'
+  T: '0'
+  PCT: '.484'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  phase: regular
+  W: '77'
+  L: '84'
+  T: '0'
+  PCT: '.478'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: regular
+  W: '64'
+  L: '97'
+  T: '0'
+  PCT: '.398'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

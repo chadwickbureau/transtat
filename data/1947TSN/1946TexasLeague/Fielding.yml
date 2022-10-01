@@ -1,0 +1,7070 @@
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jennings
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '24'
+  PO: '189'
+  A: '16'
+  E: '2'
+  DP: '13'
+  PCT: '.993'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moyer
+  nameClub1: Dallas
+  Pos: 1B
+  G: '155'
+  PO: '1424'
+  A: '105'
+  E: '15'
+  DP: '104'
+  PCT: '.990'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: J.
+  nameClub1: Beaumont
+  throws: L
+  Pos: 1B
+  G: '51'
+  PO: '489'
+  A: '28'
+  E: '5'
+  DP: '28'
+  PCT: '.990'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dotlich
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: 1B
+  G: '16'
+  PO: '98'
+  A: '6'
+  E: '1'
+  DP: '9'
+  PCT: '.990'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Van Pelt
+  nameClub1: Shreveport
+  Pos: 1B
+  G: '11'
+  PO: '93'
+  A: '4'
+  E: '1'
+  DP: '5'
+  PCT: '.990'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Halkard
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '94'
+  PO: '750'
+  A: '52'
+  E: '9'
+  DP: '56'
+  PCT: '.989'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Newman
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '147'
+  PO: '1284'
+  A: '55'
+  E: '18'
+  DP: '97'
+  PCT: '.987'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ruchser
+  nameClub1: Fort Worth
+  throws: L
+  Pos: 1B
+  G: '149'
+  PO: '1240'
+  A: '71'
+  E: '18'
+  DP: '90'
+  PCT: '.986'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Richards
+  nameClub1: Tulsa
+  throws: L
+  Pos: 1B
+  G: '129'
+  PO: '1149'
+  A: '76'
+  E: '17'
+  DP: '106'
+  PCT: '.986'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sidlo
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: 1B
+  G: '132'
+  PO: '1113'
+  A: '81'
+  E: '17'
+  DP: '106'
+  PCT: '.986'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Thompson
+  nameClub1: Houston
+  Pos: 1B
+  G: '31'
+  PO: '207'
+  A: '9'
+  E: '3'
+  DP: '12'
+  PCT: '.986'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: York
+  nameClub1: Tulsa
+  nameClub2: Shreveport
+  throws: L
+  Pos: 1B
+  G: '102'
+  PO: '863'
+  A: '37'
+  E: '17'
+  DP: '83'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Crosby
+  nameClub1: Beaumont
+  Pos: 1B
+  G: '38'
+  PO: '355'
+  A: '33'
+  E: '8'
+  DP: '34'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hajduk
+  nameClub1: Shreveport
+  Pos: 1B
+  G: '60'
+  PO: '486'
+  A: '29'
+  E: '11'
+  DP: '37'
+  PCT: '.979'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Smaza
+  nameClub1: Shreveport
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '117'
+  A: '10'
+  E: '3'
+  DP: '8'
+  PCT: '.977'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: F.
+  nameClub1: Beaumont
+  throws: L
+  Pos: 1B
+  G: '63'
+  PO: '537'
+  A: '36'
+  E: '16'
+  DP: '49'
+  PCT: '.973'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Meriwether
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '13'
+  PO: '92'
+  A: '9'
+  E: '7'
+  DP: '12'
+  PCT: '.935'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ortiz
+  nameClub1: Houston
+  Pos: 2B
+  G: '42'
+  PO: '100'
+  A: '94'
+  E: '4'
+  DP: '19'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Borom
+  nameClub1: Dallas
+  Pos: 2B
+  G: '57'
+  PO: '122'
+  A: '146'
+  E: '8'
+  DP: '22'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Parker
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '10'
+  PO: '38'
+  A: '27'
+  E: '2'
+  DP: '4'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Markland
+  nameClub1: Dallas
+  Pos: 2B
+  G: '85'
+  PO: '207'
+  A: '221'
+  E: '14'
+  DP: '39'
+  PCT: '.968'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ankenman
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '104'
+  PO: '286'
+  A: '272'
+  E: '19'
+  DP: '67'
+  PCT: '.966'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mazur
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '99'
+  PO: '244'
+  A: '269'
+  E: '20'
+  DP: '66'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rullo
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '145'
+  PO: '407'
+  A: '364'
+  E: '33'
+  DP: '93'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameFirst: E.
+  nameClub1: Shreveport
+  nameClub2: Houston
+  Pos: 2B
+  G: '45'
+  PO: '109'
+  A: '101'
+  E: '9'
+  DP: '21'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marnie
+  nameClub1: Houston
+  Pos: 2B
+  G: '51'
+  PO: '103'
+  A: '102'
+  E: '9'
+  DP: '16'
+  PCT: '.958'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Croucher
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '27'
+  PO: '61'
+  A: '73'
+  E: '6'
+  DP: '10'
+  PCT: '.957'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Basgall
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '154'
+  PO: '432'
+  A: '456'
+  E: '41'
+  DP: '66'
+  PCT: '.956'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameFirst: C.
+  nameClub1: Dallas
+  Pos: 2B
+  G: '17'
+  PO: '23'
+  A: '42'
+  E: '3'
+  DP: '6'
+  PCT: '.956'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Muffaletto
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '138'
+  PO: '345'
+  A: '350'
+  E: '33'
+  DP: '76'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Thompson
+  nameClub1: Houston
+  Pos: 2B
+  G: '39'
+  PO: '92'
+  A: '85'
+  E: '10'
+  DP: '17'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Anderson
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '37'
+  PO: '105'
+  A: '84'
+  E: '11'
+  DP: '26'
+  PCT: '.945'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schalk
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '34'
+  PO: '88'
+  A: '89'
+  E: '11'
+  DP: '16'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Galle
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '67'
+  PO: '139'
+  A: '176'
+  E: '22'
+  DP: '29'
+  PCT: '.935'
+  TP: '2'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Grant
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '36'
+  PO: '77'
+  A: '82'
+  E: '12'
+  DP: '14'
+  PCT: '.930'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: J. P.
+  nameClub1: Dallas
+  nameClub2: Shreveport
+  Pos: 2B
+  G: '12'
+  PO: '26'
+  A: '25'
+  E: '4'
+  DP: '8'
+  PCT: '.927'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cassini
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '25'
+  PO: '59'
+  A: '39'
+  E: '8'
+  DP: '12'
+  PCT: '.925'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schenz
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '16'
+  PO: '25'
+  A: '41'
+  E: '6'
+  DP: '9'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameFirst: J. C.
+  nameClub1: Dallas
+  Pos: 3B
+  G: '19'
+  PO: '9'
+  A: '22'
+  E: '1'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: D.
+  nameClub1: Houston
+  Pos: 3B
+  G: '11'
+  PO: '8'
+  A: '23'
+  E: '1'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Elko
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '22'
+  PO: '25'
+  A: '54'
+  E: '3'
+  DP: '6'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Capps
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '121'
+  PO: '145'
+  A: '295'
+  E: '20'
+  DP: '22'
+  PCT: '.957'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hatch
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '84'
+  PO: '101'
+  A: '187'
+  E: '13'
+  DP: '11'
+  PCT: '.957'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: J. H.
+  nameClub1: Dallas
+  Pos: 3B
+  G: '47'
+  PO: '46'
+  A: '78'
+  E: '6'
+  DP: '6'
+  PCT: '.954'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schenz
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '108'
+  PO: '137'
+  A: '199'
+  E: '18'
+  DP: '29'
+  PCT: '.949'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rotermund
+  nameClub1: Houston
+  Pos: 3B
+  G: '18'
+  PO: '26'
+  A: '27'
+  E: '3'
+  DP: '4'
+  PCT: '.946'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cassini
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '40'
+  PO: '56'
+  A: '85'
+  E: '9'
+  DP: '7'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kubski
+  nameClub1: Houston
+  Pos: 3B
+  G: '38'
+  PO: '30'
+  A: '81'
+  E: '7'
+  DP: '4'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: W. B.
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '75'
+  PO: '83'
+  A: '162'
+  E: '16'
+  DP: '5'
+  PCT: '.939'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Parker
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '42'
+  PO: '43'
+  A: '81'
+  E: '8'
+  DP: '9'
+  PCT: '.939'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Borom
+  nameClub1: Dallas
+  Pos: 3B
+  G: '25'
+  PO: '21'
+  A: '47'
+  E: '5'
+  DP: '2'
+  PCT: '.932'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lowe
+  nameClub1: Houston
+  Pos: 3B
+  G: '22'
+  PO: '18'
+  A: '34'
+  E: '4'
+  DP: '3'
+  PCT: '.929'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nagel
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '49'
+  PO: '54'
+  A: '94'
+  E: '12'
+  DP: '7'
+  PCT: '.925'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ogle
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '19'
+  PO: '19'
+  A: '27'
+  E: '4'
+  DP: '3'
+  PCT: '.920'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carswell
+  nameClub1: Dallas
+  Pos: 3B
+  G: '62'
+  PO: '66'
+  A: '92'
+  E: '14'
+  DP: '5'
+  PCT: '.919'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Landrum
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '12'
+  PO: '4'
+  A: '18'
+  E: '2'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gorbould
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '29'
+  PO: '29'
+  A: '63'
+  E: '9'
+  DP: '7'
+  PCT: '.911'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collett
+  nameClub1: Houston
+  Pos: 3B
+  G: '70'
+  PO: '88'
+  A: '123'
+  E: '21'
+  DP: '5'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schalk
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '63'
+  PO: '59'
+  A: '140'
+  E: '21'
+  DP: '20'
+  PCT: '.905'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woyt
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '22'
+  PO: '39'
+  A: '30'
+  E: '8'
+  DP: '2'
+  PCT: '.896'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Daniels
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '36'
+  PO: '40'
+  A: '94'
+  E: '16'
+  DP: '9'
+  PCT: '.893'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lamitina
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '18'
+  PO: '21'
+  A: '29'
+  E: '6'
+  DP: '7'
+  PCT: '.893'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hajduk
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '18'
+  PO: '16'
+  A: '41'
+  E: '8'
+  DP: '4'
+  PCT: '.877'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Grant
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '62'
+  PO: '63'
+  A: '105'
+  E: '24'
+  DP: '12'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: J. P.
+  nameClub1: Dallas
+  nameClub2: Shreveport
+  Pos: 3B
+  G: '36'
+  PO: '48'
+  A: '48'
+  E: '15'
+  DP: '2'
+  PCT: '.865'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCluskey
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '18'
+  PO: '24'
+  A: '26'
+  E: '8'
+  DP: '2'
+  PCT: '.862'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Donovan
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '46'
+  PO: '36'
+  A: '75'
+  E: '18'
+  DP: '7'
+  PCT: '.860'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Berry
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '10'
+  PO: '12'
+  A: '18'
+  E: '5'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Korte
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '28'
+  PO: '22'
+  A: '55'
+  E: '14'
+  DP: '4'
+  PCT: '.846'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Heilman
+  nameClub1: Shreveport
+  Pos: SS
+  G: '26'
+  PO: '37'
+  A: '66'
+  E: '7'
+  DP: '9'
+  PCT: '.966'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schalk
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '21'
+  PO: '27'
+  A: '38'
+  E: '3'
+  DP: '7'
+  PCT: '.956'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Korte
+  nameClub1: Beaumont
+  Pos: SS
+  G: '12'
+  PO: '23'
+  A: '35'
+  E: '3'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Borom
+  nameClub1: Dallas
+  Pos: SS
+  G: '48'
+  PO: '83'
+  A: '138'
+  E: '14'
+  DP: '17'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reynolds
+  nameClub1: Shreveport
+  Pos: SS
+  G: '103'
+  PO: '216'
+  A: '326'
+  E: '34'
+  DP: '57'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Welaj
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '93'
+  PO: '165'
+  A: '264'
+  E: '27'
+  DP: '45'
+  PCT: '.941'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gorbould
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '42'
+  PO: '65'
+  A: '116'
+  E: '12'
+  DP: '20'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schenz
+  nameClub1: Tulsa
+  Pos: SS
+  G: '22'
+  PO: '29'
+  A: '54'
+  E: '6'
+  DP: '9'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: W.
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '14'
+  PO: '19'
+  A: '48'
+  E: '5'
+  DP: '5'
+  PCT: '.931'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Costa
+  nameClub1: Houston
+  Pos: SS
+  G: '58'
+  PO: '130'
+  A: '158'
+  E: '23'
+  DP: '21'
+  PCT: '.926'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ortiz
+  nameClub1: Houston
+  Pos: SS
+  G: '74'
+  PO: '139'
+  A: '192'
+  E: '27'
+  DP: '34'
+  PCT: '.924'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: J.
+  nameClub1: Dallas
+  Pos: SS
+  G: '107'
+  PO: '213'
+  A: '307'
+  E: '45'
+  DP: '55'
+  PCT: '.920'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ratto
+  nameClub1: Beaumont
+  Pos: SS
+  G: '147'
+  PO: '274'
+  A: '443'
+  E: '65'
+  DP: '74'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Madrid
+  nameClub1: Tulsa
+  Pos: SS
+  G: '140'
+  PO: '229'
+  A: '458'
+  E: '64'
+  DP: '78'
+  PCT: '.915'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Anderson
+  nameClub1: San Antonio
+  Pos: SS
+  G: '108'
+  PO: '176'
+  A: '308'
+  E: '49'
+  DP: '46'
+  PCT: '.908'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Grant
+  nameClub1: San Antonio
+  Pos: SS
+  G: '16'
+  PO: '40'
+  A: '47'
+  E: '9'
+  DP: '10'
+  PCT: '.906'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schoendienst
+  nameClub1: Houston
+  Pos: SS
+  G: '19'
+  PO: '33'
+  A: '51'
+  E: '9'
+  DP: '13'
+  PCT: '.903'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lucas
+  nameClub1: San Antonio
+  Pos: SS
+  G: '18'
+  PO: '32'
+  A: '39'
+  E: '8'
+  DP: '6'
+  PCT: '.899'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Braun
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '105'
+  PO: '172'
+  A: '274'
+  E: '51'
+  DP: '46'
+  PCT: '.897'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cassini
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '39'
+  PO: '55'
+  A: '96'
+  E: '19'
+  DP: '14'
+  PCT: '.888'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCluskey
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '15'
+  PO: '22'
+  A: '34'
+  E: '8'
+  DP: '5'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Campbell
+  nameClub1: San Antonio
+  Pos: SS
+  G: '15'
+  PO: '28'
+  A: '50'
+  E: '16'
+  DP: '11'
+  PCT: '.830'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woldt
+  nameClub1: Dallas
+  Pos: SS
+  G: '10'
+  PO: '8'
+  A: '16'
+  E: '5'
+  DP: '1'
+  PCT: '.828'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marshon
+  nameClub1: Dallas
+  Pos: CF
+  G: '19'
+  PO: '60'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Coleman
+  nameClub1: San Antonio
+  Pos: CF
+  G: '14'
+  PO: '26'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Heim
+  nameClub1: Shreveport
+  Pos: CF
+  G: '17'
+  PO: '22'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Crosby
+  nameClub1: Beaumont
+  Pos: CF
+  G: '11'
+  PO: '11'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Basso
+  nameClub1: Houston
+  Pos: CF
+  G: '95'
+  PO: '249'
+  A: '14'
+  E: '3'
+  DP: '3'
+  PCT: '.989'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Conatser
+  nameClub1: Dallas
+  Pos: CF
+  G: '127'
+  PO: '345'
+  A: '15'
+  E: '6'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Naranjo
+  nameClub1: San Antonio
+  Pos: CF
+  G: '22'
+  PO: '47'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Shelley
+  nameClub1: Beaumont
+  Pos: CF
+  G: '122'
+  PO: '301'
+  A: '20'
+  E: '7'
+  DP: '6'
+  PCT: '.979'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Corridon
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '19'
+  PO: '38'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Haney
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '96'
+  PO: '214'
+  A: '14'
+  E: '6'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woyt
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '40'
+  PO: '105'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Smaza
+  nameClub1: Shreveport
+  throws: L
+  Pos: CF
+  G: '141'
+  PO: '342'
+  A: '27'
+  E: '12'
+  DP: '5'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scepkowski
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '27'
+  PO: '59'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Knoblauch
+  nameClub1: Houston
+  throws: L
+  Pos: CF
+  G: '72'
+  PO: '167'
+  A: '19'
+  E: '7'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mitchell
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: CF
+  G: '108'
+  PO: '267'
+  A: '17'
+  E: '11'
+  DP: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kraus
+  nameClub1: San Antonio
+  Pos: CF
+  G: '114'
+  PO: '222'
+  A: '9'
+  E: '9'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: F.
+  nameClub1: Beaumont
+  throws: L
+  Pos: CF
+  G: '19'
+  PO: '45'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Skeen
+  nameClub1: Tulsa
+  throws: L
+  Pos: CF
+  G: '136'
+  PO: '309'
+  A: '21'
+  E: '14'
+  DP: '4'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mailho
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: CF
+  G: '17'
+  PO: '32'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Maddern
+  nameClub1: Tulsa
+  Pos: CF
+  G: '13'
+  PO: '29'
+  A: '2'
+  E: '5'
+  DP: '1'
+  PCT: '.861'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morjoseph
+  nameClub1: San Antonio
+  Pos: LF
+  G: '24'
+  PO: '43'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burns
+  nameClub1: Beaumont
+  Pos: LF
+  G: '24'
+  PO: '37'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Duncan
+  nameClub1: Shreveport
+  Pos: LF
+  G: '22'
+  PO: '34'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Grantham
+  nameClub1: Tulsa
+  Pos: LF
+  G: '11'
+  PO: '29'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kubski
+  nameClub1: Houston
+  Pos: LF
+  G: '11'
+  PO: '19'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Simoninis
+  nameClub1: Shreveport
+  Pos: LF
+  G: '13'
+  PO: '17'
+  A: '1'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hale
+  nameClub1: Dallas
+  Pos: LF
+  G: '11'
+  PO: '14'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Berry
+  nameClub1: Shreveport
+  Pos: LF
+  G: '10'
+  PO: '12'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Basso
+  nameClub1: Houston
+  Pos: LF
+  G: '11'
+  PO: '11'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hirshon
+  nameClub1: Dallas
+  Pos: LF
+  G: '69'
+  PO: '118'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.992'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Haney
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '27'
+  PO: '64'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.985'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Crosby
+  nameClub1: Beaumont
+  Pos: LF
+  G: '32'
+  PO: '59'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Maddern
+  nameClub1: Tulsa
+  Pos: LF
+  G: '138'
+  PO: '261'
+  A: '10'
+  E: '5'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scepkowski
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '108'
+  PO: '234'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Naranjo
+  nameClub1: San Antonio
+  Pos: LF
+  G: '62'
+  PO: '129'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: J. P.
+  nameClub1: Dallas
+  nameClub2: Shreveport
+  Pos: LF
+  G: '40'
+  PO: '71'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: DeVincenzi
+  nameClub1: Beaumont
+  Pos: LF
+  G: '100'
+  PO: '166'
+  A: '12'
+  E: '6'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moser
+  nameClub1: Houston
+  Pos: LF
+  G: '18'
+  PO: '24'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Brack
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '34'
+  PO: '64'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gregory
+  nameClub1: San Antonio
+  nameClub2: Dallas
+  Pos: LF
+  G: '96'
+  PO: '143'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Filo
+  nameClub1: Houston
+  Pos: LF
+  G: '52'
+  PO: '99'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.953'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cookson
+  nameClub1: Tulsa
+  Pos: LF
+  G: '10'
+  PO: '19'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hajduk
+  nameClub1: Shreveport
+  Pos: LF
+  G: '25'
+  PO: '53'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.948'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Knoblauch
+  nameClub1: Houston
+  throws: L
+  Pos: LF
+  G: '26'
+  PO: '45'
+  A: '4'
+  E: '3'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: K.
+  nameClub1: San Antonio
+  Pos: LF
+  G: '30'
+  PO: '47'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dotlich
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: LF
+  G: '10'
+  PO: '13'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.937'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Phillips
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '104'
+  PO: '218'
+  A: '14'
+  E: '16'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stafford
+  nameClub1: Houston
+  Pos: LF
+  G: '10'
+  PO: '25'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Short
+  nameClub1: Shreveport
+  Pos: LF
+  G: '19'
+  PO: '27'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Czaplicki
+  nameClub1: Houston
+  Pos: LF
+  G: '15'
+  PO: '32'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Coleman
+  nameClub1: San Antonio
+  Pos: LF
+  G: '10'
+  PO: '10'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Redmond
+  nameClub1: Houston
+  throws: L
+  Pos: LF
+  G: '10'
+  PO: '11'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woyt
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '52'
+  PO: '67'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Landrum
+  nameClub1: Shreveport
+  Pos: RF
+  G: '43'
+  PO: '69'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: K.
+  nameClub1: San Antonio
+  Pos: RF
+  G: '33'
+  PO: '59'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Filo
+  nameClub1: Houston
+  Pos: RF
+  G: '34'
+  PO: '58'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mailho
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: RF
+  G: '30'
+  PO: '47'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: A.
+  nameClub1: Dallas
+  Pos: RF
+  G: '13'
+  PO: '27'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McQuillan
+  nameClub1: Dallas
+  Pos: RF
+  G: '14'
+  PO: '18'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nagel
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '13'
+  PO: '17'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morton
+  nameClub1: Houston
+  Pos: RF
+  G: '13'
+  PO: '16'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vezelich
+  nameClub1: Tulsa
+  Pos: RF
+  G: '62'
+  PO: '103'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.991'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Litzsinger
+  nameClub1: Shreveport
+  Pos: RF
+  G: '50'
+  PO: '87'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.989'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Basso
+  nameClub1: Houston
+  Pos: RF
+  G: '41'
+  PO: '60'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.985'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Coleman
+  nameClub1: San Antonio
+  Pos: RF
+  G: '112'
+  PO: '210'
+  A: '13'
+  E: '5'
+  DP: '5'
+  PCT: '.978'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Short
+  nameClub1: Shreveport
+  Pos: RF
+  G: '21'
+  PO: '36'
+  A: '0'
+  E: '1'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nowak
+  nameClub1: Dallas
+  throws: L
+  Pos: RF
+  G: '18'
+  PO: '31'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rogers
+  nameClub1: Beaumont
+  Pos: RF
+  G: '102'
+  PO: '144'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Crosby
+  nameClub1: Beaumont
+  Pos: RF
+  G: '45'
+  PO: '58'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reed
+  nameClub1: Dallas
+  Pos: RF
+  G: '15'
+  PO: '23'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Snider
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '63'
+  PO: '110'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Turner
+  nameFirst: G.
+  nameClub1: Houston
+  Pos: RF
+  G: '23'
+  PO: '66'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hale
+  nameClub1: Dallas
+  Pos: RF
+  G: '16'
+  PO: '18'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Santomauro
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '32'
+  PO: '35'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: J. P.
+  nameClub1: Dallas
+  nameClub2: Shreveport
+  Pos: RF
+  G: '37'
+  PO: '69'
+  A: '5'
+  E: '4'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Duezabou
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '100'
+  PO: '168'
+  A: '11'
+  E: '10'
+  DP: '6'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hirshon
+  nameClub1: Dallas
+  Pos: RF
+  G: '44'
+  PO: '67'
+  A: '5'
+  E: '4'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morgan
+  nameClub1: Tulsa
+  Pos: RF
+  G: '26'
+  PO: '34'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Greene
+  nameClub1: Tulsa
+  Pos: RF
+  G: '55'
+  PO: '92'
+  A: '6'
+  E: '6'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stumpf
+  nameClub1: Houston
+  Pos: RF
+  G: '10'
+  PO: '18'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carr
+  nameClub1: Dallas
+  throws: L
+  Pos: RF
+  G: '14'
+  PO: '12'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wright
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '12'
+  PO: '12'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bartkowski
+  nameClub1: Shreveport
+  Pos: RF
+  G: '10'
+  PO: '11'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.824'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kracher
+  nameClub1: Shreveport
+  Pos: C
+  G: '12'
+  PO: '51'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PB: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Muratore
+  nameClub1: Beaumont
+  Pos: C
+  G: '85'
+  PO: '388'
+  A: '49'
+  E: '3'
+  DP: '3'
+  PB: '8'
+  PCT: '.993'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Greene
+  nameClub1: Tulsa
+  Pos: C
+  G: '58'
+  PO: '208'
+  A: '29'
+  E: '2'
+  DP: '2'
+  PB: '9'
+  PCT: '.992'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pfister
+  nameClub1: Fort Worth
+  Pos: C
+  G: '116'
+  PO: '582'
+  A: '79'
+  E: '6'
+  DP: '11'
+  PB: '15'
+  PCT: '.991'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marshall
+  nameClub1: Houston
+  Pos: C
+  G: '33'
+  PO: '149'
+  A: '47'
+  E: '2'
+  DP: '2'
+  PB: '4'
+  PCT: '.989'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Zydowsky
+  nameClub1: Tulsa
+  nameClub2: Shreveport
+  Pos: C
+  G: '24'
+  PO: '75'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.989'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Castro
+  nameClub1: San Antonio
+  Pos: C
+  G: '27'
+  PO: '119'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PB: '2'
+  PCT: '.985'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Riebe
+  nameClub1: Dallas
+  Pos: C
+  G: '94'
+  PO: '448'
+  A: '50'
+  E: '9'
+  DP: '4'
+  PB: '12'
+  PCT: '.982'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Long
+  nameClub1: Fort Worth
+  Pos: C
+  G: '52'
+  PO: '281'
+  A: '22'
+  E: '6'
+  DP: '3'
+  PB: '4'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Easterwood
+  nameClub1: Tulsa
+  Pos: C
+  G: '69'
+  PO: '306'
+  A: '44'
+  E: '7'
+  DP: '4'
+  PB: '7'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burmeister
+  nameClub1: Houston
+  Pos: C
+  G: '62'
+  PO: '295'
+  A: '52'
+  E: '7'
+  DP: '4'
+  PB: '2'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Boger
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '69'
+  PO: '253'
+  A: '45'
+  E: '6'
+  DP: '3'
+  PB: '5'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mancuso
+  nameClub1: Tulsa
+  Pos: C
+  G: '36'
+  PO: '164'
+  A: '31'
+  E: '4'
+  DP: '3'
+  PB: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Murray
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '38'
+  PO: '156'
+  A: '41'
+  E: '4'
+  DP: '10'
+  PB: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sertich
+  nameClub1: San Antonio
+  Pos: C
+  G: '85'
+  PO: '380'
+  A: '42'
+  E: '9'
+  DP: '1'
+  PB: '6'
+  PCT: '.979'
+  TP: '2'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Skale
+  nameClub1: Shreveport
+  Pos: C
+  G: '51'
+  PO: '200'
+  A: '31'
+  E: '5'
+  DP: '6'
+  PB: '28'
+  PCT: '.979'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Finley
+  nameClub1: Shreveport
+  Pos: C
+  G: '70'
+  PO: '305'
+  A: '42'
+  E: '8'
+  DP: '4'
+  PB: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Houk
+  nameClub1: Beaumont
+  Pos: C
+  G: '74'
+  PO: '297'
+  A: '45'
+  E: '9'
+  DP: '8'
+  PB: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hill
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '53'
+  PO: '232'
+  A: '31'
+  E: '8'
+  DP: '7'
+  PB: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cola
+  nameClub1: Dallas
+  Pos: C
+  G: '21'
+  PO: '67'
+  A: '9'
+  E: '3'
+  DP: '3'
+  PB: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Storie
+  nameClub1: Dallas
+  Pos: C
+  G: '60'
+  PO: '253'
+  A: '27'
+  E: '10'
+  DP: '4'
+  PB: '7'
+  PCT: '.966'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Niedson
+  nameClub1: Houston
+  Pos: C
+  G: '70'
+  PO: '307'
+  A: '41'
+  E: '13'
+  DP: '7'
+  PB: '7'
+  PCT: '.964'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sears
+  nameClub1: San Antonio
+  Pos: C
+  G: '38'
+  PO: '181'
+  A: '34'
+  E: '8'
+  DP: '4'
+  PB: '4'
+  PCT: '.964'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Toncoff
+  nameClub1: Shreveport
+  Pos: C
+  G: '24'
+  PO: '97'
+  A: '24'
+  E: '5'
+  DP: '2'
+  PB: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Harshany
+  nameClub1: San Antonio
+  Pos: C
+  G: '22'
+  PO: '113'
+  A: '13'
+  E: '6'
+  DP: '1'
+  PB: '3'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Chandler
+  nameFirst: E.
+  nameClub1: Fort Worth
+  Pos: P
+  G: '35'
+  PO: '18'
+  A: '70'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lade
+  nameClub1: Shreveport
+  Pos: P
+  G: '32'
+  PO: '13'
+  A: '64'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hogue
+  nameClub1: Dallas
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '38'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dothager
+  nameClub1: Houston
+  nameClub2: Shreveport
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '32'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dorsett
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '47'
+  PO: '3'
+  A: '25'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Whitehead
+  nameClub1: San Antonio
+  Pos: P
+  G: '20'
+  PO: '7'
+  A: '20'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Trine
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '22'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Steinbach
+  nameClub1: Tulsa
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marleau
+  nameClub1: Beaumont
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: J. H.
+  nameClub1: Shreveport
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Eaves
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Harrison
+  nameClub1: Shreveport
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Beers
+  nameClub1: Houston
+  Pos: P
+  G: '32'
+  PO: '16'
+  A: '47'
+  E: '1'
+  DP: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Turner
+  nameFirst: J.
+  nameClub1: Beaumont
+  Pos: P
+  G: '17'
+  PO: '7'
+  A: '47'
+  E: '1'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Penso
+  nameClub1: Fort Worth
+  nameClub2: Tulsa
+  Pos: P
+  G: '36'
+  PO: '6'
+  A: '39'
+  E: '1'
+  DP: '4'
+  PCT: '.978'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stelmack
+  nameClub1: Beaumont
+  Pos: P
+  G: '25'
+  PO: '10'
+  A: '35'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pringle
+  nameClub1: Beaumont
+  Pos: P
+  G: '36'
+  PO: '7'
+  A: '38'
+  E: '1'
+  DP: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nelson
+  nameClub1: Houston
+  Pos: P
+  G: '30'
+  PO: '4'
+  A: '36'
+  E: '1'
+  DP: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jakucki
+  nameClub1: San Antonio
+  Pos: P
+  G: '36'
+  PO: '8'
+  A: '65'
+  E: '2'
+  DP: '3'
+  PCT: '.973'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Perry
+  nameClub1: Dallas
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '29'
+  E: '1'
+  DP: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williamson
+  nameClub1: Shreveport
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '57'
+  E: '2'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hatley
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '40'
+  PO: '5'
+  A: '27'
+  E: '1'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wilson
+  nameClub1: Dallas
+  Pos: P
+  G: '34'
+  PO: '14'
+  A: '47'
+  E: '2'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gilmore
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '26'
+  PO: '12'
+  A: '46'
+  E: '2'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Brunswick
+  nameClub1: Houston
+  Pos: P
+  G: '37'
+  PO: '10'
+  A: '45'
+  E: '2'
+  DP: '3'
+  PCT: '.965'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Eckhardt
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '22'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Garver
+  nameClub1: San Antonio
+  Pos: P
+  G: '25'
+  PO: '9'
+  A: '41'
+  E: '2'
+  DP: '3'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sorelle
+  nameClub1: San Antonio
+  Pos: P
+  G: '21'
+  PO: '5'
+  A: '20'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Oana
+  nameClub1: Dallas
+  Pos: P
+  G: '38'
+  PO: '9'
+  A: '62'
+  E: '3'
+  DP: '3'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stewart
+  nameFirst: W.
+  nameClub1: Tulsa
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '33'
+  E: '2'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Warren
+  nameClub1: Tulsa
+  Pos: P
+  G: '41'
+  PO: '15'
+  A: '46'
+  E: '3'
+  DP: '1'
+  PCT: '.953'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sumey
+  nameClub1: Houston
+  nameClub2: Tulsa
+  Pos: P
+  G: '39'
+  PO: '9'
+  A: '31'
+  E: '2'
+  DP: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Warchol
+  nameClub1: Houston
+  nameClub2: Oklahoma City
+  Pos: P
+  G: '33'
+  PO: '2'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Swift
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '34'
+  E: '2'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Studener
+  nameClub1: Houston
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '44'
+  E: '3'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pullig
+  nameClub1: Dallas
+  Pos: P
+  G: '28'
+  PO: '8'
+  A: '26'
+  E: '2'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jeffcoat
+  nameClub1: Tulsa
+  nameClub2: Shreveport
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '15'
+  E: '1'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wagener
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '41'
+  E: '3'
+  DP: '1'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gillespie
+  nameClub1: Dallas
+  Pos: P
+  G: '32'
+  PO: '10'
+  A: '52'
+  E: '4'
+  DP: '5'
+  PCT: '.939'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dockins
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '26'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bianco
+  nameClub1: Beaumont
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '26'
+  E: '2'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Shreveport
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '28'
+  E: '2'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Eisenmann
+  nameClub1: Tulsa
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.937'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Houtz
+  nameClub1: Beaumont
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.937'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Zachary
+  nameClub1: Fort Worth
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '37'
+  E: '3'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mistele
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Robinson
+  nameClub1: Beaumont
+  Pos: P
+  G: '27'
+  PO: '14'
+  A: '39'
+  E: '4'
+  DP: '2'
+  PCT: '.930'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Altizer
+  nameClub1: Dallas
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCabe
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '32'
+  E: '3'
+  DP: '2'
+  PCT: '.927'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Samaklis
+  nameClub1: Fort Worth
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Todd
+  nameClub1: Beaumont
+  Pos: P
+  G: '39'
+  PO: '4'
+  A: '20'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Karas
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cole
+  nameClub1: San Antonio
+  Pos: P
+  G: '30'
+  PO: '5'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Paepke
+  nameClub1: Fort Worth
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sanchez
+  nameClub1: Houston
+  nameClub2: Shreveport
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marcum
+  nameClub1: San Antonio
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Perme
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reeder
+  nameClub1: Shreveport
+  Pos: P
+  G: '34'
+  PO: '10'
+  A: '23'
+  E: '4'
+  DP: '3'
+  PCT: '.892'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lentz
+  nameClub1: Tulsa
+  Pos: P
+  G: '38'
+  PO: '2'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Koch
+  nameClub1: Houston
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Harrington
+  nameClub1: Tulsa
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ramsdell
+  nameClub1: Fort Worth
+  Pos: P
+  G: '31'
+  PO: '10'
+  A: '52'
+  E: '8'
+  DP: '3'
+  PCT: '.886'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Clark
+  nameClub1: Beaumont
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '32'
+  E: '5'
+  DP: '1'
+  PCT: '.886'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Van Cuyk
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '4'
+  A: '19'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Orrell
+  nameClub1: Dallas
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '25'
+  E: '4'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vargas
+  nameClub1: Shreveport
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '13'
+  E: '3'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schuchmann
+  nameClub1: Houston
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '15'
+  E: '3'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Iott
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '2'
+  A: '15'
+  E: '3'
+  DP: '0'
+  PCT: '.850'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gann
+  nameClub1: Shreveport
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '16'
+  E: '4'
+  DP: '1'
+  PCT: '.845'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Messerly
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Boles
+  nameClub1: Fort Worth
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '27'
+  E: '6'
+  DP: '2'
+  PCT: '.829'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCrabb
+  nameClub1: Tulsa
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '22'
+  E: '6'
+  DP: '3'
+  PCT: '.812'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sproull
+  nameClub1: Houston
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kracher
+  nameClub1: Shreveport
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Alford
+  nameClub1: Tulsa
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ankenman
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.500'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Anske
+  nameClub1: Beaumont
+  Pos: C
+  G: '3'
+  PO: '7'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Baker
+  nameClub1: Beaumont
+  Pos: P
+  G: '6'
+  PO: '0'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Basgall
+  nameClub1: Fort Worth
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bean
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '9'
+  PO: '12'
+  A: '23'
+  E: '1'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bell
+  nameFirst: L.
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '8'
+  PO: '35'
+  A: '1'
+  E: '2'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bell
+  nameFirst: L.
+  nameClub1: San Antonio
+  Pos: LF
+  G: '3'
+  PO: '4'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bell
+  nameFirst: L.
+  nameClub1: San Antonio
+  Pos: CF
+  G: '9'
+  PO: '26'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bergerson
+  nameFirst: L.
+  nameClub1: Beaumont
+  Pos: P
+  G: '2'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Berry
+  nameClub1: Shreveport
+  Pos: 1B
+  G: '2'
+  PO: '24'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.839'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Berry
+  nameClub1: Shreveport
+  Pos: RF
+  G: '3'
+  PO: '6'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bertram
+  nameClub1: Tulsa
+  Pos: P
+  G: '4'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bickhaus
+  nameClub1: San Antonio
+  Pos: P
+  G: '8'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bielemeier
+  nameClub1: Fort Worth
+  Pos: P
+  G: '4'
+  PO: '1'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bilbrey
+  nameClub1: San Antonio
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Blackwood
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '7'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bogard
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '7'
+  PO: '18'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Boger
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Boger
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Brack
+  nameClub1: Oklahoma City
+  Pos: 1B
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Brack
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '3'
+  PO: '3'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Branch
+  nameClub1: Beaumont
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Braun
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '2'
+  PO: '1'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burchfield
+  nameClub1: Shreveport
+  Pos: P
+  G: '3'
+  PO: '3'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.750'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burich
+  nameClub1: Houston
+  Pos: SS
+  G: '2'
+  PO: '6'
+  A: '2'
+  E: '4'
+  DP: '1'
+  PCT: '.667'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Buzolich
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.500'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bytnar
+  nameClub1: Shreveport
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Capps
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '5'
+  PO: '9'
+  A: '14'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carlson
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '1'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carlson
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '2'
+  PO: '4'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carlson
+  nameClub1: Tulsa
+  Pos: SS
+  G: '1'
+  PO: '6'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carr
+  nameFirst: L.
+  nameClub1: Dallas
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carswell
+  nameClub1: Dallas
+  Pos: LF
+  G: '2'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carswell
+  nameClub1: Dallas
+  Pos: RF
+  G: '9'
+  PO: '18'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cassini
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '4'
+  PO: '3'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Chander
+  nameFirst: R.
+  nameClub1: Dallas
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Chlebeck
+  nameClub1: Shreveport
+  Pos: LF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Christie
+  nameClub1: Shreveport
+  Pos: P
+  G: '6'
+  PO: '0'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cola
+  nameClub1: Dallas
+  Pos: LF
+  G: '2'
+  PO: '3'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collett
+  nameClub1: Houston
+  Pos: SS
+  G: '9'
+  PO: '5'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collett
+  nameClub1: Houston
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: D.
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '3'
+  PO: '4'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: F.
+  nameClub1: Beaumont
+  Pos: P
+  G: '4'
+  PO: '7'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: F.
+  nameClub1: Beaumont
+  Pos: RF
+  G: '8'
+  PO: '12'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Conatser
+  nameClub1: Dallas
+  Pos: RF
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Conn
+  nameClub1: Shreveport
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cookson
+  nameClub1: Tulsa
+  Pos: CF
+  G: '3'
+  PO: '5'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cookson
+  nameClub1: Tulsa
+  Pos: RF
+  G: '4'
+  PO: '8'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Corridon
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '5'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Costello
+  nameClub1: Fort Worth
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Croucher
+  nameClub1: San Antonio
+  Pos: SS
+  G: '6'
+  PO: '9'
+  A: '8'
+  E: '3'
+  DP: '1'
+  PCT: '.850'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cwik
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Czaplicki
+  nameClub1: Houston
+  Pos: CF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Daniels
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '9'
+  PO: '13'
+  A: '20'
+  E: '1'
+  DP: '2'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Daniels
+  nameClub1: Shreveport
+  Pos: SS
+  G: '4'
+  PO: '11'
+  A: '16'
+  E: '2'
+  DP: '4'
+  PCT: '.931'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Daniels
+  nameClub1: Shreveport
+  Pos: RF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: A.
+  nameClub1: Dallas
+  Pos: 3B
+  G: '3'
+  PO: '4'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: G.
+  nameClub1: Houston
+  Pos: 2B
+  G: '6'
+  PO: '14'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: O.
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '5'
+  PO: '2'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.500'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: W.
+  nameClub1: Beaumont
+  Pos: P
+  G: '4'
+  PO: '0'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Deese
+  nameClub1: Houston
+  Pos: 2B
+  G: '6'
+  PO: '13'
+  A: '13'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Deese
+  nameClub1: Houston
+  Pos: 3B
+  G: '3'
+  PO: '1'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Deese
+  nameClub1: Houston
+  Pos: SS
+  G: '4'
+  PO: '4'
+  A: '13'
+  E: '7'
+  DP: '0'
+  PCT: '.708'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Deets
+  nameClub1: Dallas
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Demma
+  nameClub1: Shreveport
+  Pos: C
+  G: '6'
+  PO: '27'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: DeVincenzi
+  nameClub1: Beaumont
+  Pos: CF
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: DeVincenzi
+  nameClub1: Beaumont
+  Pos: RF
+  G: '5'
+  PO: '4'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Devlin
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '7'
+  PO: '23'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Devlin
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dockins
+  nameClub1: Fort Worth
+  throws: L
+  Pos: 1B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Donaldson
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '8'
+  PO: '9'
+  A: '12'
+  E: '1'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Donovan
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '1'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Donovan
+  nameClub1: Tulsa
+  Pos: RF
+  G: '2'
+  PO: '3'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dotlich
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: CF
+  G: '4'
+  PO: '3'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dotlich
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: RF
+  G: '5'
+  PO: '5'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Duezabou
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '3'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Duezabou
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '3'
+  PO: '10'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Early
+  nameClub1: Tulsa
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Eckhardt
+  nameClub1: Shreveport
+  throws: L
+  Pos: LF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ehrensberger
+  nameClub1: Beaumont
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Elko
+  nameClub1: Shreveport
+  Pos: SS
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Emmertson
+  nameClub1: Beaumont
+  Pos: P
+  G: '3'
+  PO: '3'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Errante
+  nameClub1: Dallas
+  Pos: P
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Finger
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '2'
+  PO: '1'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Finley
+  nameClub1: Shreveport
+  Pos: LF
+  G: '6'
+  PO: '12'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Finley
+  nameClub1: Shreveport
+  Pos: RF
+  G: '1'
+  PO: '3'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Flager
+  nameClub1: Shreveport
+  Pos: SS
+  G: '5'
+  PO: '7'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Forrest
+  nameClub1: Dallas
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Fowle
+  nameClub1: Beaumont
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Galle
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '7'
+  PO: '2'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gann
+  nameClub1: Shreveport
+  Pos: LF
+  G: '2'
+  PO: '3'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Garver
+  nameClub1: San Antonio
+  Pos: RF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gautreaux
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '8'
+  PO: '33'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Goletz
+  nameClub1: Shreveport
+  nameClub2: Oklahoma City
+  Pos: P
+  G: '3'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Goletz
+  nameClub1: Shreveport
+  nameClub2: Oklahoma City
+  Pos: 1B
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gorbould
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '5'
+  PO: '6'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Greer
+  nameClub1: Beaumont
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gudger
+  nameClub1: Houston
+  Pos: P
+  G: '3'
+  PO: '2'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hajduk
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '9'
+  PO: '15'
+  A: '17'
+  E: '2'
+  DP: '4'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hale
+  nameClub1: Dallas
+  Pos: CF
+  G: '3'
+  PO: '3'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hampton
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '4'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Haney
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Haney
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '4'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hanyzewski
+  nameClub1: Tulsa
+  Pos: P
+  G: '8'
+  PO: '2'
+  A: '11'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Helm
+  nameClub1: Shreveport
+  Pos: LF
+  G: '3'
+  PO: '5'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Helm
+  nameClub1: Shreveport
+  Pos: RF
+  G: '9'
+  PO: '24'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Heitman
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Heitzel
+  nameClub1: Shreveport
+  Pos: SS
+  G: '4'
+  PO: '4'
+  A: '11'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hicks
+  nameClub1: Tulsa
+  throws: L
+  Pos: P
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hile
+  nameClub1: Houston
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hill
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hittle
+  nameClub1: Beaumont
+  Pos: P
+  G: '8'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hoeman
+  nameClub1: Shreveport
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Houk
+  nameClub1: Beaumont
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hresko
+  nameClub1: Dallas
+  Pos: 3B
+  G: '4'
+  PO: '3'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hresko
+  nameClub1: Dallas
+  Pos: LF
+  G: '7'
+  PO: '9'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hresko
+  nameClub1: Dallas
+  Pos: RF
+  G: '4'
+  PO: '7'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Janicek
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '1'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Janicek
+  nameClub1: San Antonio
+  throws: L
+  Pos: RF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jeske
+  nameClub1: Shreveport
+  Pos: SS
+  G: '2'
+  PO: '8'
+  A: '6'
+  E: '1'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Karas
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Keane
+  nameClub1: Houston
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kielas
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kimmett
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.667'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: King
+  nameClub1: Beaumont
+  Pos: LF
+  G: '3'
+  PO: '10'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: King
+  nameClub1: Beaumont
+  Pos: CF
+  G: '5'
+  PO: '12'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: King
+  nameClub1: Beaumont
+  Pos: RF
+  G: '3'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kneupper
+  nameClub1: Shreveport
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Knoblauch
+  nameClub1: Houston
+  throws: L
+  Pos: RF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Knowles
+  nameClub1: Tulsa
+  Pos: P
+  G: '7'
+  PO: '3'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Koby
+  nameClub1: Houston
+  Pos: P
+  G: '9'
+  PO: '0'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Korte
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '1'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kracher
+  nameClub1: Shreveport
+  Pos: LF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kraus
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '1'
+  PO: '9'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kraus
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '9'
+  PO: '10'
+  A: '18'
+  E: '7'
+  DP: '1'
+  PCT: '.800'
+  TP: '1'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kraus
+  nameClub1: San Antonio
+  Pos: LF
+  G: '3'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kraus
+  nameClub1: San Antonio
+  Pos: RF
+  G: '2'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kubicek
+  nameClub1: Houston
+  Pos: C
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kunde
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: 1B
+  G: '9'
+  PO: '67'
+  A: '3'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lade
+  nameClub1: Shreveport
+  Pos: CF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: LaMacchia
+  nameClub1: San Antonio
+  Pos: P
+  G: '8'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lamitina
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '3'
+  PO: '13'
+  A: '6'
+  E: '2'
+  DP: '2'
+  PCT: '.905'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lammers
+  nameClub1: Tulsa
+  Pos: P
+  G: '8'
+  PO: '0'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Landrum
+  nameClub1: Shreveport
+  Pos: LF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lentz
+  nameClub1: Tulsa
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Litzsinger
+  nameClub1: Shreveport
+  Pos: LF
+  G: '9'
+  PO: '12'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Litzsinger
+  nameClub1: Shreveport
+  Pos: CF
+  G: '4'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lowe
+  nameClub1: Houston
+  Pos: LF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Louthen
+  nameClub1: Beaumont
+  Pos: P
+  G: '9'
+  PO: '3'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCabe
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCluskey
+  nameClub1: Fort Worth
+  Pos: 1B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McGarity
+  nameClub1: San Antonio
+  Pos: C
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McKinney
+  nameClub1: Beaumont
+  Pos: P
+  G: '7'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McLaughlin
+  nameClub1: Shreveport
+  Pos: P
+  G: '7'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McMillan
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '3'
+  PO: '6'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McMillan
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '2'
+  PO: '4'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McNair
+  nameClub1: Shreveport
+  Pos: SS
+  G: '6'
+  PO: '6'
+  A: '9'
+  E: '4'
+  DP: '3'
+  PCT: '.789'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McQuillan
+  nameClub1: Dallas
+  Pos: LF
+  G: '6'
+  PO: '9'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McQuillan
+  nameClub1: Dallas
+  Pos: CF
+  G: '1'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Madrid
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mailho
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: LF
+  G: '2'
+  PO: '6'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mancuso
+  nameClub1: Tulsa
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mandish
+  nameClub1: Shreveport
+  Pos: LF
+  G: '8'
+  PO: '12'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Manjack
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Maribito
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Markland
+  nameClub1: Dallas
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marnie
+  nameClub1: Houston
+  Pos: 1B
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mazur
+  nameClub1: Shreveport
+  Pos: SS
+  G: '7'
+  PO: '10'
+  A: '27'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Meyers
+  nameClub1: Dallas
+  Pos: LF
+  G: '6'
+  PO: '10'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Milani
+  nameClub1: Beaumont
+  Pos: 1B
+  G: '5'
+  PO: '54'
+  A: '5'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Milani
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Miller
+  nameClub1: Oklahoma City
+  nameClub2: Tulsa
+  Pos: P
+  G: '4'
+  PO: '0'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mills
+  nameClub1: Dallas
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mohrlock
+  nameClub1: Houston
+  Pos: P
+  G: '7'
+  PO: '3'
+  A: '12'
+  E: '2'
+  DP: '2'
+  PCT: '.882'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moran
+  nameClub1: Dallas
+  Pos: 2B
+  G: '3'
+  PO: '9'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moran
+  nameClub1: Dallas
+  Pos: SS
+  G: '1'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morjoseph
+  nameClub1: San Antonio
+  Pos: RF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.333'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morton
+  nameClub1: Houston
+  Pos: LF
+  G: '4'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moser
+  nameClub1: Houston
+  Pos: RF
+  G: '8'
+  PO: '12'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameFirst: E.
+  nameClub1: Shreveport
+  nameClub2: Houston
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameFirst: W.
+  nameClub1: Tulsa
+  nameClub2: Dallas
+  Pos: CF
+  G: '8'
+  PO: '25'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameFirst: W.
+  nameClub1: Tulsa
+  nameClub2: Dallas
+  Pos: RF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Muffaletto
+  nameClub1: Beaumont
+  Pos: SS
+  G: '5'
+  PO: '0'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.667'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Murphy
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '7'
+  PO: '18'
+  A: '22'
+  E: '2'
+  DP: '3'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Murphy
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.500'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Murphy
+  nameClub1: Shreveport
+  Pos: SS
+  G: '2'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Musser
+  nameClub1: Beaumont
+  Pos: LF
+  G: '4'
+  PO: '7'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nagel
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nagel
+  nameClub1: Oklahoma City
+  Pos: 1B
+  G: '6'
+  PO: '26'
+  A: '3'
+  E: '1'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nagel
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '3'
+  PO: '5'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nagel
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '8'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Naranjo
+  nameClub1: San Antonio
+  Pos: C
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.500'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Naranjo
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '3'
+  PO: '2'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.667'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Naranjo
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '2'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Naranjo
+  nameClub1: San Antonio
+  Pos: RF
+  G: '6'
+  PO: '5'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Niedson
+  nameClub1: Houston
+  Pos: RF
+  G: '9'
+  PO: '24'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Oana
+  nameClub1: Dallas
+  Pos: LF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Oana
+  nameClub1: Dallas
+  Pos: RF
+  G: '3'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ogle
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ogle
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '7'
+  PO: '7'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Okrie
+  nameClub1: San Antonio
+  Pos: CF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Okrie
+  nameClub1: San Antonio
+  Pos: RF
+  G: '3'
+  PO: '5'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ortiz
+  nameClub1: Houston
+  Pos: 3B
+  G: '3'
+  PO: '5'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.625'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Paepke
+  nameClub1: Fort Worth
+  Pos: C
+  G: '1'
+  PO: '3'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Paepke
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Paynter
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '6'
+  PO: '3'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Penso
+  nameClub1: Fort Worth
+  nameClub2: Tulsa
+  Pos: RF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pepper
+  nameClub1: Beaumont
+  Pos: P
+  G: '3'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pfister
+  nameClub1: Fort Worth
+  Pos: 1B
+  G: '1'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pfister
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pfister
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Piercey
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '6'
+  PO: '5'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Powaski
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '1'
+  PO: '2'
+  A: '2'
+  E: '1'
+  DP: '2'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Powaski
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '3'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Powaski
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '3'
+  PO: '8'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Redmond
+  nameClub1: Houston
+  Pos: CF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Redmond
+  nameClub1: Houston
+  Pos: RF
+  G: '9'
+  PO: '16'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reed
+  nameFirst: H.
+  nameClub1: Houston
+  Pos: RF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reed
+  nameFirst: T.
+  nameClub1: Dallas
+  Pos: 3B
+  G: '5'
+  PO: '2'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reed
+  nameFirst: T.
+  nameClub1: Dallas
+  Pos: SS
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reed
+  nameFirst: T.
+  nameClub1: Dallas
+  Pos: LF
+  G: '5'
+  PO: '3'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reisinger
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '5'
+  PO: '8'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reisinger
+  nameClub1: Shreveport
+  Pos: RF
+  G: '3'
+  PO: '8'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Riebe
+  nameClub1: Dallas
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rogers
+  nameClub1: Beaumont
+  Pos: SS
+  G: '1'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rogers
+  nameClub1: Beaumont
+  Pos: CF
+  G: '6'
+  PO: '7'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rooney
+  nameClub1: Dallas
+  Pos: RF
+  G: '3'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ruchser
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rundus
+  nameClub1: Houston
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sakas
+  nameClub1: Shreveport
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scepkowski
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scepkowski
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schalk
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '2'
+  PO: '3'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scheiwe
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scheiwe
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schenz
+  nameClub1: Tulsa
+  Pos: RF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schoendienst
+  nameClub1: Houston
+  Pos: 3B
+  G: '4'
+  PO: '8'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.812'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schultz
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '3'
+  PO: '5'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scotti
+  nameClub1: Houston
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sears
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '8'
+  PO: '47'
+  A: '0'
+  E: '1'
+  DP: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Short
+  nameClub1: Shreveport
+  Pos: CF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Shroba
+  nameClub1: Houston
+  Pos: P
+  G: '7'
+  PO: '3'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sidaris
+  nameClub1: Shreveport
+  Pos: SS
+  G: '4'
+  PO: '3'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sidaris
+  nameClub1: Shreveport
+  Pos: LF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Simoninis
+  nameClub1: Shreveport
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Skeen
+  nameClub1: Tulsa
+  throws: L
+  Pos: RF
+  G: '8'
+  PO: '11'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Smith
+  nameClub1: Tulsa
+  Pos: C
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '7'
+  PO: '5'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameClub1: Tulsa
+  Pos: RF
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sommerer
+  nameClub1: Houston
+  Pos: P
+  G: '9'
+  PO: '0'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stafford
+  nameClub1: Houston
+  Pos: RF
+  G: '3'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stalder
+  nameClub1: San Antonio
+  Pos: P
+  G: '5'
+  PO: '2'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stevenson
+  nameClub1: Shreveport
+  Pos: P
+  G: '4'
+  PO: '0'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stewart
+  nameFirst: H.
+  nameClub1: Tulsa
+  Pos: P
+  G: '6'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stockwell
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: 1B
+  G: '3'
+  PO: '22'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stockwell
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Storie
+  nameClub1: Dallas
+  Pos: RF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Strezza
+  nameClub1: Shreveport
+  Pos: 1B
+  G: '6'
+  PO: '46'
+  A: '3'
+  E: '2'
+  DP: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stroupe
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '7'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameFirst: J.
+  nameClub1: Dallas
+  Pos: SS
+  G: '8'
+  PO: '15'
+  A: '23'
+  E: '6'
+  DP: '2'
+  PCT: '.864'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameFirst: W.
+  nameClub1: Shreveport
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sutak
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sutak
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sutak
+  nameClub1: Tulsa
+  Pos: SS
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Tart
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '3'
+  PO: '2'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Tate
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '6'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Tebrinke
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '5'
+  PO: '1'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.500'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Toncoff
+  nameClub1: Shreveport
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Turner
+  nameFirst: J.
+  nameClub1: Beaumont
+  Pos: C
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Uhle
+  nameClub1: Dallas
+  Pos: P
+  G: '4'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vargas
+  nameClub1: Shreveport
+  Pos: C
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vargas
+  nameClub1: Shreveport
+  Pos: LF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vincent
+  nameClub1: Dallas
+  Pos: P
+  G: '1'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vincent
+  nameClub1: Dallas
+  Pos: C
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vincent
+  nameClub1: Dallas
+  Pos: 1B
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vincent
+  nameClub1: Dallas
+  Pos: 2B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vincent
+  nameClub1: Dallas
+  Pos: 3B
+  G: '2'
+  PO: '1'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vincent
+  nameClub1: Dallas
+  Pos: SS
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vezelich
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '1'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Weaver
+  nameClub1: Shreveport
+  Pos: P
+  G: '8'
+  PO: '1'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Weingartner
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '4'
+  PO: '7'
+  A: '8'
+  E: '6'
+  DP: '0'
+  PCT: '.714'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: Don
+  nameClub1: Houston
+  throws: L
+  Pos: RF
+  G: '7'
+  PO: '8'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: Doug
+  nameClub1: Houston
+  Pos: LF
+  G: '6'
+  PO: '11'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: Doug
+  nameClub1: Houston
+  Pos: C
+  G: '1'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: Doug
+  nameClub1: Houston
+  Pos: RF
+  G: '3'
+  PO: '4'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: W.
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wilemon
+  nameClub1: Dallas
+  Pos: LF
+  G: '5'
+  PO: '3'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameFirst: R.
+  nameClub1: Houston
+  Pos: 1B
+  G: '2'
+  PO: '18'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameFirst: W.
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '1'
+  PO: '7'
+  A: '21'
+  E: '3'
+  DP: '3'
+  PCT: '.903'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameFirst: W.
+  nameClub1: Beaumont
+  Pos: LF
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameFirst: W.
+  nameClub1: Beaumont
+  Pos: RF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wotowski
+  nameClub1: Shreveport
+  Pos: LF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wotowski
+  nameClub1: Shreveport
+  Pos: RF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woldt
+  nameClub1: Dallas
+  Pos: 3B
+  G: '3'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woldt
+  nameClub1: Dallas
+  Pos: LF
+  G: '4'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woldt
+  nameClub1: Dallas
+  Pos: CF
+  G: '1'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woldt
+  nameClub1: Dallas
+  Pos: RF
+  G: '6'
+  PO: '6'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woyt
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '2'
+  PO: '6'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wright
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '2'
+  PO: '2'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.600'
+  TP: '0'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Yaeger
+  nameClub1: Fort Worth
+  throws: L
+  Pos: CF
+  G: '3'
+  PO: '8'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'

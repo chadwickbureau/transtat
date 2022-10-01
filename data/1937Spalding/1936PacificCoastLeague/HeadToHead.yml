@@ -1,0 +1,80 @@
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  Oakland: '15'
+  San Diego: '10'
+  Seattle: '12'
+  Los Angeles: '17'
+  Mission: '12'
+  San Francisco: '14'
+  Sacramento: '16'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  Portland: '13'
+  San Diego: '11'
+  Seattle: '11'
+  Los Angeles: '14'
+  Mission: '18'
+  San Francisco: '12'
+  Sacramento: '16'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  Portland: '12'
+  Oakland: '17'
+  Seattle: '9'
+  Los Angeles: '10'
+  Mission: '13'
+  San Francisco: '14'
+  Sacramento: '20'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  Portland: '10'
+  Oakland: '14'
+  San Diego: '11'
+  Los Angeles: '14'
+  Mission: '9'
+  San Francisco: '17'
+  Sacramento: '18'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  Portland: '13'
+  Oakland: '8'
+  San Diego: '15'
+  Seattle: '14'
+  Mission: '16'
+  San Francisco: '11'
+  Sacramento: '11'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Mission
+  Portland: '8'
+  Oakland: '12'
+  San Diego: '8'
+  Seattle: '13'
+  Los Angeles: '14'
+  San Francisco: '15'
+  Sacramento: '18'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  Portland: '14'
+  Oakland: '8'
+  San Diego: '16'
+  Seattle: '13'
+  Los Angeles: '10'
+  Mission: '10'
+  Sacramento: '12'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  Portland: '9'
+  Oakland: '7'
+  San Diego: '10'
+  Seattle: '10'
+  Los Angeles: '9'
+  Mission: '10'
+  San Francisco: '10'

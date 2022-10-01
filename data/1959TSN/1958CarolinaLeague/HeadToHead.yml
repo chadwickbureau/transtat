@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: Danville
+  High Point-Thomasville: '10'
+  Greensboro: '10'
+  Burlington: '9'
+  Winston-Salem: '11'
+  Raleigh: '12'
+  Wilson: '14'
+  Durham: '14'
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  Danville: '10'
+  Greensboro: '9'
+  Burlington: '10'
+  Winston-Salem: '14'
+  Raleigh: '9'
+  Wilson: '15'
+  Durham: '9'
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  Danville: '9'
+  High Point-Thomasville: '11'
+  Burlington: '10'
+  Winston-Salem: '8'
+  Raleigh: '13'
+  Wilson: '12'
+  Durham: '12'
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  Danville: '11'
+  High Point-Thomasville: '9'
+  Greensboro: '10'
+  Winston-Salem: '10'
+  Raleigh: '6'
+  Wilson: '12'
+  Durham: '12'
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  Danville: '9'
+  High Point-Thomasville: '6'
+  Greensboro: '12'
+  Burlington: '10'
+  Raleigh: '11'
+  Wilson: '8'
+  Durham: '13'
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  Danville: '8'
+  High Point-Thomasville: '11'
+  Greensboro: '7'
+  Burlington: '12'
+  Winston-Salem: '8'
+  Wilson: '7'
+  Durham: '10'
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: Wilson
+  Danville: '6'
+  High Point-Thomasville: '5'
+  Greensboro: '8'
+  Burlington: '8'
+  Winston-Salem: '11'
+  Raleigh: '13'
+  Durham: '9'
+- year: '1958'
+  nameLeague: Carolina League
+  nameClub: Durham
+  Danville: '6'
+  High Point-Thomasville: '11'
+  Greensboro: '8'
+  Burlington: '8'
+  Winston-Salem: '6'
+  Raleigh: '9'
+  Wilson: '10'

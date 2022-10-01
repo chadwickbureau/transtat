@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  Durham: '12'
+  Danville: '12'
+  Fayetteville: '7'
+  Greensboro: '13'
+  Wilson: '15'
+  Kinston: '15'
+  Winston-Salem: '17'
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: Durham
+  High Point-Thomasville: '10'
+  Danville: '10'
+  Fayetteville: '10'
+  Greensboro: '10'
+  Wilson: '14'
+  Kinston: '13'
+  Winston-Salem: '17'
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: Danville
+  High Point-Thomasville: '10'
+  Durham: '12'
+  Fayetteville: '14'
+  Greensboro: '13'
+  Wilson: '9'
+  Kinston: '13'
+  Winston-Salem: '12'
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: Fayetteville
+  High Point-Thomasville: '15'
+  Durham: '11'
+  Danville: '8'
+  Greensboro: '13'
+  Wilson: '11'
+  Kinston: '11'
+  Winston-Salem: '9'
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  High Point-Thomasville: '9'
+  Durham: '12'
+  Danville: '9'
+  Fayetteville: '9'
+  Wilson: '11'
+  Kinston: '12'
+  Winston-Salem: '13'
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: Wilson
+  High Point-Thomasville: '7'
+  Durham: '8'
+  Danville: '11'
+  Fayetteville: '11'
+  Greensboro: '11'
+  Kinston: '10'
+  Winston-Salem: '14'
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: Kinston
+  High Point-Thomasville: '7'
+  Durham: '9'
+  Danville: '9'
+  Fayetteville: '11'
+  Greensboro: '10'
+  Wilson: '11'
+  Winston-Salem: '9'
+- year: '1956'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  High Point-Thomasville: '5'
+  Durham: '5'
+  Danville: '10'
+  Fayetteville: '9'
+  Greensboro: '9'
+  Wilson: '8'
+  Kinston: '13'

@@ -1,0 +1,110 @@
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: regular
+  W: '90'
+  L: '48'
+  PCT: '.652'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Brewton
+  phase: regular
+  W: '78'
+  L: '59'
+  PCT: '.569'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Enterprise
+  phase: regular
+  W: '77'
+  L: '61'
+  PCT: '.558'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Dothan
+  phase: regular
+  W: '69'
+  L: '70'
+  PCT: '.496'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Andalusia
+  phase: regular
+  W: '67'
+  L: '71'
+  PCT: '.486'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Ozark
+  phase: regular
+  W: '65'
+  L: '74'
+  PCT: '.468'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Troy
+  phase: regular
+  W: '58'
+  L: '80'
+  PCT: '.420'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Geneva
+  phase: regular
+  W: '49'
+  L: '90'
+  PCT: '.353'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Enterprise
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Brewton
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Dothan
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Alabama State League
+  nameClub: Brewton
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

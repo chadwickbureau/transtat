@@ -1,0 +1,48 @@
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  Tucson: '9'
+  Nogales: '17'
+  Chihuahua: '14'
+  Juarez: '16'
+  Mexicali: '12'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  Douglas: '15'
+  Nogales: '12'
+  Chihuahua: '15'
+  Juarez: '13'
+  Mexicali: '11'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Nogales
+  Douglas: '7'
+  Tucson: '12'
+  Chihuahua: '11'
+  Juarez: '14'
+  Mexicali: '15'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Chihuahua
+  Douglas: '10'
+  Tucson: '9'
+  Nogales: '12'
+  Juarez: '10'
+  Mexicali: '15'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Juarez
+  Douglas: '8'
+  Tucson: '11'
+  Nogales: '10'
+  Chihuahua: '13'
+  Mexicali: '13'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  Douglas: '12'
+  Tucson: '13'
+  Nogales: '8'
+  Chihuahua: '9'
+  Juarez: '11'

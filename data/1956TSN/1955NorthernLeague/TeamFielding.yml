@@ -1,0 +1,88 @@
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  G: '124'
+  DP: '120'
+  PB: '24'
+  PO: '3236'
+  A: '1357'
+  E: '204'
+  PCT: '.957'
+  TP: '0'
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  G: '126'
+  DP: '116'
+  PB: '30'
+  PO: '3295'
+  A: '1448'
+  E: '226'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  G: '125'
+  DP: '111'
+  PB: '18'
+  PO: '3297'
+  A: '1385'
+  E: '230'
+  PCT: '.953'
+  TP: '1'
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  G: '125'
+  DP: '93'
+  PB: '14'
+  PO: '3345'
+  A: '1297'
+  E: '228'
+  PCT: '.953'
+  TP: '0'
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: Duluth
+  G: '125'
+  DP: '112'
+  PB: '10'
+  PO: '3209'
+  A: '1301'
+  E: '231'
+  PCT: '.951'
+  TP: '0'
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  G: '126'
+  DP: '103'
+  PB: '15'
+  PO: '3285'
+  A: '1441'
+  E: '245'
+  PCT: '.951'
+  TP: '2'
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: Superior
+  G: '123'
+  DP: '76'
+  PB: '19'
+  PO: '3227'
+  A: '114'
+  E: '236'
+  PCT: '.949'
+  TP: '0'
+- year: '1955'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  G: '124'
+  DP: '116'
+  PB: '36'
+  PO: '3181'
+  A: '1397'
+  E: '293'
+  PCT: '.940'
+  TP: '0'

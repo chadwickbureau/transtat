@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Stroudsburg
+  phase: regular
+  W: '101'
+  L: '36'
+  T: '0'
+  PCT: '.737'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Lebanon
+  phase: regular
+  W: '80'
+  L: '56'
+  T: '2'
+  PCT: '.588'
+  RANK: '2'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Mahanoy City
+  phase: regular
+  W: '71'
+  L: '63'
+  T: '1'
+  PCT: '.530'
+  RANK: '3'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Peekskill
+  phase: regular
+  W: '64'
+  L: '75'
+  T: '0'
+  PCT: '.460'
+  RANK: '4'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Carbondale
+  phase: regular
+  W: '63'
+  L: '76'
+  T: '1'
+  PCT: '.453'
+  RANK: '5'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Bangor
+  phase: regular
+  W: '59'
+  L: '75'
+  T: '1'
+  PCT: '.440'
+  RANK: '6'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Hazleton
+  phase: regular
+  W: '53'
+  L: '76'
+  T: '0'
+  PCT: '.411'
+  RANK: '7'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Nazareth
+  phase: regular
+  W: '52'
+  L: '86'
+  T: '1'
+  PCT: '.377'
+  RANK: '8'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Stroudsburg
+  phase: semifinals
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Mahanoy City
+  phase: semifinals
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Peekskill
+  phase: semifinals
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Lebanon
+  phase: semifinals
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Stroudsburg
+  phase: finals
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Atlantic League
+  nameClub: Peekskill
+  phase: finals
+  W: '2'
+  L: '3'
+  PCT: '.333'
+  RANK: '2'

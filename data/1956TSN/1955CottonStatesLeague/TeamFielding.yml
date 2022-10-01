@@ -1,0 +1,66 @@
+- year: '1955'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  G: '120'
+  DP: '78'
+  PB: '16'
+  PO: '3058'
+  A: '1096'
+  E: '176'
+  PCT: '.959'
+  TP: '0'
+- year: '1955'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff/Meridian
+  G: '115'
+  DP: '62'
+  PB: '29'
+  PO: '2960'
+  A: '1068'
+  E: '219'
+  PCT: '.948'
+  TP: '0'
+- year: '1955'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  G: '119'
+  DP: '122'
+  PB: '22'
+  PO: '3057'
+  A: '1354'
+  E: '243'
+  PCT: '.947'
+  TP: '0'
+- year: '1955'
+  nameLeague: Cotton States League
+  nameClub: Monroe
+  G: '111'
+  DP: '105'
+  PB: '11'
+  PO: '2975'
+  A: '1175'
+  E: '233'
+  PCT: '.947'
+  TP: '0'
+- year: '1955'
+  nameLeague: Cotton States League
+  nameClub: Vicksburg
+  G: '120'
+  DP: '106'
+  PB: '16'
+  PO: '3082'
+  A: '1274'
+  E: '249'
+  PCT: '.946'
+  TP: '1'
+- year: '1955'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  G: '119'
+  DP: '87'
+  PB: '13'
+  PO: '2979'
+  A: '1209'
+  E: '244'
+  PCT: '.945'
+  TP: '0'

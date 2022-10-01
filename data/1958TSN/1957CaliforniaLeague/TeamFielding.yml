@@ -1,0 +1,88 @@
+- year: '1957'
+  nameLeague: California League
+  nameClub: Modesto
+  G: '140'
+  DP: '120'
+  PB: '36'
+  PO: '3687'
+  A: '1495'
+  E: '229'
+  PCT: '.958'
+  TP: '1'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Reno
+  G: '138'
+  DP: '122'
+  PB: '21'
+  PO: '3564'
+  A: '1443'
+  E: '237'
+  PCT: '.955'
+  TP: '1'
+- year: '1957'
+  nameLeague: California League
+  nameClub: San Jose
+  G: '135'
+  DP: '103'
+  PB: '15'
+  PO: '3510'
+  A: '1330'
+  E: '243'
+  PCT: '.952'
+  TP: '0'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Salinas
+  G: '135'
+  DP: '83'
+  PB: '11'
+  PO: '3471'
+  A: '1384'
+  E: '244'
+  PCT: '.952'
+  TP: '0'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Visalia
+  G: '135'
+  DP: '111'
+  PB: '18'
+  PO: '3528'
+  A: '1490'
+  E: '257'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Bakersfield
+  G: '139'
+  DP: '115'
+  PB: '24'
+  PO: '3679'
+  A: '1546'
+  E: '284'
+  PCT: '.948'
+  TP: '0'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Stockton
+  G: '140'
+  DP: '107'
+  PB: '26'
+  PO: '3675'
+  A: '1435'
+  E: '298'
+  PCT: '.945'
+  TP: '0'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Fresno
+  G: '138'
+  DP: '96'
+  PB: '25'
+  PO: '3565'
+  A: '1372'
+  E: '305'
+  PCT: '.942'
+  TP: '0'

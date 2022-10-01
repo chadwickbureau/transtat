@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Eastman
+  phase: regular
+  W: '86'
+  L: '51'
+  T: '0'
+  PCT: '.628'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: regular
+  W: '77'
+  L: '62'
+  T: '0'
+  PCT: '.554'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Tifton
+  phase: regular
+  W: '74'
+  L: '63'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Vidalia-Lyons
+  phase: regular
+  W: '72'
+  L: '65'
+  T: '0'
+  PCT: '.526'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Sparta
+  phase: regular
+  W: '69'
+  L: '68'
+  T: '0'
+  PCT: '.504'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  phase: regular
+  W: '63'
+  L: '75'
+  T: '0'
+  PCT: '.457'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: regular
+  W: '57'
+  L: '81'
+  T: '0'
+  PCT: '.413'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Fitzgerald
+  phase: regular
+  W: '52'
+  L: '85'
+  T: '0'
+  PCT: '.386'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Vidalia-Lyons
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Eastman
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Tifton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Tifton
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Georgia State League
+  nameClub: Vidalia-Lyons
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

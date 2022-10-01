@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  Thibodaux: '10'
+  New Iberia: '8'
+  Hammond: '10'
+  Houma: '11'
+  Natchez: '14'
+  Baton Rouge: '13'
+  Abbeville: '13'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  Alexandria: '8'
+  New Iberia: '10'
+  Hammond: '10'
+  Houma: '17'
+  Natchez: '11'
+  Baton Rouge: '13'
+  Abbeville: '7'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  Alexandria: '12'
+  Thibodaux: '9'
+  Hammond: '9'
+  Houma: '11'
+  Natchez: '13'
+  Baton Rouge: '8'
+  Abbeville: '14'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  Alexandria: '9'
+  Thibodaux: '6'
+  New Iberia: '10'
+  Houma: '11'
+  Natchez: '13'
+  Baton Rouge: '13'
+  Abbeville: '11'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  Alexandria: '9'
+  Thibodaux: '3'
+  New Iberia: '8'
+  Hammond: '9'
+  Natchez: '9'
+  Baton Rouge: '12'
+  Abbeville: '13'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Natchez
+  Alexandria: '3'
+  Thibodaux: '9'
+  New Iberia: '6'
+  Hammond: '6'
+  Houma: '12'
+  Baton Rouge: '12'
+  Abbeville: '10'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  Alexandria: '5'
+  Thibodaux: '6'
+  New Iberia: '10'
+  Hammond: '7'
+  Houma: '8'
+  Natchez: '8'
+  Abbeville: '10'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  Alexandria: '7'
+  Thibodaux: '9'
+  New Iberia: '6'
+  Hammond: '9'
+  Houma: '6'
+  Natchez: '8'
+  Baton Rouge: '8'

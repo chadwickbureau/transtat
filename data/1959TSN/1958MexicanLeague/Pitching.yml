@@ -1,0 +1,1612 @@
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Alvarado
+  nameClub1: Yucatan
+  GP: '28'
+  GS: '27'
+  CG: '16'
+  SHO: '4'
+  W: '15'
+  L: '7'
+  PCT: '.682'
+  IP: '218'
+  H: '206'
+  HR: '20'
+  R: '84'
+  ER: '71'
+  BB: '39'
+  SO: '104'
+  HB: '4'
+  WP: '3'
+  BK: '0'
+  ERA: '2.93'
+  ERA_RANK: '2'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Alvarez
+  nameClub1: Monterrey
+  GP: '26'
+  GS: '6'
+  CG: '0'
+  SHO: '0'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '74'
+  H: '74'
+  HR: '6'
+  R: '46'
+  ER: '40'
+  BB: '31'
+  SO: '23'
+  HB: '3'
+  WP: '1'
+  BK: '2'
+  ERA: '4.86'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Anderton
+  nameClub1: Mexico City Tigers
+  GP: '21'
+  GS: '19'
+  CG: '12'
+  SHO: '3'
+  W: '11'
+  L: '5'
+  PCT: '.688'
+  IP: '131'
+  H: '117'
+  HR: '10'
+  R: '66'
+  ER: '44'
+  BB: '41'
+  SO: '61'
+  HB: '7'
+  WP: '2'
+  BK: '0'
+  ERA: '3.02'
+  ERA_RANK: '3'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Arroyo
+  nameClub1: 10@Nuevo Laredo
+  nameClub2: 7@Yucatan
+  GP: '17'
+  GS: '6'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '50'
+  H: '58'
+  HR: '4'
+  R: '31'
+  ER: '23'
+  BB: '23'
+  SO: '19'
+  HB: '0'
+  WP: '0'
+  BK: '0'
+  ERA: '4.14'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Cadena
+  nameClub1: Nuevo Laredo
+  GP: '32'
+  GS: '1'
+  CG: '1'
+  SHO: '0'
+  W: '7'
+  L: '1'
+  PCT: '.875'
+  IP: '93'
+  H: '117'
+  HR: '9'
+  R: '67'
+  ER: '57'
+  BB: '29'
+  SO: '25'
+  HB: '8'
+  WP: '0'
+  BK: '0'
+  ERA: '5.52'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Cardenas
+  nameClub1: Nuevo Laredo
+  GP: '13'
+  GS: '4'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '36'
+  H: '36'
+  HR: '6'
+  R: '28'
+  ER: '25'
+  BB: '19'
+  SO: '13'
+  HB: '4'
+  WP: '0'
+  BK: '0'
+  ERA: '6.25'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Cacheux
+  nameClub1: 6@Mexico City Tigers
+  nameClub2: 16@Nuevo Laredo
+  GP: '22'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '5'
+  L: '5'
+  PCT: '.500'
+  IP: '75'
+  H: '81'
+  HR: '13'
+  R: '43'
+  ER: '37'
+  BB: '20'
+  SO: '39'
+  HB: '0'
+  WP: '3'
+  BK: '0'
+  ERA: '4.44'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Collins
+  nameClub1: Poza Rica
+  throws: L
+  GP: '8'
+  GS: '8'
+  CG: '6'
+  SHO: '1'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '64'
+  H: '40'
+  HR: '3'
+  R: '24'
+  ER: '22'
+  BB: '53'
+  SO: '47'
+  HB: '1'
+  WP: '5'
+  BK: '1'
+  ERA: '3.09'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Consuegra
+  nameClub1: Monterrey
+  GP: '6'
+  GS: '5'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '35'
+  H: '49'
+  HR: '4'
+  R: '27'
+  ER: '23'
+  BB: '11'
+  SO: '12'
+  HB: '0'
+  WP: '4'
+  BK: '0'
+  ERA: '5.91'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Contreras
+  nameFirst: R.
+  nameClub1: 1@Monterrey
+  nameClub2: 1@Poza Rica
+  nameClub3: 7@Monterrey
+  GP: '9'
+  GS: '5'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '1'
+  PCT: '.667'
+  IP: '59'
+  H: '55'
+  HR: '3'
+  R: '32'
+  ER: '24'
+  BB: '14'
+  SO: '19'
+  HB: '2'
+  WP: '0'
+  BK: '0'
+  ERA: '4.32'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Cuevas
+  nameClub1: Yucatan
+  GP: '20'
+  GS: '0'
+  CG: '0'
+  SHO: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '38'
+  H: '47'
+  HR: '3'
+  R: '18'
+  ER: '18'
+  BB: '14'
+  SO: '16'
+  HB: '0'
+  WP: '0'
+  BK: '0'
+  ERA: '4.26'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Cruz
+  nameClub1: Monterrey
+  GP: '23'
+  GS: '7'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '71'
+  H: '88'
+  HR: '15'
+  R: '44'
+  ER: '41'
+  BB: '23'
+  SO: '22'
+  HB: '2'
+  WP: '5'
+  BK: '0'
+  ERA: '5.20'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Dangleis
+  nameClub1: Mexico City Tigers
+  GP: '26'
+  GS: '13'
+  CG: '5'
+  SHO: '2'
+  W: '3'
+  L: '13'
+  PCT: '.188'
+  IP: '98'
+  H: '122'
+  HR: '7'
+  R: '70'
+  ER: '53'
+  BB: '37'
+  SO: '50'
+  HB: '4'
+  WP: '3'
+  BK: '0'
+  ERA: '4.87'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: DeLeon
+  nameClub1: Poza Rica
+  GP: '23'
+  GS: '18'
+  CG: '5'
+  SHO: '0'
+  W: '8'
+  L: '10'
+  PCT: '.444'
+  IP: '124'
+  H: '129'
+  HR: '26'
+  R: '94'
+  ER: '73'
+  BB: '42'
+  SO: '51'
+  HB: '1'
+  WP: '5'
+  BK: '1'
+  ERA: '5.30'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Dicochea
+  nameClub1: Nuevo Laredo
+  GP: '34'
+  GS: '26'
+  CG: '13'
+  SHO: '2'
+  W: '16'
+  L: '12'
+  PCT: '.571'
+  IP: '196'
+  H: '193'
+  HR: '20'
+  R: '104'
+  ER: '84'
+  BB: '88'
+  SO: '73'
+  HB: '5'
+  WP: '8'
+  BK: '1'
+  ERA: '3.86'
+  ERA_RANK: '9'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Ferrer
+  nameClub1: Monterrey
+  GP: '26'
+  GS: '20'
+  CG: '6'
+  SHO: '1'
+  W: '10'
+  L: '8'
+  PCT: '.556'
+  IP: '133'
+  H: '147'
+  HR: '12'
+  R: '80'
+  ER: '61'
+  BB: '67'
+  SO: '57'
+  HB: '5'
+  WP: '4'
+  BK: '0'
+  ERA: '4.13'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Ferrer
+  nameClub1: Mexico City Tigers
+  GP: '32'
+  GS: '4'
+  CG: '2'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '110'
+  H: '111'
+  HR: '10'
+  R: '70'
+  ER: '61'
+  BB: '56'
+  SO: '41'
+  HB: '3'
+  WP: '10'
+  BK: '0'
+  ERA: '4.99'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Fister
+  nameClub1: Mexico City Tigers
+  GP: '6'
+  GS: '4'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '32'
+  H: '37'
+  HR: '2'
+  R: '20'
+  ER: '15'
+  BB: '16'
+  SO: '13'
+  HB: '1'
+  WP: '0'
+  BK: '0'
+  ERA: '4.22'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameFirst: M.
+  nameClub1: Nuevo Laredo
+  throws: L
+  GP: '34'
+  GS: '16'
+  CG: '5'
+  SHO: '0'
+  W: '11'
+  L: '5'
+  PCT: '.688'
+  IP: '152'
+  H: '144'
+  HR: '6'
+  R: '72'
+  ER: '55'
+  BB: '67'
+  SO: '55'
+  HB: '2'
+  WP: '2'
+  BK: '0'
+  ERA: '3.26'
+  ERA_RANK: '4'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Gonzalez
+  nameFirst: M.
+  nameClub1: Poza Rica
+  GP: '21'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '76'
+  H: '90'
+  HR: '9'
+  R: '52'
+  ER: '43'
+  BB: '25'
+  SO: '37'
+  HB: '2'
+  WP: '2'
+  BK: '0'
+  ERA: '5.09'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Gonzalez
+  nameFirst: W.
+  nameClub1: 22@Mexico City Reds
+  nameClub2: 10@Poza Rica
+  throws: L
+  GP: '32'
+  GS: '19'
+  CG: '11'
+  SHO: '2'
+  W: '9'
+  L: '11'
+  PCT: '.450'
+  IP: '140'
+  H: '149'
+  HR: '12'
+  R: '78'
+  ER: '61'
+  BB: '65'
+  SO: '65'
+  HB: '1'
+  WP: '5'
+  BK: '1'
+  ERA: '3.92'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Guerra
+  nameClub1: 30@Mexico City Reds
+  nameClub2: 3@Mexico City Tigers
+  GP: '33'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '3'
+  L: '6'
+  PCT: '.333'
+  IP: '77'
+  H: '93'
+  HR: '9'
+  R: '48'
+  ER: '45'
+  BB: '30'
+  SO: '51'
+  HB: '2'
+  WP: '3'
+  BK: '1'
+  ERA: '5.26'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Herrera
+  nameFirst: P.
+  nameClub1: Nuevo Laredo
+  GP: '10'
+  GS: '9'
+  CG: '5'
+  SHO: '1'
+  W: '5'
+  L: '0'
+  PCT: '1.000'
+  IP: '67'
+  H: '64'
+  HR: '6'
+  R: '23'
+  ER: '20'
+  BB: '25'
+  SO: '22'
+  HB: '1'
+  WP: '0'
+  BK: '0'
+  ERA: '2.69'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Herrera
+  nameFirst: T.
+  nameClub1: 6@Nuevo Laredo
+  nameClub2: 15@Mexico City Tigers
+  GP: '21'
+  GS: '16'
+  CG: '6'
+  SHO: '0'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  IP: '128'
+  H: '142'
+  HR: '8'
+  R: '69'
+  ER: '61'
+  BB: '47'
+  SO: '51'
+  HB: '4'
+  WP: '4'
+  BK: '1'
+  ERA: '4.29'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Jimenez
+  nameFirst: D.
+  nameClub1: Mexico City Tigers
+  GP: '29'
+  GS: '23'
+  CG: '16'
+  SHO: '1'
+  W: '14'
+  L: '11'
+  PCT: '.560'
+  IP: '191'
+  H: '178'
+  HR: '13'
+  R: '93'
+  ER: '78'
+  BB: '113'
+  SO: '138'
+  HB: '5'
+  WP: '14'
+  BK: '3'
+  ERA: '3.68'
+  ERA_RANK: '7'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Ladera
+  nameClub1: Yucatan
+  GP: '30'
+  GS: '18'
+  CG: '11'
+  SHO: '2'
+  W: '14'
+  L: '10'
+  PCT: '.583'
+  IP: '160'
+  H: '169'
+  HR: '9'
+  R: '71'
+  ER: '69'
+  BB: '48'
+  SO: '81'
+  HB: '0'
+  WP: '4'
+  BK: '1'
+  ERA: '3.88'
+  ERA_RANK: '10'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Locke
+  nameClub1: Monterrey
+  GP: '40'
+  GS: '33'
+  CG: '25'
+  SHO: '3'
+  W: '19'
+  L: '16'
+  PCT: '.543'
+  IP: '267'
+  H: '263'
+  HR: '33'
+  R: '113'
+  ER: '100'
+  BB: '57'
+  SO: '144'
+  HB: '1'
+  WP: '6'
+  BK: '2'
+  ERA: '3.37'
+  ERA_RANK: '5'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameFirst: Gr.
+  nameClub1: 1@Nuevo Laredo
+  nameClub2: 40@Yucatan
+  GP: '41'
+  GS: '16'
+  CG: '4'
+  SHO: '1'
+  W: '8'
+  L: '11'
+  PCT: '.421'
+  IP: '153'
+  H: '162'
+  HR: '17'
+  R: '94'
+  ER: '80'
+  BB: '60'
+  SO: '77'
+  HB: '1'
+  WP: '2'
+  BK: '1'
+  ERA: '4.71'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameFirst: Gu.
+  nameClub1: Mexico City Reds
+  GP: '33'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '84'
+  H: '96'
+  HR: '7'
+  R: '50'
+  ER: '44'
+  BB: '41'
+  SO: '37'
+  HB: '1'
+  WP: '0'
+  BK: '0'
+  ERA: '4.71'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameFirst: V.
+  nameClub1: 15@Mexico City Reds
+  nameClub2: 3@Mexico City Tigers
+  GP: '18'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '7'
+  PCT: '.222'
+  IP: '50'
+  H: '55'
+  HR: '5'
+  R: '29'
+  ER: '23'
+  BB: '30'
+  SO: '24'
+  HB: '2'
+  WP: '2'
+  BK: '0'
+  ERA: '4.14'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Luna
+  nameClub1: 4@Poza Rica
+  nameClub2: 20@Mexico City Tigers
+  throws: L
+  GP: '24'
+  GS: '13'
+  CG: '2'
+  SHO: '0'
+  W: '1'
+  L: '10'
+  PCT: '.091'
+  IP: '100'
+  H: '133'
+  HR: '12'
+  R: '67'
+  ER: '58'
+  BB: '32'
+  SO: '40'
+  HB: '2'
+  WP: '2'
+  BK: '0'
+  ERA: '5.22'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Moreno
+  nameClub1: Nuevo Laredo
+  GP: '27'
+  GS: '21'
+  CG: '12'
+  SHO: '4'
+  W: '13'
+  L: '8'
+  PCT: '.619'
+  IP: '160'
+  H: '160'
+  HR: '14'
+  R: '62'
+  ER: '48'
+  BB: '43'
+  SO: '78'
+  HB: '4'
+  WP: '0'
+  BK: '0'
+  ERA: '2.70'
+  ERA_RANK: '1'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Nakamura
+  nameClub1: Yucatan
+  throws: L
+  GP: '15'
+  GS: '5'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '52'
+  H: '52'
+  HR: '1'
+  R: '16'
+  ER: '15'
+  BB: '18'
+  SO: '18'
+  HB: '1'
+  WP: '2'
+  BK: '0'
+  ERA: '2.60'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Olivo
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '28'
+  GS: '20'
+  CG: '7'
+  SHO: '1'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '151'
+  H: '160'
+  HR: '13'
+  R: '76'
+  ER: '64'
+  BB: '59'
+  SO: '122'
+  HB: '1'
+  WP: '6'
+  BK: '1'
+  ERA: '3.81'
+  ERA_RANK: '8'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Osorio
+  nameClub1: Monterrey
+  GP: '16'
+  GS: '7'
+  CG: '2'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '74'
+  H: '81'
+  HR: '6'
+  R: '37'
+  ER: '35'
+  BB: '13'
+  SO: '41'
+  HB: '0'
+  WP: '0'
+  BK: '0'
+  ERA: '4.26'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Peete
+  nameClub1: Monterrey
+  throws: L
+  GP: '9'
+  GS: '7'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '33'
+  H: '31'
+  HR: '4'
+  R: '21'
+  ER: '17'
+  BB: '23'
+  SO: '11'
+  HB: '3'
+  WP: '4'
+  BK: '0'
+  ERA: '4.64'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Perez
+  nameClub1: 5@Nuevo Laredo
+  nameClub2: 17@Monterrey
+  throws: L
+  GP: '22'
+  GS: '18'
+  CG: '6'
+  SHO: '1'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  IP: '134'
+  H: '137'
+  HR: '17'
+  R: '78'
+  ER: '62'
+  BB: '51'
+  SO: '67'
+  HB: '0'
+  WP: '2'
+  BK: '0'
+  ERA: '4.16'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Phillips
+  nameClub1: Mexico City Tigers
+  GP: '9'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '32'
+  H: '45'
+  HR: '4'
+  R: '21'
+  ER: '16'
+  BB: '10'
+  SO: '18'
+  HB: '3'
+  WP: '1'
+  BK: '0'
+  ERA: '4.50'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Piedra
+  nameClub1: 6@Nuevo Laredo
+  nameClub2: 37@Yucatan
+  throws: L
+  GP: '43'
+  GS: '27'
+  CG: '15'
+  SHO: '3'
+  W: '15'
+  L: '11'
+  PCT: '.577'
+  IP: '217'
+  H: '198'
+  HR: '17'
+  R: '107'
+  ER: '85'
+  BB: '114'
+  SO: '159'
+  HB: '1'
+  WP: '9'
+  BK: '0'
+  ERA: '3.53'
+  ERA_RANK: '6'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Ramirez
+  nameClub1: Mexico City Reds
+  GP: '35'
+  GS: '29'
+  CG: '16'
+  SHO: '2'
+  W: '17'
+  L: '10'
+  PCT: '.630'
+  IP: '214'
+  H: '238'
+  HR: '18'
+  R: '101'
+  ER: '93'
+  BB: '56'
+  SO: '90'
+  HB: '4'
+  WP: '0'
+  BK: '0'
+  ERA: '3.91'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Ramos
+  nameClub1: Poza Rica
+  GP: '38'
+  GS: '20'
+  CG: '12'
+  SHO: '2'
+  W: '13'
+  L: '12'
+  PCT: '.520'
+  IP: '187'
+  H: '206'
+  HR: '21'
+  R: '104'
+  ER: '89'
+  BB: '57'
+  SO: '86'
+  HB: '1'
+  WP: '0'
+  BK: '0'
+  ERA: '4.28'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Rendon
+  nameClub1: Mexico City Reds
+  GP: '11'
+  GS: '7'
+  CG: '1'
+  SHO: '1'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '52'
+  H: '54'
+  HR: '6'
+  R: '29'
+  ER: '25'
+  BB: '19'
+  SO: '25'
+  HB: '2'
+  WP: '0'
+  BK: '0'
+  ERA: '4.33'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Rivas
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '25'
+  GS: '22'
+  CG: '7'
+  SHO: '0'
+  W: '10'
+  L: '7'
+  PCT: '.588'
+  IP: '140'
+  H: '165'
+  HR: '14'
+  R: '74'
+  ER: '64'
+  BB: '30'
+  SO: '71'
+  HB: '4'
+  WP: '3'
+  BK: '0'
+  ERA: '4.11'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Rivera
+  nameClub1: 7@Monterrey
+  nameClub2: 22@Nuevo Laredo
+  GP: '29'
+  GS: '14'
+  CG: '9'
+  SHO: '2'
+  W: '8'
+  L: '4'
+  PCT: '.667'
+  IP: '133'
+  H: '134'
+  HR: '11'
+  R: '76'
+  ER: '59'
+  BB: '47'
+  SO: '108'
+  HB: '3'
+  WP: '2'
+  BK: '0'
+  ERA: '3.99'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Rodriguez
+  nameFirst: M.
+  nameClub1: Yucatan
+  GP: '26'
+  GS: '18'
+  CG: '5'
+  SHO: '0'
+  W: '6'
+  L: '10'
+  PCT: '.375'
+  IP: '128'
+  H: '145'
+  HR: '7'
+  R: '83'
+  ER: '70'
+  BB: '64'
+  SO: '45'
+  HB: '3'
+  WP: '5'
+  BK: '0'
+  ERA: '4.92'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Sackie
+  nameClub1: Mexico City Reds
+  GP: '17'
+  GS: '10'
+  CG: '3'
+  SHO: '1'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  IP: '63'
+  H: '60'
+  HR: '8'
+  R: '35'
+  ER: '30'
+  BB: '16'
+  SO: '18'
+  HB: '2'
+  WP: '2'
+  BK: '0'
+  ERA: '4.29'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Searcy
+  nameClub1: Monterrey
+  throws: L
+  GP: '10'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '54'
+  H: '67'
+  HR: '9'
+  R: '41'
+  ER: '38'
+  BB: '30'
+  SO: '32'
+  HB: '1'
+  WP: '1'
+  BK: '0'
+  ERA: '6.33'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Sotelo
+  nameClub1: 15@Mexico City Tigers
+  nameClub2: 17@Nuevo Laredo
+  GP: '32'
+  GS: '14'
+  CG: '2'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '116'
+  H: '143'
+  HR: '6'
+  R: '79'
+  ER: '56'
+  BB: '55'
+  SO: '51'
+  HB: '3'
+  WP: '3'
+  BK: '0'
+  ERA: '4.34'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Spasoff
+  nameClub1: Poza Rica
+  throws: L
+  GP: '6'
+  GS: '6'
+  CG: '2'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '35'
+  H: '41'
+  HR: '4'
+  R: '22'
+  ER: '15'
+  BB: '15'
+  SO: '22'
+  HB: '0'
+  WP: '0'
+  BK: '0'
+  ERA: '3.86'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Trice
+  nameClub1: Mexico City Reds
+  GP: '25'
+  GS: '11'
+  CG: '5'
+  SHO: '0'
+  W: '4'
+  L: '6'
+  PCT: '.400'
+  IP: '114'
+  H: '111'
+  HR: '5'
+  R: '63'
+  ER: '54'
+  BB: '49'
+  SO: '32'
+  HB: '4'
+  WP: '3'
+  BK: '0'
+  ERA: '4.26'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Tully
+  nameFirst: Martinez
+  nameClub1: 1@Mexico City Reds
+  nameClub2: 10@Poza Rica
+  GP: '11'
+  GS: '2'
+  CG: '0'
+  SHO: '0'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  IP: '31'
+  H: '34'
+  HR: '7'
+  R: '27'
+  ER: '24'
+  BB: '16'
+  SO: '26'
+  HB: '3'
+  WP: '3'
+  BK: '0'
+  ERA: '6.97'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Vazquez
+  nameClub1: Monterrey
+  GP: '11'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '30'
+  H: '37'
+  HR: '4'
+  R: '22'
+  ER: '21'
+  BB: '8'
+  SO: '10'
+  HB: '0'
+  WP: '2'
+  BK: '0'
+  ERA: '6.30'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Waters
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '13'
+  GS: '12'
+  CG: '6'
+  SHO: '1'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '83'
+  H: '87'
+  HR: '7'
+  R: '49'
+  ER: '44'
+  BB: '37'
+  SO: '42'
+  HB: '0'
+  WP: '4'
+  BK: '1'
+  ERA: '4.77'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Williams
+  nameClub1: Poza Rica
+  GP: '22'
+  GS: '21'
+  CG: '12'
+  SHO: '1'
+  W: '9'
+  L: '11'
+  PCT: '.450'
+  IP: '145'
+  H: '176'
+  HR: '25'
+  R: '94'
+  ER: '84'
+  BB: '39'
+  SO: '57'
+  HB: '1'
+  WP: '2'
+  BK: '0'
+  ERA: '5.21'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Wilson
+  nameClub1: Poza Rica
+  GP: '25'
+  GS: '18'
+  CG: '9'
+  SHO: '3'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  IP: '132'
+  H: '136'
+  HR: '9'
+  R: '76'
+  ER: '60'
+  BB: '80'
+  SO: '56'
+  HB: '8'
+  WP: '6'
+  BK: '1'
+  ERA: '4.09'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: deAlejandro
+  nameClub1: Mexico City Reds
+  GP: '5'
+  W: '1'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Gonzalez
+  nameFirst: A.
+  nameClub1: Mexico City Reds
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Montane
+  nameClub1: Yucatan
+  nameClub2: Mexico City Reds
+  GP: '10'
+  W: '2'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Montejo
+  nameClub1: Mexico City Reds
+  GP: '1'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Perry
+  nameClub1: Mexico City Reds
+  GP: '10'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Donoso
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Fernandez
+  nameFirst: A.
+  nameClub1: Mexico City Tigers
+  GP: '6'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Flores
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '11'
+  W: '0'
+  L: '3'
+  BK: '1'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameFirst: M.
+  nameClub1: Mexico City Tigers
+  GP: '3'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Miro
+  nameClub1: Mexico City Tigers
+  GP: '3'
+  W: '1'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Osorio
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Pitts
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '5'
+  W: '1'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Rayle
+  nameClub1: Mexico City Tigers
+  GP: '3'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Fields
+  nameClub1: Monterrey
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Garza Gomez
+  nameClub1: Monterrey
+  GP: '11'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Ordonez
+  nameClub1: Monterrey
+  GP: '11'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Vega
+  nameClub1: Monterrey
+  GP: '4'
+  W: '0'
+  L: '3'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Currie
+  nameClub1: Nuevo Laredo
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Gonzalez
+  nameClub1: Nuevo Laredo
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Taborn
+  nameClub1: Nuevo Laredo
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Beltran
+  nameFirst: E.
+  nameClub1: Poza Rica
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Beltran
+  nameFirst: M.
+  nameClub1: Poza Rica
+  GP: '5'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Brown
+  nameClub1: Poza Rica
+  GP: '5'
+  W: '1'
+  L: '3'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Camacho
+  nameFirst: R.
+  nameClub1: Poza Rica
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Cecena
+  nameClub1: Poza Rica
+  throws: L
+  GP: '5'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Celis
+  nameClub1: Nuevo Laredo
+  nameClub2: Poza Rica
+  GP: '8'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Contreras
+  nameClub1: Poza Rica
+  GP: '3'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Delfin Barrientos
+  nameClub1: Poza Rica
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Galindo
+  nameClub1: Poza Rica
+  GP: '5'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Gamboa
+  nameClub1: Poza Rica
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Hayling
+  nameClub1: Poza Rica
+  GP: '7'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Hebra
+  nameClub1: Poza Rica
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Howell
+  nameClub1: Poza Rica
+  GP: '4'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Munoz
+  nameClub1: Poza Rica
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Rivero
+  nameClub1: Poza Rica
+  GP: '2'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Ortega
+  nameClub1: Poza Rica
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Zambrana
+  nameClub1: Poza Rica
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Arthur
+  nameClub1: Yucatan
+  GP: '6'
+  W: '1'
+  L: '3'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Chiique
+  nameClub1: Yucatan
+  GP: '7'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Galata
+  nameClub1: Yucatan
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameClub1: Yucatan
+  GP: '8'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameLast: Peraza
+  nameClub1: Yucatan
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'

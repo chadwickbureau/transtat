@@ -1,0 +1,114 @@
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Pittsburg
+  phase: regular
+  W: '84'
+  L: '43'
+  PCT: '.661'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Klamath Falls
+  phase: regular
+  W: '78'
+  L: '46'
+  PCT: '.629'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Willows
+  phase: regular
+  W: '68'
+  L: '58'
+  PCT: '.540'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Redding
+  phase: regular
+  W: '63'
+  L: '64'
+  PCT: '.496'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Marysville
+  phase: regular
+  W: '59'
+  L: '66'
+  PCT: '.472'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Santa Rosa
+  phase: regular
+  W: '48'
+  L: '49'
+  PCT: '.467'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Vallejo
+  phase: regular
+  W: '34'
+  L: '58'
+  PCT: '.370'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Medford
+  phase: regular
+  W: '39'
+  L: '84'
+  PCT: '.317'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Pittsburg
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Willows
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Redding
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Klamath Falls
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Pittsburg
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Far West League
+  nameClub: Redding
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

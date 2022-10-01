@@ -1,0 +1,124 @@
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular/first
+  W: '37'
+  L: '12'
+  T: '0'
+  PCT: '.755'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Erwin
+  phase: regular/first
+  W: '24'
+  L: '28'
+  T: '0'
+  PCT: '.462'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: regular/first
+  W: '23'
+  L: '27'
+  T: '0'
+  PCT: '.460'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular/first
+  W: '18'
+  L: '35'
+  T: '0'
+  PCT: '.340'
+  RANK: '4'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular/second
+  W: '37'
+  L: '23'
+  T: '0'
+  PCT: '.617'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: regular/second
+  W: '32'
+  L: '26'
+  T: '0'
+  PCT: '.552'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Erwin
+  phase: regular/second
+  W: '29'
+  L: '25'
+  T: '0'
+  PCT: '.537'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular/second
+  W: '18'
+  L: '42'
+  T: '0'
+  PCT: '.300'
+  RANK: '4'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Erwin
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Erwin
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

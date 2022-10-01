@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: International League
+  nameClub: Rochester
+  Montreal: '13'
+  Buffalo: '11'
+  Baltimore: '14'
+  Toronto: '14'
+  Ottawa: '16'
+  Syracuse: '12'
+  Springfield: '17'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Montreal
+  Rochester: '9'
+  Buffalo: '13'
+  Baltimore: '12'
+  Toronto: '13'
+  Ottawa: '12'
+  Syracuse: '13'
+  Springfield: '17'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Buffalo
+  Rochester: '11'
+  Montreal: '7'
+  Baltimore: '12'
+  Toronto: '12'
+  Ottawa: '13'
+  Syracuse: '17'
+  Springfield: '15'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Baltimore
+  Rochester: '8'
+  Montreal: '10'
+  Buffalo: '10'
+  Toronto: '12'
+  Ottawa: '12'
+  Syracuse: '12'
+  Springfield: '18'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Toronto
+  Rochester: '8'
+  Montreal: '9'
+  Buffalo: '10'
+  Baltimore: '10'
+  Ottawa: '12'
+  Syracuse: '14'
+  Springfield: '15'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Ottawa
+  Rochester: '6'
+  Montreal: '10'
+  Buffalo: '9'
+  Baltimore: '10'
+  Toronto: '10'
+  Syracuse: '14'
+  Springfield: '12'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Syracuse
+  Rochester: '10'
+  Montreal: '9'
+  Buffalo: '5'
+  Baltimore: '10'
+  Toronto: '8'
+  Ottawa: '8'
+  Springfield: '8'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Springfield
+  Rochester: '5'
+  Montreal: '5'
+  Buffalo: '7'
+  Baltimore: '4'
+  Toronto: '7'
+  Ottawa: '10'
+  Syracuse: '13'

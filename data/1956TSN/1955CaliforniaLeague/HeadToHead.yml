@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: California League
+  nameClub: Fresno
+  San Jose: '10'
+  Stockton: '10'
+  Modesto: '15'
+  Bakersfield: '19'
+  Salinas: '16'
+  Visalia: '17'
+  Channel Cities/Reno: '17'
+- year: '1955'
+  nameLeague: California League
+  nameClub: San Jose
+  Fresno: '10'
+  Stockton: '9'
+  Modesto: '12'
+  Bakersfield: '11'
+  Salinas: '22'
+  Visalia: '17'
+  Channel Cities/Reno: '17'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Stockton
+  Fresno: '10'
+  San Jose: '12'
+  Modesto: '10'
+  Bakersfield: '14'
+  Salinas: '14'
+  Visalia: '17'
+  Channel Cities/Reno: '17'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Modesto
+  Fresno: '5'
+  San Jose: '9'
+  Stockton: '15'
+  Bakersfield: '13'
+  Salinas: '10'
+  Visalia: '10'
+  Channel Cities/Reno: '14'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Bakersfield
+  Fresno: '4'
+  San Jose: '9'
+  Stockton: '6'
+  Modesto: '7'
+  Salinas: '9'
+  Visalia: '14'
+  Channel Cities/Reno: '12'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Salinas
+  Fresno: '4'
+  San Jose: '2'
+  Stockton: '7'
+  Modesto: '11'
+  Bakersfield: '11'
+  Visalia: '12'
+  Channel Cities/Reno: '13'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Visalia
+  Fresno: '5'
+  San Jose: '3'
+  Stockton: '3'
+  Modesto: '10'
+  Bakersfield: '8'
+  Salinas: '8'
+  Channel Cities/Reno: '16'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Channel Cities/Reno
+  Fresno: '5'
+  San Jose: '3'
+  Stockton: '3'
+  Modesto: '6'
+  Bakersfield: '9'
+  Salinas: '7'
+  Visalia: '7'

@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Mexicali
+  phase: regular
+  W: '81'
+  L: '59'
+  T: '0'
+  PCT: '.579'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.557'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Reno
+  phase: regular
+  W: '77'
+  L: '63'
+  T: '0'
+  PCT: '.550'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '0'
+  PCT: '.529'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: El Centro
+  phase: regular
+  W: '67'
+  L: '73'
+  T: '0'
+  PCT: '.479'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Anaheim/San Bernardino
+  phase: regular
+  W: '43'
+  L: '97'
+  T: '0'
+  PCT: '.307'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Reno
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Mexicali
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Reno
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

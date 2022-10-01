@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Quebec
+  phase: regular
+  W: '90'
+  L: '48'
+  T: '0'
+  PCT: '.652'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  phase: regular
+  W: '75'
+  L: '62'
+  T: '0'
+  PCT: '.547'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Trois-Rivieres
+  phase: regular
+  W: '75'
+  L: '64'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  phase: regular
+  W: '74'
+  L: '65'
+  T: '0'
+  PCT: '.532'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  phase: regular
+  W: '67'
+  L: '71'
+  T: '1'
+  PCT: '.486'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  phase: regular
+  W: '65'
+  L: '74'
+  T: '0'
+  PCT: '.468'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Schenectady
+  phase: regular
+  W: '58'
+  L: '80'
+  T: '1'
+  PCT: '.420'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  phase: regular
+  W: '48'
+  L: '88'
+  T: '0'
+  PCT: '.353'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Quebec
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Trois-Rivieres
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Quebec
+  phase: final
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  phase: final
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'

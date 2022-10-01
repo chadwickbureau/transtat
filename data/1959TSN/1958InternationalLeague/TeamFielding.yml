@@ -1,0 +1,88 @@
+- year: '1958'
+  nameLeague: International League
+  nameClub: Miami
+  G: '153'
+  DP: '155'
+  PB: '18'
+  PO: '3947'
+  A: '1668'
+  E: '123'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Toronto
+  G: '153'
+  DP: '134'
+  PB: '25'
+  PO: '3962'
+  A: '1764'
+  E: '137'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Rochester
+  G: '156'
+  DP: '123'
+  PB: '12'
+  PO: '3977'
+  A: '1542'
+  E: '135'
+  PCT: '.976'
+  TP: '1'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Montreal
+  G: '155'
+  DP: '147'
+  PB: '7'
+  PO: '3982'
+  A: '1721'
+  E: '147'
+  PCT: '.975'
+  TP: '1'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Buffalo
+  G: '152'
+  DP: '130'
+  PB: '7'
+  PO: '3894'
+  A: '1705'
+  E: '151'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Richmond
+  G: '154'
+  DP: '165'
+  PB: '8'
+  PO: '3965'
+  A: '1687'
+  E: '156'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Columbus
+  G: '155'
+  DP: '134'
+  PB: '14'
+  PO: '3981'
+  A: '1644'
+  E: '166'
+  PCT: '.971'
+  TP: '0'
+- year: '1958'
+  nameLeague: International League
+  nameClub: Havana
+  G: '154'
+  DP: '116'
+  PB: '17'
+  PO: '3894'
+  A: '1495'
+  E: '174'
+  PCT: '.969'
+  TP: '0'

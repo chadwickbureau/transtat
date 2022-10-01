@@ -1,0 +1,1740 @@
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Taylor
+  nameClub: Chattanooga
+  Pos: 1B
+  G: '157'
+  PO: '1350'
+  A: '118'
+  E: '12'
+  DP: '128'
+  PCT: '.992'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Clancy
+  nameClub: Birmingham
+  Pos: 1B
+  G: '143'
+  PO: '1269'
+  A: '97'
+  E: '12'
+  DP: '121'
+  PCT: '.991'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Morgan
+  nameClub: New Orleans
+  Pos: 1B
+  G: '135'
+  PO: '1260'
+  A: '75'
+  E: '12'
+  DP: '75'
+  PCT: '.991'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Hooks
+  nameClub: Atlanta
+  Pos: 1B
+  G: '152'
+  PO: '1543'
+  A: '85'
+  E: '18'
+  DP: '119'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Malay
+  nameClub: Little Rock
+  Pos: 1B
+  G: '137'
+  PO: '1201'
+  A: '120'
+  E: '15'
+  DP: '82'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: McGhee
+  nameClub: Nashville
+  Pos: 1B
+  G: '23'
+  PO: '244'
+  A: '14'
+  E: '3'
+  DP: '17'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Wasdell
+  nameClub: Nashville
+  Pos: 1B
+  G: '81'
+  PO: '745'
+  A: '47'
+  E: '10'
+  DP: '58'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Caldwell
+  nameClub: Knoxville
+  Pos: 1B
+  G: '136'
+  PO: '1236'
+  A: '104'
+  E: '19'
+  DP: '82'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Farrell
+  nameClub: Memphis
+  Pos: 1B
+  G: '146'
+  PO: '1195'
+  A: '76'
+  E: '21'
+  DP: '69'
+  PCT: '.984'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: McCormick
+  nameClub: New Orleans
+  Pos: 1B
+  G: '23'
+  PO: '167'
+  A: '16'
+  E: '3'
+  DP: '18'
+  PCT: '.984'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Reese
+  nameClub: Memphis
+  Pos: 1B
+  G: '14'
+  PO: '111'
+  A: '16'
+  E: '2'
+  DP: '4'
+  PCT: '.984'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Wistert
+  nameClub: Nashville
+  Pos: 1B
+  G: '39'
+  PO: '286'
+  A: '19'
+  E: '8'
+  DP: '19'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Weiss
+  nameClub: Nashville
+  Pos: 1B
+  G: '16'
+  PO: '129'
+  A: '11'
+  E: '6'
+  DP: '12'
+  PCT: '.959'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Connolly
+  nameClub: New Orleans
+  Pos: 2B
+  G: '12'
+  PO: '30'
+  A: '39'
+  E: '0'
+  DP: '9'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Mihalic
+  nameClub: Chattanooga
+  Pos: 2B
+  G: '119'
+  PO: '307'
+  A: '411'
+  E: '14'
+  DP: '76'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Smith
+  nameClub: New Orleans
+  Pos: 2B
+  G: '102'
+  PO: '270'
+  A: '334'
+  E: '19'
+  DP: '43'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Williams
+  nameFirst: D.
+  nameClub: Little Rock
+  Pos: 2B
+  G: '81'
+  PO: '195'
+  A: '244'
+  E: '14'
+  DP: '23'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Nix
+  nameClub: Chattanooga
+  Pos: 2B
+  G: '25'
+  PO: '65'
+  A: '89'
+  E: '5'
+  DP: '17'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Blair
+  nameClub: Knoxville
+  Pos: 2B
+  G: '122'
+  PO: '257'
+  A: '369'
+  E: '21'
+  DP: '53'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Lipscomb
+  nameClub: Atlanta
+  Pos: 2B
+  G: '148'
+  PO: '352'
+  A: '450'
+  E: '29'
+  DP: '81'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Kintana
+  nameClub: New Orleans
+  Pos: 2B
+  G: '43'
+  PO: '116'
+  A: '157'
+  E: '10'
+  DP: '16'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Marquardt
+  nameClub: Memphis
+  Pos: 2B
+  G: '46'
+  PO: '106'
+  A: '127'
+  E: '9'
+  DP: '19'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Sanford
+  nameClub: Birmingham
+  Pos: 2B
+  G: '151'
+  PO: '404'
+  A: '479'
+  E: '37'
+  DP: '103'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Rodda
+  nameClub: Nashville
+  Pos: 2B
+  G: '85'
+  PO: '192'
+  A: '241'
+  E: '19'
+  DP: '46'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Reese
+  nameClub: Memphis
+  Pos: 2B
+  G: '39'
+  PO: '83'
+  A: '98'
+  E: '8'
+  DP: '9'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Calvey
+  nameClub: Memphis
+  Pos: 2B
+  G: '51'
+  PO: '117'
+  A: '151'
+  E: '12'
+  DP: '19'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Andrus
+  nameClub: Little Rock
+  Pos: 2B
+  G: '41'
+  PO: '102'
+  A: '120'
+  E: '13'
+  DP: '14'
+  PCT: '.945'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Scharein
+  nameClub: Nashville
+  Pos: 2B
+  G: '64'
+  PO: '148'
+  A: '235'
+  E: '23'
+  DP: '46'
+  PCT: '.943'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Skaff
+  nameClub: Knoxville
+  Pos: 2B
+  G: '16'
+  PO: '35'
+  A: '52'
+  E: '8'
+  DP: '8'
+  PCT: '.916'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Nix
+  nameClub: Chattanooga
+  Pos: 3B
+  G: '41'
+  PO: '63'
+  A: '97'
+  E: '2'
+  DP: '10'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Connolly
+  nameClub: New Orleans
+  Pos: 3B
+  G: '145'
+  PO: '120'
+  A: '254'
+  E: '17'
+  DP: '16'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Rhodes
+  nameClub: Knoxville
+  Pos: 3B
+  G: '71'
+  PO: '56'
+  A: '153'
+  E: '11'
+  DP: '8'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Hill
+  nameClub: Atlanta
+  Pos: 3B
+  G: '153'
+  PO: '119'
+  A: '283'
+  E: '22'
+  DP: '24'
+  PCT: '.948'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Benning
+  nameClub: Memphis
+  Pos: 3B
+  G: '118'
+  PO: '134'
+  A: '168'
+  E: '17'
+  DP: '5'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Andrus
+  nameClub: Little Rock
+  Pos: 3B
+  G: '76'
+  PO: '92'
+  A: '122'
+  E: '13'
+  DP: '7'
+  PCT: '.943'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Brown
+  nameClub: Chattanooga
+  Pos: 3B
+  G: '141'
+  PO: '143'
+  A: '219'
+  E: '27'
+  DP: '20'
+  PCT: '.931'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Trapp
+  nameClub: Birmingham
+  Pos: 3B
+  G: '110'
+  PO: '102'
+  A: '220'
+  E: '27'
+  DP: '32'
+  PCT: '.923'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Outlaw
+  nameClub: Nashville
+  Pos: 3B
+  G: '155'
+  PO: '134'
+  A: '315'
+  E: '49'
+  DP: '25'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Skaff
+  nameClub: Knoxville
+  Pos: 3B
+  G: '47'
+  PO: '37'
+  A: '71'
+  E: '12'
+  DP: '0'
+  PCT: '.900'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Luther
+  nameClub: Memphis
+  Pos: 3B
+  G: '16'
+  PO: '15'
+  A: '21'
+  E: '5'
+  DP: '1'
+  PCT: '.878'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Liberto
+  nameClub: Little Rock
+  Pos: 3B
+  G: '82'
+  PO: '68'
+  A: '147'
+  E: '33'
+  DP: '6'
+  PCT: '.867'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Bagroski
+  nameClub: Memphis
+  Pos: 3B
+  G: '14'
+  PO: '13'
+  A: '23'
+  E: '6'
+  DP: '1'
+  PCT: '.857'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Cihocki
+  nameClub: Birmingham
+  Pos: SS
+  G: '121'
+  PO: '258'
+  A: '361'
+  E: '29'
+  DP: '79'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Olivares
+  nameClub: Chattanooga
+  Pos: SS
+  G: '139'
+  PO: '246'
+  A: '422'
+  E: '39'
+  DP: '87'
+  PCT: '.945'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Griffiths
+  nameClub: Little Rock
+  Pos: SS
+  G: '91'
+  PO: '188'
+  A: '276'
+  E: '27'
+  DP: '39'
+  PCT: '.945'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Trapp
+  nameClub: Birmingham
+  Pos: SS
+  G: '23'
+  PO: '41'
+  A: '61'
+  E: '6'
+  DP: '17'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Chatham
+  nameClub: Atlanta
+  Pos: SS
+  G: '155'
+  PO: '324'
+  A: '485'
+  E: '39'
+  DP: '93'
+  PCT: '.942'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Irwin
+  nameClub: New Orleans
+  Pos: SS
+  G: '151'
+  PO: '341'
+  A: '459'
+  E: '49'
+  DP: '66'
+  PCT: '.942'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Scharein
+  nameClub: Nashville
+  Pos: SS
+  G: '91'
+  PO: '197'
+  A: '213'
+  E: '26'
+  DP: '46'
+  PCT: '.940'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Gibson
+  nameClub: Little Rock
+  Pos: SS
+  G: '56'
+  PO: '117'
+  A: '157'
+  E: '19'
+  DP: '30'
+  PCT: '.935'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Marquardt
+  nameClub: Memphis
+  Pos: SS
+  G: '97'
+  PO: '199'
+  A: '244'
+  E: '33'
+  DP: '43'
+  PCT: '.931'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Fiarito
+  nameClub: Knoxville
+  Pos: SS
+  G: '132'
+  PO: '311'
+  A: '396'
+  E: '54'
+  DP: '59'
+  PCT: '.929'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Bonner
+  nameClub: Knoxville
+  Pos: SS
+  G: '11'
+  PO: '31'
+  A: '36'
+  E: '6'
+  DP: '8'
+  PCT: '.918'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Rodda
+  nameClub: Nashville
+  Pos: SS
+  G: '64'
+  PO: '113'
+  A: '127'
+  E: '24'
+  DP: '58'
+  PCT: '.909'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Calvey
+  nameClub: Memphis
+  Pos: SS
+  G: '53'
+  PO: '122'
+  A: '142'
+  E: '30'
+  DP: '23'
+  PCT: '.898'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Nix
+  nameClub: Chattanooga
+  Pos: SS
+  G: '23'
+  PO: '45'
+  A: '66'
+  E: '14'
+  DP: '11'
+  PCT: '.888'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Henrich
+  nameClub: New Orleans
+  Pos: LF
+  G: '10'
+  PO: '17'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Browne
+  nameClub: Atlanta
+  Pos: LF
+  G: '37'
+  PO: '80'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Feathers
+  nameClub: Knoxville
+  Pos: LF
+  G: '19'
+  PO: '45'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Rose
+  nameClub: New Orleans
+  Pos: LF
+  G: '108'
+  PO: '177'
+  A: '10'
+  E: '4'
+  DP: '2'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Liberto
+  nameClub: Little Rock
+  Pos: LF
+  G: '26'
+  PO: '40'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.977'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Stephenson
+  nameClub: Birmingham
+  Pos: LF
+  G: '118'
+  PO: '218'
+  A: '13'
+  E: '7'
+  DP: '2'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Reese
+  nameClub: Memphis
+  Pos: LF
+  G: '26'
+  PO: '63'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Tyler
+  nameClub: Knoxville
+  Pos: LF
+  G: '110'
+  PO: '224'
+  A: '19'
+  E: '8'
+  DP: '1'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Graham
+  nameClub: Little Rock
+  Pos: LF
+  G: '31'
+  PO: '65'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Harris
+  nameClub: Atlanta
+  Pos: LF
+  G: '91'
+  PO: '188'
+  A: '8'
+  E: '9'
+  DP: '0'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Wright
+  nameFirst: T.
+  nameClub: Chattanooga
+  Pos: LF
+  G: '137'
+  PO: '287'
+  A: '13'
+  E: '15'
+  DP: '0'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Crawford
+  nameClub: Little Rock
+  Pos: LF
+  G: '67'
+  PO: '119'
+  A: '9'
+  E: '7'
+  PCT: '.948'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Scott
+  nameFirst: L.
+  nameClub: Birmingham
+  Pos: LF
+  G: '16'
+  PO: '33'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Dwyer
+  nameClub: Nashville
+  Pos: LF
+  G: '56'
+  PO: '91'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PCT: '.934'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Gleeson
+  nameClub: New Orleans
+  Pos: LF
+  G: '36'
+  PO: '69'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Taitt
+  nameClub: Nashville
+  Pos: LF
+  G: '98'
+  PO: '149'
+  A: '3'
+  E: '12'
+  DP: '0'
+  PCT: '.927'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Duke
+  nameClub: Memphis
+  Pos: LF
+  G: '116'
+  PO: '226'
+  A: '12'
+  E: '16'
+  DP: '1'
+  PCT: '.897'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Mauldin
+  nameClub: Knoxville
+  Pos: CF
+  G: '130'
+  PO: '404'
+  A: '7'
+  E: '8'
+  DP: '1'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Henrich
+  nameClub: New Orleans
+  Pos: CF
+  G: '122'
+  PO: '326'
+  A: '21'
+  E: '7'
+  DP: '5'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Bonowitz
+  nameClub: Chattanooga
+  Pos: CF
+  G: '57'
+  PO: '136'
+  A: '12'
+  E: '3'
+  DP: '3'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Duke
+  nameClub: Memphis
+  Pos: CF
+  G: '14'
+  PO: '43'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Nonnenkamp
+  nameClub: Little Rock
+  Pos: CF
+  G: '131'
+  PO: '349'
+  A: '16'
+  E: '8'
+  DP: '2'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Hamel
+  nameClub: Atlanta
+  Pos: CF
+  G: '97'
+  PO: '236'
+  A: '11'
+  E: '6'
+  DP: '4'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Grace
+  nameClub: Memphis
+  Pos: CF
+  G: '24'
+  PO: '63'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Luce
+  nameClub: Birmingham
+  Pos: CF
+  G: '87'
+  PO: '238'
+  A: '8'
+  E: '8'
+  DP: '1'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Richbourg
+  nameClub: Nashville
+  Pos: CF
+  G: '37'
+  PO: '89'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Cotelle
+  nameClub: Memphis
+  Pos: CF
+  G: '98'
+  PO: '257'
+  A: '11'
+  E: '10'
+  DP: '2'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Weatherly
+  nameClub: New Orleans
+  Pos: CF
+  G: '35'
+  PO: '79'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Marion
+  nameClub: Chattanooga
+  Pos: CF
+  G: '44'
+  PO: '118'
+  A: '7'
+  E: '5'
+  DP: '2'
+  PCT: '.962'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Wright
+  nameFirst: T.
+  nameClub: Chattanooga
+  Pos: CF
+  G: '20'
+  PO: '40'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Mailho
+  nameClub: Atlanta
+  Pos: CF
+  G: '51'
+  PO: '133'
+  A: '2'
+  E: '8'
+  DP: '0'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Tyler
+  nameClub: Knoxville
+  Pos: CF
+  G: '13'
+  PO: '36'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.925'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Scott
+  nameFirst: L.
+  nameClub: Birmingham
+  Pos: CF
+  G: '13'
+  PO: '30'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.892'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Peacock
+  nameClub: Nashville
+  Pos: CF
+  G: '15'
+  PO: '31'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.868'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Triplett
+  nameClub: Nashville
+  Pos: CF
+  G: '94'
+  PO: '208'
+  A: '13'
+  E: '17'
+  DP: '1'
+  PCT: '.829'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Hutcheson
+  nameClub: Atlanta
+  Pos: RF
+  G: '32'
+  PO: '54'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Barton
+  nameClub: Birmingham
+  Pos: RF
+  G: '15'
+  PO: '30'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Gleeson
+  nameClub: New Orleans
+  Pos: RF
+  G: '42'
+  PO: '88'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Deal
+  nameClub: Little Rock
+  Pos: RF
+  G: '129'
+  PO: '200'
+  A: '12'
+  E: '5'
+  DP: '3'
+  PCT: '.977'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Mailho
+  nameClub: Atlanta
+  Pos: RF
+  G: '16'
+  PO: '35'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Browne
+  nameClub: Atlanta
+  Pos: RF
+  G: '102'
+  PO: '171'
+  A: '17'
+  E: '6'
+  DP: '5'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Henrich
+  nameClub: New Orleans
+  Pos: RF
+  G: '25'
+  PO: '50'
+  A: '7'
+  E: '2'
+  DP: '2'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Fleming
+  nameClub: New Orleans
+  Pos: RF
+  G: '83'
+  PO: '157'
+  A: '8'
+  E: '6'
+  DP: '1'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Dwyer
+  nameClub: Nashville
+  Pos: RF
+  G: '98'
+  PO: '142'
+  A: '14'
+  E: '6'
+  DP: '0'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Grace
+  nameClub: Memphis
+  Pos: RF
+  G: '92'
+  PO: '165'
+  A: '10'
+  E: '7'
+  DP: '1'
+  PCT: '.962'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Scott
+  nameFirst: L.
+  nameClub: Birmingham
+  Pos: RF
+  G: '118'
+  PO: '201'
+  A: '13'
+  E: '9'
+  DP: '1'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Sington
+  nameClub: Chattanooga
+  Pos: RF
+  G: '142'
+  PO: '241'
+  A: '15'
+  E: '11'
+  DP: '2'
+  PCT: '.959'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Webb
+  nameClub: Knoxville
+  Pos: RF
+  G: '128'
+  PO: '215'
+  A: '10'
+  E: '10'
+  DP: '2'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Reese
+  nameClub: Memphis
+  Pos: RF
+  G: '30'
+  PO: '55'
+  A: '3'
+  E: '3'
+  DP: '3'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Sutherlin
+  nameClub: Little Rock
+  Pos: RF
+  G: '14'
+  PO: '16'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Taitt
+  nameClub: Nashville
+  Pos: RF
+  G: '50'
+  PO: '74'
+  A: '2'
+  E: '7'
+  DP: '1'
+  PCT: '.916'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Hofmann
+  nameClub: Memphis
+  Pos: C
+  G: '10'
+  PO: '45'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  PB: '0'
+  CS: '1'
+  SB: '5'
+  CSPCT: '.167'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Sueme
+  nameClub: Birmingham
+  Pos: C
+  G: '56'
+  PO: '183'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.990'
+  PB: '4'
+  CS: '7'
+  SB: '21'
+  CSPCT: '.250'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Autry
+  nameClub: New Orleans
+  Pos: C
+  G: '40'
+  PO: '124'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.986'
+  PB: '5'
+  CS: '8'
+  SB: '10'
+  CSPCT: '.444'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Hinkle
+  nameClub: Little Rock
+  Pos: C
+  G: '29'
+  PO: '108'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.984'
+  PB: '2'
+  CS: '5'
+  SB: '17'
+  CSPCT: '.227'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Mueller
+  nameClub: Knoxville
+  Pos: C
+  G: '71'
+  PO: '211'
+  A: '57'
+  E: '5'
+  DP: '8'
+  PCT: '.982'
+  PB: '0'
+  CS: '24'
+  SB: '21'
+  CSPCT: '.533'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Dickey
+  nameClub: Little Rock
+  Pos: C
+  G: '35'
+  PO: '202'
+  A: '22'
+  E: '4'
+  DP: '4'
+  PCT: '.982'
+  PB: '5'
+  CS: '7'
+  SB: '23'
+  CSPCT: '.233'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: O'Malley
+  nameClub: Nashville
+  Pos: C
+  G: '71'
+  PO: '326'
+  A: '55'
+  E: '11'
+  DP: '7'
+  PCT: '.978'
+  PB: '2'
+  CS: '31'
+  SB: '21'
+  CSPCT: '.596'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Haley
+  nameClub: Memphis
+  Pos: C
+  G: '64'
+  PO: '211'
+  A: '39'
+  E: '7'
+  DP: '4'
+  PCT: '.973'
+  PB: '7'
+  CS: '19'
+  SB: '26'
+  CSPCT: '.422'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Head
+  nameClub: Little Rock
+  Pos: C
+  G: '27'
+  PO: '104'
+  A: '25'
+  E: '4'
+  DP: '2'
+  PCT: '.970'
+  PB: '0'
+  CS: '11'
+  SB: '14'
+  CSPCT: '.440'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Peacock
+  nameClub: Nashville
+  Pos: C
+  G: '85'
+  PO: '394'
+  A: '30'
+  E: '15'
+  DP: '2'
+  PCT: '.966'
+  PB: '12'
+  CS: '20'
+  SB: '17'
+  CSPCT: '.541'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Helf
+  nameClub: New Orleans
+  Pos: C
+  G: '119'
+  PO: '414'
+  A: '72'
+  E: '18'
+  DP: '10'
+  PCT: '.964'
+  PB: '9'
+  CS: '33'
+  SB: '34'
+  CSPCT: '.493'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Richards
+  nameClub: Atlanta
+  Pos: C
+  G: '98'
+  PO: '422'
+  A: '56'
+  E: '18'
+  DP: '8'
+  PCT: '.964'
+  PB: '10'
+  CS: '26'
+  SB: '43'
+  CSPCT: '.377'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Rice
+  nameClub: Little Rock
+  Pos: C
+  G: '71'
+  PO: '276'
+  A: '50'
+  E: '12'
+  DP: '6'
+  PCT: '.964'
+  PB: '1'
+  CS: '21'
+  SB: '30'
+  CSPCT: '.412'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Holbrook
+  nameClub: Chattanooga
+  Pos: C
+  G: '112'
+  PO: '433'
+  A: '58'
+  E: '20'
+  DP: '8'
+  PCT: '.961'
+  PB: '9'
+  CS: '26'
+  SB: '53'
+  CSPCT: '.329'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Powell
+  nameClub: Memphis
+  Pos: C
+  G: '91'
+  PO: '362'
+  A: '49'
+  E: '17'
+  DP: '3'
+  PCT: '.960'
+  PB: '9'
+  CS: '28'
+  SB: '56'
+  CSPCT: '.333'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Crompton
+  nameClub: Chattanooga
+  Pos: C
+  G: '55'
+  PO: '178'
+  A: '32'
+  E: '9'
+  DP: '2'
+  PCT: '.959'
+  PB: '8'
+  CS: '18'
+  SB: '23'
+  CSPCT: '.439'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Palmisano
+  nameClub: Birmingham
+  Pos: C
+  G: '107'
+  PO: '368'
+  A: '53'
+  E: '19'
+  DP: '6'
+  PCT: '.957'
+  PB: '7'
+  CS: '21'
+  SB: '40'
+  CSPCT: '.344'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Bandy
+  nameClub: Knoxville
+  Pos: C
+  G: '59'
+  PO: '144'
+  A: '26'
+  E: '8'
+  DP: '1'
+  PCT: '.955'
+  PB: '6'
+  CS: '14'
+  SB: '29'
+  CSPCT: '.326'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Galvin
+  nameClub: Atlanta
+  Pos: C
+  G: '67'
+  PO: '255'
+  A: '32'
+  E: '15'
+  DP: '5'
+  PCT: '.950'
+  PB: '9'
+  CS: '13'
+  SB: '23'
+  CSPCT: '.361'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Davis
+  nameClub: Knoxville
+  Pos: C
+  G: '27'
+  PO: '94'
+  A: '9'
+  E: '6'
+  DP: '0'
+  PCT: '.945'
+  PB: '1'
+  CS: '4'
+  SB: '19'
+  CSPCT: '.174'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Krole
+  nameClub: New Orleans
+  Pos: C
+  G: '12'
+  PO: '61'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.941'
+  PB: '1'
+  CS: '3'
+  SB: '13'
+  CSPCT: '.187'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Powell
+  nameClub: Memphis
+  Pos: UT
+  G: '13'
+  PO: '17'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Bonowitz
+  nameClub: Chattanooga
+  Pos: UT
+  G: '10'
+  PO: '16'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: James
+  nameClub: Birmingham
+  Pos: UT
+  G: '54'
+  PO: '128'
+  A: '8'
+  E: '2'
+  DP: '4'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Bach
+  nameClub: Knoxville
+  Pos: UT
+  G: '29'
+  PO: '49'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Rhodes
+  nameClub: Knoxville
+  Pos: UT
+  G: '12'
+  PO: '39'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Bloodworth
+  nameClub: Chattanooga
+  Pos: UT
+  G: '26'
+  PO: '38'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: O'Neil
+  nameClub: Little Rock
+  Pos: UT
+  G: '29'
+  PO: '146'
+  A: '5'
+  E: '4'
+  DP: '7'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Woodard
+  nameClub: Birmingham
+  Pos: UT
+  G: '108'
+  PO: '195'
+  A: '88'
+  E: '8'
+  DP: '10'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Trent
+  nameClub: Little Rock
+  Pos: UT
+  G: '54'
+  PO: '114'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.967'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Fisher
+  nameClub: Birmingham
+  Pos: UT
+  G: '16'
+  PO: '21'
+  A: '29'
+  E: '2'
+  DP: '2'
+  PCT: '.962'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Blaemire
+  nameClub: Nashville
+  Pos: UT
+  G: '11'
+  PO: '39'
+  A: '10'
+  E: '2'
+  DP: '2'
+  PCT: '.961'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Thaxton
+  nameClub: Chattanooga
+  Pos: UT
+  G: '21'
+  PO: '45'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Moore
+  nameFirst: E.
+  nameClub: Atlanta
+  Pos: UT
+  G: '39'
+  PO: '57'
+  A: '29'
+  E: '4'
+  DP: '5'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Mauldin
+  nameClub: Knoxville
+  Pos: UT
+  G: '11'
+  PO: '20'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Jans
+  nameClub: Knoxville
+  Pos: UT
+  G: '19'
+  PO: '42'
+  A: '56'
+  E: '6'
+  DP: '7'
+  PCT: '.942'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Snyder
+  nameClub: Knoxville
+  Pos: UT
+  G: '41'
+  PO: '107'
+  A: '78'
+  E: '14'
+  DP: '8'
+  PCT: '.930'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Ruble
+  nameClub: Knoxville
+  Pos: UT
+  G: '30'
+  PO: '51'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.912'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Nagel
+  nameClub: Memphis
+  Pos: UT
+  G: '34'
+  PO: '51'
+  A: '51'
+  E: '10'
+  DP: '6'
+  PCT: '.911'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Jansco
+  nameClub: Little Rock
+  Pos: UT
+  G: '12'
+  PO: '13'
+  A: '7'
+  E: '2'
+  DP: '2'
+  PCT: '.910'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Beach
+  nameClub: New Orleans
+  Pos: UT
+  G: '12'
+  PO: '19'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.910'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: McCormick
+  nameClub: New Orleans
+  Pos: UT
+  G: '26'
+  PO: '23'
+  A: '48'
+  E: '9'
+  DP: '3'
+  PCT: '.887'
+- year: '1936'
+  nameLeague: Southern Association
+  nameLast: Asbell
+  nameClub: Memphis
+  Pos: UT
+  G: '24'
+  PO: '36'
+  A: '0'
+  E: '9'
+  DP: '0'
+  PCT: '.800'

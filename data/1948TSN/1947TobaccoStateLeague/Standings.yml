@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Sanford
+  phase: regular
+  W: '86'
+  L: '39'
+  T: '0'
+  PCT: '.688'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Lumberton
+  phase: regular
+  W: '71'
+  L: '49'
+  T: '2'
+  PCT: '.592'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Wilmington
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '2'
+  PCT: '.544'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Dunn-Erwin
+  phase: regular
+  W: '62'
+  L: '62'
+  T: '4'
+  PCT: '.500'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Warsaw
+  phase: regular
+  W: '59'
+  L: '64'
+  T: '3'
+  PCT: '.480'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Clinton
+  phase: regular
+  W: '56'
+  L: '67'
+  T: '0'
+  PCT: '.455'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Red Springs
+  phase: regular
+  W: '47'
+  L: '78'
+  T: '0'
+  PCT: '.376'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Smithfield-Selma
+  phase: regular
+  W: '46'
+  L: '79'
+  T: '1'
+  PCT: '.368'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Sanford
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Wilmington
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Lumberton
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Dunn-Erwin
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Sanford
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Tobacco State League
+  nameClub: Lumberton
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

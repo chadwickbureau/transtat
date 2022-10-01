@@ -1,0 +1,1264 @@
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Alderman
+  nameClub1: Crowley
+  GP: '23'
+  GS: '15'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '5'
+  PCT: '.500'
+  IP: '138'
+  H: '144'
+  HR: '6'
+  R: '83'
+  ER: '50'
+  BB: '62'
+  SO: '86'
+  HB: '1'
+  WP: '3'
+  ERA: '3.26'
+  BK: '1'
+  ERA_RANK: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Altomare
+  nameClub1: Thibodaux
+  nameClub2: Baton Rouge
+  GP: '14'
+  GS: '11'
+  CG: '7'
+  SHO: '0'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '85'
+  H: '91'
+  HR: '13'
+  R: '57'
+  ER: '46'
+  BB: '28'
+  SO: '64'
+  HB: '0'
+  WP: '2'
+  ERA: '4.87'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Buckner
+  nameClub1: Thibodaux
+  nameClub2: Baton Rouge
+  GP: '14'
+  GS: '4'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '1'
+  PCT: '.667'
+  IP: '38'
+  H: '34'
+  HR: '2'
+  R: '22'
+  ER: '13'
+  BB: '31'
+  SO: '18'
+  HB: '1'
+  WP: '2'
+  ERA: '3.08'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Burton
+  nameClub1: Alexandria
+  GP: '17'
+  GS: '13'
+  CG: '4'
+  SHO: '0'
+  W: '2'
+  L: '9'
+  PCT: '.182'
+  IP: '79'
+  H: '87'
+  HR: '7'
+  R: '76'
+  ER: '59'
+  BB: '85'
+  SO: '28'
+  HB: '6'
+  WP: '10'
+  ERA: '6.72'
+  BK: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Chezik
+  nameClub1: Lake Charles
+  nameClub2: Thibodaux
+  GP: '8'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '47'
+  H: '67'
+  HR: '2'
+  R: '41'
+  ER: '30'
+  BB: '19'
+  SO: '32'
+  HB: '2'
+  WP: '5'
+  ERA: '5.74'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Davis
+  nameFirst: L.
+  nameClub1: Lafayette
+  GP: '16'
+  GS: '4'
+  CG: '2'
+  SHO: '0'
+  W: '5'
+  L: '2'
+  PCT: '.714'
+  IP: '54'
+  H: '57'
+  HR: '1'
+  R: '32'
+  ER: '27'
+  BB: '42'
+  SO: '24'
+  HB: '1'
+  WP: '2'
+  ERA: '4.50'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: DiMuzio
+  nameClub1: Lake Charles
+  GP: '33'
+  GS: '20'
+  CG: '7'
+  SHO: '1'
+  W: '7'
+  L: '11'
+  PCT: '.389'
+  IP: '180'
+  H: '190'
+  HR: '24'
+  R: '131'
+  ER: '109'
+  BB: '112'
+  SO: '142'
+  HB: '3'
+  WP: '8'
+  ERA: '5.45'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Donaldson
+  nameClub1: Thibodaux
+  throws: L
+  GP: '31'
+  GS: '22'
+  CG: '9'
+  SHO: '0'
+  W: '9'
+  L: '10'
+  PCT: '.474'
+  IP: '182'
+  H: '182'
+  HR: '12'
+  R: '97'
+  ER: '69'
+  BB: '107'
+  SO: '105'
+  HB: '1'
+  WP: '9'
+  ERA: '3.41'
+  BK: '0'
+  ERA_RANK: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Donnelly
+  nameClub1: Lafayette
+  GP: '17'
+  GS: '12'
+  CG: '6'
+  SHO: '0'
+  W: '11'
+  L: '3'
+  PCT: '.786'
+  IP: '103'
+  H: '101'
+  HR: '7'
+  R: '63'
+  ER: '50'
+  BB: '53'
+  SO: '97'
+  HB: '0'
+  WP: '4'
+  ERA: '4.37'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fahnestock
+  nameClub1: Alexandria
+  GP: '18'
+  GS: '9'
+  CG: '6'
+  SHO: '0'
+  W: '7'
+  L: '2'
+  PCT: '.778'
+  IP: '104'
+  H: '110'
+  HR: '10'
+  R: '65'
+  ER: '55'
+  BB: '55'
+  SO: '44'
+  HB: '2'
+  WP: '0'
+  ERA: '4.76'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fitzgerald
+  nameClub1: Baton Rouge
+  GP: '18'
+  GS: '12'
+  CG: '9'
+  SHO: '0'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  IP: '116'
+  H: '113'
+  HR: '7'
+  R: '55'
+  ER: '43'
+  BB: '60'
+  SO: '78'
+  HB: '3'
+  WP: '3'
+  ERA: '3.34'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fuller
+  nameClub1: Crowley
+  GP: '29'
+  GS: '18'
+  CG: '13'
+  SHO: '3'
+  W: '13'
+  L: '8'
+  PCT: '.619'
+  IP: '159'
+  H: '169'
+  HR: '22'
+  R: '84'
+  ER: '68'
+  BB: '41'
+  SO: '79'
+  HB: '2'
+  WP: '2'
+  ERA: '3.85'
+  BK: '0'
+  ERA_RANK: '7'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Gorrondona
+  nameClub1: Lake Charles
+  GP: '30'
+  GS: '26'
+  CG: '18'
+  SHO: '3'
+  W: '12'
+  L: '11'
+  PCT: '.522'
+  IP: '204'
+  H: '177'
+  HR: '18'
+  R: '107'
+  ER: '83'
+  BB: '107'
+  SO: '161'
+  HB: '1'
+  WP: '13'
+  ERA: '3.66'
+  BK: '0'
+  ERA_RANK: '5'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Grover
+  nameClub1: Lafayette
+  GP: '13'
+  GS: '8'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '52'
+  H: '66'
+  HR: '6'
+  R: '49'
+  ER: '45'
+  BB: '45'
+  SO: '47'
+  HB: '4'
+  WP: '8'
+  ERA: '7.79'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hartsoe
+  nameClub1: Alexandria
+  GP: '32'
+  GS: '3'
+  CG: '2'
+  SHO: '0'
+  W: '11'
+  L: '6'
+  PCT: '.647'
+  IP: '100'
+  H: '91'
+  HR: '5'
+  R: '47'
+  ER: '38'
+  BB: '46'
+  SO: '81'
+  HB: '4'
+  WP: '1'
+  ERA: '3.42'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hickman
+  nameClub1: Lafayette
+  GP: '16'
+  GS: '9'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '56'
+  H: '42'
+  HR: '3'
+  R: '39'
+  ER: '32'
+  BB: '77'
+  SO: '40'
+  HB: '2'
+  WP: '4'
+  ERA: '5.14'
+  BK: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hicks
+  nameClub1: Crowley
+  GP: '14'
+  GS: '9'
+  CG: '6'
+  SHO: '0'
+  W: '6'
+  L: '4'
+  PCT: '.600'
+  IP: '87'
+  H: '82'
+  HR: '7'
+  R: '43'
+  ER: '36'
+  BB: '42'
+  SO: '46'
+  HB: '1'
+  WP: '2'
+  ERA: '3.72'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hodges
+  nameClub1: Alexandria
+  GP: '8'
+  GS: '7'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '1'
+  PCT: '.667'
+  IP: '37'
+  H: '38'
+  HR: '0'
+  R: '24'
+  ER: '20'
+  BB: '36'
+  SO: '24'
+  HB: '1'
+  WP: '0'
+  ERA: '4.86'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hughes
+  nameClub1: Thibodaux
+  GP: '22'
+  GS: '3'
+  CG: '1'
+  SHO: '1'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '66'
+  H: '49'
+  HR: '2'
+  R: '30'
+  ER: '19'
+  BB: '35'
+  SO: '45'
+  HB: '0'
+  WP: '2'
+  ERA: '2.59'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Jurecko
+  nameClub1: Alexandria
+  throws: L
+  GP: '13'
+  GS: '6'
+  CG: '1'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '56'
+  H: '54'
+  HR: '0'
+  R: '43'
+  ER: '38'
+  BB: '56'
+  SO: '46'
+  HB: '2'
+  WP: '3'
+  ERA: '6.11'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Kirby
+  nameClub1: Lake Charles
+  throws: L
+  GP: '10'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '31'
+  H: '33'
+  HR: '0'
+  R: '22'
+  ER: '12'
+  BB: '11'
+  SO: '20'
+  HB: '1'
+  WP: '2'
+  ERA: '3.48'
+  BK: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Larned
+  nameClub1: Thibodaux
+  throws: L
+  GP: '26'
+  GS: '24'
+  CG: '8'
+  SHO: '0'
+  W: '6'
+  L: '14'
+  PCT: '.300'
+  IP: '152'
+  H: '170'
+  HR: '14'
+  R: '121'
+  ER: '100'
+  BB: '131'
+  SO: '137'
+  HB: '6'
+  WP: '23'
+  ERA: '5.92'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Lindsey
+  nameClub1: Baton Rouge
+  GP: '15'
+  GS: '10'
+  CG: '5'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '78'
+  H: '85'
+  HR: '2'
+  R: '56'
+  ER: '40'
+  BB: '59'
+  SO: '34'
+  HB: '5'
+  WP: '2'
+  ERA: '4.62'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Makay
+  nameClub1: Lake Charles
+  GP: '14'
+  GS: '8'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '49'
+  H: '35'
+  HR: '0'
+  R: '48'
+  ER: '41'
+  BB: '88'
+  SO: '45'
+  HB: '4'
+  WP: '7'
+  ERA: '7.53'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McArdle
+  nameClub1: Baton Rouge
+  throws: L
+  GP: '13'
+  GS: '6'
+  CG: '6'
+  SHO: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '62'
+  H: '47'
+  HR: '2'
+  R: '37'
+  ER: '33'
+  BB: '48'
+  SO: '53'
+  HB: '4'
+  WP: '6'
+  ERA: '4.79'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McCarthy
+  nameClub1: Alexandria
+  GP: '15'
+  GS: '10'
+  CG: '0'
+  SHO: '0'
+  W: '5'
+  L: '1'
+  PCT: '.833'
+  IP: '66'
+  H: '40'
+  HR: '3'
+  R: '39'
+  ER: '32'
+  BB: '71'
+  SO: '85'
+  HB: '4'
+  WP: '6'
+  ERA: '4.36'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McFarland
+  nameClub1: Crowley
+  GP: '16'
+  GS: '7'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '53'
+  H: '57'
+  HR: '5'
+  R: '56'
+  ER: '44'
+  BB: '59'
+  SO: '33'
+  HB: '1'
+  WP: '6'
+  ERA: '7.47'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Moore
+  nameClub1: Lafayette
+  GP: '16'
+  GS: '11'
+  CG: '5'
+  SHO: '1'
+  W: '8'
+  L: '4'
+  PCT: '.667'
+  IP: '84'
+  H: '86'
+  HR: '9'
+  R: '56'
+  ER: '45'
+  BB: '30'
+  SO: '55'
+  HB: '1'
+  WP: '1'
+  ERA: '4.82'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Mudrock
+  nameClub1: Alexandria
+  GP: '25'
+  GS: '14'
+  CG: '6'
+  SHO: '0'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '110'
+  H: '100'
+  HR: '6'
+  R: '82'
+  ER: '72'
+  BB: '98'
+  SO: '52'
+  HB: '2'
+  WP: '10'
+  ERA: '5.89'
+  BK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Nisewonger
+  nameClub1: Thibodaux
+  GP: '8'
+  GS: '6'
+  CG: '3'
+  SHO: '0'
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  IP: '43'
+  H: '45'
+  HR: '1'
+  R: '30'
+  ER: '28'
+  BB: '33'
+  SO: '20'
+  HB: '2'
+  WP: '2'
+  ERA: '5.86'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Nonnenmacher
+  nameClub1: Crowley
+  GP: '8'
+  GS: '6'
+  CG: '4'
+  SHO: '0'
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  IP: '41'
+  H: '42'
+  HR: '5'
+  R: '28'
+  ER: '22'
+  BB: '23'
+  SO: '28'
+  HB: '0'
+  WP: '2'
+  ERA: '4.83'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Pfister
+  nameClub1: Crowley
+  GP: '25'
+  GS: '20'
+  CG: '11'
+  SHO: '0'
+  W: '13'
+  L: '6'
+  PCT: '.684'
+  IP: '147'
+  H: '129'
+  HR: '8'
+  R: '77'
+  ER: '66'
+  BB: '91'
+  SO: '83'
+  HB: '4'
+  WP: '2'
+  ERA: '4.04'
+  BK: '1'
+  ERA_RANK: '8'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Pleis
+  nameClub1: Lafayette
+  throws: L
+  GP: '22'
+  GS: '11'
+  CG: '8'
+  SHO: '3'
+  W: '7'
+  L: '3'
+  PCT: '.700'
+  IP: '100'
+  H: '89'
+  HR: '5'
+  R: '38'
+  ER: '31'
+  BB: '45'
+  SO: '92'
+  HB: '1'
+  WP: '3'
+  ERA: '2.79'
+  BK: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Riesener
+  nameClub1: Alexandria
+  GP: '24'
+  GS: '24'
+  CG: '18'
+  SHO: '4'
+  W: '20'
+  L: '0'
+  PCT: '1.000'
+  IP: '204'
+  H: '165'
+  HR: '12'
+  R: '59'
+  ER: '49'
+  BB: '75'
+  SO: '131'
+  HB: '1'
+  WP: '6'
+  ERA: '2.16'
+  BK: '0'
+  ERA_RANK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Riska
+  nameClub1: Alexandria
+  GP: '25'
+  GS: '17'
+  CG: '5'
+  SHO: '0'
+  W: '8'
+  L: '8'
+  PCT: '.500'
+  IP: '121'
+  H: '137'
+  HR: '13'
+  R: '87'
+  ER: '77'
+  BB: '88'
+  SO: '73'
+  HB: '4'
+  WP: '1'
+  ERA: '5.73'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Rudenacker
+  nameClub1: Thibodaux
+  GP: '35'
+  GS: '21'
+  CG: '14'
+  SHO: '1'
+  W: '11'
+  L: '11'
+  PCT: '.500'
+  IP: '183'
+  H: '192'
+  HR: '12'
+  R: '104'
+  ER: '74'
+  BB: '91'
+  SO: '113'
+  HB: '4'
+  WP: '10'
+  ERA: '3.64'
+  BK: '0'
+  ERA_RANK: '4'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Sassone
+  nameClub1: Thibodaux
+  GP: '23'
+  GS: '18'
+  CG: '12'
+  SHO: '2'
+  W: '9'
+  L: '12'
+  PCT: '.429'
+  IP: '147'
+  H: '169'
+  HR: '6'
+  R: '85'
+  ER: '76'
+  BB: '71'
+  SO: '86'
+  HB: '8'
+  WP: '4'
+  ERA: '4.65'
+  BK: '0'
+  ERA_RANK: '10'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Stegall
+  nameClub1: Lake Charles
+  GP: '26'
+  GS: '18'
+  CG: '12'
+  SHO: '2'
+  W: '9'
+  L: '11'
+  PCT: '.450'
+  IP: '156'
+  H: '176'
+  HR: '22'
+  R: '117'
+  ER: '100'
+  BB: '82'
+  SO: '102'
+  HB: '5'
+  WP: '11'
+  ERA: '5.77'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Tompkins
+  nameClub1: Lake Charles
+  throws: L
+  GP: '36'
+  GS: '19'
+  CG: '15'
+  SHO: '2'
+  W: '12'
+  L: '12'
+  PCT: '.500'
+  IP: '187'
+  H: '194'
+  HR: '18'
+  R: '127'
+  ER: '91'
+  BB: '90'
+  SO: '111'
+  HB: '6'
+  WP: '3'
+  ERA: '4.38'
+  BK: '2'
+  ERA_RANK: '9'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Voegtlen
+  nameClub1: Crowley
+  throws: L
+  GP: '32'
+  GS: '13'
+  CG: '9'
+  SHO: '0'
+  W: '9'
+  L: '8'
+  PCT: '.529'
+  IP: '120'
+  H: '118'
+  HR: '21'
+  R: '90'
+  ER: '64'
+  BB: '87'
+  SO: '101'
+  HB: '1'
+  WP: '3'
+  ERA: '4.80'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Wallace
+  nameClub1: Baton Rouge
+  GP: '10'
+  GS: '8'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '53'
+  H: '52'
+  HR: '4'
+  R: '44'
+  ER: '38'
+  BB: '28'
+  SO: '37'
+  HB: '0'
+  WP: '1'
+  ERA: '6.45'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Webrand
+  nameClub1: Crowley
+  GP: '27'
+  GS: '22'
+  CG: '14'
+  SHO: '1'
+  W: '13'
+  L: '6'
+  PCT: '.684'
+  IP: '180'
+  H: '171'
+  HR: '13'
+  R: '94'
+  ER: '74'
+  BB: '65'
+  SO: '126'
+  HB: '2'
+  WP: '3'
+  ERA: '3.70'
+  BK: '0'
+  ERA_RANK: '6'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Zerda
+  nameClub1: Lake Charles
+  GP: '7'
+  GS: '2'
+  CG: '1'
+  SHO: '0'
+  W: '0'
+  L: '2'
+  PCT: '.000'
+  IP: '31'
+  H: '49'
+  HR: '7'
+  R: '39'
+  ER: '31'
+  BB: '22'
+  SO: '14'
+  HB: '0'
+  WP: '1'
+  ERA: '9.00'
+  BK: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Aiken
+  nameClub1: Alexandria
+  GP: '7'
+  W: '1'
+  L: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Evans
+  nameClub1: Alexandria
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Farinholt
+  nameClub1: Alexandria
+  GP: '7'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Wilmore
+  nameClub1: Alexandria
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Amoedo
+  nameClub1: Baton Rouge
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Bennett
+  nameClub1: Baton Rouge
+  GP: '5'
+  W: '0'
+  L: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Bradberry
+  nameClub1: Baton Rouge
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Carney
+  nameClub1: Baton Rouge
+  GP: '1'
+  W: '1'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Kling
+  nameClub1: Baton Rouge
+  GP: '5'
+  W: '0'
+  L: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Laird
+  nameClub1: Baton Rouge
+  GP: '4'
+  W: '0'
+  L: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Meder
+  nameClub1: Baton Rouge
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Morgan
+  nameClub1: Baton Rouge
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Slencak
+  nameClub1: Baton Rouge
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Talavera
+  nameClub1: Baton Rouge
+  GP: '4'
+  W: '1'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Townley
+  nameClub1: Baton Rouge
+  GP: '7'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Vasquez
+  nameClub1: Baton Rouge
+  GP: '2'
+  W: '1'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Wooldridge
+  nameClub1: 2@Thibodaux
+  nameClub2: 2@Baton Rouge
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fletcher
+  nameClub1: Lafayette
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Kray
+  nameClub1: Lafayette
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Pierce
+  nameClub1: Lafayette
+  GP: '6'
+  W: '1'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Alsup
+  nameClub1: Lake Charles
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Bumgardner
+  nameClub1: Lake Charles
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Cooley
+  nameClub1: Lake Charles
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: DeHondt
+  nameClub1: Lake Charles
+  GP: '3'
+  W: '0'
+  L: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Johnson
+  nameClub1: Lake Charles
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Lambert
+  nameClub1: Lake Charles
+  GP: '6'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Lankford
+  nameClub1: Lake Charles
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Lopez
+  nameClub1: Lake Charles
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Rodriguez
+  nameClub1: Lake Charles
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Saad
+  nameClub1: Lake Charles
+  GP: '6'
+  W: '1'
+  L: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Simpson
+  nameClub1: Lake Charles
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Zabosky
+  nameClub1: Lake Charles
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Bader
+  nameClub1: Thibodaux
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Dossey
+  nameClub1: Thibodaux
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Folse
+  nameClub1: Thibodaux
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Grover
+  nameClub1: Thibodaux
+  GP: '2'
+  W: '1'
+  L: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Maddox
+  nameClub1: Thibodaux
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Rodrique
+  nameClub1: 1@Baton Rouge
+  nameClub2: 6@Thibodaux
+  GP: '7'
+  W: '0'
+  L: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Scercy
+  nameClub1: Thibodaux
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Stechmann
+  nameClub1: Thibodaux
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Thrash
+  nameClub1: Thibodaux
+  GP: '8'
+  W: '0'
+  L: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Williams
+  nameClub1: Thibodaux
+  GP: '1'
+  W: '0'
+  L: '1'

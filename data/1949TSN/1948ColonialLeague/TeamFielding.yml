@@ -1,0 +1,66 @@
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Poughkeepsie
+  G: '137'
+  DP: '119'
+  TP: '0'
+  PB: '19'
+  PO: '3410'
+  A: '1414'
+  E: '222'
+  PCT: '.956'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Port Chester
+  G: '141'
+  DP: '116'
+  TP: '0'
+  PB: '27'
+  PO: '3449'
+  A: '1425'
+  E: '238'
+  PCT: '.953'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Kingston
+  G: '134'
+  DP: '120'
+  TP: '1'
+  PB: '10'
+  PO: '3302'
+  A: '1494'
+  E: '245'
+  PCT: '.951'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Waterbury
+  G: '133'
+  DP: '124'
+  TP: '0'
+  PB: '17'
+  PO: '3345'
+  A: '1561'
+  E: '280'
+  PCT: '.946'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Bridgeport
+  G: '134'
+  DP: '93'
+  TP: '0'
+  PB: '19'
+  PO: '3264'
+  A: '1380'
+  E: '265'
+  PCT: '.946'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Stamford
+  G: '133'
+  DP: '116'
+  TP: '0'
+  PB: '21'
+  PO: '3293'
+  A: '1364'
+  E: '295'
+  PCT: '.940'

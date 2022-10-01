@@ -1,0 +1,106 @@
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Geneva
+  phase: regular
+  W: '81'
+  L: '49'
+  T: '0'
+  PCT: '.623'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Ottawa
+  phase: regular
+  W: '74'
+  L: '55'
+  T: '0'
+  PCT: '.571'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  phase: regular
+  W: '70'
+  L: '60'
+  T: '0'
+  PCT: '.538'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Auburn
+  phase: regular
+  W: '67'
+  L: '62'
+  T: '0'
+  PCT: '.519'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Watertown
+  phase: regular
+  W: '58'
+  L: '71'
+  T: '0'
+  PCT: '.450'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Kingston
+  phase: regular
+  W: '38'
+  L: '91'
+  T: '0'
+  PCT: '.295'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Geneva
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Auburn
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Ottawa
+  phase: semifinal
+  division: Semiinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Geneva
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Border League
+  nameClub: Auburn
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

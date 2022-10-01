@@ -1,0 +1,110 @@
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: regular
+  W: '99'
+  L: '41'
+  PCT: '.707'
+  RANK: '1'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: regular
+  W: '85'
+  L: '55'
+  PCT: '.607'
+  RANK: '2'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: regular
+  W: '74'
+  L: '64'
+  PCT: '.536'
+  RANK: '3'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lamesa
+  phase: regular
+  W: '72'
+  L: '67'
+  PCT: '.518'
+  RANK: '4'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: regular
+  W: '67'
+  L: '72'
+  PCT: '.482'
+  RANK: '5'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  phase: regular
+  W: '61'
+  L: '79'
+  PCT: '.436'
+  RANK: '6'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: regular
+  W: '58'
+  L: '81'
+  PCT: '.417'
+  RANK: '7'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: regular
+  W: '41'
+  L: '98'
+  PCT: '.295'
+  RANK: '8'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lamesa
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

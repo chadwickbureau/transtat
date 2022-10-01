@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: California League
+  nameClub: Stockton
+  G: '140'
+  DP: '109'
+  PB: '18'
+  PO: '3611'
+  A: '1619'
+  E: '246'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Bakersfield
+  G: '139'
+  DP: '130'
+  PB: '14'
+  PO: '3611'
+  A: '1483'
+  E: '241'
+  PCT: '.954'
+  TP: '0'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  G: '140'
+  DP: '117'
+  PB: '45'
+  PO: '3656'
+  A: '1526'
+  E: '247'
+  PCT: '.954'
+  TP: '0'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Ventura
+  G: '141'
+  DP: '133'
+  PB: '15'
+  PO: '3760'
+  A: '1566'
+  E: '265'
+  PCT: '.953'
+  TP: '0'
+- year: '1949'
+  nameLeague: California League
+  nameClub: San Jose
+  G: '141'
+  DP: '105'
+  PB: '20'
+  PO: '3744'
+  A: '1590'
+  E: '271'
+  PCT: '.952'
+  TP: '0'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Fresno
+  G: '140'
+  DP: '127'
+  PB: '20'
+  PO: '3666'
+  A: '1532'
+  E: '266'
+  PCT: '.951'
+  TP: '0'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Visalia
+  G: '140'
+  DP: '152'
+  PB: '34'
+  PO: '3603'
+  A: '1479'
+  E: '264'
+  PCT: '.951'
+  TP: '2'
+- year: '1949'
+  nameLeague: California League
+  nameClub: Modesto
+  G: '140'
+  DP: '99'
+  PB: '24'
+  PO: '3566'
+  A: '1444'
+  E: '326'
+  PCT: '.939'
+  TP: '0'

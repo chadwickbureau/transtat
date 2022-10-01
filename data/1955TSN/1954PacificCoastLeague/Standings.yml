@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '102'
+  L: '67'
+  T: '0'
+  PCT: '.604'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '101'
+  L: '68'
+  T: '0'
+  PCT: '.598'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '85'
+  L: '82'
+  T: '1'
+  PCT: '.509'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '84'
+  L: '84'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '77'
+  L: '85'
+  T: '1'
+  PCT: '.475'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '73'
+  L: '92'
+  T: '1'
+  PCT: '.442'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '73'
+  L: '94'
+  T: '0'
+  PCT: '.437'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '71'
+  L: '94'
+  T: '1'
+  PCT: '.430'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: final
+  W: '3'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: final
+  W: '0'
+  L: '3'
+  T: '0'

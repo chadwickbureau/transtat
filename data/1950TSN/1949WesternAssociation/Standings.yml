@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: regular
+  W: '96'
+  L: '42'
+  T: '0'
+  PCT: '.696'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Fort Smith
+  phase: regular
+  W: '86'
+  L: '54'
+  T: '0'
+  PCT: '.614'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: regular
+  W: '80'
+  L: '58'
+  T: '1'
+  PCT: '.580'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: regular
+  W: '77'
+  L: '61'
+  T: '0'
+  PCT: '.558'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Muskogee
+  phase: regular
+  W: '77'
+  L: '62'
+  T: '0'
+  PCT: '.554'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Salina
+  phase: regular
+  W: '69'
+  L: '69'
+  T: '1'
+  PCT: '.500'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: regular
+  W: '41'
+  L: '93'
+  T: '1'
+  PCT: '.306'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Leavenworth
+  phase: regular
+  W: '25'
+  L: '112'
+  T: '1'
+  PCT: '.182'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Fort Smith
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

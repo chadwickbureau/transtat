@@ -1,0 +1,54 @@
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '81'
+  L: '49'
+  T: '0'
+  PCT: '.623'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: regular
+  W: '80'
+  L: '49'
+  T: '0'
+  PCT: '.620'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: regular
+  W: '65'
+  L: '65'
+  T: '0'
+  PCT: '.500'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular
+  W: '57'
+  L: '71'
+  T: '0'
+  PCT: '.445'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  phase: regular
+  W: '55'
+  L: '74'
+  T: '0'
+  PCT: '.426'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular
+  W: '49'
+  L: '79'
+  T: '0'
+  PCT: '.383'
+  RANK: '6'

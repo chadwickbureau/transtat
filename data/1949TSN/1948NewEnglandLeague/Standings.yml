@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Lynn
+  phase: regular
+  W: '85'
+  L: '40'
+  T: '0'
+  PCT: '.680'
+  RANK: '1'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Nashua
+  phase: regular
+  W: '84'
+  L: '41'
+  T: '2'
+  PCT: '.672'
+  RANK: '2'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Portland
+  phase: regular
+  W: '78'
+  L: '47'
+  T: '0'
+  PCT: '.624'
+  RANK: '3'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Pawtucket
+  phase: regular
+  W: '61'
+  L: '64'
+  T: '3'
+  PCT: '.488'
+  RANK: '4'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Manchester
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '2'
+  PCT: '.460'
+  RANK: '5'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Springfield
+  phase: regular
+  W: '52'
+  L: '74'
+  T: '0'
+  PCT: '.413'
+  RANK: '6'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Providence
+  phase: regular
+  W: '45'
+  L: '80'
+  T: '0'
+  PCT: '.360'
+  RANK: '7'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Fall River
+  phase: regular
+  W: '38'
+  L: '87'
+  T: '1'
+  PCT: '.304'
+  RANK: '8'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Lynn
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Portland
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Nashua
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Pawtucket
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '2'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Nashua
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: New England League
+  nameClub: Lynn
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

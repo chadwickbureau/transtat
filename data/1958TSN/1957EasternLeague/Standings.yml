@@ -1,0 +1,94 @@
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '85'
+  L: '55'
+  T: '1'
+  PCT: '.607'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '0'
+  PCT: '.593'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '66'
+  L: '73'
+  T: '0'
+  PCT: '.475'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  phase: regular
+  W: '56'
+  L: '84'
+  T: '1'
+  PCT: '.400'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Springfield
+  phase: regular
+  W: '55'
+  L: '84'
+  T: '0'
+  PCT: '.396'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: final
+  W: '3'
+  L: '1'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: final
+  W: '1'
+  L: '3'

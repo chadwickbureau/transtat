@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  Peoria: '15'
+  Davenport: '13'
+  Burlington: '17'
+  Keokuk: '20'
+  Cedar Rapids: '16'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  Evansville: '11'
+  Davenport: '18'
+  Burlington: '20'
+  Keokuk: '15'
+  Cedar Rapids: '16'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  Evansville: '13'
+  Peoria: '8'
+  Burlington: '12'
+  Keokuk: '17'
+  Cedar Rapids: '15'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  Evansville: '9'
+  Peoria: '6'
+  Davenport: '14'
+  Keokuk: '13'
+  Cedar Rapids: '15'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  Evansville: '6'
+  Peoria: '10'
+  Davenport: '9'
+  Burlington: '13'
+  Cedar Rapids: '17'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  Evansville: '10'
+  Peoria: '10'
+  Davenport: '11'
+  Burlington: '9'
+  Keokuk: '9'

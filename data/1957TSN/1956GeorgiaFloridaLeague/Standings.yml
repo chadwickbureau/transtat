@@ -1,0 +1,144 @@
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular/first
+  W: '47'
+  L: '22'
+  T: '0'
+  PCT: '.681'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular/first
+  W: '40'
+  L: '28'
+  T: '0'
+  PCT: '.588'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular/first
+  W: '36'
+  L: '33'
+  T: '0'
+  PCT: '.522'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/first
+  W: '35'
+  L: '33'
+  T: '0'
+  PCT: '.515'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular/first
+  W: '34'
+  L: '35'
+  T: '0'
+  PCT: '.493'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Tifton
+  phase: regular/first
+  W: '32'
+  L: '35'
+  T: '0'
+  PCT: '.478'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/first
+  W: '30'
+  L: '39'
+  T: '0'
+  PCT: '.435'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: regular/first
+  W: '20'
+  L: '49'
+  T: '0'
+  PCT: '.290'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular/second
+  W: '47'
+  L: '23'
+  T: '0'
+  PCT: '.671'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular/second
+  W: '39'
+  L: '31'
+  T: '0'
+  PCT: '.557'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Tifton
+  phase: regular/second
+  W: '38'
+  L: '31'
+  T: '0'
+  PCT: '.551'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/second
+  W: '35'
+  L: '35'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/second
+  W: '33'
+  L: '37'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular/second
+  W: '32'
+  L: '38'
+  T: '0'
+  PCT: '.457'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular/second
+  W: '28'
+  L: '41'
+  T: '0'
+  PCT: '.406'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: regular/second
+  W: '27'
+  L: '43'
+  T: '0'
+  PCT: '.386'
+  RANK: '8'

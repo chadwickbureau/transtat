@@ -1,0 +1,605 @@
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Sweeney
+  nameClub1: McKeesport
+  Pos: 1B
+  G: '98'
+  PO: '870'
+  A: '41'
+  E: '10'
+  PCT: '.989'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Bush
+  nameClub1: Greensburg
+  Pos: 1B
+  G: '19'
+  PO: '163'
+  A: '10'
+  E: '3'
+  PCT: '.983'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Bowers
+  nameClub1: Beaver Falls
+  Pos: 1B
+  G: '90'
+  PO: '803'
+  A: '55'
+  E: '20'
+  PCT: '.977'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Cott
+  nameClub1: Greensburg
+  Pos: 1B
+  G: '80'
+  PO: '704'
+  A: '52'
+  E: '18'
+  PCT: '.977'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Sauer
+  nameClub1: Butler
+  Pos: 1B
+  G: '100'
+  PO: '853'
+  A: '31'
+  E: '26'
+  PCT: '.971'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Russell
+  nameClub1: Beaver Falls
+  Pos: 1B
+  G: '13'
+  PO: '87'
+  A: '6'
+  E: '3'
+  PCT: '.933'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Sheftic
+  nameClub1: Beaver Falls
+  Pos: 2B
+  G: '51'
+  PO: '165'
+  A: '143'
+  E: '13'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Miller
+  nameFirst: S.
+  nameClub1: Greensburg
+  Pos: 2B
+  G: '57'
+  PO: '178'
+  A: '132'
+  E: '16'
+  PCT: '.951'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Burgett
+  nameClub1: McKeesport
+  Pos: 2B
+  G: '85'
+  PO: '187'
+  A: '198'
+  E: '22'
+  PCT: '.946'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Wey
+  nameClub1: Beaver Falls
+  Pos: 2B
+  G: '26'
+  PO: '73'
+  A: '66'
+  E: '8'
+  PCT: '.946'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Hayes
+  nameClub1: Butler
+  Pos: 2B
+  G: '73'
+  PO: '163'
+  A: '184'
+  E: '21'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Carlin
+  nameClub1: Butler
+  Pos: 2B
+  G: '27'
+  PO: '51'
+  A: '65'
+  E: '8'
+  PCT: '.935'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Beckett
+  nameClub1: McKeesport
+  Pos: 2B
+  G: '14'
+  PO: '37'
+  A: '31'
+  E: '5'
+  PCT: '.932'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Vanek
+  nameClub1: Greensburg
+  Pos: 2B
+  G: '17'
+  PO: '49'
+  A: '47'
+  E: '7'
+  PCT: '.932'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Burnett
+  nameClub1: Greensburg
+  Pos: 2B
+  G: '23'
+  PO: '60'
+  A: '70'
+  E: '14'
+  PCT: '.903'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Stephens
+  nameClub1: McKeesport
+  Pos: 3B
+  G: '87'
+  PO: '111'
+  A: '209'
+  E: '21'
+  PCT: '.938'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Orme
+  nameClub1: Beaver Falls
+  Pos: 3B
+  G: '16'
+  PO: '14'
+  A: '41'
+  E: '4'
+  PCT: '.932'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Savage
+  nameClub1: Butler
+  Pos: 3B
+  G: '49'
+  PO: '57'
+  A: '98'
+  E: '14'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Nehls
+  nameClub1: Greensburg
+  Pos: 3B
+  G: '95'
+  PO: '96'
+  A: '217'
+  E: '31'
+  PCT: '.910'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Deim
+  nameClub1: Beaver Falls
+  Pos: 3B
+  G: '79'
+  PO: '85'
+  A: '167'
+  E: '25'
+  PCT: '.910'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Hayes
+  nameClub1: Butler
+  Pos: 3B
+  G: '27'
+  PO: '33'
+  A: '44'
+  E: '11'
+  PCT: '.875'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Stauder
+  nameClub1: Beaver Falls
+  Pos: SS
+  G: '45'
+  PO: '62'
+  A: '150'
+  E: '15'
+  PCT: '.934'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Wecheck
+  nameClub1: Greensburg
+  Pos: SS
+  G: '72'
+  PO: '114'
+  A: '238'
+  E: '29'
+  PCT: '.924'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Sergiacomi
+  nameClub1: Butler
+  Pos: SS
+  G: '98'
+  PO: '149'
+  A: '266'
+  E: '41'
+  PCT: '.910'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Beckett
+  nameClub1: McKeesport
+  Pos: SS
+  G: '20'
+  PO: '40'
+  A: '60'
+  E: '10'
+  PCT: '.909'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: O'Dell
+  nameClub1: McKeesport
+  Pos: SS
+  G: '79'
+  PO: '146'
+  A: '263'
+  E: '45'
+  PCT: '.901'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Blanchard
+  nameClub1: Beaver Falls
+  Pos: SS
+  G: '35'
+  PO: '60'
+  A: '107'
+  E: '20'
+  PCT: '.893'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Miller
+  nameFirst: S.
+  nameClub1: Greensburg
+  Pos: SS
+  G: '24'
+  PO: '38'
+  A: '56'
+  E: '13'
+  PCT: '.878'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Vanek
+  nameClub1: Greensburg
+  Pos: OF
+  G: '66'
+  PO: '93'
+  A: '12'
+  E: '1'
+  PCT: '.991'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Harbin
+  nameClub1: Butler
+  Pos: OF
+  G: '49'
+  PO: '67'
+  A: '5'
+  E: '2'
+  PCT: '.973'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Whaley
+  nameClub1: McKeesport
+  Pos: OF
+  G: '45'
+  PO: '83'
+  A: '8'
+  E: '3'
+  PCT: '.968'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Hand
+  nameClub1: Butler
+  Pos: OF
+  G: '29'
+  PO: '56'
+  A: '0'
+  E: '2'
+  PCT: '.966'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Panek
+  nameClub1: Beaver Falls
+  Pos: OF
+  G: '94'
+  PO: '173'
+  A: '18'
+  E: '8'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Hyder
+  nameClub1: Butler
+  Pos: OF
+  G: '72'
+  PO: '172'
+  A: '5'
+  E: '8'
+  PCT: '.957'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Redmond
+  nameClub1: Greensburg
+  Pos: OF
+  G: '24'
+  PO: '20'
+  A: '0'
+  E: '1'
+  PCT: '.952'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Goulish
+  nameFirst: N.
+  nameClub1: Greensburg
+  Pos: OF
+  G: '90'
+  PO: '148'
+  A: '7'
+  E: '8'
+  PCT: '.951'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Parkins
+  nameClub1: McKeesport
+  Pos: OF
+  G: '88'
+  PO: '209'
+  A: '14'
+  E: '14'
+  PCT: '.941'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Russell
+  nameClub1: Beaver Falls
+  nameClub2: Butler
+  Pos: OF
+  G: '63'
+  PO: '98'
+  A: '9'
+  E: '7'
+  PCT: '.939'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Grebner
+  nameClub1: McKeesport
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '2'
+  E: '1'
+  PCT: '.938'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Kalin
+  nameClub1: McKeesport
+  Pos: OF
+  G: '77'
+  PO: '145'
+  A: '12'
+  E: '11'
+  PCT: '.935'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Venzon
+  nameClub1: Beaver Falls
+  Pos: OF
+  G: '72'
+  PO: '118'
+  A: '7'
+  E: '9'
+  PCT: '.933'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Brown
+  nameClub1: McKeesport
+  Pos: OF
+  G: '44'
+  PO: '60'
+  A: '5'
+  E: '5'
+  PCT: '.929'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Beckett
+  nameClub1: McKeesport
+  Pos: OF
+  G: '23'
+  PO: '36'
+  A: '2'
+  E: '3'
+  PCT: '.927'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Shortt
+  nameClub1: Beaver Falls
+  Pos: OF
+  G: '79'
+  PO: '135'
+  A: '13'
+  E: '13'
+  PCT: '.919'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Sheehan
+  nameClub1: Greensburg
+  Pos: OF
+  G: '23'
+  PO: '31'
+  A: '0'
+  E: '3'
+  PCT: '.912'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Denof
+  nameClub1: Butler
+  Pos: OF
+  G: '100'
+  PO: '193'
+  A: '10'
+  E: '20'
+  PCT: '.910'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Bush
+  nameClub1: Greensburg
+  Pos: OF
+  G: '69'
+  PO: '73'
+  A: '8'
+  E: '10'
+  PCT: '.890'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Hormulik
+  nameClub1: Butler
+  Pos: OF
+  G: '11'
+  PO: '12'
+  A: '2'
+  E: '2'
+  PCT: '.875'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Chapes
+  nameClub1: Butler
+  Pos: OF
+  G: '10'
+  PO: '9'
+  A: '3'
+  E: '3'
+  PCT: '.800'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: O'Malley
+  nameClub1: Butler
+  Pos: C
+  G: '18'
+  PO: '92'
+  A: '10'
+  E: '2'
+  PB: '5'
+  PCT: '.981'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Heider
+  nameClub1: Greensburg
+  nameClub2: Butler
+  Pos: C
+  G: '44'
+  PO: '266'
+  A: '38'
+  E: '7'
+  PB: '12'
+  PCT: '.977'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Harvatin
+  nameClub1: Beaver Falls
+  Pos: C
+  G: '66'
+  PO: '401'
+  A: '64'
+  E: '16'
+  PB: '20'
+  PCT: '.967'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Warren
+  nameClub1: Butler
+  Pos: C
+  G: '18'
+  PO: '119'
+  A: '12'
+  E: '5'
+  PB: '2'
+  PCT: '.963'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Hunt
+  nameClub1: Butler
+  Pos: C
+  G: '65'
+  PO: '398'
+  A: '41'
+  E: '19'
+  PB: '22'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Sklemar
+  nameClub1: McKeesport
+  Pos: C
+  G: '12'
+  PO: '57'
+  A: '9'
+  E: '3'
+  PB: '5'
+  PCT: '.957'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Muse
+  nameClub1: McKeesport
+  Pos: C
+  G: '86'
+  PO: '444'
+  A: '79'
+  E: '24'
+  PB: '13'
+  PCT: '.956'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Beck
+  nameClub1: Greensburg
+  Pos: C
+  G: '27'
+  PO: '173'
+  A: '21'
+  E: '9'
+  PB: '11'
+  PCT: '.956'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: Snyder
+  nameClub1: Beaver Falls
+  Pos: C
+  G: '29'
+  PO: '155'
+  A: '22'
+  E: '9'
+  PB: '1'
+  PCT: '.952'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameLast: McGarry
+  nameClub1: Greensburg
+  Pos: C
+  G: '32'
+  PO: '200'
+  A: '39'
+  E: '17'
+  PB: '13'
+  PCT: '.934'

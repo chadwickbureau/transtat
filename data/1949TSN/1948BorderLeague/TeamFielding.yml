@@ -1,0 +1,66 @@
+- year: '1948'
+  nameLeague: Border League
+  nameClub: Ottawa
+  G: '127'
+  DP: '97'
+  TP: '1'
+  PB: '7'
+  PO: '3253'
+  A: '1350'
+  E: '190'
+  PCT: '.960'
+- year: '1948'
+  nameLeague: Border League
+  nameClub: Watertown
+  G: '128'
+  DP: '108'
+  TP: '0'
+  PB: '12'
+  PO: '3273'
+  A: '1387'
+  E: '215'
+  PCT: '.956'
+- year: '1948'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  G: '129'
+  DP: '131'
+  TP: '1'
+  PB: '32'
+  PO: '3335'
+  A: '1527'
+  E: '263'
+  PCT: '.949'
+- year: '1948'
+  nameLeague: Border League
+  nameClub: Auburn
+  G: '127'
+  DP: '87'
+  TP: '0'
+  PB: '10'
+  PO: '3178'
+  A: '1381'
+  E: '248'
+  PCT: '.948'
+- year: '1948'
+  nameLeague: Border League
+  nameClub: Geneva
+  G: '126'
+  DP: '91'
+  TP: '0'
+  PB: '19'
+  PO: '3259'
+  A: '1403'
+  E: '274'
+  PCT: '.944'
+- year: '1948'
+  nameLeague: Border League
+  nameClub: Kingston
+  G: '125'
+  DP: '82'
+  TP: '1'
+  PB: '20'
+  PO: '3173'
+  A: '1438'
+  E: '307'
+  PCT: '.938'

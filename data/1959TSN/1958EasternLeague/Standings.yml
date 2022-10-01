@@ -1,0 +1,278 @@
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular/first
+  division: Northern
+  W: '45'
+  L: '27'
+  T: '0'
+  PCT: '.625'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Springfield
+  phase: regular/first
+  division: Northern
+  W: '36'
+  L: '35'
+  T: '1'
+  PCT: '.597'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular/first
+  division: Northern
+  W: '33'
+  L: '38'
+  T: '0'
+  PCT: '.465'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular/first
+  division: Northern
+  W: '26'
+  L: '40'
+  T: '0'
+  PCT: '.394'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: York
+  phase: regular/first
+  division: Southern
+  W: '40'
+  L: '28'
+  T: '0'
+  PCT: '.588'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: regular/first
+  division: Southern
+  W: '40'
+  L: '31'
+  T: '1'
+  PCT: '.563'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Lancaster
+  phase: regular/first
+  division: Southern
+  W: '37'
+  L: '33'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  phase: regular/first
+  division: Southern
+  W: '24'
+  L: '49'
+  T: '0'
+  PCT: '.329'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular/second
+  division: Northern
+  W: '34'
+  L: '27'
+  T: '0'
+  PCT: '.557'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Springfield
+  phase: regular/second
+  division: Northern
+  W: '32'
+  L: '30'
+  T: '0'
+  PCT: '.516'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular/second
+  division: Northern
+  W: '31'
+  L: '30'
+  T: '0'
+  PCT: '.508'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular/second
+  division: Northern
+  W: '21'
+  L: '41'
+  T: '0'
+  PCT: '.339'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Lancaster
+  phase: regular/second
+  division: Southern
+  W: '38'
+  L: '24'
+  T: '0'
+  PCT: '.613'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: regular/second
+  division: Southern
+  W: '35'
+  L: '27'
+  T: '0'
+  PCT: '.565'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: York
+  phase: regular/second
+  division: Southern
+  W: '28'
+  L: '33'
+  T: '1'
+  PCT: '.459'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  phase: regular/second
+  division: Southern
+  W: '27'
+  L: '34'
+  T: '1'
+  PCT: '.443'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Lancaster
+  phase: regular
+  division: Southern
+  W: '75'
+  L: '57'
+  T: '0'
+  PCT: '.568'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: regular
+  division: Southern
+  W: '75'
+  L: '58'
+  T: '1'
+  PCT: '.564'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: York
+  phase: regular
+  division: Southern
+  W: '68'
+  L: '61'
+  T: '1'
+  PCT: '.527'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Springfield
+  phase: regular
+  division: Northern
+  W: '68'
+  L: '65'
+  T: '1'
+  PCT: '.511'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  division: Northern
+  W: '67'
+  L: '65'
+  T: '0'
+  PCT: '.508'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  division: Northern
+  W: '66'
+  L: '68'
+  T: '0'
+  PCT: '.493'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  division: Northern
+  W: '57'
+  L: '70'
+  T: '0'
+  PCT: '.449'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  phase: regular
+  division: Southern
+  W: '51'
+  L: '83'
+  T: '1'
+  PCT: '.381'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Lancaster
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: York
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Eastern League
+  nameClub: Lancaster
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

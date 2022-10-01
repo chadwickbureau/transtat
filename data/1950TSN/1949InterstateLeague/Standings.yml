@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  phase: regular
+  W: '87'
+  L: '52'
+  T: '1'
+  PCT: '.626'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  phase: regular
+  W: '75'
+  L: '62'
+  T: '1'
+  PCT: '.547'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Harrisburg
+  phase: regular
+  W: '74'
+  L: '64'
+  T: '2'
+  PCT: '.536'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Trenton
+  phase: regular
+  W: '73'
+  L: '66'
+  T: '2'
+  PCT: '.525'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  phase: regular
+  W: '71'
+  L: '68'
+  T: '2'
+  PCT: '.511'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: York
+  phase: regular
+  W: '66'
+  L: '72'
+  T: '1'
+  PCT: '.478'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Sunbury
+  phase: regular
+  W: '59'
+  L: '81'
+  T: '2'
+  PCT: '.421'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Hagerstown
+  phase: regular
+  W: '49'
+  L: '89'
+  T: '1'
+  PCT: '.355'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Harrisburg
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Trenton
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Trenton
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Interstate League
+  nameClub: Harrisburg
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

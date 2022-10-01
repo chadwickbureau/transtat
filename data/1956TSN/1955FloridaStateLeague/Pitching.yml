@@ -1,0 +1,1947 @@
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Boyette
+  nameClub1: West Palm Beach
+  GP: '68'
+  GS: '2'
+  CG: '1'
+  SHO: '0'
+  W: '17'
+  L: '7'
+  PCT: '.708'
+  IP: '174'
+  H: '125'
+  HR: '2'
+  R: '50'
+  ER: '37'
+  BB: '65'
+  SO: '160'
+  HP: '8'
+  WP: '7'
+  ERA: '1.91'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Pena
+  nameClub1: Daytona Beach
+  GP: '33'
+  GS: '30'
+  CG: '19'
+  SHO: '4'
+  W: '21'
+  L: '8'
+  PCT: '.724'
+  IP: '253'
+  H: '222'
+  HR: '5'
+  R: '92'
+  ER: '55'
+  BB: '66'
+  SO: '172'
+  HP: '17'
+  WP: '5'
+  ERA: '1.96'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Gordey
+  nameClub1: Orlando
+  GP: '37'
+  GS: '34'
+  CG: '23'
+  SHO: '6'
+  W: '23'
+  L: '9'
+  PCT: '.719'
+  IP: '264'
+  H: '206'
+  HR: '5'
+  R: '96'
+  ER: '63'
+  BB: '102'
+  SO: '180'
+  HP: '9'
+  WP: '6'
+  ERA: '2.15'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Arendt
+  nameClub1: Daytona Beach
+  GP: '40'
+  GS: '36'
+  CG: '25'
+  SHO: '7'
+  W: '22'
+  L: '14'
+  PCT: '.611'
+  IP: '300'
+  H: '257'
+  HR: '9'
+  R: '117'
+  ER: '79'
+  BB: '113'
+  SO: '228'
+  HP: '2'
+  WP: '3'
+  ERA: '2.37'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameClub1: West Palm Beach
+  throws: L
+  GP: '8'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  IP: '56'
+  H: '56'
+  HR: '1'
+  R: '29'
+  ER: '15'
+  BB: '29'
+  SO: '37'
+  HP: '1'
+  WP: '2'
+  ERA: '2.41'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Cloos
+  nameClub1: West Palm Beach
+  GP: '36'
+  GS: '11'
+  CG: '4'
+  SHO: '0'
+  W: '11'
+  L: '10'
+  PCT: '.524'
+  IP: '162'
+  H: '156'
+  HR: '2'
+  R: '96'
+  ER: '44'
+  BB: '62'
+  SO: '108'
+  HP: '3'
+  WP: '3'
+  ERA: '2.44'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Herlihy
+  nameClub1: Cocoa
+  throws: L
+  GP: '38'
+  GS: '34'
+  CG: '22'
+  SHO: '2'
+  W: '18'
+  L: '14'
+  PCT: '.563'
+  IP: '254'
+  H: '202'
+  HR: '7'
+  R: '118'
+  ER: '70'
+  BB: '108'
+  SO: '147'
+  HP: '6'
+  WP: '7'
+  ERA: '2.48'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: DelMonte
+  nameClub1: Cocoa
+  nameClub2: St. Petersburg
+  GP: '32'
+  GS: '17'
+  CG: '13'
+  SHO: '1'
+  W: '14'
+  L: '9'
+  PCT: '.609'
+  IP: '202'
+  H: '162'
+  HR: '1'
+  R: '90'
+  ER: '57'
+  BB: '59'
+  SO: '89'
+  HP: '11'
+  WP: '2'
+  ERA: '2.54'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Wheeler
+  nameClub1: Cocoa
+  GP: '17'
+  GS: '16'
+  CG: '7'
+  SHO: '3'
+  W: '7'
+  L: '5'
+  PCT: '.583'
+  IP: '99'
+  H: '65'
+  HR: '0'
+  R: '46'
+  ER: '28'
+  BB: '80'
+  SO: '59'
+  HP: '3'
+  WP: '1'
+  ERA: '2.55'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Raymond
+  nameClub1: West Palm Beach
+  GP: '37'
+  GS: '27'
+  CG: '10'
+  SHO: '1'
+  W: '13'
+  L: '12'
+  PCT: '.520'
+  IP: '194'
+  H: '160'
+  HR: '1'
+  R: '93'
+  ER: '56'
+  BB: '111'
+  SO: '180'
+  HP: '2'
+  WP: '11'
+  ERA: '2.60'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Francis
+  nameClub1: Sanford
+  GP: '25'
+  GS: '9'
+  CG: '9'
+  SHO: '1'
+  W: '6'
+  L: '6'
+  PCT: '.500'
+  IP: '117'
+  H: '91'
+  HR: '1'
+  R: '44'
+  ER: '34'
+  BB: '50'
+  SO: '76'
+  HP: '5'
+  WP: '4'
+  ERA: '2.62'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hoyal
+  nameClub1: Cocoa
+  GP: '26'
+  GS: '24'
+  CG: '15'
+  SHO: '6'
+  W: '13'
+  L: '9'
+  PCT: '.591'
+  IP: '186'
+  H: '181'
+  HR: '8'
+  R: '90'
+  ER: '56'
+  BB: '53'
+  SO: '101'
+  HP: '3'
+  WP: '6'
+  ERA: '2.71'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hoy
+  nameClub1: Lakeland
+  GP: '31'
+  GS: '10'
+  CG: '6'
+  SHO: '1'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  IP: '155'
+  H: '139'
+  HR: '5'
+  R: '59'
+  ER: '47'
+  BB: '69'
+  SO: '71'
+  HP: '4'
+  WP: '4'
+  ERA: '2.73'
+  BK: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Valmas
+  nameClub1: Orlando
+  GP: '39'
+  GS: '36'
+  CG: '26'
+  SHO: '3'
+  W: '25'
+  L: '11'
+  PCT: '.694'
+  IP: '277'
+  H: '251'
+  HR: '12'
+  R: '125'
+  ER: '87'
+  BB: '113'
+  SO: '142'
+  HP: '6'
+  WP: '6'
+  ERA: '2.83'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Iott
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '19'
+  GS: '14'
+  CG: '10'
+  SHO: '2'
+  W: '4'
+  L: '13'
+  PCT: '.235'
+  IP: '118'
+  H: '111'
+  HR: '2'
+  R: '55'
+  ER: '38'
+  BB: '38'
+  SO: '109'
+  HP: '0'
+  WP: '5'
+  ERA: '2.90'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Sewell
+  nameClub1: Lakeland
+  GP: '25'
+  GS: '14'
+  CG: '9'
+  SHO: '1'
+  W: '9'
+  L: '11'
+  PCT: '.450'
+  IP: '140'
+  H: '131'
+  HR: '8'
+  R: '68'
+  ER: '46'
+  BB: '50'
+  SO: '92'
+  HP: '8'
+  WP: '6'
+  ERA: '2.96'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Drach
+  nameClub1: West Palm Beach
+  nameClub2: Cocoa
+  GP: '54'
+  GS: '17'
+  CG: '10'
+  SHO: '1'
+  W: '14'
+  L: '12'
+  PCT: '.538'
+  IP: '284'
+  H: '263'
+  HR: '9'
+  R: '141'
+  ER: '95'
+  BB: '106'
+  SO: '142'
+  HP: '12'
+  WP: '9'
+  ERA: '3.01'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Tresp
+  nameClub1: Orlando
+  GP: '47'
+  GS: '35'
+  CG: '21'
+  SHO: '4'
+  W: '18'
+  L: '14'
+  PCT: '.563'
+  IP: '283'
+  H: '255'
+  HR: '4'
+  R: '142'
+  ER: '95'
+  BB: '137'
+  SO: '154'
+  HP: '16'
+  WP: '9'
+  ERA: '3.02'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Ortega
+  nameClub1: Gainesville
+  GP: '33'
+  GS: '32'
+  CG: '25'
+  SHO: '2'
+  W: '25'
+  L: '5'
+  PCT: '.833'
+  IP: '264'
+  H: '239'
+  HR: '12'
+  R: '120'
+  ER: '91'
+  BB: '106'
+  SO: '177'
+  HP: '10'
+  WP: '10'
+  ERA: '3.10'
+  BK: '4'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hebra
+  nameClub1: Gainesville
+  GP: '17'
+  GS: '11'
+  CG: '3'
+  SHO: '0'
+  W: '7'
+  L: '4'
+  PCT: '.636'
+  IP: '83'
+  H: '75'
+  HR: '2'
+  R: '40'
+  ER: '29'
+  BB: '44'
+  SO: '36'
+  HP: '3'
+  WP: '3'
+  ERA: '3.14'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Peterson
+  nameClub1: Sanford
+  throws: L
+  GP: '33'
+  GS: '24'
+  CG: '16'
+  SHO: '2'
+  W: '13'
+  L: '13'
+  PCT: '.500'
+  IP: '203'
+  H: '196'
+  HR: '5'
+  R: '109'
+  ER: '72'
+  BB: '99'
+  SO: '147'
+  HP: '6'
+  WP: '6'
+  ERA: '3.19'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Garcia
+  nameClub1: West Palm Beach
+  GP: '22'
+  GS: '15'
+  CG: '4'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '105'
+  H: '107'
+  HR: '3'
+  R: '49'
+  ER: '38'
+  BB: '53'
+  SO: '60'
+  HP: '0'
+  WP: '8'
+  ERA: '3.26'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Richards
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '12'
+  GS: '6'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '58'
+  H: '50'
+  HR: '3'
+  R: '46'
+  ER: '21'
+  BB: '42'
+  SO: '57'
+  HP: '3'
+  WP: '2'
+  ERA: '3.26'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Reed
+  nameClub1: Gainesville
+  GP: '36'
+  GS: '15'
+  CG: '9'
+  SHO: '0'
+  W: '7'
+  L: '14'
+  PCT: '.333'
+  IP: '160'
+  H: '146'
+  HR: '4'
+  R: '86'
+  ER: '59'
+  BB: '78'
+  SO: '114'
+  HP: '4'
+  WP: '12'
+  ERA: '3.32'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Manfredi
+  nameClub1: Sanford
+  GP: '42'
+  GS: '29'
+  CG: '14'
+  SHO: '3'
+  W: '15'
+  L: '13'
+  PCT: '.536'
+  IP: '226'
+  H: '214'
+  HR: '8'
+  R: '115'
+  ER: '84'
+  BB: '106'
+  SO: '203'
+  HP: '4'
+  WP: '11'
+  ERA: '3.35'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Gates
+  nameClub1: West Palm Beach
+  GP: '32'
+  GS: '20'
+  CG: '4'
+  SHO: '1'
+  W: '11'
+  L: '6'
+  PCT: '.647'
+  IP: '166'
+  H: '138'
+  HR: '3'
+  R: '82'
+  ER: '62'
+  BB: '135'
+  SO: '100'
+  HP: '9'
+  WP: '11'
+  ERA: '3.36'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Schreiber
+  nameClub1: Lakeland
+  nameClub2: Orlando
+  GP: '33'
+  GS: '27'
+  CG: '7'
+  SHO: '3'
+  W: '13'
+  L: '8'
+  PCT: '.619'
+  IP: '189'
+  H: '186'
+  HR: '5'
+  R: '102'
+  ER: '71'
+  BB: '90'
+  SO: '63'
+  HP: '7'
+  WP: '10'
+  ERA: '3.38'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Exter
+  nameClub1: Lakeland
+  nameClub2: St. Petersburg
+  throws: L
+  GP: '42'
+  GS: '29'
+  CG: '13'
+  SHO: '1'
+  W: '10'
+  L: '15'
+  PCT: '.400'
+  IP: '223'
+  H: '222'
+  HR: '9'
+  R: '112'
+  ER: '84'
+  BB: '97'
+  SO: '182'
+  HP: '11'
+  WP: '2'
+  ERA: '3.39'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Petriello
+  nameClub1: Cocoa
+  GP: '20'
+  GS: '18'
+  CG: '12'
+  SHO: '2'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  IP: '123'
+  H: '122'
+  HR: '8'
+  R: '58'
+  ER: '48'
+  BB: '51'
+  SO: '71'
+  HP: '0'
+  WP: '4'
+  ERA: '3.51'
+  BK: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Creamer
+  nameClub1: Lakeland
+  GP: '9'
+  GS: '5'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '46'
+  H: '45'
+  HR: '1'
+  R: '21'
+  ER: '18'
+  BB: '16'
+  SO: '28'
+  HP: '2'
+  WP: '0'
+  ERA: '3.52'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Daytona Beach
+  GP: '40'
+  GS: '37'
+  CG: '16'
+  SHO: '4'
+  W: '19'
+  L: '14'
+  PCT: '.576'
+  IP: '253'
+  H: '177'
+  HR: '6'
+  R: '141'
+  ER: '103'
+  BB: '202'
+  SO: '320'
+  HP: '6'
+  WP: '22'
+  ERA: '3.66'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Taylor
+  nameClub1: Lakeland
+  nameClub2: St. Petersburg
+  GP: '18'
+  GS: '12'
+  CG: '3'
+  SHO: '2'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '93'
+  H: '89'
+  HR: '2'
+  R: '53'
+  ER: '38'
+  BB: '53'
+  SO: '55'
+  HP: '2'
+  WP: '3'
+  ERA: '3.68'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Cook
+  nameFirst: R.
+  nameClub1: Sanford
+  GP: '31'
+  GS: '14'
+  CG: '3'
+  SHO: '1'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '111'
+  H: '79'
+  HR: '0'
+  R: '58'
+  ER: '46'
+  BB: '107'
+  SO: '156'
+  HP: '6'
+  WP: '22'
+  ERA: '3.73'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Turner
+  nameFirst: W. K.
+  nameClub1: Lakeland
+  GP: '33'
+  GS: '29'
+  CG: '16'
+  SHO: '2'
+  W: '14'
+  L: '12'
+  PCT: '.538'
+  IP: '217'
+  H: '223'
+  HR: '5'
+  R: '116'
+  ER: '92'
+  BB: '84'
+  SO: '127'
+  HP: '10'
+  WP: '3'
+  ERA: '3.82'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Bloodworth
+  nameClub1: Gainesville
+  GP: '32'
+  GS: '23'
+  CG: '10'
+  SHO: '0'
+  W: '7'
+  L: '12'
+  PCT: '.368'
+  IP: '169'
+  H: '178'
+  HR: '5'
+  R: '109'
+  ER: '72'
+  BB: '73'
+  SO: '113'
+  HP: '9'
+  WP: '6'
+  ERA: '3.83'
+  BK: '5'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Kuykendall
+  nameClub1: St. Petersburg
+  GP: '20'
+  GS: '5'
+  CG: '4'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '80'
+  H: '65'
+  HR: '3'
+  R: '43'
+  ER: '34'
+  BB: '49'
+  SO: '52'
+  HP: '1'
+  WP: '3'
+  ERA: '3.83'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Teitelman
+  nameClub1: Daytona Beach
+  throws: L
+  GP: '17'
+  GS: '13'
+  CG: '7'
+  SHO: '0'
+  W: '6'
+  L: '6'
+  PCT: '.500'
+  IP: '112'
+  H: '109'
+  HR: '5'
+  R: '71'
+  ER: '48'
+  BB: '60'
+  SO: '72'
+  HP: '2'
+  WP: '3'
+  ERA: '3.86'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hughes
+  nameClub1: Gainesville
+  GP: '65'
+  GS: '24'
+  CG: '11'
+  SHO: '3'
+  W: '18'
+  L: '16'
+  PCT: '.529'
+  IP: '302'
+  H: '291'
+  HR: '6'
+  R: '173'
+  ER: '131'
+  BB: '145'
+  SO: '142'
+  HP: '25'
+  WP: '5'
+  ERA: '3.90'
+  BK: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Bartek
+  nameClub1: Sanford
+  GP: '33'
+  GS: '23'
+  CG: '1'
+  SHO: '1'
+  W: '8'
+  L: '14'
+  PCT: '.364'
+  IP: '177'
+  H: '142'
+  HR: '5'
+  R: '105'
+  ER: '78'
+  BB: '135'
+  SO: '149'
+  HP: '9'
+  WP: '19'
+  ERA: '3.97'
+  BK: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Graham
+  nameClub1: St. Petersburg
+  GP: '20'
+  GS: '13'
+  CG: '6'
+  SHO: '0'
+  W: '3'
+  L: '6'
+  PCT: '.333'
+  IP: '110'
+  H: '95'
+  HR: '0'
+  R: '71'
+  ER: '49'
+  BB: '80'
+  SO: '96'
+  HP: '2'
+  WP: '8'
+  ERA: '4.01'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: White
+  nameClub1: Gainesville
+  nameClub2: Orlando
+  GP: '37'
+  GS: '4'
+  CG: '1'
+  SHO: '0'
+  W: '6'
+  L: '3'
+  PCT: '.667'
+  IP: '109'
+  H: '120'
+  HR: '5'
+  R: '66'
+  ER: '51'
+  BB: '47'
+  SO: '52'
+  HP: '3'
+  WP: '3'
+  ERA: '4.21'
+  BK: '3'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Renfroe
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '41'
+  GS: '30'
+  CG: '12'
+  SHO: '2'
+  W: '13'
+  L: '16'
+  PCT: '.448'
+  IP: '219'
+  H: '177'
+  HR: '3'
+  R: '130'
+  ER: '103'
+  BB: '190'
+  SO: '223'
+  HP: '6'
+  WP: '4'
+  ERA: '4.23'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Tomberlin
+  nameClub1: Lakeland
+  GP: '21'
+  GS: '18'
+  CG: '5'
+  SHO: '1'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  IP: '129'
+  H: '95'
+  HR: '6'
+  R: '89'
+  ER: '61'
+  BB: '100'
+  SO: '111'
+  HP: '13'
+  WP: '9'
+  ERA: '4.26'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Kaplan
+  nameClub1: Sanford
+  throws: L
+  GP: '23'
+  GS: '11'
+  CG: '4'
+  SHO: '0'
+  W: '3'
+  L: '8'
+  PCT: '.273'
+  IP: '98'
+  H: '97'
+  HR: '4'
+  R: '65'
+  ER: '49'
+  BB: '74'
+  SO: '99'
+  HP: '4'
+  WP: '2'
+  ERA: '4.50'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Langford
+  nameClub1: Sanford
+  GP: '24'
+  GS: '19'
+  CG: '9'
+  SHO: '1'
+  W: '8'
+  L: '8'
+  PCT: '.500'
+  IP: '141'
+  H: '143'
+  HR: '3'
+  R: '90'
+  ER: '71'
+  BB: '71'
+  SO: '100'
+  HP: '5'
+  WP: '5'
+  ERA: '4.53'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: McKinnis
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '28'
+  GS: '7'
+  CG: '6'
+  SHO: '0'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '112'
+  H: '137'
+  HR: '3'
+  R: '78'
+  ER: '57'
+  BB: '54'
+  SO: '81'
+  HP: '4'
+  WP: '5'
+  ERA: '4.58'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Masessa
+  nameClub1: Orlando
+  nameClub2: Gainesville
+  throws: L
+  GP: '11'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  IP: '49'
+  H: '45'
+  HR: '1'
+  R: '33'
+  ER: '25'
+  BB: '48'
+  SO: '44'
+  HP: '3'
+  WP: '5'
+  ERA: '4.59'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Tommy
+  nameClub1: Daytona Beach
+  GP: '44'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  IP: '121'
+  H: '126'
+  HR: '6'
+  R: '79'
+  ER: '63'
+  BB: '68'
+  SO: '80'
+  HP: '8'
+  WP: '6'
+  ERA: '4.69'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Cunic
+  nameClub1: Cocoa
+  GP: '14'
+  GS: '4'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '46'
+  H: '46'
+  HR: '4'
+  R: '30'
+  ER: '24'
+  BB: '29'
+  SO: '36'
+  HP: '2'
+  WP: '1'
+  ERA: '4.70'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hogan
+  nameClub1: West Palm Beach
+  GP: '16'
+  GS: '12'
+  CG: '4'
+  SHO: '0'
+  W: '1'
+  L: '8'
+  PCT: '.111'
+  IP: '77'
+  H: '74'
+  HR: '4'
+  R: '57'
+  ER: '41'
+  BB: '68'
+  SO: '37'
+  HP: '2'
+  WP: '8'
+  ERA: '4.79'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Pippin
+  nameClub1: Lakeland
+  GP: '12'
+  GS: '10'
+  CG: '5'
+  SHO: '1'
+  W: '4'
+  L: '6'
+  PCT: '.400'
+  IP: '78'
+  H: '94'
+  HR: '4'
+  R: '63'
+  ER: '42'
+  BB: '39'
+  SO: '55'
+  HP: '4'
+  WP: '5'
+  ERA: '4.85'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Dolechek
+  nameClub1: West Palm Beach
+  GP: '19'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '52'
+  H: '53'
+  HR: '3'
+  R: '43'
+  ER: '30'
+  BB: '44'
+  SO: '40'
+  HP: '2'
+  WP: '3'
+  ERA: '5.19'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Nichols
+  nameClub1: Daytona Beach
+  GP: '13'
+  GS: '10'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '59'
+  H: '56'
+  HR: '5'
+  R: '49'
+  ER: '35'
+  BB: '43'
+  SO: '24'
+  HP: '2'
+  WP: '3'
+  ERA: '5.34'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Gangelhoff
+  nameClub1: St. Petersburg
+  GP: '21'
+  GS: '8'
+  CG: '1'
+  SHO: '0'
+  W: '0'
+  L: '7'
+  PCT: '.000'
+  IP: '60'
+  H: '68'
+  HR: '4'
+  R: '53'
+  ER: '36'
+  BB: '39'
+  SO: '31'
+  HP: '1'
+  WP: '1'
+  ERA: '5.40'
+  BK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Simard
+  nameClub1: Orlando
+  nameClub2: Gainesville
+  GP: '24'
+  GS: '9'
+  CG: '2'
+  SHO: '0'
+  W: '5'
+  L: '9'
+  PCT: '.357'
+  IP: '87'
+  H: '77'
+  HR: '4'
+  R: '63'
+  ER: '53'
+  BB: '57'
+  SO: '74'
+  HP: '3'
+  WP: '7'
+  ERA: '5.48'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Berntsen
+  nameClub1: Cocoa
+  GP: '15'
+  GS: '4'
+  CG: '1'
+  SHO: '0'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  IP: '49'
+  H: '38'
+  HR: '2'
+  R: '44'
+  ER: '30'
+  BB: '73'
+  SO: '33'
+  HP: '5'
+  WP: '13'
+  ERA: '5.51'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hernandez
+  nameClub1: Lakeland
+  GP: '15'
+  GS: '6'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '47'
+  H: '52'
+  HR: '2'
+  R: '38'
+  ER: '31'
+  BB: '25'
+  SO: '24'
+  HP: '3'
+  WP: '0'
+  ERA: '5.94'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Bayno
+  nameClub1: Lakeland
+  throws: L
+  GP: '15'
+  GS: '13'
+  CG: '3'
+  SHO: '0'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '80'
+  H: '71'
+  HR: '4'
+  R: '69'
+  ER: '62'
+  BB: '79'
+  SO: '69'
+  HP: '6'
+  WP: '4'
+  ERA: '6.98'
+  BK: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Byrnes
+  nameClub1: Cocoa
+  GP: '2'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Cline
+  nameClub1: Cocoa
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Dominic
+  nameClub1: Cocoa
+  GP: '7'
+  W: '2'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Dulaney
+  nameClub1: Cocoa
+  GP: '3'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Fernandez
+  nameClub1: Cocoa
+  GP: '5'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Fortner
+  nameClub1: Cocoa
+  GP: '4'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Garvin
+  nameClub1: Cocoa
+  GP: '8'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Greene
+  nameClub1: Cocoa
+  GP: '5'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Greenhill
+  nameClub1: Cocoa
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Kelly
+  nameClub1: Cocoa
+  GP: '8'
+  W: '3'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Lastres
+  nameClub1: Cocoa
+  throws: L
+  GP: '6'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Moore
+  nameClub1: Cocoa
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Morejon
+  nameClub1: Cocoa
+  GP: '5'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Navarro
+  nameClub1: Cocoa
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Pederson
+  nameClub1: Cocoa
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Rodriguez
+  nameFirst: I.
+  nameClub1: Cocoa
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Vanerka
+  nameClub1: Cocoa
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Williams
+  nameClub1: Cocoa
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Jacobs
+  nameClub1: Daytona Beach
+  GP: '5'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Lager
+  nameClub1: Daytona Beach
+  GP: '15'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Mirielli
+  nameClub1: Daytona Beach
+  GP: '11'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Permeter
+  nameClub1: Daytona Beach
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Pirro
+  nameClub1: Daytona Beach
+  GP: '6'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Roberts
+  nameClub1: Daytona Beach
+  GP: '10'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Szczepaniak
+  nameClub1: Daytona Beach
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Vander Meer
+  nameClub1: Daytona Beach
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Yelvington
+  nameClub1: Daytona Beach
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Bard
+  nameClub1: 7@St. Petersburg
+  nameClub2: 2@Gainesville
+  GP: '9'
+  W: '1'
+  L: '3'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Carr
+  nameClub1: Gainesville
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Godwin
+  nameClub1: Gainesville
+  GP: '11'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hazen
+  nameClub1: Gainesville
+  GP: '6'
+  W: '0'
+  L: '3'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: McCotter
+  nameClub1: Gainesville
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: McKinney
+  nameClub1: Gainesville
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Matecki
+  nameClub1: Gainesville
+  throws: L
+  GP: '7'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Nevins
+  nameClub1: Gainesville
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Pizarro
+  nameClub1: Gainesville
+  GP: '5'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Castaldo
+  nameClub1: Lakeland
+  GP: '7'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Crawford
+  nameClub1: Lakeland
+  GP: '2'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Dean
+  nameClub1: Lakeland
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Enoa
+  nameClub1: Lakeland
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Freeman
+  nameClub1: Lakeland
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hunt
+  nameClub1: Lakeland
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Kratt
+  nameClub1: Lakeland
+  throws: L
+  GP: '10'
+  W: '0'
+  L: '3'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Lumley
+  nameClub1: Lakeland
+  throws: L
+  GP: '5'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Niehaus
+  nameClub1: Lakeland
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Randle
+  nameClub1: Lakeland
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Turner
+  nameFirst: J.
+  nameClub1: Lakeland
+  GP: '7'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Boyd
+  nameClub1: Orlando
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Henry
+  nameClub1: Orlando
+  throws: L
+  GP: '6'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Knupp
+  nameClub1: Orlando
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Nelms
+  nameClub1: Orlando
+  throws: L
+  GP: '6'
+  W: '2'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: O'Brien
+  nameClub1: Orlando
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Ruiz
+  nameClub1: 8@West Palm Beach
+  nameClub2: 1@Orlando
+  GP: '9'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Shaffer
+  nameClub1: Orlando
+  GP: '5'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Smerka
+  nameClub1: Orlando
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Snyder
+  nameClub1: Orlando
+  GP: '21'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Wells
+  nameClub1: Orlando
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Findlay
+  nameClub1: Sanford
+  GP: '4'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Flanigan
+  nameClub1: Sanford
+  GP: '7'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Kujanik
+  nameClub1: Sanford
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Mauriello
+  nameClub1: Sanford
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Ostopchuk
+  nameClub1: Sanford
+  GP: '2'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Shirley
+  nameClub1: 1@Orlando
+  nameClub2: 9@Sanford
+  throws: L
+  GP: '10'
+  W: '2'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Terrell
+  nameClub1: Sanford
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Tucker
+  nameClub1: Sanford
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '1'
+  apparatus: erroneously duplicated under Orlando
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Waddell
+  nameClub1: Sanford
+  GP: '11'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Bossie
+  nameClub1: 9@Daytona Beach
+  nameClub2: 3@St. Petersburg
+  GP: '12'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Coker
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Cole
+  nameClub1: St. Petersburg
+  GP: '3'
+  W: '2'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Gonzalez
+  nameFirst: H.
+  nameClub1: St. Petersburg
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Gurrie
+  nameClub1: St. Petersburg
+  GP: '6'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Lochonic
+  nameClub1: St. Petersburg
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Pecou
+  nameClub1: St. Petersburg
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Walsh
+  nameClub1: St. Petersburg
+  GP: '2'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Willis
+  nameClub1: St. Petersburg
+  GP: '5'
+  W: '1'
+  L: '3'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Wolfman
+  nameClub1: St. Petersburg
+  GP: '4'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Zook
+  nameClub1: St. Petersburg
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Asmussen
+  nameClub1: West Palm Beach
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Berbesia
+  nameClub1: West Palm Beach
+  GP: '3'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Black
+  nameClub1: West Palm Beach
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Blodgett
+  nameClub1: West Palm Beach
+  GP: '3'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Boxer
+  nameClub1: West Palm Beach
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Boyd
+  nameClub1: West Palm Beach
+  GP: '4'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Hartley
+  nameClub1: West Palm Beach
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Kara
+  nameClub1: West Palm Beach
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Koinig
+  nameClub1: West Palm Beach
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Proctor
+  nameClub1: West Palm Beach
+  GP: '5'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Roberts
+  nameClub1: West Palm Beach
+  throws: L
+  GP: '15'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameLast: Rogers
+  nameClub1: West Palm Beach
+  throws: L
+  GP: '5'
+  W: '1'
+  L: '1'

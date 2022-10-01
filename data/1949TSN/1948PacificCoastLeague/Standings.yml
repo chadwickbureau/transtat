@@ -1,0 +1,112 @@
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '114'
+  L: '74'
+  T: '0'
+  PCT: '.606'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '112'
+  L: '76'
+  T: '2'
+  PCT: '.596'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '102'
+  L: '86'
+  T: '1'
+  PCT: '.543'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '93'
+  L: '95'
+  T: '2'
+  PCT: '.495'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '89'
+  L: '99'
+  T: '1'
+  PCT: '.473'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '84'
+  L: '104'
+  T: '2'
+  PCT: '.447'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '83'
+  L: '105'
+  T: '1'
+  PCT: '.441'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '75'
+  L: '113'
+  T: '3'
+  PCT: '.399'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: semifinal
+  division: Semfinal 1
+  W: '4'
+  L: '2'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: semifinal
+  division: Semfinal 1
+  W: '2'
+  L: '4'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: final
+  W: '4'
+  L: '1'
+- year: '1948'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: final
+  W: '1'
+  L: '4'

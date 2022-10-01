@@ -1,0 +1,83 @@
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  nameLast: Bivin
+  nameFirst: James
+  seq: '0'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Clarksdale
+  nameLast: Morgan
+  nameFirst: Chester
+  seq: '0'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  nameLast: Holden
+  nameFirst: Joseph
+  seq: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  nameLast: Sobek
+  nameFirst: George
+  seq: '2'
+  dateFirst: '19480604'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  nameLast: Rullo
+  nameFirst: Joseph
+  seq: '0'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  nameLast: Deal
+  nameFirst: F. Lindsay
+  seq: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  nameLast: Livengood
+  nameFirst: Wesley
+  seq: '2'
+  dateFirst: '19480711'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Helena
+  nameLast: Johnson
+  nameFirst: G. Woodrow
+  seq: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Helena
+  nameLast: Leonard
+  nameFirst: Tince
+  seq: '2'
+  dateFirst: '19480615'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Helena
+  nameLast: Sertich
+  nameFirst: Michael
+  seq: '3'
+  dateFirst: '19480702'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  nameLast: Nelson
+  nameFirst: Arthur
+  seq: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  nameLast: George
+  nameFirst: John
+  seq: '2'
+  dateFirst: '19480623'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  nameLast: Roberts
+  nameFirst: Howard
+  seq: '0'

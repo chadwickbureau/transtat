@@ -1,0 +1,2755 @@
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Watro
+  nameClub1: Bluefield
+  Pos: 1B
+  G: '15'
+  PO: '129'
+  A: '8'
+  E: '1'
+  DP: '19'
+  PCT: '.993'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Kott
+  nameClub1: Bluefield
+  Pos: 1B
+  G: '10'
+  PO: '57'
+  A: '5'
+  E: '1'
+  DP: '5'
+  PCT: '.984'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Attaway
+  nameClub1: Johnson City
+  Pos: 1B
+  G: '14'
+  PO: '103'
+  A: '6'
+  E: '2'
+  DP: '9'
+  PCT: '.982'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Shoals
+  nameClub1: Kingsport
+  throws: L
+  Pos: 1B
+  G: '120'
+  PO: '1051'
+  A: '46'
+  E: '21'
+  DP: '76'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Graybill
+  nameClub1: New River
+  Pos: 1B
+  G: '111'
+  PO: '990'
+  A: '38'
+  E: '20'
+  DP: '62'
+  PCT: '.981'
+  TP: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Zikmund
+  nameClub1: Bluefield
+  Pos: 1B
+  G: '93'
+  PO: '809'
+  A: '34'
+  E: '16'
+  DP: '57'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Donovan
+  nameClub1: Bristol
+  throws: L
+  Pos: 1B
+  G: '119'
+  PO: '1080'
+  A: '51'
+  E: '26'
+  DP: '66'
+  PCT: '.976'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bekeza
+  nameClub1: Elizabethton
+  Pos: 1B
+  G: '88'
+  PO: '646'
+  A: '31'
+  E: '18'
+  DP: '43'
+  PCT: '.974'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bushkar
+  nameClub1: New River
+  Pos: 1B
+  G: '15'
+  PO: '122'
+  A: '23'
+  E: '4'
+  DP: '14'
+  PCT: '.973'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Flint
+  nameClub1: Pulaski
+  throws: L
+  Pos: 1B
+  G: '118'
+  PO: '1077'
+  A: '51'
+  E: '34'
+  DP: '83'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Heiser
+  nameClub1: Johnson City
+  throws: L
+  Pos: 1B
+  G: '70'
+  PO: '650'
+  A: '22'
+  E: '22'
+  DP: '45'
+  PCT: '.968'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Hoch
+  nameClub1: Johnson City
+  throws: L
+  Pos: 1B
+  G: '28'
+  PO: '234'
+  A: '13'
+  E: '9'
+  DP: '13'
+  PCT: '.965'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Daversa
+  nameClub1: Elizabethton
+  nameClub2: Welch
+  throws: L
+  Pos: 1B
+  G: '102'
+  PO: '783'
+  A: '61'
+  E: '35'
+  DP: '52'
+  PCT: '.960'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sasko
+  nameClub1: Welch
+  throws: L
+  Pos: 1B
+  G: '27'
+  PO: '201'
+  A: '9'
+  E: '9'
+  DP: '13'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Wnetrzak
+  nameClub1: Elizabethton
+  Pos: 1B
+  G: '12'
+  PO: '78'
+  A: '3'
+  E: '4'
+  DP: '3'
+  PCT: '.953'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Biggs
+  nameClub1: Welch
+  Pos: 1B
+  G: '16'
+  PO: '140'
+  A: '2'
+  E: '9'
+  DP: '1'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sifft
+  nameClub1: Johnson City
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '97'
+  A: '6'
+  E: '7'
+  DP: '12'
+  PCT: '.936'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Loman
+  nameClub1: Pulaski
+  Pos: 2B
+  G: '31'
+  PO: '82'
+  A: '97'
+  E: '5'
+  DP: '28'
+  PCT: '.973'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Pepio
+  nameClub1: Bristol
+  Pos: 2B
+  G: '89'
+  PO: '210'
+  A: '264'
+  E: '17'
+  DP: '43'
+  PCT: '.965'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sellergren
+  nameClub1: Elizabethton
+  Pos: 2B
+  G: '70'
+  PO: '180'
+  A: '193'
+  E: '19'
+  DP: '27'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: DeFreitas
+  nameClub1: Bluefield
+  Pos: 2B
+  G: '63'
+  PO: '154'
+  A: '185'
+  E: '17'
+  DP: '41'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Smith
+  nameClub1: New River
+  Pos: 2B
+  G: '28'
+  PO: '45'
+  A: '89'
+  E: '7'
+  DP: '10'
+  PCT: '.950'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Garrippe
+  nameClub1: Bluefield
+  Pos: 2B
+  G: '27'
+  PO: '52'
+  A: '70'
+  E: '7'
+  DP: '6'
+  PCT: '.946'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Haus
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '49'
+  PO: '123'
+  A: '166'
+  E: '17'
+  DP: '26'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Silbernagel
+  nameClub1: Pulaski
+  Pos: 2B
+  G: '75'
+  PO: '193'
+  A: '224'
+  E: '25'
+  DP: '27'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sopko
+  nameClub1: Kingsport
+  Pos: 2B
+  G: '68'
+  PO: '170'
+  A: '219'
+  E: '24'
+  DP: '41'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Wilmer
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '68'
+  PO: '159'
+  A: '207'
+  E: '24'
+  DP: '34'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Taylor
+  nameClub1: Pulaski
+  Pos: 2B
+  G: '20'
+  PO: '34'
+  A: '51'
+  E: '7'
+  DP: '6'
+  PCT: '.924'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Rotola
+  nameClub1: Welch
+  Pos: 2B
+  G: '17'
+  PO: '46'
+  A: '42'
+  E: '8'
+  DP: '6'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Carpellotti
+  nameClub1: Bluefield
+  Pos: 2B
+  G: '20'
+  PO: '56'
+  A: '55'
+  E: '11'
+  DP: '5'
+  PCT: '.910'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Winslett
+  nameClub1: Elizabethton
+  Pos: 2B
+  G: '55'
+  PO: '129'
+  A: '116'
+  E: '27'
+  DP: '16'
+  PCT: '.901'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Morgan
+  nameClub1: Kingsport
+  Pos: 2B
+  G: '38'
+  PO: '89'
+  A: '106'
+  E: '22'
+  DP: '23'
+  PCT: '.899'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Weigle
+  nameClub1: New River
+  Pos: 2B
+  G: '94'
+  PO: '211'
+  A: '249'
+  E: '54'
+  DP: '42'
+  PCT: '.895'
+  TP: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Worsham
+  nameClub1: Bristol
+  Pos: 2B
+  G: '34'
+  PO: '70'
+  A: '63'
+  E: '17'
+  DP: '12'
+  PCT: '.887'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Peterson
+  nameClub1: Elizabethton
+  nameClub2: Welch
+  Pos: 2B
+  G: '50'
+  PO: '112'
+  A: '134'
+  E: '34'
+  DP: '19'
+  PCT: '.879'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Biggs
+  nameClub1: Welch
+  Pos: 2B
+  G: '53'
+  PO: '117'
+  A: '118'
+  E: '33'
+  DP: '12'
+  PCT: '.877'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Ragsdale
+  nameClub1: New River
+  Pos: 3B
+  G: '11'
+  PO: '7'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Worsham
+  nameClub1: Bristol
+  Pos: 3B
+  G: '11'
+  PO: '7'
+  A: '22'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bushkar
+  nameClub1: New River
+  Pos: 3B
+  G: '28'
+  PO: '41'
+  A: '41'
+  E: '7'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Connelly
+  nameClub1: Kingsport
+  Pos: 3B
+  G: '31'
+  PO: '31'
+  A: '60'
+  E: '8'
+  DP: '2'
+  PCT: '.919'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Oliver
+  nameClub1: Bristol
+  Pos: 3B
+  G: '110'
+  PO: '124'
+  A: '191'
+  E: '28'
+  DP: '11'
+  PCT: '.918'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Lever
+  nameClub1: Kingsport
+  Pos: 3B
+  G: '70'
+  PO: '82'
+  A: '88'
+  E: '16'
+  DP: '5'
+  PCT: '.914'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Keeth
+  nameClub1: Bluefield
+  Pos: 3B
+  G: '19'
+  PO: '15'
+  A: '34'
+  E: '5'
+  DP: '2'
+  PCT: '.907'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Knox
+  nameClub1: Elizabethton
+  Pos: 3B
+  G: '43'
+  PO: '50'
+  A: '45'
+  E: '12'
+  DP: '4'
+  PCT: '.888'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Orlando
+  nameClub1: Bluefield
+  Pos: 3B
+  G: '92'
+  PO: '89'
+  A: '171'
+  E: '33'
+  DP: '10'
+  PCT: '.887'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Wheeler
+  nameClub1: Elizabethton
+  Pos: 3B
+  G: '25'
+  PO: '30'
+  A: '29'
+  E: '8'
+  DP: '2'
+  PCT: '.881'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Drenning
+  nameClub1: Welch
+  Pos: 3B
+  G: '81'
+  PO: '81'
+  A: '151'
+  E: '32'
+  DP: '11'
+  PCT: '.879'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Mannarino
+  nameClub1: Pulaski
+  Pos: 3B
+  G: '116'
+  PO: '94'
+  A: '219'
+  E: '44'
+  DP: '18'
+  PCT: '.877'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Daniels
+  nameClub1: Bluefield
+  nameClub2: New River
+  Pos: 3B
+  G: '87'
+  PO: '86'
+  A: '124'
+  E: '33'
+  DP: '9'
+  PCT: '.864'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Cuff
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '103'
+  PO: '106'
+  A: '219'
+  E: '53'
+  DP: '25'
+  PCT: '.860'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Podolak
+  nameClub1: Elizabethton
+  Pos: 3B
+  G: '56'
+  PO: '49'
+  A: '72'
+  E: '21'
+  DP: '9'
+  PCT: '.852'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bearint
+  nameClub1: Welch
+  Pos: 3B
+  G: '13'
+  PO: '25'
+  A: '18'
+  E: '9'
+  DP: '1'
+  PCT: '.827'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: McArthur
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '11'
+  PO: '7'
+  A: '14'
+  E: '5'
+  DP: '0'
+  PCT: '.808'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Peterson
+  nameClub1: Elizabethton
+  nameClub2: Welch
+  Pos: 3B
+  G: '15'
+  PO: '23'
+  A: '19'
+  E: '11'
+  DP: '3'
+  PCT: '.792'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sopko
+  nameClub1: Kingsport
+  Pos: SS
+  G: '13'
+  PO: '26'
+  A: '35'
+  E: '4'
+  DP: '8'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Crosswhite
+  nameFirst: H.
+  nameClub1: New River
+  Pos: SS
+  G: '44'
+  PO: '58'
+  A: '104'
+  E: '11'
+  DP: '18'
+  PCT: '.936'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Cross
+  nameClub1: Bristol
+  Pos: SS
+  G: '110'
+  PO: '221'
+  A: '314'
+  E: '39'
+  DP: '48'
+  PCT: '.932'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Daniels
+  nameClub1: Bluefield
+  nameClub2: New River
+  Pos: SS
+  G: '19'
+  PO: '20'
+  A: '65'
+  E: '7'
+  DP: '3'
+  PCT: '.924'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bushkar
+  nameClub1: New River
+  Pos: SS
+  G: '71'
+  PO: '118'
+  A: '195'
+  E: '28'
+  DP: '28'
+  PCT: '.918'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Schoendienst
+  nameClub1: Johnson City
+  Pos: SS
+  G: '18'
+  PO: '25'
+  A: '38'
+  E: '6'
+  DP: '4'
+  PCT: '.913'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Jenkins
+  nameClub1: Pulaski
+  Pos: SS
+  G: '82'
+  PO: '155'
+  A: '215'
+  E: '37'
+  DP: '35'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Stoecker
+  nameClub1: Bristol
+  nameClub2: Bluefield
+  Pos: SS
+  G: '80'
+  PO: '171'
+  A: '230'
+  E: '46'
+  DP: '50'
+  PCT: '.897'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sabatino
+  nameClub1: Elizabethton
+  Pos: SS
+  G: '14'
+  PO: '15'
+  A: '26'
+  E: '5'
+  DP: '5'
+  PCT: '.891'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Haus
+  nameClub1: Johnson City
+  Pos: SS
+  G: '33'
+  PO: '49'
+  A: '87'
+  E: '17'
+  DP: '12'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: McKenna
+  nameClub1: Johnson City
+  Pos: SS
+  G: '40'
+  PO: '57'
+  A: '99'
+  E: '20'
+  DP: '16'
+  PCT: '.886'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: DelToro
+  nameClub1: Welch
+  Pos: SS
+  G: '67'
+  PO: '109'
+  A: '187'
+  E: '42'
+  DP: '23'
+  PCT: '.876'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Anderson
+  nameClub1: Johnson City
+  Pos: SS
+  G: '37'
+  PO: '63'
+  A: '104'
+  E: '24'
+  DP: '14'
+  PCT: '.874'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Knox
+  nameClub1: Elizabethton
+  Pos: SS
+  G: '59'
+  PO: '88'
+  A: '142'
+  E: '34'
+  DP: '13'
+  PCT: '.871'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Ellington
+  nameClub1: Pulaski
+  Pos: SS
+  G: '33'
+  PO: '68'
+  A: '85'
+  E: '23'
+  DP: '10'
+  PCT: '.869'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sellergren
+  nameClub1: Elizabethton
+  Pos: SS
+  G: '59'
+  PO: '104'
+  A: '141'
+  E: '38'
+  DP: '15'
+  PCT: '.866'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Keeth
+  nameClub1: Bluefield
+  Pos: SS
+  G: '23'
+  PO: '35'
+  A: '57'
+  E: '15'
+  DP: '9'
+  PCT: '.860'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Cook
+  nameClub1: Bristol
+  Pos: SS
+  G: '12'
+  PO: '18'
+  A: '37'
+  E: '9'
+  DP: '4'
+  PCT: '.859'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Alhouse
+  nameClub1: Kingsport
+  Pos: SS
+  G: '74'
+  PO: '96'
+  A: '233'
+  E: '55'
+  DP: '30'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Glisson
+  nameClub1: Elizabethton
+  nameClub2: Welch
+  Pos: SS
+  G: '36'
+  PO: '68'
+  A: '58'
+  E: '21'
+  DP: '6'
+  PCT: '.857'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Orlando
+  nameClub1: Bluefield
+  Pos: SS
+  G: '11'
+  PO: '10'
+  A: '33'
+  E: '8'
+  DP: '5'
+  PCT: '.843'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Morgan
+  nameClub1: Kingsport
+  Pos: SS
+  G: '18'
+  PO: '19'
+  A: '50'
+  E: '13'
+  DP: '2'
+  PCT: '.841'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Landers
+  nameClub1: New River
+  Pos: OF
+  G: '16'
+  PO: '19'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Breese
+  nameClub1: Welch
+  Pos: OF
+  G: '10'
+  PO: '19'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: LaPalme
+  nameClub1: Bristol
+  throws: L
+  Pos: OF
+  G: '22'
+  PO: '16'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sullivan
+  nameClub1: Kingsport
+  nameClub2: Pulaski
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Toth
+  nameClub1: Elizabethton
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Taylor
+  nameClub1: Pulaski
+  Pos: OF
+  G: '74'
+  PO: '112'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Borkowski
+  nameClub1: Elizabethton
+  Pos: OF
+  G: '86'
+  PO: '99'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.982'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Winslett
+  nameClub1: Elizabethton
+  Pos: OF
+  G: '55'
+  PO: '89'
+  A: '12'
+  E: '2'
+  DP: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Morgan
+  nameClub1: Kingsport
+  Pos: OF
+  G: '38'
+  PO: '61'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Fillion
+  nameClub1: Bluefield
+  Pos: OF
+  G: '19'
+  PO: '27'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Walaska
+  nameClub1: Bluefield
+  Pos: OF
+  G: '93'
+  PO: '166'
+  A: '12'
+  E: '7'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Edwards
+  nameClub1: New River
+  Pos: OF
+  G: '83'
+  PO: '181'
+  A: '14'
+  E: '8'
+  DP: '4'
+  PCT: '.961'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: D'Antonio
+  nameClub1: Welch
+  Pos: OF
+  G: '101'
+  PO: '156'
+  A: '18'
+  E: '7'
+  DP: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Johnston
+  nameClub1: Kingsport
+  Pos: OF
+  G: '106'
+  PO: '242'
+  A: '10'
+  E: '11'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Roberts
+  nameClub1: Kingsport
+  throws: L
+  Pos: OF
+  G: '34'
+  PO: '66'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Kelly
+  nameClub1: Kingsport
+  Pos: OF
+  G: '14'
+  PO: '23'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Kruckman
+  nameClub1: New River
+  Pos: OF
+  G: '112'
+  PO: '214'
+  A: '8'
+  E: '10'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Mincy
+  nameClub1: Pulaski
+  nameClub2: Kingsport
+  throws: L
+  Pos: OF
+  G: '122'
+  PO: '190'
+  A: '6'
+  E: '9'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Zunno
+  nameClub1: Bristol
+  throws: L
+  Pos: OF
+  G: '99'
+  PO: '205'
+  A: '15'
+  E: '11'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Picot
+  nameClub1: Kingsport
+  Pos: OF
+  G: '37'
+  PO: '47'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Tanner
+  nameClub1: Welch
+  Pos: OF
+  G: '49'
+  PO: '115'
+  A: '14'
+  E: '7'
+  DP: '3'
+  PCT: '.949'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: McNeish
+  nameClub1: Bluefield
+  nameClub2: Welch
+  Pos: OF
+  G: '81'
+  PO: '145'
+  A: '16'
+  E: '9'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Cunningham
+  nameClub1: Johnson City
+  throws: L
+  Pos: OF
+  G: '25'
+  PO: '34'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Driskill
+  nameClub1: Johnson City
+  Pos: OF
+  G: '74'
+  PO: '126'
+  A: '7'
+  E: '8'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Davies
+  nameClub1: New River
+  Pos: OF
+  G: '81'
+  PO: '92'
+  A: '8'
+  E: '6'
+  DP: '3'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Miles
+  nameClub1: New River
+  Pos: OF
+  G: '14'
+  PO: '15'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Rudisill
+  nameClub1: Pulaski
+  Pos: OF
+  G: '95'
+  PO: '169'
+  A: '14'
+  E: '12'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Rappe
+  nameClub1: Johnson City
+  Pos: OF
+  G: '57'
+  PO: '98'
+  A: '8'
+  E: '7'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Gray
+  nameClub1: Pulaski
+  Pos: OF
+  G: '73'
+  PO: '113'
+  A: '6'
+  E: '8'
+  DP: '4'
+  PCT: '.937'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Worsham
+  nameClub1: Bristol
+  Pos: OF
+  G: '60'
+  PO: '69'
+  A: '5'
+  E: '5'
+  DP: '1'
+  PCT: '.937'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Surber
+  nameClub1: New River
+  Pos: OF
+  G: '81'
+  PO: '127'
+  A: '4'
+  E: '9'
+  DP: '1'
+  PCT: '.936'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sopko
+  nameClub1: Kingsport
+  Pos: OF
+  G: '46'
+  PO: '85'
+  A: '10'
+  E: '7'
+  DP: '2'
+  PCT: '.931'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Anderson
+  nameClub1: Johnson City
+  Pos: OF
+  G: '18'
+  PO: '23'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.931'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Neukirch
+  nameClub1: Elizabethton
+  Pos: OF
+  G: '25'
+  PO: '25'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Caito
+  nameClub1: Bristol
+  Pos: OF
+  G: '11'
+  PO: '11'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Cook
+  nameClub1: Bristol
+  Pos: OF
+  G: '72'
+  PO: '100'
+  A: '16'
+  E: '9'
+  DP: '3'
+  PCT: '.928'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Thomas
+  nameClub1: Welch
+  Pos: OF
+  G: '16'
+  PO: '23'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Muzzo
+  nameClub1: Johnson City
+  Pos: OF
+  G: '46'
+  PO: '80'
+  A: '4'
+  E: '7'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Brewer
+  nameClub1: Elizabethton
+  Pos: OF
+  G: '122'
+  PO: '238'
+  A: '22'
+  E: '22'
+  DP: '2'
+  PCT: '.922'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Madden
+  nameClub1: Bristol
+  throws: L
+  Pos: OF
+  G: '111'
+  PO: '174'
+  A: '10'
+  E: '16'
+  DP: '3'
+  PCT: '.920'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Jacquot
+  nameClub1: Johnson City
+  Pos: OF
+  G: '61'
+  PO: '106'
+  A: '9'
+  E: '10'
+  DP: '4'
+  PCT: '.920'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Dedmond
+  nameClub1: Bluefield
+  Pos: OF
+  G: '91'
+  PO: '121'
+  A: '13'
+  E: '12'
+  DP: '2'
+  PCT: '.918'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Schnake
+  nameClub1: Johnson City
+  Pos: OF
+  G: '46'
+  PO: '105'
+  A: '9'
+  E: '11'
+  DP: '1'
+  PCT: '.912'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Watro
+  nameClub1: Bluefield
+  Pos: OF
+  G: '95'
+  PO: '141'
+  A: '3'
+  E: '14'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Polubiatka
+  nameClub1: Elizabethton
+  throws: L
+  Pos: OF
+  G: '106'
+  PO: '156'
+  A: '8'
+  E: '18'
+  DP: '0'
+  PCT: '.901'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Dorwin
+  nameClub1: Welch
+  throws: L
+  Pos: OF
+  G: '59'
+  PO: '113'
+  A: '9'
+  E: '15'
+  DP: '1'
+  PCT: '.891'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Davies
+  nameClub1: Kingsport
+  Pos: OF
+  G: '25'
+  PO: '30'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Southworth
+  nameClub1: Bluefield
+  Pos: OF
+  G: '11'
+  PO: '15'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Kibby
+  nameClub1: Johnson City
+  Pos: OF
+  G: '30'
+  PO: '28'
+  A: '7'
+  E: '5'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Abernethy
+  nameClub1: Pulaski
+  Pos: OF
+  G: '67'
+  PO: '74'
+  A: '9'
+  E: '12'
+  DP: '2'
+  PCT: '.874'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Eichas
+  nameClub1: Elizabethton
+  nameClub2: Welch
+  Pos: OF
+  G: '14'
+  PO: '12'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Moore
+  nameClub1: Welch
+  throws: L
+  Pos: OF
+  G: '42'
+  PO: '67'
+  A: '4'
+  E: '11'
+  DP: '1'
+  PCT: '.866'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Trivett
+  nameClub1: Kingsport
+  Pos: OF
+  G: '30'
+  PO: '49'
+  A: '1'
+  E: '8'
+  DP: '2'
+  PCT: '.862'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Wnetrzak
+  nameClub1: Elizabethton
+  Pos: OF
+  G: '11'
+  PO: '8'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Ferrante
+  nameClub1: Welch
+  throws: L
+  Pos: OF
+  G: '11'
+  PO: '13'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.813'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Dixon
+  nameClub1: Pulaski
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '1'
+  E: '5'
+  DP: '2'
+  PCT: '.737'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sifft
+  nameClub1: Johnson City
+  throws: L
+  Pos: OF
+  G: '12'
+  PO: '7'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.727'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Crosswhite
+  nameFirst: J.
+  nameClub1: New River
+  Pos: C
+  G: '107'
+  PO: '590'
+  A: '83'
+  E: '4'
+  DP: '12'
+  PCT: '.994'
+  PB: '3'
+  TP: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Attaway
+  nameClub1: Johnson City
+  Pos: C
+  G: '12'
+  PO: '48'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+  PB: '1'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sullivan
+  nameClub1: Kingsport
+  nameClub2: Pulaski
+  Pos: C
+  G: '98'
+  PO: '669'
+  A: '76'
+  E: '16'
+  DP: '7'
+  PCT: '.979'
+  PB: '16'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Abreu
+  nameClub1: Kingsport
+  Pos: C
+  G: '14'
+  PO: '75'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.976'
+  PB: '2'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Picot
+  nameClub1: Kingsport
+  Pos: C
+  G: '47'
+  PO: '254'
+  A: '18'
+  E: '7'
+  DP: '3'
+  PCT: '.975'
+  PB: '10'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Robichaud
+  nameClub1: Elizabethton
+  Pos: C
+  G: '80'
+  PO: '474'
+  A: '50'
+  E: '15'
+  DP: '9'
+  PCT: '.972'
+  PB: '11'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Quirk
+  nameClub1: Pulaski
+  Pos: C
+  G: '20'
+  PO: '121'
+  A: '16'
+  E: '4'
+  DP: '2'
+  PCT: '.972'
+  PB: '4'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Caito
+  nameClub1: Bristol
+  Pos: C
+  G: '12'
+  PO: '61'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.970'
+  PB: '4'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Zitzke
+  nameClub1: Johnson City
+  Pos: C
+  G: '26'
+  PO: '132'
+  A: '21'
+  E: '5'
+  DP: '6'
+  PCT: '.968'
+  PB: '6'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Griewisch
+  nameClub1: Bristol
+  Pos: C
+  G: '11'
+  PO: '55'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.968'
+  PB: '2'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Hartman
+  nameClub1: Welch
+  Pos: C
+  G: '10'
+  PO: '27'
+  A: '3'
+  E: '1'
+  DP: '2'
+  PCT: '.968'
+  PB: '0'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Kuzemka
+  nameClub1: Bluefield
+  Pos: C
+  G: '81'
+  PO: '419'
+  A: '53'
+  E: '16'
+  DP: '5'
+  PCT: '.967'
+  PB: '22'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Price
+  nameClub1: Bristol
+  Pos: C
+  G: '94'
+  PO: '527'
+  A: '65'
+  E: '22'
+  DP: '10'
+  PCT: '.964'
+  PB: '16'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bekeza
+  nameClub1: Elizabethton
+  Pos: C
+  G: '32'
+  PO: '174'
+  A: '26'
+  E: '8'
+  DP: '3'
+  PCT: '.962'
+  PB: '6'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Ellington
+  nameClub1: Pulaski
+  Pos: C
+  G: '12'
+  PO: '72'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.962'
+  PB: '8'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Graybill
+  nameClub1: New River
+  Pos: C
+  G: '22'
+  PO: '85'
+  A: '12'
+  E: '4'
+  DP: '2'
+  PCT: '.960'
+  PB: '5'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Duncan
+  nameClub1: Pulaski
+  Pos: C
+  G: '22'
+  PO: '83'
+  A: '8'
+  E: '4'
+  DP: '0'
+  PCT: '.958'
+  PB: '2'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Rudisill
+  nameClub1: Pulaski
+  Pos: C
+  G: '29'
+  PO: '142'
+  A: '33'
+  E: '8'
+  DP: '1'
+  PCT: '.956'
+  PB: '7'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Oldak
+  nameClub1: Bristol
+  Pos: C
+  G: '20'
+  PO: '91'
+  A: '18'
+  E: '5'
+  DP: '1'
+  PCT: '.956'
+  PB: '6'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Sefick
+  nameClub1: Welch
+  nameClub2: Bluefield
+  Pos: C
+  G: '43'
+  PO: '210'
+  A: '23'
+  E: '11'
+  DP: '4'
+  PCT: '.955'
+  PB: '5'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bryant
+  nameClub1: Bluefield
+  Pos: C
+  G: '10'
+  PO: '38'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.953'
+  PB: '1'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Kerschke
+  nameClub1: Johnson City
+  Pos: C
+  G: '89'
+  PO: '427'
+  A: '70'
+  E: '27'
+  DP: '5'
+  PCT: '.948'
+  PB: '24'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: LePage
+  nameClub1: Bluefield
+  Pos: C
+  G: '22'
+  PO: '105'
+  A: '13'
+  E: '7'
+  DP: '1'
+  PCT: '.944'
+  PB: '2'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Jones
+  nameClub1: Welch
+  Pos: C
+  G: '76'
+  PO: '332'
+  A: '51'
+  E: '24'
+  DP: '3'
+  PCT: '.941'
+  PB: '23'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Toth
+  nameClub1: Elizabethton
+  Pos: C
+  G: '31'
+  PO: '170'
+  A: '21'
+  E: '13'
+  DP: '1'
+  PCT: '.936'
+  PB: '10'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Trout
+  nameClub1: Pulaski
+  Pos: C
+  G: '15'
+  PO: '72'
+  A: '11'
+  E: '7'
+  DP: '1'
+  PCT: '.922'
+  PB: '12'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Tanner
+  nameClub1: Welch
+  Pos: C
+  G: '27'
+  PO: '148'
+  A: '26'
+  E: '15'
+  DP: '4'
+  PCT: '.921'
+  PB: '12'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Lever
+  nameClub1: Kingsport
+  Pos: C
+  G: '15'
+  PO: '42'
+  A: '33'
+  E: '7'
+  DP: '3'
+  PCT: '.915'
+  PB: '5'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Pollock
+  nameClub1: New River
+  Pos: P
+  G: '39'
+  PO: '9'
+  A: '43'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Henry
+  nameClub1: Welch
+  Pos: P
+  G: '18'
+  PO: '8'
+  A: '26'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Underwood
+  nameClub1: Pulaski
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '29'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Boyce
+  nameClub1: Bluefield
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '22'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Hegner
+  nameClub1: Pulaski
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Keegan
+  nameClub1: Pulaski
+  nameClub2: Kingsport
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Onkotz
+  nameClub1: Johnson City
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '50'
+  E: '1'
+  DP: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Garbee
+  nameClub1: Johnson City
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '41'
+  E: '1'
+  DP: '2'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Kott
+  nameClub1: Bluefield
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '36'
+  E: '1'
+  DP: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Alexander
+  nameClub1: Pulaski
+  nameClub2: Bluefield
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '30'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: LaPalme
+  nameClub1: Bristol
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '54'
+  E: '2'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Hardwick
+  nameClub1: New River
+  Pos: P
+  G: '36'
+  PO: '18'
+  A: '66'
+  E: '3'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Fesh
+  nameClub1: Pulaski
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: LaCroix
+  nameClub1: Bristol
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '25'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Maher
+  nameClub1: New River
+  Pos: P
+  G: '23'
+  PO: '9'
+  A: '41'
+  E: '2'
+  DP: '1'
+  PCT: '.962'
+  TP: '1'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Fillion
+  nameClub1: Bluefield
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '38'
+  E: '2'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Cherry
+  nameClub1: Pulaski
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Luke
+  nameClub1: Bristol
+  Pos: P
+  G: '27'
+  PO: '4'
+  A: '38'
+  E: '2'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Callison
+  nameClub1: New River
+  Pos: P
+  G: '35'
+  PO: '6'
+  A: '56'
+  E: '3'
+  DP: '2'
+  PCT: '.954'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Nee
+  nameClub1: Kingsport
+  Pos: P
+  G: '31'
+  PO: '5'
+  A: '35'
+  E: '2'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Rotumno
+  nameClub1: Elizabethton
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameClub1: Johnson City
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '16'
+  E: '1'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Campen
+  nameClub1: Bristol
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Michalojko
+  nameClub1: Bluefield
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Stewart
+  nameClub1: Kingsport
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Bowman
+  nameClub1: New River
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '29'
+  E: '2'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Wainiski
+  nameClub1: Bristol
+  Pos: P
+  G: '24'
+  PO: '3'
+  A: '30'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Littell
+  nameClub1: Kingsport
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '16'
+  E: '1'
+  DP: '2'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Borkowski
+  nameClub1: Elizabethton
+  Pos: P
+  G: '29'
+  PO: '18'
+  A: '43'
+  E: '4'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: DePriest
+  nameClub1: Pulaski
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: James
+  nameClub1: Pulaski
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '6'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Lampros
+  nameClub1: Bristol
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Amature
+  nameClub1: Welch
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Shealey
+  nameClub1: Bristol
+  Pos: P
+  G: '24'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Slack
+  nameClub1: Johnson City
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '33'
+  E: '3'
+  DP: '1'
+  PCT: '.930'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Guard
+  nameClub1: Bluefield
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '8'
+  A: '31'
+  E: '3'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Hoch
+  nameClub1: Johnson City
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '7'
+  A: '43'
+  E: '4'
+  DP: '2'
+  PCT: '.926'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Potter
+  nameClub1: Johnson City
+  nameClub2: Welch
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Gagyi
+  nameClub1: Kingsport
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Warren
+  nameClub1: Elizabethton
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Fortune
+  nameClub1: New River
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Mooney
+  nameClub1: Johnson City
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '9'
+  A: '26'
+  E: '3'
+  DP: '0'
+  PCT: '.921'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Loeser
+  nameClub1: Johnson City
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '20'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Roche
+  nameClub1: Kingsport
+  Pos: P
+  G: '22'
+  PO: '12'
+  A: '21'
+  E: '3'
+  DP: '3'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Becker
+  nameClub1: Welch
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '60'
+  E: '7'
+  DP: '2'
+  PCT: '.905'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Wnetrzak
+  nameClub1: Elizabethton
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '22'
+  E: '3'
+  DP: '0'
+  PCT: '.903'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Thomas
+  nameClub1: Welch
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Zeiger
+  nameClub1: Bristol
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '31'
+  E: '4'
+  DP: '4'
+  PCT: '.897'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Hall
+  nameClub1: New River
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Byrd
+  nameClub1: Welch
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '24'
+  E: '4'
+  DP: '0'
+  PCT: '.892'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Rezack
+  nameClub1: Elizabethton
+  Pos: P
+  G: '40'
+  PO: '10'
+  A: '39'
+  E: '6'
+  DP: '2'
+  PCT: '.891'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Navage
+  nameClub1: Bluefield
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Henry
+  nameClub1: Kingsport
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Pirrie
+  nameClub1: Johnson City
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Cuthbertson
+  nameClub1: Pulaski
+  Pos: P
+  G: '24'
+  PO: '0'
+  A: '27'
+  E: '4'
+  DP: '1'
+  PCT: '.871'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Shell
+  nameClub1: Elizabethton
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '46'
+  E: '8'
+  DP: '3'
+  PCT: '.869'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Mercadante
+  nameClub1: Bristol
+  nameClub2: Welch
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '13'
+  E: '3'
+  DP: '2'
+  PCT: '.842'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Allen
+  nameClub1: Bluefield
+  Pos: P
+  G: '11'
+  PO: '5'
+  A: '10'
+  E: '3'
+  DP: '3'
+  PCT: '.833'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Holberg
+  nameClub1: Pulaski
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '25'
+  E: '6'
+  DP: '0'
+  PCT: '.829'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Flammini
+  nameClub1: Elizabethton
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Meagher
+  nameClub1: Bluefield
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+  TP: '0'
+- year: '1946'
+  nameLeague: Appalachian League
+  nameLast: Goodman
+  nameClub1: Welch
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.667'
+  TP: '0'

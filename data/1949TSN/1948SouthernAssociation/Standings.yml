@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular
+  W: '95'
+  L: '58'
+  T: '0'
+  PCT: '.621'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular
+  W: '92'
+  L: '61'
+  T: '2'
+  PCT: '.601'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular
+  W: '84'
+  L: '69'
+  T: '0'
+  PCT: '.549'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: regular
+  W: '75'
+  L: '75'
+  T: '3'
+  PCT: '.500'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular
+  W: '70'
+  L: '83'
+  T: '3'
+  PCT: '.458'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular
+  W: '69'
+  L: '85'
+  T: '0'
+  PCT: '.448'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular
+  W: '67'
+  L: '83'
+  T: '0'
+  PCT: '.447'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular
+  W: '58'
+  L: '96'
+  T: '0'
+  PCT: '.377'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

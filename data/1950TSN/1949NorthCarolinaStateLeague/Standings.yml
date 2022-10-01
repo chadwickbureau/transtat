@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: High Point-Thomasville
+  phase: regular
+  W: '90'
+  L: '34'
+  T: '0'
+  PCT: '.726'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: regular
+  W: '72'
+  L: '52'
+  T: '0'
+  PCT: '.581'
+  RANK: '2'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: regular
+  W: '69'
+  L: '53'
+  T: '0'
+  PCT: '.566'
+  RANK: '3'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Statesville
+  phase: regular
+  W: '60'
+  L: '64'
+  T: '0'
+  PCT: '.484'
+  RANK: '4'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: regular
+  W: '53'
+  L: '71'
+  T: '0'
+  PCT: '.427'
+  RANK: '5'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Hickory
+  phase: regular
+  W: '50'
+  L: '72'
+  T: '0'
+  PCT: '.410'
+  RANK: '6'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Concord
+  phase: regular
+  W: '50'
+  L: '74'
+  T: '0'
+  PCT: '.403'
+  RANK: '7'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Salisbury
+  phase: regular
+  W: '49'
+  L: '73'
+  T: '0'
+  PCT: '.402'
+  RANK: '8'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: High Point-Thomasville
+  phase: semifinals
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: semifinals
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: semifinals
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: semifinals
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: High Point-Thomasville
+  phase: finals
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: finals
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

@@ -1,0 +1,48 @@
+- year: '1955'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  Lafayette: '13'
+  Alexandria: '14'
+  Baton Rouge: '13'
+  Crowley: '18'
+  Lake Charles: '19'
+- year: '1955'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  New Iberia: '15'
+  Alexandria: '13'
+  Baton Rouge: '14'
+  Crowley: '15'
+  Lake Charles: '20'
+- year: '1955'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  New Iberia: '13'
+  Lafayette: '15'
+  Baton Rouge: '16'
+  Crowley: '14'
+  Lake Charles: '16'
+- year: '1955'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  New Iberia: '15'
+  Lafayette: '14'
+  Alexandria: '12'
+  Crowley: '16'
+  Lake Charles: '16'
+- year: '1955'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  New Iberia: '10'
+  Lafayette: '13'
+  Alexandria: '14'
+  Baton Rouge: '12'
+  Lake Charles: '16'
+- year: '1955'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  New Iberia: '9'
+  Lafayette: '8'
+  Alexandria: '12'
+  Baton Rouge: '11'
+  Crowley: '12'

@@ -1,0 +1,80 @@
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Longview
+  Gladewater: '14'
+  Paris: '9'
+  Kilgore: '14'
+  Marshall: '12'
+  Tyler: '10'
+  Henderson: '15'
+  Bryan: '15'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  Longview: '6'
+  Paris: '12'
+  Kilgore: '14'
+  Marshall: '13'
+  Tyler: '12'
+  Henderson: '13'
+  Bryan: '17'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Paris
+  Longview: '11'
+  Gladewater: '8'
+  Kilgore: '10'
+  Marshall: '6'
+  Tyler: '12'
+  Henderson: '14'
+  Bryan: '14'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Kilgore
+  Longview: '6'
+  Gladewater: '6'
+  Paris: '10'
+  Marshall: '14'
+  Tyler: '15'
+  Henderson: '12'
+  Bryan: '12'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Marshall
+  Longview: '8'
+  Gladewater: '7'
+  Paris: '12'
+  Kilgore: '6'
+  Tyler: '10'
+  Henderson: '15'
+  Bryan: '11'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  Longview: '10'
+  Gladewater: '8'
+  Paris: '8'
+  Kilgore: '5'
+  Marshall: '10'
+  Henderson: '11'
+  Bryan: '10'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  Longview: '5'
+  Gladewater: '7'
+  Paris: '5'
+  Kilgore: '8'
+  Marshall: '5'
+  Tyler: '9'
+  Bryan: '12'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Bryan
+  Longview: '5'
+  Gladewater: '3'
+  Paris: '6'
+  Kilgore: '8'
+  Marshall: '8'
+  Tyler: '10'
+  Henderson: '8'

@@ -1,0 +1,66 @@
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Wichita
+  G: '152'
+  DP: '149'
+  PB: '13'
+  PO: '3899'
+  A: '1521'
+  E: '182'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Des Moines
+  G: '152'
+  DP: '181'
+  PB: '28'
+  PO: '3891'
+  A: '1751'
+  E: '224'
+  PCT: '.962'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  G: '150'
+  DP: '150'
+  PB: '17'
+  PO: '3826'
+  A: '1713'
+  E: '219'
+  PCT: '.962'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Sioux City
+  G: '151'
+  DP: '122'
+  PB: '19'
+  PO: '3729'
+  A: '1572'
+  E: '217'
+  PCT: '.961'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Lincoln
+  G: '151'
+  DP: '133'
+  PB: '15'
+  PO: '3821'
+  A: '1468'
+  E: '222'
+  PCT: '.960'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Pueblo
+  G: '150'
+  DP: '181'
+  PB: '22'
+  PO: '3875'
+  A: '1603'
+  E: '238'
+  PCT: '.958'
+  TP: '2'

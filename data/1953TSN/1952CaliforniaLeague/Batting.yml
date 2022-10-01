@@ -1,0 +1,4063 @@
+- year: '1952'
+  nameLeague: California League
+  nameLast: Grandcolas
+  nameFirst: Alan C.
+  nameClub1: Fresno
+  G: '140'
+  AB: '550'
+  R: '105'
+  H: '191'
+  TB: '278'
+  H2B: '29'
+  H3B: '5'
+  HR: '16'
+  SH: '3'
+  SB: '8'
+  BB: '84'
+  HP: '3'
+  RBI: '106'
+  SO: '52'
+  AVG: '.347'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Downs
+  nameFirst: Benjamin E.
+  nameClub1: Fresno
+  bats: L
+  G: '140'
+  AB: '540'
+  R: '121'
+  H: '182'
+  TB: '328'
+  H2B: '32'
+  H3B: '6'
+  HR: '34'
+  SH: '0'
+  SB: '7'
+  BB: '105'
+  HP: '9'
+  RBI: '154'
+  SO: '52'
+  AVG: '.337'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Borich
+  nameFirst: Joseph M.
+  nameClub1: Visalia
+  G: '88'
+  AB: '324'
+  R: '54'
+  H: '109'
+  TB: '165'
+  H2B: '18'
+  H3B: '1'
+  HR: '12'
+  SH: '0'
+  SB: '2'
+  BB: '46'
+  HP: '2'
+  RBI: '89'
+  SO: '46'
+  AVG: '.336'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Gulley
+  nameFirst: Napoleon
+  nameClub1: Visalia
+  bats: L
+  G: '103'
+  AB: '393'
+  R: '74'
+  H: '131'
+  TB: '210'
+  H2B: '43'
+  H3B: '6'
+  HR: '8'
+  SH: '2'
+  SB: '7'
+  BB: '48'
+  HP: '0'
+  RBI: '82'
+  SO: '64'
+  AVG: '.333'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: Jose R.
+  nameClub1: Ventura
+  G: '97'
+  AB: '376'
+  R: '72'
+  H: '125'
+  TB: '152'
+  H2B: '20'
+  H3B: '2'
+  HR: '1'
+  SH: '3'
+  SB: '9'
+  BB: '50'
+  HP: '2'
+  RBI: '51'
+  SO: '14'
+  AVG: '.332'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Sturgeon
+  nameFirst: Robert H.
+  nameClub1: Ventura
+  G: '59'
+  AB: '216'
+  R: '24'
+  H: '71'
+  TB: '89'
+  H2B: '13'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '11'
+  HP: '1'
+  RBI: '33'
+  SO: '13'
+  AVG: '.329'
+- year: '1952'
+  nameLeague: California League
+  nameLast: King
+  nameFirst: James H.
+  nameClub1: Fresno
+  bats: L
+  G: '59'
+  AB: '241'
+  R: '58'
+  H: '79'
+  TB: '124'
+  H2B: '10'
+  H3B: '7'
+  HR: '7'
+  SH: '3'
+  SB: '4'
+  BB: '37'
+  HP: '0'
+  RBI: '54'
+  SO: '21'
+  AVG: '.328'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Peeples
+  nameFirst: Nathaniel
+  nameClub1: Santa Barbara
+  G: '108'
+  AB: '373'
+  R: '82'
+  H: '122'
+  TB: '187'
+  H2B: '15'
+  H3B: '4'
+  HR: '14'
+  SH: '12'
+  SB: '52'
+  BB: '93'
+  HP: '5'
+  RBI: '72'
+  SO: '66'
+  AVG: '.327'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Lewis
+  nameFirst: Mars D.
+  nameClub1: San Jose
+  G: '96'
+  AB: '358'
+  R: '44'
+  H: '114'
+  TB: '152'
+  H2B: '23'
+  H3B: '6'
+  HR: '1'
+  SH: '6'
+  SB: '6'
+  BB: '46'
+  HP: '2'
+  RBI: '79'
+  SO: '22'
+  AVG: '.318'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Kast
+  nameFirst: D. Lee
+  nameClub1: Ventura
+  G: '77'
+  AB: '302'
+  R: '46'
+  H: '95'
+  TB: '146'
+  H2B: '16'
+  H3B: '1'
+  HR: '11'
+  SH: '3'
+  SB: '10'
+  BB: '32'
+  HP: '3'
+  RBI: '68'
+  SO: '62'
+  AVG: '.315'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Wilson
+  nameFirst: Richard C.
+  nameClub1: Modesto
+  G: '60'
+  AB: '216'
+  R: '47'
+  H: '67'
+  TB: '111'
+  H2B: '12'
+  H3B: '1'
+  HR: '10'
+  SH: '0'
+  SB: '1'
+  BB: '47'
+  HP: '1'
+  RBI: '52'
+  SO: '25'
+  AVG: '.310'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Amorena
+  nameFirst: August J.
+  nameClub1: Visalia
+  bats: L
+  G: '75'
+  AB: '320'
+  R: '61'
+  H: '99'
+  TB: '121'
+  H2B: '15'
+  H3B: '2'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '40'
+  HP: '2'
+  RBI: '28'
+  SO: '21'
+  AVG: '.309'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Jones
+  nameFirst: Carl E.
+  nameClub1: Visalia
+  G: '138'
+  AB: '572'
+  R: '115'
+  H: '176'
+  TB: '197'
+  H2B: '13'
+  H3B: '4'
+  HR: '0'
+  SH: '7'
+  SB: '14'
+  BB: '93'
+  HP: '9'
+  RBI: '62'
+  SO: '21'
+  AVG: '.308'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Herman
+  nameFirst: John D.
+  nameClub1: Bakersfield
+  bats: L
+  G: '137'
+  AB: '519'
+  R: '84'
+  H: '160'
+  TB: '237'
+  H2B: '34'
+  H3B: '5'
+  HR: '11'
+  SH: '6'
+  SB: '7'
+  BB: '81'
+  HP: '6'
+  RBI: '87'
+  SO: '58'
+  AVG: '.308'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Cunningham
+  nameFirst: David J.
+  nameClub1: Visalia
+  G: '134'
+  AB: '531'
+  R: '132'
+  H: '162'
+  TB: '304'
+  H2B: '29'
+  H3B: '7'
+  HR: '33'
+  SH: '7'
+  SB: '19'
+  BB: '88'
+  HP: '3'
+  RBI: '121'
+  SO: '114'
+  AVG: '.305'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Stathos
+  nameFirst: Anthony F.
+  nameClub1: Fresno
+  bats: L
+  G: '50'
+  AB: '115'
+  R: '29'
+  H: '35'
+  TB: '40'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '14'
+  HP: '1'
+  RBI: '12'
+  SO: '19'
+  AVG: '.304'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Warner
+  nameFirst: James A.
+  nameClub1: 85@Modesto
+  nameClub2: 46@Visalia
+  G: '131'
+  AB: '484'
+  R: '109'
+  H: '146'
+  TB: '256'
+  H2B: '28'
+  H3B: '2'
+  HR: '26'
+  SH: '5'
+  SB: '19'
+  BB: '113'
+  HP: '3'
+  RBI: '118'
+  SO: '62'
+  AVG: '.302'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Clements
+  nameFirst: Harry M.
+  nameClub1: Stockton
+  G: '128'
+  AB: '484'
+  R: '60'
+  H: '145'
+  TB: '171'
+  H2B: '15'
+  H3B: '4'
+  HR: '1'
+  SH: '6'
+  SB: '1'
+  BB: '46'
+  HP: '4'
+  RBI: '62'
+  SO: '26'
+  AVG: '.300'
+- year: '1952'
+  nameLeague: California League
+  nameLast: LeBlanc
+  nameFirst: Roland C.
+  nameClub1: Fresno
+  G: '124'
+  AB: '443'
+  R: '87'
+  H: '133'
+  TB: '213'
+  H2B: '28'
+  H3B: '5'
+  HR: '14'
+  SH: '4'
+  SB: '21'
+  BB: '51'
+  HP: '3'
+  RBI: '99'
+  SO: '36'
+  AVG: '.300'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Preston
+  nameFirst: Arthur W.
+  nameClub1: San Jose
+  G: '72'
+  AB: '283'
+  R: '50'
+  H: '85'
+  TB: '110'
+  H2B: '11'
+  H3B: '4'
+  HR: '2'
+  SH: '5'
+  SB: '16'
+  BB: '44'
+  HP: '2'
+  RBI: '42'
+  SO: '29'
+  AVG: '.300'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Barton
+  nameFirst: Larry J.
+  nameClub1: Visalia
+  bats: L
+  G: '41'
+  AB: '134'
+  R: '22'
+  H: '40'
+  TB: '59'
+  H2B: '13'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '0'
+  BB: '23'
+  HP: '0'
+  RBI: '19'
+  SO: '14'
+  AVG: '.299'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Garbe
+  nameFirst: William C.
+  nameClub1: Fresno
+  bats: L
+  G: '79'
+  AB: '292'
+  R: '73'
+  H: '87'
+  TB: '121'
+  H2B: '16'
+  H3B: '3'
+  HR: '4'
+  SH: '2'
+  SB: '8'
+  BB: '73'
+  HP: '2'
+  RBI: '49'
+  SO: '45'
+  AVG: '.298'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Baro
+  nameFirst: Alberto A.
+  nameClub1: Santa Barbara
+  G: '124'
+  AB: '402'
+  R: '78'
+  H: '119'
+  TB: '170'
+  H2B: '18'
+  H3B: '9'
+  HR: '5'
+  SH: '9'
+  SB: '37'
+  BB: '119'
+  HP: '1'
+  RBI: '77'
+  SO: '38'
+  AVG: '.296'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: Walter H.
+  nameClub1: San Jose
+  G: '119'
+  AB: '388'
+  R: '52'
+  H: '114'
+  TB: '137'
+  H2B: '15'
+  H3B: '4'
+  HR: '0'
+  SH: '10'
+  SB: '0'
+  BB: '58'
+  HP: '4'
+  RBI: '52'
+  SO: '53'
+  AVG: '.294'
+- year: '1952'
+  nameLeague: California League
+  nameLast: McDaniel
+  nameFirst: James R.
+  nameClub1: Visalia
+  G: '134'
+  AB: '518'
+  R: '93'
+  H: '152'
+  TB: '269'
+  H2B: '30'
+  H3B: '9'
+  HR: '23'
+  SH: '0'
+  SB: '6'
+  BB: '55'
+  HP: '3'
+  RBI: '134'
+  SO: '115'
+  AVG: '.293'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Lillard
+  nameFirst: R. Eugene
+  nameClub1: Bakersfield
+  G: '114'
+  AB: '353'
+  R: '67'
+  H: '103'
+  TB: '164'
+  H2B: '19'
+  H3B: '0'
+  HR: '14'
+  SH: '2'
+  SB: '1'
+  BB: '92'
+  HP: '1'
+  RBI: '69'
+  SO: '42'
+  AVG: '.292'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Casale
+  nameFirst: Jerry
+  nameClub1: San Jose
+  G: '49'
+  AB: '96'
+  R: '12'
+  H: '28'
+  TB: '42'
+  H2B: '4'
+  H3B: '2'
+  HR: '2'
+  SH: '1'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '15'
+  SO: '28'
+  AVG: '.292'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Cameron
+  nameFirst: Clinton J.
+  nameClub1: Modesto
+  bats: L
+  G: '125'
+  AB: '406'
+  R: '79'
+  H: '118'
+  TB: '172'
+  H2B: '16'
+  H3B: '1'
+  HR: '12'
+  SH: '9'
+  SB: '5'
+  BB: '107'
+  HP: '10'
+  RBI: '60'
+  SO: '33'
+  AVG: '.291'
+- year: '1952'
+  nameLeague: California League
+  nameLast: MacKay
+  nameFirst: Gerald A.
+  nameClub1: Visalia
+  bats: L
+  G: '28'
+  AB: '103'
+  R: '26'
+  H: '30'
+  TB: '36'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '5'
+  BB: '18'
+  HP: '0'
+  RBI: '14'
+  SO: '14'
+  AVG: '.291'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Keough
+  nameFirst: R. Martin
+  nameClub1: San Jose
+  bats: L
+  G: '70'
+  AB: '263'
+  R: '42'
+  H: '76'
+  TB: '103'
+  H2B: '16'
+  H3B: '4'
+  HR: '1'
+  SH: '6'
+  SB: '8'
+  BB: '40'
+  HP: '0'
+  RBI: '30'
+  SO: '53'
+  AVG: '.289'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Malgradi
+  nameFirst: Raymond C.
+  nameClub1: Santa Barbara
+  G: '62'
+  AB: '76'
+  R: '5'
+  H: '22'
+  TB: '25'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '3'
+  SO: '13'
+  AVG: '.289'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hampshire
+  nameFirst: Larry D.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '16'
+  AB: '49'
+  R: '9'
+  H: '14'
+  TB: '18'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '12'
+  HP: '1'
+  RBI: '1'
+  SO: '5'
+  AVG: '.286'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Owen
+  nameFirst: George
+  nameClub1: Ventura
+  bats: L
+  G: '118'
+  AB: '418'
+  R: '76'
+  H: '119'
+  TB: '199'
+  H2B: '31'
+  H3B: '5'
+  HR: '13'
+  SH: '2'
+  SB: '5'
+  BB: '88'
+  HP: '4'
+  RBI: '95'
+  SO: '82'
+  AVG: '.285'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Bell
+  nameFirst: Sylvester R.
+  nameClub1: Modesto
+  G: '32'
+  AB: '118'
+  R: '19'
+  H: '33'
+  TB: '42'
+  H2B: '7'
+  H3B: '1'
+  HR: '0'
+  SH: '7'
+  SB: '3'
+  BB: '23'
+  HP: '0'
+  RBI: '14'
+  SO: '28'
+  AVG: '.280'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Eastburn
+  nameFirst: William E.
+  nameClub1: Visalia
+  G: '11'
+  AB: '25'
+  R: '5'
+  H: '7'
+  TB: '10'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  AVG: '.280'
+  apparatus: club=Ventura
+- year: '1952'
+  nameLeague: California League
+  nameLast: Roseboro
+  nameFirst: Stanley H.
+  nameClub1: San Jose
+  bats: L
+  G: '138'
+  AB: '560'
+  R: '100'
+  H: '156'
+  TB: '191'
+  H2B: '14'
+  H3B: '9'
+  HR: '1'
+  SH: '18'
+  SB: '34'
+  BB: '82'
+  HP: '1'
+  RBI: '40'
+  SO: '39'
+  AVG: '.279'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Grace
+  nameFirst: LaVern L.
+  nameClub1: Bakersfield
+  bats: L
+  G: '121'
+  AB: '488'
+  R: '87'
+  H: '136'
+  TB: '194'
+  H2B: '31'
+  H3B: '6'
+  HR: '5'
+  SH: '4'
+  SB: '12'
+  BB: '45'
+  HP: '2'
+  RBI: '66'
+  SO: '36'
+  AVG: '.279'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Bausman
+  nameFirst: Donald G.
+  nameClub1: Fresno
+  G: '135'
+  AB: '544'
+  R: '91'
+  H: '151'
+  TB: '227'
+  H2B: '32'
+  H3B: '4'
+  HR: '12'
+  SH: '6'
+  SB: '4'
+  BB: '37'
+  HP: '3'
+  RBI: '84'
+  SO: '50'
+  AVG: '.278'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Burton
+  nameFirst: William R.
+  nameClub1: Fresno
+  G: '133'
+  AB: '546'
+  R: '104'
+  H: '151'
+  TB: '194'
+  H2B: '15'
+  H3B: '11'
+  HR: '2'
+  SH: '16'
+  SB: '23'
+  BB: '55'
+  HP: '7'
+  RBI: '53'
+  SO: '50'
+  AVG: '.277'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Lopes
+  nameFirst: Donald A.
+  nameClub1: Modesto
+  G: '17'
+  AB: '47'
+  R: '5'
+  H: '13'
+  TB: '19'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '1'
+  RBI: '9'
+  SO: '12'
+  AVG: '.277'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Miller
+  nameFirst: Andrew W.
+  nameClub1: Stockton
+  G: '64'
+  AB: '217'
+  R: '29'
+  H: '60'
+  TB: '82'
+  H2B: '9'
+  H3B: '2'
+  HR: '3'
+  SH: '6'
+  SB: '1'
+  BB: '36'
+  HP: '2'
+  RBI: '33'
+  SO: '32'
+  AVG: '.276'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Phillip
+  nameFirst: Andrew M.
+  nameClub1: Bakersfield
+  G: '19'
+  AB: '76'
+  R: '14'
+  H: '21'
+  TB: '28'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '12'
+  HP: '1'
+  RBI: '8'
+  SO: '14'
+  AVG: '.276'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Campana
+  nameFirst: Falco D.
+  nameClub1: Visalia
+  G: '112'
+  AB: '443'
+  R: '62'
+  H: '122'
+  TB: '175'
+  H2B: '27'
+  H3B: '4'
+  HR: '6'
+  SH: '5'
+  SB: '5'
+  BB: '44'
+  HP: '8'
+  RBI: '55'
+  SO: '55'
+  AVG: '.275'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Neal
+  nameFirst: Lawrence V.
+  nameClub1: Modesto
+  G: '76'
+  AB: '270'
+  R: '54'
+  H: '74'
+  TB: '107'
+  H2B: '11'
+  H3B: '2'
+  HR: '6'
+  SH: '4'
+  SB: '13'
+  BB: '55'
+  HP: '1'
+  RBI: '48'
+  SO: '46'
+  AVG: '.274'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hansen
+  nameFirst: William A.
+  nameClub1: Fresno
+  bats: L
+  G: '51'
+  AB: '209'
+  R: '39'
+  H: '57'
+  TB: '70'
+  H2B: '9'
+  H3B: '2'
+  HR: '0'
+  SH: '7'
+  SB: '5'
+  BB: '27'
+  HP: '2'
+  RBI: '32'
+  SO: '21'
+  AVG: '.273'
+- year: '1952'
+  nameLeague: California League
+  nameLast: DeFazio
+  nameFirst: Richard C.
+  nameClub1: Fresno
+  G: '29'
+  AB: '66'
+  R: '13'
+  H: '18'
+  TB: '24'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '10'
+  HP: '1'
+  RBI: '10'
+  SO: '20'
+  AVG: '.273'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Thollander
+  nameFirst: Robert E.
+  nameClub1: San Jose
+  G: '33'
+  AB: '55'
+  R: '12'
+  H: '15'
+  TB: '20'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '8'
+  SO: '9'
+  AVG: '.273'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Anderson
+  nameFirst: Bernard I.
+  nameClub1: Stockton
+  bats: L
+  G: '45'
+  AB: '147'
+  R: '25'
+  H: '40'
+  TB: '48'
+  H2B: '2'
+  H3B: '3'
+  HR: '0'
+  SH: '3'
+  SB: '2'
+  BB: '43'
+  HP: '2'
+  RBI: '12'
+  SO: '21'
+  AVG: '.272'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Wuesthoff
+  nameFirst: Robert W.
+  nameClub1: Modesto
+  G: '138'
+  AB: '550'
+  R: '121'
+  H: '148'
+  TB: '215'
+  H2B: '30'
+  H3B: '5'
+  HR: '9'
+  SH: '9'
+  SB: '16'
+  BB: '76'
+  HP: '7'
+  RBI: '59'
+  SO: '99'
+  AVG: '.269'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Morse
+  nameFirst: John A.
+  nameClub1: Bakersfield
+  G: '98'
+  AB: '346'
+  R: '71'
+  H: '93'
+  TB: '115'
+  H2B: '11'
+  H3B: '4'
+  HR: '1'
+  SH: '9'
+  SB: '34'
+  BB: '94'
+  HP: '2'
+  RBI: '44'
+  SO: '55'
+  AVG: '.269'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Wells
+  nameFirst: Clarence Wm.
+  nameClub1: Ventura
+  G: '129'
+  AB: '438'
+  R: '75'
+  H: '116'
+  TB: '185'
+  H2B: '18'
+  H3B: '3'
+  HR: '15'
+  SH: '4'
+  SB: '25'
+  BB: '64'
+  HP: '6'
+  RBI: '83'
+  SO: '118'
+  AVG: '.265'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Shannon
+  nameFirst: Walter C.
+  nameClub1: Fresno
+  bats: L
+  G: '12'
+  AB: '49'
+  R: '13'
+  H: '13'
+  TB: '13'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '1'
+  SO: '10'
+  AVG: '.265'
+- year: '1952'
+  nameLeague: California League
+  nameLast: McNinch
+  nameFirst: Syl
+  nameClub1: San Jose
+  bats: L
+  G: '139'
+  AB: '477'
+  R: '45'
+  H: '126'
+  TB: '158'
+  H2B: '23'
+  H3B: '3'
+  HR: '1'
+  SH: '8'
+  SB: '3'
+  BB: '66'
+  HP: '2'
+  RBI: '66'
+  SO: '43'
+  AVG: '.264'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Kousagan
+  nameFirst: Peter
+  nameClub1: Bakersfield
+  G: '105'
+  AB: '344'
+  R: '75'
+  H: '91'
+  TB: '170'
+  H2B: '8'
+  H3B: '1'
+  HR: '23'
+  SH: '0'
+  SB: '2'
+  BB: '77'
+  HP: '5'
+  RBI: '72'
+  SO: '78'
+  AVG: '.264'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hirayama
+  nameFirst: Satoshi
+  nameClub1: Stockton
+  G: '82'
+  AB: '292'
+  R: '51'
+  H: '77'
+  TB: '89'
+  H2B: '10'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '20'
+  BB: '71'
+  HP: '1'
+  RBI: '23'
+  SO: '24'
+  AVG: '.264'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Monge
+  nameFirst: Fred
+  nameClub1: Santa Barbara
+  G: '136'
+  AB: '548'
+  R: '93'
+  H: '144'
+  TB: '179'
+  H2B: '21'
+  H3B: '1'
+  HR: '4'
+  SH: '13'
+  SB: '6'
+  BB: '72'
+  HP: '3'
+  RBI: '58'
+  SO: '32'
+  AVG: '.263'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Cannon
+  nameFirst: Wiley Joe
+  nameClub1: Bakersfield
+  G: '16'
+  AB: '57'
+  R: '12'
+  H: '15'
+  TB: '21'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '13'
+  HP: '0'
+  RBI: '5'
+  SO: '10'
+  AVG: '.263'
+- year: '1952'
+  nameLeague: California League
+  nameLast: LaMonica
+  nameFirst: Joseph B.
+  nameClub1: San Jose
+  G: '74'
+  AB: '307'
+  R: '43'
+  H: '80'
+  TB: '93'
+  H2B: '6'
+  H3B: '2'
+  HR: '1'
+  SH: '3'
+  SB: '5'
+  BB: '28'
+  HP: '2'
+  RBI: '29'
+  SO: '32'
+  AVG: '.261'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Elliott
+  nameFirst: Albert W.
+  nameClub1: Modesto
+  bats: L
+  G: '59'
+  AB: '211'
+  R: '40'
+  H: '55'
+  TB: '71'
+  H2B: '10'
+  H3B: '0'
+  HR: '2'
+  SH: '3'
+  SB: '7'
+  BB: '36'
+  HP: '0'
+  RBI: '33'
+  SO: '17'
+  AVG: '.261'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Jones
+  nameFirst: Robert K.
+  nameClub1: Fresno
+  G: '63'
+  AB: '207'
+  R: '29'
+  H: '54'
+  TB: '73'
+  H2B: '10'
+  H3B: '0'
+  HR: '3'
+  SH: '3'
+  SB: '1'
+  BB: '49'
+  HP: '6'
+  RBI: '36'
+  SO: '45'
+  AVG: '.261'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Mann
+  nameFirst: David F.
+  nameClub1: Stockton
+  G: '134'
+  AB: '471'
+  R: '77'
+  H: '122'
+  TB: '143'
+  H2B: '7'
+  H3B: '7'
+  HR: '0'
+  SH: '14'
+  SB: '59'
+  BB: '87'
+  HP: '4'
+  RBI: '35'
+  SO: '127'
+  AVG: '.259'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Spaeter
+  nameFirst: Alfred J.
+  nameClub1: Modesto
+  G: '39'
+  AB: '158'
+  R: '19'
+  H: '41'
+  TB: '45'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '23'
+  HP: '0'
+  RBI: '3'
+  SO: '17'
+  AVG: '.259'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hallgren
+  nameFirst: Arnold R.
+  nameClub1: Ventura
+  G: '82'
+  AB: '298'
+  R: '61'
+  H: '77'
+  TB: '125'
+  H2B: '15'
+  H3B: '3'
+  HR: '9'
+  SH: '2'
+  SB: '8'
+  BB: '54'
+  HP: '1'
+  RBI: '57'
+  SO: '49'
+  AVG: '.258'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Moreno
+  nameFirst: Henry F.
+  nameClub1: Stockton
+  G: '127'
+  AB: '486'
+  R: '72'
+  H: '125'
+  TB: '156'
+  H2B: '16'
+  H3B: '6'
+  HR: '1'
+  SH: '14'
+  SB: '16'
+  BB: '67'
+  HP: '1'
+  RBI: '56'
+  SO: '50'
+  AVG: '.257'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Gibb
+  nameFirst: Albert F.
+  nameClub1: Modesto
+  bats: L
+  G: '33'
+  AB: '70'
+  R: '4'
+  H: '18'
+  TB: '20'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '7'
+  SO: '6'
+  AVG: '.257'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Porter
+  nameFirst: Carl Joe
+  nameClub1: Bakersfield
+  bats: L
+  G: '137'
+  AB: '516'
+  R: '53'
+  H: '132'
+  TB: '171'
+  H2B: '21'
+  H3B: '6'
+  HR: '2'
+  SH: '14'
+  SB: '4'
+  BB: '43'
+  HP: '3'
+  RBI: '59'
+  SO: '66'
+  AVG: '.256'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Olczak
+  nameFirst: John L.
+  nameClub1: Visalia
+  bats: L
+  G: '39'
+  AB: '119'
+  R: '11'
+  H: '30'
+  TB: '32'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '17'
+  HP: '0'
+  RBI: '15'
+  SO: '14'
+  AVG: '.252'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Wilcox
+  nameFirst: Ralph L.
+  nameClub1: Modesto
+  G: '140'
+  AB: '581'
+  R: '85'
+  H: '146'
+  TB: '197'
+  H2B: '23'
+  H3B: '5'
+  HR: '6'
+  SH: '7'
+  SB: '25'
+  BB: '64'
+  HP: '3'
+  RBI: '71'
+  SO: '76'
+  AVG: '.251'
+  apparatus: club=Bakersfield
+- year: '1952'
+  nameLeague: California League
+  nameLast: Pedrotti
+  nameFirst: Richard E.
+  nameClub1: San Jose
+  G: '123'
+  AB: '395'
+  R: '78'
+  H: '99'
+  TB: '176'
+  H2B: '23'
+  H3B: '6'
+  HR: '14'
+  SH: '1'
+  SB: '4'
+  BB: '130'
+  HP: '5'
+  RBI: '69'
+  SO: '109'
+  AVG: '.251'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Reiman
+  nameFirst: James E.
+  nameClub1: Ventura
+  bats: L
+  G: '126'
+  AB: '444'
+  R: '74'
+  H: '111'
+  TB: '149'
+  H2B: '15'
+  H3B: '4'
+  HR: '5'
+  SH: '20'
+  SB: '16'
+  BB: '61'
+  HP: '3'
+  RBI: '58'
+  SO: '70'
+  AVG: '.250'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Resh
+  nameFirst: Harley J.
+  nameClub1: Ventura
+  G: '43'
+  AB: '80'
+  R: '16'
+  H: '20'
+  TB: '24'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '15'
+  HP: '0'
+  RBI: '9'
+  SO: '28'
+  AVG: '.250'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Schulte
+  nameFirst: Paul A,
+  nameClub1: San Jose
+  G: '18'
+  AB: '12'
+  R: '1'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  AVG: '.250'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Kendall
+  nameFirst: George W.
+  nameClub1: Santa Barbara
+  G: '129'
+  AB: '445'
+  R: '51'
+  H: '109'
+  TB: '167'
+  H2B: '20'
+  H3B: '4'
+  HR: '10'
+  SH: '9'
+  SB: '11'
+  BB: '66'
+  HP: '3'
+  RBI: '83'
+  SO: '113'
+  AVG: '.245'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Scherger
+  nameFirst: George R.
+  nameClub1: Santa Barbara
+  G: '69'
+  AB: '238'
+  R: '34'
+  H: '58'
+  TB: '76'
+  H2B: '12'
+  H3B: '3'
+  HR: '0'
+  SH: '3'
+  SB: '4'
+  BB: '43'
+  HP: '1'
+  RBI: '30'
+  SO: '17'
+  AVG: '.244'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Morris
+  nameFirst: Elijah W.
+  nameClub1: Bakersfield
+  G: '122'
+  AB: '446'
+  R: '67'
+  H: '108'
+  TB: '170'
+  H2B: '18'
+  H3B: '1'
+  HR: '14'
+  SH: '1'
+  SB: '7'
+  BB: '76'
+  HP: '2'
+  RBI: '60'
+  SO: '124'
+  AVG: '.242'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Thomas
+  nameFirst: Kenneth C.
+  nameClub1: Stockton
+  G: '109'
+  AB: '355'
+  R: '41'
+  H: '86'
+  TB: '124'
+  H2B: '19'
+  H3B: '1'
+  HR: '6'
+  SH: '5'
+  SB: '1'
+  BB: '45'
+  HP: '7'
+  RBI: '49'
+  SO: '61'
+  AVG: '.242'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Sobczak
+  nameFirst: Edward F.
+  nameClub1: San Jose
+  G: '44'
+  AB: '153'
+  R: '25'
+  H: '37'
+  TB: '57'
+  H2B: '6'
+  H3B: '1'
+  HR: '4'
+  SH: '2'
+  SB: '4'
+  BB: '23'
+  HP: '0'
+  RBI: '21'
+  SO: '29'
+  AVG: '.242'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Davis
+  nameFirst: Willard J.
+  nameClub1: Santa Barbara
+  G: '113'
+  AB: '435'
+  R: '61'
+  H: '104'
+  TB: '159'
+  H2B: '13'
+  H3B: '3'
+  HR: '12'
+  SH: '7'
+  SB: '21'
+  BB: '56'
+  HP: '2'
+  RBI: '71'
+  SO: '135'
+  AVG: '.239'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Didier
+  nameFirst: Gerald R.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '69'
+  AB: '252'
+  R: '47'
+  H: '60'
+  TB: '72'
+  H2B: '8'
+  H3B: '2'
+  HR: '0'
+  SH: '5'
+  SB: '11'
+  BB: '69'
+  HP: '7'
+  RBI: '15'
+  SO: '36'
+  AVG: '.238'
+- year: '1952'
+  nameLeague: California League
+  nameLast: McMinn
+  nameFirst: Glenn D.
+  nameClub1: Santa Barbara
+  G: '36'
+  AB: '63'
+  R: '9'
+  H: '15'
+  TB: '20'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '14'
+  HP: '0'
+  RBI: '7'
+  SO: '20'
+  AVG: '.238'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Wollenweber
+  nameFirst: Arthur H.
+  nameClub1: Fresno
+  G: '10'
+  AB: '21'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '1'
+  AVG: '.238'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Pike
+  nameFirst: Jess W.
+  nameClub1: Bakersfield
+  bats: L
+  G: '18'
+  AB: '51'
+  R: '12'
+  H: '12'
+  TB: '23'
+  H2B: '2'
+  H3B: '0'
+  HR: '3'
+  SH: '3'
+  SB: '0'
+  BB: '20'
+  HP: '1'
+  RBI: '10'
+  SO: '10'
+  AVG: '.235'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Nitrini
+  nameFirst: Peter L.
+  nameClub1: Visalia
+  G: '121'
+  AB: '448'
+  R: '83'
+  H: '105'
+  TB: '145'
+  H2B: '16'
+  H3B: '0'
+  HR: '8'
+  SH: '2'
+  SB: '7'
+  BB: '78'
+  HP: '2'
+  RBI: '62'
+  SO: '68'
+  AVG: '.234'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Denevi
+  nameFirst: Pietro G.
+  nameClub1: Stockton
+  G: '16'
+  AB: '43'
+  R: '1'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '11'
+  AVG: '.233'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Pryor
+  nameFirst: Charles E.
+  nameClub1: Modesto
+  G: '134'
+  AB: '478'
+  R: '71'
+  H: '111'
+  TB: '168'
+  H2B: '21'
+  H3B: '0'
+  HR: '12'
+  SH: '11'
+  SB: '12'
+  BB: '94'
+  HP: '4'
+  RBI: '100'
+  SO: '107'
+  AVG: '.232'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Belardi
+  nameFirst: John L.
+  nameClub1: Ventura
+  G: '86'
+  AB: '315'
+  R: '34'
+  H: '73'
+  TB: '110'
+  H2B: '9'
+  H3B: '5'
+  HR: '6'
+  SH: '5'
+  SB: '2'
+  BB: '33'
+  HP: '1'
+  RBI: '45'
+  SO: '78'
+  AVG: '.232'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Younie
+  nameFirst: Peter A.
+  nameClub1: Visalia
+  bats: L
+  G: '45'
+  AB: '95'
+  R: '16'
+  H: '22'
+  TB: '26'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '10'
+  SO: '14'
+  AVG: '.232'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Petroff
+  nameFirst: Thomas A.
+  nameClub1: Bakersfield
+  G: '32'
+  AB: '95'
+  R: '24'
+  H: '22'
+  TB: '33'
+  H2B: '5'
+  H3B: '0'
+  HR: '2'
+  SH: '3'
+  SB: '0'
+  BB: '31'
+  HP: '1'
+  RBI: '7'
+  SO: '31'
+  AVG: '.232'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Stratton
+  nameFirst: John W.
+  nameClub1: Ventura
+  G: '131'
+  AB: '497'
+  R: '104'
+  H: '115'
+  TB: '139'
+  H2B: '13'
+  H3B: '4'
+  HR: '1'
+  SH: '8'
+  SB: '15'
+  BB: '89'
+  HP: '8'
+  RBI: '41'
+  SO: '61'
+  AVG: '.231'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Jackson
+  nameFirst: Lawrence C.
+  nameClub1: Fresno
+  G: '43'
+  AB: '117'
+  R: '19'
+  H: '27'
+  TB: '34'
+  H2B: '1'
+  H3B: '3'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '10'
+  HP: '1'
+  RBI: '11'
+  SO: '30'
+  AVG: '.231'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Zimmerman
+  nameFirst: Gerald R.
+  nameClub1: San Jose
+  G: '72'
+  AB: '261'
+  R: '21'
+  H: '60'
+  TB: '73'
+  H2B: '11'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '23'
+  HP: '1'
+  RBI: '22'
+  SO: '30'
+  AVG: '.230'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Coffey
+  nameFirst: Jesse E.
+  nameClub1: Stockton
+  G: '26'
+  AB: '83'
+  R: '8'
+  H: '19'
+  TB: '27'
+  H2B: '1'
+  H3B: '2'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '11'
+  HP: '1'
+  RBI: '11'
+  SO: '32'
+  AVG: '.229'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Clary
+  nameFirst: Wayne L.
+  nameClub1: Stockton
+  bats: L
+  G: '120'
+  AB: '460'
+  R: '47'
+  H: '105'
+  TB: '141'
+  H2B: '19'
+  H3B: '4'
+  HR: '3'
+  SH: '11'
+  SB: '3'
+  BB: '31'
+  HP: '4'
+  RBI: '53'
+  SO: '74'
+  AVG: '.228'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Uribe
+  nameFirst: Louis S.
+  nameClub1: Modesto
+  G: '22'
+  AB: '66'
+  R: '6'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '7'
+  SO: '16'
+  AVG: '.227'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Herrera
+  nameFirst: Raymond
+  nameClub1: Fresno
+  G: '123'
+  AB: '364'
+  R: '82'
+  H: '82'
+  TB: '115'
+  H2B: '14'
+  H3B: '5'
+  HR: '3'
+  SH: '7'
+  SB: '10'
+  BB: '127'
+  HP: '2'
+  RBI: '47'
+  SO: '68'
+  AVG: '.225'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Noce
+  nameFirst: John L.
+  nameClub1: Stockton
+  G: '27'
+  AB: '76'
+  R: '10'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '19'
+  HP: '0'
+  RBI: '1'
+  SO: '14'
+  AVG: '.224'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Mann
+  nameFirst: Lawrence C.
+  nameClub1: Stockton
+  bats: L
+  G: '40'
+  AB: '58'
+  R: '5'
+  H: '13'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '22'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '5'
+  SO: '16'
+  AVG: '.224'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Schlarb
+  nameFirst: Jack F.
+  nameClub1: Ventura
+  G: '31'
+  AB: '81'
+  R: '13'
+  H: '18'
+  TB: '21'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '13'
+  AVG: '.222'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Gilbert
+  nameFirst: John A.
+  nameClub1: San Jose
+  bats: B
+  G: '41'
+  AB: '95'
+  R: '10'
+  H: '21'
+  TB: '25'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '14'
+  HP: '0'
+  RBI: '4'
+  SO: '26'
+  AVG: '.221'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Phillips
+  nameFirst: Emery C.
+  nameClub1: Fresno
+  G: '45'
+  AB: '124'
+  R: '15'
+  H: '27'
+  TB: '30'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '13'
+  HP: '0'
+  RBI: '14'
+  SO: '27'
+  AVG: '.218'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Sunseri
+  nameFirst: Nicholas J.
+  nameClub1: Ventura
+  bats: L
+  G: '19'
+  AB: '74'
+  R: '8'
+  H: '16'
+  TB: '23'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '3'
+  SB: '1'
+  BB: '5'
+  HP: '2'
+  RBI: '4'
+  SO: '9'
+  AVG: '.216'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Palmquist
+  nameFirst: Edwin L.
+  nameClub1: Santa Barbara
+  G: '21'
+  AB: '51'
+  R: '7'
+  H: '11'
+  TB: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '13'
+  AVG: '.216'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Corso
+  nameFirst: Gene E.
+  nameClub1: Modesto
+  G: '11'
+  AB: '37'
+  R: '6'
+  H: '8'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '8'
+  SO: '8'
+  AVG: '.216'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Daniels
+  nameFirst: Bennie
+  nameClub1: Modesto
+  bats: L
+  G: '59'
+  AB: '144'
+  R: '21'
+  H: '31'
+  TB: '50'
+  H2B: '4'
+  H3B: '0'
+  HR: '5'
+  SH: '2'
+  SB: '0'
+  BB: '28'
+  HP: '0'
+  RBI: '20'
+  SO: '65'
+  AVG: '.215'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hall
+  nameFirst: Wendell L.
+  nameClub1: Bakersfield
+  G: '68'
+  AB: '220'
+  R: '20'
+  H: '47'
+  TB: '61'
+  H2B: '9'
+  H3B: '1'
+  HR: '1'
+  SH: '3'
+  SB: '2'
+  BB: '27'
+  HP: '0'
+  RBI: '25'
+  SO: '33'
+  AVG: '.214'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hubacek
+  nameFirst: Douglas E.
+  nameClub1: San Jose
+  G: '54'
+  AB: '211'
+  R: '27'
+  H: '45'
+  TB: '56'
+  H2B: '4'
+  H3B: '2'
+  HR: '1'
+  SH: '3'
+  SB: '0'
+  BB: '24'
+  HP: '4'
+  RBI: '26'
+  SO: '29'
+  AVG: '.213'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Paulsen
+  nameFirst: Donald C.
+  nameClub1: Modesto
+  G: '48'
+  AB: '160'
+  R: '16'
+  H: '34'
+  TB: '55'
+  H2B: '7'
+  H3B: '4'
+  HR: '2'
+  SH: '0'
+  SB: '4'
+  BB: '20'
+  HP: '3'
+  RBI: '21'
+  SO: '36'
+  AVG: '.213'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Freeman
+  nameFirst: Serge H.
+  nameClub1: Ventura
+  G: '13'
+  AB: '47'
+  R: '4'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '9'
+  HP: '0'
+  RBI: '6'
+  SO: '10'
+  AVG: '.213'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Anderson
+  nameFirst: Daniel S.
+  nameClub1: Modesto
+  G: '16'
+  AB: '33'
+  R: '3'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '6'
+  AVG: '.212'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Crumley
+  nameFirst: John N.
+  nameClub1: Santa Barbara
+  G: '43'
+  AB: '128'
+  R: '28'
+  H: '27'
+  TB: '36'
+  H2B: '4'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '12'
+  BB: '41'
+  HP: '0'
+  RBI: '17'
+  SO: '30'
+  AVG: '.211'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Killingsworth
+  nameFirst: Gary L.
+  nameClub1: San Jose
+  G: '22'
+  AB: '95'
+  R: '9'
+  H: '20'
+  TB: '23'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '5'
+  HP: '0'
+  RBI: '8'
+  SO: '9'
+  AVG: '.211'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Bowman
+  nameFirst: Eugene H.
+  nameClub1: Ventura
+  G: '31'
+  AB: '38'
+  R: '3'
+  H: '8'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '7'
+  SO: '6'
+  AVG: '.211'
+- year: '1952'
+  nameLeague: California League
+  nameLast: McBride
+  nameFirst: Arthur J.
+  nameClub1: Santa Barbara
+  G: '99'
+  AB: '328'
+  R: '44'
+  H: '69'
+  TB: '95'
+  H2B: '10'
+  H3B: '2'
+  HR: '4'
+  SH: '6'
+  SB: '17'
+  BB: '54'
+  HP: '2'
+  RBI: '30'
+  SO: '89'
+  AVG: '.210'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Morse
+  nameFirst: Richard H.
+  nameClub1: Ventura
+  G: '131'
+  AB: '440'
+  R: '58'
+  H: '90'
+  TB: '120'
+  H2B: '19'
+  H3B: '1'
+  HR: '3'
+  SH: '13'
+  SB: '6'
+  BB: '87'
+  HP: '3'
+  RBI: '46'
+  SO: '98'
+  AVG: '.205'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hudson
+  nameFirst: Donald L.
+  nameClub1: Fresno
+  G: '34'
+  AB: '108'
+  R: '15'
+  H: '22'
+  TB: '30'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '16'
+  HP: '1'
+  RBI: '12'
+  SO: '27'
+  AVG: '.204'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: Herbert
+  nameClub1: 3@Modesto
+  nameClub2: 51@Stockton
+  G: '54'
+  AB: '183'
+  R: '24'
+  H: '37'
+  TB: '63'
+  H2B: '5'
+  H3B: '3'
+  HR: '5'
+  SH: '10'
+  SB: '2'
+  BB: '35'
+  HP: '3'
+  RBI: '21'
+  SO: '73'
+  AVG: '.202'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Dollins
+  nameFirst: Earl L.
+  nameClub1: Visalia
+  bats: L
+  G: '48'
+  AB: '114'
+  R: '10'
+  H: '23'
+  TB: '25'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '18'
+  SO: '17'
+  AVG: '.202'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Olson
+  nameFirst: Herbert A.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '124'
+  AB: '436'
+  R: '51'
+  H: '87'
+  TB: '117'
+  H2B: '20'
+  H3B: '2'
+  HR: '2'
+  SH: '7'
+  SB: '4'
+  BB: '59'
+  HP: '1'
+  RBI: '44'
+  SO: '82'
+  AVG: '.200'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hanson
+  nameFirst: James L.
+  nameClub1: Modesto
+  G: '115'
+  AB: '385'
+  R: '64'
+  H: '77'
+  TB: '93'
+  H2B: '13'
+  H3B: '0'
+  HR: '1'
+  SH: '6'
+  SB: '12'
+  BB: '100'
+  HP: '3'
+  RBI: '37'
+  SO: '66'
+  AVG: '.200'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Jarvis
+  nameFirst: D. Stanley
+  nameClub1: Santa Barbara
+  bats: L
+  G: '32'
+  AB: '50'
+  R: '4'
+  H: '10'
+  TB: '15'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '12'
+  AVG: '.200'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Kappel
+  nameFirst: William F.
+  nameClub1: Modesto
+  G: '17'
+  AB: '40'
+  R: '5'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '1'
+  SO: '15'
+  AVG: '.200'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Watkins
+  nameFirst: Reeve B.
+  nameClub1: Stockton
+  G: '18'
+  AB: '35'
+  R: '2'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '9'
+  AVG: '.200'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Neville
+  nameFirst: Roy E.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '13'
+  AB: '25'
+  R: '2'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '4'
+  SO: '7'
+  AVG: '.200'
+- year: '1952'
+  nameLeague: California League
+  nameLast: LaBounty
+  nameFirst: Larry L.
+  nameClub1: Visalia
+  G: '18'
+  AB: '15'
+  R: '0'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.200'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Wilcox
+  nameFirst: Elwayne E.
+  nameClub1: Bakersfield
+  G: '87'
+  AB: '320'
+  R: '39'
+  H: '63'
+  TB: '74'
+  H2B: '7'
+  H3B: '2'
+  HR: '0'
+  SH: '8'
+  SB: '3'
+  BB: '59'
+  HP: '0'
+  RBI: '16'
+  SO: '56'
+  AVG: '.197'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Stille
+  nameFirst: Marvin A.
+  nameClub1: Stockton
+  G: '59'
+  AB: '210'
+  R: '17'
+  H: '41'
+  TB: '45'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '2'
+  BB: '31'
+  HP: '2'
+  RBI: '16'
+  SO: '62'
+  AVG: '.195'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Nubin
+  nameFirst: Frank A.
+  nameClub1: Ventura
+  G: '40'
+  AB: '149'
+  R: '32'
+  H: '29'
+  TB: '42'
+  H2B: '5'
+  H3B: '4'
+  HR: '0'
+  SH: '3'
+  SB: '4'
+  BB: '31'
+  HP: '0'
+  RBI: '17'
+  SO: '28'
+  AVG: '.195'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Roberson
+  nameFirst: H. Foster
+  nameClub1: Santa Barbara
+  G: '37'
+  AB: '108'
+  R: '12'
+  H: '21'
+  TB: '30'
+  H2B: '4'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '14'
+  SO: '8'
+  AVG: '.194'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Oxford
+  nameFirst: Russell C.
+  nameClub1: Visalia
+  G: '33'
+  AB: '119'
+  R: '15'
+  H: '23'
+  TB: '30'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '9'
+  SO: '24'
+  AVG: '.193'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Keeley
+  nameFirst: Clifford L.
+  nameClub1: Stockton
+  G: '18'
+  AB: '26'
+  R: '3'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.192'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: Roger E.
+  nameClub1: San Jose
+  G: '52'
+  AB: '178'
+  R: '24'
+  H: '34'
+  TB: '44'
+  H2B: '7'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '3'
+  BB: '27'
+  HP: '1'
+  RBI: '16'
+  SO: '39'
+  AVG: '.191'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Simons
+  nameFirst: Joseph W.
+  nameClub1: Bakersfield
+  G: '43'
+  AB: '137'
+  R: '13'
+  H: '26'
+  TB: '32'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '16'
+  HP: '0'
+  RBI: '11'
+  SO: '30'
+  AVG: '.190'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hallgren
+  nameFirst: Gerald
+  nameClub1: Stockton
+  bats: L
+  G: '42'
+  AB: '148'
+  R: '9'
+  H: '28'
+  TB: '37'
+  H2B: '5'
+  H3B: '2'
+  HR: '0'
+  SH: '3'
+  SB: '1'
+  BB: '20'
+  HP: '1'
+  RBI: '11'
+  SO: '37'
+  AVG: '.189'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Bobb
+  nameFirst: Albino
+  nameClub1: Bakersfield
+  G: '50'
+  AB: '101'
+  R: '8'
+  H: '19'
+  TB: '23'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '6'
+  BB: '4'
+  HP: '0'
+  RBI: '8'
+  SO: '29'
+  AVG: '.188'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Crane
+  nameFirst: Robert L.
+  nameClub1: Visalia
+  G: '41'
+  AB: '101'
+  R: '14'
+  H: '19'
+  TB: '22'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '12'
+  HP: '2'
+  RBI: '11'
+  SO: '30'
+  AVG: '.188'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Abbott
+  nameFirst: Frank J.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '39'
+  AB: '91'
+  R: '17'
+  H: '17'
+  TB: '20'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '9'
+  SB: '0'
+  BB: '19'
+  HP: '0'
+  RBI: '5'
+  SO: '30'
+  AVG: '.187'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Herriage
+  nameFirst: W. Troy
+  nameClub1: San Jose
+  bats: B
+  G: '20'
+  AB: '27'
+  R: '3'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '2'
+  RBI: '4'
+  SO: '14'
+  AVG: '.185'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Green
+  nameFirst: Richard B.
+  nameClub1: Modesto
+  G: '10'
+  AB: '27'
+  R: '0'
+  H: '5'
+  TB: '7'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '9'
+  AVG: '.185'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Whitson
+  nameFirst: William B.
+  nameClub1: San Jose
+  bats: b
+  G: '35'
+  AB: '76'
+  R: '12'
+  H: '14'
+  TB: '17'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '11'
+  HP: '1'
+  RBI: '3'
+  SO: '28'
+  AVG: '.184'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Dawson
+  nameFirst: James A.
+  nameClub1: Bakersfield
+  G: '40'
+  AB: '71'
+  R: '7'
+  H: '13'
+  TB: '22'
+  H2B: '1'
+  H3B: '1'
+  HR: '2'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '11'
+  SO: '30'
+  AVG: '.183'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Lane
+  nameFirst: David R.
+  nameClub1: Stockton
+  bats: L
+  G: '19'
+  AB: '66'
+  R: '9'
+  H: '12'
+  TB: '19'
+  H2B: '1'
+  H3B: '3'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '7'
+  SO: '27'
+  AVG: '.182'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Sirota
+  nameFirst: Alex
+  nameClub1: Visalia
+  G: '50'
+  AB: '179'
+  R: '12'
+  H: '32'
+  TB: '39'
+  H2B: '1'
+  H3B: '0'
+  HR: '2'
+  SH: '4'
+  SB: '2'
+  BB: '11'
+  HP: '1'
+  RBI: '17'
+  SO: '38'
+  AVG: '.179'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Atwood
+  nameFirst: Robert A.
+  nameClub1: San Jose
+  G: '29'
+  AB: '102'
+  R: '9'
+  H: '18'
+  TB: '23'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '2'
+  BB: '7'
+  HP: '1'
+  RBI: '6'
+  SO: '8'
+  AVG: '.176'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hittner
+  nameFirst: Glenn W.
+  nameClub1: Ventura
+  G: '15'
+  AB: '40'
+  R: '7'
+  H: '7'
+  TB: '10'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '7'
+  SO: '8'
+  AVG: '.175'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Mitchell
+  nameFirst: Chas. Grant
+  nameClub1: Visalia
+  G: '40'
+  AB: '81'
+  R: '11'
+  H: '14'
+  TB: '19'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '14'
+  HP: '0'
+  RBI: '9'
+  SO: '20'
+  AVG: '.173'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Kahler
+  nameFirst: William B.
+  nameClub1: San Jose
+  bats: L
+  G: '33'
+  AB: '111'
+  R: '10'
+  H: '19'
+  TB: '25'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  RBI: '8'
+  SO: '12'
+  AVG: '.171'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Root
+  nameFirst: Ronald R.
+  nameClub1: San Jose
+  bats: L
+  G: '16'
+  AB: '41'
+  R: '7'
+  H: '7'
+  TB: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '11'
+  HP: '1'
+  RBI: '5'
+  SO: '12'
+  AVG: '.171'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Chapman
+  nameFirst: Joseph L.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '18'
+  AB: '53'
+  R: '14'
+  H: '9'
+  TB: '12'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '13'
+  HP: '0'
+  RBI: '4'
+  SO: '12'
+  AVG: '.170'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Thomas
+  nameFirst: Clyde M.
+  nameClub1: Bakersfield
+  G: '36'
+  AB: '89'
+  R: '4'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '11'
+  SO: '17'
+  AVG: '.169'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Gentile
+  nameFirst: James E.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '39'
+  AB: '96'
+  R: '11'
+  H: '16'
+  TB: '27'
+  H2B: '2'
+  H3B: '0'
+  HR: '3'
+  SH: '4'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '11'
+  SO: '20'
+  AVG: '.167'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Crocco
+  nameFirst: John P.
+  nameClub1: Stockton
+  G: '37'
+  AB: '84'
+  R: '6'
+  H: '14'
+  TB: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '7'
+  HP: '1'
+  RBI: '3'
+  SO: '13'
+  AVG: '.167'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Powell
+  nameFirst: Charles E.
+  nameClub1: Stockton
+  G: '10'
+  AB: '30'
+  R: '3'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '2'
+  HP: '1'
+  RBI: '0'
+  SO: '16'
+  AVG: '.167'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Milton
+  nameFirst: Max L.
+  nameClub1: Visalia
+  G: '27'
+  AB: '24'
+  R: '2'
+  H: '4'
+  TB: '6'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '9'
+  AVG: '.167'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Furibondo
+  nameFirst: Peter C.
+  nameClub1: Modesto
+  G: '17'
+  AB: '12'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '6'
+  AVG: '.167'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Aguilar
+  nameFirst: Alwin A.
+  nameClub1: Ventura
+  G: '15'
+  AB: '12'
+  R: '0'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '0'
+  SO: '4'
+  AVG: '.167'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Stein
+  nameFirst: Melvin R.
+  nameClub1: Stockton
+  G: '68'
+  AB: '226'
+  R: '23'
+  H: '37'
+  TB: '52'
+  H2B: '3'
+  H3B: '3'
+  HR: '2'
+  SH: '9'
+  SB: '2'
+  BB: '37'
+  HP: '2'
+  RBI: '27'
+  SO: '56'
+  AVG: '.164'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Warr
+  nameFirst: Floyd E.
+  nameClub1: San Jose
+  G: '16'
+  AB: '43'
+  R: '4'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '2'
+  RBI: '4'
+  SO: '11'
+  AVG: '.163'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hardy
+  nameFirst: Frank V.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '19'
+  AB: '57'
+  R: '9'
+  H: '9'
+  TB: '14'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '18'
+  HP: '0'
+  RBI: '7'
+  SO: '15'
+  AVG: '.158'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hanggie
+  nameFirst: Donald L.
+  nameClub1: Visalia
+  G: '32'
+  AB: '77'
+  R: '14'
+  H: '12'
+  TB: '19'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '21'
+  HP: '0'
+  RBI: '7'
+  SO: '21'
+  AVG: '.156'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Johnston
+  nameFirst: Charles R.
+  nameClub1: Ventura
+  G: '20'
+  AB: '58'
+  R: '9'
+  H: '9'
+  TB: '16'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '23'
+  HP: '1'
+  RBI: '7'
+  SO: '14'
+  AVG: '.155'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Boggini
+  nameFirst: Donald R.
+  nameClub1: Ventura
+  bats: L
+  G: '23'
+  AB: '78'
+  R: '6'
+  H: '12'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '17'
+  HP: '2'
+  RBI: '6'
+  SO: '10'
+  AVG: '.154'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Gentry
+  nameFirst: Richard L.
+  nameClub1: Bakersfield
+  G: '30'
+  AB: '107'
+  R: '19'
+  H: '16'
+  TB: '20'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '21'
+  HP: '0'
+  RBI: '5'
+  SO: '19'
+  AVG: '.150'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Carrasquel
+  nameFirst: Martin E.
+  nameClub1: Bakersfield
+  G: '10'
+  AB: '20'
+  R: '1'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  AVG: '.150'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: Manuel R.
+  nameClub1: Ventura
+  G: '37'
+  AB: '81'
+  R: '13'
+  H: '12'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '7'
+  SO: '32'
+  AVG: '.148'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Erickson
+  nameFirst: Bruce S.
+  nameClub1: Stockton
+  bats: L
+  G: '24'
+  AB: '56'
+  R: '5'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '1'
+  BB: '14'
+  HP: '0'
+  RBI: '0'
+  SO: '21'
+  AVG: '.143'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Bryant
+  nameFirst: Eugene W.
+  nameClub1: Modesto
+  G: '38'
+  AB: '92'
+  R: '7'
+  H: '13'
+  TB: '21'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '11'
+  SO: '32'
+  AVG: '.141'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Raymond
+  nameFirst: Richard D.
+  nameClub1: Bakersfield
+  G: '30'
+  AB: '78'
+  R: '7'
+  H: '11'
+  TB: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '2'
+  SO: '19'
+  AVG: '.141'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Beene
+  nameFirst: Charlie F.
+  nameClub1: Modesto
+  G: '29'
+  AB: '64'
+  R: '5'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '6'
+  SO: '32'
+  AVG: '.141'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Parkin
+  nameFirst: Clair G.
+  nameClub1: San Jose
+  G: '19'
+  AB: '43'
+  R: '2'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '2'
+  SO: '12'
+  AVG: '.140'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Pearce
+  nameFirst: Joe K.
+  nameClub1: Ventura
+  G: '13'
+  AB: '29'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.138'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Sirois
+  nameFirst: Wilfrid F.
+  nameClub1: Bakersfield
+  G: '17'
+  AB: '22'
+  R: '0'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.136'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Hollingsworth
+  nameFirst: Charles L.
+  nameClub1: Fresno
+  G: '13'
+  AB: '22'
+  R: '2'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.136'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Followell
+  nameFirst: Frank D.
+  nameClub1: Ventura
+  bats: L
+  G: '53'
+  AB: '97'
+  R: '4'
+  H: '13'
+  TB: '16'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '33'
+  AVG: '.134'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Berndsen
+  nameFirst: William J.
+  nameClub1: Fresno
+  bats: L
+  G: '39'
+  AB: '60'
+  R: '7'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '6'
+  SO: '28'
+  AVG: '.133'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Woods
+  nameFirst: Raymond J.
+  nameClub1: Fresno
+  G: '15'
+  AB: '15'
+  R: '2'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  AVG: '.133'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Cruger
+  nameFirst: Jerome W.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '46'
+  AB: '137'
+  R: '13'
+  H: '18'
+  TB: '25'
+  H2B: '1'
+  H3B: '3'
+  HR: '0'
+  SH: '3'
+  SB: '2'
+  BB: '15'
+  HP: '1'
+  RBI: '3'
+  SO: '44'
+  AVG: '.131'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Montgomery
+  nameFirst: Daniel M.
+  nameClub1: Modesto
+  G: '25'
+  AB: '85'
+  R: '7'
+  H: '11'
+  TB: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '14'
+  HP: '0'
+  RBI: '6'
+  SO: '29'
+  AVG: '.129'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: Edward J.
+  nameClub1: Stockton
+  G: '11'
+  AB: '31'
+  R: '3'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '10'
+  HP: '1'
+  RBI: '2'
+  SO: '12'
+  AVG: '.129'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Townsend
+  nameFirst: Donald A.
+  nameClub1: Fresno
+  bats: L
+  G: '20'
+  AB: '39'
+  R: '7'
+  H: '5'
+  TB: '7'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '2'
+  SO: '9'
+  AVG: '.128'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Bithell
+  nameFirst: Dale
+  nameClub1: Fresno
+  G: '29'
+  AB: '32'
+  R: '4'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '6'
+  SO: '11'
+  AVG: '.125'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Parsons
+  nameFirst: Wayne L.
+  nameClub1: Santa Barbara
+  G: '12'
+  AB: '32'
+  R: '2'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '11'
+  AVG: '.125'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Nance
+  nameFirst: Donald L.
+  nameClub1: Bakersfield
+  G: '19'
+  AB: '24'
+  R: '0'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '14'
+  AVG: '.125'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Cunningham
+  nameFirst: William M.
+  nameClub1: Ventura
+  G: '20'
+  AB: '16'
+  R: '4'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.125'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Allmon
+  nameFirst: Clifford R.
+  nameClub1: San Jose
+  G: '13'
+  AB: '16'
+  R: '0'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '2'
+  AVG: '.125'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Romero
+  nameFirst: Frank
+  nameClub1: Stockton
+  bats: L
+  G: '38'
+  AB: '86'
+  R: '4'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '9'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '29'
+  AVG: '.116'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Justice
+  nameFirst: Henry B.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '11'
+  AB: '26'
+  R: '1'
+  H: '3'
+  TB: '5'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '3'
+  AVG: '.115'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Kehne
+  nameFirst: Robert A.
+  nameClub1: Fresno
+  G: '16'
+  AB: '9'
+  R: '1'
+  H: '1'
+  TB: '3'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.111'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Klopp
+  nameFirst: Kenneth H.
+  nameClub1: Bakersfield
+  G: '12'
+  AB: '28'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '2'
+  AVG: '.107'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Perry
+  nameFirst: Robert D.
+  nameClub1: Bakersfield
+  G: '12'
+  AB: '47'
+  R: '3'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '2'
+  RBI: '1'
+  SO: '20'
+  AVG: '.106'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Mattson
+  nameFirst: Jay D.
+  nameClub1: Stockton
+  bats: L
+  G: '17'
+  AB: '10'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.100'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Minter
+  nameFirst: Robert F.
+  nameClub1: 12@Santa Barbara
+  nameClub2: 2@Bakersfield
+  G: '15'
+  AB: '10'
+  R: '0'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '6'
+  AVG: '.100'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Freitas
+  nameFirst: Antonio
+  nameClub1: Stockton
+  G: '36'
+  AB: '71'
+  R: '5'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '9'
+  SB: '2'
+  BB: '26'
+  HP: '0'
+  RBI: '6'
+  SO: '21'
+  AVG: '.099'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Schoettgen
+  nameFirst: Donald J.
+  nameClub1: Stockton
+  G: '24'
+  AB: '26'
+  R: '3'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '11'
+  AVG: '.077'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Meyers
+  nameFirst: Kenneth E.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '11'
+  AB: '13'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '1'
+  AVG: '.077'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Aguirre
+  nameFirst: Henry J.
+  nameClub1: Bakersfield
+  G: '31'
+  AB: '67'
+  R: '5'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '5'
+  SO: '41'
+  AVG: '.060'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Alza
+  nameFirst: William
+  nameClub1: Modesto
+  G: '12'
+  AB: '21'
+  R: '0'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '10'
+  AVG: '.048'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Abril
+  nameFirst: Ernest R.
+  nameClub1: Modesto
+  bats: L
+  G: '14'
+  AB: '26'
+  R: '5'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '0'
+  SO: '9'
+  AVG: '.038'
+- year: '1952'
+  nameLeague: California League
+  nameLast: MacNeil
+  nameFirst: Robert A.
+  nameClub1: Ventura
+  G: '24'
+  AB: '39'
+  R: '3'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '19'
+  AVG: '.026'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Henson
+  nameFirst: Donald E.
+  nameClub1: Ventura
+  G: '20'
+  AB: '10'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.000'
+- year: '1952'
+  nameLeague: California League
+  nameLast: Tost
+  nameFirst: Louis E.
+  nameClub1: San Jose
+  bats: L
+  G: '17'
+  AB: '6'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.000'

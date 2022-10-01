@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Port Chester
+  phase: regular
+  W: '86'
+  L: '53'
+  T: '2'
+  PCT: '.619'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Poughkeepsie
+  phase: regular
+  W: '76'
+  L: '61'
+  T: '0'
+  PCT: '.555'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Waterbury
+  phase: regular
+  W: '65'
+  L: '68'
+  T: '0'
+  PCT: '.489'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Kingston
+  phase: regular
+  W: '61'
+  L: '71'
+  T: '2'
+  PCT: '.462'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Bridgeport
+  phase: regular
+  W: '61'
+  L: '72'
+  T: '1'
+  PCT: '.459'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Stamford
+  phase: regular
+  W: '54'
+  L: '78'
+  T: '1'
+  PCT: '.409'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Port Chester
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Waterbury
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Poughkeepsie
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Kingston
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Port Chester
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Colonial League
+  nameClub: Poughkeepsie
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

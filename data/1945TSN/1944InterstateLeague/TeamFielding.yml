@@ -1,0 +1,66 @@
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  G: '140'
+  DP: '135'
+  TP: '1'
+  PB: '35'
+  PO: '3495'
+  A: '1640'
+  E: '255'
+  PCT: '.953'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: York
+  G: '138'
+  DP: '138'
+  TP: '0'
+  PB: '28'
+  PO: '3463'
+  A: '1641'
+  E: '250'
+  PCT: '.953'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Trenton
+  G: '138'
+  DP: '97'
+  TP: '0'
+  PB: '19'
+  PO: '3415'
+  A: '1468'
+  E: '244'
+  PCT: '.952'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  G: '139'
+  DP: '106'
+  TP: '0'
+  PB: '30'
+  PO: '3464'
+  A: '1423'
+  E: '253'
+  PCT: '.951'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  G: '140'
+  DP: '113'
+  TP: '2'
+  PB: '14'
+  PO: '3526'
+  A: '1616'
+  E: '284'
+  PCT: '.948'
+- year: '1944'
+  nameLeague: Interstate League
+  nameClub: Hagerstown
+  G: '139'
+  DP: '105'
+  TP: '0'
+  PB: '21'
+  PO: '3482'
+  A: '1518'
+  E: '291'
+  PCT: '.945'

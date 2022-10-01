@@ -1,0 +1,1242 @@
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Stubbs
+  nameClub1: Brownsville
+  Pos: 1B
+  G: '128'
+  PO: '1125'
+  A: '52'
+  E: '13'
+  DP: '85'
+  PCT: '.989'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Kuykendall
+  nameClub1: McAllen
+  Pos: 1B
+  G: '125'
+  PO: '1149'
+  A: '35'
+  E: '16'
+  DP: '113'
+  PCT: '.986'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Garza
+  nameFirst: E.
+  nameClub1: Laredo
+  Pos: 1B
+  G: '124'
+  PO: '1014'
+  A: '35'
+  E: '23'
+  DP: '87'
+  PCT: '.979'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Mejido
+  nameClub1: Del Rio
+  Pos: 1B
+  G: '107'
+  PO: '884'
+  A: '47'
+  E: '24'
+  DP: '52'
+  PCT: '.974'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Calderon
+  nameFirst: J.
+  nameClub1: Donna/Robstown
+  Pos: 1B
+  G: '89'
+  PO: '736'
+  A: '58'
+  E: '23'
+  DP: '44'
+  PCT: '.971'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Pardue
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '142'
+  PO: '1241'
+  A: '62'
+  E: '21'
+  DP: '107'
+  PCT: '.908'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Alcantara
+  nameClub1: Donna/Robstown
+  Pos: 1B
+  G: '26'
+  PO: '175'
+  A: '8'
+  E: '4'
+  DP: '5'
+  PCT: '.967'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Campbell
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '44'
+  PO: '141'
+  A: '99'
+  E: '9'
+  DP: '24'
+  PCT: '.963'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: McCallum
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '37'
+  PO: '87'
+  A: '74'
+  E: '9'
+  DP: '21'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Levanti
+  nameClub1: McAllen
+  Pos: 2B
+  G: '121'
+  PO: '381'
+  A: '291'
+  E: '44'
+  DP: '82'
+  PCT: '.938'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Boettcher
+  nameClub1: Brownsville
+  Pos: 2B
+  G: '124'
+  PO: '324'
+  A: '286'
+  E: '41'
+  DP: '47'
+  PCT: '.937'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Quesada
+  nameClub1: Del Rio
+  Pos: 2B
+  G: '123'
+  PO: '350'
+  A: '222'
+  E: '49'
+  DP: '42'
+  PCT: '.905'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Maurer
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '118'
+  PO: '235'
+  A: '345'
+  E: '65'
+  DP: '79'
+  PCT: '.899'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Rarron
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '67'
+  PO: '103'
+  A: '169'
+  E: '54'
+  DP: '37'
+  PCT: '.880'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Rios
+  nameClub1: Donna/Robstown
+  Pos: 2B
+  G: '29'
+  PO: '69'
+  A: '45'
+  E: '18'
+  DP: '7'
+  PCT: '.863'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Martinez
+  nameClub1: Laredo
+  Pos: 2B
+  G: '135'
+  PO: '298'
+  A: '373'
+  E: '76'
+  DP: '86'
+  PCT: '.817'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Hull
+  nameClub1: McAllen
+  Pos: 3B-OF
+  G: '134'
+  PO: '243'
+  A: '140'
+  E: '45'
+  DP: '11'
+  PCT: '.943'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: McAlexander
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '128'
+  PO: '153'
+  A: '278'
+  E: '42'
+  DP: '36'
+  PCT: '.911'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Leyendecker
+  nameClub1: Laredo
+  Pos: 3B
+  G: '103'
+  PO: '213'
+  A: '207'
+  E: '43'
+  DP: '56'
+  PCT: '.907'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Vasquez
+  nameClub1: Del Rio
+  Pos: 3B
+  G: '46'
+  PO: '59'
+  A: '63'
+  E: '15'
+  DP: '7'
+  PCT: '.890'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Ocampo
+  nameClub1: Laredo
+  Pos: 3B
+  G: '51'
+  PO: '54'
+  A: '48'
+  E: '13'
+  DP: '5'
+  PCT: '.886'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Colyer
+  nameClub1: Del Rio
+  Pos: 3B
+  G: '116'
+  PO: '148'
+  A: '141'
+  E: '38'
+  DP: '6'
+  PCT: '.883'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Calderon
+  nameFirst: R.
+  nameClub1: Donna/Robstown
+  Pos: 3B
+  G: '99'
+  PO: '241'
+  A: '202'
+  E: '62'
+  DP: '21'
+  PCT: '.877'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Aranda
+  nameClub1: Donna/Robstown
+  Pos: 3B
+  G: '27'
+  PO: '30'
+  A: '59'
+  E: '14'
+  DP: '4'
+  PCT: '.864'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Melillo
+  nameClub1: McAllen
+  Pos: SS
+  G: '58'
+  PO: '90'
+  A: '135'
+  E: '16'
+  DP: '17'
+  PCT: '.933'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Barrera
+  nameClub1: Laredo
+  Pos: SS
+  G: '93'
+  PO: '176'
+  A: '321'
+  E: '39'
+  DP: '56'
+  PCT: '.927'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Perez
+  nameClub1: Brownsville
+  Pos: SS
+  G: '86'
+  PO: '150'
+  A: '266'
+  E: '36'
+  DP: '39'
+  PCT: '.920'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Rodriguez
+  nameClub1: Del Rio
+  Pos: SS
+  G: '49'
+  PO: '135'
+  A: '151'
+  E: '27'
+  DP: '15'
+  PCT: '.913'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Dominguez
+  nameClub1: Del Rio
+  Pos: SS
+  G: '103'
+  PO: '166'
+  A: '321'
+  E: '55'
+  DP: '39'
+  PCT: '.891'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Carmona
+  nameClub1: Donna/Robstown
+  Pos: SS
+  G: '26'
+  PO: '53'
+  A: '66'
+  E: '15'
+  DP: '7'
+  PCT: '.888'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Alanis
+  nameClub1: Donna/Robstown
+  Pos: SS
+  G: '44'
+  PO: '78'
+  A: '129'
+  E: '31'
+  DP: '26'
+  PCT: '.888'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Mozo
+  nameClub1: McAllen
+  Pos: SS
+  G: '132'
+  PO: '186'
+  A: '439'
+  E: '73'
+  DP: '81'
+  PCT: '.882'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Arias
+  nameClub1: Del Rio
+  Pos: OF
+  G: '27'
+  PO: '47'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.979'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Miller
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '23'
+  PO: '40'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.975'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Cearley
+  nameClub1: Laredo
+  Pos: OF
+  G: '124'
+  PO: '279'
+  A: '19'
+  E: '10'
+  DP: '8'
+  PCT: '.975'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: King
+  nameClub1: Brownsville
+  Pos: OF
+  G: '112'
+  PO: '295'
+  A: '23'
+  E: '11'
+  DP: '2'
+  PCT: '.966'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Pearson
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '137'
+  PO: '310'
+  A: '16'
+  E: '14'
+  DP: '1'
+  PCT: '.958'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Zmitrovich
+  nameClub1: Brownsville
+  Pos: OF
+  G: '138'
+  PO: '280'
+  A: '15'
+  E: '14'
+  DP: '1'
+  PCT: '.954'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Fairman
+  nameClub1: Del Rio
+  Pos: OF
+  G: '105'
+  PO: '242'
+  A: '11'
+  E: '12'
+  DP: '0'
+  PCT: '.951'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Niemann
+  nameClub1: McAllen
+  Pos: OF
+  G: '117'
+  PO: '224'
+  A: '26'
+  E: '13'
+  DP: '2'
+  PCT: '.950'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Cunniff
+  nameClub1: Donna/Robstown
+  nameClub2: Brownsville
+  Pos: OF
+  G: '124'
+  PO: '223'
+  A: '13'
+  E: '13'
+  DP: '2'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Cavazos
+  nameClub1: Donna/Robstown
+  Pos: OF
+  G: '129'
+  PO: '189'
+  A: '15'
+  E: '12'
+  DP: '2'
+  PCT: '.944'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Wisniewski
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '65'
+  PO: '95'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.941'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Montalvo
+  nameClub1: Laredo
+  Pos: OF
+  G: '133'
+  PO: '146'
+  A: '15'
+  E: '10'
+  DP: '1'
+  PCT: '.941'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Jones
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '128'
+  PO: '183'
+  A: '10'
+  E: '11'
+  DP: '2'
+  PCT: '.941'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Garza
+  nameFirst: R.
+  nameClub1: Del Rio
+  Pos: OF
+  G: '93'
+  PO: '205'
+  A: '15'
+  E: '14'
+  DP: '3'
+  PCT: '.940'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Ray
+  nameClub1: Brownsville
+  Pos: OF
+  G: '34'
+  PO: '44'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.936'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Alcantara
+  nameClub1: Donna/Robstown
+  Pos: OF
+  G: '72'
+  PO: '123'
+  A: '7'
+  E: '11'
+  DP: '4'
+  PCT: '.921'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Resendiz
+  nameClub1: Laredo
+  Pos: OF
+  G: '20'
+  PO: '41'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.916'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Reed
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '16'
+  PO: '21'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.916'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Economides
+  nameClub1: McAllen
+  Pos: OF
+  G: '107'
+  PO: '178'
+  A: '22'
+  E: '20'
+  DP: '4'
+  PCT: '.904'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Zahner
+  nameClub1: McAllen
+  Pos: OF
+  G: '122'
+  PO: '197'
+  A: '12'
+  E: '24'
+  DP: '2'
+  PCT: '.896'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Sanchez
+  nameClub1: Laredo
+  Pos: OF
+  G: '133'
+  PO: '258'
+  A: '6'
+  E: '32'
+  DP: '3'
+  PCT: '.891'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Rodriguez
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '33'
+  PO: '48'
+  A: '0'
+  E: '7'
+  DP: '0'
+  PCT: '.871'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Trench
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '138'
+  PO: '833'
+  A: '76'
+  E: '16'
+  DP: '7'
+  PCT: '.982'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Flores
+  nameClub1: Donna/Robstown
+  Pos: C
+  G: '75'
+  PO: '277'
+  A: '39'
+  E: '6'
+  DP: '7'
+  PCT: '.981'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Chaon
+  nameClub1: Brownsville
+  Pos: C
+  G: '126'
+  PO: '650'
+  A: '71'
+  E: '15'
+  DP: '5'
+  PCT: '.980'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Yawn
+  nameClub1: Del Rio
+  Pos: C
+  G: '88'
+  PO: '451'
+  A: '41'
+  E: '16'
+  DP: '7'
+  PCT: '.968'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Lopez
+  nameClub1: Donna/Robstown
+  Pos: C
+  G: '106'
+  PO: '519'
+  A: '79'
+  E: '20'
+  DP: '8'
+  PCT: '.967'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Robinson
+  nameClub1: Laredo
+  Pos: C
+  G: '73'
+  PO: '293'
+  A: '38'
+  E: '11'
+  DP: '8'
+  PCT: '.967'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Garza
+  nameFirst: R.
+  nameClub1: Laredo
+  Pos: C
+  G: '45'
+  PO: '219'
+  A: '16'
+  E: '14'
+  DP: '2'
+  PCT: '.943'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Strittmatter
+  nameClub1: Del Rio
+  Pos: C
+  G: '34'
+  PO: '178'
+  A: '31'
+  E: '14'
+  DP: '2'
+  PCT: '.937'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Sugarek
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '12'
+  PO: '25'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.873'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Alejandro
+  nameClub1: Del Rio
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Alcantara
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '11'
+  PO: '8'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Colella
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Forbess
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '20'
+  PO: '9'
+  A: '27'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Fairman
+  nameClub1: Del Rio
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Myers
+  nameClub1: Brownsville
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Haggard
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '21'
+  PO: '4'
+  A: '19'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Padron
+  nameClub1: Del Rio
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Prieto
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '23'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Mendoza
+  nameClub1: Laredo
+  Pos: P
+  G: '32'
+  PO: '3'
+  A: '43'
+  E: '1'
+  DP: '0'
+  PCT: '.988'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Covington
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '48'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Moreno
+  nameClub1: Del Rio
+  Pos: P
+  G: '39'
+  PO: '7'
+  A: '43'
+  E: '1'
+  DP: '2'
+  PCT: '.980'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Martin
+  nameClub1: Brownsville
+  nameClub2: Donna/Robstown
+  Pos: P
+  G: '38'
+  PO: '7'
+  A: '40'
+  E: '1'
+  DP: '1'
+  PCT: '.979'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Wiltse
+  nameClub1: Brownsville
+  Pos: P
+  G: '16'
+  PO: '7'
+  A: '30'
+  E: '1'
+  DP: '2'
+  PCT: '.973'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Beltron
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '45'
+  PO: '8'
+  A: '64'
+  E: '2'
+  DP: '3'
+  PCT: '.972'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Garza
+  nameFirst: C.
+  nameClub1: Laredo
+  Pos: P
+  G: '36'
+  PO: '9'
+  A: '58'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Gann
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '16'
+  PO: '44'
+  A: '36'
+  E: '3'
+  DP: '6'
+  PCT: '.963'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Villaescusa
+  nameClub1: Brownsville
+  Pos: P
+  G: '38'
+  PO: '7'
+  A: '35'
+  E: '4'
+  DP: '2'
+  PCT: '.956'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Falcon
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Kelsey
+  nameClub1: Donna/Robstown
+  nameClub2: Brownsville
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '53'
+  E: '3'
+  DP: '5'
+  PCT: '.951'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Cork
+  nameClub1: McAllen
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Blanco
+  nameClub1: Laredo
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.942'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: San Miguel
+  nameClub1: Del Rio
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Luna
+  nameClub1: McAllen
+  Pos: P
+  G: '36'
+  PO: '5'
+  A: '40'
+  E: '3'
+  DP: '3'
+  PCT: '.937'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Sims
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '33'
+  PO: '12'
+  A: '57'
+  E: '5'
+  DP: '0'
+  PCT: '.932'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Lopez
+  nameClub1: Brownsville
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '37'
+  E: '3'
+  DP: '2'
+  PCT: '.930'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Gonzalez
+  nameClub1: Laredo
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '33'
+  E: '2'
+  DP: '3'
+  PCT: '.928'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Arciniega
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.916'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Jackson
+  nameClub1: McAllen
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '59'
+  E: '6'
+  DP: '3'
+  PCT: '.916'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Arthur
+  nameClub1: McAllen
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '68'
+  E: '7'
+  DP: '4'
+  PCT: '.914'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Davis
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '31'
+  PO: '3'
+  A: '27'
+  E: '3'
+  DP: '1'
+  PCT: '.909'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Dovalina
+  nameClub1: Laredo
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.904'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Morales
+  nameClub1: Del Rio
+  Pos: P
+  G: '32'
+  PO: '1'
+  A: '37'
+  E: '4'
+  DP: '1'
+  PCT: '.904'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Vasquez
+  nameClub1: Del Rio
+  Pos: P
+  G: '10'
+  PO: '5'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.904'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Medina
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '25'
+  E: '3'
+  DP: '1'
+  PCT: '.900'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Esqueda
+  nameClub1: Laredo
+  Pos: P
+  G: '27'
+  PO: '17'
+  A: '36'
+  E: '6'
+  DP: '3'
+  PCT: '.898'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Cowan
+  nameClub1: Brownsville
+  Pos: P
+  G: '39'
+  PO: '12'
+  A: '39'
+  E: '6'
+  DP: '2'
+  PCT: '.894'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Schultze
+  nameClub1: McAllen
+  nameClub2: Donna/Robstown
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '22'
+  E: '3'
+  DP: '0'
+  PCT: '.893'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Wade
+  nameClub1: Del Rio
+  Pos: P
+  G: '36'
+  PO: '18'
+  A: '52'
+  E: '9'
+  DP: '5'
+  PCT: '.886'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Rotunno
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '39'
+  PO: '3'
+  A: '36'
+  E: '5'
+  DP: '3'
+  PCT: '.885'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Przybylski
+  nameClub1: Brownsville
+  Pos: P
+  G: '36'
+  PO: '6'
+  A: '31'
+  E: '5'
+  DP: '0'
+  PCT: '.880'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Vargas
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '40'
+  E: '5'
+  DP: '2'
+  PCT: '.881'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Shufford
+  nameClub1: McAllen
+  Pos: P
+  G: '20'
+  PO: '3'
+  A: '29'
+  E: '5'
+  DP: '0'
+  PCT: '.864'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Lucio
+  nameClub1: Donna/Robstown
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Rodriguez
+  nameClub1: McAllen
+  Pos: P
+  G: '20'
+  PO: '7'
+  A: '14'
+  E: '4'
+  DP: '0'
+  PCT: '.840'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Gottesman
+  nameClub1: Laredo
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '24'
+  E: '6'
+  DP: '0'
+  PCT: '.818'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Brousseau
+  nameClub1: Brownsville
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.125'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Jimenez
+  nameClub1: Del Rio
+  Pos: UT
+  G: '101'
+  PO: '222'
+  A: '48'
+  E: '9'
+  DP: '8'
+  PCT: '.971'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameLast: Switzer
+  nameClub1: McAllen
+  Pos: UT
+  G: '64'
+  PO: '101'
+  A: '4'
+  E: '9'
+  DP: '2'
+  PCT: '.921'

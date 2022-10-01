@@ -1,0 +1,118 @@
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: regular
+  W: '93'
+  L: '61'
+  T: '0'
+  PCT: '.604'
+  RANK: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '90'
+  L: '63'
+  T: '1'
+  PCT: '.588'
+  RANK: '2'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '84'
+  L: '70'
+  T: '0'
+  PCT: '.545'
+  RANK: '3'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '75'
+  L: '76'
+  T: '0'
+  PCT: '.497'
+  RANK: '4'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '72'
+  L: '81'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '69'
+  L: '84'
+  T: '0'
+  PCT: '.451'
+  RANK: '6'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '65'
+  L: '86'
+  T: '1'
+  PCT: '.430'
+  RANK: '7'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '63'
+  L: '90'
+  T: '0'
+  PCT: '.412'
+  RANK: '8'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

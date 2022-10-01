@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Portsmouth
+  phase: regular
+  W: '81'
+  L: '58'
+  T: '0'
+  PCT: '.583'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Springfield
+  phase: regular
+  W: '77'
+  L: '63'
+  T: '0'
+  PCT: '.550'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Muncie
+  phase: regular
+  W: '75'
+  L: '63'
+  T: '1'
+  PCT: '.543'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Marion
+  phase: regular
+  W: '73'
+  L: '63'
+  T: '1'
+  PCT: '.533'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Zanesville
+  phase: regular
+  W: '69'
+  L: '67'
+  T: '0'
+  PCT: '.507'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Newark
+  phase: regular
+  W: '65'
+  L: '72'
+  T: '0'
+  PCT: '.474'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Richmond
+  phase: regular
+  W: '65'
+  L: '73'
+  T: '2'
+  PCT: '.471'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Lima
+  phase: regular
+  W: '46'
+  L: '91'
+  T: '0'
+  PCT: '.336'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Marion
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Muncie
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Springfield
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Marion
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Ohio-Indiana League
+  nameClub: Muncie
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

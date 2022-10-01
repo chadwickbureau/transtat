@@ -1,0 +1,112 @@
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Cassville
+  phase: regular/first
+  W: '36'
+  L: '24'
+  PCT: '.600'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Bentonville
+  phase: regular/first
+  W: '33'
+  L: '26'
+  PCT: '.559'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Siloam Springs
+  phase: regular/first
+  W: '31'
+  L: '27'
+  PCT: '.534'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Monett
+  phase: regular/first
+  W: '28'
+  L: '32'
+  PCT: '.467'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Fayetteville
+  phase: regular/first
+  W: '26'
+  L: '34'
+  PCT: '.433'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Rogers
+  phase: regular/first
+  W: '24'
+  L: '35'
+  PCT: '.407'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Siloam Springs
+  phase: regular/second
+  W: '43'
+  L: '17'
+  PCT: '.717'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Bentonville
+  phase: regular/second
+  W: '36'
+  L: '23'
+  PCT: '.610'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Monett
+  phase: regular/second
+  W: '28'
+  L: '31'
+  PCT: '.475'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Fayetteville
+  phase: regular/second
+  W: '27'
+  L: '33'
+  PCT: '.450'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Cassville
+  phase: regular/second
+  W: '25'
+  L: '35'
+  PCT: '.417'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Rogers
+  phase: regular/second
+  W: '20'
+  L: '40'
+  PCT: '.333'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Siloam Springs
+  phase: final
+  W: '4'
+  L: '3'
+  T: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Cassville
+  phase: final
+  W: '3'
+  L: '4'
+  T: '1'
+  RANK: '2'

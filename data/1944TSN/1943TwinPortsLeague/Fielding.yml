@@ -1,0 +1,1373 @@
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Novanec
+  nameClub1: Superior
+  Pos: 1B
+  G: '8'
+  PO: '59'
+  A: '2'
+  E: '0'
+  TC: '61'
+  DP: '3'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Cartwright
+  nameClub1: Duluth Dukes
+  Pos: 1B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  TC: '1'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Norlander
+  nameClub1: Duluth Dukes
+  Pos: 1B
+  G: '17'
+  PO: '148'
+  A: '0'
+  E: '2'
+  TC: '150'
+  DP: '5'
+  PCT: '.987'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Shonts
+  nameClub1: Duluth Heralds
+  Pos: 1B
+  G: '16'
+  PO: '131'
+  A: '6'
+  E: '2'
+  TC: '139'
+  DP: '2'
+  PCT: '.986'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Treadwell
+  nameClub1: Superior
+  Pos: 1B
+  G: '9'
+  PO: '57'
+  A: '1'
+  E: '2'
+  TC: '60'
+  DP: '4'
+  PCT: '.967'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kuddes
+  nameClub1: Duluth Dukes
+  Pos: 1B
+  G: '3'
+  PO: '25'
+  A: '2'
+  E: '1'
+  TC: '28'
+  DP: '3'
+  PCT: '.964'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Thompson
+  nameClub1: Duluth Marine Iron
+  Pos: 1B
+  G: '7'
+  PO: '46'
+  A: '5'
+  E: '2'
+  TC: '53'
+  DP: '1'
+  PCT: '.962'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lessard
+  nameClub1: Duluth Marine Iron
+  Pos: 1B
+  G: '8'
+  PO: '71'
+  A: '2'
+  E: '4'
+  TC: '77'
+  DP: '7'
+  PCT: '.948'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Stoltz
+  nameClub1: Superior
+  Pos: 1B
+  G: '2'
+  PO: '13'
+  A: '0'
+  E: '2'
+  TC: '15'
+  DP: '0'
+  PCT: '.866'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Stemig
+  nameClub1: Duluth Marine Iron
+  Pos: 1B
+  G: '1'
+  PO: '8'
+  A: '1'
+  E: '2'
+  TC: '11'
+  DP: '0'
+  PCT: '.818'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Titus
+  nameClub1: Superior
+  Pos: 1B
+  G: '2'
+  PO: '8'
+  A: '1'
+  E: '3'
+  TC: '12'
+  DP: '1'
+  PCT: '.750'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: Ed
+  nameClub1: Duluth Marine Iron
+  Pos: 1B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kresal
+  nameClub1: Duluth Heralds
+  Pos: 2B
+  G: '1'
+  PO: '2'
+  A: '2'
+  E: '0'
+  TC: '4'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Rudie
+  nameClub1: Duluth Heralds
+  Pos: 2B
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  TC: '2'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kuddes
+  nameClub1: Duluth Dukes
+  Pos: 2B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  TC: '1'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Schroeder
+  nameClub1: Superior
+  Pos: 2B
+  G: '19'
+  PO: '51'
+  A: '42'
+  E: '3'
+  TC: '96'
+  DP: '6'
+  PCT: '.969'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Jones
+  nameClub1: Duluth Marine Iron
+  Pos: 2B
+  G: '16'
+  PO: '46'
+  A: '37'
+  E: '5'
+  TC: '88'
+  DP: '9'
+  PCT: '.943'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Thompson
+  nameClub1: Duluth Heralds
+  nameClub2: Duluth Dukes
+  Pos: 2B
+  G: '3'
+  PO: '8'
+  A: '8'
+  E: '1'
+  TC: '17'
+  DP: '2'
+  PCT: '.941'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Downs
+  nameClub1: Duluth Dukes
+  Pos: 2B
+  G: '18'
+  PO: '47'
+  A: '39'
+  E: '6'
+  TC: '92'
+  DP: '4'
+  PCT: '.935'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bakken
+  nameClub1: Duluth Heralds
+  Pos: 2B
+  G: '12'
+  PO: '20'
+  A: '24'
+  E: '9'
+  TC: '53'
+  DP: '3'
+  PCT: '.830'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lukoskie
+  nameClub1: Duluth Dukes
+  Pos: 2B
+  G: '1'
+  PO: '2'
+  A: '1'
+  E: '3'
+  TC: '6'
+  DP: '0'
+  PCT: '.500'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kuddes
+  nameClub1: Duluth Dukes
+  Pos: SS
+  G: '1'
+  PO: '3'
+  A: '0'
+  E: '0'
+  TC: '3'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Hicks
+  nameClub1: Duluth Marine Iron
+  Pos: SS
+  G: '10'
+  PO: '17'
+  A: '30'
+  E: '3'
+  TC: '50'
+  DP: '5'
+  PCT: '.940'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Larson
+  nameClub1: Duluth Heralds
+  Pos: SS
+  G: '2'
+  PO: '7'
+  A: '3'
+  E: '1'
+  TC: '11'
+  DP: '1'
+  PCT: '.909'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Ramey
+  nameClub1: Duluth Heralds
+  Pos: SS
+  G: '11'
+  PO: '22'
+  A: '24'
+  E: '5'
+  TC: '51'
+  DP: '3'
+  PCT: '.902'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Seltz
+  nameFirst: Rol.
+  nameClub1: Duluth Dukes
+  Pos: SS
+  G: '15'
+  PO: '33'
+  A: '40'
+  E: '9'
+  TC: '82'
+  DP: '5'
+  PCT: '.890'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mason
+  nameFirst: Q.
+  nameClub1: Duluth Marine Iron
+  Pos: SS
+  G: '5'
+  PO: '6'
+  A: '9'
+  E: '3'
+  TC: '18'
+  DP: '0'
+  PCT: '.833'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bakken
+  nameClub1: Duluth Heralds
+  Pos: SS
+  G: '3'
+  PO: '4'
+  A: '6'
+  E: '2'
+  TC: '12'
+  DP: '1'
+  PCT: '.833'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Muller
+  nameClub1: Superior
+  Pos: SS
+  G: '19'
+  PO: '34'
+  A: '45'
+  E: '16'
+  TC: '95'
+  DP: '5'
+  PCT: '.832'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mason
+  nameFirst: L.
+  nameClub1: Duluth Dukes
+  Pos: SS
+  G: '2'
+  PO: '4'
+  A: '9'
+  E: '4'
+  TC: '17'
+  DP: '1'
+  PCT: '.765'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Germaine
+  nameClub1: Duluth Marine Iron
+  Pos: SS
+  G: '1'
+  PO: '1'
+  A: '2'
+  E: '2'
+  TC: '5'
+  DP: '0'
+  PCT: '.600'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: McPherson
+  nameClub1: Duluth Dukes
+  Pos: 3B
+  G: '2'
+  PO: '2'
+  A: '3'
+  E: '0'
+  TC: '5'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Schwietert
+  nameClub1: Duluth Dukes
+  Pos: 3B
+  G: '1'
+  PO: '2'
+  A: '5'
+  E: '0'
+  TC: '7'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Ramey
+  nameClub1: Duluth Heralds
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '2'
+  E: '0'
+  TC: '2'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Rudie
+  nameClub1: Duluth Heralds
+  Pos: 3B
+  G: '7'
+  PO: '8'
+  A: '9'
+  E: '2'
+  TC: '19'
+  DP: '0'
+  PCT: '.895'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Seltz
+  nameFirst: Dick
+  nameClub1: Duluth Dukes
+  Pos: 3B
+  G: '15'
+  PO: '21'
+  A: '42'
+  E: '9'
+  TC: '72'
+  DP: '1'
+  PCT: '.875'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Gilbert
+  nameClub1: Duluth Marine Iron
+  Pos: 3B
+  G: '16'
+  PO: '20'
+  A: '25'
+  E: '7'
+  TC: '52'
+  DP: '6'
+  PCT: '.865'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: F.
+  nameClub1: Duluth Heralds
+  Pos: 3B
+  G: '11'
+  PO: '7'
+  A: '20'
+  E: '6'
+  TC: '33'
+  DP: '1'
+  PCT: '.818'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Zukosky
+  nameClub1: Superior
+  Pos: 3B
+  G: '14'
+  PO: '14'
+  A: '19'
+  E: '10'
+  TC: '43'
+  DP: '3'
+  PCT: '.767'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Titus
+  nameClub1: Superior
+  Pos: 3B
+  G: '6'
+  PO: '7'
+  A: '8'
+  E: '5'
+  TC: '20'
+  DP: '0'
+  PCT: '.750'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mason
+  nameFirst: L.
+  nameClub1: Duluth Dukes
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '3'
+  E: '2'
+  TC: '5'
+  DP: '0'
+  PCT: '.600'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Dubla
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '13'
+  PO: '19'
+  A: '3'
+  E: '0'
+  TC: '22'
+  DP: '1'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Thomp'n
+  nameFirst: H.
+  nameClub1: Duluth Heralds
+  nameClub2: Duluth Dukes
+  Pos: OF
+  G: '12'
+  PO: '13'
+  A: '3'
+  E: '0'
+  TC: '16'
+  DP: '1'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Germaine
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '9'
+  PO: '11'
+  A: '0'
+  E: '0'
+  TC: '11'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Erickson
+  nameClub1: Superior
+  Pos: OF
+  G: '8'
+  PO: '7'
+  A: '1'
+  E: '0'
+  TC: '8'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Blin
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '7'
+  PO: '11'
+  A: '0'
+  E: '0'
+  TC: '11'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Westergard
+  nameClub1: Superior
+  Pos: OF
+  G: '7'
+  PO: '11'
+  A: '0'
+  E: '0'
+  TC: '11'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Vucinovich
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '6'
+  PO: '6'
+  A: '0'
+  E: '0'
+  TC: '6'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Hicks
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '6'
+  PO: '6'
+  A: '0'
+  E: '0'
+  TC: '6'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Coleman
+  nameClub1: Duluth Dukes
+  nameClub2: Superior
+  Pos: OF
+  G: '5'
+  PO: '4'
+  A: '1'
+  E: '0'
+  TC: '5'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Oliver
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '5'
+  PO: '2'
+  A: '0'
+  E: '0'
+  TC: '2'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: F.
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '4'
+  PO: '2'
+  A: '0'
+  E: '0'
+  TC: '2'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Gettler
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '3'
+  PO: '5'
+  A: '1'
+  E: '0'
+  TC: '6'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Rudie
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '0'
+  TC: '1'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: D.
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '0'
+  TC: '1'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Dvorak
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '0'
+  TC: '1'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: J.
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  TC: '1'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Goldfine
+  nameClub1: Superior
+  Pos: OF
+  G: '16'
+  PO: '28'
+  A: '0'
+  E: '1'
+  TC: '29'
+  DP: '0'
+  PCT: '.966'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Stemig
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '6'
+  PO: '14'
+  A: '0'
+  E: '1'
+  TC: '15'
+  DP: '0'
+  PCT: '.933'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Carter
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '7'
+  PO: '21'
+  A: '0'
+  E: '2'
+  TC: '23'
+  DP: '0'
+  PCT: '.913'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kresal
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '15'
+  PO: '13'
+  A: '0'
+  E: '2'
+  TC: '15'
+  DP: '0'
+  PCT: '.867'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Day
+  nameClub1: Superior
+  Pos: OF
+  G: '12'
+  PO: '12'
+  A: '1'
+  E: '2'
+  TC: '15'
+  DP: '0'
+  PCT: '.867'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mason
+  nameFirst: L.
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '1'
+  E: '2'
+  TC: '14'
+  DP: '0'
+  PCT: '.857'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Wager
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '11'
+  PO: '11'
+  A: '0'
+  E: '2'
+  TC: '13'
+  DP: '0'
+  PCT: '.846'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kuddes
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '11'
+  PO: '9'
+  A: '0'
+  E: '2'
+  TC: '11'
+  DP: '0'
+  PCT: '.818'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Titus
+  nameClub1: Superior
+  Pos: OF
+  G: '11'
+  PO: '9'
+  A: '0'
+  E: '2'
+  TC: '11'
+  DP: '0'
+  PCT: '.818'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Udee
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '3'
+  PO: '4'
+  A: '0'
+  E: '1'
+  TC: '5'
+  DP: '0'
+  PCT: '.800'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mortinsen
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '3'
+  PO: '7'
+  A: '0'
+  E: '2'
+  TC: '9'
+  DP: '0'
+  PCT: '.778'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Cartwright
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '8'
+  PO: '7'
+  A: '1'
+  E: '3'
+  TC: '11'
+  DP: '0'
+  PCT: '.727'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Crescenzo
+  nameClub1: Duluth Heralds
+  Pos: OF
+  G: '8'
+  PO: '4'
+  A: '0'
+  E: '3'
+  TC: '7'
+  DP: '0'
+  PCT: '.571'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lopp
+  nameClub1: Superior
+  Pos: OF
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '1'
+  TC: '2'
+  DP: '0'
+  PCT: '.500'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Ryan
+  nameClub1: Duluth Dukes
+  nameClub2: Duluth Marine Iron
+  Pos: OF
+  G: '6'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: Ed
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '5'
+  PO: '0'
+  A: '0'
+  E: '1'
+  TC: '1'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: Geo.
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Winquist
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bauers
+  nameClub1: Duluth Marine Iron
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  TC: '1'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Dixon
+  nameClub1: Duluth Dukes
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Stoltz
+  nameClub1: Superior
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: A.
+  nameClub1: Superior
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Treadwell
+  nameClub1: Superior
+  Pos: C
+  G: '2'
+  PO: '15'
+  A: '1'
+  E: '0'
+  TC: '16'
+  DP: '1'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Norlander
+  nameClub1: Duluth Dukes
+  Pos: C
+  G: '1'
+  PO: '3'
+  A: '0'
+  E: '0'
+  TC: '3'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Conito
+  nameClub1: Duluth Heralds
+  Pos: C
+  G: '1'
+  PO: '3'
+  A: '1'
+  E: '0'
+  TC: '4'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Zaspel
+  nameClub1: Duluth Dukes
+  nameClub2: Duluth Marine Iron
+  Pos: C
+  G: '14'
+  PO: '101'
+  A: '13'
+  E: '2'
+  TC: '116'
+  DP: '2'
+  PCT: '.983'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Haas
+  nameClub1: Duluth Marine Iron
+  Pos: C
+  G: '4'
+  PO: '39'
+  A: '4'
+  E: '1'
+  TC: '44'
+  DP: '0'
+  PCT: '.978'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: McPherson
+  nameClub1: Duluth Dukes
+  Pos: C
+  G: '17'
+  PO: '94'
+  A: '22'
+  E: '5'
+  TC: '121'
+  DP: '2'
+  PCT: '.966'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Wangensteen
+  nameClub1: Superior
+  Pos: C
+  G: '2'
+  PO: '16'
+  A: '2'
+  E: '1'
+  TC: '19'
+  DP: '0'
+  PCT: '.947'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Farrell
+  nameClub1: Superior
+  Pos: C
+  G: '14'
+  PO: '102'
+  A: '11'
+  E: '9'
+  TC: '122'
+  DP: '1'
+  PCT: '.926'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Henricksen
+  nameClub1: Duluth Heralds
+  nameClub2: Superior
+  Pos: C
+  G: '16'
+  PO: '114'
+  A: '15'
+  E: '12'
+  TC: '141'
+  DP: '1'
+  PCT: '.915'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Westergard
+  nameClub1: Superior
+  Pos: P
+  G: '6'
+  PO: '1'
+  A: '10'
+  E: '0'
+  TC: '11'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Coleman
+  nameClub1: Duluth Dukes
+  nameClub2: Superior
+  Pos: P
+  G: '5'
+  PO: '1'
+  A: '4'
+  E: '0'
+  TC: '5'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Nyquist
+  nameClub1: Duluth Heralds
+  Pos: P
+  G: '4'
+  PO: '0'
+  A: '5'
+  E: '0'
+  TC: '5'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: A.
+  nameClub1: Superior
+  Pos: P
+  G: '3'
+  PO: '1'
+  A: '1'
+  E: '0'
+  TC: '2'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bauers
+  nameClub1: Duluth Marine Iron
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '4'
+  E: '0'
+  TC: '4'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Gettler
+  nameClub1: Duluth Heralds
+  Pos: P
+  G: '3'
+  PO: '1'
+  A: '2'
+  E: '0'
+  TC: '3'
+  DP: '1'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Zukosky
+  nameClub1: Superior
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '2'
+  E: '0'
+  TC: '2'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Stemig
+  nameClub1: Duluth Marine Iron
+  Pos: P
+  G: '1'
+  PO: '2'
+  A: '1'
+  E: '0'
+  TC: '3'
+  DP: '0'
+  PCT: '1.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Connolly
+  nameClub1: Superior
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '21'
+  E: '1'
+  TC: '23'
+  DP: '2'
+  PCT: '.957'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: Ed
+  nameClub1: Duluth Marine Iron
+  Pos: P
+  G: '7'
+  PO: '3'
+  A: '12'
+  E: '1'
+  TC: '16'
+  DP: '0'
+  PCT: '.938'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Dixon
+  nameClub1: Duluth Dukes
+  Pos: P
+  G: '7'
+  PO: '1'
+  A: '12'
+  E: '1'
+  TC: '14'
+  DP: '1'
+  PCT: '.929'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Ryan
+  nameClub1: Duluth Dukes
+  nameClub2: Duluth Marine Iron
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '7'
+  E: '1'
+  TC: '8'
+  DP: '0'
+  PCT: '.875'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Wager
+  nameClub1: Duluth Heralds
+  Pos: P
+  G: '4'
+  PO: '2'
+  A: '4'
+  E: '1'
+  TC: '7'
+  DP: '0'
+  PCT: '.857'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: Geo.
+  nameClub1: Duluth Marine Iron
+  Pos: P
+  G: '6'
+  PO: '1'
+  A: '10'
+  E: '2'
+  TC: '13'
+  DP: '0'
+  PCT: '.846'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bushey
+  nameClub1: Duluth Heralds
+  nameClub2: Superior
+  Pos: P
+  G: '4'
+  PO: '0'
+  A: '5'
+  E: '1'
+  TC: '6'
+  DP: '0'
+  PCT: '.833'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mason
+  nameFirst: L.
+  nameClub1: Duluth Dukes
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '5'
+  E: '1'
+  TC: '6'
+  DP: '0'
+  PCT: '.833'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Wilson
+  nameClub1: Duluth Heralds
+  Pos: P
+  G: '6'
+  PO: '4'
+  A: '10'
+  E: '3'
+  TC: '17'
+  DP: '1'
+  PCT: '.824'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Munns
+  nameClub1: Duluth Dukes
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '4'
+  E: '1'
+  TC: '5'
+  DP: '0'
+  PCT: '.800'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Rudolph
+  nameClub1: Superior
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '4'
+  E: '1'
+  TC: '5'
+  DP: '0'
+  PCT: '.800'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Winquist
+  nameClub1: Duluth Dukes
+  Pos: P
+  G: '9'
+  PO: '0'
+  A: '10'
+  E: '3'
+  TC: '13'
+  DP: '0'
+  PCT: '.769'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: D.
+  nameClub1: Duluth Dukes
+  Pos: P
+  G: '1'
+  PO: '2'
+  A: '1'
+  E: '1'
+  TC: '4'
+  DP: '0'
+  PCT: '.750'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Doig
+  nameClub1: Duluth Heralds
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '5'
+  E: '2'
+  TC: '7'
+  DP: '0'
+  PCT: '.714'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Gamblin
+  nameClub1: Duluth Marine Iron
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '5'
+  E: '2'
+  TC: '7'
+  DP: '0'
+  PCT: '.714'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lanaghan
+  nameClub1: Duluth Marine Iron
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  TC: '0'
+  DP: '0'
+  PCT: '.000'

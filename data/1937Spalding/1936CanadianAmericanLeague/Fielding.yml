@@ -1,0 +1,959 @@
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Lee
+  nameClub1: Brockville
+  Pos: 1B
+  G: '16'
+  PO: '145'
+  A: '7'
+  E: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Stevenson
+  nameClub1: Ottawa
+  Pos: 1B
+  G: '85'
+  PO: '751'
+  A: '23'
+  E: '13'
+  PCT: '.983'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Marianette
+  nameClub1: Perth
+  Pos: 1B
+  G: '80'
+  PO: '724'
+  A: '37'
+  E: '13'
+  PCT: '.983'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Cosgrove
+  nameClub1: Ogdensburg
+  Pos: 1B
+  G: '63'
+  PO: '531'
+  A: '24'
+  E: '12'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Norton
+  nameClub1: Watertown
+  Pos: 1B
+  G: '51'
+  PO: '436'
+  A: '29'
+  E: '13'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Cook
+  nameClub1: Watertown
+  Pos: 1B
+  G: '36'
+  PO: '328'
+  A: '11'
+  E: '10'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Davis
+  nameClub1: Ogdensburg
+  nameClub2: Brockville
+  Pos: 1B
+  G: '41'
+  PO: '327'
+  A: '8'
+  E: '11'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Shadrick
+  nameClub1: Oswego
+  Pos: 1B
+  G: '73'
+  PO: '554'
+  A: '24'
+  E: '24'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Perkowski
+  nameClub1: Brockville
+  Pos: 1B
+  G: '29'
+  PO: '238'
+  A: '12'
+  E: '11'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Massic
+  nameClub1: Ogdensburg
+  Pos: 2B
+  G: '21'
+  PO: '54'
+  A: '45'
+  E: '3'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Denublio
+  nameClub1: Brockville
+  Pos: 2B
+  G: '36'
+  PO: '94'
+  A: '107'
+  E: '10'
+  PCT: '.953'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Sperrick
+  nameClub1: Perth
+  Pos: 2B
+  G: '74'
+  PO: '197'
+  A: '192'
+  E: '21'
+  PCT: '.949'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Dezube
+  nameClub1: Ottawa
+  Pos: 2B
+  G: '79'
+  PO: '174'
+  A: '192'
+  E: '21'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Ricordin
+  nameClub1: Ogdensburg
+  nameClub2: Brockville
+  Pos: 2B
+  G: '34'
+  PO: '73'
+  A: '79'
+  E: '9'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Murphy
+  nameClub1: Ogdensburg
+  Pos: 2B
+  G: '62'
+  PO: '149'
+  A: '161'
+  E: '22'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Clarke
+  nameClub1: Ottawa
+  nameClub2: Watertown
+  Pos: 2B
+  G: '72'
+  PO: '149'
+  A: '142'
+  E: '23'
+  PCT: '.927'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Dossier
+  nameClub1: Oswego
+  Pos: 2B
+  G: '41'
+  PO: '113'
+  A: '93'
+  E: '17'
+  PCT: '.924'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Klinkert
+  nameClub1: Watertown
+  Pos: 2B
+  G: '13'
+  PO: '26'
+  A: '28'
+  E: '5'
+  PCT: '.915'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Paluck
+  nameClub1: Watertown
+  Pos: 2B
+  G: '12'
+  PO: '21'
+  A: '28'
+  E: '7'
+  PCT: '.875'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Wainwright
+  nameClub1: Oswego
+  Pos: 2B
+  G: '16'
+  PO: '33'
+  A: '30'
+  E: '12'
+  PCT: '.840'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Klinkert
+  nameClub1: Watertown
+  Pos: 3B
+  G: '12'
+  PO: '13'
+  A: '25'
+  E: '3'
+  PCT: '.927'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Caldwell
+  nameClub1: Ottawa
+  Pos: 3B
+  G: '81'
+  PO: '76'
+  A: '150'
+  E: '20'
+  PCT: '.919'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Martin
+  nameClub1: Watertown
+  Pos: 3B
+  G: '17'
+  PO: '16'
+  A: '37'
+  E: '5'
+  PCT: '.914'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Labar
+  nameClub1: Ogdensburg
+  Pos: 3B
+  G: '16'
+  PO: '22'
+  A: '39'
+  E: '6'
+  PCT: '.910'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Grilli
+  nameClub1: Brockville
+  Pos: 3B
+  G: '46'
+  PO: '43'
+  A: '71'
+  E: '12'
+  PCT: '.905'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Tarlecki
+  nameClub1: Perth
+  Pos: 3B
+  G: '78'
+  PO: '67'
+  A: '176'
+  E: '26'
+  PCT: '.903'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Petrosky
+  nameClub1: Watertown
+  Pos: 3B
+  G: '48'
+  PO: '62'
+  A: '99'
+  E: '18'
+  PCT: '.899'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Doll
+  nameClub1: Ogdensburg
+  Pos: 3B
+  G: '58'
+  PO: '84'
+  A: '131'
+  E: '26'
+  PCT: '.892'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Dezube
+  nameClub1: Ottawa
+  Pos: 3B
+  G: '13'
+  PO: '21'
+  A: '26'
+  E: '7'
+  PCT: '.870'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Juengling
+  nameClub1: Oswego
+  Pos: 3B
+  G: '56'
+  PO: '67'
+  A: '95'
+  E: '25'
+  PCT: '.866'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Hogan
+  nameClub1: Brockville
+  Pos: 3B
+  G: '32'
+  PO: '30'
+  A: '43'
+  E: '12'
+  PCT: '.859'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Mayer
+  nameClub1: Watertown
+  Pos: 3B
+  G: '12'
+  PO: '7'
+  A: '17'
+  E: '8'
+  PCT: '.750'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Nolan
+  nameClub1: Ottawa
+  Pos: SS
+  G: '83'
+  PO: '159'
+  A: '273'
+  E: '16'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Caldwell
+  nameClub1: Ottawa
+  Pos: SS
+  G: '11'
+  PO: '10'
+  A: '28'
+  E: '2'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Klonowski
+  nameClub1: Watertown
+  Pos: SS
+  G: '30'
+  PO: '59'
+  A: '94'
+  E: '11'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Yanni
+  nameClub1: Brockville
+  Pos: SS
+  G: '80'
+  PO: '154'
+  A: '235'
+  E: '32'
+  PCT: '.924'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Massic
+  nameClub1: Ogdensburg
+  Pos: SS
+  G: '21'
+  PO: '47'
+  A: '76'
+  E: '11'
+  PCT: '.918'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Dashner
+  nameClub1: Oswego
+  Pos: SS
+  G: '80'
+  PO: '153'
+  A: '215'
+  E: '34'
+  PCT: '.915'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Sorrell
+  nameClub1: Watertown
+  Pos: SS
+  G: '13'
+  PO: '38'
+  A: '52'
+  E: '9'
+  PCT: '.909'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: King
+  nameClub1: Ogdensburg
+  Pos: SS
+  G: '62'
+  PO: '125'
+  A: '178'
+  E: '33'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Mooney
+  nameClub1: Perth
+  Pos: SS
+  G: '79'
+  PO: '94'
+  A: '244'
+  E: '48'
+  PCT: '.876'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Klinkert
+  nameClub1: Watertown
+  Pos: SS
+  G: '13'
+  PO: '21'
+  A: '35'
+  E: '9'
+  PCT: '.862'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Hertweck
+  nameClub1: Watertown
+  Pos: SS
+  G: '18'
+  PO: '25'
+  A: '53'
+  E: '15'
+  PCT: '.839'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Crisan
+  nameClub1: Oswego
+  Pos: OF
+  G: '14'
+  PO: '15'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Swantek
+  nameClub1: Oswego
+  Pos: OF
+  G: '12'
+  PO: '15'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Forster
+  nameClub1: Ottawa
+  Pos: OF
+  G: '10'
+  PO: '3'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Willis
+  nameClub1: Oswego
+  Pos: OF
+  G: '10'
+  PO: '15'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Williams
+  nameClub1: Oswego
+  Pos: OF
+  G: '26'
+  PO: '30'
+  A: '9'
+  E: '1'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Massic
+  nameClub1: Ogdensburg
+  Pos: OF
+  G: '21'
+  PO: '31'
+  A: '2'
+  E: '1'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Barnes
+  nameClub1: Perth
+  Pos: OF
+  G: '66'
+  PO: '87'
+  A: '6'
+  E: '3'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Hibbs
+  nameClub1: Perth
+  Pos: OF
+  G: '28'
+  PO: '30'
+  A: '1'
+  E: '1'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Masters
+  nameClub1: Ottawa
+  Pos: OF
+  G: '54'
+  PO: '60'
+  A: '1'
+  E: '2'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Fertig
+  nameClub1: Brockville
+  Pos: OF
+  G: '50'
+  PO: '80'
+  A: '5'
+  E: '3'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Tibbetts
+  nameClub1: Ogdensburg
+  Pos: OF
+  G: '84'
+  PO: '175'
+  A: '18'
+  E: '7'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Cohen
+  nameClub1: Oswego
+  Pos: OF
+  G: '86'
+  PO: '201'
+  A: '16'
+  E: '9'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Maloney
+  nameClub1: Watertown
+  Pos: OF
+  G: '32'
+  PO: '68'
+  A: '3'
+  E: '3'
+  PCT: '.959'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Mayer
+  nameClub1: Watertown
+  Pos: OF
+  G: '45'
+  PO: '40'
+  A: '5'
+  E: '2'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Ottawa
+  Pos: OF
+  G: '67'
+  PO: '134'
+  A: '8'
+  E: '7'
+  PCT: '.953'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Tulacz
+  nameClub1: Watertown
+  Pos: OF
+  G: '30'
+  PO: '70'
+  A: '8'
+  E: '4'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Gunn
+  nameClub1: Perth
+  Pos: OF
+  G: '63'
+  PO: '87'
+  A: '5'
+  E: '5'
+  PCT: '.948'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Howard
+  nameClub1: Perth
+  Pos: OF
+  G: '76'
+  PO: '139'
+  A: '4'
+  E: '8'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Paluck
+  nameClub1: Watertown
+  Pos: OF
+  G: '47'
+  PO: '77'
+  A: '7'
+  E: '5'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Carr
+  nameClub1: Ottawa
+  Pos: OF
+  G: '27'
+  PO: '31'
+  A: '1'
+  E: '2'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Fasulo
+  nameClub1: Ogdensburg
+  Pos: OF
+  G: '30'
+  PO: '41'
+  A: '4'
+  E: '3'
+  PCT: '.938'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Maietta
+  nameClub1: Brockville
+  Pos: OF
+  G: '74'
+  PO: '121'
+  A: '5'
+  E: '9'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Perkowski
+  nameClub1: Brockville
+  Pos: OF
+  G: '44'
+  PO: '74'
+  A: '10'
+  E: '6'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Pilon
+  nameClub1: Ottawa
+  Pos: OF
+  G: '85'
+  PO: '143'
+  A: '12'
+  E: '12'
+  PCT: '.928'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Stevenson
+  nameClub1: Ottawa
+  Pos: OF
+  G: '38'
+  PO: '34'
+  A: '3'
+  E: '3'
+  PCT: '.925'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Foley
+  nameClub1: Watertown
+  Pos: OF
+  G: '43'
+  PO: '63'
+  A: '6'
+  E: '6'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Grilli
+  nameClub1: Brockville
+  Pos: OF
+  G: '30'
+  PO: '34'
+  A: '0'
+  E: '3'
+  PCT: '.919'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Hertweck
+  nameClub1: Watertown
+  Pos: OF
+  G: '24'
+  PO: '25'
+  A: '5'
+  E: '3'
+  PCT: '.909'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Gradaitis
+  nameClub1: Ogdensburg
+  Pos: OF
+  G: '50'
+  PO: '70'
+  A: '5'
+  E: '8'
+  PCT: '.904'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Zoba
+  nameClub1: Oswego
+  Pos: OF
+  G: '70'
+  PO: '94'
+  A: '10'
+  E: '13'
+  PCT: '.889'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Krakauskas
+  nameClub1: Brockville
+  Pos: OF
+  G: '29'
+  PO: '37'
+  A: '1'
+  E: '5'
+  PCT: '.884'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Church
+  nameClub1: Watertown
+  nameClub2: Oswego
+  Pos: OF
+  G: '23'
+  PO: '38'
+  A: '4'
+  E: '6'
+  PCT: '.875'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Johnson
+  nameClub1: Ogdensburg
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '1'
+  E: '2'
+  PCT: '.867'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Huisking
+  nameClub1: Oswego
+  nameClub2: Perth
+  Pos: OF
+  G: '11'
+  PO: '13'
+  A: '0'
+  E: '2'
+  PCT: '.867'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Muprhy
+  nameClub1: Ogdensburg
+  Pos: OF
+  G: '21'
+  PO: '32'
+  A: '4'
+  E: '6'
+  PCT: '.857'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Rozansky
+  nameClub1: Oswego
+  nameClub2: Ogdensburg
+  Pos: OF
+  G: '12'
+  PO: '16'
+  A: '2'
+  E: '3'
+  PCT: '.857'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Johnston
+  nameFirst: C.
+  nameClub1: Ottawa
+  Pos: OF
+  G: '15'
+  PO: '8'
+  A: '3'
+  E: '2'
+  PCT: '.846'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Lukas
+  nameClub1: Oswego
+  Pos: OF
+  G: '11'
+  PO: '12'
+  A: '2'
+  E: '3'
+  PCT: '.824'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: McInenly
+  nameClub1: Ottawa
+  Pos: OF
+  G: '11'
+  PO: '8'
+  A: '1'
+  E: '2'
+  PCT: '.818'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: McNair
+  nameClub1: Brockville
+  Pos: C
+  G: '16'
+  PO: '77'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Fasulo
+  nameClub1: Ogdensburg
+  Pos: C
+  G: '29'
+  PO: '145'
+  A: '15'
+  E: '2'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Diffley
+  nameClub1: Oswego
+  Pos: C
+  G: '84'
+  PO: '561'
+  A: '80'
+  E: '9'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Barnes
+  nameClub1: Perth
+  Pos: C
+  G: '10'
+  PO: '45'
+  A: '7'
+  E: '1'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Maietta
+  nameClub1: Brockville
+  Pos: C
+  G: '53'
+  PO: '338'
+  A: '47'
+  E: '8'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Shearer
+  nameClub1: Ottawa
+  Pos: C
+  G: '91'
+  PO: '552'
+  A: '68'
+  E: '13'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Benson
+  nameClub1: Ogdensburg
+  Pos: C
+  G: '30'
+  PO: '190'
+  A: '24'
+  E: '5'
+  PCT: '.977'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Graff
+  nameClub1: Perth
+  Pos: C
+  G: '73'
+  PO: '486'
+  A: '42'
+  E: '15'
+  PCT: '.972'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Shatzer
+  nameClub1: Watertown
+  Pos: C
+  G: '79'
+  PO: '508'
+  A: '46'
+  E: '16'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Fertig
+  nameClub1: Brockville
+  Pos: C
+  G: '16'
+  PO: '90'
+  A: '8'
+  E: '3'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Berkley
+  nameClub1: Ogdensburg
+  Pos: C
+  G: '10'
+  PO: '52'
+  A: '5'
+  E: '2'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Anderson
+  nameClub1: Ogdensburg
+  Pos: C
+  G: '12'
+  PO: '67'
+  A: '12'
+  E: '3'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameLast: Johnson
+  nameFirst: G.
+  nameClub1: Ogdensburg
+  Pos: C
+  G: '10'
+  PO: '50'
+  A: '13'
+  E: '3'
+  PCT: '.955'

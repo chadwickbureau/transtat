@@ -1,0 +1,3236 @@
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Shetler
+  nameFirst: Vernon G.
+  nameClub1: New Bern
+  G: '123'
+  AB: '403'
+  R: '83'
+  H: '146'
+  TB: '259'
+  H2B: '31'
+  H3B: '11'
+  HR: '20'
+  SB: '10'
+  RBI: '95'
+  AVG: '.362'
+  AVG_RANK: '1'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Riddle
+  nameFirst: Charles
+  nameClub1: Tarboro
+  G: '28'
+  AB: '149'
+  R: '25'
+  H: '52'
+  TB: '76'
+  H2B: '5'
+  H3B: '2'
+  HR: '5'
+  SB: '5'
+  RBI: '8'
+  AVG: '.349'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Becker
+  nameFirst: Henry C., Jr.
+  nameClub1: Tarboro
+  G: '55'
+  AB: '219'
+  R: '41'
+  H: '76'
+  TB: '110'
+  H2B: '15'
+  H3B: '8'
+  HR: '1'
+  SB: '8'
+  RBI: '30'
+  AVG: '.347'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Carlson
+  nameFirst: Ray
+  nameClub1: Greenville
+  G: '121'
+  AB: '473'
+  R: '103'
+  H: '158'
+  TB: '236'
+  H2B: '33'
+  H3B: '9'
+  HR: '9'
+  SB: '32'
+  RBI: '80'
+  AVG: '.334'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Musial
+  nameFirst: Edward
+  nameClub1: Fayetteville
+  G: '91'
+  AB: '317'
+  R: '71'
+  H: '106'
+  TB: '250'
+  H2B: '15'
+  H3B: '7'
+  HR: '5'
+  SB: '17'
+  RBI: '39'
+  AVG: '.334'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Cohen
+  nameFirst: Robert
+  nameClub1: Kinston
+  G: '99'
+  AB: '386'
+  R: '43'
+  H: '128'
+  TB: '157'
+  H2B: '21'
+  H3B: '4'
+  HR: '0'
+  SB: '7'
+  RBI: '23'
+  AVG: '.332'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Fowler
+  nameFirst: Grover C.
+  nameClub1: Rocky Mount
+  G: '100'
+  AB: '361'
+  R: '79'
+  H: '117'
+  TB: '199'
+  H2B: '15'
+  H3B: '11'
+  HR: '15'
+  SB: '21'
+  RBI: '68'
+  AVG: '.325'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Schroeder
+  nameFirst: Wally
+  nameClub1: Goldsboro
+  G: '90'
+  AB: '306'
+  R: '56'
+  H: '98'
+  TB: '120'
+  H2B: '16'
+  H3B: '3'
+  HR: '0'
+  SB: '3'
+  RBI: '28'
+  AVG: '.324'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Jamin
+  nameFirst: Charles
+  nameClub1: Fayetteville
+  G: '22'
+  AB: '78'
+  R: '22'
+  H: '25'
+  TB: '47'
+  H2B: '2'
+  H3B: '1'
+  HR: '6'
+  SB: '2'
+  RBI: '27'
+  AVG: '.321'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Soufas
+  nameFirst: Harry C.
+  nameClub1: Rocky Mount
+  G: '125'
+  AB: '434'
+  R: '79'
+  H: '139'
+  TB: '200'
+  H2B: '18'
+  H3B: '5'
+  HR: '11'
+  SB: '17'
+  RBI: '66'
+  AVG: '.320'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bauer
+  nameFirst: Edward A.
+  nameClub1: Wilson
+  G: '124'
+  AB: '477'
+  R: '68'
+  H: '152'
+  TB: '198'
+  H2B: '18'
+  H3B: '2'
+  HR: '8'
+  SB: '8'
+  RBI: '57'
+  AVG: '.319'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Anderson
+  nameFirst: Don
+  nameClub1: Fayetteville
+  G: '110'
+  AB: '427'
+  R: '75'
+  H: '134'
+  TB: '165'
+  H2B: '21'
+  H3B: '5'
+  HR: '0'
+  SB: '50'
+  RBI: '29'
+  AVG: '.316'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lingle
+  nameFirst: David O.
+  nameClub1: Goldsboro
+  G: '88'
+  AB: '320'
+  R: '59'
+  H: '101'
+  TB: '122'
+  H2B: '10'
+  H3B: '4'
+  HR: '1'
+  SB: '20'
+  RBI: '28'
+  AVG: '.316'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Carnahan
+  nameFirst: Earl
+  nameClub1: Wilson
+  G: '108'
+  AB: '429'
+  R: '60'
+  H: '135'
+  TB: '171'
+  H2B: '22'
+  H3B: '4'
+  HR: '2'
+  SB: '1'
+  RBI: '35'
+  AVG: '.315'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Wolfe
+  nameFirst: John B.
+  nameClub1: Wilson
+  G: '125'
+  AB: '496'
+  R: '123'
+  H: '156'
+  TB: '250'
+  H2B: '33'
+  H3B: '7'
+  HR: '17'
+  SB: '18'
+  RBI: '88'
+  AVG: '.314'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Blackwell
+  nameFirst: Verne C.
+  nameClub1: Greenville
+  G: '123'
+  AB: '473'
+  R: '88'
+  H: '148'
+  TB: '205'
+  H2B: '25'
+  H3B: '10'
+  HR: '4'
+  SB: '5'
+  RBI: '114'
+  AVG: '.313'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Martin
+  nameFirst: Quentin
+  nameClub1: Rocky Mount
+  G: '96'
+  AB: '452'
+  R: '89'
+  H: '141'
+  TB: '235'
+  H2B: '28'
+  H3B: '3'
+  HR: '20'
+  SB: '5'
+  RBI: '72'
+  AVG: '.312'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Eason
+  nameFirst: Fred
+  nameClub1: Wilson
+  G: '96'
+  AB: '437'
+  R: '55'
+  H: '134'
+  TB: '172'
+  H2B: '17'
+  H3B: '3'
+  HR: '5'
+  SB: '2'
+  RBI: '71'
+  AVG: '.307'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Dickens
+  nameFirst: Irv
+  nameClub1: Wilson
+  G: '108'
+  AB: '408'
+  R: '88'
+  H: '124'
+  TB: '151'
+  H2B: '21'
+  H3B: '3'
+  HR: '0'
+  SB: '25'
+  RBI: '44'
+  AVG: '.305'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Norwood
+  nameFirst: Uriah
+  nameClub1: Kinston
+  G: '74'
+  AB: '273'
+  R: '48'
+  H: '83'
+  TB: '118'
+  H2B: '16'
+  H3B: '2'
+  HR: '5'
+  SB: '2'
+  RBI: '58'
+  AVG: '.304'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pinner
+  nameFirst: Ted
+  nameClub1: New Bern
+  G: '79'
+  AB: '308'
+  R: '53'
+  H: '93'
+  TB: '125'
+  H2B: '18'
+  H3B: '4'
+  HR: '2'
+  SB: '16'
+  RBI: '41'
+  AVG: '.302'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Connell
+  nameFirst: Richard
+  nameClub1: Goldsboro
+  G: '95'
+  AB: '385'
+  R: '67'
+  H: '116'
+  TB: '137'
+  H2B: '16'
+  H3B: '1'
+  HR: '1'
+  SB: '3'
+  RBI: '54'
+  AVG: '.301'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Stott
+  nameFirst: Grady
+  nameClub1: New Bern
+  G: '58'
+  AB: '221'
+  R: '32'
+  H: '66'
+  TB: '97'
+  H2B: '9'
+  H3B: '5'
+  HR: '4'
+  SB: '3'
+  RBI: '31'
+  AVG: '.299'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Nifong
+  nameFirst: Russell
+  nameClub1: Tarboro
+  G: '33'
+  AB: '128'
+  R: '25'
+  H: '38'
+  TB: '44'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SB: '8'
+  RBI: '16'
+  AVG: '.297'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Clark
+  nameFirst: Pete
+  nameClub1: Tarboro
+  G: '47'
+  AB: '108'
+  R: '27'
+  H: '32'
+  TB: '40'
+  H2B: '2'
+  H3B: '3'
+  HR: '0'
+  SB: '4'
+  RBI: '22'
+  AVG: '.296'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Gauldin
+  nameFirst: Robert C.
+  nameClub1: Kinston
+  G: '24'
+  AB: '88'
+  R: '17'
+  H: '26'
+  TB: '34'
+  H2B: '4'
+  H3B: '2'
+  HR: '0'
+  SB: '0'
+  RBI: '9'
+  AVG: '.295'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Tepedino
+  nameFirst: Frank A.
+  nameClub1: Kinston
+  G: '116'
+  AB: '472'
+  R: '87'
+  H: '139'
+  TB: '226'
+  H2B: '26'
+  H3B: '14'
+  HR: '11'
+  SB: '17'
+  RBI: '69'
+  AVG: '.294'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Parise
+  nameFirst: Frank
+  nameClub1: Greenville
+  G: '78'
+  AB: '303'
+  R: '63'
+  H: '89'
+  TB: '122'
+  H2B: '19'
+  H3B: '4'
+  HR: '2'
+  SB: '9'
+  RBI: '30'
+  AVG: '.294'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: May
+  nameFirst: Herb.
+  nameClub1: Rocky Mount
+  G: '54'
+  AB: '201'
+  R: '35'
+  H: '59'
+  TB: '73'
+  H2B: '11'
+  H3B: '0'
+  HR: '1'
+  SB: '3'
+  RBI: '31'
+  AVG: '.294'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lucas
+  nameFirst: William
+  nameClub1: Tarboro
+  G: '116'
+  AB: '424'
+  R: '73'
+  H: '124'
+  TB: '178'
+  H2B: '15'
+  H3B: '6'
+  HR: '9'
+  SB: '12'
+  RBI: '68'
+  AVG: '.293'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Saunders
+  nameFirst: Rocker
+  nameClub1: Tarboro
+  G: '14'
+  AB: '58'
+  R: '6'
+  H: '17'
+  TB: '17'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '4'
+  AVG: '.293'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lowry
+  nameFirst: Curtis B.
+  nameClub1: New Bern
+  G: '125'
+  AB: '487'
+  R: '78'
+  H: '142'
+  TB: '180'
+  H2B: '21'
+  H3B: '7'
+  HR: '1'
+  SB: '16'
+  RBI: '45'
+  AVG: '.292'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Caldwell
+  nameFirst: Ralph L.
+  nameClub1: Tarboro
+  G: '83'
+  AB: '320'
+  R: '58'
+  H: '93'
+  TB: '151'
+  H2B: '21'
+  H3B: '5'
+  HR: '9'
+  SB: '8'
+  RBI: '49'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Titus
+  nameFirst: Glenn C.
+  nameClub1: Tarboro
+  G: '52'
+  AB: '110'
+  R: '13'
+  H: '32'
+  TB: '42'
+  H2B: '6'
+  H3B: '2'
+  HR: '0'
+  SB: '0'
+  RBI: '21'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Strickler
+  nameFirst: Frank
+  nameClub1: New Bern
+  G: '42'
+  AB: '93'
+  R: '11'
+  H: '27'
+  TB: '33'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SB: '2'
+  RBI: '5'
+  AVG: '.290'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Doak
+  nameFirst: Robert
+  nameClub1: New Bern
+  G: '87'
+  AB: '276'
+  R: '45'
+  H: '80'
+  TB: '86'
+  H2B: '3'
+  H3B: '1'
+  HR: '11'
+  SB: '15'
+  RBI: '21'
+  AVG: '.290'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kelly
+  nameFirst: Jack
+  nameClub1: New Bern
+  G: '46'
+  AB: '132'
+  R: '14'
+  H: '37'
+  TB: '44'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SB: '6'
+  RBI: '12'
+  AVG: '.288'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Blackwell
+  nameFirst: Merle J.
+  nameClub1: Greenville
+  G: '118'
+  AB: '507'
+  R: '106'
+  H: '146'
+  TB: '178'
+  H2B: '18'
+  H3B: '4'
+  HR: '2'
+  SB: '18'
+  RBI: '40'
+  AVG: '.288'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Drews
+  nameFirst: Michael
+  nameClub1: Rocky Mount
+  G: '118'
+  AB: '493'
+  R: '73'
+  H: '142'
+  TB: '173'
+  H2B: '21'
+  H3B: '5'
+  HR: '0'
+  SB: '12'
+  RBI: '39'
+  AVG: '.288'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Moore
+  nameFirst: John
+  nameClub1: Tarboro
+  G: '102'
+  AB: '364'
+  R: '72'
+  H: '105'
+  TB: '124'
+  H2B: '13'
+  H3B: '3'
+  HR: '0'
+  SB: '18'
+  RBI: '30'
+  AVG: '.288'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Herring
+  nameFirst: William A.
+  nameClub1: Goldsboro
+  G: '55'
+  AB: '129'
+  R: '25'
+  H: '27'
+  TB: '35'
+  H2B: '4'
+  H3B: '2'
+  HR: '0'
+  SB: '2'
+  RBI: '18'
+  AVG: '.287'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kardash
+  nameFirst: Michael
+  nameClub1: Tarboro
+  G: '51'
+  AB: '155'
+  R: '20'
+  H: '44'
+  TB: '52'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  SB: '4'
+  RBI: '20'
+  AVG: '.284'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Helms
+  nameFirst: John
+  nameClub1: Fayetteville
+  G: '106'
+  AB: '375'
+  R: '48'
+  H: '106'
+  TB: '171'
+  H2B: '26'
+  H3B: '3'
+  HR: '11'
+  SB: '6'
+  RBI: '61'
+  AVG: '.283'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Munday
+  nameFirst: Charles W.
+  nameClub1: Rocky Mount
+  G: '111'
+  AB: '361'
+  R: '52'
+  H: '102'
+  TB: '187'
+  H2B: '11'
+  H3B: '0'
+  HR: '21'
+  SB: '3'
+  RBI: '83'
+  AVG: '.283'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Starrette
+  nameFirst: George
+  nameClub1: Fayetteville
+  G: '33'
+  AB: '46'
+  R: '9'
+  H: '13'
+  TB: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '5'
+  AVG: '.283'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Adair
+  nameFirst: Howard V.
+  nameClub1: New Bern
+  G: '23'
+  AB: '78'
+  R: '10'
+  H: '22'
+  TB: '25'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SB: '5'
+  RBI: '11'
+  AVG: '.282'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Parker
+  nameFirst: Newton
+  nameClub1: Tarboro
+  G: '63'
+  AB: '253'
+  R: '45'
+  H: '71'
+  TB: '109'
+  H2B: '18'
+  H3B: '1'
+  HR: '6'
+  SB: '4'
+  RBI: '56'
+  AVG: '.281'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Mays
+  nameFirst: Brenton
+  nameClub1: Tarboro
+  G: '53'
+  AB: '114'
+  R: '14'
+  H: '32'
+  TB: '50'
+  H2B: '11'
+  H3B: '2'
+  HR: '1'
+  SB: '0'
+  RBI: '18'
+  AVG: '.281'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Smith
+  nameFirst: Norman E.
+  nameClub1: Greenville
+  G: '86'
+  AB: '297'
+  R: '45'
+  H: '83'
+  TB: '107'
+  H2B: '12'
+  H3B: '0'
+  HR: '4'
+  SB: '1'
+  RBI: '36'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: DeAngelis
+  nameFirst: Gene
+  nameClub1: Fayetteville
+  G: '109'
+  AB: '436'
+  R: '63'
+  H: '122'
+  TB: '195'
+  H2B: '19'
+  H3B: '1'
+  HR: '14'
+  SB: '29'
+  RBI: '87'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lee
+  nameFirst: William Toma
+  nameClub1: Greenville
+  G: '91'
+  AB: '250'
+  R: '40'
+  H: '70'
+  TB: '86'
+  H2B: '10'
+  H3B: '3'
+  HR: '1'
+  SB: '2'
+  RBI: '28'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hand
+  nameFirst: Russell
+  nameClub1: Tarboro
+  G: '72'
+  AB: '246'
+  R: '35'
+  H: '69'
+  TB: '93'
+  H2B: '12'
+  H3B: '3'
+  HR: '4'
+  SB: '6'
+  RBI: '36'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Urban
+  nameFirst: Ray W.
+  nameClub1: New Bern
+  G: '98'
+  AB: '362'
+  R: '43'
+  H: '101'
+  TB: '134'
+  H2B: '21'
+  H3B: '3'
+  HR: '2'
+  SB: '4'
+  RBI: '37'
+  AVG: '.279'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Morris
+  nameFirst: Phil
+  nameClub1: Kinston
+  G: '37'
+  AB: '148'
+  R: '16'
+  H: '41'
+  TB: '44'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '15'
+  AVG: '.277'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Marx
+  nameFirst: Elzer
+  nameClub1: Fayetteville
+  G: '42'
+  AB: '142'
+  R: '22'
+  H: '39'
+  TB: '67'
+  H2B: '8'
+  H3B: '1'
+  HR: '6'
+  SB: '5'
+  RBI: '27'
+  AVG: '.275'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Edde
+  nameFirst: Frank
+  nameClub1: New Bern
+  G: '20'
+  AB: '73'
+  R: '8'
+  H: '20'
+  TB: '32'
+  H2B: '3'
+  H3B: '0'
+  HR: '3'
+  SB: '0'
+  RBI: '11'
+  AVG: '.274'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Mayer
+  nameFirst: Bernard J.
+  nameClub1: Greenville
+  G: '42'
+  AB: '168'
+  R: '20'
+  H: '45'
+  TB: '56'
+  H2B: '9'
+  H3B: '1'
+  HR: '0'
+  SB: '2'
+  RBI: '18'
+  AVG: '.268'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Narron
+  nameFirst: Milton A.
+  nameClub1: Greenville
+  G: '109'
+  AB: '371'
+  R: '45'
+  H: '99'
+  TB: '147'
+  H2B: '11'
+  H3B: '5'
+  HR: '9'
+  SB: '3'
+  RBI: '64'
+  AVG: '.267'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Payne
+  nameFirst: Virgil
+  nameClub1: Greenville
+  G: '120'
+  AB: '475'
+  R: '66'
+  H: '127'
+  TB: '166'
+  H2B: '23'
+  H3B: '5'
+  HR: '2'
+  SB: '7'
+  RBI: '74'
+  AVG: '.267'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hoyle
+  nameFirst: Fred
+  nameClub1: Rocky Mount
+  G: '13'
+  AB: '45'
+  R: '4'
+  H: '12'
+  TB: '15'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.267'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Alusik
+  nameFirst: John A.
+  nameClub1: Wilson
+  G: '83'
+  AB: '320'
+  R: '40'
+  H: '86'
+  TB: '123'
+  H2B: '11'
+  H3B: '5'
+  HR: '2'
+  SB: '6'
+  RBI: '27'
+  AVG: '.267'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hobgood
+  nameFirst: Howard
+  nameClub1: New Bern
+  G: '76'
+  AB: '293'
+  R: '37'
+  H: '78'
+  TB: '98'
+  H2B: '15'
+  H3B: '1'
+  HR: '1'
+  SB: '5'
+  RBI: '32'
+  AVG: '.266'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Jeffries
+  nameFirst: William
+  nameClub1: Tarboro
+  G: '57'
+  AB: '211'
+  R: '46'
+  H: '56'
+  TB: '80'
+  H2B: '13'
+  H3B: '4'
+  HR: '1'
+  SB: '5'
+  RBI: '23'
+  AVG: '.265'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pearsall
+  nameFirst: Wallace A.
+  nameClub1: Fayetteville
+  G: '121'
+  AB: '450'
+  R: '76'
+  H: '119'
+  TB: '158'
+  H2B: '19'
+  H3B: '1'
+  HR: '6'
+  SB: '24'
+  RBI: '55'
+  AVG: '.264'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Winkel
+  nameFirst: John
+  nameClub1: Kinston
+  G: '120'
+  AB: '433'
+  R: '86'
+  H: '114'
+  TB: '163'
+  H2B: '14'
+  H3B: '10'
+  HR: '5'
+  SB: '20'
+  RBI: '64'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Collins
+  nameFirst: John
+  nameClub1: Goldsboro
+  G: '102'
+  AB: '367'
+  R: '42'
+  H: '96'
+  TB: '128'
+  H2B: '22'
+  H3B: '2'
+  HR: '2'
+  SB: '2'
+  RBI: '50'
+  AVG: '.262'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hendershot
+  nameFirst: Harry
+  nameClub1: Rocky Mount
+  G: '37'
+  AB: '142'
+  R: '22'
+  H: '37'
+  TB: '58'
+  H2B: '3'
+  H3B: '0'
+  HR: '6'
+  SB: '0'
+  RBI: '30'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Book
+  nameFirst: Melvin J.
+  nameClub1: Fayetteville
+  G: '83'
+  AB: '249'
+  R: '30'
+  H: '66'
+  TB: '81'
+  H2B: '9'
+  H3B: '0'
+  HR: '2'
+  SB: '4'
+  RBI: '26'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Colombo
+  nameFirst: Vincent
+  nameClub1: Rocky Mount
+  G: '90'
+  AB: '326'
+  R: '54'
+  H: '85'
+  TB: '121'
+  H2B: '23'
+  H3B: '5'
+  HR: '1'
+  SB: '9'
+  RBI: '41'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: McDowell
+  nameFirst: James R.
+  nameClub1: Kinston
+  G: '108'
+  AB: '349'
+  R: '46'
+  H: '91'
+  TB: '128'
+  H2B: '19'
+  H3B: '3'
+  HR: '4'
+  SB: '8'
+  RBI: '56'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Coakley
+  nameFirst: John
+  nameClub1: Goldsboro
+  G: '26'
+  AB: '104'
+  R: '13'
+  H: '27'
+  TB: '31'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '13'
+  AVG: '.260'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kukulka
+  nameFirst: Ed
+  nameClub1: Goldsboro
+  G: '61'
+  AB: '201'
+  R: '19'
+  H: '52'
+  TB: '67'
+  H2B: '11'
+  H3B: '2'
+  HR: '0'
+  SB: '8'
+  RBI: '29'
+  AVG: '.259'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bolduc
+  nameFirst: William J.
+  nameClub1: Fayetteville
+  G: '78'
+  AB: '278'
+  R: '32'
+  H: '72'
+  TB: '87'
+  H2B: '13'
+  H3B: '1'
+  HR: '0'
+  SB: '13'
+  RBI: '34'
+  AVG: '.259'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Rightenburg
+  nameFirst: Floyd
+  nameClub1: Kinston
+  G: '69'
+  AB: '239'
+  R: '28'
+  H: '62'
+  TB: '76'
+  H2B: '10'
+  H3B: '2'
+  HR: '0'
+  SB: '0'
+  RBI: '33'
+  AVG: '.259'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Ballentine
+  nameFirst: Curtis
+  nameClub1: Rocky Mount
+  G: '81'
+  AB: '330'
+  R: '40'
+  H: '85'
+  TB: '103'
+  H2B: '13'
+  H3B: '1'
+  HR: '1'
+  SB: '7'
+  RBI: '39'
+  AVG: '.258'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lombardi
+  nameFirst: Frank
+  nameClub1: Goldsboro
+  G: '83'
+  AB: '202'
+  R: '28'
+  H: '52'
+  TB: '78'
+  H2B: '10'
+  H3B: '2'
+  HR: '4'
+  SB: '3'
+  RBI: '33'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Salyer
+  nameFirst: Curtis W.
+  nameClub1: Goldsboro
+  G: '111'
+  AB: '420'
+  R: '70'
+  H: '108'
+  TB: '130'
+  H2B: '13'
+  H3B: '3'
+  HR: '1'
+  SB: '23'
+  RBI: '31'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Ciske
+  nameFirst: William
+  nameClub1: Fayetteville
+  G: '14'
+  AB: '35'
+  R: '0'
+  H: '9'
+  TB: '11'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Tomasic
+  nameFirst: Andrew J.
+  nameClub1: Kinston
+  G: '32'
+  AB: '70'
+  R: '11'
+  H: '18'
+  TB: '23'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '8'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Andrews
+  nameFirst: Kenneth
+  nameClub1: Tarboro
+  G: '98'
+  AB: '317'
+  R: '52'
+  H: '80'
+  TB: '106'
+  H2B: '15'
+  H3B: '4'
+  HR: '1'
+  SB: '10'
+  RBI: '51'
+  AVG: '.256'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Byrum
+  nameFirst: John L.
+  nameClub1: Wilson
+  G: '64'
+  AB: '240'
+  R: '29'
+  H: '61'
+  TB: '67'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SB: '3'
+  RBI: '19'
+  AVG: '.254'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Silbernagle
+  nameFirst: Ray
+  nameClub1: New Bern
+  G: '21'
+  AB: '79'
+  R: '5'
+  H: '20'
+  TB: '22'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '6'
+  AVG: '.253'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Vorell
+  nameFirst: Robert
+  nameClub1: Tarboro
+  G: '75'
+  AB: '263'
+  R: '49'
+  H: '66'
+  TB: '120'
+  H2B: '5'
+  H3B: '5'
+  HR: '13'
+  SB: '16'
+  RBI: '46'
+  AVG: '.251'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Sheehan
+  nameFirst: Jerry
+  nameClub1: New Bern
+  G: '46'
+  AB: '120'
+  R: '13'
+  H: '30'
+  TB: '36'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '15'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bolendahl
+  nameFirst: Dan
+  nameClub1: Tarboro
+  G: '16'
+  AB: '32'
+  R: '9'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '3'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Johnson
+  nameFirst: Sidney L.
+  nameClub1: Fayetteville
+  G: '87'
+  AB: '342'
+  R: '51'
+  H: '85'
+  TB: '105'
+  H2B: '14'
+  H3B: '0'
+  HR: '2'
+  SB: '15'
+  RBI: '32'
+  AVG: '.249'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Larrieu
+  nameFirst: John
+  nameClub1: Goldsboro
+  G: '31'
+  AB: '129'
+  R: '18'
+  H: '32'
+  TB: '47'
+  H2B: '9'
+  H3B: '0'
+  HR: '2'
+  SB: '1'
+  RBI: '24'
+  AVG: '.248'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bohonko
+  nameFirst: John
+  nameClub1: Goldsboro
+  G: '50'
+  AB: '174'
+  R: '29'
+  H: '43'
+  TB: '68'
+  H2B: '3'
+  H3B: '5'
+  HR: '4'
+  SB: '4'
+  RBI: '24'
+  AVG: '.247'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Brooks
+  nameFirst: William
+  nameClub1: Wilson
+  G: '120'
+  AB: '433'
+  R: '48'
+  H: '107'
+  TB: '163'
+  H2B: '23'
+  H3B: '3'
+  HR: '9'
+  SB: '4'
+  RBI: '67'
+  AVG: '.247'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Guettler
+  nameFirst: Kenneth
+  nameClub1: New Bern
+  G: '47'
+  AB: '171'
+  R: '28'
+  H: '42'
+  TB: '66'
+  H2B: '7'
+  H3B: '4'
+  HR: '3'
+  SB: '4'
+  RBI: '21'
+  AVG: '.246'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Piestrak
+  nameFirst: Emil S.
+  nameClub1: Kinston
+  G: '105'
+  AB: '380'
+  R: '58'
+  H: '93'
+  TB: '115'
+  H2B: '16'
+  H3B: '3'
+  HR: '0'
+  SB: '7'
+  RBI: '23'
+  AVG: '.245'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Webb
+  nameFirst: Melvin T.
+  nameClub1: Rocky Mount
+  G: '126'
+  AB: '485'
+  R: '72'
+  H: '118'
+  TB: '152'
+  H2B: '14'
+  H3B: '4'
+  HR: '4'
+  SB: '12'
+  RBI: '41'
+  AVG: '.243'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Saurborne
+  nameFirst: Pat
+  nameClub1: Wilson
+  G: '37'
+  AB: '70'
+  R: '5'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '3'
+  AVG: '.243'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Rowe
+  nameFirst: Richard
+  nameClub1: Tarboro
+  G: '30'
+  AB: '111'
+  R: '12'
+  H: '27'
+  TB: '35'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SB: '0'
+  RBI: '12'
+  AVG: '.243'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Stewart
+  nameFirst: Frank
+  nameClub1: Greenville
+  G: '24'
+  AB: '74'
+  R: '13'
+  H: '18'
+  TB: '25'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SB: '1'
+  RBI: '14'
+  AVG: '.243'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Markel
+  nameFirst: Gordon Clayton
+  nameClub1: Goldsboro
+  G: '116'
+  AB: '372'
+  R: '52'
+  H: '90'
+  TB: '106'
+  H2B: '10'
+  H3B: '3'
+  HR: '0'
+  SB: '10'
+  RBI: '42'
+  AVG: '.242'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Wall
+  nameFirst: Dwight
+  nameClub1: Greenville
+  G: '23'
+  AB: '79'
+  R: '8'
+  H: '19'
+  TB: '25'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '9'
+  AVG: '.241'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Wiktek
+  nameFirst: Mike
+  nameClub1: Fayetteville
+  G: '54'
+  AB: '208'
+  R: '23'
+  H: '49'
+  TB: '62'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  SB: '5'
+  RBI: '10'
+  AVG: '.236'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Johnson
+  nameFirst: Johnny
+  nameClub1: Rocky Mount
+  G: '19'
+  AB: '30'
+  R: '6'
+  H: '7'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SB: '0'
+  RBI: '2'
+  AVG: '.233'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kelly
+  nameFirst: Jack
+  nameClub1: New Bern
+  G: '35'
+  AB: '126'
+  R: '12'
+  H: '29'
+  TB: '35'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SB: '1'
+  RBI: '16'
+  AVG: '.230'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Harrison
+  nameFirst: Charles
+  nameClub1: Rocky Mount
+  G: '22'
+  AB: '97'
+  R: '14'
+  H: '22'
+  TB: '25'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '8'
+  AVG: '.227'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hatchell
+  nameFirst: Jim
+  nameClub1: New Bern
+  G: '11'
+  AB: '22'
+  R: '1'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '2'
+  AVG: '.227'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Stuart
+  nameFirst: Pete
+  nameClub1: Wilson
+  G: '102'
+  AB: '359'
+  R: '61'
+  H: '71'
+  TB: '86'
+  H2B: '10'
+  H3B: '1'
+  HR: '1'
+  SB: '7'
+  RBI: '27'
+  AVG: '.226'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Foell
+  nameFirst: John F.
+  nameClub1: Greenville
+  G: '36'
+  AB: '58'
+  R: '9'
+  H: '13'
+  TB: '17'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '5'
+  AVG: '.224'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Dunnack
+  nameFirst: Delton V.
+  nameClub1: Goldsboro
+  G: '27'
+  AB: '81'
+  R: '6'
+  H: '18'
+  TB: '21'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '6'
+  AVG: '.222'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Ranweiler
+  nameFirst: Henry M.
+  nameClub1: Greenville
+  G: '95'
+  AB: '252'
+  R: '40'
+  H: '56'
+  TB: '63'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  SB: '3'
+  RBI: '38'
+  AVG: '.222'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Felton
+  nameFirst: Eric
+  nameClub1: Wilson
+  G: '33'
+  AB: '72'
+  R: '8'
+  H: '16'
+  TB: '23'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SB: '2'
+  RBI: '4'
+  AVG: '.222'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: McLawhorn
+  nameFirst: Sam, Jr.
+  nameClub1: Kinston
+  G: '32'
+  AB: '77'
+  R: '15'
+  H: '17'
+  TB: '19'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '6'
+  AVG: '.221'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Booth
+  nameFirst: Jack W.
+  nameClub1: Tarboro
+  G: '10'
+  AB: '41'
+  R: '7'
+  H: '9'
+  TB: '12'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  SB: '2'
+  RBI: '3'
+  AVG: '.220'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Arakelian
+  nameFirst: Javin
+  nameClub1: Tarboro
+  G: '15'
+  AB: '55'
+  R: '7'
+  H: '12'
+  TB: '17'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.218'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: George
+  nameFirst: John
+  nameClub1: New Bern
+  G: '120'
+  AB: '419'
+  R: '48'
+  H: '91'
+  TB: '111'
+  H2B: '8'
+  H3B: '4'
+  HR: '2'
+  SB: '6'
+  RBI: '41'
+  AVG: '.217'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Naccari
+  nameFirst: Norman B.
+  nameClub1: Goldsboro
+  G: '12'
+  AB: '46'
+  R: '4'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '6'
+  AVG: '.217'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hallow
+  nameFirst: George
+  nameClub1: Goldsboro
+  G: '14'
+  AB: '46'
+  R: '7'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '5'
+  AVG: '.217'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bell
+  nameFirst: Jack
+  nameClub1: Kinston
+  G: '83'
+  AB: '348'
+  R: '50'
+  H: '76'
+  TB: '90'
+  H2B: '10'
+  H3B: '2'
+  HR: '0'
+  SB: '11'
+  RBI: '25'
+  AVG: '.216'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Sorgi
+  nameFirst: Wally
+  nameClub1: Wilson
+  G: '73'
+  AB: '214'
+  R: '24'
+  H: '46'
+  TB: '50'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '18'
+  AVG: '.215'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Cayton
+  nameFirst: William B., Jr.
+  nameClub1: Kinston
+  G: '50'
+  AB: '198'
+  R: '35'
+  H: '42'
+  TB: '55'
+  H2B: '3'
+  H3B: '1'
+  HR: '2'
+  SB: '4'
+  RBI: '18'
+  AVG: '.212'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Phillips
+  nameFirst: Alva R.
+  nameClub1: Kinston
+  G: '28'
+  AB: '66'
+  R: '5'
+  H: '14'
+  TB: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '2'
+  AVG: '.212'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bankston
+  nameFirst: Thomas J.
+  nameClub1: Kinston
+  G: '50'
+  AB: '100'
+  R: '17'
+  H: '21'
+  TB: '33'
+  H2B: '1'
+  H3B: '4'
+  HR: '1'
+  SB: '0'
+  RBI: '10'
+  AVG: '.210'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kimmel
+  nameFirst: John Al
+  nameClub1: Rocky Mount
+  G: '37'
+  AB: '77'
+  R: '5'
+  H: '16'
+  TB: '19'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '5'
+  AVG: '.208'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Gudger
+  nameFirst: James
+  nameClub1: Rocky Mount
+  G: '17'
+  AB: '39'
+  R: '8'
+  H: '8'
+  TB: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '9'
+  AVG: '.205'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Wilson
+  nameFirst: John E.
+  nameClub1: Wilson
+  G: '21'
+  AB: '39'
+  R: '5'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.205'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Rodgers
+  nameFirst: Frank
+  nameClub1: Kinston
+  G: '61'
+  AB: '196'
+  R: '31'
+  H: '40'
+  TB: '46'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SB: '2'
+  RBI: '19'
+  AVG: '.204'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: White
+  nameFirst: Adel
+  nameClub1: New Bern
+  G: '36'
+  AB: '79'
+  R: '4'
+  H: '16'
+  TB: '19'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.203'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Gruca
+  nameFirst: Adam
+  nameClub1: New Bern
+  G: '21'
+  AB: '85'
+  R: '13'
+  H: '17'
+  TB: '21'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SB: '1'
+  RBI: '5'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kennedy
+  nameFirst: William A.
+  nameClub1: Rocky Mount
+  G: '43'
+  AB: '101'
+  R: '10'
+  H: '20'
+  TB: '33'
+  H2B: '7'
+  H3B: '0'
+  HR: '2'
+  SB: '0'
+  RBI: '11'
+  AVG: '.198'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Saxon
+  nameFirst: Nathan
+  nameClub1: Tarboro
+  G: '29'
+  AB: '76'
+  R: '4'
+  H: '15'
+  TB: '20'
+  H2B: '0'
+  H3B: '1'
+  HR: '1'
+  SB: '0'
+  RBI: '7'
+  AVG: '.197'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: DeCamp
+  nameFirst: Robert B.
+  nameClub1: Goldsboro
+  G: '27'
+  AB: '117'
+  R: '14'
+  H: '23'
+  TB: '27'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '6'
+  AVG: '.196'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Turawiz
+  nameFirst: Nicholas F.
+  nameClub1: Goldsboro
+  G: '18'
+  AB: '41'
+  R: '3'
+  H: '8'
+  TB: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '1'
+  AVG: '.195'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hanly
+  nameFirst: John
+  nameClub1: Rocky Mount
+  G: '28'
+  AB: '62'
+  R: '16'
+  H: '12'
+  TB: '30'
+  H2B: '2'
+  H3B: '2'
+  HR: '4'
+  SB: '1'
+  RBI: '9'
+  AVG: '.194'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Benton
+  nameFirst: Rex H.
+  nameClub1: Greenville
+  G: '36'
+  AB: '73'
+  R: '3'
+  H: '14'
+  TB: '18'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '13'
+  AVG: '.192'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Navaratil
+  nameFirst: Frank
+  nameClub1: Goldsboro
+  G: '14'
+  AB: '26'
+  R: '1'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '2'
+  AVG: '.192'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Benton
+  nameFirst: Red
+  nameClub1: Wilson
+  G: '34'
+  AB: '94'
+  R: '14'
+  H: '18'
+  TB: '24'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SB: '2'
+  RBI: '3'
+  AVG: '.191'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kee
+  nameFirst: Kelly
+  nameClub1: Wilson
+  G: '45'
+  AB: '105'
+  R: '9'
+  H: '20'
+  TB: '29'
+  H2B: '0'
+  H3B: '0'
+  HR: '3'
+  SB: '0'
+  RBI: '11'
+  AVG: '.190'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lalak
+  nameFirst: Joseph
+  nameClub1: New Bern
+  G: '12'
+  AB: '32'
+  R: '1'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.188'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bobnar
+  nameFirst: Al
+  nameClub1: Tarboro
+  G: '26'
+  AB: '75'
+  R: '15'
+  H: '14'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SB: '3'
+  RBI: '6'
+  AVG: '.187'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Luby
+  nameFirst: James
+  nameClub1: Rocky Mount
+  G: '12'
+  AB: '38'
+  R: '10'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '2'
+  RBI: '3'
+  AVG: '.184'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Diedrick
+  nameFirst: Robert
+  nameClub1: Tarboro
+  G: '23'
+  AB: '71'
+  R: '10'
+  H: '13'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SB: '4'
+  RBI: '8'
+  AVG: '.183'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Deaton
+  nameFirst: J. W.
+  nameClub1: Wilson
+  G: '15'
+  AB: '50'
+  R: '6'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '0'
+  AVG: '.180'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: VanBomel
+  nameFirst: Ed
+  nameClub1: Kinston
+  G: '27'
+  AB: '84'
+  R: '4'
+  H: '15'
+  TB: '22'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SB: '1'
+  RBI: '10'
+  AVG: '.179'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Murray
+  nameFirst: John
+  nameClub1: New Bern
+  G: '15'
+  AB: '39'
+  R: '4'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '6'
+  AVG: '.179'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lettenberger
+  nameFirst: Earl G.
+  nameClub1: Fayetteville
+  G: '23'
+  AB: '73'
+  R: '12'
+  H: '13'
+  TB: '25'
+  H2B: '3'
+  H3B: '0'
+  HR: '3'
+  SB: '1'
+  RBI: '9'
+  AVG: '.178'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Markellos
+  nameFirst: Harry A.
+  nameClub1: Fayetteville
+  G: '32'
+  AB: '68'
+  R: '9'
+  H: '12'
+  TB: '18'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  SB: '0'
+  RBI: '1'
+  AVG: '.177'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Cosentino
+  nameFirst: John N.
+  nameClub1: Fayetteville
+  G: '20'
+  AB: '75'
+  R: '7'
+  H: '13'
+  TB: '17'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '3'
+  AVG: '.173'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Futrell
+  nameFirst: Charles T.
+  nameClub1: Greenville
+  G: '40'
+  AB: '127'
+  R: '15'
+  H: '22'
+  TB: '30'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SB: '7'
+  RBI: '12'
+  AVG: '.173'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Melvin
+  nameFirst: Donald Melvin
+  nameClub1: Fayetteville
+  G: '30'
+  AB: '65'
+  R: '3'
+  H: '11'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '1'
+  AVG: '.169'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Ballam
+  nameFirst: Dean George
+  nameClub1: Greenville
+  G: '43'
+  AB: '59'
+  R: '7'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.169'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Derda
+  nameFirst: Cletus
+  nameClub1: New Bern
+  G: '31'
+  AB: '59'
+  R: '2'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '5'
+  AVG: '.169'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Grueter
+  nameFirst: Robert M.
+  nameClub1: Fayetteville
+  G: '20'
+  AB: '68'
+  R: '9'
+  H: '11'
+  TB: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SB: '4'
+  RBI: '4'
+  AVG: '.162'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Sorgarac
+  nameFirst: James
+  nameClub1: Fayetteville
+  G: '22'
+  AB: '56'
+  R: '4'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '6'
+  AVG: '.161'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Sicolo
+  nameFirst: Vito
+  nameClub1: Kinston
+  G: '32'
+  AB: '120'
+  R: '15'
+  H: '19'
+  TB: '28'
+  H2B: '2'
+  H3B: '2'
+  HR: '1'
+  SB: '0'
+  RBI: '15'
+  AVG: '.158'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Smith
+  nameFirst: Carl D.
+  nameClub1: Goldsboro
+  G: '21'
+  AB: '39'
+  R: '2'
+  H: '6'
+  TB: '9'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SB: '1'
+  RBI: '3'
+  AVG: '.154'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Luke
+  nameFirst: Melvin
+  nameClub1: Greenville
+  G: '53'
+  AB: '146'
+  R: '9'
+  H: '22'
+  TB: '37'
+  H2B: '3'
+  H3B: '6'
+  HR: '0'
+  SB: '0'
+  RBI: '9'
+  AVG: '.151'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Polink
+  nameFirst: Tony
+  nameClub1: Tarboro
+  G: '46'
+  AB: '86'
+  R: '10'
+  H: '13'
+  TB: '13'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '4'
+  AVG: '.151'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Johnson
+  nameFirst: Johnny
+  nameClub1: Tarboro
+  G: '14'
+  AB: '60'
+  R: '11'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '4'
+  AVG: '.150'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Alhouse
+  nameFirst: William G.
+  nameClub1: Goldsboro
+  G: '23'
+  AB: '81'
+  R: '10'
+  H: '12'
+  TB: '12'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '2'
+  AVG: '.148'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Owles
+  nameFirst: Robert L.
+  nameClub1: Fayetteville
+  G: '35'
+  AB: '68'
+  R: '10'
+  H: '10'
+  TB: '15'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SB: '1'
+  RBI: '2'
+  AVG: '.147'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bernard
+  nameFirst: Joseph
+  nameClub1: Tarboro
+  G: '19'
+  AB: '68'
+  R: '6'
+  H: '9'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SB: '2'
+  RBI: '7'
+  AVG: '.132'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Nicoli
+  nameFirst: James
+  nameClub1: Rocky Mount
+  G: '15'
+  AB: '23'
+  R: '2'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '0'
+  AVG: '.130'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Alamo
+  nameFirst: Joseph
+  nameClub1: Greenville
+  G: '42'
+  AB: '73'
+  R: '5'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '6'
+  AVG: '.123'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bearry
+  nameFirst: Robert
+  nameClub1: Tarboro
+  G: '16'
+  AB: '42'
+  R: '4'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '0'
+  AVG: '.119'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bissette
+  nameFirst: Fem.
+  nameClub1: Wilson
+  G: '31'
+  AB: '80'
+  R: '6'
+  H: '9'
+  TB: '14'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SB: '0'
+  RBI: '3'
+  AVG: '.113'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Winstead
+  nameFirst: Ralph
+  nameClub1: Rocky Mount
+  G: '23'
+  AB: '83'
+  R: '8'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '2'
+  AVG: '.108'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Seiler
+  nameFirst: Daniel B.
+  nameClub1: Goldsboro
+  G: '19'
+  AB: '78'
+  R: '11'
+  H: '8'
+  TB: '21'
+  H2B: '3'
+  H3B: '2'
+  HR: '2'
+  SB: '1'
+  RBI: '12'
+  AVG: '.103'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Jarlett
+  nameFirst: Al
+  nameClub1: Tarboro
+  G: '14'
+  AB: '24'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '4'
+  AVG: '.083'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Imbra
+  nameFirst: John
+  nameClub1: Fayetteville
+  G: '11'
+  AB: '37'
+  R: '2'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '2'
+  AVG: '.081'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Turnage
+  nameFirst: Ronald E.
+  nameClub1: New Bern
+  G: '36'
+  AB: '56'
+  R: '2'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '1'
+  RBI: '1'
+  AVG: '.071'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Baxter
+  nameFirst: Robert
+  nameClub1: Kinston
+  G: '17'
+  AB: '18'
+  R: '4'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '0'
+  AVG: '.056'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Rotunno
+  nameFirst: Rocco
+  nameClub1: Fayetteville
+  G: '19'
+  AB: '31'
+  R: '3'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '0'
+  AVG: '.032'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pollock
+  nameFirst: Terry G.
+  nameClub1: Goldsboro
+  G: '25'
+  AB: '44'
+  R: '3'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '0'
+  AVG: '.023'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Landerfelt
+  nameFirst: Ray
+  nameClub1: New Bern
+  G: '10'
+  AB: '17'
+  R: '0'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SB: '0'
+  RBI: '0'
+  AVG: '.059'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Goyeau
+  nameFirst: Eugene
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Adams
+  nameFirst: John
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Intlekofer
+  nameFirst: John W.
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Mullarkey
+  nameFirst: Armand J.
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Shivone
+  nameFirst: Ralph
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Marini
+  nameFirst: Angelo
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hawley
+  nameFirst: Lewis
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Kivett
+  nameFirst: William E.
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Mise
+  nameFirst: Ray
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Monterse
+  nameFirst: Dominick
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Koren
+  nameFirst: Joseph
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Gudgel
+  nameFirst: Lewis
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pearson
+  nameFirst: Thomas A.
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Foster
+  nameFirst: Ralph O., Jr.
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Price
+  nameFirst: Leslie
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Langley
+  nameFirst: David
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Koehler
+  nameFirst: James
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Ciacchi
+  nameFirst: Richard
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Wilking
+  nameFirst: Ben
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Lach
+  nameFirst: Joseph, Jr.
+  nameClub1: Fayetteville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Dellinger
+  nameFirst: Francis William
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Maddox
+  nameFirst: Samuel A., Jr.
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Littell
+  nameFirst: Don E.
+  nameClub1: Greenville
+  nameClub2: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Romeo
+  nameFirst: Paul G.
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Yockman
+  nameFirst: Joseph
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Fulton
+  nameFirst: Wallace Glenn
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Peele
+  nameFirst: George Norwood
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Patchin
+  nameFirst: Clarence E.
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Knight
+  nameFirst: Charles A.
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Backner
+  nameFirst: Clinton Thomas A.
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pollok
+  nameFirst: Robert Louis
+  nameClub1: Rocky Mount
+  nameClub2: Tarboro
+  nameClub3: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Jones
+  nameFirst: Barry W.
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Finnegan
+  nameFirst: Edward Joseph
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Cupka
+  nameFirst: Francis William
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: King
+  nameFirst: Claude
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Elmor
+  nameFirst: George Boyd
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Garzarelli
+  nameFirst: Thomas
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Williams
+  nameFirst: Ralph
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Schmall
+  nameFirst: Alexander
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Byumfield
+  nameFirst: Abram A.
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Milankovich
+  nameFirst: Stanley
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Catapano
+  nameFirst: Joseph Anthony
+  nameClub1: Goldsboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Dixon
+  nameFirst: Donald K.
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Persinger
+  nameFirst: Lowmax J.
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hoots
+  nameFirst: James V.
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Horne
+  nameFirst: William
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Sepesi
+  nameFirst: Frank
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Moskal
+  nameFirst: Leonard R.
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Secciani
+  nameFirst: Mario
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Robinson
+  nameFirst: Hearn J.
+  nameClub1: Greenville
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pate
+  nameFirst: Herbert W.
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Eonta
+  nameFirst: Joe
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Napolitano
+  nameFirst: Alfred
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: LaSueur
+  nameFirst: Ernest M.
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Guill
+  nameFirst: Ervin D.
+  nameClub1: Tarboro
+  nameClub2: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Fabianich
+  nameFirst: Frank
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Clemons
+  nameFirst: R. C.
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Phillips
+  nameFirst: Buck, Jr.
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Turnage
+  nameFirst: James E.
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Fox
+  nameFirst: Norman
+  nameClub1: Kinston
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Cappold
+  nameFirst: Herbert
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Cottingham
+  nameFirst: Royce
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Aldridge
+  nameFirst: Marion Warren
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hill
+  nameFirst: Robert A.
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Heffner
+  nameFirst: Arthur
+  nameClub1: Goldsboro
+  nameClub2: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hill
+  nameFirst: Joseph C.
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Piner
+  nameFirst: Archie
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Anderson
+  nameFirst: Carl
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Stilley
+  nameFirst: Levi
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Basinalt
+  nameFirst: Joseph N.
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Trent
+  nameFirst: Edgar W.
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Jones
+  nameFirst: John P.
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Scott
+  nameFirst: Ben
+  nameClub1: New Bern
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Woods
+  nameFirst: John E.
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hayes
+  nameFirst: Gregory T.
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Edwards
+  nameFirst: J. D.
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Ward
+  nameFirst: Robert
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Davis
+  nameFirst: William J.
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Stringer
+  nameFirst: Derinton
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pace
+  nameFirst: Opie
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Wilbourne
+  nameFirst: J. E.
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Mott
+  nameFirst: Robert W.
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Denson
+  nameFirst: Robert
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Bellamy
+  nameFirst: Dave C.
+  nameClub1: Rocky Mount
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Simons
+  nameFirst: William E.
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Landay
+  nameFirst: Harry
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Pegram
+  nameFirst: George W.
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Gochenour
+  nameFirst: Ned L.
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Evans
+  nameFirst: Ralph
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: McNay
+  nameFirst: Charles L., Jr.
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Rothe
+  nameFirst: Martin W.
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hamons
+  nameFirst: Frank L.
+  nameClub1: Tarboro
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hendricks
+  nameFirst: Ed
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Coates
+  nameFirst: Glenn
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Hynes
+  nameFirst: Sherlin M.
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Harris
+  nameFirst: Charles Hilliard
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Britt
+  nameFirst: John
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Flowers
+  nameFirst: Bennett, Jr.
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Riedle
+  nameFirst: Don L.
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Wrye
+  nameFirst: Paul Kesler
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Thompson
+  nameFirst: Marvin
+  nameClub1: Wilson
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameLast: Webb
+  nameFirst: John Monk
+  nameClub1: Wilson

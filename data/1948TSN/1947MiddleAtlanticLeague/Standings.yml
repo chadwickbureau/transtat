@@ -1,0 +1,110 @@
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: regular
+  W: '76'
+  L: '46'
+  PCT: '.623'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Niagara Falls
+  phase: regular
+  W: '68'
+  L: '55'
+  PCT: '.553'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: regular
+  W: '68'
+  L: '56'
+  PCT: '.548'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: regular
+  W: '62'
+  L: '62'
+  PCT: '.500'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  phase: regular
+  W: '61'
+  L: '63'
+  PCT: '.492'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  phase: regular
+  W: '55'
+  L: '68'
+  PCT: '.447'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  phase: regular
+  W: '53'
+  L: '72'
+  PCT: '.424'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular
+  W: '52'
+  L: '73'
+  PCT: '.416'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Niagara Falls
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,116 @@
+- year: '1944'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: regular
+  W: '84'
+  L: '68'
+  PCT: '.553'
+  RANK: '1'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Newark
+  phase: regular
+  W: '85'
+  L: '69'
+  PCT: '.552'
+  RANK: '2'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '79'
+  L: '74'
+  PCT: '.516'
+  RANK: '3'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '78'
+  L: '76'
+  PCT: '.506'
+  RANK: '4'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Jersey City
+  phase: regular
+  W: '74'
+  L: '79'
+  PCT: '.484'
+  RANK: '5'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '73'
+  L: '80'
+  PCT: '.477'
+  RANK: '6'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '71'
+  L: '82'
+  PCT: '.464'
+  RANK: '7'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '68'
+  L: '84'
+  PCT: '.447'
+  RANK: '8'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Newark
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1944'
+  nameLeague: International League
+  nameClub: Newark
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

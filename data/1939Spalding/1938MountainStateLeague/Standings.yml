@@ -1,0 +1,94 @@
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Logan
+  phase: regular
+  W: '72'
+  L: '46'
+  PCT: '.610'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Beckley
+  phase: regular
+  W: '61'
+  L: '52'
+  PCT: '.540'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Williamson
+  phase: regular
+  W: '58'
+  L: '60'
+  PCT: '.492'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Welch
+  phase: regular
+  W: '56'
+  L: '64'
+  PCT: '.467'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Bluefield
+  phase: regular
+  W: '55'
+  L: '64'
+  PCT: '.462'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Huntington
+  phase: regular
+  W: '50'
+  L: '66'
+  PCT: '.431'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Logan
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Williamson
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Beckley
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Welch
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Beckley
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Logan
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

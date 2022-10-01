@@ -1,0 +1,80 @@
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  G: '319'
+  DP: '150'
+  PB: '30'
+  PO: '3283'
+  A: '1387'
+  E: '226'
+  PCT: '.953'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  G: '139'
+  DP: '138'
+  PB: '29'
+  PO: '3559'
+  A: '1257'
+  E: '255'
+  PCT: '.950'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  G: '139'
+  DP: '135'
+  PB: '15'
+  PO: '3491'
+  A: '1294'
+  E: '266'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  G: '140'
+  DP: '167'
+  PB: '24'
+  PO: '3557'
+  A: '1552'
+  E: '293'
+  PCT: '.946'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  G: '140'
+  DP: '123'
+  PB: '22'
+  PO: '3408'
+  A: '1542'
+  E: '284'
+  PCT: '.946'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  G: '138'
+  DP: '114'
+  PB: '36'
+  PO: '3379'
+  A: '1444'
+  E: '279'
+  PCT: '.945'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lamesa
+  G: '138'
+  DP: '151'
+  PB: '23'
+  PO: '3153'
+  A: '1580'
+  E: '295'
+  PCT: '.941'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  G: '139'
+  DP: '150'
+  PB: '25'
+  PO: '3467'
+  A: '1379'
+  E: '365'
+  PCT: '.930'

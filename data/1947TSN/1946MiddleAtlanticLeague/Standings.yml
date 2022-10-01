@@ -1,0 +1,94 @@
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: regular
+  W: '91'
+  L: '39'
+  PCT: '.700'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: regular
+  W: '78'
+  L: '52'
+  PCT: '.600'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  phase: regular
+  W: '67'
+  L: '62'
+  PCT: '.519'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Niagara Falls
+  phase: regular
+  W: '64'
+  L: '66'
+  PCT: '.492'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular
+  W: '49'
+  L: '80'
+  PCT: '.388'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  phase: regular
+  W: '40'
+  L: '90'
+  PCT: '.308'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Niagara Falls
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Niagara Falls
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

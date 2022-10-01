@@ -1,0 +1,88 @@
+- year: '1937'
+  nameLeague: American Association
+  nameClub: St. Paul
+  G: '156'
+  DP: '135'
+  PB: '6'
+  PO: '4073'
+  A: '1770'
+  E: '160'
+  PCT: '.973'
+  TP: '1'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Kansas City
+  G: '156'
+  DP: '133'
+  PB: '21'
+  PO: '4064'
+  A: '1835'
+  E: '189'
+  PCT: '.971'
+  TP: '0'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  G: '156'
+  DP: '149'
+  PB: '28'
+  PO: '4112'
+  A: '1829'
+  E: '188'
+  PCT: '.969'
+  TP: '0'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Toledo
+  G: '154'
+  DP: '165'
+  PB: '6'
+  PO: '4072'
+  A: '1902'
+  E: '204'
+  PCT: '.967'
+  TP: '1'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  G: '158'
+  DP: '151'
+  PB: '16'
+  PO: '4152'
+  A: '1905'
+  E: '210'
+  PCT: '.966'
+  TP: '0'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Columbus
+  G: '154'
+  DP: '161'
+  PB: '26'
+  PO: '4079'
+  A: '1694'
+  E: '212'
+  PCT: '.965'
+  TP: '0'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Louisville
+  G: '157'
+  DP: '139'
+  PB: '7'
+  PO: '4067'
+  A: '1707'
+  E: '237'
+  PCT: '.961'
+  TP: '0'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  G: '157'
+  DP: '112'
+  PB: '10'
+  PO: '4077'
+  A: '1775'
+  E: '245'
+  PCT: '.960'
+  TP: '0'

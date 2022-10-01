@@ -1,0 +1,72 @@
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular
+  W: '98'
+  L: '56'
+  T: '0'
+  PCT: '.636'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Amarillo
+  phase: regular
+  W: '97'
+  L: '57'
+  T: '0'
+  PCT: '.630'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Topeka
+  phase: regular
+  W: '87'
+  L: '64'
+  T: '0'
+  PCT: '.576'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular
+  W: '71'
+  L: '82'
+  T: '0'
+  PCT: '.464'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: regular
+  W: '68'
+  L: '86'
+  T: '0'
+  PCT: '.442'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Albuquerque
+  phase: regular
+  W: '66'
+  L: '88'
+  T: '0'
+  PCT: '.429'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular
+  W: '66'
+  L: '88'
+  T: '1'
+  PCT: '.429'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular
+  W: '60'
+  L: '92'
+  T: '1'
+  PCT: '.395'
+  RANK: '8'

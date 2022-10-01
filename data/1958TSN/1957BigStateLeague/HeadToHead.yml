@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Victoria
+  Corpus Christi: '18'
+  Beaumont: '21'
+  Abilene: '18'
+  Port Arthur/Temple: '12'
+  Wichita Falls: '6'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  Victoria: '14'
+  Beaumont: '15'
+  Abilene: '15'
+  Port Arthur/Temple: '18'
+  Wichita Falls: '7'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Beaumont
+  Victoria: '10'
+  Corpus Christi: '16'
+  Abilene: '20'
+  Port Arthur/Temple: '11'
+  Wichita Falls: '4'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Abilene
+  Victoria: '12'
+  Corpus Christi: '15'
+  Beaumont: '13'
+  Port Arthur/Temple: '14'
+  Wichita Falls: '7'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Port Arthur/Temple
+  Victoria: '12'
+  Corpus Christi: '7'
+  Beaumont: '14'
+  Abilene: '13'
+  Wichita Falls: '2'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  Victoria: '1'
+  Corpus Christi: '2'
+  Beaumont: '0'
+  Abilene: '0'
+  Port Arthur/Temple: '1'

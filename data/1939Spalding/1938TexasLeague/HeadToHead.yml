@@ -1,0 +1,80 @@
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  San Antonio: '14'
+  Oklahoma City: '12'
+  Tulsa: '13'
+  Houston: '15'
+  Shreveport: '14'
+  Dallas: '16'
+  Fort Worth: '15'
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  Beaumont: '9'
+  Oklahoma City: '9'
+  Tulsa: '14'
+  Houston: '9'
+  Shreveport: '17'
+  Dallas: '17'
+  Fort Worth: '18'
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  Beaumont: '9'
+  San Antonio: '14'
+  Tulsa: '13'
+  Houston: '10'
+  Shreveport: '12'
+  Dallas: '14'
+  Fort Worth: '17'
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  Beaumont: '10'
+  San Antonio: '9'
+  Oklahoma City: '10'
+  Houston: '13'
+  Shreveport: '16'
+  Dallas: '15'
+  Fort Worth: '13'
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: Houston
+  Beaumont: '5'
+  San Antonio: '14'
+  Oklahoma City: '13'
+  Tulsa: '10'
+  Shreveport: '12'
+  Dallas: '10'
+  Fort Worth: '10'
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  Beaumont: '9'
+  San Antonio: '5'
+  Oklahoma City: '11'
+  Tulsa: '7'
+  Houston: '11'
+  Dallas: '16'
+  Fort Worth: '10'
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: Dallas
+  Beaumont: '7'
+  San Antonio: '6'
+  Oklahoma City: '9'
+  Tulsa: '8'
+  Houston: '13'
+  Shreveport: '6'
+  Fort Worth: '16'
+- year: '1938'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  Beaumont: '8'
+  San Antonio: '5'
+  Oklahoma City: '6'
+  Tulsa: '10'
+  Houston: '13'
+  Shreveport: '13'
+  Dallas: '6'

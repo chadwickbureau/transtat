@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: Dallas
+  Tulsa: '11'
+  Fort Worth: '13'
+  Oklahoma City: '13'
+  Shreveport: '13'
+  Houston: '12'
+  San Antonio: '12'
+  Beaumont: '14'
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  Dallas: '11'
+  Fort Worth: '11'
+  Oklahoma City: '11'
+  Shreveport: '15'
+  Houston: '12'
+  San Antonio: '13'
+  Beaumont: '10'
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  Dallas: '9'
+  Tulsa: '11'
+  Oklahoma City: '11'
+  Shreveport: '10'
+  Houston: '13'
+  San Antonio: '13'
+  Beaumont: '15'
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  Dallas: '9'
+  Tulsa: '11'
+  Fort Worth: '11'
+  Shreveport: '12'
+  Houston: '11'
+  San Antonio: '12'
+  Beaumont: '14'
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  Dallas: '9'
+  Tulsa: '7'
+  Fort Worth: '12'
+  Oklahoma City: '10'
+  Houston: '15'
+  San Antonio: '14'
+  Beaumont: '12'
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: Houston
+  Dallas: '10'
+  Tulsa: '10'
+  Fort Worth: '9'
+  Oklahoma City: '11'
+  Shreveport: '7'
+  San Antonio: '13'
+  Beaumont: '12'
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  Dallas: '10'
+  Tulsa: '9'
+  Fort Worth: '9'
+  Oklahoma City: '10'
+  Shreveport: '8'
+  Houston: '9'
+  Beaumont: '12'
+- year: '1953'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  Dallas: '8'
+  Tulsa: '12'
+  Fort Worth: '7'
+  Oklahoma City: '8'
+  Shreveport: '10'
+  Houston: '10'
+  San Antonio: '10'

@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '95'
+  L: '45'
+  T: '0'
+  PCT: '.679'
+  RANK: '1'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '2'
+- year: '1947'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '2'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: regular
+  W: '73'
+  L: '67'
+  T: '0'
+  PCT: '.521'
+  RANK: '4'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: regular
+  W: '58'
+  L: '82'
+  T: '0'
+  PCT: '.414'
+  RANK: '6'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '58'
+  L: '82'
+  T: '0'
+  PCT: '.414'
+  RANK: '6'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '52'
+  L: '88'
+  T: '0'
+  PCT: '.371'
+  RANK: '8'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

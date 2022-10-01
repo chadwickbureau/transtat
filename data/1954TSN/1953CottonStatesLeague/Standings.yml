@@ -1,0 +1,132 @@
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Meridian
+  phase: regular
+  W: '79'
+  L: '46'
+  T: '1'
+  PCT: '.632'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: regular
+  W: '67'
+  L: '59'
+  T: '0'
+  PCT: '.532'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  phase: regular
+  W: '65'
+  L: '60'
+  T: '1'
+  PCT: '.520'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Jackson
+  phase: regular
+  W: '63'
+  L: '61'
+  T: '0'
+  PCT: '.508'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: regular
+  W: '63'
+  L: '61'
+  T: '0'
+  PCT: '.508'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: regular
+  W: '63'
+  L: '62'
+  T: '0'
+  PCT: '.504'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  phase: regular
+  W: '50'
+  L: '75'
+  T: '0'
+  PCT: '.400'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Monroe
+  phase: regular
+  W: '50'
+  L: '76'
+  T: '0'
+  PCT: '.397'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Jackson
+  phase: quarterfinal
+  W: '1'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: quarterfinal
+  W: '0'
+  L: '1'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Meridian
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Jackson
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Meridian
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

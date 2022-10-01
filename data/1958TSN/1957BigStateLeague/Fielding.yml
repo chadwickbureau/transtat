@@ -1,0 +1,1834 @@
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Carpenter
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '121'
+  PO: '1001'
+  A: '60'
+  E: '10'
+  DP: '111'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Given
+  nameClub1: Victoria
+  Pos: 1B
+  G: '71'
+  PO: '508'
+  A: '51'
+  E: '5'
+  DP: '57'
+  PCT: '.991'
+  TP: '1'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Vander Velde
+  nameClub1: Victoria
+  Pos: 1B
+  G: '50'
+  PO: '390'
+  A: '24'
+  E: '6'
+  DP: '33'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Shea
+  nameClub1: Abilene
+  Pos: 1B
+  G: '100'
+  PO: '826'
+  A: '44'
+  E: '14'
+  DP: '70'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Washington
+  nameClub1: Beaumont
+  throws: L
+  Pos: 1B
+  G: '121'
+  PO: '1085'
+  A: '75'
+  E: '23'
+  DP: '89'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Ferrante
+  nameClub1: Wichita Falls
+  Pos: 1B
+  G: '18'
+  PO: '131'
+  A: '23'
+  E: '3'
+  DP: '18'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Thomas
+  nameClub1: Port Arthur/Temple
+  throws: L
+  Pos: 1B
+  G: '16'
+  PO: '139'
+  A: '14'
+  E: '3'
+  DP: '19'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Newkirk
+  nameClub1: Port Arthur/Temple
+  throws: L
+  Pos: 1B
+  G: '86'
+  PO: '684'
+  A: '42'
+  E: '17'
+  DP: '72'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Brathwaite
+  nameClub1: Abilene
+  Pos: 1B
+  G: '26'
+  PO: '215'
+  A: '18'
+  E: '7'
+  DP: '13'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Peterson
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '11'
+  PO: '31'
+  A: '2'
+  E: '1'
+  DP: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Santomauro
+  nameClub1: Wichita Falls
+  Pos: 1B
+  G: '10'
+  PO: '83'
+  A: '6'
+  E: '4'
+  DP: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Wilkinson
+  nameClub1: Wichita Falls
+  nameClub2: Corpus Christi
+  Pos: 2B
+  G: '11'
+  PO: '25'
+  A: '27'
+  E: '0'
+  DP: '9'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Valdes
+  nameClub1: Port Arthur/Temple
+  Pos: 2B
+  G: '25'
+  PO: '42'
+  A: '55'
+  E: '2'
+  DP: '15'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Basgall
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '22'
+  PO: '55'
+  A: '52'
+  E: '3'
+  DP: '15'
+  PCT: '.973'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Domenichelli
+  nameClub1: Victoria
+  Pos: 2B
+  G: '110'
+  PO: '259'
+  A: '266'
+  E: '17'
+  DP: '70'
+  PCT: '.969'
+  TP: '1'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Boak
+  nameClub1: Abilene
+  Pos: 2B
+  G: '110'
+  PO: '273'
+  A: '296'
+  E: '20'
+  DP: '66'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: McDaniel
+  nameClub1: Port Arthur/Temple
+  Pos: 2B
+  G: '51'
+  PO: '118'
+  A: '155'
+  E: '10'
+  DP: '50'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Pace
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '11'
+  PO: '32'
+  A: '21'
+  E: '2'
+  DP: '4'
+  PCT: '.964'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Robertson
+  nameClub1: Victoria
+  Pos: 2B
+  G: '10'
+  PO: '15'
+  A: '10'
+  E: '1'
+  DP: '5'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Thomas
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '20'
+  PO: '52'
+  A: '46'
+  E: '4'
+  DP: '13'
+  PCT: '.961'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Cato
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '50'
+  PO: '117'
+  A: '121'
+  E: '10'
+  DP: '54'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Patriss
+  nameClub1: Port Arthur/Temple
+  Pos: 2B
+  G: '22'
+  PO: '45'
+  A: '66'
+  E: '5'
+  DP: '12'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Bragan
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '33'
+  PO: '86'
+  A: '76'
+  E: '9'
+  DP: '11'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Venditelli
+  nameClub1: Abilene
+  Pos: 2B
+  G: '15'
+  PO: '43'
+  A: '41'
+  E: '5'
+  DP: '11'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: White
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '61'
+  PO: '165'
+  A: '173'
+  E: '21'
+  DP: '38'
+  PCT: '.942'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Enders
+  nameClub1: Wichita Falls
+  Pos: 2B
+  G: '16'
+  PO: '56'
+  A: '42'
+  E: '7'
+  DP: '17'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Beeler
+  nameClub1: Wichita Falls
+  nameClub2: Corpus Christi
+  Pos: 2B
+  G: '32'
+  PO: '60'
+  A: '78'
+  E: '10'
+  DP: '14'
+  PCT: '.932'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Russell
+  nameClub1: Wichita Falls
+  Pos: 3B
+  G: '13'
+  PO: '14'
+  A: '27'
+  E: '2'
+  DP: '0'
+  PCT: '.953'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Wilkinson
+  nameClub1: Wichita Falls
+  nameClub2: Corpus Christi
+  Pos: 3B
+  G: '80'
+  PO: '65'
+  A: '149'
+  E: '15'
+  DP: '19'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Marcano
+  nameClub1: Port Arthur/Temple
+  Pos: 3B
+  G: '16'
+  PO: '12'
+  A: '20'
+  E: '3'
+  DP: '1'
+  PCT: '.914'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Brathwaite
+  nameClub1: Abilene
+  Pos: 3B
+  G: '92'
+  PO: '103'
+  A: '182'
+  E: '27'
+  DP: '16'
+  PCT: '.913'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Robertson
+  nameClub1: Victoria
+  Pos: 3B
+  G: '91'
+  PO: '95'
+  A: '131'
+  E: '22'
+  DP: '10'
+  PCT: '.911'
+  TP: '1'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Simpson
+  nameClub1: Wichita Falls
+  nameClub2: Corpus Christi
+  Pos: 3B
+  G: '15'
+  PO: '18'
+  A: '33'
+  E: '4'
+  DP: '2'
+  PCT: '.907'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Patriss
+  nameClub1: Port Arthur/Temple
+  Pos: 3B
+  G: '47'
+  PO: '58'
+  A: '93'
+  E: '18'
+  DP: '14'
+  PCT: '.893'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Della Velle
+  nameClub1: Abilene
+  Pos: 3B
+  G: '26'
+  PO: '27'
+  A: '37'
+  E: '8'
+  DP: '7'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Bossard
+  nameClub1: Port Arthur/Temple
+  Pos: 3B
+  G: '41'
+  PO: '35'
+  A: '85'
+  E: '16'
+  DP: '6'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Yanchura
+  nameClub1: Wichita Falls
+  Pos: 3B
+  G: '11'
+  PO: '11'
+  A: '19'
+  E: '4'
+  DP: '2'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Brodsky
+  nameClub1: Victoria
+  Pos: 3B
+  G: '31'
+  PO: '27'
+  A: '54'
+  E: '11'
+  DP: '2'
+  PCT: '.880'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Fackler
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '106'
+  PO: '93'
+  A: '202'
+  E: '41'
+  DP: '16'
+  PCT: '.878'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Cato
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '16'
+  PO: '13'
+  A: '26'
+  E: '6'
+  DP: '3'
+  PCT: '.867'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Terry
+  nameClub1: Port Arthur/Temple
+  Pos: SS
+  G: '101'
+  PO: '142'
+  A: '303'
+  E: '16'
+  DP: '71'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Flory
+  nameClub1: Corpus Christi
+  Pos: SS
+  G: '81'
+  PO: '171'
+  A: '237'
+  E: '17'
+  DP: '41'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Domenichelli
+  nameClub1: Victoria
+  Pos: SS
+  G: '15'
+  PO: '13'
+  A: '25'
+  E: '2'
+  DP: '4'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Valentin
+  nameClub1: Abilene
+  Pos: SS
+  G: '126'
+  PO: '217'
+  A: '355'
+  E: '32'
+  DP: '63'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Sanchez
+  nameClub1: Beaumont
+  Pos: SS
+  G: '58'
+  PO: '94'
+  A: '167'
+  E: '18'
+  DP: '25'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Yanchura
+  nameClub1: Wichita Falls
+  Pos: SS
+  G: '14'
+  PO: '23'
+  A: '34'
+  E: '4'
+  DP: '7'
+  PCT: '.934'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Hughes
+  nameClub1: Corpus Christi
+  Pos: SS
+  G: '44'
+  PO: '68'
+  A: '121'
+  E: '16'
+  DP: '24'
+  PCT: '.922'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Wilkinson
+  nameClub1: Wichita Falls
+  nameClub2: Corpus Christi
+  Pos: SS
+  G: '15'
+  PO: '19'
+  A: '43'
+  E: '6'
+  DP: '9'
+  PCT: '.912'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Reasonover
+  nameClub1: Victoria
+  Pos: SS
+  G: '68'
+  PO: '111'
+  A: '181'
+  E: '29'
+  DP: '47'
+  PCT: '.910'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: White
+  nameClub1: Beaumont
+  Pos: SS
+  G: '51'
+  PO: '105'
+  A: '175'
+  E: '28'
+  DP: '21'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Dieppa
+  nameClub1: Victoria
+  Pos: SS
+  G: '44'
+  PO: '70'
+  A: '99'
+  E: '19'
+  DP: '24'
+  PCT: '.899'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Salerno
+  nameClub1: Victoria
+  Pos: OF
+  G: '44'
+  PO: '95'
+  A: '7'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Browning
+  nameClub1: Wichita Falls
+  Pos: OF
+  G: '30'
+  PO: '75'
+  A: '5'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Ellison
+  nameClub1: Port Arthur/Temple
+  Pos: OF
+  G: '19'
+  PO: '38'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Emaar
+  nameClub1: Beaumont
+  Pos: OF
+  G: '15'
+  PO: '33'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Lynn
+  nameClub1: Wichita Falls
+  Pos: OF
+  G: '11'
+  PO: '30'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Williams
+  nameFirst: F.
+  nameClub1: Beaumont
+  Pos: OF
+  G: '11'
+  PO: '12'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Olson
+  nameClub1: Victoria
+  Pos: OF
+  G: '57'
+  PO: '100'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Bossard
+  nameClub1: Port Arthur/Temple
+  Pos: OF
+  G: '58'
+  PO: '99'
+  A: '13'
+  E: '2'
+  DP: '5'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Howard
+  nameClub1: Port Arthur/Temple
+  Pos: OF
+  G: '38'
+  PO: '51'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: St. Clair
+  nameClub1: Port Arthur/Temple
+  throws: L
+  Pos: OF
+  G: '68'
+  PO: '186'
+  A: '6'
+  E: '4'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Coombs
+  nameClub1: Victoria
+  throws: L
+  Pos: OF
+  G: '21'
+  PO: '44'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Thomas
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '21'
+  PO: '31'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Peeples
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '122'
+  PO: '329'
+  A: '23'
+  E: '12'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Posada
+  nameClub1: Abilene
+  Pos: OF
+  G: '46'
+  PO: '78'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Long
+  nameClub1: Beaumont
+  Pos: OF
+  G: '54'
+  PO: '153'
+  A: '10'
+  E: '6'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Williams
+  nameFirst: H.
+  nameClub1: Beaumont
+  Pos: OF
+  G: '91'
+  PO: '171'
+  A: '13'
+  E: '7'
+  DP: '6'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Secrest
+  nameClub1: Abilene
+  Pos: OF
+  G: '127'
+  PO: '293'
+  A: '19'
+  E: '14'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Rosania
+  nameClub1: Beaumont
+  Pos: OF
+  G: '84'
+  PO: '172'
+  A: '7'
+  E: '8'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Santomauro
+  nameClub1: Wichita Falls
+  Pos: OF
+  G: '19'
+  PO: '83'
+  A: '6'
+  E: '4'
+  DP: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Sancimino
+  nameClub1: Victoria
+  Pos: OF
+  G: '14'
+  PO: '19'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Simpson
+  nameClub1: Wichita Falls
+  nameClub2: Corpus Christi
+  Pos: OF
+  G: '32'
+  PO: '38'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.956'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Buheller
+  nameClub1: Beaumont
+  Pos: OF
+  G: '91'
+  PO: '144'
+  A: '13'
+  E: '8'
+  DP: '6'
+  PCT: '.952'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Knight
+  nameClub1: Abilene
+  Pos: OF
+  G: '78'
+  PO: '126'
+  A: '10'
+  E: '7'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Brodsky
+  nameClub1: Victoria
+  Pos: OF
+  G: '13'
+  PO: '14'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Escobar
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: OF
+  G: '29'
+  PO: '48'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Peterson
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: OF
+  G: '118'
+  PO: '158'
+  A: '13'
+  E: '10'
+  DP: '4'
+  PCT: '.945'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Scott
+  nameClub1: Abilene
+  Pos: OF
+  G: '98'
+  PO: '147'
+  A: '11'
+  E: '10'
+  DP: '3'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Jeffers
+  nameClub1: Victoria
+  Pos: OF
+  G: '62'
+  PO: '159'
+  A: '6'
+  E: '11'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Miles
+  nameClub1: Victoria
+  Pos: OF
+  G: '121'
+  PO: '185'
+  A: '11'
+  E: '15'
+  DP: '4'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Wyre
+  nameClub1: Beaumont
+  nameClub2: Port Arthur/Temple
+  Pos: OF
+  G: '60'
+  PO: '69'
+  A: '9'
+  E: '6'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Fregin
+  nameClub1: Port Arthur/Temple
+  Pos: OF
+  G: '29'
+  PO: '37'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Beeler
+  nameClub1: Wichita Falls
+  nameClub2: Corpus Christi
+  Pos: OF
+  G: '31'
+  PO: '21'
+  A: '8'
+  E: '4'
+  DP: '0'
+  PCT: '.907'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Miller
+  nameClub1: Port Arthur/Temple
+  throws: L
+  Pos: OF
+  G: '22'
+  PO: '29'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Scercy
+  nameClub1: Abilene
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Howser
+  nameClub1: Port Arthur/Temple
+  Pos: OF
+  G: '48'
+  PO: '87'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.847'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Mills
+  nameClub1: Abilene
+  Pos: OF
+  G: '27'
+  PO: '39'
+  A: '7'
+  E: '9'
+  DP: '2'
+  PCT: '.836'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Robertson
+  nameClub1: Victoria
+  Pos: OF
+  G: '12'
+  PO: '10'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Whitworth
+  nameClub1: Abilene
+  Pos: C
+  G: '18'
+  PO: '124'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PB: '4'
+  PCT: '.993'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Zavattaro
+  nameClub1: Beaumont
+  Pos: C
+  G: '29'
+  PO: '187'
+  A: '22'
+  E: '2'
+  DP: '4'
+  PB: '5'
+  PCT: '.991'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Faucett
+  nameClub1: Victoria
+  Pos: C
+  G: '38'
+  PO: '283'
+  A: '19'
+  E: '3'
+  DP: '0'
+  PB: '4'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Schmidt
+  nameClub1: Port Arthur/Temple
+  Pos: C
+  G: '39'
+  PO: '258'
+  A: '19'
+  E: '3'
+  DP: '4'
+  PB: '2'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Gatta
+  nameClub1: Victoria
+  Pos: C
+  G: '40'
+  PO: '302'
+  A: '26'
+  E: '4'
+  DP: '3'
+  PB: '3'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Miller
+  nameClub1: Victoria
+  Pos: C
+  G: '14'
+  PO: '73'
+  A: '11'
+  E: '1'
+  DP: '2'
+  PB: '6'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Beck
+  nameClub1: Wichita Falls
+  Pos: C
+  G: '22'
+  PO: '130'
+  A: '13'
+  E: '2'
+  DP: '2'
+  PB: '6'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Thomas
+  nameClub1: Abilene
+  Pos: C
+  G: '49'
+  PO: '315'
+  A: '37'
+  E: '8'
+  DP: '6'
+  PB: '12'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Henry
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '118'
+  PO: '754'
+  A: '70'
+  E: '19'
+  DP: '8'
+  PB: '20'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Fregin
+  nameClub1: Port Arthur/Temple
+  Pos: C
+  G: '44'
+  PO: '231'
+  A: '21'
+  E: '6'
+  DP: '0'
+  PB: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Gonder
+  nameClub1: Port Arthur/Temple
+  Pos: C
+  G: '24'
+  PO: '190'
+  A: '8'
+  E: '5'
+  DP: '1'
+  PB: '7'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Buheller
+  nameClub1: Beaumont
+  Pos: C
+  G: '12'
+  PO: '54'
+  A: '21'
+  E: '2'
+  DP: '0'
+  PB: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Werry
+  nameClub1: Victoria
+  Pos: C
+  G: '29'
+  PO: '208'
+  A: '18'
+  E: '6'
+  DP: '2'
+  PB: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Canuso
+  nameClub1: Beaumont
+  Pos: C
+  G: '21'
+  PO: '99'
+  A: '11'
+  E: '4'
+  DP: '2'
+  PB: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Mills
+  nameClub1: Abilene
+  Pos: C
+  G: '62'
+  PO: '370'
+  A: '40'
+  E: '16'
+  DP: '3'
+  PB: '14'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Jamieson
+  nameClub1: Beaumont
+  Pos: C
+  G: '58'
+  PO: '347'
+  A: '27'
+  E: '21'
+  DP: '4'
+  PB: '9'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Tewksbury
+  nameClub1: Port Arthur/Temple
+  Pos: C
+  G: '13'
+  PO: '82'
+  A: '8'
+  E: '5'
+  DP: '0'
+  PB: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Toth
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '27'
+  PO: '8'
+  A: '16'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Salgado
+  nameClub1: Beaumont
+  Pos: P
+  G: '20'
+  PO: '6'
+  A: '21'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Silcott
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '20'
+  PO: '8'
+  A: '16'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Baliga
+  nameClub1: Victoria
+  Pos: P
+  G: '18'
+  PO: '13'
+  A: '30'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Welage
+  nameClub1: Port Arthur/Temple
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Hunter
+  nameClub1: Victoria
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '24'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Kunert
+  nameClub1: Beaumont
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '15'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Douglas
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '9'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Arendt
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '12'
+  PO: '13'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Lewis
+  nameClub1: Victoria
+  Pos: P
+  G: '10'
+  PO: '5'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Nicolosi
+  nameClub1: Victoria
+  Pos: P
+  G: '40'
+  PO: '13'
+  A: '31'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Bober
+  nameClub1: Abilene
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '8'
+  A: '34'
+  E: '1'
+  DP: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Wickersham
+  nameClub1: Beaumont
+  Pos: P
+  G: '31'
+  PO: '16'
+  A: '54'
+  E: '2'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Jones
+  nameClub1: Port Arthur/Temple
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '22'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Horvatin
+  nameClub1: Abilene
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '18'
+  E: '1'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Kambour
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '8'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Hurst
+  nameClub1: Beaumont
+  Pos: P
+  G: '20'
+  PO: '9'
+  A: '15'
+  E: '1'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Kowalski
+  nameClub1: Abilene
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Stanton
+  nameClub1: Beaumont
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Schmidt
+  nameClub1: Abilene
+  Pos: P
+  G: '36'
+  PO: '2'
+  A: '26'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Miro
+  nameClub1: Beaumont
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '23'
+  E: '2'
+  DP: '4'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Guie
+  nameClub1: Abilene
+  Pos: P
+  G: '12'
+  PO: '5'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Muniz
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '28'
+  E: '3'
+  DP: '3'
+  PCT: '.930'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Greenlaw
+  nameClub1: Port Arthur/Temple
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '8'
+  A: '31'
+  E: '3'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Sanner
+  nameClub1: Port Arthur/Temple
+  nameClub2: Victoria
+  Pos: P
+  G: '24'
+  PO: '13'
+  A: '27'
+  E: '4'
+  DP: '6'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Killeen
+  nameClub1: Abilene
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '16'
+  E: '2'
+  DP: '3'
+  PCT: '.900'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Touchberry
+  nameClub1: Port Arthur/Temple
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: McClure
+  nameClub1: Beaumont
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Mathis
+  nameClub1: Victoria
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Dudley
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '46'
+  PO: '9'
+  A: '21'
+  E: '4'
+  DP: '4'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Oquendo
+  nameClub1: Victoria
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '21'
+  E: '4'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Brown
+  nameClub1: Beaumont
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Moorehead
+  nameClub1: Port Arthur/Temple
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '11'
+  E: '2'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Aylmer
+  nameClub1: Abilene
+  Pos: P
+  G: '41'
+  PO: '5'
+  A: '23'
+  E: '4'
+  DP: '3'
+  PCT: '.875'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Boxer
+  nameClub1: Abilene
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Mills
+  nameClub1: Port Arthur/Temple
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '27'
+  E: '5'
+  DP: '2'
+  PCT: '.868'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Kuykendall
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '24'
+  E: '5'
+  DP: '2'
+  PCT: '.853'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: McNulty
+  nameClub1: Abilene
+  Pos: P
+  G: '37'
+  PO: '9'
+  A: '24'
+  E: '6'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Sedlak
+  nameClub1: Victoria
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '11'
+  E: '3'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Bumgardner
+  nameClub1: Wichita Falls
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Higginbottom
+  nameClub1: Port Arthur/Temple
+  throws: L
+  Pos: P
+  G: '40'
+  PO: '3'
+  A: '26'
+  E: '6'
+  DP: '0'
+  PCT: '.829'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Donnelly
+  nameClub1: Beaumont
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PCT: '.818'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Hribar
+  nameClub1: Victoria
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameLast: Mazzamorra
+  nameClub1: Abilene
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'

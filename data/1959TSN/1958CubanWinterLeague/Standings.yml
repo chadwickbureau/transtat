@@ -1,0 +1,32 @@
+- year: '1958'
+  nameLeague: Cuban Winter League
+  nameClub: Almendares
+  phase: regular
+  W: '46'
+  L: '26'
+  PCT: '.639'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Cuban Winter League
+  nameClub: Marianao
+  phase: regular
+  W: '38'
+  L: '34'
+  PCT: '.528'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Cuban Winter League
+  nameClub: Cienfuegos
+  phase: regular
+  W: '31'
+  L: '41'
+  PCT: '.431'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Cuban Winter League
+  nameClub: Havana
+  phase: regular
+  W: '29'
+  L: '43'
+  PCT: '.403'
+  RANK: '4'

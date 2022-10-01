@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  G: '141'
+  PO: '3681'
+  A: '1552'
+  E: '206'
+  DP: '98'
+  TP: '1'
+  PB: '18'
+  PCT: '.962'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Greenville
+  G: '138'
+  PO: '3566'
+  A: '1548'
+  E: '209'
+  DP: '99'
+  TP: '0'
+  PB: '25'
+  PCT: '.961'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Jacksonville
+  G: '139'
+  PO: '3555'
+  A: '1566'
+  E: '234'
+  DP: '103'
+  TP: '1'
+  PB: '26'
+  PCT: '.956'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  G: '139'
+  PO: '3604'
+  A: '1592'
+  E: '259'
+  DP: '115'
+  TP: '2'
+  PB: '25'
+  PCT: '.953'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Paris
+  G: '140'
+  PO: '3648'
+  A: '1583'
+  E: '258'
+  DP: '134'
+  TP: '0'
+  PB: '22'
+  PCT: '.953'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Sherman
+  G: '140'
+  PO: '3610'
+  A: '1560'
+  E: '278'
+  DP: '106'
+  TP: '0'
+  PB: '10'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Texarkana
+  G: '139'
+  PO: '3579'
+  A: '1514'
+  E: '277'
+  DP: '115'
+  TP: '0'
+  PB: '18'
+  PCT: '.948'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Lufkin
+  G: '140'
+  PO: '3517'
+  A: '1468'
+  E: '297'
+  DP: '113'
+  TP: '1'
+  PB: '27'
+  PCT: '.944'

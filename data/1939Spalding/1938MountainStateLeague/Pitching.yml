@@ -1,0 +1,1168 @@
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Brinegar
+  nameClub1: Williamson
+  GP: '26'
+  W: '18'
+  L: '2'
+  PCT: '.900'
+  ERA: '4.06'
+  IP: '197'
+  AB: '891'
+  R: '113'
+  H: '233'
+  ER: '89'
+  SH: '7'
+  BB: '57'
+  HP: '2'
+  SO: '108'
+  CG: '16'
+  F_P_DP: '1'
+  F_P_PCT: '.984'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Kohler
+  nameClub1: Logan
+  throws: L
+  GP: '23'
+  W: '15'
+  L: '3'
+  PCT: '.833'
+  ERA: '2.24'
+  IP: '173'
+  AB: '673'
+  R: '52'
+  H: '105'
+  ER: '43'
+  SH: '8'
+  BB: '79'
+  HP: '3'
+  SO: '216'
+  CG: '16'
+  F_P_DP: '0'
+  F_P_PCT: '.971'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Lamanna
+  nameClub1: Huntington
+  GP: '24'
+  W: '13'
+  L: '4'
+  PCT: '.765'
+  ERA: '3.24'
+  IP: '180'
+  AB: '750'
+  R: '80'
+  H: '148'
+  ER: '65'
+  SH: '6'
+  BB: '82'
+  HP: '5'
+  SO: '160'
+  CG: '15'
+  F_P_DP: '0'
+  F_P_PCT: '.886'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Sorrell
+  nameClub1: Bluefield
+  GP: '13'
+  W: '9'
+  L: '3'
+  PCT: '.750'
+  ERA: '1.37'
+  IP: '98'
+  AB: '394'
+  R: '25'
+  H: '77'
+  ER: '15'
+  SH: '4'
+  BB: '23'
+  HP: '1'
+  SO: '72'
+  CG: '11'
+  F_P_DP: '1'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Gorszyca
+  nameClub1: Beckley
+  GP: '32'
+  W: '18'
+  L: '7'
+  PCT: '.720'
+  ERA: '3.48'
+  IP: '204'
+  AB: '894'
+  R: '95'
+  H: '175'
+  ER: '79'
+  SH: '5'
+  BB: '92'
+  HP: '12'
+  SO: '165'
+  CG: '21'
+  F_P_DP: '3'
+  F_P_PCT: '.977'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: McClure
+  nameClub1: Logan
+  GP: '21'
+  W: '12'
+  L: '5'
+  PCT: '.706'
+  ERA: '4.50'
+  IP: '162'
+  AB: '714'
+  R: '88'
+  H: '170'
+  ER: '81'
+  SH: '7'
+  BB: '65'
+  HP: '8'
+  SO: '105'
+  CG: '13'
+  F_P_DP: '1'
+  F_P_PCT: '.923'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Talbot
+  nameClub1: Welch
+  nameClub2: Bluefield
+  GP: '39'
+  W: '16'
+  L: '7'
+  PCT: '.696'
+  ERA: '4.39'
+  IP: '203'
+  AB: '952'
+  R: '139'
+  H: '221'
+  ER: '99'
+  SH: '9'
+  BB: '124'
+  HP: '16'
+  SO: '124'
+  CG: '15'
+  F_P_DP: '3'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Slone
+  nameClub1: Logan
+  GP: '26'
+  W: '14'
+  L: '7'
+  PCT: '.667'
+  ERA: '5.65'
+  IP: '188'
+  AB: '896'
+  R: '132'
+  H: '190'
+  ER: '118'
+  SH: '13'
+  BB: '142'
+  HP: '4'
+  SO: '161'
+  CG: '16'
+  F_P_DP: '1'
+  F_P_PCT: '.956'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Ford
+  nameClub1: Welch
+  throws: L
+  GP: '16'
+  W: '9'
+  L: '5'
+  PCT: '.643'
+  ERA: '3.50'
+  IP: '113'
+  AB: '506'
+  R: '52'
+  H: '107'
+  ER: '44'
+  SH: '5'
+  BB: '55'
+  HP: '4'
+  SO: '94'
+  CG: '9'
+  F_P_DP: '1'
+  F_P_PCT: '.945'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Seamster
+  nameClub1: Bluefield
+  GP: '18'
+  W: '7'
+  L: '4'
+  PCT: '.636'
+  ERA: '6.21'
+  IP: '100'
+  AB: '473'
+  R: '96'
+  H: '116'
+  ER: '69'
+  SH: '3'
+  BB: '84'
+  HP: '5'
+  SO: '84'
+  CG: '4'
+  F_P_DP: '2'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Mlinarsek
+  nameClub1: Logan
+  GP: '18'
+  W: '8'
+  L: '5'
+  PCT: '.615'
+  ERA: '4.39'
+  IP: '86'
+  AB: '374'
+  R: '52'
+  H: '83'
+  ER: '42'
+  SH: '2'
+  BB: '30'
+  HP: '3'
+  SO: '51'
+  CG: '6'
+  F_P_DP: '1'
+  F_P_PCT: '.958'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Gulacsy
+  nameClub1: Logan
+  GP: '28'
+  W: '14'
+  L: '9'
+  PCT: '.609'
+  ERA: '4.32'
+  IP: '198'
+  AB: '876'
+  R: '118'
+  H: '203'
+  ER: '95'
+  SH: '6'
+  BB: '78'
+  HP: '6'
+  SO: '96'
+  CG: '15'
+  F_P_DP: '1'
+  F_P_PCT: '.920'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Priode
+  nameClub1: Williamson
+  GP: '11'
+  W: '6'
+  L: '4'
+  PCT: '.600'
+  ERA: '4.24'
+  IP: '72'
+  AB: '306'
+  R: '44'
+  H: '65'
+  ER: '34'
+  SH: '3'
+  BB: '26'
+  HP: '2'
+  SO: '33'
+  CG: '6'
+  F_P_DP: '4'
+  F_P_PCT: '.818'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Tyner
+  nameClub1: Bluefield
+  GP: '13'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  ERA: '4.84'
+  IP: '78'
+  AB: '375'
+  R: '54'
+  H: '90'
+  ER: '42'
+  SH: '2'
+  BB: '45'
+  HP: '8'
+  SO: '26'
+  CG: '4'
+  F_P_DP: '1'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Mahon
+  nameClub1: Huntington
+  GP: '37'
+  W: '17'
+  L: '14'
+  PCT: '.548'
+  ERA: '4.06'
+  IP: '248'
+  AB: '1117'
+  R: '164'
+  H: '296'
+  ER: '112'
+  SH: '10'
+  BB: '79'
+  HP: '6'
+  SO: '119'
+  CG: '25'
+  F_P_DP: '1'
+  F_P_PCT: '.908'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hickey
+  nameFirst: J. H.
+  nameClub1: Beckley
+  GP: '17'
+  W: '6'
+  L: '5'
+  PCT: '.545'
+  ERA: '4.27'
+  IP: '101'
+  AB: '454'
+  R: '53'
+  H: '100'
+  ER: '48'
+  SH: '12'
+  BB: '59'
+  HP: '1'
+  SO: '83'
+  CG: '6'
+  F_P_DP: '1'
+  F_P_PCT: '.952'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Zachar
+  nameClub1: Beckley
+  GP: '19'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  ERA: '4.85'
+  IP: '117'
+  AB: '531'
+  R: '76'
+  H: '138'
+  ER: '63'
+  SH: '10'
+  BB: '55'
+  HP: '7'
+  SO: '74'
+  CG: '4'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Waite
+  nameClub1: Welch
+  GP: '18'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  ERA: '3.31'
+  IP: '125'
+  AB: '552'
+  R: '58'
+  H: '105'
+  ER: '46'
+  SH: '8'
+  BB: '85'
+  HP: '4'
+  SO: '106'
+  CG: '7'
+  F_P_DP: '2'
+  F_P_PCT: '.917'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Bolden
+  nameClub1: Bluefield
+  GP: '19'
+  W: '8'
+  L: '8'
+  PCT: '.500'
+  ERA: '6.03'
+  IP: '140'
+  AB: '659'
+  R: '123'
+  H: '162'
+  ER: '94'
+  SH: '9'
+  BB: '93'
+  HP: '6'
+  SO: '84'
+  CG: '12'
+  F_P_DP: '1'
+  F_P_PCT: '.945'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Krynzel
+  nameClub1: Bluefield
+  GP: '23'
+  W: '7'
+  L: '7'
+  PCT: '.500'
+  ERA: '7.11'
+  IP: '115'
+  AB: '582'
+  R: '108'
+  H: '143'
+  ER: '91'
+  SH: '10'
+  BB: '75'
+  HP: '5'
+  SO: '56'
+  CG: '6'
+  F_P_DP: '1'
+  F_P_PCT: '.893'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Musial
+  nameClub1: Williamson
+  throws: L
+  GP: '20'
+  W: '6'
+  L: '6'
+  PCT: '.500'
+  ERA: '4.66'
+  IP: '110'
+  AB: '515'
+  R: '75'
+  H: '114'
+  ER: '57'
+  SH: '6'
+  BB: '80'
+  HP: '6'
+  SO: '66'
+  CG: '7'
+  F_P_DP: '3'
+  F_P_PCT: '.829'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Barr
+  nameClub1: Beckley
+  GP: '18'
+  W: '6'
+  L: '6'
+  PCT: '.500'
+  ERA: '7.58'
+  IP: '83'
+  AB: '423'
+  R: '75'
+  H: '108'
+  ER: '70'
+  SH: '4'
+  BB: '64'
+  HP: '3'
+  SO: '65'
+  CG: '4'
+  F_P_DP: '1'
+  F_P_PCT: '.895'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Petrich
+  nameClub1: Welch
+  throws: L
+  GP: '14'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  ERA: '7.56'
+  IP: '69'
+  AB: '342'
+  R: '68'
+  H: '83'
+  ER: '58'
+  SH: '4'
+  BB: '48'
+  HP: '2'
+  SO: '56'
+  CG: '3'
+  F_P_DP: '0'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Kasik
+  nameClub1: Beckley
+  GP: '13'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  ERA: '7.20'
+  IP: '60'
+  AB: '283'
+  R: '56'
+  H: '84'
+  ER: '48'
+  SH: '7'
+  BB: '25'
+  HP: '3'
+  SO: '20'
+  CG: '1'
+  F_P_DP: '0'
+  F_P_PCT: '.842'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Zeiger
+  nameClub1: Beckley
+  GP: '36'
+  W: '10'
+  L: '12'
+  PCT: '.455'
+  ERA: '4.26'
+  IP: '190'
+  AB: '885'
+  R: '141'
+  H: '232'
+  ER: '90'
+  SH: '14'
+  BB: '88'
+  HP: '4'
+  SO: '109'
+  CG: '16'
+  F_P_DP: '1'
+  F_P_PCT: '.952'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Raymond
+  nameClub1: Williamson
+  GP: '26'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  ERA: '5.94'
+  IP: '103'
+  AB: '482'
+  R: '85'
+  H: '134'
+  ER: '68'
+  SH: '4'
+  BB: '32'
+  HP: '2'
+  SO: '64'
+  CG: '7'
+  F_P_DP: '1'
+  F_P_PCT: '.864'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Youngblood
+  nameClub1: Williamson
+  GP: '36'
+  W: '12'
+  L: '15'
+  PCT: '.444'
+  ERA: '5.67'
+  IP: '217'
+  AB: '1017'
+  R: '164'
+  H: '247'
+  ER: '137'
+  SH: '15'
+  BB: '121'
+  HP: '22'
+  SO: '105'
+  CG: '16'
+  F_P_DP: '1'
+  F_P_PCT: '.900'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Mestnik
+  nameClub1: Welch
+  GP: '39'
+  W: '11'
+  L: '15'
+  PCT: '.423'
+  ERA: '4.26'
+  IP: '194'
+  AB: '862'
+  R: '111'
+  H: '185'
+  ER: '92'
+  SH: '9'
+  BB: '106'
+  HP: '5'
+  SO: '180'
+  CG: '10'
+  F_P_DP: '0'
+  F_P_PCT: '.860'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Bowles
+  nameClub1: Bluefield
+  nameClub2: Welch
+  GP: '27'
+  W: '8'
+  L: '11'
+  PCT: '.421'
+  ERA: '5.19'
+  IP: '161'
+  AB: '774'
+  R: '125'
+  H: '201'
+  ER: '93'
+  SH: '14'
+  BB: '95'
+  HP: '4'
+  SO: '91'
+  CG: '12'
+  F_P_DP: '0'
+  F_P_PCT: '.854'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Willard
+  nameClub1: Huntington
+  nameClub2: Welch
+  GP: '27'
+  W: '8'
+  L: '13'
+  PCT: '.381'
+  ERA: '4.69'
+  IP: '159'
+  AB: '730'
+  R: '105'
+  H: '185'
+  ER: '83'
+  SH: '11'
+  BB: '58'
+  HP: '17'
+  SO: '55'
+  CG: '14'
+  F_P_DP: '4'
+  F_P_PCT: '.958'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Dalton
+  nameClub1: Logan
+  throws: L
+  GP: '11'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  ERA: '8.01'
+  IP: '55'
+  AB: '774'
+  R: '53'
+  H: '57'
+  ER: '49'
+  SH: '2'
+  BB: '57'
+  HP: '5'
+  SO: '45'
+  CG: '3'
+  F_P_DP: '0'
+  F_P_PCT: '.692'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Marock
+  nameClub1: Bluefield
+  GP: '38'
+  W: '6'
+  L: '11'
+  PCT: '.353'
+  ERA: '5.61'
+  IP: '165'
+  AB: '730'
+  R: '146'
+  H: '227'
+  ER: '103'
+  SH: '5'
+  BB: '68'
+  HP: '6'
+  SO: '85'
+  CG: '9'
+  F_P_DP: '1'
+  F_P_PCT: '.976'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Adams
+  nameClub1: Williamson
+  nameClub2: Welch
+  GP: '25'
+  W: '4'
+  L: '8'
+  PCT: '.333'
+  ERA: '6.72'
+  IP: '91'
+  AB: '431'
+  R: '79'
+  H: '115'
+  ER: '68'
+  SH: '7'
+  BB: '35'
+  HP: '6'
+  SO: '53'
+  CG: '1'
+  F_P_DP: '0'
+  F_P_PCT: '.917'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Ripley
+  nameClub1: Welch
+  GP: '21'
+  W: '4'
+  L: '8'
+  PCT: '.333'
+  ERA: '5.66'
+  IP: '105'
+  AB: '285'
+  R: '85'
+  H: '132'
+  ER: '66'
+  SH: '7'
+  BB: '63'
+  HP: '2'
+  SO: '86'
+  CG: '8'
+  F_P_DP: '1'
+  F_P_PCT: '.944'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Marshall
+  nameFirst: E.
+  nameClub1: Logan
+  GP: '21'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  ERA: '5.75'
+  IP: '83'
+  AB: '753'
+  R: '63'
+  H: '97'
+  ER: '53'
+  SH: '5'
+  BB: '46'
+  HP: '0'
+  SO: '39'
+  CG: '2'
+  F_P_DP: '0'
+  F_P_PCT: '.878'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Patterson
+  nameClub1: Huntington
+  GP: '10'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  ERA: '4.28'
+  IP: '59'
+  AB: '431'
+  R: '38'
+  H: '59'
+  ER: '28'
+  SH: '4'
+  BB: '53'
+  HP: '7'
+  SO: '42'
+  CG: '6'
+  F_P_DP: '1'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Pecjak
+  nameClub1: Beckley
+  GP: '11'
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  ERA: '7.93'
+  IP: '53'
+  AB: '267'
+  R: '54'
+  H: '70'
+  ER: '45'
+  SH: '6'
+  BB: '28'
+  HP: '5'
+  SO: '22'
+  CG: '3'
+  F_P_DP: '1'
+  F_P_PCT: '.909'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Brinkerhoff
+  nameClub1: Huntington
+  throws: L
+  GP: '10'
+  W: '1'
+  L: '6'
+  PCT: '.143'
+  ERA: '5.29'
+  IP: '51'
+  AB: '247'
+  R: '51'
+  H: '60'
+  ER: '30'
+  SH: '6'
+  BB: '40'
+  HP: '2'
+  SO: '30'
+  CG: '3'
+  F_P_DP: '0'
+  F_P_PCT: '.856'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Kisley
+  nameClub1: Bluefield
+  GP: '16'
+  W: '0'
+  L: '7'
+  PCT: '.000'
+  ERA: '7.52'
+  IP: '61'
+  AB: '317'
+  R: '60'
+  H: '83'
+  ER: '51'
+  SH: '9'
+  BB: '45'
+  HP: '1'
+  SO: '29'
+  CG: '2'
+  F_P_DP: '0'
+  F_P_PCT: '.960'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hadley
+  nameClub1: Welch
+  GP: '12'
+  W: '0'
+  L: '2'
+  PCT: '.000'
+  ERA: '7.90'
+  IP: '41'
+  AB: '183'
+  R: '42'
+  H: '49'
+  ER: '36'
+  SH: '5'
+  BB: '19'
+  HP: '1'
+  SO: '37'
+  CG: '0'
+  F_P_DP: '0'
+  F_P_PCT: '.909'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Albosta
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Bays
+  nameClub1: Bluefield
+  nameClub2: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Buttermore
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Gardela
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Karnish
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Malovic
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: McManus
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Shamrock
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Susany
+  nameClub1: Bluefield
+  nameClub2: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Vento
+  nameClub1: Beckley
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Allen
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Bazarnick
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Beavers
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Belcher
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Carson
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hall
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hope
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hutton
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Jerome
+  nameClub1: Williamson
+  nameClub2: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Mitchell
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Murphy
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Reed
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Rosemon
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Sims
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Sisler
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Tilo
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Tomlinson
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Zetuskey
+  nameClub1: Bluefield
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Balcom
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Boyd
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Cardoni
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Fautsko
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Gallis
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Gavin
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Haskins
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Howell
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Johnson
+  nameClub1: Williamson
+  nameClub2: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Lutonsky
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: McHale
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Morris
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Moskal
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Paul
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Snider
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Tupka
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Waterman
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Woodward
+  nameClub1: Huntington
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Black
+  nameClub1: Logan
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Ferens
+  nameClub1: Logan
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Guinther
+  nameClub1: Logan
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Howell
+  nameClub1: Logan
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Lang
+  nameClub1: Logan
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Solmuse
+  nameClub1: Logan
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Swan
+  nameClub1: Logan
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Bell
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Bradshaw
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Brest
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Cash
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Davis
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hoffman
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Insley
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Merver
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Solgos (Czolgoz)
+  nameClub1: Welch
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Ammerman
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Beck
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Carroll
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: DeFram
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Dowden
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Doyle
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Fingers
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Freeman
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Grissom
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hensley
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hickey
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Holcomb
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Hutt
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Price
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Snow
+  nameClub1: Williamson
+- year: '1938'
+  nameLeague: Mountain State League
+  nameLast: Tustin
+  nameClub1: Williamson

@@ -1,0 +1,100 @@
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  phase: regular
+  W: '83'
+  L: '55'
+  T: '0'
+  PCT: '.601'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Hagerstown
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '0'
+  PCT: '.593'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  phase: regular
+  W: '77'
+  L: '61'
+  T: '2'
+  PCT: '.562'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: York
+  phase: regular
+  W: '73'
+  L: '66'
+  T: '0'
+  PCT: '.525'
+  RANK: '4'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Trenton
+  phase: regular
+  W: '64'
+  L: '73'
+  T: '3'
+  PCT: '.467'
+  RANK: '5'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  phase: regular
+  W: '35'
+  L: '103'
+  T: '1'
+  PCT: '.254'
+  RANK: '6'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: York
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Hagerstown
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Interstate League
+  nameClub: York
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

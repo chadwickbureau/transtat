@@ -1,0 +1,88 @@
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Cedar Rapids
+  phase: regular/first
+  W: '47'
+  L: '18'
+  PCT: '.723'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular/first
+  W: '31'
+  L: '30'
+  PCT: '.508'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular/first
+  W: '32'
+  L: '31'
+  PCT: '.508'
+  RANK: '3'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Waterloo
+  phase: regular/first
+  W: '32'
+  L: '33'
+  PCT: '.492'
+  RANK: '4'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Davenport
+  phase: regular/first
+  W: '29'
+  L: '33'
+  PCT: '.468'
+  RANK: '5'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Rock Island
+  phase: regular/first
+  W: '20'
+  L: '46'
+  PCT: '.303'
+  RANK: '6'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Cedar Rapids
+  phase: regular/second
+  W: '31'
+  L: '20'
+  PCT: '.608'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Waterloo
+  phase: regular/second
+  W: '29'
+  L: '22'
+  PCT: '.569'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Davenport
+  phase: regular/second
+  W: '28'
+  L: '26'
+  PCT: '.519'
+  RANK: '3'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular/second
+  W: '25'
+  L: '31'
+  PCT: '.446'
+  RANK: '4'
+- year: '1937'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular/second
+  W: '19'
+  L: '33'
+  PCT: '.365'
+  RANK: '5'

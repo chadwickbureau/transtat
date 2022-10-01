@@ -1,0 +1,64 @@
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  G: '177'
+  PO: '4535'
+  A: '1894'
+  E: '194'
+  PCT: '.971'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  G: '177'
+  PO: '4530'
+  A: '2371'
+  E: '218'
+  PCT: '.969'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  G: '179'
+  PO: '4549'
+  A: '1883'
+  E: '209'
+  PCT: '.969'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  G: '178'
+  PO: '4615'
+  A: '2038'
+  E: '219'
+  PCT: '.968'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  G: '177'
+  PO: '4485'
+  A: '2007'
+  E: '216'
+  PCT: '.968'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  G: '178'
+  PO: '4804'
+  A: '2151'
+  E: '237'
+  PCT: '.967'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  G: '178'
+  PO: '4535'
+  A: '2004'
+  E: '231'
+  PCT: '.966'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Mission
+  G: '178'
+  PO: '4521'
+  A: '1961'
+  E: '243'
+  PCT: '.964'

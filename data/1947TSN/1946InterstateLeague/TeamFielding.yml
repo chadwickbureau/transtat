@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: Wilmington
+  G: '142'
+  DP: '126'
+  TP: '0'
+  PB: '11'
+  PO: '3541'
+  A: '1460'
+  E: '195'
+  PCT: '.962'
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: Harrisburg
+  G: '140'
+  DP: '134'
+  TP: '0'
+  PB: '14'
+  PO: '3530'
+  A: '1578'
+  E: '227'
+  PCT: '.957'
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: Trenton
+  G: '140'
+  DP: '98'
+  TP: '0'
+  PB: '18'
+  PO: '3487'
+  A: '1415'
+  E: '242'
+  PCT: '.953'
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: Hagerstown
+  G: '140'
+  DP: '153'
+  TP: '0'
+  PB: '6'
+  PO: '3472'
+  A: '1610'
+  E: '256'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: Sunbury
+  G: '143'
+  DP: '129'
+  TP: '0'
+  PB: '28'
+  PO: '3544'
+  A: '1531'
+  E: '260'
+  PCT: '.951'
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: York
+  G: '140'
+  DP: '107'
+  TP: '0'
+  PB: '13'
+  PO: '3471'
+  A: '1469'
+  E: '265'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: Allentown
+  G: '139'
+  DP: '118'
+  TP: '0'
+  PB: '16'
+  PO: '3455'
+  A: '1469'
+  E: '267'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: Interstate League
+  nameClub: Lancaster
+  G: '140'
+  DP: '117'
+  TP: '0'
+  PB: '15'
+  PO: '3453'
+  A: '1557'
+  E: '277'
+  PCT: '.948'

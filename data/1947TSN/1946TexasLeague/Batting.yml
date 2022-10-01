@@ -1,0 +1,6456 @@
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carr
+  nameFirst: Al
+  nameClub1: Dallas
+  bats: L
+  G: '15'
+  AB: '56'
+  R: '11'
+  H: '23'
+  TB: '29'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '4'
+  SO: '4'
+  GDP: '1'
+  CS: '0'
+  AVG: '.411'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mitchell
+  nameFirst: L. Dale
+  nameClub1: Oklahoma City
+  bats: L
+  G: '108'
+  AB: '415'
+  R: '63'
+  H: '140'
+  TB: '187'
+  H2B: '25'
+  H3B: '8'
+  HR: '2'
+  SH: '0'
+  SB: '10'
+  BB: '33'
+  HP: '1'
+  RBI: '63'
+  SO: '22'
+  GDP: '5'
+  CS: '2'
+  AVG: '.337'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schenz
+  nameFirst: Henry L.
+  nameClub1: Tulsa
+  G: '138'
+  AB: '540'
+  R: '102'
+  H: '180'
+  TB: '250'
+  H2B: '44'
+  H3B: '7'
+  HR: '4'
+  SH: '10'
+  SB: '32'
+  BB: '37'
+  HP: '9'
+  RBI: '57'
+  SO: '23'
+  GDP: '4'
+  CS: '11'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Warchol
+  nameFirst: Steve S.
+  nameClub1: Oklahoma City
+  bats: L
+  G: '33'
+  AB: '18'
+  R: '3'
+  H: '6'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '2'
+  GDP: '0'
+  CS: '0'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Meriwether
+  nameFirst: Conklyn
+  nameClub1: Houston
+  bats: L
+  G: '14'
+  AB: '52'
+  R: '2'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '6'
+  GDP: '0'
+  CS: '0'
+  AVG: '.327'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Newman
+  nameFirst: Jess
+  nameClub1: San Antonio
+  bats: L
+  G: '147'
+  AB: '502'
+  R: '70'
+  H: '162'
+  TB: '213'
+  H2B: '39'
+  H3B: '3'
+  HR: '2'
+  SH: '8'
+  SB: '0'
+  BB: '96'
+  HP: '0'
+  RBI: '69'
+  SO: '57'
+  GDP: '11'
+  CS: '1'
+  AVG: '.323'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Duezabou
+  nameFirst: Melvin J.
+  nameClub1: Oklahoma City
+  G: '108'
+  AB: '387'
+  R: '62'
+  H: '125'
+  TB: '190'
+  H2B: '20'
+  H3B: '12'
+  HR: '7'
+  SH: '6'
+  SB: '13'
+  BB: '30'
+  HP: '0'
+  RBI: '52'
+  SO: '34'
+  GDP: '8'
+  CS: '4'
+  AVG: '.323'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Maddern
+  nameFirst: Clarence J.
+  nameClub1: Tulsa
+  G: '153'
+  AB: '572'
+  R: '86'
+  H: '184'
+  TB: '257'
+  H2B: '37'
+  H3B: '6'
+  HR: '8'
+  SH: '12'
+  SB: '19'
+  BB: '53'
+  HP: '3'
+  RBI: '90'
+  SO: '57'
+  GDP: '9'
+  CS: '9'
+  AVG: '.322'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McMillan
+  nameFirst: Frank
+  nameClub1: Oklahoma City
+  bats: L
+  G: '13'
+  AB: '25'
+  R: '4'
+  H: '8'
+  TB: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '5'
+  SO: '4'
+  GDP: '0'
+  CS: '0'
+  AVG: '.320'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Richards
+  nameFirst: William J.
+  nameClub1: Tulsa
+  bats: L
+  G: '129'
+  AB: '473'
+  R: '60'
+  H: '148'
+  TB: '188'
+  H2B: '19'
+  H3B: '9'
+  HR: '1'
+  SH: '11'
+  SB: '15'
+  BB: '25'
+  HP: '3'
+  RBI: '58'
+  SO: '34'
+  GDP: '6'
+  CS: '5'
+  AVG: '.319'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Trine
+  nameFirst: W. Brad
+  nameClub1: San Antonio
+  G: '24'
+  AB: '16'
+  R: '0'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  GDP: '0'
+  CS: '0'
+  AVG: '.313'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Christi
+  nameFirst: Lewis W.
+  nameClub1: Shreveport
+  G: '11'
+  AB: '13'
+  R: '0'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '2'
+  GDP: '0'
+  CS: '0'
+  AVG: '.308'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Knoblauch
+  nameFirst: Edward
+  nameClub1: Houston
+  bats: L
+  G: '110'
+  AB: '356'
+  R: '54'
+  H: '109'
+  TB: '133'
+  H2B: '8'
+  H3B: '5'
+  HR: '2'
+  SH: '5'
+  SB: '9'
+  BB: '62'
+  HP: '1'
+  RBI: '42'
+  SO: '33'
+  GDP: '5'
+  CS: '4'
+  AVG: '.306'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marcum
+  nameFirst: John A.
+  nameClub1: San Antonio
+  bats: L
+  G: '30'
+  AB: '36'
+  R: '1'
+  H: '11'
+  TB: '13'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '6'
+  SO: '3'
+  GDP: '0'
+  CS: '0'
+  AVG: '.306'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Whitehead
+  nameFirst: John
+  nameClub1: San Antonio
+  G: '20'
+  AB: '36'
+  R: '2'
+  H: '11'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '3'
+  GDP: '1'
+  CS: '0'
+  AVG: '.306'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Finley
+  nameFirst: Robert E.
+  nameClub1: Shreveport
+  G: '95'
+  AB: '274'
+  R: '23'
+  H: '83'
+  TB: '121'
+  H2B: '14'
+  H3B: '3'
+  HR: '6'
+  SH: '5'
+  SB: '2'
+  BB: '23'
+  HP: '1'
+  RBI: '40'
+  SO: '17'
+  GDP: '6'
+  CS: '1'
+  AVG: '.303'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Oana
+  nameFirst: Henry
+  nameClub1: Dallas
+  G: '61'
+  AB: '145'
+  R: '24'
+  H: '44'
+  TB: '82'
+  H2B: '13'
+  H3B: '2'
+  HR: '7'
+  SH: '0'
+  SB: '3'
+  BB: '9'
+  HP: '0'
+  RBI: '34'
+  SO: '18'
+  GDP: '1'
+  CS: '0'
+  AVG: '.303'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scepkowski
+  nameFirst: Ted
+  nameClub1: Oklahoma City
+  bats: L
+  G: '136'
+  AB: '530'
+  R: '74'
+  H: '159'
+  TB: '235'
+  H2B: '29'
+  H3B: '13'
+  HR: '7'
+  SH: '4'
+  SB: '8'
+  BB: '31'
+  HP: '2'
+  RBI: '56'
+  SO: '62'
+  GDP: '4'
+  CS: '9'
+  AVG: '.300'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woyt
+  nameFirst: Boris
+  nameClub1: Fort Worth
+  G: '115'
+  AB: '433'
+  R: '65'
+  H: '130'
+  TB: '172'
+  H2B: '19'
+  H3B: '7'
+  HR: '3'
+  SH: '16'
+  SB: '50'
+  BB: '24'
+  HP: '1'
+  RBI: '46'
+  SO: '38'
+  GDP: '9'
+  CS: '15'
+  AVG: '.300'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Harrison
+  nameFirst: Jess
+  nameClub1: Shreveport
+  bats: L
+  G: '14'
+  AB: '10'
+  R: '1'
+  H: '3'
+  TB: '5'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '3'
+  GDP: '0'
+  CS: '0'
+  AVG: '.300'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Skeen
+  nameFirst: Wilmer
+  nameClub1: Tulsa
+  bats: L
+  G: '143'
+  AB: '565'
+  R: '80'
+  H: '167'
+  TB: '207'
+  H2B: '29'
+  H3B: '4'
+  HR: '1'
+  SH: '8'
+  SB: '22'
+  BB: '35'
+  HP: '1'
+  RBI: '53'
+  SO: '29'
+  GDP: '3'
+  CS: '22'
+  AVG: '.296'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: Kenneth L
+  nameClub1: San Antonio
+  G: '76'
+  AB: '253'
+  R: '32'
+  H: '75'
+  TB: '116'
+  H2B: '12'
+  H3B: '1'
+  HR: '9'
+  SH: '3'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '44'
+  SO: '39'
+  GDP: '8'
+  CS: '4'
+  AVG: '.296'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schuchmann
+  nameFirst: Donald W.
+  nameClub1: Houston
+  G: '15'
+  AB: '27'
+  R: '3'
+  H: '8'
+  TB: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '7'
+  GDP: '1'
+  CS: '0'
+  AVG: '.296'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moyer
+  nameFirst: Robert R.
+  nameClub1: Dallas
+  G: '155'
+  AB: '569'
+  R: '101'
+  H: '168'
+  TB: '288'
+  H2B: '36'
+  H3B: '6'
+  HR: '24'
+  SH: '10'
+  SB: '8'
+  BB: '80'
+  HP: '7'
+  RBI: '102'
+  SO: '90'
+  GDP: '9'
+  CS: '3'
+  AVG: '.295'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sears
+  nameFirst: Kenneth E.
+  nameClub1: San Antonio
+  bats: L
+  G: '50'
+  AB: '146'
+  R: '17'
+  H: '43'
+  TB: '52'
+  H2B: '9'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '4'
+  BB: '21'
+  HP: '0'
+  RBI: '10'
+  SO: '11'
+  GDP: '2'
+  CS: '2'
+  AVG: '.295'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Houk
+  nameFirst: Ralph G.
+  nameClub1: Beaumont
+  G: '87'
+  AB: '279'
+  R: '38'
+  H: '82'
+  TB: '106'
+  H2B: '20'
+  H3B: '2'
+  HR: '0'
+  SH: '4'
+  SB: '7'
+  BB: '22'
+  HP: '2'
+  RBI: '40'
+  SO: '14'
+  GDP: '4'
+  CS: '6'
+  AVG: '.940'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Grant
+  nameFirst: Charles H.
+  nameClub1: San Antonio
+  G: '116'
+  AB: '406'
+  R: '61'
+  H: '119'
+  TB: '177'
+  H2B: '21'
+  H3B: '5'
+  HR: '9'
+  SH: '10'
+  SB: '4'
+  BB: '25'
+  HP: '0'
+  RBI: '57'
+  SO: '91'
+  GDP: '3'
+  CS: '4'
+  AVG: '.293'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Donovan
+  nameFirst: Maurice E.
+  nameClub1: Tulsa
+  G: '60'
+  AB: '167'
+  R: '20'
+  H: '49'
+  TB: '64'
+  H2B: '9'
+  H3B: '3'
+  HR: '0'
+  SH: '4'
+  SB: '3'
+  BB: '20'
+  HP: '1'
+  RBI: '16'
+  SO: '16'
+  GDP: '8'
+  CS: '3'
+  AVG: '.293'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cookson
+  nameFirst: James H.
+  nameClub1: Tulsa
+  bats: L
+  G: '18'
+  AB: '58'
+  R: '12'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '4'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '4'
+  GDP: '1'
+  CS: '1'
+  AVG: '.293'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Welaj
+  nameFirst: Louis
+  nameClub1: Fort Worth
+  G: '96'
+  AB: '339'
+  R: '60'
+  H: '99'
+  TB: '123'
+  H2B: '12'
+  H3B: '6'
+  HR: '0'
+  SH: '8'
+  SB: '20'
+  BB: '59'
+  HP: '5'
+  RBI: '40'
+  SO: '20'
+  GDP: '5'
+  CS: '9'
+  AVG: '.292'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gregory
+  nameFirst: Nick
+  nameClub1: San Antonio
+  nameClub2: Dallas
+  G: '107'
+  AB: '357'
+  R: '53'
+  H: '104'
+  TB: '156'
+  H2B: '26'
+  H3B: '4'
+  HR: '6'
+  SH: '2'
+  SB: '2'
+  BB: '38'
+  HP: '5'
+  RBI: '54'
+  SO: '43'
+  GDP: '7'
+  CS: '1'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Markland
+  nameFirst: C. Eugnee
+  nameClub1: Dallas
+  G: '85'
+  AB: '316'
+  R: '69'
+  H: '92'
+  TB: '135'
+  H2B: '17'
+  H3B: '4'
+  HR: '6'
+  SH: '6'
+  SB: '14'
+  BB: '55'
+  HP: '2'
+  RBI: '28'
+  SO: '44'
+  GDP: '3'
+  CS: '7'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Paepke
+  nameFirst: Jack
+  nameClub1: Fort Worth
+  G: '62'
+  AB: '182'
+  R: '20'
+  H: '53'
+  TB: '77'
+  H2B: '9'
+  H3B: '3'
+  HR: '3'
+  SH: '1'
+  SB: '5'
+  BB: '10'
+  HP: '1'
+  RBI: '37'
+  SO: '37'
+  GDP: '3'
+  CS: '0'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morjoseph
+  nameFirst: Joseph E.
+  nameClub1: San Antonio
+  G: '31'
+  AB: '90'
+  R: '11'
+  H: '26'
+  TB: '38'
+  H2B: '7'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '2'
+  BB: '19'
+  HP: '1'
+  RBI: '13'
+  SO: '20'
+  GDP: '3'
+  CS: '2'
+  AVG: '.289'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Muffaletto
+  nameFirst: Joseph A.
+  nameClub1: Beaumont
+  G: '138'
+  AB: '534'
+  R: '72'
+  H: '154'
+  TB: '213'
+  H2B: '26'
+  H3B: '12'
+  HR: '3'
+  SH: '1'
+  SB: '17'
+  BB: '45'
+  HP: '2'
+  RBI: '53'
+  SO: '40'
+  GDP: '6'
+  CS: '10'
+  AVG: '.288'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collman
+  nameFirst: Raymond L.
+  nameClub1: San Antonio
+  bats: L
+  G: '136'
+  AB: '516'
+  R: '72'
+  H: '148'
+  TB: '188'
+  H2B: '26'
+  H3B: '7'
+  HR: '0'
+  SH: '7'
+  SB: '5'
+  BB: '43'
+  HP: '2'
+  RBI: '51'
+  SO: '23'
+  GDP: '7'
+  CS: '4'
+  AVG: '.287'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Turner
+  nameFirst: James R.
+  nameClub1: Beaumont
+  bats: L
+  G: '20'
+  AB: '49'
+  R: '5'
+  H: '14'
+  TB: '19'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '3'
+  SO: '5'
+  GDP: '0'
+  CS: '0'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Altizer
+  nameFirst: Quentin L.
+  nameClub1: Dallas
+  bats: L
+  G: '34'
+  AB: '42'
+  R: '3'
+  H: '12'
+  TB: '15'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  GDP: '1'
+  CS: '0'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: W. Barney
+  nameClub1: Fort Worth
+  G: '97'
+  AB: '343'
+  R: '28'
+  H: '97'
+  TB: '122'
+  H2B: '17'
+  H3B: '4'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '8'
+  HP: '4'
+  RBI: '44'
+  SO: '25'
+  GDP: '13'
+  CS: '2'
+  AVG: '.283'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hill
+  nameFirst: James
+  nameClub1: Oklahoma City
+  G: '63'
+  AB: '187'
+  R: '17'
+  H: '53'
+  TB: '69'
+  H2B: '8'
+  H3B: '1'
+  HR: '2'
+  SH: '1'
+  SB: '6'
+  BB: '11'
+  HP: '2'
+  RBI: '23'
+  SO: '27'
+  GDP: '6'
+  CS: '0'
+  AVG: '.283'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stelmack
+  nameFirst: Raymond L.
+  nameClub1: Beaumont
+  G: '26'
+  AB: '53'
+  R: '10'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '10'
+  SO: '13'
+  GDP: '1'
+  CS: '0'
+  AVG: '.283'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Naranjo
+  nameFirst: Reuben E.
+  nameClub1: San Antonio
+  G: '109'
+  AB: '341'
+  R: '56'
+  H: '96'
+  TB: '146'
+  H2B: '18'
+  H3B: '7'
+  HR: '6'
+  SH: '4'
+  SB: '10'
+  BB: '44'
+  HP: '4'
+  RBI: '57'
+  SO: '51'
+  GDP: '6'
+  CS: '4'
+  AVG: '.282'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Warren
+  nameFirst: Thomas E.
+  nameClub1: Tulsa
+  bats: B
+  G: '59'
+  AB: '103'
+  R: '16'
+  H: '29'
+  TB: '42'
+  H2B: '7'
+  H3B: '3'
+  HR: '0'
+  SH: '7'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '12'
+  SO: '15'
+  GDP: '0'
+  CS: '0'
+  AVG: '.282'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Deese
+  nameFirst: Robert
+  nameClub1: Houston
+  G: '12'
+  AB: '32'
+  R: '3'
+  H: '9'
+  TB: '11'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '1'
+  GDP: '0'
+  CS: '0'
+  AVG: '.281'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Conatser
+  nameFirst: Clinton A.
+  nameClub1: Dallas
+  G: '131'
+  AB: '464'
+  R: '78'
+  H: '130'
+  TB: '205'
+  H2B: '30'
+  H3B: '3'
+  HR: '13'
+  SH: '3'
+  SB: '20'
+  BB: '74'
+  HP: '6'
+  RBI: '70'
+  SO: '68'
+  GDP: '12'
+  CS: '13'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lentz
+  nameFirst: Walter R.
+  nameClub1: Tulsa
+  bats: L
+  G: '40'
+  AB: '25'
+  R: '4'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  GDP: '0'
+  CS: '0'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gautreaux
+  nameFirst: Sid
+  nameClub1: Oklahoma City
+  bats: B
+  G: '12'
+  AB: '25'
+  R: '1'
+  H: '7'
+  TB: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '3'
+  SO: '2'
+  GDP: '1'
+  CS: '0'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dockins
+  nameFirst: George W.
+  nameClub1: Fort Worth
+  bats: L
+  G: '24'
+  AB: '61'
+  R: '8'
+  H: '17'
+  TB: '18'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '5'
+  SO: '5'
+  GDP: '0'
+  CS: '0'
+  AVG: '.279'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: John H.
+  nameClub1: Dallas
+  G: '148'
+  AB: '539'
+  R: '67'
+  H: '150'
+  TB: '208'
+  H2B: '27'
+  H3B: '8'
+  HR: '5'
+  SH: '7'
+  SB: '17'
+  BB: '61'
+  HP: '3'
+  RBI: '59'
+  SO: '47'
+  GDP: '15'
+  CS: '8'
+  AVG: '.278'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Borom
+  nameFirst: Edward J.
+  nameClub1: Dallas
+  bats: L
+  G: '130'
+  AB: '436'
+  R: '66'
+  H: '121'
+  TB: '140'
+  H2B: '9'
+  H3B: '5'
+  HR: '0'
+  SH: '10'
+  SB: '23'
+  BB: '41'
+  HP: '3'
+  RBI: '22'
+  SO: '22'
+  GDP: '5'
+  CS: '11'
+  AVG: '.278'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vezelich
+  nameFirst: Lou
+  nameClub1: Tulsa
+  G: '64'
+  AB: '205'
+  R: '29'
+  H: '57'
+  TB: '73'
+  H2B: '9'
+  H3B: '2'
+  HR: '1'
+  SH: '4'
+  SB: '6'
+  BB: '34'
+  HP: '1'
+  RBI: '29'
+  SO: '29'
+  GDP: '6'
+  CS: '0'
+  AVG: '.278'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCrabb
+  nameFirst: Lester W.
+  nameClub1: Tulsa
+  G: '21'
+  AB: '36'
+  R: '3'
+  H: '10'
+  TB: '12'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '7'
+  SO: '11'
+  GDP: '1'
+  CS: '0'
+  AVG: '.278'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reymonds
+  nameFirst: Daniel V.
+  nameClub1: Shreveport
+  G: '105'
+  AB: '382'
+  R: '31'
+  H: '106'
+  TB: '138'
+  H2B: '34'
+  H3B: '4'
+  HR: '0'
+  SH: '11'
+  SB: '8'
+  BB: '25'
+  HP: '2'
+  RBI: '34'
+  SO: '40'
+  GDP: '11'
+  CS: '3'
+  AVG: '.277'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Muratore
+  nameFirst: Eldon L.
+  nameClub1: Beaumont
+  G: '97'
+  AB: '315'
+  R: '31'
+  H: '87'
+  TB: '108'
+  H2B: '12'
+  H3B: '0'
+  HR: '3'
+  SH: '5'
+  SB: '3'
+  BB: '27'
+  HP: '4'
+  RBI: '51'
+  SO: '32'
+  GDP: '8'
+  CS: '1'
+  AVG: '.276'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gorbould
+  nameFirst: Robert C.
+  nameClub1: Fort Worth
+  G: '76'
+  AB: '258'
+  R: '36'
+  H: '71'
+  TB: '101'
+  H2B: '17'
+  H3B: '2'
+  HR: '3'
+  SH: '8'
+  SB: '5'
+  BB: '30'
+  HP: '1'
+  RBI: '46'
+  SO: '28'
+  GDP: '4'
+  CS: '7'
+  AVG: '.276'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Turner
+  nameFirst: Gil
+  nameClub1: Houston
+  G: '23'
+  AB: '80'
+  R: '8'
+  H: '22'
+  TB: '33'
+  H2B: '5'
+  H3B: '0'
+  HR: '2'
+  SH: '2'
+  SB: '0'
+  BB: '13'
+  HP: '1'
+  RBI: '12'
+  SO: '18'
+  GDP: '1'
+  CS: '1'
+  AVG: '.275'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: Frederick J.
+  nameClub1: Beaumont
+  bats: L
+  G: '97'
+  AB: '307'
+  R: '41'
+  H: '84'
+  TB: '123'
+  H2B: '12'
+  H3B: '6'
+  HR: '5'
+  SH: '3'
+  SB: '4'
+  BB: '51'
+  HP: '1'
+  RBI: '50'
+  SO: '63'
+  GDP: '4'
+  CS: '7'
+  AVG: '.274'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Basso
+  nameFirst: James S.
+  nameClub1: Houston
+  G: '143'
+  AB: '532'
+  R: '58'
+  H: '145'
+  TB: '191'
+  H2B: '25'
+  H3B: '3'
+  HR: '5'
+  SH: '4'
+  SB: '24'
+  BB: '27'
+  HP: '1'
+  RBI: '41'
+  SO: '41'
+  GDP: '11'
+  CS: '10'
+  AVG: '.273'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hatch
+  nameFirst: Harry G.
+  nameClub1: San Antonio
+  G: '90'
+  AB: '327'
+  R: '47'
+  H: '89'
+  TB: '113'
+  H2B: '13'
+  H3B: '4'
+  HR: '1'
+  SH: '7'
+  SB: '9'
+  BB: '32'
+  HP: '7'
+  RBI: '32'
+  SO: '29'
+  GDP: '8'
+  CS: '1'
+  AVG: '.272'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carswell
+  nameFirst: Frank W.
+  nameClub1: Dallas
+  G: '77'
+  AB: '254'
+  R: '23'
+  H: '69'
+  TB: '94'
+  H2B: '15'
+  H3B: '2'
+  HR: '2'
+  SH: '1'
+  SB: '5'
+  BB: '10'
+  HP: '3'
+  RBI: '31'
+  SO: '19'
+  GDP: '5'
+  CS: '2'
+  AVG: '.272'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cassini
+  nameFirst: Jack D.
+  nameClub1: Oklahoma City
+  G: '94'
+  AB: '329'
+  R: '55'
+  H: '89'
+  TB: '120'
+  H2B: '13'
+  H3B: '6'
+  HR: '2'
+  SH: '4'
+  SB: '24'
+  BB: '49'
+  HP: '2'
+  RBI: '20'
+  SO: '27'
+  GDP: '5'
+  CS: '8'
+  AVG: '.271'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Greene
+  nameFirst: Leonard W.
+  nameClub1: Tulsa
+  bats: L
+  G: '123'
+  AB: '400'
+  R: '55'
+  H: '108'
+  TB: '159'
+  H2B: '23'
+  H3B: '11'
+  HR: '2'
+  SH: '1'
+  SB: '7'
+  BB: '46'
+  HP: '2'
+  RBI: '70'
+  SO: '36'
+  GDP: '6'
+  CS: '5'
+  AVG: '.270'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Shelley
+  nameFirst: Hubert W.
+  nameClub1: Beaumont
+  G: '123'
+  AB: '432'
+  R: '48'
+  H: '116'
+  TB: '152'
+  H2B: '18'
+  H3B: '6'
+  HR: '2'
+  SH: '8'
+  SB: '8'
+  BB: '28'
+  HP: '4'
+  RBI: '55'
+  SO: '38'
+  GDP: '9'
+  CS: '7'
+  AVG: '.269'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hajduk
+  nameFirst: Chester
+  nameClub1: Shreveport
+  G: '113'
+  AB: '398'
+  R: '45'
+  H: '107'
+  TB: '139'
+  H2B: '18'
+  H3B: '4'
+  HR: '2'
+  SH: '7'
+  SB: '6'
+  BB: '39'
+  HP: '0'
+  RBI: '42'
+  SO: '41'
+  GDP: '15'
+  CS: '3'
+  AVG: '.269'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Harshany
+  nameFirst: Samuel
+  nameClub1: San Antonio
+  G: '27'
+  AB: '52'
+  R: '3'
+  H: '14'
+  TB: '18'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '18'
+  HP: '0'
+  RBI: '5'
+  SO: '2'
+  GDP: '0'
+  CS: '0'
+  AVG: '.269'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Filo
+  nameFirst: Edward P.
+  nameClub1: Houston
+  bats: L
+  G: '96'
+  AB: '209'
+  R: '30'
+  H: '80'
+  TB: '105'
+  H2B: '14'
+  H3B: '4'
+  HR: '1'
+  SH: '5'
+  SB: '1'
+  BB: '40'
+  HP: '2'
+  RBI: '40'
+  SO: '23'
+  GDP: '5'
+  CS: '2'
+  AVG: '.268'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Haney
+  nameFirst: James L.
+  nameClub1: Fort Worth
+  G: '130'
+  AB: '507'
+  R: '76'
+  H: '135'
+  TB: '190'
+  H2B: '32'
+  H3B: '4'
+  HR: '5'
+  SH: '6'
+  SB: '9'
+  BB: '41'
+  HP: '8'
+  RBI: '48'
+  SO: '57'
+  GDP: '9'
+  CS: '8'
+  AVG: '.266'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kubski
+  nameFirst: Al
+  nameClub1: Houston
+  G: '49'
+  AB: '184'
+  R: '22'
+  H: '49'
+  TB: '67'
+  H2B: '10'
+  H3B: '4'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '20'
+  HP: '0'
+  RBI: '16'
+  SO: '23'
+  GDP: '0'
+  CS: '2'
+  AVG: '.266'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kraus
+  nameFirst: Peter L.
+  nameClub1: San Antonio
+  G: '132'
+  AB: '503'
+  R: '63'
+  H: '133'
+  TB: '181'
+  H2B: '11'
+  H3B: '8'
+  HR: '7'
+  SH: '3'
+  SB: '10'
+  BB: '45'
+  HP: '1'
+  RBI: '58'
+  SO: '51'
+  GDP: '5'
+  CS: '5'
+  AVG: '.265'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burmeister
+  nameFirst: Gerald W.
+  nameClub1: Houston
+  G: '75'
+  AB: '226'
+  R: '29'
+  H: '60'
+  TB: '79'
+  H2B: '13'
+  H3B: '0'
+  HR: '2'
+  SH: '7'
+  SB: '0'
+  BB: '19'
+  HP: '2'
+  RBI: '24'
+  SO: '19'
+  GDP: '9'
+  CS: '1'
+  AVG: '.265'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Costa
+  nameFirst: William
+  nameClub1: Houston
+  G: '58'
+  AB: '222'
+  R: '43'
+  H: '63'
+  TB: '79'
+  H2B: '8'
+  H3B: '4'
+  HR: '0'
+  SH: '3'
+  SB: '6'
+  BB: '38'
+  HP: '0'
+  RBI: '12'
+  SO: '29'
+  GDP: '5'
+  CS: '5'
+  AVG: '.264'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rullo
+  nameFirst: James V.
+  nameClub1: Tulsa
+  G: '146'
+  AB: '544'
+  R: '71'
+  H: '143'
+  TB: '199'
+  H2B: '34'
+  H3B: '2'
+  HR: '6'
+  SH: '16'
+  SB: '8'
+  BB: '32'
+  HP: '8'
+  RBI: '54'
+  SO: '75'
+  GDP: '13'
+  CS: '10'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mancuso
+  nameFirst: August R.
+  nameClub1: Tulsa
+  G: '39'
+  AB: '95'
+  R: '5'
+  H: '25'
+  TB: '27'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '17'
+  HP: '0'
+  RBI: '8'
+  SO: '7'
+  GDP: '3'
+  CS: '3'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lamitina
+  nameFirst: Samuel
+  nameClub1: Oklahoma City
+  G: '22'
+  AB: '80'
+  R: '9'
+  H: '21'
+  TB: '33'
+  H2B: '3'
+  H3B: '0'
+  HR: '3'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '14'
+  SO: '12'
+  GDP: '0'
+  CS: '1'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Goletz
+  nameFirst: Stanley
+  nameClub1: Shreveport
+  nameClub2: Oklahoma City
+  bats: L
+  G: '19'
+  AB: '19'
+  R: '2'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  GDP: '0'
+  CS: '0'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pfister
+  nameFirst: George E.
+  nameClub1: Fort Worth
+  G: '122'
+  AB: '372'
+  R: '53'
+  H: '97'
+  TB: '111'
+  H2B: '10'
+  H3B: '3'
+  HR: '1'
+  SH: '8'
+  SB: '3'
+  BB: '51'
+  HP: '0'
+  RBI: '42'
+  SO: '21'
+  GDP: '13'
+  CS: '0'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Easterwood
+  nameFirst: Roy C.
+  nameClub1: Tulsa
+  G: '77'
+  AB: '241'
+  R: '34'
+  H: '63'
+  TB: '102'
+  H2B: '7'
+  H3B: '1'
+  HR: '10'
+  SH: '0'
+  SB: '3'
+  BB: '23'
+  HP: '3'
+  RBI: '49'
+  SO: '33'
+  GDP: '5'
+  CS: '0'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Berry
+  nameFirst: John F.
+  nameClub1: Shreveport
+  G: '30'
+  AB: '92'
+  R: '18'
+  H: '24'
+  TB: '31'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '16'
+  HP: '1'
+  RBI: '7'
+  SO: '17'
+  GDP: '1'
+  CS: '2'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moser
+  nameFirst: Arnold
+  nameClub1: Houston
+  G: '27'
+  AB: '88'
+  R: '5'
+  H: '23'
+  TB: '26'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '13'
+  SO: '9'
+  GDP: '2'
+  CS: '0'
+  AVG: '.261'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rogers
+  nameFirst: Forest W.
+  nameClub1: Beaumont
+  bats: L
+  G: '120'
+  AB: '389'
+  R: '39'
+  H: '101'
+  TB: '128'
+  H2B: '12'
+  H3B: '3'
+  HR: '3'
+  SH: '12'
+  SB: '9'
+  BB: '29'
+  HP: '0'
+  RBI: '53'
+  SO: '33'
+  GDP: '8'
+  CS: '8'
+  AVG: '.260'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marshall
+  nameFirst: Charles
+  nameClub1: Houston
+  G: '38'
+  AB: '104'
+  R: '12'
+  H: '27'
+  TB: '44'
+  H2B: '9'
+  H3B: '1'
+  HR: '2'
+  SH: '2'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '8'
+  SO: '19'
+  GDP: '2'
+  CS: '1'
+  AVG: '.260'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mazur
+  nameFirst: Alphonse J.
+  nameClub1: Shreveport
+  G: '106'
+  AB: '343'
+  R: '45'
+  H: '89'
+  TB: '115'
+  H2B: '15'
+  H3B: '4'
+  HR: '1'
+  SH: '6'
+  SB: '6'
+  BB: '65'
+  HP: '4'
+  RBI: '31'
+  SO: '34'
+  GDP: '9'
+  CS: '2'
+  AVG: '.259'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Smaza
+  nameFirst: Joseph P.
+  nameClub1: Shreveport
+  bats: L
+  G: '153'
+  AB: '571'
+  R: '85'
+  H: '147'
+  TB: '197'
+  H2B: '25'
+  H3B: '11'
+  HR: '1'
+  SH: '15'
+  SB: '28'
+  BB: '40'
+  HP: '1'
+  RBI: '51'
+  SO: '46'
+  GDP: '9'
+  CS: '17'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Parker
+  nameFirst: Francis J.
+  nameClub1: Shreveport
+  G: '59'
+  AB: '175'
+  R: '20'
+  H: '45'
+  TB: '55'
+  H2B: '7'
+  H3B: '0'
+  HR: '1'
+  SH: '5'
+  SB: '1'
+  BB: '26'
+  HP: '0'
+  RBI: '21'
+  SO: '13'
+  GDP: '6'
+  CS: '0'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Donaldson
+  nameFirst: Gordon
+  nameClub1: Tulsa
+  G: '10'
+  AB: '35'
+  R: '11'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '7'
+  HP: '1'
+  RBI: '4'
+  SO: '2'
+  GDP: '1'
+  CS: '0'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collett
+  nameFirst: Robert
+  nameClub1: Houston
+  G: '77'
+  AB: '246'
+  R: '27'
+  H: '63'
+  TB: '71'
+  H2B: '4'
+  H3B: '2'
+  HR: '0'
+  SH: '5'
+  SB: '7'
+  BB: '22'
+  HP: '0'
+  RBI: '12'
+  SO: '29'
+  GDP: '5'
+  CS: '1'
+  AVG: '.256'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Santomauro
+  nameFirst: Maurice A.
+  nameClub1: Fort Worth
+  G: '32'
+  AB: '125'
+  R: '15'
+  H: '32'
+  TB: '46'
+  H2B: '2'
+  H3B: '3'
+  HR: '2'
+  SH: '3'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '18'
+  SO: '12'
+  GDP: '4'
+  CS: '3'
+  AVG: '.256'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Clark
+  nameFirst: Elden O.
+  nameClub1: Beaumont
+  G: '29'
+  AB: '39'
+  R: '3'
+  H: '10'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '10'
+  GDP: '1'
+  CS: '0'
+  AVG: '.256'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stumpf
+  nameFirst: George
+  nameClub1: Houston
+  G: '10'
+  AB: '39'
+  R: '4'
+  H: '10'
+  TB: '13'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '9'
+  SO: '2'
+  GDP: '0'
+  CS: '0'
+  AVG: '.256'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stafford
+  nameFirst: Dean L.
+  nameClub1: Houston
+  G: '18'
+  AB: '55'
+  R: '10'
+  H: '14'
+  TB: '26'
+  H2B: '1'
+  H3B: '1'
+  HR: '3'
+  SH: '1'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '13'
+  SO: '11'
+  GDP: '1'
+  CS: '0'
+  AVG: '.255'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: Joseph P.
+  nameClub1: Dallas
+  nameClub2: Shreveport
+  G: '125'
+  AB: '469'
+  R: '38'
+  H: '119'
+  TB: '140'
+  H2B: '13'
+  H3B: '4'
+  HR: '0'
+  SH: '9'
+  SB: '9'
+  BB: '23'
+  HP: '1'
+  RBI: '31'
+  SO: '30'
+  GDP: '9'
+  CS: '8'
+  AVG: '.254'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Murray
+  nameFirst: Raymond L.
+  nameClub1: Oklahoma City
+  G: '42'
+  AB: '130'
+  R: '11'
+  H: '33'
+  TB: '47'
+  H2B: '2'
+  H3B: '3'
+  HR: '2'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '15'
+  SO: '12'
+  GDP: '2'
+  CS: '1'
+  AVG: '.254'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Korte
+  nameFirst: Richard J.
+  nameClub1: Beaumont
+  G: '54'
+  AB: '150'
+  R: '19'
+  H: '38'
+  TB: '45'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '3'
+  BB: '14'
+  HP: '3'
+  RBI: '8'
+  SO: '12'
+  GDP: '0'
+  CS: '0'
+  AVG: '.253'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dotlich
+  nameFirst: Joe
+  nameClub1: Oklahoma City
+  bats: B
+  G: '40'
+  AB: '87'
+  R: '17'
+  H: '22'
+  TB: '31'
+  H2B: '7'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '3'
+  BB: '16'
+  HP: '1'
+  RBI: '12'
+  SO: '8'
+  GDP: '9'
+  CS: '1'
+  AVG: '.253'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morgan
+  nameFirst: Chester C.
+  nameClub1: Tulsa
+  bats: L
+  G: '28'
+  AB: '87'
+  R: '12'
+  H: '22'
+  TB: '28'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '7'
+  SO: '3'
+  GDP: '0'
+  CS: '1'
+  AVG: '.253'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Snider
+  nameFirst: Edwin D.
+  nameClub1: Fort Worth
+  bats: L
+  G: '68'
+  AB: '232'
+  R: '36'
+  H: '58'
+  TB: '88'
+  H2B: '13'
+  H3B: '1'
+  HR: '5'
+  SH: '3'
+  SB: '5'
+  BB: '23'
+  HP: '1'
+  RBI: '30'
+  SO: '48'
+  GDP: '2'
+  CS: '3'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Brunswick
+  nameFirst: Roman
+  nameClub1: Houston
+  G: '38'
+  AB: '76'
+  R: '8'
+  H: '19'
+  TB: '24'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '10'
+  SO: '22'
+  GDP: '1'
+  CS: '0'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Castro
+  nameFirst: Dominic
+  nameClub1: San Antonio
+  G: '29'
+  AB: '76'
+  R: '7'
+  H: '19'
+  TB: '21'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '6'
+  SO: '4'
+  GDP: '2'
+  CS: '0'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lucas
+  nameFirst: James
+  nameClub1: San Antonio
+  bats: L
+  G: '24'
+  AB: '68'
+  R: '11'
+  H: '17'
+  TB: '25'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SH: '3'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '7'
+  SO: '6'
+  GDP: '1'
+  CS: '2'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Redmond
+  nameFirst: Henry D.
+  nameClub1: Houston
+  bats: L
+  G: '21'
+  AB: '64'
+  R: '6'
+  H: '16'
+  TB: '20'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  RBI: '8'
+  SO: '7'
+  GDP: '1'
+  CS: '0'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Van Pelt
+  nameFirst: Hal C.
+  nameClub1: Shreveport
+  bats: L
+  G: '12'
+  AB: '40'
+  R: '5'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '11'
+  SO: '2'
+  GDP: '3'
+  CS: '0'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bianco
+  nameFirst: John J.
+  nameClub1: Beaumont
+  G: '18'
+  AB: '36'
+  R: '3'
+  H: '9'
+  TB: '14'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '5'
+  SO: '5'
+  GDP: '2'
+  CS: '0'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Koch
+  nameFirst: Henry
+  nameClub1: Houston
+  G: '17'
+  AB: '20'
+  R: '0'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '1'
+  GDP: '0'
+  CS: '0'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Capps
+  nameFirst: Wiliam T.
+  nameClub1: Beaumont
+  G: '134'
+  AB: '490'
+  R: '54'
+  H: '122'
+  TB: '157'
+  H2B: '17'
+  H3B: '3'
+  HR: '4'
+  SH: '6'
+  SB: '10'
+  BB: '40'
+  HP: '4'
+  RBI: '49'
+  SO: '44'
+  GDP: '7'
+  CS: '9'
+  AVG: '.249'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: York
+  nameFirst: Earl W.
+  nameClub1: Tulsa
+  nameClub2: Shreveport
+  bats: L
+  G: '114'
+  AB: '382'
+  R: '45'
+  H: '95'
+  TB: '147'
+  H2B: '23'
+  H3B: '10'
+  HR: '3'
+  SH: '2'
+  SB: '8'
+  BB: '29'
+  HP: '5'
+  RBI: '31'
+  SO: '47'
+  GDP: '6'
+  CS: '3'
+  AVG: '.249'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: DeVincenzi
+  nameFirst: Jack
+  nameClub1: Beaumont
+  G: '110'
+  AB: '328'
+  R: '53'
+  H: '81'
+  TB: '134'
+  H2B: '18'
+  H3B: '1'
+  HR: '11'
+  SH: '4'
+  SB: '1'
+  BB: '73'
+  HP: '1'
+  RBI: '47'
+  SO: '77'
+  GDP: '8'
+  CS: '4'
+  AVG: '.247'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Thompson
+  nameFirst: Adrian
+  nameClub1: Houston
+  G: '90'
+  AB: '263'
+  R: '28'
+  H: '65'
+  TB: '81'
+  H2B: '12'
+  H3B: '2'
+  HR: '0'
+  SH: '5'
+  SB: '10'
+  BB: '7'
+  HP: '2'
+  RBI: '19'
+  SO: '44'
+  GDP: '10'
+  CS: '2'
+  AVG: '.247'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameFirst: Emmett J.
+  nameClub1: Shreveport
+  nameClub2: Houston
+  bats: B
+  G: '46'
+  AB: '166'
+  R: '14'
+  H: '41'
+  TB: '49'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '5'
+  SB: '3'
+  BB: '18'
+  HP: '3'
+  RBI: '16'
+  SO: '21'
+  GDP: '2'
+  CS: '4'
+  AVG: '.247'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wagener
+  nameFirst: Charles
+  nameClub1: San Antonio
+  bats: B
+  G: '37'
+  AB: '81'
+  R: '4'
+  H: '20'
+  TB: '24'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '6'
+  SO: '11'
+  GDP: '5'
+  CS: '0'
+  AVG: '.247'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Anderson
+  nameFirst: A. H.
+  nameClub1: San Antonio
+  G: '142'
+  AB: '512'
+  R: '53'
+  H: '126'
+  TB: '169'
+  H2B: '24'
+  H3B: '3'
+  HR: '1'
+  SH: '4'
+  SB: '3'
+  BB: '44'
+  HP: '5'
+  RBI: '60'
+  SO: '60'
+  GDP: '14'
+  CS: '3'
+  AVG: '.246'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Niedson
+  nameFirst: Joseph G.
+  nameClub1: Houston
+  bats: B
+  G: '111'
+  AB: '294'
+  R: '28'
+  H: '72'
+  TB: '111'
+  H2B: '10'
+  H3B: '7'
+  HR: '5'
+  SH: '6'
+  SB: '1'
+  BB: '35'
+  HP: '4'
+  RBI: '39'
+  SO: '54'
+  GDP: '4'
+  CS: '0'
+  AVG: '.245'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ruchser
+  nameFirst: Louis W.
+  nameClub1: Fort Worth
+  bats: L
+  G: '150'
+  AB: '496'
+  R: '63'
+  H: '121'
+  TB: '172'
+  H2B: '27'
+  H3B: '6'
+  HR: '4'
+  SH: '9'
+  SB: '4'
+  BB: '86'
+  HP: '9'
+  RBI: '57'
+  SO: '67'
+  GDP: '6'
+  CS: '1'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Halkard
+  nameFirst: James H.
+  nameClub1: Houston
+  bats: L
+  G: '95'
+  AB: '352'
+  R: '42'
+  H: '86'
+  TB: '111'
+  H2B: '7'
+  H3B: '9'
+  HR: '0'
+  SH: '4'
+  SB: '3'
+  BB: '28'
+  HP: '1'
+  RBI: '32'
+  SO: '44'
+  GDP: '4'
+  CS: '6'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McQuillan
+  nameFirst: J. Carl
+  nameClub1: Dallas
+  G: '23'
+  AB: '78'
+  R: '3'
+  H: '19'
+  TB: '24'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '9'
+  SO: '8'
+  GDP: '2'
+  CS: '0'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: King
+  nameFirst: Joe
+  nameClub1: Beaumont
+  G: '11'
+  AB: '37'
+  R: '5'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '1'
+  GDP: '3'
+  CS: '0'
+  AVG: '.243'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Riebe
+  nameFirst: Harvey
+  nameClub1: Dallas
+  G: '97'
+  AB: '335'
+  R: '38'
+  H: '81'
+  TB: '114'
+  H2B: '13'
+  H3B: '4'
+  HR: '4'
+  SH: '3'
+  SB: '5'
+  BB: '14'
+  HP: '3'
+  RBI: '32'
+  SO: '42'
+  GDP: '5'
+  CS: '3'
+  AVG: '.242'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Litzsinger
+  nameFirst: Norbert F.
+  nameClub1: Shreveport
+  G: '67'
+  AB: '223'
+  R: '28'
+  H: '54'
+  TB: '81'
+  H2B: '11'
+  H3B: '5'
+  HR: '2'
+  SH: '5'
+  SB: '2'
+  BB: '15'
+  HP: '3'
+  RBI: '29'
+  SO: '27'
+  GDP: '8'
+  CS: '3'
+  AVG: '.242'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burns
+  nameFirst: Russell C.
+  nameClub1: Beaumont
+  G: '24'
+  AB: '79'
+  R: '10'
+  H: '19'
+  TB: '29'
+  H2B: '5'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '9'
+  SO: '18'
+  GDP: '3'
+  CS: '1'
+  AVG: '.241'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Phillips
+  nameFirst: James C.
+  nameClub1: Fort Worth
+  G: '106'
+  AB: '388'
+  R: '46'
+  H: '93'
+  TB: '125'
+  H2B: '15'
+  H3B: '4'
+  HR: '3'
+  SH: '4'
+  SB: '7'
+  BB: '31'
+  HP: '1'
+  RBI: '38'
+  SO: '67'
+  GDP: '10'
+  CS: '4'
+  AVG: '.240'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schalk
+  nameFirst: Leroy J.
+  nameClub1: Oklahoma City
+  G: '129'
+  AB: '396'
+  R: '34'
+  H: '94'
+  TB: '115'
+  H2B: '14'
+  H3B: '2'
+  HR: '1'
+  SH: '2'
+  SB: '4'
+  BB: '28'
+  HP: '0'
+  RBI: '53'
+  SO: '26'
+  GDP: '14'
+  CS: '1'
+  AVG: '.238'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Brack
+  nameFirst: Gilbert
+  nameClub1: Oklahoma City
+  G: '40'
+  AB: '130'
+  R: '18'
+  H: '31'
+  TB: '42'
+  H2B: '3'
+  H3B: '1'
+  HR: '2'
+  SH: '3'
+  SB: '2'
+  BB: '23'
+  HP: '0'
+  RBI: '19'
+  SO: '18'
+  GDP: '4'
+  CS: '0'
+  AVG: '.238'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Madrid
+  nameFirst: Salvador
+  nameClub1: Tulsa
+  G: '144'
+  AB: '498'
+  R: '54'
+  H: '118'
+  TB: '165'
+  H2B: '27'
+  H3B: '7'
+  HR: '2'
+  SH: '20'
+  SB: '5'
+  BB: '13'
+  HP: '2'
+  RBI: '57'
+  SO: '95'
+  GDP: '11'
+  CS: '4'
+  AVG: '.237'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Houtz
+  nameFirst: William E.
+  nameClub1: Beaumont
+  bats: L
+  G: '14'
+  AB: '38'
+  R: '2'
+  H: '9'
+  TB: '11'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '3'
+  SO: '7'
+  GDP: '2'
+  CS: '0'
+  AVG: '.237'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hirshon
+  nameFirst: Harold
+  nameClub1: Dallas
+  G: '139'
+  AB: '484'
+  R: '64'
+  H: '114'
+  TB: '180'
+  H2B: '21'
+  H3B: '9'
+  HR: '9'
+  SH: '12'
+  SB: '10'
+  BB: '59'
+  HP: '1'
+  RBI: '76'
+  SO: '67'
+  GDP: '7'
+  CS: '8'
+  AVG: '.236'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ortiz
+  nameFirst: Louis P.
+  nameClub1: Houston
+  G: '119'
+  AB: '377'
+  R: '31'
+  H: '89'
+  TB: '124'
+  H2B: '11'
+  H3B: '3'
+  HR: '6'
+  SH: '4'
+  SB: '3'
+  BB: '49'
+  HP: '1'
+  RBI: '34'
+  SO: '75'
+  GDP: '6'
+  CS: '4'
+  AVG: '.236'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nowak
+  nameFirst: Walter
+  nameClub1: Dallas
+  bats: L
+  G: '20'
+  AB: '72'
+  R: '8'
+  H: '17'
+  TB: '21'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '5'
+  HP: '1'
+  RBI: '6'
+  SO: '12'
+  GDP: '1'
+  CS: '1'
+  AVG: '.236'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ankenman
+  nameFirst: Fred N., Jr.
+  nameClub1: Oklahoma City
+  G: '117'
+  AB: '411'
+  R: '53'
+  H: '96'
+  TB: '110'
+  H2B: '10'
+  H3B: '2'
+  HR: '0'
+  SH: '8'
+  SB: '0'
+  BB: '35'
+  HP: '0'
+  RBI: '31'
+  SO: '15'
+  GDP: '7'
+  CS: '2'
+  AVG: '.234'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schoendienst
+  nameFirst: Julius H.
+  nameClub1: Houston
+  G: '25'
+  AB: '94'
+  R: '8'
+  H: '22'
+  TB: '32'
+  H2B: '2'
+  H3B: '1'
+  HR: '2'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  HP: '1'
+  RBI: '7'
+  SO: '10'
+  GDP: '2'
+  CS: '2'
+  AVG: '.234'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ratto
+  nameFirst: Leonard L.
+  nameClub1: Beaumont
+  G: '147'
+  AB: '472'
+  R: '75'
+  H: '110'
+  TB: '143'
+  H2B: '20'
+  H3B: '5'
+  HR: '1'
+  SH: '13'
+  SB: '15'
+  BB: '78'
+  HP: '4'
+  RBI: '39'
+  SO: '61'
+  GDP: '2'
+  CS: '9'
+  AVG: '.233'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Elko
+  nameFirst: Pete
+  nameClub1: Shreveport
+  G: '25'
+  AB: '78'
+  R: '7'
+  H: '18'
+  TB: '27'
+  H2B: '3'
+  H3B: '0'
+  HR: '2'
+  SH: '2'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '10'
+  SO: '11'
+  GDP: '0'
+  CS: '2'
+  AVG: '.231'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Eckhardt
+  nameFirst: William E.
+  nameClub1: Shreveport
+  bats: L
+  G: '27'
+  AB: '26'
+  R: '5'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '2'
+  RBI: '3'
+  SO: '1'
+  GDP: '0'
+  CS: '0'
+  AVG: '.231'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Braun
+  nameFirst: E. Kenneth
+  nameClub1: Oklahoma City
+  G: '117'
+  AB: '352'
+  R: '38'
+  H: '81'
+  TB: '84'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '4'
+  BB: '29'
+  HP: '2'
+  RBI: '14'
+  SO: '42'
+  GDP: '8'
+  CS: '2'
+  AVG: '.230'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Storie
+  nameFirst: Burl B.
+  nameClub1: Dallas
+  G: '65'
+  AB: '196'
+  R: '22'
+  H: '45'
+  TB: '56'
+  H2B: '9'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '16'
+  HP: '2'
+  RBI: '26'
+  SO: '23'
+  GDP: '2'
+  CS: '0'
+  AVG: '.230'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sidlo
+  nameFirst: Elmer M.
+  nameClub1: Oklahoma City
+  bats: L
+  G: '133'
+  AB: '471'
+  R: '39'
+  H: '108'
+  TB: '154'
+  H2B: '17'
+  H3B: '13'
+  HR: '1'
+  SH: '5'
+  SB: '5'
+  BB: '48'
+  HP: '1'
+  RBI: '52'
+  SO: '66'
+  GDP: '8'
+  CS: '5'
+  AVG: '.229'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Galle
+  nameFirst: Stanley
+  nameClub1: San Antonio
+  G: '78'
+  AB: '250'
+  R: '31'
+  H: '57'
+  TB: '73'
+  H2B: '14'
+  H3B: '1'
+  HR: '0'
+  SH: '9'
+  SB: '0'
+  BB: '19'
+  HP: '2'
+  RBI: '27'
+  SO: '18'
+  GDP: '9'
+  CS: '1'
+  AVG: '.228'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cola
+  nameFirst: Clem
+  nameClub1: Dallas
+  bats: B
+  G: '32'
+  AB: '66'
+  R: '8'
+  H: '15'
+  TB: '20'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '20'
+  HP: '0'
+  RBI: '11'
+  SO: '11'
+  GDP: '4'
+  CS: '1'
+  AVG: '.227'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCabe
+  nameFirst: Ralph H.
+  nameClub1: Oklahoma City
+  G: '29'
+  AB: '44'
+  R: '2'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '0'
+  GDP: '0'
+  CS: '0'
+  AVG: '.227'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Basgall
+  nameFirst: Romanus
+  nameClub1: Fort Worth
+  G: '155'
+  AB: '545'
+  R: '60'
+  H: '123'
+  TB: '152'
+  H2B: '22'
+  H3B: '2'
+  HR: '1'
+  SH: '13'
+  SB: '8'
+  BB: '54'
+  HP: '5'
+  RBI: '45'
+  SO: '48'
+  GDP: '11'
+  CS: '5'
+  AVG: '.226'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mailho
+  nameFirst: Emil
+  nameClub1: Oklahoma City
+  bats: L
+  G: '55'
+  AB: '177'
+  R: '27'
+  H: '40'
+  TB: '50'
+  H2B: '4'
+  H3B: '3'
+  HR: '0'
+  SH: '1'
+  SB: '4'
+  BB: '40'
+  HP: '0'
+  RBI: '9'
+  SO: '16'
+  GDP: '2'
+  CS: '2'
+  AVG: '.226'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sertich
+  nameFirst: Michael
+  nameClub1: San Antonio
+  G: '88'
+  AB: '262'
+  R: '30'
+  H: '59'
+  TB: '72'
+  H2B: '13'
+  H3B: '0'
+  HR: '0'
+  SH: '9'
+  SB: '0'
+  BB: '31'
+  HP: '0'
+  RBI: '31'
+  SO: '28'
+  GDP: '10'
+  CS: '0'
+  AVG: '.225'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: Joseph
+  nameClub1: Beaumont
+  bats: L
+  G: '52'
+  AB: '184'
+  R: '19'
+  H: '42'
+  TB: '57'
+  H2B: '6'
+  H3B: '3'
+  HR: '1'
+  SH: '1'
+  SB: '5'
+  BB: '20'
+  HP: '0'
+  RBI: '12'
+  SO: '33'
+  GDP: '4'
+  CS: '1'
+  AVG: '.225'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Heitman
+  nameFirst: Lloyd W.
+  nameClub1: Shreveport
+  G: '28'
+  AB: '89'
+  R: '11'
+  H: '20'
+  TB: '25'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '15'
+  HP: '0'
+  RBI: '5'
+  SO: '17'
+  GDP: '0'
+  CS: '1'
+  AVG: '.225'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Zachary
+  nameFirst: Albert
+  nameClub1: Fort Worth
+  G: '32'
+  AB: '76'
+  R: '7'
+  H: '17'
+  TB: '21'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '10'
+  SO: '16'
+  GDP: '2'
+  CS: '0'
+  AVG: '.224'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Crosby
+  nameFirst: Jerry L.
+  nameClub1: Beaumont
+  bats: B
+  G: '131'
+  AB: '452'
+  R: '62'
+  H: '100'
+  TB: '134'
+  H2B: '23'
+  H3B: '4'
+  HR: '1'
+  SH: '7'
+  SB: '14'
+  BB: '56'
+  HP: '2'
+  RBI: '38'
+  SO: '39'
+  GDP: '7'
+  CS: '8'
+  AVG: '.221'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Studener
+  nameFirst: Lester W.
+  nameClub1: Houston
+  G: '35'
+  AB: '82'
+  R: '6'
+  H: '18'
+  TB: '21'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '6'
+  SO: '20'
+  GDP: '0'
+  CS: '0'
+  AVG: '.220'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Skale
+  nameFirst: Richard J.
+  nameClub1: Shreveport
+  G: '53'
+  AB: '150'
+  R: '17'
+  H: '33'
+  TB: '55'
+  H2B: '3'
+  H3B: '2'
+  HR: '5'
+  SH: '2'
+  SB: '1'
+  BB: '18'
+  HP: '1'
+  RBI: '14'
+  SO: '53'
+  GDP: '2'
+  CS: '1'
+  AVG: '.220'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameFirst: Carl
+  nameClub1: Dallas
+  G: '45'
+  AB: '118'
+  R: '7'
+  H: '26'
+  TB: '30'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '8'
+  SB: '4'
+  BB: '8'
+  HP: '0'
+  RBI: '9'
+  SO: '16'
+  GDP: '1'
+  CS: '3'
+  AVG: '.220'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nelson
+  nameFirst: Arthur N.
+  nameClub1: Houston
+  G: '33'
+  AB: '60'
+  R: '9'
+  H: '13'
+  TB: '17'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '6'
+  SO: '13'
+  GDP: '2'
+  CS: '0'
+  AVG: '.217'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reider
+  nameFirst: William E.
+  nameClub1: Shreveport
+  G: '34'
+  AB: '60'
+  R: '2'
+  H: '13'
+  TB: '13'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '5'
+  SO: '18'
+  GDP: '1'
+  CS: '0'
+  AVG: '.217'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Landrum
+  nameFirst: Jesse G.
+  nameClub1: Shreveport
+  G: '62'
+  AB: '199'
+  R: '17'
+  H: '43'
+  TB: '66'
+  H2B: '12'
+  H3B: '1'
+  HR: '3'
+  SH: '1'
+  SB: '3'
+  BB: '14'
+  HP: '1'
+  RBI: '20'
+  SO: '19'
+  GDP: '6'
+  CS: '1'
+  AVG: '.216'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wright
+  nameFirst: Ab
+  nameClub1: Oklahoma City
+  G: '18'
+  AB: '51'
+  R: '3'
+  H: '11'
+  TB: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '7'
+  SO: '3'
+  GDP: '2'
+  CS: '0'
+  AVG: '.216'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vargas
+  nameFirst: Raymond
+  nameClub1: Shreveport
+  G: '28'
+  AB: '37'
+  R: '4'
+  H: '8'
+  TB: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '14'
+  GDP: '1'
+  CS: '1'
+  AVG: '.216'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ogle
+  nameFirst: Robert L.
+  nameClub1: Fort Worth
+  bats: L
+  G: '39'
+  AB: '107'
+  R: '10'
+  H: '23'
+  TB: '29'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '7'
+  HP: '1'
+  RBI: '10'
+  SO: '10'
+  GDP: '3'
+  CS: '0'
+  AVG: '.215'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sproull
+  nameFirst: Charles
+  nameClub1: Houston
+  G: '14'
+  AB: '28'
+  R: '1'
+  H: '6'
+  TB: '8'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '5'
+  SO: '2'
+  GDP: '0'
+  CS: '0'
+  AVG: '.214'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Long
+  nameFirst: Daniel B.
+  nameClub1: Fort Worth
+  G: '54'
+  AB: '150'
+  R: '10'
+  H: '32'
+  TB: '38'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '2'
+  RBI: '8'
+  SO: '29'
+  GDP: '2'
+  CS: '0'
+  AVG: '.213'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ramsdell
+  nameFirst: J. Willard
+  nameClub1: Fort Worth
+  G: '31'
+  AB: '75'
+  R: '5'
+  H: '16'
+  TB: '20'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '12'
+  SO: '11'
+  GDP: '2'
+  CS: '0'
+  AVG: '.213'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reed
+  nameFirst: Tommy
+  nameClub1: Dallas
+  G: '24'
+  AB: '75'
+  R: '8'
+  H: '16'
+  TB: '29'
+  H2B: '4'
+  H3B: '0'
+  HR: '3'
+  SH: '2'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '11'
+  SO: '18'
+  GDP: '1'
+  CS: '0'
+  AVG: '.213'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stewart
+  nameFirst: W. Mack
+  nameClub1: Tulsa
+  G: '31'
+  AB: '61'
+  R: '8'
+  H: '13'
+  TB: '17'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '8'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '10'
+  SO: '11'
+  GDP: '1'
+  CS: '0'
+  AVG: '.213'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Short
+  nameFirst: David O.
+  nameClub1: Shreveport
+  bats: L
+  G: '49'
+  AB: '137'
+  R: '6'
+  H: '29'
+  TB: '40'
+  H2B: '7'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '7'
+  SO: '14'
+  GDP: '1'
+  CS: '2'
+  AVG: '.212'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Daniels
+  nameFirst: Fred C.
+  nameClub1: Shreveport
+  G: '55'
+  AB: '156'
+  R: '22'
+  H: '33'
+  TB: '40'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '3'
+  BB: '13'
+  HP: '4'
+  RBI: '15'
+  SO: '16'
+  GDP: '8'
+  CS: '2'
+  AVG: '.212'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sumey
+  nameFirst: George W.
+  nameClub1: Houston
+  nameClub2: Tulsa
+  G: '39'
+  AB: '38'
+  R: '5'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '1'
+  SO: '4'
+  GDP: '0'
+  CS: '0'
+  AVG: '.211'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jeffcoat
+  nameFirst: George E.
+  nameClub1: Tulsa
+  nameClub2: Shreveport
+  G: '18'
+  AB: '19'
+  R: '1'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  GDP: '0'
+  CS: '0'
+  AVG: '.211'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rotermund
+  nameFirst: Adolph M.
+  nameClub1: Houston
+  G: '20'
+  AB: '67'
+  R: '10'
+  H: '14'
+  TB: '22'
+  H2B: '2'
+  H3B: '3'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '7'
+  SO: '6'
+  GDP: '1'
+  CS: '1'
+  AVG: '.209'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Duncan
+  nameFirst: Robert E.
+  nameClub1: Shreveport
+  G: '23'
+  AB: '72'
+  R: '12'
+  H: '15'
+  TB: '30'
+  H2B: '6'
+  H3B: '0'
+  HR: '3'
+  SH: '0'
+  SB: '1'
+  BB: '11'
+  HP: '2'
+  RBI: '16'
+  SO: '16'
+  GDP: '2'
+  CS: '1'
+  AVG: '.208'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Czaplicki
+  nameFirst: Eugene P.
+  nameClub1: Houston
+  G: '23'
+  AB: '54'
+  R: '5'
+  H: '11'
+  TB: '18'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '11'
+  GDP: '3'
+  CS: '0'
+  AVG: '.204'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Toncoff
+  nameFirst: John
+  nameClub1: Shreveport
+  G: '35'
+  AB: '84'
+  R: '6'
+  H: '17'
+  TB: '23'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '11'
+  GDP: '5'
+  CS: '0'
+  AVG: '.202'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hale
+  nameFirst: Benjamin E.
+  nameClub1: Dallas
+  G: '36'
+  AB: '70'
+  R: '6'
+  H: '14'
+  TB: '19'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '9'
+  HP: '1'
+  RBI: '3'
+  SO: '16'
+  GDP: '0'
+  CS: '0'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Penso
+  nameFirst: Felix J.
+  nameClub1: Fort Worth
+  nameClub2: Tulsa
+  G: '40'
+  AB: '45'
+  R: '5'
+  H: '9'
+  TB: '12'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  GDP: '0'
+  CS: '1'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dothager
+  nameFirst: A. Earl
+  nameClub1: Houston
+  nameClub2: Shreveport
+  G: '33'
+  AB: '45'
+  R: '6'
+  H: '9'
+  TB: '12'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '3'
+  SO: '8'
+  GDP: '1'
+  CS: '0'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Campbell
+  nameFirst: Fred G.
+  nameClub1: San Antonio
+  G: '16'
+  AB: '50'
+  R: '7'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '4'
+  GDP: '1'
+  CS: '0'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Powaski
+  nameFirst: Frank J.
+  nameClub1: Fort Worth
+  G: '11'
+  AB: '25'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '7'
+  SO: '4'
+  GDP: '2'
+  CS: '1'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bickhaus
+  nameFirst: Ernest R.
+  nameClub1: San Antonio
+  G: '12'
+  AB: '20'
+  R: '4'
+  H: '4'
+  TB: '6'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  GDP: '1'
+  CS: '0'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Zydowsky
+  nameFirst: Edward M.
+  nameClub1: Tulsa
+  nameClub2: Shreveport
+  G: '35'
+  AB: '76'
+  R: '3'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '9'
+  SO: '12'
+  GDP: '1'
+  CS: '0'
+  AVG: '.197'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Corriden
+  nameFirst: John
+  nameClub1: Fort Worth
+  bats: B
+  G: '24'
+  AB: '76'
+  R: '8'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '14'
+  HP: '3'
+  RBI: '3'
+  SO: '10'
+  GDP: '0'
+  CS: '3'
+  AVG: '.197'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bell
+  nameFirst: Woodrow
+  nameClub1: San Antonio
+  bats: L
+  G: '29'
+  AB: '71'
+  R: '10'
+  H: '14'
+  TB: '17'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  HP: '1'
+  RBI: '2'
+  SO: '10'
+  GDP: '0'
+  CS: '1'
+  AVG: '.197'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Nagel
+  nameFirst: William T.
+  nameClub1: Oklahoma City
+  G: '91'
+  AB: '271'
+  R: '20'
+  H: '53'
+  TB: '75'
+  H2B: '10'
+  H3B: '0'
+  HR: '4'
+  SH: '3'
+  SB: '1'
+  BB: '14'
+  HP: '2'
+  RBI: '30'
+  SO: '32'
+  GDP: '10'
+  CS: '2'
+  AVG: '.196'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marnie
+  nameFirst: Harry S.
+  nameClub1: Houston
+  G: '52'
+  AB: '189'
+  R: '16'
+  H: '37'
+  TB: '48'
+  H2B: '6'
+  H3B: '1'
+  HR: '1'
+  SH: '3'
+  SB: '2'
+  BB: '14'
+  HP: '1'
+  RBI: '12'
+  SO: '18'
+  GDP: '2'
+  CS: '2'
+  AVG: '.196'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gann
+  nameFirst: W. Clarence
+  nameClub1: Shreveport
+  G: '37'
+  AB: '46'
+  R: '0'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '7'
+  GDP: '0'
+  CS: '0'
+  AVG: '.196'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pullig
+  nameFirst: Thomas V.
+  nameClub1: Dallas
+  G: '28'
+  AB: '36'
+  R: '3'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '5'
+  GDP: '1'
+  CS: '0'
+  AVG: '.194'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameFirst: W. Stuart
+  nameClub1: Beaumont
+  G: '13'
+  AB: '36'
+  R: '3'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '3'
+  SO: '7'
+  GDP: '1'
+  CS: '0'
+  AVG: '.194'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Heim
+  nameFirst: Val
+  nameClub1: Shreveport
+  bats: L
+  G: '32'
+  AB: '89'
+  R: '4'
+  H: '17'
+  TB: '30'
+  H2B: '4'
+  H3B: '3'
+  HR: '1'
+  SH: '3'
+  SB: '3'
+  BB: '18'
+  HP: '0'
+  RBI: '11'
+  SO: '14'
+  GDP: '2'
+  CS: '1'
+  AVG: '.191'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Morton
+  nameFirst: James L.
+  nameClub1: Houston
+  bats: L
+  G: '23'
+  AB: '68'
+  R: '10'
+  H: '13'
+  TB: '20'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '14'
+  HP: '0'
+  RBI: '6'
+  SO: '12'
+  GDP: '2'
+  CS: '2'
+  AVG: '.191'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Perry
+  nameFirst: Henry K.
+  nameClub1: Dallas
+  G: '24'
+  AB: '37'
+  R: '3'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '1'
+  SO: '14'
+  GDP: '0'
+  CS: '0'
+  AVG: '.189'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Murphy
+  nameFirst: Roland W.
+  nameClub1: Shreveport
+  bats: L
+  G: '10'
+  AB: '37'
+  R: '4'
+  H: '7'
+  TB: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '6'
+  GDP: '0'
+  CS: '0'
+  AVG: '.189'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Croucher
+  nameFirst: Frank L.
+  nameClub1: San Antonio
+  G: '35'
+  AB: '96'
+  R: '12'
+  H: '18'
+  TB: '20'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '3'
+  SO: '14'
+  GDP: '3'
+  CS: '0'
+  AVG: '.188'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Grantham
+  nameFirst: Elwood C.
+  nameClub1: Tulsa
+  G: '14'
+  AB: '43'
+  R: '4'
+  H: '8'
+  TB: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '7'
+  SO: '6'
+  GDP: '0'
+  CS: '0'
+  AVG: '.186'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Orrell
+  nameFirst: Forest G.
+  nameClub1: Dallas
+  G: '23'
+  AB: '38'
+  R: '1'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  GDP: '0'
+  CS: '0'
+  AVG: '.184'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: Douglas
+  nameClub1: Houston
+  G: '24'
+  AB: '55'
+  R: '7'
+  H: '10'
+  TB: '12'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '7'
+  GDP: '1'
+  CS: '3'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hresko
+  nameFirst: Emery
+  nameClub1: Dallas
+  G: '16'
+  AB: '44'
+  R: '6'
+  H: '8'
+  TB: '16'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '3'
+  BB: '6'
+  HP: '0'
+  RBI: '6'
+  SO: '11'
+  GDP: '1'
+  CS: '1'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bogard
+  nameFirst: John P.
+  nameClub1: Beaumont
+  G: '12'
+  AB: '33'
+  R: '4'
+  H: '6'
+  TB: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '1'
+  GDP: '0'
+  CS: '0'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Devlin
+  nameFirst: James
+  nameClub1: Oklahoma City
+  bats: L
+  G: '10'
+  AB: '22'
+  R: '3'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '1'
+  GDP: '0'
+  CS: '0'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Simoninis
+  nameFirst: Alphonsus
+  nameClub1: Shreveport
+  G: '14'
+  AB: '50'
+  R: '5'
+  H: '9'
+  TB: '13'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '9'
+  GDP: '2'
+  CS: '0'
+  AVG: '.180'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jakucki
+  nameFirst: Sigmund
+  nameClub1: San Antonio
+  G: '37'
+  AB: '84'
+  R: '6'
+  H: '15'
+  TB: '19'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '6'
+  SO: '21'
+  GDP: '2'
+  CS: '0'
+  AVG: '.179'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Boger
+  nameFirst: Hoyle
+  nameClub1: Oklahoma City
+  G: '80'
+  AB: '208'
+  R: '12'
+  H: '37'
+  TB: '45'
+  H2B: '4'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '14'
+  HP: '1'
+  RBI: '13'
+  SO: '35'
+  GDP: '8'
+  CS: '1'
+  AVG: '.178'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Harrington
+  nameFirst: Wayne, Jr.
+  nameClub1: Tulsa
+  bats: L
+  G: '11'
+  AB: '17'
+  R: '3'
+  H: '3'
+  TB: '5'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  GDP: '0'
+  CS: '0'
+  AVG: '.176'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kracher
+  nameFirst: Joseph P.
+  nameClub1: Shreveport
+  G: '15'
+  AB: '40'
+  R: '3'
+  H: '7'
+  TB: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '5'
+  SO: '5'
+  GDP: '1'
+  CS: '0'
+  AVG: '.175'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameFirst: Glenn H.
+  nameClub1: Tulsa
+  G: '17'
+  AB: '23'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '0'
+  SO: '3'
+  GDP: '1'
+  CS: '0'
+  AVG: '.174'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sanchez
+  nameFirst: William T.
+  nameClub1: Houston
+  nameClub2: Shreveport
+  bats: B
+  G: '15'
+  AB: '23'
+  R: '0'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  GDP: '0'
+  CS: '0'
+  AVG: '.174'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hogue
+  nameFirst: Robert C.
+  nameClub1: Dallas
+  G: '29'
+  AB: '64'
+  R: '6'
+  H: '11'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  GDP: '3'
+  CS: '0'
+  AVG: '.172'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Robinson
+  nameFirst: John E.
+  nameClub1: Beaumont
+  G: '30'
+  AB: '70'
+  R: '5'
+  H: '12'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '8'
+  SO: '19'
+  GDP: '2'
+  CS: '0'
+  AVG: '.171'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Steinbach
+  nameFirst: Andrew J.
+  nameClub1: Tulsa
+  G: '23'
+  AB: '41'
+  R: '5'
+  H: '7'
+  TB: '10'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '10'
+  GDP: '1'
+  CS: '0'
+  AVG: '.171'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McCluskey
+  nameFirst: Paul J.
+  nameClub1: Fort Worth
+  G: '38'
+  AB: '102'
+  R: '14'
+  H: '17'
+  TB: '22'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '16'
+  HP: '0'
+  RBI: '5'
+  SO: '31'
+  GDP: '1'
+  CS: '2'
+  AVG: '.171'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lade
+  nameFirst: Doyle M.
+  nameClub1: Shreveport
+  G: '35'
+  AB: '78'
+  R: '0'
+  H: '13'
+  TB: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '2'
+  HP: '2'
+  RBI: '4'
+  SO: '19'
+  GDP: '2'
+  CS: '0'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Woldt
+  nameFirst: Roy
+  nameClub1: Dallas
+  G: '23'
+  AB: '54'
+  R: '7'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '6'
+  HP: '1'
+  RBI: '3'
+  SO: '7'
+  GDP: '0'
+  CS: '0'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bartowski
+  nameFirst: Stanley J.
+  nameClub1: Shreveport
+  G: '11'
+  AB: '30'
+  R: '1'
+  H: '5'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  GDP: '1'
+  CS: '0'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Marleau
+  nameFirst: Edward
+  nameClub1: Beaumont
+  G: '13'
+  AB: '6'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '1'
+  GDP: '0'
+  CS: '0'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mandish
+  nameFirst: George R.
+  nameClub1: Shreveport
+  G: '10'
+  AB: '31'
+  R: '2'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '1'
+  SO: '10'
+  GDP: '0'
+  CS: '0'
+  AVG: '.161'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Chandler
+  nameFirst: Edward O.
+  nameClub1: Fort Worth
+  G: '36'
+  AB: '89'
+  R: '11'
+  H: '14'
+  TB: '17'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '9'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '7'
+  SO: '16'
+  GDP: '1'
+  CS: '0'
+  AVG: '.157'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lowe
+  nameFirst: Lloyd B. A.
+  nameClub1: Houston
+  G: '24'
+  AB: '51'
+  R: '6'
+  H: '8'
+  TB: '12'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '2'
+  RBI: '2'
+  SO: '18'
+  GDP: '0'
+  CS: '1'
+  AVG: '.157'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Samaklis
+  nameFirst: Charles
+  nameClub1: Fort Worth
+  bats: L
+  G: '30'
+  AB: '32'
+  R: '3'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '0'
+  SO: '10'
+  GDP: '0'
+  CS: '0'
+  AVG: '.156'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jennings
+  nameFirst: James R.
+  nameClub1: Houston
+  bats: L
+  G: '25'
+  AB: '78'
+  R: '6'
+  H: '12'
+  TB: '13'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '7'
+  HP: '4'
+  RBI: '9'
+  SO: '11'
+  GDP: '1'
+  CS: '0'
+  AVG: '.154'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: Aubrey
+  nameClub1: Dallas
+  G: '15'
+  AB: '59'
+  R: '5'
+  H: '9'
+  TB: '16'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '8'
+  SO: '5'
+  GDP: '6'
+  CS: '0'
+  AVG: '.153'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Swift
+  nameFirst: Burton P.
+  nameClub1: Oklahoma City
+  bats: L
+  G: '32'
+  AB: '46'
+  R: '3'
+  H: '7'
+  TB: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '15'
+  GDP: '0'
+  CS: '0'
+  AVG: '.152'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cole
+  nameFirst: Eddie
+  nameClub1: San Antonio
+  G: '30'
+  AB: '68'
+  R: '4'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '2'
+  SO: '13'
+  GDP: '0'
+  CS: '0'
+  AVG: '.147'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pringle
+  nameFirst: Gale
+  nameClub1: Beaumont
+  G: '36'
+  AB: '41'
+  R: '5'
+  H: '6'
+  TB: '9'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '15'
+  GDP: '0'
+  CS: '0'
+  AVG: '.146'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Beers
+  nameFirst: Clarence S., Jr.
+  nameClub1: Houston
+  G: '33'
+  AB: '62'
+  R: '3'
+  H: '9'
+  TB: '19'
+  H2B: '3'
+  H3B: '2'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '7'
+  SO: '19'
+  GDP: '2'
+  CS: '1'
+  AVG: '.145'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bean
+  nameFirst: Cornelius
+  nameClub1: Oklahoma City
+  G: '11'
+  AB: '28'
+  R: '5'
+  H: '4'
+  TB: '6'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  GDP: '2'
+  CS: '0'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gilmore
+  nameFirst: Leonard P.
+  nameClub1: Oklahoma City
+  G: '28'
+  AB: '67'
+  R: '7'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '25'
+  GDP: '2'
+  CS: '0'
+  AVG: '.134'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Boles
+  nameFirst: Roy L.
+  nameClub1: Fort Worth
+  G: '20'
+  AB: '30'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '0'
+  SO: '10'
+  GDP: '0'
+  CS: '0'
+  AVG: '.133'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wilson
+  nameFirst: Walter W.
+  nameClub1: Dallas
+  bats: B
+  G: '34'
+  AB: '84'
+  R: '3'
+  H: '11'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '8'
+  SO: '11'
+  GDP: '0'
+  CS: '1'
+  AVG: '.131'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Todd
+  nameFirst: Stanley B.
+  nameClub1: Beaumont
+  G: '39'
+  AB: '16'
+  R: '0'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '5'
+  GDP: '0'
+  CS: '0'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Perme
+  nameFirst: Leonard
+  nameClub1: Shreveport
+  bats: L
+  G: '11'
+  AB: '16'
+  R: '2'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  GDP: '0'
+  CS: '0'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Garver
+  nameFirst: Ned Franklin
+  nameClub1: San Antonio
+  G: '34'
+  AB: '49'
+  R: '6'
+  H: '6'
+  TB: '8'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '11'
+  GDP: '4'
+  CS: '0'
+  AVG: '.122'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hatley
+  nameFirst: Leo
+  nameClub1: Oklahoma City
+  bats: L
+  G: '42'
+  AB: '41'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '16'
+  GDP: '0'
+  CS: '0'
+  AVG: '.122'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Iott
+  nameFirst: Clarence
+  nameClub1: San Antonio
+  bats: B
+  G: '23'
+  AB: '42'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '3'
+  SO: '20'
+  GDP: '0'
+  CS: '0'
+  AVG: '.119'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gillespie
+  nameFirst: Robert
+  nameClub1: Dallas
+  G: '32'
+  AB: '71'
+  R: '4'
+  H: '8'
+  TB: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '1'
+  SO: '28'
+  GDP: '3'
+  CS: '0'
+  AVG: '.113'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Eisenmann
+  nameFirst: Charles P.
+  nameClub1: Tulsa
+  bats: L
+  G: '18'
+  AB: '36'
+  R: '0'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  GDP: '1'
+  CS: '0'
+  AVG: '.111'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wood
+  nameFirst: John H.
+  nameClub1: Shreveport
+  G: '11'
+  AB: '9'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  GDP: '0'
+  CS: '0'
+  AVG: '.111'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameFirst: Wiliiam L., Jr.
+  nameClub1: Tulsa
+  nameClub2: Dallas
+  G: '10'
+  AB: '30'
+  R: '3'
+  H: '3'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  GDP: '2'
+  CS: '1'
+  AVG: '.100'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Dorsett
+  nameFirst: Calvin L.
+  nameClub1: Oklahoma City
+  G: '47'
+  AB: '53'
+  R: '3'
+  H: '5'
+  TB: '7'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '4'
+  SO: '1'
+  GDP: '2'
+  CS: '0'
+  AVG: '.095'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: VanCuyk
+  nameFirst: John H.
+  nameClub1: Fort Worth
+  bats: L
+  G: '30'
+  AB: '77'
+  R: '4'
+  H: '7'
+  TB: '9'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '8'
+  SB: '0'
+  BB: '4'
+  HP: '2'
+  RBI: '5'
+  SO: '48'
+  GDP: '1'
+  CS: '0'
+  AVG: '.091'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williamson
+  nameFirst: Verne G.
+  nameClub1: Shreveport
+  G: '35'
+  AB: '53'
+  R: '6'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '0'
+  SO: '5'
+  GDP: '2'
+  CS: '0'
+  AVG: '.075'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sorelle
+  nameFirst: Boyd
+  nameClub1: San Antonio
+  G: '23'
+  AB: '29'
+  R: '2'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '17'
+  GDP: '0'
+  CS: '0'
+  AVG: '.069'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameFirst: Frank L.
+  nameClub1: Shreveport
+  G: '15'
+  AB: '15'
+  R: '1'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  GDP: '0'
+  CS: '0'
+  AVG: '.067'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Eaves
+  nameFirst: Vallie
+  nameClub1: Oklahoma City
+  G: '12'
+  AB: '17'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  GDP: '0'
+  CS: '0'
+  AVG: '.059'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Karas
+  nameFirst: Eddie
+  nameClub1: Oklahoma City
+  G: '24'
+  AB: '37'
+  R: '2'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '15'
+  GDP: '2'
+  CS: '0'
+  AVG: '.054'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mistele
+  nameFirst: Robert S.
+  nameClub1: Oklahoma City
+  G: '29'
+  AB: '40'
+  R: '3'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '15'
+  GDP: '1'
+  CS: '0'
+  AVG: '.050'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Meserly
+  nameFirst: Russ
+  nameClub1: Oklahoma City
+  G: '14'
+  AB: '23'
+  R: '2'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '9'
+  GDP: '1'
+  CS: '0'
+  AVG: '.043'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Alford
+  nameFirst: Robert
+  nameClub1: Tulsa
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Anske
+  nameFirst: William
+  nameClub1: Beaumont
+  G: '3'
+  AB: '6'
+  R: '0'
+  H: '1'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Baker
+  nameFirst: Wilis A.
+  nameClub1: Beaumont
+  G: '6'
+  AB: '7'
+  R: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bergerson
+  nameFirst: Eugene
+  nameClub1: Beaumont
+  bats: L
+  G: '2'
+  AB: '2'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bertram
+  nameFirst: Clare
+  nameClub1: Tulsa
+  G: '4'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bielemeyer
+  nameFirst: Joe P.
+  nameClub1: Fort Worth
+  G: '4'
+  AB: '6'
+  R: '0'
+  H: '1'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bilbrey
+  nameFirst: James
+  nameClub1: San Antonio
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Blackwood
+  nameFirst: Glenn
+  nameClub1: Oklahoma City
+  G: '7'
+  AB: '4'
+  R: '1'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Branch
+  nameFirst: Norman D.
+  nameClub1: Beaumont
+  G: '5'
+  AB: '8'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burchfield
+  nameFirst: Gilbert
+  nameClub1: Shreveport
+  G: '3'
+  AB: '3'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Burich
+  nameFirst: William
+  nameClub1: Houston
+  G: '2'
+  AB: '4'
+  R: '0'
+  H: '2'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Buzolich
+  nameFirst: Antonio
+  nameClub1: Oklahoma City
+  G: '3'
+  AB: '3'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Bytnar
+  nameFirst: Henry A.
+  nameClub1: Shreveport
+  G: '2'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Carlson
+  nameFirst: Robert
+  nameClub1: Tulsa
+  G: '4'
+  AB: '3'
+  R: '0'
+  H: '1'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Chandler
+  nameFirst: Raymond
+  nameClub1: Dallas
+  bats: L
+  G: '1'
+  AB: '2'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Chlebeck
+  nameFirst: Andrew
+  nameClub1: Shreveport
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameFirst: Dwight
+  nameClub1: Oklahoma City
+  G: '4'
+  AB: '3'
+  R: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Conn
+  nameFirst: Chester C.
+  nameClub1: Shreveport
+  G: '3'
+  AB: '2'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Costello
+  nameFirst: Robert L.
+  nameClub1: Fort Worth
+  G: '2'
+  AB: '8'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Cwik
+  nameFirst: Walter
+  nameClub1: Oklahoma City
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: George
+  nameClub1: Houston
+  G: '7'
+  AB: '20'
+  R: '2'
+  H: '4'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: Otis
+  nameClub1: Fort Worth
+  bats: L
+  G: '5'
+  AB: '3'
+  R: '0'
+  H: '1'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameFirst: William H.
+  nameClub1: Beaumont
+  G: '7'
+  AB: '3'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Deets
+  nameFirst: John T.
+  nameClub1: Dallas
+  G: '2'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Demma
+  nameFirst: Salvador
+  nameClub1: Shreveport
+  G: '6'
+  AB: '19'
+  R: '1'
+  H: '3'
+  AVG: '.158'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Early
+  nameFirst: Thomas F.
+  nameClub1: Tulsa
+  G: '2'
+  AB: '2'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ehrensbreger
+  nameFirst: Wm.
+  nameClub1: Beaumont
+  G: '2'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Emmertson
+  nameFirst: Alva
+  nameClub1: Beaumont
+  G: '3'
+  AB: '7'
+  R: '1'
+  H: '2'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Errant
+  nameFirst: Martin
+  nameClub1: Dallas
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Finger
+  nameFirst: Tom
+  nameClub1: San Antonio
+  bats: L
+  G: '2'
+  AB: '4'
+  R: '1'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Flager
+  nameFirst: Walter
+  nameClub1: Shreveport
+  bats: L
+  G: '5'
+  AB: '17'
+  R: '0'
+  H: '1'
+  AVG: '.059'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Forest
+  nameFirst: Lee
+  nameClub1: Dallas
+  G: '3'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Fowie
+  nameFirst: Harry
+  nameClub1: Beaumont
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Greer
+  nameFirst: Willie S.
+  nameClub1: Beaumont
+  G: '3'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Gudger
+  nameFirst: James F.
+  nameClub1: Houston
+  G: '3'
+  AB: '4'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hamtpon
+  nameFirst: Robert
+  nameClub1: Oklahoma City
+  G: '7'
+  AB: '5'
+  R: '2'
+  H: '2'
+  AVG: '.400'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hanyzewski
+  nameFirst: Ed
+  nameClub1: Tulsa
+  G: '8'
+  AB: '16'
+  R: '1'
+  H: '4'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Heitzel
+  nameFirst: Henry
+  nameClub1: Shreveport
+  G: '5'
+  AB: '14'
+  R: '1'
+  H: '2'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hicks
+  nameFirst: Kenneth
+  nameClub1: Tulsa
+  bats: L
+  G: '2'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hile
+  nameFirst: Daniel
+  nameClub1: Houston
+  G: '2'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hittle
+  nameFirst: Max
+  nameClub1: Beaumont
+  G: '8'
+  AB: '12'
+  R: '1'
+  H: '2'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Hofman
+  nameFirst: Theodore O.
+  nameClub1: Shreveport
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Janicek
+  nameFirst: Lewis W.
+  nameClub1: San Antonio
+  bats: L
+  G: '6'
+  AB: '6'
+  R: '2'
+  H: '2'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Jeske
+  nameFirst: Al
+  nameClub1: Shreveport
+  G: '2'
+  AB: '3'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Keane
+  nameFirst: John
+  nameClub1: Houston
+  G: '5'
+  AB: '8'
+  R: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kielas
+  nameFirst: Harry
+  nameClub1: Oklahoma City
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kimmett
+  nameFirst: Jules
+  nameClub1: Oklahoma City
+  bats: L
+  G: '8'
+  AB: '8'
+  R: '1'
+  H: '1'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kneupper
+  nameFirst: Ben
+  nameClub1: Shreveport
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Knowles
+  nameFirst: Giles
+  nameClub1: Tulsa
+  G: '7'
+  AB: '11'
+  R: '1'
+  H: '1'
+  AVG: '.099'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Koby
+  nameFirst: George, Jr.
+  nameClub1: Houston
+  G: '9'
+  AB: '9'
+  R: '1'
+  H: '2'
+  AVG: '.222'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kubecek
+  nameFirst: Bob
+  nameClub1: Houston
+  G: '0'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Kunde
+  nameFirst: Art
+  nameClub1: Oklahoma City
+  bats: L
+  G: '9'
+  AB: '27'
+  R: '4'
+  H: '11'
+  AVG: '.407'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: LaMacchia
+  nameFirst: Alfred
+  nameClub1: San Antonio
+  G: '8'
+  AB: '7'
+  R: '0'
+  H: '2'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Lammers
+  nameFirst: Paul D.
+  nameClub1: Tulsa
+  G: '8'
+  AB: '2'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Larrabee
+  nameFirst: Dale
+  nameClub1: Houston
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '1'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Louthen
+  nameFirst: Ray
+  nameClub1: Beaumont
+  G: '9'
+  AB: '16'
+  R: '0'
+  H: '3'
+  AVG: '.188'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McGarity
+  nameFirst: Leslie
+  nameClub1: San Antonio
+  G: '2'
+  AB: '2'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McKinney
+  nameFirst: Jack L.
+  nameClub1: Beaumont
+  G: '7'
+  AB: '12'
+  R: '0'
+  H: '1'
+  AVG: '.083'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McLaughlin
+  nameFirst: Pat
+  nameClub1: Shreveport
+  G: '7'
+  AB: '6'
+  R: '0'
+  H: '1'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: McNair
+  nameFirst: Gerald P.
+  nameClub1: Shreveport
+  G: '7'
+  AB: '23'
+  R: '1'
+  H: '8'
+  AVG: '.435'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Manjack
+  nameFirst: Michael J.
+  nameClub1: Shreveport
+  bats: L
+  G: '5'
+  AB: '5'
+  R: '1'
+  H: '2'
+  AVG: '.400'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Maribito
+  nameFirst: John
+  nameClub1: Oklahoma City
+  bats: L
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Meyers
+  nameFirst: Don
+  nameClub1: Dallas
+  G: '6'
+  AB: '12'
+  R: '1'
+  H: '1'
+  AVG: '.083'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Milani
+  nameFirst: Frank
+  nameClub1: Beaumont
+  G: '6'
+  AB: '22'
+  R: '2'
+  H: '3'
+  AVG: '.136'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Miller
+  nameFirst: Ken
+  nameClub1: Oklahoma City
+  nameClub2: Tulsa
+  G: '5'
+  AB: '4'
+  R: '0'
+  H: '2'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mills
+  nameFirst: Royce W.
+  nameClub1: Dallas
+  G: '2'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Mohrlock
+  nameFirst: Andreas
+  nameClub1: Houston
+  G: '7'
+  AB: '12'
+  R: '0'
+  H: '2'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Moran
+  nameFirst: Jimmy
+  nameClub1: Dallas
+  G: '4'
+  AB: '14'
+  R: '2'
+  H: '3'
+  AVG: '.214'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Musser
+  nameFirst: Roy
+  nameClub1: Beaumont
+  G: '4'
+  AB: '15'
+  R: '1'
+  H: '3'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Okrie
+  nameFirst: Bob
+  nameClub1: San Antonio
+  bats: L
+  G: '7'
+  AB: '18'
+  R: '3'
+  H: '4'
+  AVG: '.222'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Passero
+  nameFirst: Joe
+  nameClub1: Beaumont
+  bats: L
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Paynter
+  nameFirst: David
+  nameClub1: Oklahoma City
+  G: '8'
+  AB: '6'
+  R: '0'
+  H: '1'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Pepper
+  nameFirst: Fred
+  nameClub1: Beaumont
+  G: '3'
+  AB: '7'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Piercey
+  nameFirst: Knowles
+  nameClub1: Oklahoma City
+  bats: L
+  G: '6'
+  AB: '4'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ragone
+  nameFirst: Harry J., Jr.
+  nameClub1: Beaumont
+  G: '2'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reed
+  nameFirst: Harry
+  nameClub1: Houston
+  G: '2'
+  AB: '7'
+  R: '0'
+  H: '2'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reisinger
+  nameFirst: Grover
+  nameClub1: Shreveport
+  G: '8'
+  AB: '29'
+  R: '5'
+  H: '4'
+  AVG: '.138'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Reynolds
+  nameFirst: Vernon
+  nameClub1: San Antonio
+  bats: L
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '0'
+  CS: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rooney
+  nameFirst: Pat
+  nameClub1: Dallas
+  bats: L
+  G: '1'
+  AB: '8'
+  R: '0'
+  H: '1'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Rundus
+  nameFirst: Rudy
+  nameClub1: Houston
+  G: '3'
+  AB: '2'
+  R: '0'
+  H: '1'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sakas
+  nameFirst: Steve
+  nameClub1: Shreveport
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scheiwe
+  nameFirst: Edwin
+  nameClub1: Oklahoma City
+  G: '3'
+  AB: '7'
+  R: '0'
+  H: '1'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Schultz
+  nameFirst: Carl
+  nameClub1: San Antonio
+  bats: L
+  G: '4'
+  AB: '12'
+  R: '1'
+  H: '4'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Scotti
+  nameFirst: Anthony
+  nameClub1: Houston
+  bats: L
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Shroba
+  nameFirst: Joe
+  nameClub1: Houston
+  G: '7'
+  AB: '16'
+  R: '2'
+  H: '6'
+  AVG: '.375'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sidaris
+  nameFirst: Chris W.
+  nameClub1: Shreveport
+  G: '6'
+  AB: '11'
+  R: '1'
+  H: '2'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Smith
+  nameFirst: Fred
+  nameClub1: Tulsa
+  bats: L
+  G: '1'
+  AB: '3'
+  R: '0'
+  H: '0'
+  CS: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sommerer
+  nameFirst: Albert
+  nameClub1: Houston
+  G: '9'
+  AB: '8'
+  R: '0'
+  H: '2'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stalder
+  nameFirst: Gorman
+  nameClub1: San Antonio
+  G: '5'
+  AB: '1'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stevenson
+  nameFirst: Chas., Jr.
+  nameClub1: Shreveport
+  G: '4'
+  AB: '7'
+  R: '0'
+  H: '4'
+  AVG: '.571'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stewart
+  nameFirst: Harold W.
+  nameClub1: Tulsa
+  G: '6'
+  AB: '5'
+  R: '0'
+  H: '1'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stockwell
+  nameFirst: Walt
+  nameClub1: Oklahoma City
+  bats: L
+  G: '4'
+  AB: '11'
+  R: '0'
+  H: '1'
+  AVG: '.091'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Storenski
+  nameFirst: Eddie
+  nameClub1: Houston
+  G: '3'
+  AB: '3'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Strezza
+  nameFirst: John
+  nameClub1: Shreveport
+  G: '7'
+  AB: '20'
+  R: '3'
+  H: '6'
+  AVG: '.300'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Stroupe
+  nameFirst: Winslow
+  nameClub1: Shreveport
+  G: '7'
+  AB: '5'
+  R: '1'
+  H: '1'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameFirst: William A.
+  nameClub1: Shreveport
+  G: '5'
+  AB: '6'
+  R: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Sutak
+  nameFirst: Tom
+  nameClub1: Tulsa
+  G: '4'
+  AB: '2'
+  R: '0'
+  H: '1'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Tart
+  nameFirst: Robert J.
+  nameClub1: Shreveport
+  bats: L
+  G: '3'
+  AB: '2'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Tate
+  nameFirst: John
+  nameClub1: Oklahoma City
+  G: '6'
+  AB: '5'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Tebrinke
+  nameFirst: Martin
+  nameClub1: Oklahoma City
+  G: '5'
+  AB: '6'
+  R: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Uhle
+  nameFirst: Robert
+  nameClub1: Dallas
+  bats: B
+  G: '8'
+  AB: '4'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Vincent
+  nameFirst: Al
+  nameClub1: Dallas
+  G: '5'
+  AB: '11'
+  R: '3'
+  H: '3'
+  AVG: '.273'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Walker
+  nameFirst: Robert
+  nameClub1: Tulsa
+  G: '1'
+  AB: '0'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Ward
+  nameFirst: Preston
+  nameClub1: Fort Worth
+  bats: L
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '1'
+  AVG: '1.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Weaver
+  nameFirst: Claud W.
+  nameClub1: Shreveport
+  G: '8'
+  AB: '5'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Weingartner
+  nameFirst: Elmer
+  nameClub1: Oklahoma City
+  bats: B
+  G: '4'
+  AB: '8'
+  R: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: White
+  nameFirst: Donald Dennis
+  nameClub1: Houston
+  bats: L
+  G: '8'
+  AB: '23'
+  R: '4'
+  H: '1'
+  AVG: '.043'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Wilemon
+  nameFirst: Ernest J.
+  nameClub1: Dallas
+  G: '6'
+  AB: '7'
+  R: '0'
+  H: '1'
+  AVG: '.147'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameFirst: Robert H.
+  nameClub1: Houston
+  bats: L
+  G: '5'
+  AB: '9'
+  R: '2'
+  H: '2'
+  AVG: '.222'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Witowski
+  nameFirst: Frank
+  nameClub1: Shreveport
+  bats: L
+  G: '4'
+  AB: '7'
+  R: '1'
+  H: '3'
+  AVG: '.429'
+- year: '1946'
+  nameLeague: Texas League
+  nameLast: Yaegar
+  nameFirst: Edward
+  nameClub1: Fort Worth
+  bats: B
+  G: '3'
+  AB: '10'
+  R: '4'
+  H: '3'
+  AVG: '.360'

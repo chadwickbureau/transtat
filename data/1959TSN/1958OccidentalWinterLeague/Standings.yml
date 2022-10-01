@@ -1,0 +1,32 @@
+- year: '1958'
+  nameLeague: Occidental Winter League
+  nameClub: Rapinos
+  phase: regular
+  W: '28'
+  L: '25'
+  PCT: '.528'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Occidental Winter League
+  nameClub: Pastora
+  phase: regular
+  W: '27'
+  L: '26'
+  PCT: '.509'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Occidental Winter League
+  nameClub: Gavilanes
+  phase: regular
+  W: '26'
+  L: '26'
+  PCT: '.500'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Occidental Winter League
+  nameClub: Cabimas
+  phase: regular
+  W: '21'
+  L: '30'
+  PCT: '.412'
+  RANK: '4'

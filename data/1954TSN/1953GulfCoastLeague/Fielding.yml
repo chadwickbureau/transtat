@@ -1,0 +1,2265 @@
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Moyer
+  nameClub1: Port Arthur
+  Pos: 1B
+  G: '63'
+  PO: '516'
+  A: '33'
+  E: '3'
+  DP: '48'
+  PCT: '.995'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Jackson
+  nameClub1: Brownsville
+  throws: L
+  Pos: 1B
+  G: '16'
+  PO: '171'
+  A: '12'
+  E: '1'
+  DP: '17'
+  PCT: '.995'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Richmond
+  nameClub1: Texas City
+  Pos: 1B
+  G: '119'
+  PO: '1007'
+  A: '43'
+  E: '11'
+  DP: '73'
+  PCT: '.990'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gomez
+  nameFirst: J.
+  nameClub1: Laredo
+  throws: L
+  Pos: 1B
+  G: '118'
+  PO: '1001'
+  A: '40'
+  E: '13'
+  DP: '69'
+  PCT: '.988'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Goletz
+  nameClub1: Galveston
+  throws: L
+  Pos: 1B
+  G: '131'
+  PO: '1064'
+  A: '37'
+  E: '19'
+  DP: '107'
+  PCT: '.983'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Becker
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '32'
+  PO: '220'
+  A: '15'
+  E: '4'
+  DP: '13'
+  PCT: '.983'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Concepcion
+  nameClub1: Lake Charles
+  Pos: 1B
+  G: '30'
+  PO: '278'
+  A: '9'
+  E: '5'
+  DP: '21'
+  PCT: '.983'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Demski
+  nameClub1: Port Arthur
+  nameClub2: Harlingen
+  throws: L
+  Pos: 1B
+  G: '79'
+  PO: '456'
+  A: '46'
+  E: '9'
+  DP: '73'
+  PCT: '.982'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Kracher
+  nameClub1: Laredo
+  Pos: 1B
+  G: '61'
+  PO: '560'
+  A: '20'
+  E: '12'
+  DP: '48'
+  PCT: '.980'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Sessi
+  nameClub1: Brownsville
+  throws: L
+  Pos: 1B
+  G: '40'
+  PO: '347'
+  A: '15'
+  E: '8'
+  DP: '23'
+  PCT: '.978'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Pope
+  nameClub1: Lake Charles
+  throws: L
+  Pos: 1B
+  G: '10'
+  PO: '79'
+  A: '8'
+  E: '2'
+  DP: '8'
+  PCT: '.978'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Carpenter
+  nameClub1: Harlingen
+  Pos: 1B
+  G: '141'
+  PO: '558'
+  A: '47'
+  E: '14'
+  DP: '68'
+  PCT: '.977'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Ray
+  nameClub1: Brownsville
+  Pos: 1B
+  G: '57'
+  PO: '531'
+  A: '19'
+  E: '15'
+  DP: '36'
+  PCT: '.973'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Sanders
+  nameClub1: Texas City
+  Pos: 1B
+  G: '13'
+  PO: '100'
+  A: '4'
+  E: '3'
+  DP: '3'
+  PCT: '.972'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fisher
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '46'
+  PO: '347'
+  A: '21'
+  E: '11'
+  DP: '29'
+  PCT: '.971'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Luckenbach
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '26'
+  PO: '187'
+  A: '16'
+  E: '6'
+  DP: '14'
+  PCT: '.971'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Shipman
+  nameClub1: Lake Charles
+  Pos: 1B
+  G: '11'
+  PO: '63'
+  A: '2'
+  E: '2'
+  DP: '3'
+  PCT: '.970'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Nettles
+  nameClub1: Lake Charles
+  Pos: 1B
+  G: '68'
+  PO: '581'
+  A: '45'
+  E: '21'
+  DP: '54'
+  PCT: '.968'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fleitas
+  nameClub1: Brownsville
+  Pos: 2B
+  G: '12'
+  PO: '28'
+  A: '24'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mink
+  nameClub1: Harlingen
+  Pos: 2B
+  G: '84'
+  PO: '615'
+  A: '242'
+  E: '14'
+  DP: '41'
+  PCT: '.894'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Baron
+  nameClub1: Port Arthur
+  Pos: 2B
+  G: '101'
+  PO: '231'
+  A: '248'
+  E: '11'
+  DP: '83'
+  PCT: '.978'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Colombatto
+  nameClub1: Laredo
+  Pos: 2B
+  G: '93'
+  PO: '232'
+  A: '238'
+  E: '14'
+  DP: '61'
+  PCT: '.971'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Flis
+  nameClub1: Laredo
+  nameClub2: Galveston
+  Pos: 2B
+  G: '132'
+  PO: '305'
+  A: '373'
+  E: '26'
+  DP: '77'
+  PCT: '.963'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hamric
+  nameClub1: Harlingen
+  Pos: 2B
+  G: '53'
+  PO: '87'
+  A: '129'
+  E: '9'
+  DP: '12'
+  PCT: '.960'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fruend
+  nameClub1: Lake Charles
+  Pos: 2B
+  G: '98'
+  PO: '283'
+  A: '251'
+  E: '24'
+  DP: '62'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Pemberton
+  nameClub1: Port Arthur
+  Pos: 2B
+  G: '31'
+  PO: '101'
+  A: '76'
+  E: '8'
+  DP: '23'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Day
+  nameClub1: Brownsville
+  Pos: 2B
+  G: '71'
+  PO: '204'
+  A: '177'
+  E: '18'
+  DP: '44'
+  PCT: '.955'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Faucett
+  nameClub1: Galveston
+  Pos: 2B
+  G: '60'
+  PO: '163'
+  A: '136'
+  E: '15'
+  DP: '38'
+  PCT: '.952'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Weatherton
+  nameClub1: Brownsville
+  Pos: 2B
+  G: '39'
+  PO: '107'
+  A: '110'
+  E: '11'
+  DP: '31'
+  PCT: '.952'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gifford
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '128'
+  PO: '430'
+  A: '340'
+  E: '40'
+  DP: '68'
+  PCT: '.951'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Perez
+  nameClub1: Texas City
+  Pos: 2B
+  G: '118'
+  PO: '318'
+  A: '294'
+  E: '33'
+  DP: '52'
+  PCT: '.949'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Walker
+  nameClub1: Lake Charles
+  Pos: 2B
+  G: '10'
+  PO: '28'
+  A: '27'
+  E: '4'
+  DP: '5'
+  PCT: '.932'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Van Winkle
+  nameClub1: Port Arthur
+  Pos: 2B
+  G: '14'
+  PO: '39'
+  A: '27'
+  E: '5'
+  DP: '9'
+  PCT: '.930'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hamric
+  nameClub1: Harlingen
+  Pos: 3B
+  G: '21'
+  PO: '26'
+  A: '38'
+  E: '1'
+  DP: '1'
+  PCT: '.985'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Baron
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '12'
+  PO: '33'
+  A: '24'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hedington
+  nameClub1: Port Arthur
+  Pos: 3B
+  G: '131'
+  PO: '142'
+  A: '256'
+  E: '25'
+  DP: '36'
+  PCT: '.941'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Izquierdo
+  nameClub1: Galveston
+  Pos: 3B
+  G: '54'
+  PO: '78'
+  A: '126'
+  E: '14'
+  DP: '12'
+  PCT: '.936'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Dossey
+  nameClub1: Lake Charles
+  nameClub2: Texas City
+  Pos: 3B
+  G: '16'
+  PO: '20'
+  A: '34'
+  E: '4'
+  DP: '0'
+  PCT: '.931'
+  apparatus: club=Laredo+Texas City
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Medina
+  nameClub1: Laredo
+  Pos: 3B
+  G: '115'
+  PO: '138'
+  A: '219'
+  E: '28'
+  DP: '19'
+  PCT: '.927'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fleitas
+  nameClub1: Brownsville
+  Pos: 3B
+  G: '33'
+  PO: '99'
+  A: '84'
+  E: '15'
+  DP: '14'
+  PCT: '.924'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Lopez
+  nameClub1: Harlingen
+  Pos: 3B
+  G: '44'
+  PO: '57'
+  A: '109'
+  E: '14'
+  DP: '13'
+  PCT: '.922'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Salfran
+  nameClub1: Texas City
+  Pos: 3B
+  G: '101'
+  PO: '114'
+  A: '215'
+  E: '29'
+  DP: '10'
+  PCT: '.919'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Lopez
+  nameClub1: Laredo
+  Pos: 3B
+  G: '11'
+  PO: '13'
+  A: '21'
+  E: '3'
+  DP: '4'
+  PCT: '.918'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: DiGirolomo
+  nameClub1: Harlingen
+  Pos: 3B
+  G: '74'
+  PO: '73'
+  A: '128'
+  E: '28'
+  DP: '11'
+  PCT: '.918'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Faucett
+  nameClub1: Galveston
+  Pos: 3B
+  G: '68'
+  PO: '72'
+  A: '132'
+  E: '19'
+  DP: '11'
+  PCT: '.915'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mozo
+  nameClub1: Texas City
+  Pos: 3B
+  G: '17'
+  PO: '24'
+  A: '38'
+  E: '6'
+  DP: '2'
+  PCT: '.912'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Dean
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '93'
+  PO: '95'
+  A: '202'
+  E: '30'
+  DP: '12'
+  PCT: '.908'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Kawalec
+  nameClub1: Laredo
+  Pos: 3B
+  G: '18'
+  PO: '24'
+  A: '33'
+  E: '6'
+  DP: '1'
+  PCT: '.905'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Leonhard
+  nameClub1: Brownsville
+  Pos: 3B
+  G: '79'
+  PO: '88'
+  A: '135'
+  E: '24'
+  DP: '14'
+  PCT: '.903'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Liberto
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '131'
+  PO: '145'
+  A: '241'
+  E: '54'
+  DP: '17'
+  PCT: '.877'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: English
+  nameClub1: Brownsville
+  throws: L
+  Pos: 3B
+  G: '26'
+  PO: '22'
+  A: '55'
+  E: '13'
+  DP: '4'
+  PCT: '.856'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fleitas
+  nameClub1: Brownsville
+  Pos: SS
+  G: '32'
+  PO: '54'
+  A: '78'
+  E: '6'
+  DP: '9'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gomez
+  nameClub1: Port Arthur
+  Pos: SS
+  G: '71'
+  PO: '112'
+  A: '200'
+  E: '16'
+  DP: '26'
+  PCT: '.951'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bache
+  nameClub1: Laredo
+  Pos: SS
+  G: '86'
+  PO: '86'
+  A: '134'
+  E: '12'
+  DP: '22'
+  PCT: '.948'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hamric
+  nameClub1: Harlingen
+  Pos: SS
+  G: '20'
+  PO: '33'
+  A: '78'
+  E: '7'
+  DP: '9'
+  PCT: '.941'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Lewandowski
+  nameClub1: Lake Charles
+  Pos: SS
+  G: '115'
+  PO: '190'
+  A: '364'
+  E: '36'
+  DP: '66'
+  PCT: '.939'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Barcello
+  nameClub1: Port Arthur
+  Pos: SS
+  G: '69'
+  PO: '95'
+  A: '208'
+  E: '20'
+  DP: '46'
+  PCT: '.938'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Greer
+  nameClub1: Brownsville
+  Pos: SS
+  G: '49'
+  PO: '87'
+  A: '151'
+  E: '16'
+  DP: '28'
+  PCT: '.937'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hernandez
+  nameClub1: Corpus Christi
+  Pos: SS
+  G: '109'
+  PO: '207'
+  A: '331'
+  E: '39'
+  DP: '54'
+  PCT: '.932'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mozo
+  nameClub1: Texas City
+  Pos: SS
+  G: '117'
+  PO: '172'
+  A: '334'
+  E: '44'
+  DP: '42'
+  PCT: '.920'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Schmidt
+  nameClub1: Galveston
+  Pos: SS
+  G: '141'
+  PO: '226'
+  A: '392'
+  E: '56'
+  DP: '81'
+  PCT: '.917'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Solorzano
+  nameClub1: Brownsville
+  nameClub2: Corpus Christi
+  Pos: SS
+  G: '17'
+  PO: '26'
+  A: '62'
+  E: '9'
+  DP: '12'
+  PCT: '.907'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Higgins
+  nameClub1: Harlingen
+  Pos: SS
+  G: '114'
+  PO: '167'
+  A: '202'
+  E: '43'
+  DP: '32'
+  PCT: '.896'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Colombatto
+  nameClub1: Laredo
+  Pos: SS
+  G: '50'
+  PO: '83'
+  A: '137'
+  E: '27'
+  DP: '24'
+  PCT: '.891'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gallart
+  nameClub1: Brownsville
+  Pos: SS
+  G: '21'
+  PO: '37'
+  A: '60'
+  E: '14'
+  DP: '7'
+  PCT: '.874'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Luckenbach
+  nameClub1: Corpus Christi
+  Pos: SS
+  G: '13'
+  PO: '22'
+  A: '32'
+  E: '8'
+  DP: '1'
+  PCT: '.871'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mink
+  nameClub1: Harlingen
+  Pos: SS
+  G: '11'
+  PO: '14'
+  A: '32'
+  E: '7'
+  DP: '0'
+  PCT: '.868'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Perez
+  nameClub1: Texas City
+  Pos: SS
+  G: '15'
+  PO: '26'
+  A: '34'
+  E: '10'
+  DP: '3'
+  PCT: '.857'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: White
+  nameClub1: Galveston
+  Pos: OF
+  G: '40'
+  PO: '48'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Herb
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '27'
+  PO: '20'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bache
+  nameClub1: Laredo
+  Pos: OF
+  G: '14'
+  PO: '30'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Cearley
+  nameClub1: Laredo
+  nameClub2: Galveston
+  Pos: OF
+  G: '120'
+  PO: '176'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.995'
+  apparatus: club=Lake Charles+Galveston
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Nodar
+  nameClub1: Texas City
+  throws: L
+  Pos: OF
+  G: '119'
+  PO: '327'
+  A: '23'
+  E: '3'
+  DP: '2'
+  PCT: '.992'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bynon
+  nameClub1: Harlingen
+  Pos: OF
+  G: '131'
+  PO: '687'
+  A: '16'
+  E: '8'
+  DP: '1'
+  PCT: '.989'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Sowins
+  nameClub1: Texas City
+  Pos: OF
+  G: '28'
+  PO: '64'
+  A: '2'
+  E: '1'
+  DP: '2'
+  PCT: '.985'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Ramsey
+  nameClub1: Galveston
+  Pos: OF
+  G: '26'
+  PO: '49'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Sessi
+  nameClub1: Brownsville
+  throws: L
+  Pos: OF
+  G: '97'
+  PO: '148'
+  A: '14'
+  E: '3'
+  DP: '3'
+  PCT: '.982'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Williams
+  nameClub1: Laredo
+  Pos: OF
+  G: '18'
+  PO: '45'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.980'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Pugatch
+  nameClub1: Galveston
+  Pos: OF
+  G: '133'
+  PO: '306'
+  A: '16'
+  E: '7'
+  DP: '3'
+  PCT: '.979'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gonzales
+  nameClub1: Brownsville
+  Pos: OF
+  G: '124'
+  PO: '356'
+  A: '16'
+  E: '8'
+  DP: '3'
+  PCT: '.979'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Senties
+  nameClub1: Laredo
+  throws: L
+  Pos: OF
+  G: '132'
+  PO: '533'
+  A: '8'
+  E: '12'
+  DP: '2'
+  PCT: '.978'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Tuttle
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '68'
+  PO: '119'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.977'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: DiPrimio
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '32'
+  PO: '84'
+  A: '2'
+  E: '2'
+  DP: '2'
+  PCT: '.977'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Leonhard
+  nameClub1: Brownsville
+  Pos: OF
+  G: '18'
+  PO: '34'
+  A: '8'
+  E: '1'
+  DP: '2'
+  PCT: '.977'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Jensen
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '73'
+  PO: '232'
+  A: '8'
+  E: '6'
+  DP: '0'
+  PCT: '.976'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Frierson
+  nameClub1: Harlingen
+  Pos: OF
+  G: '46'
+  PO: '74'
+  A: '7'
+  E: '2'
+  DP: '3'
+  PCT: '.976'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Depperschmidt
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '144'
+  PO: '367'
+  A: '14'
+  E: '10'
+  DP: '2'
+  PCT: '.974'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Owen
+  nameClub1: Brownsville
+  nameClub2: Laredo
+  Pos: OF
+  G: '33'
+  PO: '66'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.971'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Perez
+  nameClub1: Harlingen
+  Pos: OF
+  G: '92'
+  PO: '130'
+  A: '10'
+  E: '5'
+  DP: '3'
+  PCT: '.966'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Cluley
+  nameClub1: Brownsville
+  throws: L
+  Pos: OF
+  G: '58'
+  PO: '125'
+  A: '8'
+  E: '5'
+  DP: '2'
+  PCT: '.964'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Jezierski
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '26'
+  PO: '53'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.964'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Diaz
+  nameClub1: Laredo
+  Pos: OF
+  G: '23'
+  PO: '47'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.961'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Childs
+  nameClub1: Texas City
+  Pos: OF
+  G: '136'
+  PO: '277'
+  A: '14'
+  E: '12'
+  DP: '3'
+  PCT: '.960'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Lavigne
+  nameClub1: Galveston
+  nameClub2: Lake Charles
+  Pos: OF
+  G: '73'
+  PO: '160'
+  A: '6'
+  E: '7'
+  DP: '1'
+  PCT: '.960'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Van Nest
+  nameClub1: Brownsville
+  Pos: OF
+  G: '15'
+  PO: '22'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Squillante
+  nameClub1: Harlingen
+  nameClub2: Brownsville
+  Pos: OF
+  G: '98'
+  PO: '180'
+  A: '12'
+  E: '9'
+  DP: '1'
+  PCT: '.955'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Schroeder
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '144'
+  PO: '279'
+  A: '9'
+  E: '14'
+  DP: '2'
+  PCT: '.954'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Cagle
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '57'
+  PO: '111'
+  A: '13'
+  E: '6'
+  DP: '2'
+  PCT: '.954'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Betz
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '64'
+  PO: '92'
+  A: '5'
+  E: '5'
+  DP: '2'
+  PCT: '.951'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Kracher
+  nameClub1: Corpus Christi
+  nameClub2: Brownsville
+  nameClub3: Laredo
+  Pos: OF
+  G: '13'
+  PO: '18'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Luckenbach
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '69'
+  PO: '69'
+  A: '5'
+  E: '4'
+  DP: '2'
+  PCT: '.949'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Christensen
+  nameClub1: Harlingen
+  Pos: OF
+  G: '54'
+  PO: '72'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.949'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Jones
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '88'
+  PO: '175'
+  A: '9'
+  E: '10'
+  DP: '3'
+  PCT: '.948'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Wayne
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '26'
+  PO: '33'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gomez
+  nameClub1: Texas City
+  Pos: OF
+  G: '112'
+  PO: '156'
+  A: '15'
+  E: '10'
+  DP: '5'
+  PCT: '.945'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Izquierdo
+  nameClub1: Galveston
+  Pos: OF
+  G: '71'
+  PO: '172'
+  A: '17'
+  E: '11'
+  DP: '1'
+  PCT: '.945'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Miller
+  nameClub1: Galveston
+  Pos: OF
+  G: '17'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hrncir
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '73'
+  PO: '159'
+  A: '9'
+  E: '11'
+  DP: '1'
+  PCT: '.939'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mink
+  nameClub1: Harlingen
+  throws: L
+  Pos: OF
+  G: '44'
+  PO: '100'
+  A: '5'
+  E: '7'
+  DP: '0'
+  PCT: '.938'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Petrick
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '14'
+  PO: '27'
+  A: '2'
+  E: '2'
+  DP: '2'
+  PCT: '.935'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Blackwell
+  nameClub1: Galveston
+  Pos: OF
+  G: '68'
+  PO: '128'
+  A: '11'
+  E: '10'
+  DP: '1'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fisher
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '43'
+  PO: '64'
+  A: '2'
+  E: '5'
+  DP: '1'
+  PCT: '.930'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gomez
+  nameClub1: Laredo
+  throws: L
+  Pos: OF
+  G: '15'
+  PO: '36'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.925'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Van Winkle
+  nameClub1: Port Arthur
+  Pos: OF
+  G: '10'
+  PO: '16'
+  A: '7'
+  E: '2'
+  DP: '2'
+  PCT: '.920'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: McClain
+  nameClub1: Laredo
+  Pos: OF
+  G: '27'
+  PO: '56'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.918'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Parra
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '25'
+  PO: '29'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.914'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hamric
+  nameClub1: Harlingen
+  Pos: OF
+  G: '24'
+  PO: '27'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.914'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Vucelich
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '27'
+  PO: '38'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.909'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bedford
+  nameClub1: Laredo
+  Pos: OF
+  G: '18'
+  PO: '33'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.900'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Nettles
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '37'
+  PO: '59'
+  A: '9'
+  E: '8'
+  DP: '1'
+  PCT: '.895'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bell
+  nameClub1: Texas City
+  Pos: OF
+  G: '14'
+  PO: '15'
+  A: '2'
+  E: '2'
+  DP: '3'
+  PCT: '.895'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Meagher
+  nameClub1: Corpus Christi
+  Pos: OF
+  G: '61'
+  PO: '110'
+  A: '5'
+  E: '14'
+  DP: '0'
+  PCT: '.891'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Kawalec
+  nameClub1: Laredo
+  Pos: OF
+  G: '91'
+  PO: '150'
+  A: '20'
+  E: '22'
+  DP: '1'
+  PCT: '.885'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Tyson
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '12'
+  PO: '14'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  apparatus: club=Corpus Christi
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Tanner
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '23'
+  PO: '82'
+  A: '16'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Jones
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '14'
+  PO: '47'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gaspar
+  nameClub1: Brownsville
+  Pos: C
+  G: '96'
+  PO: '459'
+  A: '63'
+  E: '7'
+  DP: '8'
+  PCT: '.987'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Herb
+  nameClub1: Port Arthur
+  Pos: C
+  G: '87'
+  PO: '497'
+  A: '52'
+  E: '8'
+  DP: '1'
+  PCT: '.986'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mieres
+  nameClub1: Laredo
+  Pos: C
+  G: '46'
+  PO: '192'
+  A: '20'
+  E: '3'
+  DP: '2'
+  PCT: '.986'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bedford
+  nameClub1: Lake Charles
+  Pos: C
+  G: '18'
+  PO: '67'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.986'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fernandez
+  nameClub1: Port Arthur
+  Pos: C
+  G: '58'
+  PO: '330'
+  A: '56'
+  E: '6'
+  DP: '5'
+  PCT: '.985'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Chaon
+  nameClub1: Brownsville
+  Pos: C
+  G: '10'
+  PO: '47'
+  A: '7'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Eames
+  nameClub1: Harlingen
+  Pos: C
+  G: '130'
+  PO: '788'
+  A: '84'
+  E: '18'
+  DP: '9'
+  PCT: '.980'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Flores
+  nameClub1: Laredo
+  Pos: C
+  G: '67'
+  PO: '153'
+  A: '13'
+  E: '4'
+  DP: '0'
+  PCT: '.976'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mantaras
+  nameClub1: Texas City
+  Pos: C
+  G: '79'
+  PO: '366'
+  A: '57'
+  E: '11'
+  DP: '7'
+  PCT: '.975'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Robinson
+  nameClub1: Galveston
+  throws: L
+  Pos: C
+  G: '140'
+  PO: '684'
+  A: '105'
+  E: '23'
+  DP: '13'
+  PCT: '.972'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Galban
+  nameClub1: Brownsville
+  nameClub2: Corpus Christi
+  Pos: C
+  G: '42'
+  PO: '136'
+  A: '25'
+  E: '5'
+  DP: '0'
+  PCT: '.970'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Trench
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '49'
+  PO: '161'
+  A: '19'
+  E: '6'
+  DP: '3'
+  PCT: '.968'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bedford
+  nameClub1: Laredo
+  Pos: C
+  G: '19'
+  PO: '104'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.966'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hancken
+  nameClub1: Lake Charles
+  Pos: C
+  G: '13'
+  PO: '25'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Mitchell
+  nameClub1: Lake Charles
+  Pos: C
+  G: '71'
+  PO: '273'
+  A: '52'
+  E: '12'
+  DP: '7'
+  PCT: '.964'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Dossey
+  nameClub1: Lake Charles
+  nameClub2: Texas City
+  Pos: C
+  G: '86'
+  PO: '477'
+  A: '68'
+  E: '24'
+  DP: '13'
+  PCT: '.958'
+  apparatus: club=Lake Charles+Laredo+Texas City
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: DiPrimio
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '29'
+  PO: '116'
+  A: '11'
+  E: '6'
+  DP: '1'
+  PCT: '.955'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Traspuesto
+  nameClub1: Laredo
+  Pos: C
+  G: '11'
+  PO: '56'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.951'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Karas
+  nameClub1: Brownsville
+  Pos: C
+  G: '10'
+  PO: '52'
+  A: '5'
+  E: '3'
+  DP: '3'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Tomski
+  nameClub1: Harlingen
+  Pos: C
+  G: '21'
+  PO: '82'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.947'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Zavalla
+  nameClub1: Lake Charles
+  Pos: C
+  G: '16'
+  PO: '67'
+  A: '10'
+  E: '5'
+  DP: '0'
+  PCT: '.939'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Logan
+  nameClub1: Galveston
+  Pos: P
+  G: '35'
+  PO: '9'
+  A: '41'
+  E: '0'
+  DP: '7'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Pisarski
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '0'
+  A: '19'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Dryden
+  nameClub1: Port Arthur
+  Pos: P
+  G: '19'
+  PO: '8'
+  A: '16'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Warren
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '17'
+  PO: '10'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Boyette
+  nameClub1: Lake Charles
+  Pos: P
+  G: '16'
+  PO: '7'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Carrasquel
+  nameClub1: Laredo
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '24'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bennett
+  nameClub1: Lake Charles
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Gomez
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fox
+  nameClub1: Galveston
+  nameClub2: Corpus Christi
+  nameClub3: Harlingen
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '6'
+  A: '19'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Sierra
+  nameClub1: Brownsville
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Colella
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Moore
+  nameClub1: Port Arthur
+  Pos: P
+  G: '41'
+  PO: '10'
+  A: '56'
+  E: '1'
+  DP: '4'
+  PCT: '.985'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Herrera
+  nameClub1: Laredo
+  Pos: P
+  G: '27'
+  PO: '11'
+  A: '34'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Valenzuela
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.970'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Tyson
+  nameClub1: Lake Charles
+  Pos: P
+  G: '35'
+  PO: '2'
+  A: '28'
+  E: '1'
+  DP: '2'
+  PCT: '.968'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Pollock
+  nameClub1: Port Arthur
+  Pos: P
+  G: '38'
+  PO: '4'
+  A: '55'
+  E: '2'
+  DP: '4'
+  PCT: '.967'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Van Nest
+  nameClub1: Brownsville
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '5'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.964'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Clay
+  nameClub1: Brownsville
+  nameClub2: Lake Charles
+  Pos: P
+  G: '28'
+  PO: '9'
+  A: '43'
+  E: '2'
+  DP: '4'
+  PCT: '.963'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Lehrmann
+  nameClub1: Galveston
+  Pos: P
+  G: '24'
+  PO: '9'
+  A: '34'
+  E: '2'
+  DP: '3'
+  PCT: '.956'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Somonte
+  nameClub1: Port Arthur
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '12'
+  A: '30'
+  E: '2'
+  DP: '2'
+  PCT: '.955'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Francis
+  nameClub1: Texas City
+  Pos: P
+  G: '39'
+  PO: '11'
+  A: '31'
+  E: '2'
+  DP: '1'
+  PCT: '.955'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bernal
+  nameClub1: Texas City
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Lopez
+  nameClub1: Lake Charles
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '31'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Rodriguez
+  nameClub1: Laredo
+  Pos: P
+  G: '34'
+  PO: '13'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Montalvo
+  nameClub1: Laredo
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Miller
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '17'
+  PO: '8'
+  A: '27'
+  E: '2'
+  DP: '0'
+  PCT: '.946'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Kash
+  nameClub1: Port Arthur
+  Pos: P
+  G: '53'
+  PO: '6'
+  A: '27'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Schmidt
+  nameClub1: Brownsville
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '44'
+  E: '3'
+  DP: '2'
+  PCT: '.943'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bunch
+  nameClub1: Brownsville
+  Pos: P
+  G: '32'
+  PO: '1'
+  A: '30'
+  E: '2'
+  DP: '1'
+  PCT: '.939'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Grubb
+  nameClub1: Lake Charles
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '7'
+  A: '24'
+  E: '2'
+  DP: '2'
+  PCT: '.939'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Hegstrom
+  nameClub1: Laredo
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.938'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Michalec
+  nameClub1: Lake Charles
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '6'
+  A: '24'
+  E: '2'
+  DP: '1'
+  PCT: '.938'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Miller
+  nameClub1: Galveston
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Point
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: P
+  G: '40'
+  PO: '7'
+  A: '49'
+  E: '4'
+  DP: '1'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Middleton
+  nameClub1: Lake Charles
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Fowlkes
+  nameClub1: Lake Charles
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Bagwell
+  nameClub1: Texas City
+  Pos: P
+  G: '38'
+  PO: '8'
+  A: '58'
+  E: '5'
+  DP: '4'
+  PCT: '.930'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Garcia
+  nameClub1: Port Arthur
+  Pos: P
+  G: '43'
+  PO: '12'
+  A: '40'
+  E: '4'
+  DP: '4'
+  PCT: '.929'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Cendan
+  nameClub1: Laredo
+  Pos: P
+  G: '32'
+  PO: '4'
+  A: '22'
+  E: '2'
+  DP: '2'
+  PCT: '.929'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Guthrie
+  nameClub1: Harlingen
+  Pos: P
+  G: '37'
+  PO: '15'
+  A: '34'
+  E: '4'
+  DP: '1'
+  PCT: '.925'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Parra
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '30'
+  E: '3'
+  DP: '0'
+  PCT: '.925'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Christie
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Roca
+  nameClub1: Texas City
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Aguiar
+  nameClub1: Galveston
+  nameClub2: Texas City
+  Pos: P
+  G: '28'
+  PO: '9'
+  A: '38'
+  E: '4'
+  DP: '1'
+  PCT: '.922'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Eaves
+  nameClub1: Brownsville
+  Pos: P
+  G: '33'
+  PO: '8'
+  A: '38'
+  E: '4'
+  DP: '2'
+  PCT: '.920'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Rivas
+  nameClub1: Brownsville
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Price
+  nameClub1: Harlingen
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '8'
+  A: '56'
+  E: '6'
+  DP: '4'
+  PCT: '.914'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Brazzle
+  nameClub1: Brownsville
+  nameClub2: Corpus Christi
+  Pos: P
+  G: '23'
+  PO: '17'
+  A: '14'
+  E: '3'
+  DP: '1'
+  PCT: '.912'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Karpinski
+  nameClub1: Texas City
+  Pos: P
+  G: '27'
+  PO: '21'
+  A: '32'
+  E: '5'
+  DP: '4'
+  PCT: '.898'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Dobbs
+  nameClub1: Laredo
+  nameClub2: Texas City
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '31'
+  E: '5'
+  DP: '4'
+  PCT: '.889'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Torres
+  nameClub1: Laredo
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.882'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Shipman
+  nameFirst: Morris
+  nameClub1: Lake Charles
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '11'
+  E: '2'
+  DP: '1'
+  PCT: '.857'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Ortega
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '36'
+  E: '8'
+  DP: '1'
+  PCT: '.846'
+- year: '1953'
+  nameLeague: Gulf Coast League
+  nameLast: Christensen
+  nameClub1: Harlingen
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '12'
+  E: '3'
+  DP: '1'
+  PCT: '.833'

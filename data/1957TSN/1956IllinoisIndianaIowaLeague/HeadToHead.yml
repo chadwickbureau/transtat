@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  Terre Haute: '7'
+  Waterloo: '12'
+  Keokuk: '12'
+  Peoria: '14'
+  Quincy: '11'
+  Burlington: '14'
+  Cedar Rapids: '14'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  Evansville: '2'
+  Waterloo: '9'
+  Keokuk: '10'
+  Peoria: '1'
+  Quincy: '4'
+  Burlington: '6'
+  Cedar Rapids: '8'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  Evansville: '8'
+  Terre Haute: '3'
+  Keokuk: '8'
+  Peoria: '12'
+  Quincy: '12'
+  Burlington: '10'
+  Cedar Rapids: '9'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  Evansville: '9'
+  Terre Haute: '2'
+  Waterloo: '7'
+  Peoria: '11'
+  Quincy: '14'
+  Burlington: '10'
+  Cedar Rapids: '7'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  Evansville: '1'
+  Terre Haute: '2'
+  Waterloo: '8'
+  Keokuk: '8'
+  Quincy: '12'
+  Burlington: '10'
+  Cedar Rapids: '17'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  Evansville: '3'
+  Terre Haute: '2'
+  Waterloo: '8'
+  Keokuk: '6'
+  Peoria: '6'
+  Burlington: '15'
+  Cedar Rapids: '16'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  Evansville: '7'
+  Terre Haute: '6'
+  Waterloo: '4'
+  Keokuk: '8'
+  Peoria: '10'
+  Quincy: '6'
+  Cedar Rapids: '5'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  Evansville: '6'
+  Terre Haute: '4'
+  Waterloo: '8'
+  Keokuk: '7'
+  Peoria: '4'
+  Quincy: '5'
+  Burlington: '10'

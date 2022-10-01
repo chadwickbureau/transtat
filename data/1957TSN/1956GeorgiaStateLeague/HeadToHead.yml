@@ -1,0 +1,48 @@
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  Sandersville: '13'
+  Vidalia: '16'
+  Thomson: '15'
+  Hazlehurst-Baxley: '19'
+  Dublin: '14'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  Douglas: '11'
+  Vidalia: '14'
+  Thomson: '14'
+  Hazlehurst-Baxley: '14'
+  Dublin: '17'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  Douglas: '8'
+  Sandersville: '10'
+  Thomson: '14'
+  Hazlehurst-Baxley: '14'
+  Dublin: '17'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Thomson
+  Douglas: '9'
+  Sandersville: '10'
+  Vidalia: '10'
+  Hazlehurst-Baxley: '16'
+  Dublin: '16'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  Douglas: '5'
+  Sandersville: '10'
+  Vidalia: '10'
+  Thomson: '8'
+  Dublin: '16'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  Douglas: '10'
+  Sandersville: '7'
+  Vidalia: '7'
+  Thomson: '8'
+  Hazlehurst-Baxley: '8'

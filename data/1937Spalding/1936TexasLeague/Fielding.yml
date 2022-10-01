@@ -1,0 +1,1695 @@
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Cullenbine
+  nameClub1: Beaumont
+  Pos: 1B
+  G: '11'
+  PO: '110'
+  A: '8'
+  E: '0'
+  DP: '16'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Connatser
+  nameClub1: Dallas
+  Pos: 1B
+  G: '119'
+  PO: '1143'
+  A: '79'
+  E: '8'
+  DP: '81'
+  PCT: '.993'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Archie
+  nameClub1: Beaumont
+  Pos: 1B
+  G: '142'
+  PO: '1347'
+  A: '68'
+  E: '11'
+  DP: '125'
+  PCT: '.992'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Barton
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '16'
+  PO: '122'
+  A: '8'
+  E: '1'
+  DP: '11'
+  PCT: '.992'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Keesey
+  nameClub1: Oklahoma City
+  Pos: 1B
+  G: '150'
+  PO: '1394'
+  A: '87'
+  E: '14'
+  DP: '124'
+  PCT: '.991'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Stebbins
+  nameClub1: Fort Worth
+  throws: L
+  Pos: 1B
+  G: '138'
+  PO: '1256'
+  A: '96'
+  E: '13'
+  DP: '87'
+  PCT: '.990'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Watwood
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '105'
+  PO: '888'
+  A: '49'
+  E: '12'
+  DP: '59'
+  PCT: '.987'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Stanton
+  nameClub1: San Antonio
+  throws: L
+  Pos: 1B
+  G: '150'
+  PO: '1403'
+  A: '74'
+  E: '17'
+  DP: '106'
+  PCT: '.989'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Susko
+  nameClub1: Galveston
+  throws: L
+  Pos: 1B
+  G: '150'
+  PO: '1334'
+  A: '72'
+  E: '15'
+  DP: '92'
+  PCT: '.989'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Cobb
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '154'
+  PO: '1430'
+  A: '71'
+  E: '18'
+  DP: '108'
+  PCT: '.988'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Stein
+  nameFirst: J.
+  nameClub1: Houston
+  Pos: 1B
+  G: '26'
+  PO: '222'
+  A: '11'
+  E: '3'
+  DP: '16'
+  PCT: '.987'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Montague
+  nameClub1: Dallas
+  Pos: 1B
+  G: '26'
+  PO: '266'
+  A: '15'
+  E: '5'
+  DP: '14'
+  PCT: '.983'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Connors
+  nameClub1: Dallas
+  Pos: 1B
+  G: '12'
+  PO: '102'
+  A: '7'
+  E: '5'
+  DP: '8'
+  PCT: '.966'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McManus
+  nameClub1: Tulsa
+  Pos: 1B
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Scharein
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '10'
+  PO: '66'
+  A: '38'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McManus
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '11'
+  PO: '29'
+  A: '27'
+  E: '1'
+  DP: '6'
+  PCT: '.982'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Mallon
+  nameClub1: Dallas
+  Pos: 2B
+  G: '130'
+  PO: '363'
+  A: '417'
+  E: '16'
+  DP: '72'
+  PCT: '.980'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McGee
+  nameClub1: Galveston
+  Pos: 2B
+  G: '93'
+  PO: '226'
+  A: '234'
+  E: '12'
+  DP: '37'
+  PCT: '.975'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Allaire
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '33'
+  PO: '82'
+  A: '98'
+  E: '5'
+  DP: '16'
+  PCT: '.973'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Croucher
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '150'
+  PO: '368'
+  A: '464'
+  E: '25'
+  DP: '112'
+  PCT: '.971'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Young
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '142'
+  PO: '377'
+  A: '377'
+  E: '24'
+  DP: '102'
+  PCT: '.969'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: English
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '122'
+  PO: '362'
+  A: '339'
+  E: '24'
+  DP: '63'
+  PCT: '.967'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameClub1: Houston
+  Pos: 2B
+  G: '87'
+  PO: '194'
+  A: '222'
+  E: '14'
+  DP: '48'
+  PCT: '.967'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Rhein
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '144'
+  PO: '353'
+  A: '388'
+  E: '26'
+  DP: '72'
+  PCT: '.966'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Crawford
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '106'
+  PO: '260'
+  A: '261'
+  E: '32'
+  DP: '53'
+  PCT: '.960'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Montague
+  nameClub1: Dallas
+  Pos: 2B
+  G: '27'
+  PO: '66'
+  A: '70'
+  E: '6'
+  DP: '10'
+  PCT: '.957'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Binder
+  nameClub1: Galveston
+  Pos: 2B
+  G: '58'
+  PO: '143'
+  A: '147'
+  E: '14'
+  DP: '40'
+  PCT: '.954'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Stein
+  nameFirst: J.
+  nameClub1: Houston
+  Pos: 2B
+  G: '72'
+  PO: '186'
+  A: '177'
+  E: '22'
+  DP: '34'
+  PCT: '.943'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Smith
+  nameFirst: E. H.
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '33'
+  PO: '90'
+  A: '76'
+  E: '12'
+  DP: '14'
+  PCT: '.933'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Jansco
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '10'
+  PO: '27'
+  A: '25'
+  E: '4'
+  DP: '4'
+  PCT: '.929'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameClub1: Houston
+  Pos: 3B
+  G: '13'
+  PO: '15'
+  A: '21'
+  E: '1'
+  DP: '3'
+  PCT: '.972'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McGee
+  nameClub1: Galveston
+  Pos: 3B
+  G: '33'
+  PO: '38'
+  A: '65'
+  E: '4'
+  DP: '12'
+  PCT: '.963'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Backer
+  nameClub1: Houston
+  Pos: 3B
+  G: '42'
+  PO: '64'
+  A: '78'
+  E: '7'
+  DP: '13'
+  PCT: '.952'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Bilgere
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '112'
+  PO: '81'
+  A: '266'
+  E: '18'
+  DP: '32'
+  PCT: '.951'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Flippin
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '11'
+  PO: '14'
+  A: '23'
+  E: '2'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Schuble
+  nameClub1: Houston
+  Pos: 3B
+  G: '95'
+  PO: '99'
+  A: '172'
+  E: '15'
+  DP: '10'
+  PCT: '.948'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McManus
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '72'
+  PO: '74'
+  A: '150'
+  E: '13'
+  DP: '9'
+  PCT: '.945'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Harshaney
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '62'
+  PO: '56'
+  A: '134'
+  E: '11'
+  DP: '10'
+  PCT: '.945'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Christman
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '94'
+  PO: '90'
+  A: '215'
+  E: '19'
+  DP: '20'
+  PCT: '.941'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Stroner
+  nameClub1: Dallas
+  Pos: 3B
+  G: '151'
+  PO: '158'
+  A: '265'
+  E: '28'
+  DP: '23'
+  PCT: '.938'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Binder
+  nameClub1: Galveston
+  Pos: 3B
+  G: '96'
+  PO: '109'
+  A: '197'
+  E: '21'
+  DP: '16'
+  PCT: '.936'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Kott
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '43'
+  PO: '55'
+  A: '90'
+  E: '10'
+  DP: '11'
+  PCT: '.935'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Allaire
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '86'
+  PO: '77'
+  A: '142'
+  E: '17'
+  DP: '13'
+  PCT: '.928'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Fairly
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '20'
+  PO: '24'
+  A: '31'
+  E: '5'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Ross
+  nameFirst: D. R.
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '42'
+  PO: '40'
+  A: '78'
+  E: '11'
+  DP: '10'
+  PCT: '.915'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Grimes
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '135'
+  PO: '130'
+  A: '202'
+  E: '24'
+  DP: '20'
+  PCT: '.906'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Fagan
+  nameClub1: Galveston
+  Pos: 3B
+  G: '29'
+  PO: '19'
+  A: '60'
+  E: '9'
+  DP: '3'
+  PCT: '.898'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Scharein
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '89'
+  PO: '90'
+  A: '175'
+  E: '19'
+  DP: '15'
+  PCT: '.897'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Christman
+  nameClub1: Beaumont
+  Pos: SS
+  G: '23'
+  PO: '34'
+  A: '70'
+  E: '4'
+  DP: '12'
+  PCT: '.963'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Engle
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '146'
+  PO: '241'
+  A: '528'
+  E: '31'
+  DP: '65'
+  PCT: '.961'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McLeod
+  nameClub1: Galveston
+  Pos: SS
+  G: '150'
+  PO: '278'
+  A: '402'
+  E: '40'
+  DP: '66'
+  PCT: '.944'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Levey
+  nameClub1: Tulsa
+  nameClub2: Dallas
+  Pos: SS
+  G: '147'
+  PO: '289'
+  A: '553'
+  E: '53'
+  DP: '88'
+  PCT: '.941'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Gryska
+  nameClub1: San Antonio
+  Pos: SS
+  G: '145'
+  PO: '302'
+  A: '468'
+  E: '48'
+  DP: '77'
+  PCT: '.941'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Brower
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '156'
+  PO: '289'
+  A: '541'
+  E: '55'
+  DP: '79'
+  PCT: '.938'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Brown
+  nameClub1: Beaumont
+  Pos: SS
+  G: '129'
+  PO: '256'
+  A: '412'
+  E: '45'
+  DP: '91'
+  PCT: '.937'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: York
+  nameClub1: Dallas
+  nameClub2: Tulsa
+  Pos: SS
+  G: '99'
+  PO: '214'
+  A: '327'
+  E: '37'
+  DP: '49'
+  PCT: '.936'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Smith
+  nameFirst: E. H.
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '11'
+  PO: '24'
+  A: '28'
+  E: '4'
+  DP: '5'
+  PCT: '.931'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Keane
+  nameClub1: Houston
+  Pos: SS
+  G: '150'
+  PO: '291'
+  A: '431'
+  E: '55'
+  DP: '75'
+  PCT: '.929'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Allaire
+  nameClub1: Tulsa
+  Pos: SS
+  G: '16'
+  PO: '25'
+  A: '41'
+  E: '7'
+  DP: '3'
+  PCT: '.904'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Jansco
+  nameClub1: Tulsa
+  Pos: SS
+  G: '35'
+  PO: '53'
+  A: '99'
+  E: '17'
+  DP: '9'
+  PCT: '.899'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Montague
+  nameClub1: Dallas
+  Pos: SS
+  G: '18'
+  PO: '30'
+  A: '50'
+  E: '11'
+  DP: '3'
+  PCT: '.879'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Montague
+  nameClub1: Dallas
+  Pos: LF
+  G: '13'
+  PO: '25'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Kott
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '11'
+  PO: '17'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Fagan
+  nameClub1: Galveston
+  Pos: LF
+  G: '11'
+  PO: '13'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Prerost
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '10'
+  PO: '27'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Harvel
+  nameClub1: Dallas
+  Pos: LF
+  G: '136'
+  PO: '260'
+  A: '10'
+  E: '4'
+  DP: '2'
+  PCT: '.985'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Padgett
+  nameClub1: Houston
+  Pos: LF
+  G: '46'
+  PO: '116'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Peel
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '38'
+  PO: '84'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Bettencourt
+  nameClub1: San Antonio
+  Pos: LF
+  G: '139'
+  PO: '250'
+  A: '14'
+  E: '10'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Jones
+  nameClub1: Beaumont
+  Pos: LF
+  G: '141'
+  PO: '378'
+  A: '8'
+  E: '16'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Easterling
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '129'
+  PO: '297'
+  A: '11'
+  E: '14'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Houston
+  Pos: LF
+  G: '85'
+  PO: '183'
+  A: '11'
+  E: '9'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Hostetler
+  nameClub1: Galveston
+  Pos: LF
+  G: '144'
+  PO: '253'
+  A: '38'
+  E: '14'
+  DP: '4'
+  PCT: '.954'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Moser
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '111'
+  PO: '221'
+  A: '7'
+  E: '11'
+  DP: '0'
+  PCT: '.954'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Nicholson
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '10'
+  PO: '19'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Holliday
+  nameClub1: San Antonio
+  Pos: LF
+  G: '11'
+  PO: '20'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Howell
+  nameFirst: M.
+  nameClub1: Tulsa
+  Pos: LF
+  G: '147'
+  PO: '242'
+  A: '12'
+  E: '14'
+  DP: '0'
+  PCT: '.948'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Holliday
+  nameClub1: San Antonio
+  Pos: RF
+  G: '10'
+  PO: '22'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Weis
+  nameClub1: Fort Worth
+  throws: L
+  Pos: RF
+  G: '47'
+  PO: '70'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Frink
+  nameClub1: Galveston
+  Pos: RF
+  G: '11'
+  PO: '29'
+  A: '2'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Garms
+  nameClub1: San Antonio
+  Pos: RF
+  G: '124'
+  PO: '214'
+  A: '15'
+  E: '4'
+  DP: '3'
+  PCT: '.983'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Mosolf
+  nameClub1: Dallas
+  Pos: RF
+  G: '154'
+  PO: '302'
+  A: '13'
+  E: '8'
+  DP: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Schino
+  nameClub1: Tulsa
+  Pos: RF
+  G: '147'
+  PO: '285'
+  A: '25'
+  E: '9'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Peel
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '58'
+  PO: '95'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Rizzo
+  nameClub1: Houston
+  Pos: RF
+  G: '141'
+  PO: '269'
+  A: '18'
+  E: '10'
+  DP: '4'
+  PCT: '.966'
+  TP: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McCoy
+  nameClub1: Beaumont
+  Pos: RF
+  G: '124'
+  PO: '208'
+  A: '12'
+  E: '8'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Moore
+  nameFirst: J. W.
+  nameClub1: Galveston
+  Pos: RF
+  G: '141'
+  PO: '234'
+  A: '14'
+  E: '9'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Flood
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: RF
+  G: '127'
+  PO: '207'
+  A: '4'
+  E: '11'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McCosky
+  nameClub1: Beaumont
+  Pos: RF
+  G: '17'
+  PO: '33'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Frierson
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '46'
+  PO: '84'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.937'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Johnson
+  nameFirst: V.
+  nameClub1: Oklahoma City
+  throws: R
+  Pos: OF
+  G: '21'
+  PO: '37'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Holliday
+  nameClub1: San Antonio
+  Pos: CF
+  G: '26'
+  PO: '45'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Prerost
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '25'
+  PO: '56'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Hall
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '13'
+  PO: '33'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Garms
+  nameClub1: San Antonio
+  Pos: CF
+  G: '23'
+  PO: '65'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Myers
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: CF
+  G: '74'
+  PO: '175'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Peel
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '22'
+  PO: '53'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.982'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Houston
+  Pos: CF
+  G: '59'
+  PO: '143'
+  A: '8'
+  E: '3'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Harvel
+  nameClub1: Dallas
+  Pos: CF
+  G: '20'
+  PO: '44'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.980'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Tauby
+  nameClub1: Dallas
+  Pos: CF
+  G: '135'
+  PO: '324'
+  A: '13'
+  E: '7'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Kott
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '15'
+  PO: '34'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Cullenbine
+  nameClub1: Beaumont
+  Pos: CF
+  G: '122'
+  PO: '311'
+  A: '15'
+  E: '9'
+  DP: '4'
+  PCT: '.972'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Beason
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '18'
+  PO: '35'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Mazzera
+  nameClub1: San Antonio
+  throws: L
+  Pos: CF
+  G: '84'
+  PO: '192'
+  A: '11'
+  E: '6'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Epps
+  nameClub1: Houston
+  throws: L
+  Pos: CF
+  G: '94'
+  PO: '238'
+  A: '14'
+  E: '9'
+  DP: '3'
+  PCT: '.966'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Patchett
+  nameClub1: Tulsa
+  Pos: CF
+  G: '147'
+  PO: '376'
+  A: '12'
+  E: '15'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Governor
+  nameClub1: Galveston
+  throws: L
+  Pos: CF
+  G: '153'
+  PO: '423'
+  A: '23'
+  E: '18'
+  DP: '5'
+  PCT: '.961'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Shelley
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '105'
+  PO: '279'
+  A: '7'
+  E: '14'
+  DP: '1'
+  PCT: '.953'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Traweek
+  nameClub1: San Antonio
+  Pos: CF
+  G: '12'
+  PO: '32'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Easterling
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '23'
+  PO: '50'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.945'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Younker
+  nameClub1: Beaumont
+  Pos: CF
+  G: '12'
+  PO: '23'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: McCoy
+  nameClub1: Beaumont
+  Pos: CF
+  G: '14'
+  PO: '50'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.912'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Seebold
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '15'
+  PO: '65'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PB: '1'
+  SB: '14'
+  CS: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Berger
+  nameClub1: Galveston
+  Pos: C
+  G: '10'
+  PO: '40'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PB: '1'
+  SB: '11'
+  CS: '7'
+  PCT: '1.000'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Rabe
+  nameClub1: San Antonio
+  nameClub2: Dallas
+  Pos: C
+  G: '24'
+  PO: '100'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PB: '2'
+  SB: '22'
+  CS: '12'
+  PCT: '.992'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Jonnard
+  nameFirst: CJ
+  nameClub1: Galveston
+  Pos: C
+  G: '34'
+  PO: '155'
+  A: '20'
+  E: '2'
+  DP: '3'
+  PB: '4'
+  SB: '28'
+  CS: '12'
+  PCT: '.989'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Mackie
+  nameClub1: Galveston
+  Pos: C
+  G: '77'
+  PO: '320'
+  A: '54'
+  E: '5'
+  DP: '4'
+  PB: '5'
+  SB: '62'
+  CS: '38'
+  PCT: '.987'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Warren
+  nameClub1: Dallas
+  nameClub2: Oklahoma City
+  Pos: C
+  G: '83'
+  PO: '341'
+  A: '53'
+  E: '6'
+  DP: '5'
+  PB: '5'
+  SB: '38'
+  CS: '31'
+  PCT: '.985'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Mealey
+  nameClub1: Galveston
+  nameClub2: Tulsa
+  Pos: C
+  G: '51'
+  PO: '267'
+  A: '28'
+  E: '5'
+  DP: '3'
+  PB: '2'
+  SB: '30'
+  CS: '13'
+  PCT: '.983'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Cox
+  nameClub1: Galveston
+  nameClub2: San Antonio
+  Pos: C
+  G: '54'
+  PO: '195'
+  A: '32'
+  E: '4'
+  DP: '4'
+  PB: '8'
+  SB: '35'
+  CS: '22'
+  PCT: '.983'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Rensa
+  nameClub1: Dallas
+  Pos: C
+  G: '130'
+  PO: '450'
+  A: '104'
+  E: '11'
+  DP: '12'
+  PB: '14'
+  SB: '43'
+  CS: '57'
+  PCT: '.981'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Payton
+  nameClub1: San Antonio
+  Pos: C
+  G: '42'
+  PO: '189'
+  A: '44'
+  E: '5'
+  DP: '5'
+  PB: '2'
+  SB: '30'
+  CS: '19'
+  PCT: '.979'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Harshaney
+  nameClub1: San Antonio
+  Pos: C
+  G: '64'
+  PO: '294'
+  A: '58'
+  E: '8'
+  DP: '7'
+  PB: '19'
+  SB: '40'
+  CS: '24'
+  PCT: '.978'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Brittain
+  nameClub1: Fort Worth
+  Pos: C
+  G: '76'
+  PO: '315'
+  A: '54'
+  E: '9'
+  DP: '7'
+  PB: '5'
+  SB: '36'
+  CS: '23'
+  PCT: '.976'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Franks
+  nameClub1: Houston
+  Pos: C
+  G: '92'
+  PO: '436'
+  A: '70'
+  E: '16'
+  DP: '11'
+  PB: '11'
+  SB: '51'
+  CS: '42'
+  PCT: '.969'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Lorbeer
+  nameClub1: Beaumont
+  Pos: C
+  G: '29'
+  PO: '75'
+  A: '15'
+  E: '3'
+  DP: '0'
+  PB: '0'
+  SB: '9'
+  CS: '8'
+  PCT: '.968'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Fitzpatrick
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '46'
+  PO: '174'
+  A: '28'
+  E: '7'
+  DP: '3'
+  PB: '6'
+  SB: '41'
+  CS: '11'
+  PCT: '.967'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Gaston
+  nameClub1: Dallas
+  Pos: C
+  G: '24'
+  PO: '96'
+  A: '14'
+  E: '4'
+  DP: '1'
+  PB: '0'
+  SB: '15'
+  CS: '6'
+  PCT: '.965'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Conroy
+  nameClub1: Houston
+  Pos: C
+  G: '67'
+  PO: '240'
+  A: '31'
+  E: '12'
+  DP: '3'
+  PB: '10'
+  SB: '20'
+  CS: '13'
+  PCT: '.958'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Zubick
+  nameClub1: Tulsa
+  Pos: C
+  G: '19'
+  PO: '82'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PB: '3'
+  SB: '14'
+  CS: '4'
+  PCT: '.958'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Jackson
+  nameClub1: Tulsa
+  Pos: C
+  G: '93'
+  PO: '395'
+  A: '49'
+  E: '21'
+  DP: '5'
+  PB: '17'
+  SB: '93'
+  CS: '25'
+  PCT: '.955'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Tebbetts
+  nameClub1: Beaumont
+  Pos: C
+  G: '119'
+  PO: '383'
+  A: '78'
+  E: '24'
+  DP: '5'
+  PB: '11'
+  SB: '40'
+  CS: '34'
+  PCT: '.951'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Susce
+  nameClub1: Fort Worth
+  Pos: C
+  G: '78'
+  PO: '321'
+  A: '47'
+  E: '20'
+  DP: '2'
+  PB: '4'
+  SB: '42'
+  CS: '17'
+  PCT: '.948'
+  TP: '0'
+- year: '1936'
+  nameLeague: Texas League
+  nameLast: Keith
+  nameClub1: Galveston
+  Pos: C
+  G: '20'
+  PO: '58'
+  A: '4'
+  E: '5'
+  DP: '0'
+  PB: '2'
+  SB: '22'
+  CS: '0'
+  PCT: '.925'
+  TP: '0'

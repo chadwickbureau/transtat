@@ -1,0 +1,3189 @@
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Burr
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '46'
+  PO: '346'
+  A: '21'
+  E: '2'
+  DP: '25'
+  PCT: '.995'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Norris
+  nameClub1: Victoria
+  Pos: 1B
+  G: '23'
+  PO: '122'
+  A: '14'
+  E: '1'
+  DP: '16'
+  PCT: '.993'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Caffery
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '54'
+  PO: '419'
+  A: '34'
+  E: '3'
+  DP: '30'
+  PCT: '.993'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Carmel
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '47'
+  PO: '395'
+  A: '20'
+  E: '3'
+  DP: '27'
+  PCT: '.993'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Fort Worth
+  Pos: 1B
+  G: '16'
+  PO: '140'
+  A: '6'
+  E: '1'
+  DP: '13'
+  PCT: '.993'
+  TP: '1'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Little
+  nameClub1: Dallas
+  Pos: 1B
+  G: '132'
+  PO: '1106'
+  A: '84'
+  E: '9'
+  DP: '109'
+  PCT: '.992'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Coogan
+  nameClub1: Victoria
+  throws: L
+  Pos: 1B
+  G: '36'
+  PO: '273'
+  A: '32'
+  E: '3'
+  DP: '41'
+  PCT: '.990'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Jenney
+  nameClub1: Houston
+  Pos: 1B
+  G: '40'
+  PO: '358'
+  A: '17'
+  E: '4'
+  DP: '25'
+  PCT: '.989'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rac
+  nameClub1: Houston
+  Pos: 1B
+  G: '50'
+  PO: '414'
+  A: '31'
+  E: '5'
+  DP: '27'
+  PCT: '.989'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '144'
+  PO: '1166'
+  A: '82'
+  E: '17'
+  DP: '108'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Roberts
+  nameClub1: Austin
+  throws: L
+  Pos: 1B
+  G: '146'
+  PO: '1203'
+  A: '86'
+  E: '17'
+  DP: '123'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Stankey
+  nameClub1: Victoria
+  nameClub2: San Antonio
+  throws: L
+  Pos: 1B
+  G: '64'
+  PO: '547'
+  A: '31'
+  E: '9'
+  DP: '48'
+  PCT: '.985'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Gabler
+  nameClub1: Fort Worth
+  throws: L
+  Pos: 1B
+  G: '127'
+  PO: '1239'
+  A: '79'
+  E: '21'
+  DP: '114'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Harkness
+  nameClub1: Victoria
+  throws: L
+  Pos: 1B
+  G: '70'
+  PO: '520'
+  A: '42'
+  E: '9'
+  DP: '48'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Means
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: 1B
+  G: '59'
+  PO: '459'
+  A: '27'
+  E: '8'
+  DP: '43'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rodin
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '15'
+  PO: '109'
+  A: '11'
+  E: '2'
+  DP: '9'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Duhem
+  nameClub1: San Antonio
+  nameClub2: Victoria
+  Pos: 1B
+  G: '21'
+  PO: '165'
+  A: '10'
+  E: '3'
+  DP: '13'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Holmig
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '30'
+  PO: '268'
+  A: '25'
+  E: '5'
+  DP: '30'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '42'
+  PO: '209'
+  A: '21'
+  E: '4'
+  DP: '30'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Walker
+  nameClub1: Houston
+  Pos: 1B
+  G: '19'
+  PO: '132'
+  A: '10'
+  E: '3'
+  DP: '12'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Sheets
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '11'
+  PO: '93'
+  A: '2'
+  E: '2'
+  DP: '7'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Nelson
+  nameClub1: Dallas
+  throws: L
+  Pos: 1B
+  G: '17'
+  PO: '116'
+  A: '13'
+  E: '4'
+  DP: '10'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Sinovic
+  nameClub1: Austin
+  Pos: 1B
+  G: '13'
+  PO: '91'
+  A: '4'
+  E: '3'
+  DP: '6'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Keister
+  nameClub1: Tulsa
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '77'
+  A: '9'
+  E: '5'
+  DP: '11'
+  PCT: '.945'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hatton
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '10'
+  PO: '14'
+  A: '19'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Macko
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '10'
+  PO: '23'
+  A: '39'
+  E: '1'
+  DP: '8'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Murray
+  nameClub1: Dallas
+  Pos: 2B
+  G: '128'
+  PO: '334'
+  A: '300'
+  E: '12'
+  DP: '81'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Shannon
+  nameClub1: Houston
+  Pos: 2B
+  G: '108'
+  PO: '219'
+  A: '273'
+  E: '10'
+  DP: '55'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Morgan
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '40'
+  PO: '102'
+  A: '89'
+  E: '4'
+  DP: '31'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kanehl
+  nameClub1: Dallas
+  Pos: 2B
+  G: '24'
+  PO: '72'
+  A: '61'
+  E: '3'
+  DP: '11'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kindall
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '141'
+  PO: '403'
+  A: '418'
+  E: '23'
+  DP: '104'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rac
+  nameClub1: Houston
+  Pos: 2B
+  G: '28'
+  PO: '45'
+  A: '60'
+  E: '3'
+  DP: '7'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Jacobs
+  nameClub1: Austin
+  Pos: 2B
+  G: '139'
+  PO: '359'
+  A: '379'
+  E: '22'
+  DP: '106'
+  PCT: '.971'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davidson
+  nameClub1: Victoria
+  Pos: 2B
+  G: '41'
+  PO: '100'
+  A: '97'
+  E: '6'
+  DP: '28'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Caffery
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '90'
+  PO: '224'
+  A: '225'
+  E: '16'
+  DP: '53'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Castillo
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '62'
+  PO: '175'
+  A: '132'
+  E: '11'
+  DP: '23'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rice
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '152'
+  PO: '364'
+  A: '372'
+  E: '27'
+  DP: '79'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Richardson
+  nameClub1: Victoria
+  Pos: 2B
+  G: '110'
+  PO: '254'
+  A: '285'
+  E: '23'
+  DP: '71'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '67'
+  PO: '148'
+  A: '160'
+  E: '14'
+  DP: '34'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Ayers
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '36'
+  PO: '79'
+  A: '65'
+  E: '7'
+  DP: '19'
+  PCT: '.954'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Marsh
+  nameClub1: Austin
+  Pos: 2B
+  G: '17'
+  PO: '41'
+  A: '56'
+  E: '6'
+  DP: '15'
+  PCT: '.942'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rambone
+  nameClub1: Austin
+  nameClub2: Dallas
+  Pos: 2B
+  G: '20'
+  PO: '41'
+  A: '36'
+  E: '5'
+  DP: '10'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Burton
+  nameClub1: Houston
+  Pos: 2B
+  G: '25'
+  PO: '60'
+  A: '61'
+  E: '12'
+  DP: '15'
+  PCT: '.910'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kennedy
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '18'
+  PO: '36'
+  A: '34'
+  E: '7'
+  DP: '9'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: McAlister
+  nameClub1: Houston
+  Pos: 2B
+  G: '11'
+  PO: '15'
+  A: '20'
+  E: '4'
+  DP: '2'
+  PCT: '.897'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rambone
+  nameClub1: Austin
+  nameClub2: Dallas
+  Pos: 3B
+  G: '82'
+  PO: '61'
+  A: '151'
+  E: '6'
+  DP: '15'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Marsh
+  nameClub1: Austin
+  Pos: 3B
+  G: '74'
+  PO: '63'
+  A: '118'
+  E: '7'
+  DP: '19'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Wilhelm
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '32'
+  PO: '35'
+  A: '66'
+  E: '4'
+  DP: '4'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Derucki
+  nameClub1: Dallas
+  Pos: 3B
+  G: '104'
+  PO: '97'
+  A: '195'
+  E: '15'
+  DP: '17'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Macko
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '121'
+  PO: '114'
+  A: '230'
+  E: '20'
+  DP: '27'
+  PCT: '.945'
+  TP: '1'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Oden
+  nameClub1: Dallas
+  Pos: 3B
+  G: '20'
+  PO: '13'
+  A: '39'
+  E: '3'
+  DP: '2'
+  PCT: '.945'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Conde
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '79'
+  PO: '59'
+  A: '170'
+  E: '15'
+  DP: '17'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: DeBenedetti
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '118'
+  PO: '81'
+  A: '220'
+  E: '21'
+  DP: '24'
+  PCT: '.935'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '16'
+  PO: '8'
+  A: '34'
+  E: '3'
+  DP: '4'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Ayers
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '67'
+  PO: '49'
+  A: '124'
+  E: '14'
+  DP: '17'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Ackeret
+  nameClub1: Victoria
+  nameClub2: Austin
+  Pos: 3B
+  G: '52'
+  PO: '41'
+  A: '90'
+  E: '11'
+  DP: '7'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Richardson
+  nameClub1: Victoria
+  Pos: 3B
+  G: '18'
+  PO: '29'
+  A: '38'
+  E: '6'
+  DP: '7'
+  PCT: '.918'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: McKnight
+  nameClub1: Houston
+  Pos: 3B
+  G: '141'
+  PO: '127'
+  A: '277'
+  E: '38'
+  DP: '30'
+  PCT: '.914'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hatton
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '54'
+  PO: '38'
+  A: '84'
+  E: '12'
+  DP: '4'
+  PCT: '.910'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Bossard
+  nameClub1: Dallas
+  nameClub2: Corpus Christi
+  Pos: 3B
+  G: '109'
+  PO: '112'
+  A: '202'
+  E: '33'
+  DP: '13'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '19'
+  PO: '9'
+  A: '37'
+  E: '5'
+  DP: '3'
+  PCT: '.902'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Norris
+  nameClub1: Victoria
+  Pos: 3B
+  G: '75'
+  PO: '56'
+  A: '116'
+  E: '20'
+  DP: '3'
+  PCT: '.896'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kennedy
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '15'
+  PO: '21'
+  A: '15'
+  E: '6'
+  DP: '3'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Pfeiffer
+  nameClub1: Victoria
+  Pos: 3B
+  G: '16'
+  PO: '11'
+  A: '16'
+  E: '5'
+  DP: '5'
+  PCT: '.844'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rac
+  nameClub1: Houston
+  Pos: 3B
+  G: '13'
+  PO: '10'
+  A: '26'
+  E: '7'
+  DP: '1'
+  PCT: '.837'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Russell
+  nameClub1: Victoria
+  Pos: 3B
+  G: '17'
+  PO: '14'
+  A: '29'
+  E: '9'
+  DP: '4'
+  PCT: '.827'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Conde
+  nameClub1: Victoria
+  Pos: SS
+  G: '37'
+  PO: '68'
+  A: '93'
+  E: '4'
+  DP: '26'
+  PCT: '.976'
+  TP: '1'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Bellino
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '150'
+  PO: '276'
+  A: '524'
+  E: '27'
+  DP: '105'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Winkles
+  nameClub1: Tulsa
+  Pos: SS
+  G: '64'
+  PO: '113'
+  A: '227'
+  E: '13'
+  DP: '44'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Pfeiffer
+  nameClub1: Victoria
+  Pos: SS
+  G: '116'
+  PO: '219'
+  A: '296'
+  E: '21'
+  DP: '59'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: McAlister
+  nameClub1: Houston
+  Pos: SS
+  G: '33'
+  PO: '40'
+  A: '88'
+  E: '6'
+  DP: '5'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Herrscher
+  nameClub1: Austin
+  Pos: SS
+  G: '144'
+  PO: '202'
+  A: '469'
+  E: '32'
+  DP: '103'
+  PCT: '.954'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Caro
+  nameClub1: Fort Worth
+  nameClub2: Austin
+  nameClub3: Dallas
+  Pos: SS
+  G: '105'
+  PO: '199'
+  A: '322'
+  E: '27'
+  DP: '63'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Geho
+  nameClub1: Victoria
+  nameClub2: Corpus Christi
+  Pos: SS
+  G: '141'
+  PO: '243'
+  A: '389'
+  E: '42'
+  DP: '75'
+  PCT: '.938'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Lammers
+  nameClub1: San Antonio
+  Pos: SS
+  G: '75'
+  PO: '133'
+  A: '220'
+  E: '24'
+  DP: '39'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kuhn
+  nameClub1: Dallas
+  Pos: SS
+  G: '29'
+  PO: '30'
+  A: '73'
+  E: '7'
+  DP: '16'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hatton
+  nameClub1: San Antonio
+  Pos: SS
+  G: '16'
+  PO: '10'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Gonzales
+  nameClub1: Houston
+  Pos: SS
+  G: '104'
+  PO: '172'
+  A: '297'
+  E: '34'
+  DP: '50'
+  PCT: '.932'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Padilla
+  nameClub1: San Antonio
+  Pos: SS
+  G: '75'
+  PO: '144'
+  A: '226'
+  E: '27'
+  DP: '38'
+  PCT: '.932'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Garcia
+  nameFirst: D.
+  nameClub1: Houston
+  Pos: SS
+  G: '17'
+  PO: '37'
+  A: '42'
+  E: '6'
+  DP: '7'
+  PCT: '.929'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Wehmeyer
+  nameClub1: Corpus Christi
+  Pos: SS
+  G: '11'
+  PO: '9'
+  A: '30'
+  E: '3'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kennedy
+  nameClub1: Tulsa
+  Pos: SS
+  G: '70'
+  PO: '130'
+  A: '190'
+  E: '25'
+  DP: '31'
+  PCT: '.928'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: McKnight
+  nameClub1: Houston
+  Pos: SS
+  G: '12'
+  PO: '16'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Ayers
+  nameClub1: Tulsa
+  Pos: SS
+  G: '16'
+  PO: '20'
+  A: '28'
+  E: '4'
+  DP: '4'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Norris
+  nameClub1: Victoria
+  Pos: SS
+  G: '11'
+  PO: '14'
+  A: '21'
+  E: '4'
+  DP: '7'
+  PCT: '.897'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kanehl
+  nameClub1: Dallas
+  Pos: SS
+  G: '25'
+  PO: '43'
+  A: '66'
+  E: '15'
+  DP: '14'
+  PCT: '.879'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Lowrey
+  nameClub1: Austin
+  Pos: LF
+  G: '21'
+  PO: '24'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Ernaga
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '120'
+  PO: '199'
+  A: '12'
+  E: '3'
+  DP: '1'
+  PCT: '.986'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Miles
+  nameClub1: Victoria
+  throws: L
+  Pos: LF
+  G: '78'
+  PO: '172'
+  A: '6'
+  E: '3'
+  DP: '2'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Powis
+  nameClub1: Victoria
+  nameClub2: Dallas
+  Pos: LF
+  G: '41'
+  PO: '77'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: James
+  nameClub1: Houston
+  Pos: LF
+  G: '148'
+  PO: '301'
+  A: '17'
+  E: '8'
+  DP: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Fort Worth
+  throws: L
+  Pos: LF
+  G: '22'
+  PO: '34'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Baro
+  nameClub1: Houston
+  nameClub2: San Antonio
+  Pos: LF
+  G: '100'
+  PO: '187'
+  A: '6'
+  E: '6'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Miller
+  nameClub1: Corpus Christi
+  Pos: LF
+  G: '132'
+  PO: '270'
+  A: '12'
+  E: '10'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Victoria
+  Pos: LF
+  G: '67'
+  PO: '160'
+  A: '11'
+  E: '6'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Keister
+  nameClub1: Tulsa
+  throws: L
+  Pos: LF
+  G: '70'
+  PO: '102'
+  A: '11'
+  E: '4'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rodin
+  nameClub1: Corpus Christi
+  Pos: LF
+  G: '11'
+  PO: '25'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Getter
+  nameClub1: Dallas
+  Pos: LF
+  G: '104'
+  PO: '214'
+  A: '7'
+  E: '10'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Peeples
+  nameClub1: Austin
+  Pos: LF
+  G: '55'
+  PO: '81'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Sinovic
+  nameClub1: Austin
+  Pos: LF
+  G: '87'
+  PO: '120'
+  A: '4'
+  E: '6'
+  DP: '0'
+  PCT: '.954'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Duhem
+  nameClub1: San Antonio
+  nameClub2: Victoria
+  Pos: LF
+  G: '59'
+  PO: '98'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '12'
+  PO: '15'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Tulsa
+  throws: L
+  Pos: LF
+  G: '20'
+  PO: '34'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Nelson
+  nameClub1: Dallas
+  throws: L
+  Pos: LF
+  G: '15'
+  PO: '35'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Logan
+  nameClub1: Tulsa
+  Pos: LF
+  G: '80'
+  PO: '129'
+  A: '4'
+  E: '12'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: St. John
+  nameClub1: San Antonio
+  Pos: CF
+  G: '42'
+  PO: '102'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.990'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Means
+  nameClub1: Corpus Christi
+  throws: L
+  Pos: CF
+  G: '43'
+  PO: '59'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.985'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Parsons
+  nameClub1: Victoria
+  throws: L
+  Pos: CF
+  G: '89'
+  PO: '246'
+  A: '3'
+  E: '4'
+  DP: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Adams
+  nameClub1: Houston
+  throws: L
+  Pos: CF
+  G: '103'
+  PO: '229'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: King
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '150'
+  PO: '374'
+  A: '12'
+  E: '7'
+  DP: '7'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Victoria
+  Pos: CF
+  G: '23'
+  PO: '50'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Moitoza
+  nameClub1: San Antonio
+  Pos: CF
+  G: '35'
+  PO: '90'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Suplizio
+  nameClub1: Victoria
+  nameClub2: Dallas
+  Pos: CF
+  G: '48'
+  PO: '123'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Harrington
+  nameClub1: Tulsa
+  Pos: CF
+  G: '115'
+  PO: '272'
+  A: '17'
+  E: '7'
+  DP: '5'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Moreno
+  nameClub1: San Antonio
+  Pos: CF
+  G: '44'
+  PO: '112'
+  A: '7'
+  E: '3'
+  DP: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rodin
+  nameClub1: Corpus Christi
+  Pos: CF
+  G: '120'
+  PO: '209'
+  A: '9'
+  E: '6'
+  DP: '3'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Getter
+  nameClub1: Dallas
+  Pos: CF
+  G: '16'
+  PO: '35'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Duhem
+  nameClub1: San Antonio
+  nameClub2: Victoria
+  Pos: CF
+  G: '33'
+  PO: '67'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Maye
+  nameClub1: Austin
+  Pos: CF
+  G: '121'
+  PO: '341'
+  A: '5'
+  E: '11'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Brown
+  nameClub1: Houston
+  throws: L
+  Pos: CF
+  G: '42'
+  PO: '112'
+  A: '5'
+  E: '4'
+  DP: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Powis
+  nameClub1: Victoria
+  nameClub2: Dallas
+  Pos: CF
+  G: '44'
+  PO: '105'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kanehl
+  nameClub1: Dallas
+  Pos: CF
+  G: '70'
+  PO: '184'
+  A: '12'
+  E: '8'
+  DP: '1'
+  PCT: '.961'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Baro
+  nameClub1: Houston
+  nameClub2: San Antonio
+  Pos: CF
+  G: '17'
+  PO: '24'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Peeples
+  nameClub1: Austin
+  Pos: CF
+  G: '36'
+  PO: '89'
+  A: '5'
+  E: '4'
+  DP: '4'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Logan
+  nameClub1: Tulsa
+  Pos: CF
+  G: '37'
+  PO: '98'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Miles
+  nameClub1: Victoria
+  throws: L
+  Pos: CF
+  G: '22'
+  PO: '60'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.937'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Miller
+  nameClub1: Corpus Christi
+  Pos: CF
+  G: '14'
+  PO: '32'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Victoria
+  Pos: RF
+  G: '26'
+  PO: '43'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Duhem
+  nameClub1: San Antonio
+  nameClub2: Victoria
+  Pos: RF
+  G: '26'
+  PO: '39'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Sinovic
+  nameClub1: Austin
+  Pos: RF
+  G: '24'
+  PO: '41'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Powis
+  nameClub1: Victoria
+  nameClub2: Dallas
+  Pos: RF
+  G: '22'
+  PO: '30'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '21'
+  PO: '10'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rac
+  nameClub1: Houston
+  Pos: RF
+  G: '21'
+  PO: '26'
+  A: '5'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Fort Worth
+  throws: L
+  Pos: RF
+  G: '18'
+  PO: '21'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Thorpe
+  nameClub1: Houston
+  Pos: RF
+  G: '15'
+  PO: '17'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Getter
+  nameClub1: Dallas
+  Pos: RF
+  G: '14'
+  PO: '8'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Guettler
+  nameClub1: Dallas
+  Pos: RF
+  G: '12'
+  PO: '14'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Dunham
+  nameClub1: Dallas
+  throws: L
+  Pos: RF
+  G: '124'
+  PO: '226'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PCT: '.991'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Keister
+  nameClub1: Tulsa
+  throws: L
+  Pos: RF
+  G: '86'
+  PO: '102'
+  A: '8'
+  E: '1'
+  DP: '2'
+  PCT: '.991'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Robertson
+  nameClub1: Fort Worth
+  throws: L
+  Pos: RF
+  G: '34'
+  PO: '53'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Novak
+  nameClub1: Victoria
+  Pos: RF
+  G: '38'
+  PO: '56'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Castillo
+  nameClub1: San Antonio
+  Pos: RF
+  G: '32'
+  PO: '52'
+  A: '4'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Burton
+  nameClub1: Houston
+  Pos: RF
+  G: '114'
+  PO: '175'
+  A: '12'
+  E: '4'
+  DP: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Will
+  nameClub1: Fort Worth
+  throws: L
+  Pos: RF
+  G: '81'
+  PO: '125'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Fisher
+  nameClub1: Tulsa
+  Pos: RF
+  G: '96'
+  PO: '109'
+  A: '7'
+  E: '3'
+  DP: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Moreno
+  nameClub1: San Antonio
+  Pos: RF
+  G: '70'
+  PO: '113'
+  A: '4'
+  E: '3'
+  DP: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Parsons
+  nameClub1: Victoria
+  throws: L
+  Pos: RF
+  G: '48'
+  PO: '61'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Lutz
+  nameClub1: Corpus Christi
+  Pos: RF
+  G: '152'
+  PO: '254'
+  A: '9'
+  E: '9'
+  DP: '4'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Gonder
+  nameClub1: San Antonio
+  Pos: RF
+  G: '22'
+  PO: '27'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Mason
+  nameClub1: Austin
+  throws: L
+  Pos: RF
+  G: '97'
+  PO: '149'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Peeples
+  nameClub1: Austin
+  Pos: RF
+  G: '53'
+  PO: '75'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Sheets
+  nameClub1: San Antonio
+  Pos: RF
+  G: '29'
+  PO: '39'
+  A: '0'
+  E: '3'
+  DP: '1'
+  PCT: '.937'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Turk
+  nameClub1: Tulsa
+  Pos: C
+  G: '30'
+  PO: '171'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PB: '2'
+  PCT: '.995'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Jones
+  nameClub1: Victoria
+  Pos: C
+  G: '110'
+  PO: '550'
+  A: '40'
+  E: '10'
+  DP: '10'
+  PB: '4'
+  PCT: '.993'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hairston
+  nameClub1: San Antonio
+  Pos: C
+  G: '67'
+  PO: '251'
+  A: '32'
+  E: '2'
+  DP: '2'
+  PB: '4'
+  PCT: '.993'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Bowland
+  nameClub1: Dallas
+  Pos: C
+  G: '68'
+  PO: '330'
+  A: '35'
+  E: '5'
+  DP: '5'
+  PB: '2'
+  PCT: '.992'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Baldwin
+  nameClub1: Victoria
+  nameClub2: San Antonio
+  Pos: C
+  G: '46'
+  PO: '209'
+  A: '21'
+  E: '7'
+  DP: '7'
+  PB: '6'
+  PCT: '.991'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Mangan
+  nameClub1: San Antonio
+  Pos: C
+  G: '39'
+  PO: '184'
+  A: '26'
+  E: '3'
+  DP: '3'
+  PB: '4'
+  PCT: '.991'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Sholin
+  nameClub1: Tulsa
+  Pos: C
+  G: '81'
+  PO: '430'
+  A: '47'
+  E: '9'
+  DP: '9'
+  PB: '4'
+  PCT: '.988'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Thacker
+  nameClub1: Fort Worth
+  Pos: C
+  G: '87'
+  PO: '435'
+  A: '33'
+  E: '6'
+  DP: '6'
+  PB: '2'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Murray
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '69'
+  PO: '380'
+  A: '35'
+  E: '2'
+  DP: '2'
+  PB: '11'
+  PCT: '.986'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Fanning
+  nameClub1: Fort Worth
+  nameClub2: Tulsa
+  Pos: C
+  G: '57'
+  PO: '328'
+  A: '25'
+  E: '7'
+  DP: '7'
+  PB: '3'
+  PCT: '.986'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rivich
+  nameClub1: Fort Worth
+  Pos: C
+  G: '17'
+  PO: '65'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PB: '1'
+  PCT: '.986'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Czekaj
+  nameClub1: Houston
+  Pos: C
+  G: '32'
+  PO: '172'
+  A: '17'
+  E: '4'
+  DP: '4'
+  PB: '3'
+  PCT: '.985'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Biebel
+  nameClub1: Fort Worth
+  Pos: C
+  G: '25'
+  PO: '113'
+  A: '13'
+  E: '1'
+  DP: '1'
+  PB: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Jenney
+  nameClub1: Houston
+  Pos: C
+  G: '12'
+  PO: '56'
+  A: '5'
+  E: '2'
+  DP: '2'
+  PB: '3'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Stieglitz
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '93'
+  PO: '489'
+  A: '44'
+  E: '7'
+  DP: '7'
+  PB: '18'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Dabek
+  nameClub1: Houston
+  Pos: C
+  G: '63'
+  PO: '322'
+  A: '29'
+  E: '6'
+  DP: '6'
+  PB: '4'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Bottler
+  nameClub1: Dallas
+  nameClub2: Victoria
+  nameClub3: Austin
+  Pos: C
+  G: '63'
+  PO: '340'
+  A: '35'
+  E: '5'
+  DP: '5'
+  PB: '5'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Bertell
+  nameClub1: Fort Worth
+  Pos: C
+  G: '19'
+  PO: '65'
+  A: '16'
+  E: '3'
+  DP: '3'
+  PB: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Czerniakowski
+  nameClub1: Houston
+  Pos: C
+  G: '59'
+  PO: '369'
+  A: '22'
+  E: '9'
+  DP: '9'
+  PB: '5'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Leppert
+  nameClub1: Austin
+  Pos: C
+  G: '70'
+  PO: '331'
+  A: '25'
+  E: '14'
+  DP: '14'
+  PB: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Solt
+  nameClub1: Austin
+  Pos: C
+  G: '38'
+  PO: '176'
+  A: '14'
+  E: '3'
+  DP: '3'
+  PB: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Victoria
+  Pos: C
+  G: '18'
+  PO: '85'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PB: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Rand
+  nameClub1: Dallas
+  Pos: C
+  G: '89'
+  PO: '422'
+  A: '38'
+  E: '8'
+  DP: '8'
+  PB: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Faucett
+  nameClub1: Victoria
+  Pos: C
+  G: '16'
+  PO: '92'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PB: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Gonder
+  nameClub1: San Antonio
+  Pos: C
+  G: '27'
+  PO: '150'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Franco
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '41'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: McGhee
+  nameClub1: Dallas
+  Pos: P
+  G: '31'
+  PO: '12'
+  A: '33'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Golden
+  nameClub1: Tulsa
+  Pos: P
+  G: '52'
+  PO: '9'
+  A: '35'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Nichols
+  nameClub1: Fort Worth
+  Pos: P
+  G: '15'
+  PO: '6'
+  A: '23'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '1'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Beringer
+  nameClub1: Victoria
+  Pos: P
+  G: '21'
+  PO: '5'
+  A: '17'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: O'Donnell
+  nameClub1: Austin
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '0'
+  A: '22'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Anderson
+  nameClub1: Fort Worth
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Osorio
+  nameClub1: San Antonio
+  Pos: P
+  G: '17'
+  PO: '0'
+  A: '12'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Edmunds
+  nameClub1: Fort Worth
+  Pos: P
+  G: '29'
+  PO: '2'
+  A: '16'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Moton
+  nameClub1: Houston
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Freeman
+  nameClub1: Fort Worth
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: LiPetri
+  nameClub1: Tulsa
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Schultz
+  nameClub1: San Antonio
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Coen
+  nameClub1: San Antonio
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Santiago
+  nameClub1: San Antonio
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Buchanan
+  nameClub1: Dallas
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Ehrke
+  nameClub1: Dallas
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Michalec
+  nameClub1: San Antonio
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Toth
+  nameClub1: Houston
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Duffy
+  nameClub1: Victoria
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Peterson
+  nameClub1: Victoria
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Thollander
+  nameClub1: San Antonio
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Wooten
+  nameClub1: Victoria
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Bowers
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Mackinson
+  nameClub1: Tulsa
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Munger
+  nameClub1: San Antonio
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Mossor
+  nameClub1: Tulsa
+  nameClub2: Dallas
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '28'
+  E: '5'
+  DP: '2'
+  PCT: '.881'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Brown
+  nameClub1: Austin
+  Pos: P
+  G: '33'
+  PO: '10'
+  A: '42'
+  E: '1'
+  DP: '3'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Solis
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '38'
+  E: '1'
+  DP: '5'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Luebke
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '49'
+  PO: '8'
+  A: '31'
+  E: '1'
+  DP: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Kotrany
+  nameClub1: Dallas
+  Pos: P
+  G: '37'
+  PO: '17'
+  A: '42'
+  E: '2'
+  DP: '4'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Nunn
+  nameClub1: Houston
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '46'
+  E: '2'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Greenwood
+  nameClub1: Tulsa
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Johnson
+  nameFirst: B.
+  nameClub1: Fort Worth
+  Pos: P
+  G: '44'
+  PO: '7'
+  A: '44'
+  E: '2'
+  DP: '4'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Baliga
+  nameClub1: Victoria
+  Pos: P
+  G: '25'
+  PO: '16'
+  A: '35'
+  E: '2'
+  DP: '3'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Archer
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '10'
+  A: '38'
+  E: '2'
+  DP: '6'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Perkowski
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '43'
+  PO: '2'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Dallas
+  Pos: P
+  G: '47'
+  PO: '2'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Tremel
+  nameClub1: Victoria
+  Pos: P
+  G: '49'
+  PO: '7'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Nelson
+  nameClub1: Austin
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '33'
+  E: '2'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Nicolosi
+  nameClub1: Victoria
+  Pos: P
+  G: '34'
+  PO: '8'
+  A: '34'
+  E: '2'
+  DP: '5'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Maibauer
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '35'
+  PO: '15'
+  A: '26'
+  E: '2'
+  DP: '4'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Tugerson
+  nameClub1: Dallas
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '29'
+  E: '2'
+  DP: '3'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Erickson
+  nameClub1: Tulsa
+  Pos: P
+  G: '72'
+  PO: '10'
+  A: '29'
+  E: '2'
+  DP: '3'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Camp
+  nameClub1: Tulsa
+  Pos: P
+  G: '42'
+  PO: '13'
+  A: '41'
+  E: '3'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Donohue
+  nameClub1: Houston
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '12'
+  E: '1'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Fisher
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '22'
+  PO: '9'
+  A: '27'
+  E: '2'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Fodge
+  nameClub1: Fort Worth
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Mrozinski
+  nameClub1: Tulsa
+  throws: L
+  Pos: P
+  G: '42'
+  PO: '8'
+  A: '42'
+  E: '3'
+  DP: '3'
+  PCT: '.943'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Lemish
+  nameClub1: Austin
+  nameClub2: Dallas
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '39'
+  E: '3'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Roberts
+  nameClub1: Corpus Christi
+  nameClub2: Victoria
+  Pos: P
+  G: '27'
+  PO: '11'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.937'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Cohen
+  nameClub1: San Antonio
+  Pos: P
+  G: '45'
+  PO: '9'
+  A: '51'
+  E: '4'
+  DP: '2'
+  PCT: '.937'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Fowler
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '28'
+  PO: '11'
+  A: '31'
+  E: '3'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Maranda
+  nameClub1: Austin
+  Pos: P
+  G: '35'
+  PO: '14'
+  A: '42'
+  E: '4'
+  DP: '7'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Crable
+  nameClub1: Houston
+  Pos: P
+  G: '28'
+  PO: '11'
+  A: '29'
+  E: '3'
+  DP: '1'
+  PCT: '.930'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Clark
+  nameClub1: Austin
+  Pos: P
+  G: '50'
+  PO: '7'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Funk
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '45'
+  PO: '5'
+  A: '19'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Aldridge
+  nameClub1: San Antonio
+  Pos: P
+  G: '21'
+  PO: '6'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Gerard
+  nameClub1: Fort Worth
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '29'
+  E: '3'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Miller
+  nameClub1: Houston
+  Pos: P
+  G: '27'
+  PO: '8'
+  A: '28'
+  E: '3'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Fox
+  nameClub1: Austin
+  Pos: P
+  G: '21'
+  PO: '6'
+  A: '29'
+  E: '3'
+  DP: '3'
+  PCT: '.921'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Benedict
+  nameClub1: Victoria
+  Pos: P
+  G: '47'
+  PO: '6'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hendrickson
+  nameClub1: Austin
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '34'
+  E: '4'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Stoico
+  nameClub1: Austin
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Mauriello
+  nameClub1: Victoria
+  Pos: P
+  G: '19'
+  PO: '10'
+  A: '11'
+  E: '2'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Mickens
+  nameClub1: Victoria
+  Pos: P
+  G: '25'
+  PO: '8'
+  A: '34'
+  E: '4'
+  DP: '2'
+  PCT: '.913'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Drilling
+  nameClub1: San Antonio
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '18'
+  E: '3'
+  DP: '2'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Graham
+  nameClub1: Austin
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Raczewski
+  nameClub1: Houston
+  throws: L
+  Pos: P
+  G: '55'
+  PO: '4'
+  A: '15'
+  E: '2'
+  DP: '2'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Merritt
+  nameClub1: Houston
+  Pos: P
+  G: '52'
+  PO: '3'
+  A: '24'
+  E: '3'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Widmar
+  nameClub1: Tulsa
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Bowman
+  nameClub1: Houston
+  Pos: P
+  G: '37'
+  PO: '10'
+  A: '25'
+  E: '4'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Andersen
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '21'
+  PO: '4'
+  A: '11'
+  E: '2'
+  DP: '2'
+  PCT: '.882'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Brill
+  nameClub1: Tulsa
+  Pos: P
+  G: '23'
+  PO: '7'
+  A: '14'
+  E: '3'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Ellsworth
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '10'
+  E: '2'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hoskins
+  nameClub1: Dallas
+  Pos: P
+  G: '32'
+  PO: '12'
+  A: '28'
+  E: '6'
+  DP: '1'
+  PCT: '.870'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Sovde
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '37'
+  PO: '13'
+  A: '34'
+  E: '7'
+  DP: '2'
+  PCT: '.870'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Peete
+  nameClub1: Dallas
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hunsinger
+  nameClub1: Tulsa
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Darden
+  nameClub1: Fort Worth
+  nameClub2: Dallas
+  Pos: P
+  G: '64'
+  PO: '6'
+  A: '13'
+  E: '4'
+  DP: '0'
+  PCT: '.826'
+  TP: '0'
+- year: '1958'
+  nameLeague: Texas League
+  nameLast: Hannah
+  nameClub1: Austin
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'

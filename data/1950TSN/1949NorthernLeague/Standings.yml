@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '71'
+  L: '52'
+  T: '1'
+  PCT: '.577'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular
+  W: '71'
+  L: '54'
+  T: '0'
+  PCT: '.568'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular
+  W: '65'
+  L: '59'
+  T: '0'
+  PCT: '.524'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: regular
+  W: '64'
+  L: '62'
+  T: '0'
+  PCT: '.508'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: regular
+  W: '60'
+  L: '66'
+  T: '0'
+  PCT: '.476'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Sioux Falls
+  phase: regular
+  W: '58'
+  L: '67'
+  T: '0'
+  PCT: '.464'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '56'
+  L: '70'
+  T: '1'
+  PCT: '.444'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '55'
+  L: '70'
+  T: '0'
+  PCT: '.440'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: semifinals
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: semifinals
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: semifinals
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: semifinals
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

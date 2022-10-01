@@ -1,0 +1,118 @@
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular
+  W: '98'
+  L: '56'
+  T: '1'
+  PCT: '.636'
+  RANK: '1'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  phase: regular
+  W: '86'
+  L: '67'
+  T: '0'
+  PCT: '.562'
+  RANK: '2'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular
+  W: '81'
+  L: '72'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Knoxville
+  phase: regular
+  W: '81'
+  L: '73'
+  T: '0'
+  PCT: '.526'
+  RANK: '4'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular
+  W: '81'
+  L: '73'
+  T: '2'
+  PCT: '.526'
+  RANK: '4'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular
+  W: '76'
+  L: '78'
+  T: '0'
+  PCT: '.494'
+  RANK: '6'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular
+  W: '59'
+  L: '95'
+  T: '0'
+  PCT: '.383'
+  RANK: '7'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular
+  W: '53'
+  L: '101'
+  T: '3'
+  PCT: '.344'
+  RANK: '8'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Knoxville
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  phase: final
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: final
+  W: '1'
+  L: '2'
+  RANK: '2'

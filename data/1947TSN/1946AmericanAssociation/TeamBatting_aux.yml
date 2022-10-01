@@ -1,0 +1,64 @@
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  BB: '725'
+  HP: '33'
+  RBI: '707'
+  SO: '620'
+  GIDP: '135'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  BB: '546'
+  HP: '25'
+  RBI: '688'
+  SO: '660'
+  GIDP: '100'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  BB: '636'
+  HP: '27'
+  RBI: '666'
+  SO: '580'
+  GIDP: '109'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Louisville
+  BB: '594'
+  HP: '28'
+  RBI: '661'
+  SO: '570'
+  GIDP: '83'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: St. Paul
+  BB: '717'
+  HP: '29'
+  RBI: '653'
+  SO: '668'
+  GIDP: '104'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Toledo
+  BB: '459'
+  HP: '38'
+  RBI: '575'
+  SO: '612'
+  GIDP: '103'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Columbus
+  BB: '604'
+  HP: '21'
+  RBI: '572'
+  SO: '779'
+  GIDP: '105'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Kansas City
+  BB: '578'
+  HP: '25'
+  RBI: '530'
+  SO: '710'
+  GIDP: '90'

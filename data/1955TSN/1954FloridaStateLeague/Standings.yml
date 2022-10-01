@@ -1,0 +1,170 @@
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  phase: regular/first
+  W: '44'
+  L: '26'
+  T: '0'
+  PCT: '.629'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular/first
+  W: '40'
+  L: '29'
+  T: '0'
+  PCT: '.580'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/first
+  W: '40'
+  L: '30'
+  T: '0'
+  PCT: '.571'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  phase: regular/first
+  W: '30'
+  L: '39'
+  T: '0'
+  PCT: '.435'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/first
+  W: '28'
+  L: '39'
+  T: '0'
+  PCT: '.418'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/first
+  W: '25'
+  L: '44'
+  T: '0'
+  PCT: '.362'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  phase: regular/second
+  W: '41'
+  L: '28'
+  T: '0'
+  PCT: '.594'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/second
+  W: '39'
+  L: '31'
+  T: '0'
+  PCT: '.557'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular/second
+  W: '37'
+  L: '33'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/second
+  W: '32'
+  L: '37'
+  T: '0'
+  PCT: '.464'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  phase: regular/second
+  W: '32'
+  L: '37'
+  T: '0'
+  PCT: '.464'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/second
+  W: '27'
+  L: '42'
+  T: '0'
+  PCT: '.391'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular
+  W: '77'
+  L: '62'
+  T: '0'
+  PCT: '.554'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  phase: regular
+  W: '76'
+  L: '63'
+  T: '0'
+  PCT: '.547'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  phase: regular
+  W: '71'
+  L: '67'
+  T: '0'
+  PCT: '.514'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular
+  W: '60'
+  L: '76'
+  T: '0'
+  PCT: '.441'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '52'
+  L: '86'
+  T: '0'
+  PCT: '.377'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  phase: finals
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  phase: finals
+  L: '2'
+  T: '3'
+  RANK: '2'

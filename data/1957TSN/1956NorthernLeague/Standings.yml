@@ -1,0 +1,118 @@
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '70'
+  L: '52'
+  T: '0'
+  PCT: '.574'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: regular
+  W: '63'
+  L: '55'
+  T: '1'
+  PCT: '.534'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: regular
+  W: '63'
+  L: '56'
+  T: '1'
+  PCT: '.529'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular
+  W: '64'
+  L: '61'
+  T: '0'
+  PCT: '.512'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Wausau
+  phase: regular
+  W: '61'
+  L: '63'
+  T: '0'
+  PCT: '.492'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular
+  W: '61'
+  L: '64'
+  T: '0'
+  PCT: '.488'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '59'
+  L: '65'
+  T: '1'
+  PCT: '.476'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '49'
+  L: '74'
+  T: '1'
+  PCT: '.398'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '1'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '0'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '1'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: final
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: final
+  W: '0'
+  L: '2'
+  RANK: '2'

@@ -1,0 +1,80 @@
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  Charlotte: '13'
+  Savannah: '13'
+  Knoxville: '13'
+  Columbus: '12'
+  Jacksonville: '14'
+  Columbia: '17'
+  Macon: '16'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  Augusta: '9'
+  Savannah: '10'
+  Knoxville: '13'
+  Columbus: '9'
+  Jacksonville: '12'
+  Columbia: '14'
+  Macon: '19'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  Augusta: '9'
+  Charlotte: '11'
+  Knoxville: '9'
+  Columbus: '12'
+  Jacksonville: '11'
+  Columbia: '13'
+  Macon: '16'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Knoxville
+  Augusta: '9'
+  Charlotte: '9'
+  Savannah: '13'
+  Columbus: '9'
+  Jacksonville: '11'
+  Columbia: '17'
+  Macon: '13'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  Augusta: '10'
+  Charlotte: '13'
+  Savannah: '10'
+  Knoxville: '13'
+  Jacksonville: '11'
+  Columbia: '12'
+  Macon: '12'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  Augusta: '8'
+  Charlotte: '10'
+  Savannah: '11'
+  Knoxville: '11'
+  Columbus: '11'
+  Columbia: '11'
+  Macon: '14'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  Augusta: '5'
+  Charlotte: '8'
+  Savannah: '9'
+  Knoxville: '5'
+  Columbus: '10'
+  Jacksonville: '11'
+  Macon: '11'
+- year: '1957'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  Augusta: '6'
+  Charlotte: '3'
+  Savannah: '6'
+  Knoxville: '9'
+  Columbus: '10'
+  Jacksonville: '8'
+  Columbia: '11'

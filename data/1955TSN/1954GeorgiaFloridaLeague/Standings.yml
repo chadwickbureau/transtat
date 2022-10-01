@@ -1,0 +1,116 @@
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular
+  W: '88'
+  L: '52'
+  T: '1'
+  PCT: '.629'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: regular
+  W: '80'
+  L: '59'
+  T: '0'
+  PCT: '.576'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '73'
+  L: '65'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular
+  W: '68'
+  L: '67'
+  T: '2'
+  PCT: '.504'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular
+  W: '68'
+  L: '70'
+  T: '0'
+  PCT: '.493'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '64'
+  L: '71'
+  T: '0'
+  PCT: '.474'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Tifton
+  phase: regular
+  W: '60'
+  L: '80'
+  T: '1'
+  PCT: '.429'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus-Cordele
+  phase: regular
+  W: '51'
+  L: '88'
+  T: '0'
+  PCT: '.367'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: final
+  W: '3'
+  L: '2'
+- year: '1954'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: final
+  W: '2'
+  L: '3'

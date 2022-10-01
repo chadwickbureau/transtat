@@ -1,0 +1,1138 @@
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Myers
+  nameClub1: Bisbee
+  Pos: 1B
+  G: '129'
+  PO: '1139'
+  A: '53'
+  E: '14'
+  DP: '92'
+  PCT: '.988'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Falconi
+  nameClub1: El Paso
+  Pos: 1B
+  G: '8'
+  PO: '64'
+  A: '3'
+  E: '1'
+  DP: '3'
+  PCT: '.985'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Garbe
+  nameClub1: Albuquerque
+  Pos: 1B
+  G: '19'
+  PO: '128'
+  A: '6'
+  E: '2'
+  DP: '14'
+  PCT: '.985'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Wagner
+  nameClub1: El Paso
+  Pos: 1B
+  G: '100'
+  PO: '838'
+  A: '36'
+  E: '15'
+  DP: '57'
+  PCT: '.983'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Alves
+  nameClub1: Tucson
+  Pos: 1B
+  G: '130'
+  PO: '1093'
+  A: '60'
+  E: '23'
+  DP: '98'
+  PCT: '.980'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Shoals
+  nameClub1: Albuquerque
+  Pos: 1B
+  G: '86'
+  PO: '830'
+  A: '21'
+  E: '19'
+  DP: '55'
+  PCT: '.978'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: O'Banion
+  nameClub1: El Paso
+  Pos: 1B
+  G: '12'
+  PO: '87'
+  A: '1'
+  E: '3'
+  DP: '4'
+  PCT: '.976'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Burleson
+  nameClub1: Albuquerque
+  nameClub2: Tucson
+  Pos: 1B
+  G: '30'
+  PO: '261'
+  A: '11'
+  E: '7'
+  DP: '29'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Zinn
+  nameClub1: El Paso
+  Pos: 1B
+  G: '15'
+  PO: '121'
+  A: '4'
+  E: '8'
+  DP: '9'
+  PCT: '.940'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Hough
+  nameClub1: Albuquerque
+  Pos: 1B
+  G: '10'
+  PO: '8'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.888'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Creager
+  nameClub1: Bisbee
+  Pos: 2B
+  G: '112'
+  PO: '279'
+  A: '373'
+  E: '29'
+  DP: '54'
+  PCT: '.957'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Baiocchi
+  nameClub1: Tucson
+  Pos: 2B
+  G: '88'
+  PO: '247'
+  A: '241'
+  E: '33'
+  DP: '60'
+  PCT: '.937'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morey
+  nameClub1: El Paso
+  Pos: 2B
+  G: '12'
+  PO: '43'
+  A: '44'
+  E: '5'
+  DP: '7'
+  PCT: '.939'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Smith
+  nameClub1: Bisbee
+  Pos: 2B
+  G: '15'
+  PO: '42'
+  A: '56'
+  E: '7'
+  DP: '10'
+  PCT: '.933'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Price
+  nameClub1: Tucson
+  Pos: 2B
+  G: '46'
+  PO: '94'
+  A: '122'
+  E: '16'
+  DP: '16'
+  PCT: '.931'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Anderson
+  nameClub1: El Paso
+  Pos: 2B
+  G: '15'
+  PO: '47'
+  A: '9'
+  E: '7'
+  DP: '4'
+  PCT: '.927'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Burleson
+  nameClub1: Albuquerque
+  nameClub2: Tucson
+  Pos: 2B
+  G: '7'
+  PO: '19'
+  A: '20'
+  E: '4'
+  DP: '2'
+  PCT: '.907'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Malone
+  nameClub1: Albuquerque
+  Pos: 2B
+  G: '116'
+  PO: '311'
+  A: '285'
+  E: '65'
+  DP: '61'
+  PCT: '.902'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Jones
+  nameClub1: El Paso
+  Pos: 2B
+  G: '101'
+  PO: '201'
+  A: '256'
+  E: '50'
+  DP: '44'
+  PCT: '.901'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Falconi
+  nameClub1: El Paso
+  Pos: 2B
+  G: '7'
+  PO: '12'
+  A: '7'
+  E: '3'
+  DP: '3'
+  PCT: '.870'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morris
+  nameClub1: Albuquerque
+  Pos: 2B
+  G: '11'
+  PO: '12'
+  A: '22'
+  E: '6'
+  DP: '3'
+  PCT: '.850'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Jones
+  nameClub1: El Paso
+  Pos: 3B
+  G: '29'
+  PO: '44'
+  A: '62'
+  E: '98'
+  DP: '3'
+  PCT: '.957'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Slagle
+  nameClub1: Tucson
+  Pos: 3B
+  G: '35'
+  PO: '56'
+  A: '66'
+  E: '6'
+  DP: '9'
+  PCT: '.953'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Reyes
+  nameClub1: Albuquerque
+  Pos: 3B
+  G: '132'
+  PO: '162'
+  A: '298'
+  E: '29'
+  DP: '21'
+  PCT: '.941'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Burleson
+  nameClub1: Albuquerque
+  nameClub2: Tucson
+  Pos: 3B
+  G: '35'
+  PO: '36'
+  A: '58'
+  E: '13'
+  DP: '6'
+  PCT: '.937'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Lockyer
+  nameClub1: Bisbee
+  Pos: 3B
+  G: '7'
+  PO: '7'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morey
+  nameClub1: El Paso
+  Pos: 3B
+  G: '117'
+  PO: '129'
+  A: '156'
+  E: '24'
+  DP: '16'
+  PCT: '.922'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Plummer
+  nameClub1: Bisbee
+  Pos: 3B
+  G: '38'
+  PO: '43'
+  A: '71'
+  E: '10'
+  DP: '5'
+  PCT: '.919'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Baiocchi
+  nameClub1: Tucson
+  Pos: 3B
+  G: '29'
+  PO: '56'
+  A: '64'
+  E: '14'
+  DP: '1'
+  PCT: '.896'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Barbattini
+  nameClub1: Bisbee
+  Pos: 3B
+  G: '51'
+  PO: '51'
+  A: '85'
+  E: '17'
+  DP: '8'
+  PCT: '.889'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Creager
+  nameClub1: Bisbee
+  Pos: 3B
+  G: '9'
+  PO: '11'
+  A: '18'
+  E: '4'
+  DP: '5'
+  PCT: '.879'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Orosco
+  nameClub1: Tucson
+  Pos: 3B
+  G: '8'
+  PO: '11'
+  A: '13'
+  E: '4'
+  DP: '2'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Larrieu
+  nameClub1: Tucson
+  Pos: 3B
+  G: '12'
+  PO: '10'
+  A: '17'
+  E: '5'
+  DP: '2'
+  PCT: '.844'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Carrillo
+  nameClub1: Tucson
+  Pos: 3B
+  G: '11'
+  PO: '5'
+  A: '14'
+  E: '4'
+  DP: '3'
+  PCT: '.826'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Maygren
+  nameClub1: Bisbee
+  Pos: 3B
+  G: '16'
+  PO: '19'
+  A: '27'
+  E: '10'
+  DP: '4'
+  PCT: '.821'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Sturgeon
+  nameClub1: Albuquerque
+  Pos: SS
+  G: '52'
+  PO: '102'
+  A: '201'
+  E: '16'
+  DP: '27'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Baiocchi
+  nameClub1: Tucson
+  Pos: SS
+  G: '7'
+  PO: '22'
+  A: '23'
+  E: '3'
+  DP: '2'
+  PCT: '.938'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Beringheli
+  nameClub1: Bisbee
+  Pos: SS
+  G: '130'
+  PO: '235'
+  A: '357'
+  E: '54'
+  DP: '68'
+  PCT: '.916'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Eckhardt
+  nameClub1: Albuquerque
+  Pos: SS
+  G: '39'
+  PO: '69'
+  A: '105'
+  E: '20'
+  DP: '11'
+  PCT: '.897'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Ratto
+  nameClub1: El Paso
+  Pos: SS
+  G: '72'
+  PO: '122'
+  A: '183'
+  E: '43'
+  DP: '26'
+  PCT: '.876'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Ferrando
+  nameClub1: El Paso
+  Pos: SS
+  G: '57'
+  PO: '84'
+  A: '145'
+  E: '33'
+  DP: '20'
+  PCT: '.874'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morey
+  nameClub1: El Paso
+  Pos: SS
+  G: '6'
+  PO: '11'
+  A: '16'
+  E: '4'
+  DP: '2'
+  PCT: '.871'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Burleson
+  nameClub1: Albuquerque
+  nameClub2: Tucson
+  Pos: SS
+  G: '33'
+  PO: '45'
+  A: '107'
+  E: '23'
+  DP: '14'
+  PCT: '.869'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Kiley
+  nameClub1: Tucson
+  Pos: SS
+  G: '93'
+  PO: '158'
+  A: '285'
+  E: '72'
+  DP: '40'
+  PCT: '.860'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Orosco
+  nameClub1: Tucson
+  Pos: SS
+  G: '9'
+  PO: '15'
+  A: '26'
+  E: '10'
+  DP: '1'
+  PCT: '.804'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morris
+  nameClub1: Albuquerque
+  Pos: SS
+  G: '7'
+  PO: '13'
+  A: '23'
+  E: '10'
+  DP: '5'
+  PCT: '.783'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Price
+  nameClub1: Tucson
+  Pos: SS
+  G: '21'
+  PO: '33'
+  A: '59'
+  E: '26'
+  DP: '11'
+  PCT: '.780'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Herman
+  nameClub1: Bisbee
+  Pos: LF
+  G: '15'
+  PO: '25'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Garbe
+  nameClub1: Albuquerque
+  Pos: LF
+  G: '7'
+  PO: '14'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Carrillo
+  nameClub1: Tucson
+  Pos: LF
+  G: '7'
+  PO: '19'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Salas
+  nameClub1: Bisbee
+  Pos: LF
+  G: '5'
+  PO: '6'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Moore
+  nameClub1: Tucson
+  Pos: LF
+  G: '6'
+  PO: '10'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Bradley
+  nameClub1: Bisbee
+  Pos: LF
+  G: '100'
+  PO: '192'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.975'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Goddard
+  nameClub1: El Paso
+  Pos: LF
+  G: '35'
+  PO: '68'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Sancet
+  nameClub1: Tucson
+  Pos: LF
+  G: '12'
+  PO: '21'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Whitlow
+  nameClub1: Albuquerque
+  Pos: LF
+  G: '17'
+  PO: '16'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Simon
+  nameClub1: Tucson
+  Pos: LF
+  G: '55'
+  PO: '106'
+  A: '8'
+  E: '8'
+  DP: '0'
+  PCT: '.934'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Schiffner
+  nameClub1: Bisbee
+  Pos: LF
+  G: '5'
+  PO: '14'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Price
+  nameClub1: Tucson
+  Pos: LF
+  G: '52'
+  PO: '116'
+  A: '7'
+  E: '9'
+  DP: '1'
+  PCT: '.932'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Traxler
+  nameClub1: El Paso
+  Pos: LF
+  G: '97'
+  PO: '185'
+  A: '7'
+  E: '14'
+  DP: '1'
+  PCT: '.932'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Hough
+  nameClub1: Albuquerque
+  Pos: LF
+  G: '71'
+  PO: '140'
+  A: '8'
+  E: '11'
+  DP: '2'
+  PCT: '.931'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Hansen
+  nameClub1: Albuquerque
+  Pos: LF
+  G: '33'
+  PO: '62'
+  A: '4'
+  E: '9'
+  DP: '1'
+  PCT: '.888'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Gerstenberg
+  nameClub1: Tucson
+  Pos: LF
+  G: '10'
+  PO: '13'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.875'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morris
+  nameClub1: Albuquerque
+  Pos: LF
+  G: '10'
+  PO: '12'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Price
+  nameClub1: Tucson
+  Pos: CF
+  G: '12'
+  PO: '36'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.997'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Shewey
+  nameClub1: Albuquerque
+  Pos: CF
+  G: '75'
+  PO: '171'
+  A: '6'
+  E: '7'
+  DP: '1'
+  PCT: '.962'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Simon
+  nameClub1: Tucson
+  Pos: CF
+  G: '57'
+  PO: '133'
+  A: '12'
+  E: '8'
+  DP: '3'
+  PCT: '.948'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Goddard
+  nameClub1: El Paso
+  Pos: CF
+  G: '62'
+  PO: '140'
+  A: '15'
+  E: '9'
+  DP: '2'
+  PCT: '.945'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Burleson
+  nameClub1: Albuquerque
+  nameClub2: Tucson
+  Pos: CF
+  G: '28'
+  PO: '109'
+  A: '0'
+  E: '7'
+  DP: '2'
+  PCT: '.940'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Falconi
+  nameClub1: El Paso
+  Pos: CF
+  G: '8'
+  PO: '13'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Warfield
+  nameClub1: Bisbee
+  Pos: CF
+  G: '130'
+  PO: '310'
+  A: '29'
+  E: '27'
+  DP: '6'
+  PCT: '.926'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Christopher
+  nameClub1: El Paso
+  Pos: CF
+  G: '26'
+  PO: '57'
+  A: '9'
+  E: '6'
+  DP: '2'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Arlett
+  nameClub1: Tucson
+  Pos: CF
+  G: '44'
+  PO: '93'
+  A: '5'
+  E: '9'
+  DP: '2'
+  PCT: '.916'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Hough
+  nameClub1: Albuquerque
+  Pos: CF
+  G: '6'
+  PO: '19'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.902'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Sweet
+  nameClub1: El Paso
+  Pos: CF
+  G: '28'
+  PO: '41'
+  A: '5'
+  E: '5'
+  DP: '1'
+  PCT: '.902'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Hansen
+  nameClub1: Albuquerque
+  Pos: CF
+  G: '24'
+  PO: '50'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.898'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Garbe
+  nameClub1: Albuquerque
+  Pos: CF
+  G: '13'
+  PO: '21'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.875'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Moore
+  nameClub1: Tucson
+  Pos: RF
+  G: '6'
+  PO: '10'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Sancet
+  nameClub1: Tucson
+  Pos: RF
+  G: '9'
+  PO: '21'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Schiffner
+  nameClub1: Bisbee
+  Pos: RF
+  G: '117'
+  PO: '157'
+  A: '10'
+  E: '8'
+  DP: '1'
+  PCT: '.954'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Slette
+  nameClub1: Tucson
+  Pos: RF
+  G: '42'
+  PO: '55'
+  A: '1'
+  E: '3'
+  PCT: '.949'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Simon
+  nameClub1: Tucson
+  Pos: RF
+  G: '19'
+  PO: '31'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.941'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Falconi
+  nameClub1: El Paso
+  Pos: RF
+  G: '105'
+  PO: '125'
+  A: '11'
+  E: '13'
+  DP: '4'
+  PCT: '.913'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Carrillo
+  nameClub1: Tucson
+  Pos: RF
+  G: '11'
+  PO: '14'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Garbe
+  nameClub1: Albuquerque
+  Pos: RF
+  G: '20'
+  PO: '25'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.894'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Bothleo
+  nameClub1: Tucson
+  Pos: RF
+  G: '7'
+  PO: '6'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Zinn
+  nameClub1: El Paso
+  Pos: RF
+  G: '19'
+  PO: '11'
+  A: '2'
+  E: '2'
+  DP: '2'
+  PCT: '.867'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morris
+  nameClub1: Albuquerque
+  Pos: RF
+  G: '99'
+  PO: '126'
+  A: '14'
+  E: '24'
+  DP: '2'
+  PCT: '.854'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Grigg
+  nameClub1: Tucson
+  Pos: RF
+  G: '20'
+  PO: '23'
+  A: '5'
+  E: '5'
+  DP: '1'
+  PCT: '.848'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Flores
+  nameClub1: Bisbee
+  Pos: RF
+  G: '7'
+  PO: '2'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.666'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Hillen
+  nameClub1: El Paso
+  Pos: C
+  G: '18'
+  PO: '115'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PB: '5'
+  PCT: '.985'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: O'Banion
+  nameClub1: El Paso
+  Pos: C
+  G: '97'
+  PO: '690'
+  A: '73'
+  E: '14'
+  DP: '4'
+  PB: '18'
+  PCT: '.982'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Malone
+  nameClub1: Albuquerque
+  Pos: C
+  G: '11'
+  PO: '48'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PB: '11'
+  PCT: '.982'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Kerman
+  nameClub1: Tucson
+  Pos: C
+  G: '38'
+  PO: '210'
+  A: '39'
+  E: '8'
+  DP: '4'
+  PB: '8'
+  PCT: '.969'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Bothleo
+  nameClub1: Tucson
+  Pos: C
+  G: '50'
+  PO: '193'
+  A: '32'
+  E: '9'
+  DP: '6'
+  PB: '14'
+  PCT: '.962'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Gagliardi
+  nameClub1: El Paso
+  Pos: C
+  G: '44'
+  PO: '111'
+  A: '17'
+  E: '5'
+  DP: '1'
+  PB: '12'
+  PCT: '.962'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Salas
+  nameClub1: Bisbee
+  Pos: C
+  G: '9'
+  PO: '44'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PB: '3'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Morris
+  nameClub1: Albuquerque
+  Pos: C
+  G: '8'
+  PO: '46'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Myers
+  nameClub1: Albuquerque
+  Pos: C
+  G: '119'
+  PO: '575'
+  A: '93'
+  E: '31'
+  DP: '5'
+  PB: '29'
+  PCT: '.956'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Partee
+  nameClub1: Bisbee
+  Pos: C
+  G: '125'
+  PO: '678'
+  A: '105'
+  E: '37'
+  DP: '6'
+  PB: '48'
+  PCT: '.955'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Sancet
+  nameClub1: Tucson
+  Pos: C
+  G: '41'
+  PO: '153'
+  A: '36'
+  E: '9'
+  DP: '4'
+  PB: '9'
+  PCT: '.955'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameLast: Grigg
+  nameClub1: Tucson
+  Pos: C
+  G: '9'
+  PO: '49'
+  A: '14'
+  E: '7'
+  DP: '0'
+  PB: '4'
+  PCT: '.900'

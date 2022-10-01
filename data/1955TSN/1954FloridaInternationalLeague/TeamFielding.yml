@@ -1,0 +1,66 @@
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: West Palm Beach
+  G: '99'
+  DP: '88'
+  PB: '12'
+  PO: '2603'
+  A: '1073'
+  E: '138'
+  PCT: '.964'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  G: '103'
+  DP: '102'
+  PB: '18'
+  PO: '2704'
+  A: '1122'
+  E: '185'
+  PCT: '.954'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  G: '28'
+  DP: '21'
+  PB: '2'
+  PO: '738'
+  A: '317'
+  E: '51'
+  PCT: '.954'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Miami Beach/Greater Miami
+  G: '104'
+  DP: '98'
+  PB: '9'
+  PO: '2733'
+  A: '1215'
+  E: '193'
+  PCT: '.953'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Tallahassee
+  G: '99'
+  DP: '104'
+  PB: '28'
+  PO: '2542'
+  A: '1152'
+  E: '210'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Miami
+  G: '25'
+  DP: '16'
+  PB: '5'
+  PO: '641'
+  A: '238'
+  E: '64'
+  PCT: '.932'
+  TP: '0'

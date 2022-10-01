@@ -1,0 +1,2793 @@
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Grigg
+  nameFirst: Erastus
+  nameClub1: Elizabethton
+  G: '83'
+  AB: '322'
+  R: '59'
+  H: '113'
+  H2B: '14'
+  H3B: '3'
+  HR: '6'
+  TB: '151'
+  SH: '5'
+  SB: '7'
+  BB: '13'
+  HP: '2'
+  RBI: '51'
+  SO: '21'
+  AVG: '.351'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Templeton
+  nameFirst: Archie
+  nameClub1: Johnson City
+  G: '37'
+  AB: '83'
+  R: '14'
+  H: '27'
+  H2B: '8'
+  H3B: '3'
+  HR: '0'
+  TB: '41'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '2'
+  RBI: '9'
+  SO: '12'
+  AVG: '.325'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Morley
+  nameFirst: Paul
+  nameClub1: Newport
+  G: '12'
+  AB: '34'
+  R: '7'
+  H: '11'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '15'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '11'
+  SO: '3'
+  AVG: '.324'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Dorney
+  nameFirst: Donald F.
+  nameClub1: Kingsport
+  G: '90'
+  AB: '365'
+  R: '55'
+  H: '118'
+  H2B: '24'
+  H3B: '7'
+  HR: '1'
+  TB: '159'
+  SH: '4'
+  SB: '17'
+  BB: '16'
+  HP: '9'
+  RBI: '64'
+  SO: '16'
+  AVG: '.323'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Levine
+  nameFirst: Sam
+  nameClub1: Newport
+  G: '29'
+  AB: '81'
+  R: '13'
+  H: '26'
+  H2B: '8'
+  H3B: '2'
+  HR: '0'
+  TB: '38'
+  SH: '0'
+  SB: '2'
+  BB: '7'
+  HP: '0'
+  RBI: '10'
+  SO: '1'
+  AVG: '.321'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kluttz
+  nameFirst: Clyde
+  nameClub1: Johnson City
+  G: '79'
+  AB: '280'
+  R: '41'
+  H: '89'
+  H2B: '18'
+  H3B: '6'
+  HR: '2'
+  TB: '125'
+  SH: '5'
+  SB: '1'
+  BB: '11'
+  HP: '2'
+  RBI: '30'
+  SO: '20'
+  AVG: '.318'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Brummitt
+  nameFirst: Hobart
+  nameClub1: Elizabethton
+  G: '45'
+  AB: '114'
+  R: '15'
+  H: '36'
+  H2B: '6'
+  H3B: '1'
+  HR: '1'
+  TB: '47'
+  SH: '3'
+  SB: '2'
+  BB: '11'
+  HP: '4'
+  RBI: '24'
+  SO: '8'
+  AVG: '.316'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cantrell
+  nameFirst: Howard
+  nameClub1: Elizabethton
+  nameClub2: Greeneville
+  G: '85'
+  AB: '326'
+  R: '66'
+  H: '102'
+  H2B: '19'
+  H3B: '10'
+  HR: '5'
+  TB: '156'
+  SH: '1'
+  SB: '14'
+  BB: '18'
+  HP: '2'
+  RBI: '55'
+  SO: '23'
+  AVG: '.313'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Flick
+  nameFirst: Louis
+  nameClub1: Elizabethton
+  G: '101'
+  AB: '412'
+  R: '66'
+  H: '128'
+  H2B: '17'
+  H3B: '9'
+  HR: '4'
+  TB: '175'
+  SH: '9'
+  SB: '16'
+  BB: '10'
+  HP: '3'
+  RBI: '64'
+  SO: '16'
+  AVG: '.311'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Davis
+  nameFirst: Greyson A.
+  nameClub1: Greeneville
+  G: '84'
+  AB: '346'
+  R: '49'
+  H: '107'
+  H2B: '14'
+  H3B: '2'
+  HR: '3'
+  TB: '134'
+  SH: '3'
+  SB: '5'
+  BB: '13'
+  HP: '1'
+  RBI: '48'
+  SO: '13'
+  AVG: '.309'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Sager
+  nameFirst: Harold
+  nameClub1: Pennington Gap
+  G: '48'
+  AB: '181'
+  R: '24'
+  H: '56'
+  H2B: '10'
+  H3B: '2'
+  HR: '2'
+  TB: '76'
+  SH: '5'
+  SB: '1'
+  BB: '5'
+  HP: '3'
+  RBI: '21'
+  SO: '8'
+  AVG: '.309'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Payne
+  nameFirst: John
+  nameClub1: Elizabethton
+  nameClub2: Newport
+  G: '6'
+  AB: '238'
+  R: '23'
+  H: '73'
+  H2B: '11'
+  H3B: '2'
+  HR: '0'
+  TB: '88'
+  SH: '6'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  RBI: '27'
+  SO: '16'
+  AVG: '.307'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bailey
+  nameFirst: Clell
+  nameClub1: Pennington Gap
+  G: '27'
+  AB: '66'
+  R: '5'
+  H: '20'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '26'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '7'
+  SO: '5'
+  AVG: '.303'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Benton
+  nameFirst: Newell H.
+  nameClub1: Elizabethton
+  G: '92'
+  AB: '313'
+  R: '59'
+  H: '94'
+  H2B: '16'
+  H3B: '3'
+  HR: '4'
+  TB: '128'
+  SH: '7'
+  SB: '17'
+  BB: '34'
+  HP: '3'
+  RBI: '43'
+  SO: '42'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Walker
+  nameFirst: Earl
+  nameClub1: Greeneville
+  G: '25'
+  AB: '60'
+  R: '5'
+  H: '18'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  TB: '26'
+  SH: '2'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '5'
+  SO: '8'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Witner
+  nameFirst: Jerry
+  nameClub1: Kingsport
+  G: '93'
+  AB: '346'
+  R: '46'
+  H: '103'
+  H2B: '21'
+  H3B: '3'
+  HR: '4'
+  TB: '142'
+  SH: '4'
+  SB: '12'
+  BB: '34'
+  HP: '1'
+  RBI: '63'
+  SO: '21'
+  AVG: '.298'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Mackes
+  nameFirst: Kenneth
+  nameClub1: Kingsport
+  G: '67'
+  AB: '158'
+  R: '19'
+  H: '47'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  TB: '60'
+  SH: '5'
+  SB: '0'
+  BB: '10'
+  HP: '1'
+  RBI: '26'
+  SO: '20'
+  AVG: '.297'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hodges
+  nameFirst: Burton
+  nameClub1: Elizabethton
+  G: '84'
+  AB: '302'
+  R: '51'
+  H: '89'
+  H2B: '7'
+  H3B: '7'
+  HR: '2'
+  TB: '116'
+  SH: '24'
+  SB: '9'
+  BB: '22'
+  HP: '11'
+  RBI: '31'
+  SO: '9'
+  AVG: '.295'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Harris
+  nameFirst: Reese
+  nameClub1: Newport
+  G: '41'
+  AB: '158'
+  R: '25'
+  H: '46'
+  H2B: '7'
+  H3B: '1'
+  HR: '0'
+  TB: '55'
+  SH: '6'
+  SB: '8'
+  BB: '7'
+  HP: '2'
+  RBI: '19'
+  SO: '9'
+  AVG: '.291'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Pearman
+  nameFirst: Tom
+  nameClub1: Newport
+  G: '75'
+  AB: '279'
+  R: '39'
+  H: '81'
+  H2B: '3'
+  H3B: '8'
+  HR: '0'
+  TB: '100'
+  SH: '2'
+  SB: '5'
+  BB: '24'
+  HP: '3'
+  RBI: '37'
+  SO: '13'
+  AVG: '.290'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Boyer
+  nameFirst: Al, Jr.
+  nameClub1: Greeneville
+  G: '52'
+  AB: '210'
+  R: '35'
+  H: '61'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  TB: '74'
+  SH: '4'
+  SB: '4'
+  BB: '24'
+  HP: '3'
+  RBI: '24'
+  SO: '19'
+  AVG: '.290'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Barker
+  nameFirst: Clay
+  nameClub1: Pennington Gap
+  G: '91'
+  AB: '363'
+  R: '50'
+  H: '104'
+  H2B: '17'
+  H3B: '16'
+  HR: '2'
+  TB: '159'
+  SH: '2'
+  SB: '8'
+  BB: '20'
+  HP: '1'
+  RBI: '53'
+  SO: '17'
+  AVG: '.287'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: White
+  nameFirst: Clovis
+  nameClub1: Elizabethton
+  G: '103'
+  AB: '383'
+  R: '67'
+  H: '109'
+  H2B: '24'
+  H3B: '6'
+  HR: '6'
+  TB: '163'
+  SH: '15'
+  SB: '13'
+  BB: '44'
+  HP: '0'
+  RBI: '68'
+  SO: '24'
+  AVG: '.285'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Lujack
+  nameFirst: Stanley
+  nameClub1: Kingsport
+  G: '95'
+  AB: '349'
+  R: '61'
+  H: '99'
+  H2B: '13'
+  H3B: '2'
+  HR: '5'
+  TB: '131'
+  SH: '7'
+  SB: '6'
+  BB: '51'
+  HP: '2'
+  RBI: '40'
+  SO: '44'
+  AVG: '.284'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hobson
+  nameFirst: John L.
+  nameClub1: Johnson City
+  G: '46'
+  AB: '173'
+  R: '26'
+  H: '49'
+  H2B: '8'
+  H3B: '7'
+  HR: '6'
+  TB: '89'
+  SH: '5'
+  SB: '2'
+  BB: '8'
+  HP: '2'
+  RBI: '28'
+  SO: '24'
+  AVG: '.283'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Miller
+  nameFirst: Claude H.
+  nameClub1: Johnson City
+  nameClub2: Elizabethton
+  G: '66'
+  AB: '255'
+  R: '26'
+  H: '72'
+  H2B: '7'
+  H3B: '6'
+  HR: '0'
+  TB: '92'
+  SH: '4'
+  SB: '6'
+  BB: '11'
+  HP: '1'
+  RBI: '31'
+  SO: '18'
+  AVG: '.282'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Koren
+  nameFirst: Tony
+  nameClub1: Pennington Gap
+  G: '28'
+  AB: '103'
+  R: '18'
+  H: '29'
+  H2B: '2'
+  H3B: '4'
+  HR: '1'
+  TB: '42'
+  SH: '3'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '12'
+  SO: '7'
+  AVG: '.282'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Henning
+  nameFirst: Emory G.
+  nameClub1: Johnson City
+  G: '61'
+  AB: '250'
+  R: '39'
+  H: '70'
+  H2B: '6'
+  H3B: '6'
+  HR: '2'
+  TB: '94'
+  SH: '5'
+  SB: '7'
+  BB: '10'
+  HP: '2'
+  RBI: '34'
+  SO: '22'
+  AVG: '.280'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: King
+  nameFirst: Marshall A.
+  nameClub1: Newport
+  G: '37'
+  AB: '129'
+  R: '16'
+  H: '36'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '38'
+  SH: '5'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '7'
+  SO: '3'
+  AVG: '.279'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Eck
+  nameFirst: Kenneth
+  nameClub1: Kingsport
+  G: '95'
+  AB: '393'
+  R: '60'
+  H: '109'
+  H2B: '20'
+  H3B: '9'
+  HR: '4'
+  TB: '159'
+  SH: '5'
+  SB: '16'
+  BB: '28'
+  HP: '6'
+  RBI: '59'
+  SO: '30'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hardin
+  nameFirst: Doyle
+  nameClub1: Johnson City
+  G: '100'
+  AB: '383'
+  R: '48'
+  H: '106'
+  H2B: '16'
+  H3B: '12'
+  HR: '5'
+  TB: '161'
+  SH: '3'
+  SB: '0'
+  BB: '34'
+  HP: '1'
+  RBI: '48'
+  SO: '43'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Metro (Moreskonich)
+  nameFirst: Charles
+  nameClub1: Pennington Gap
+  G: '95'
+  AB: '361'
+  R: '42'
+  H: '100'
+  H2B: '17'
+  H3B: '7'
+  HR: '1'
+  TB: '134'
+  SH: '9'
+  SB: '8'
+  BB: '17'
+  HP: '2'
+  RBI: '37'
+  SO: '33'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kirk
+  nameFirst: Phillip
+  nameClub1: Johnson City
+  G: '94'
+  AB: '364'
+  R: '49'
+  H: '100'
+  H2B: '19'
+  H3B: '14'
+  HR: '1'
+  TB: '150'
+  SH: '3'
+  SB: '13'
+  BB: '25'
+  HP: '0'
+  RBI: '45'
+  SO: '23'
+  AVG: '.275'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Clark
+  nameFirst: Phillip G.
+  nameClub1: Johnson City
+  G: '57'
+  AB: '214'
+  R: '42'
+  H: '58'
+  H2B: '10'
+  H3B: '3'
+  HR: '0'
+  TB: '74'
+  SH: '3'
+  SB: '13'
+  BB: '22'
+  HP: '1'
+  RBI: '18'
+  SO: '11'
+  AVG: '.271'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kohlmeyer
+  nameFirst: Cornel
+  nameClub1: Pennington Gap
+  G: '98'
+  AB: '379'
+  R: '45'
+  H: '102'
+  H2B: '18'
+  H3B: '7'
+  HR: '1'
+  TB: '137'
+  SH: '10'
+  SB: '0'
+  BB: '16'
+  HP: '0'
+  RBI: '56'
+  SO: '30'
+  AVG: '.269'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Esterbrook
+  nameFirst: Tom
+  nameClub1: Elizabethton
+  G: '95'
+  AB: '321'
+  R: '39'
+  H: '86'
+  H2B: '10'
+  H3B: '3'
+  HR: '2'
+  TB: '108'
+  SH: '10'
+  SB: '6'
+  BB: '30'
+  HP: '3'
+  RBI: '39'
+  SO: '14'
+  AVG: '.268'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bearden
+  nameFirst: Clay
+  nameClub1: Pennington Gap
+  nameClub2: Kingsport
+  G: '14'
+  AB: '41'
+  R: '9'
+  H: '11'
+  H2B: '0'
+  H3B: '3'
+  HR: '0'
+  TB: '17'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '2'
+  RBI: '4'
+  SO: '5'
+  AVG: '.268'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Webb
+  nameFirst: Burton
+  nameClub1: Kingsport
+  nameClub2: Elizabethton
+  G: '74'
+  AB: '283'
+  R: '58'
+  H: '75'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  TB: '83'
+  SH: '9'
+  SB: '33'
+  BB: '35'
+  HP: '5'
+  RBI: '8'
+  SO: '28'
+  AVG: '.265'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cobble
+  nameFirst: Lewis
+  nameClub1: Greeneville
+  G: '56'
+  AB: '181'
+  R: '12'
+  H: '48'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  TB: '55'
+  SH: '2'
+  SB: '1'
+  BB: '20'
+  HP: '1'
+  RBI: '25'
+  SO: '12'
+  AVG: '.265'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Ryback
+  nameFirst: John
+  nameClub1: Kingsport
+  G: '30'
+  AB: '98'
+  R: '16'
+  H: '26'
+  H2B: '3'
+  H3B: '0'
+  HR: '2'
+  TB: '35'
+  SH: '6'
+  SB: '1'
+  BB: '13'
+  HP: '1'
+  RBI: '14'
+  SO: '19'
+  AVG: '.265'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Sproull
+  nameFirst: Frank
+  nameClub1: Pennington Gap
+  G: '32'
+  AB: '110'
+  R: '25'
+  H: '29'
+  H2B: '4'
+  H3B: '5'
+  HR: '2'
+  TB: '49'
+  SH: '1'
+  SB: '2'
+  BB: '8'
+  HP: '7'
+  RBI: '10'
+  SO: '16'
+  AVG: '.264'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hale
+  nameFirst: Lawrence
+  nameClub1: Johnson City
+  nameClub2: Elizabethton
+  G: '81'
+  AB: '291'
+  R: '35'
+  H: '76'
+  H2B: '11'
+  H3B: '4'
+  HR: '4'
+  TB: '107'
+  SH: '4'
+  SB: '2'
+  BB: '18'
+  HP: '9'
+  RBI: '43'
+  SO: '28'
+  AVG: '.261'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Williams
+  nameFirst: J. C.
+  nameClub1: Elizabethton
+  G: '47'
+  AB: '169'
+  R: '27'
+  H: '44'
+  H2B: '9'
+  H3B: '4'
+  HR: '2'
+  TB: '67'
+  SH: '5'
+  SB: '6'
+  BB: '13'
+  HP: '0'
+  RBI: '27'
+  SO: '17'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Rezotko
+  nameFirst: Eddie
+  nameClub1: Greeneville
+  G: '25'
+  AB: '96'
+  R: '12'
+  H: '25'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '31'
+  SH: '8'
+  SB: '1'
+  BB: '5'
+  HP: '3'
+  RBI: '6'
+  SO: '20'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Diehl
+  nameFirst: George
+  nameClub1: Kingsport
+  G: '25'
+  AB: '58'
+  R: '8'
+  H: '15'
+  H2B: '3'
+  H3B: '1'
+  HR: '2'
+  TB: '26'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '7'
+  SO: '19'
+  AVG: '.259'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Stone
+  nameFirst: Cecil
+  nameClub1: Newport
+  G: '30'
+  AB: '97'
+  R: '10'
+  H: '25'
+  H2B: '3'
+  H3B: '2'
+  HR: '1'
+  TB: '35'
+  SH: '2'
+  SB: '3'
+  BB: '6'
+  HP: '2'
+  RBI: '18'
+  SO: '5'
+  AVG: '.258'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Jaynes
+  nameFirst: Marvin
+  nameClub1: Greeneville
+  G: '65'
+  AB: '235'
+  R: '27'
+  H: '60'
+  H2B: '11'
+  H3B: '6'
+  HR: '0'
+  TB: '83'
+  SH: '5'
+  SB: '4'
+  BB: '15'
+  HP: '0'
+  RBI: '15'
+  SO: '33'
+  AVG: '.255'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Goldsmith
+  nameFirst: Ralph
+  nameClub1: Pennington Gap
+  G: '88'
+  AB: '319'
+  R: '40'
+  H: '81'
+  H2B: '6'
+  H3B: '8'
+  HR: '1'
+  TB: '106'
+  SH: '9'
+  SB: '2'
+  BB: '23'
+  HP: '2'
+  RBI: '33'
+  SO: '9'
+  AVG: '.254'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Killian
+  nameFirst: C.L.
+  nameClub1: Newport
+  G: '45'
+  AB: '169'
+  R: '20'
+  H: '43'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '49'
+  SH: '3'
+  SB: '5'
+  BB: '12'
+  HP: '2'
+  RBI: '18'
+  SO: '10'
+  AVG: '.254'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: King
+  nameFirst: Carl W.
+  nameClub1: Elizabethton
+  G: '25'
+  AB: '63'
+  R: '11'
+  H: '16'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '7'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '10'
+  AVG: '.254'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Justice
+  nameFirst: William Monroe
+  nameClub1: Newport
+  nameClub2: Greeneville
+  G: '61'
+  AB: '223'
+  R: '35'
+  H: '56'
+  H2B: '7'
+  H3B: '4'
+  HR: '0'
+  TB: '71'
+  SH: '7'
+  SB: '12'
+  BB: '11'
+  HP: '3'
+  RBI: '25'
+  SO: '12'
+  AVG: '.251'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Weik
+  nameFirst: Norbert J.
+  nameClub1: Greeneville
+  G: '71'
+  AB: '244'
+  R: '24'
+  H: '61'
+  H2B: '10'
+  H3B: '1'
+  HR: '1'
+  TB: '76'
+  SH: '5'
+  SB: '6'
+  BB: '19'
+  HP: '2'
+  RBI: '24'
+  SO: '18'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Latham
+  nameFirst: Tom
+  nameClub1: Newport
+  G: '24'
+  AB: '56'
+  R: '11'
+  H: '14'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  TB: '21'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '10'
+  SO: '5'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Sims
+  nameFirst: Joe
+  nameClub1: Johnson City
+  G: '12'
+  AB: '28'
+  R: '3'
+  H: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '11'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '6'
+  SO: '5'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Smith
+  nameFirst: Ralph C.
+  nameClub1: Pennington Gap
+  G: '95'
+  AB: '329'
+  R: '43'
+  H: '82'
+  H2B: '8'
+  H3B: '5'
+  HR: '1'
+  TB: '103'
+  SH: '6'
+  SB: '1'
+  BB: '16'
+  HP: '2'
+  RBI: '37'
+  SO: '21'
+  AVG: '.249'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Miller
+  nameFirst: Guy S.
+  nameClub1: Johnson City
+  G: '32'
+  AB: '109'
+  R: '12'
+  H: '27'
+  H2B: '2'
+  H3B: '4'
+  HR: '0'
+  TB: '37'
+  SH: '0'
+  SB: '6'
+  BB: '8'
+  HP: '2'
+  RBI: '16'
+  SO: '16'
+  AVG: '.248'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Herndon
+  nameFirst: Charles H.
+  nameClub1: Pennington Gap
+  nameClub2: Newport
+  nameClub3: Elizabethton
+  G: '73'
+  AB: '287'
+  R: '38'
+  H: '71'
+  H2B: '5'
+  H3B: '5'
+  HR: '1'
+  TB: '89'
+  SH: '6'
+  SB: '3'
+  BB: '21'
+  HP: '1'
+  RBI: '27'
+  SO: '14'
+  AVG: '.247'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Zimmerman
+  nameFirst: Edward
+  nameClub1: Kingsport
+  G: '91'
+  AB: '334'
+  R: '44'
+  H: '82'
+  H2B: '7'
+  H3B: '5'
+  HR: '0'
+  TB: '99'
+  SH: '9'
+  SB: '10'
+  BB: '48'
+  HP: '3'
+  RBI: '21'
+  SO: '50'
+  AVG: '.246'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Atchley
+  nameFirst: Loy
+  nameClub1: Newport
+  G: '54'
+  AB: '187'
+  R: '16'
+  H: '46'
+  H2B: '6'
+  H3B: '2'
+  HR: '1'
+  TB: '59'
+  SH: '0'
+  SB: '2'
+  BB: '11'
+  HP: '1'
+  RBI: '20'
+  SO: '28'
+  AVG: '.246'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Broome
+  nameFirst: Robert, Jr.
+  nameClub1: Johnson City
+  G: '45'
+  AB: '126'
+  R: '11'
+  H: '31'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '33'
+  SH: '1'
+  SB: '1'
+  BB: '11'
+  HP: '3'
+  RBI: '22'
+  SO: '5'
+  AVG: '.246'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Carlock
+  nameFirst: Tommy
+  nameClub1: Newport
+  G: '16'
+  AB: '61'
+  R: '8'
+  H: '15'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '18'
+  SH: '3'
+  SB: '1'
+  BB: '2'
+  HP: '1'
+  RBI: '1'
+  SO: '1'
+  AVG: '.246'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Souter
+  nameFirst: George P.
+  nameClub1: Johnson City
+  G: '50'
+  AB: '200'
+  R: '29'
+  H: '49'
+  H2B: '13'
+  H3B: '7'
+  HR: '0'
+  TB: '76'
+  SH: '4'
+  SB: '1'
+  BB: '27'
+  HP: '0'
+  RBI: '18'
+  SO: '24'
+  AVG: '.245'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hart
+  nameFirst: Ralph
+  nameClub1: Elizabethton
+  G: '22'
+  AB: '53'
+  R: '6'
+  H: '13'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '17'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '2'
+  SO: '10'
+  AVG: '.245'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Robinson
+  nameFirst: Osborne W.
+  nameClub1: Kingsport
+  G: '30'
+  AB: '107'
+  R: '8'
+  H: '26'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '30'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '3'
+  RBI: '17'
+  SO: '13'
+  AVG: '.243'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Pinion
+  nameFirst: Jack E.
+  nameClub1: Greeneville
+  G: '59'
+  AB: '215'
+  R: '21'
+  H: '52'
+  H2B: '12'
+  H3B: '2'
+  HR: '4'
+  TB: '80'
+  SH: '2'
+  SB: '2'
+  BB: '7'
+  HP: '1'
+  RBI: '34'
+  SO: '28'
+  AVG: '.242'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bullock
+  nameFirst: Harold
+  nameClub1: Johnson City
+  G: '15'
+  AB: '25'
+  R: '4'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '1'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '5'
+  AVG: '.240'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Webb
+  nameFirst: John D.
+  nameClub1: Johnson City
+  G: '53'
+  AB: '184'
+  R: '16'
+  H: '44'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  TB: '54'
+  SH: '2'
+  SB: '1'
+  BB: '8'
+  HP: '3'
+  RBI: '14'
+  SO: '16'
+  AVG: '.239'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Haynes
+  nameFirst: Garland
+  nameClub1: Pennington Gap
+  G: '18'
+  AB: '63'
+  R: '8'
+  H: '15'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  TB: '21'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '6'
+  SO: '3'
+  AVG: '.238'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Lee
+  nameFirst: Francis E.
+  nameClub1: Kingsport
+  G: '25'
+  AB: '63'
+  R: '6'
+  H: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '2'
+  RBI: '3'
+  SO: '11'
+  AVG: '.238'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Zimmer
+  nameFirst: Arnold
+  nameClub1: Greeneville
+  G: '45'
+  AB: '173'
+  R: '20'
+  H: '41'
+  H2B: '14'
+  H3B: '1'
+  HR: '0'
+  TB: '57'
+  SH: '6'
+  SB: '7'
+  BB: '13'
+  HP: '3'
+  RBI: '27'
+  SO: '12'
+  AVG: '.237'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Carr
+  nameFirst: Anthony
+  nameClub1: Pennington Gap
+  G: '37'
+  AB: '85'
+  R: '14'
+  H: '20'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '24'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  HP: '1'
+  RBI: '6'
+  SO: '6'
+  AVG: '.235'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Luntsford
+  nameFirst: Lynn
+  nameClub1: Pennington Gap
+  G: '18'
+  AB: '43'
+  R: '7'
+  H: '10'
+  H2B: '0'
+  H3B: '2'
+  HR: '0'
+  TB: '14'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '18'
+  AVG: '.233'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Parker
+  nameFirst: Donald
+  nameClub1: Newport
+  G: '38'
+  AB: '95'
+  R: '14'
+  H: '22'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '26'
+  SH: '1'
+  SB: '5'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  AVG: '.232'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Zarinsky
+  nameFirst: John S.
+  nameClub1: Kingsport
+  G: '34'
+  AB: '121'
+  R: '14'
+  H: '28'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  TB: '36'
+  SH: '4'
+  SB: '5'
+  BB: '9'
+  HP: '0'
+  RBI: '9'
+  SO: '16'
+  AVG: '.231'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Morrison
+  nameFirst: Alen
+  nameClub1: Greeneville
+  G: '22'
+  AB: '52'
+  R: '3'
+  H: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '13'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '6'
+  SO: '2'
+  AVG: '.231'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Moran
+  nameFirst: Richard
+  nameClub1: Johnson City
+  G: '17'
+  AB: '53'
+  R: '7'
+  H: '12'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '2'
+  SB: '1'
+  BB: '9'
+  HP: '1'
+  RBI: '10'
+  SO: '10'
+  AVG: '.226'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Shellard
+  nameFirst: Kenneth
+  nameClub1: Kingsport
+  G: '14'
+  AB: '31'
+  R: '2'
+  H: '7'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '5'
+  AVG: '.226'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: White
+  nameFirst: William C.
+  nameClub1: Johnson City
+  nameClub2: Greeneville
+  G: '29'
+  AB: '112'
+  R: '11'
+  H: '25'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  TB: '30'
+  SH: '3'
+  SB: '9'
+  BB: '14'
+  HP: '1'
+  RBI: '4'
+  SO: '24'
+  AVG: '.223'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Playfair
+  nameFirst: Robert
+  nameClub1: Pennington Gap
+  G: '21'
+  AB: '45'
+  R: '5'
+  H: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '1'
+  SO: '6'
+  AVG: '.222'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Caton
+  nameFirst: Virgil
+  nameClub1: Newport
+  nameClub2: Elizabethton
+  nameClub3: Greeneville
+  G: '62'
+  AB: '200'
+  R: '29'
+  H: '43'
+  H2B: '5'
+  H3B: '1'
+  HR: '2'
+  TB: '56'
+  SH: '4'
+  SB: '7'
+  BB: '27'
+  HP: '2'
+  RBI: '13'
+  SO: '19'
+  AVG: '.215'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Benish
+  nameFirst: Robert E.
+  nameClub1: Pennington Gap
+  G: '52'
+  AB: '210'
+  R: '23'
+  H: '45'
+  H2B: '11'
+  H3B: '0'
+  HR: '0'
+  TB: '56'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '4'
+  RBI: '15'
+  SO: '10'
+  AVG: '.214'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Akard
+  nameFirst: James Craft
+  nameClub1: Johnson City
+  nameClub2: Newport
+  G: '15'
+  AB: '33'
+  R: '6'
+  H: '7'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '11'
+  SH: '0'
+  SB: '1'
+  BB: '0'
+  HP: '1'
+  RBI: '4'
+  SO: '5'
+  AVG: '.212'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Gentry
+  nameFirst: William E.
+  nameClub1: Newport
+  G: '15'
+  AB: '57'
+  R: '5'
+  H: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '14'
+  SH: '0'
+  SB: '3'
+  BB: '0'
+  HP: '0'
+  RBI: '11'
+  SO: '1'
+  AVG: '.211'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Wingfield
+  nameFirst: Paul
+  nameClub1: Kingsport
+  G: '17'
+  AB: '57'
+  R: '6'
+  H: '12'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  TB: '18'
+  SH: '1'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '2'
+  AVG: '.211'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Weimer
+  nameFirst: Louis Austin (Pete)
+  nameClub1: Kingsport
+  G: '58'
+  AB: '176'
+  R: '18'
+  H: '37'
+  H2B: '3'
+  H3B: '3'
+  HR: '1'
+  TB: '49'
+  SH: '4'
+  SB: '3'
+  BB: '23'
+  HP: '3'
+  RBI: '25'
+  SO: '22'
+  AVG: '.210'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Gagain
+  nameFirst: Henry
+  nameClub1: Johnson City
+  G: '16'
+  AB: '53'
+  R: '6'
+  H: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '13'
+  SH: '0'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '4'
+  SO: '12'
+  AVG: '.208'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Mihorn
+  nameFirst: Charles W., Jr.
+  nameClub1: Johnson City
+  nameClub2: Greeneville
+  G: '86'
+  AB: '291'
+  R: '58'
+  H: '60'
+  H2B: '6'
+  H3B: '2'
+  HR: '2'
+  TB: '76'
+  SH: '6'
+  SB: '13'
+  BB: '31'
+  HP: '2'
+  RBI: '27'
+  SO: '18'
+  AVG: '.206'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McKeithan
+  nameFirst: Glenn
+  nameClub1: Greeneville
+  nameClub2: Elizabethton
+  G: '11'
+  AB: '44'
+  R: '7'
+  H: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '3'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.205'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Jordan
+  nameFirst: Russell F.
+  nameClub1: Johnson City
+  G: '35'
+  AB: '80'
+  R: '6'
+  H: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '18'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '6'
+  SO: '12'
+  AVG: '.200'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Weaver
+  nameFirst: Robert F.
+  nameClub1: Newport
+  G: '38'
+  AB: '132'
+  R: '11'
+  H: '26'
+  H2B: '9'
+  H3B: '2'
+  HR: '0'
+  TB: '39'
+  SH: '2'
+  SB: '5'
+  BB: '2'
+  HP: '0'
+  RBI: '11'
+  SO: '8'
+  AVG: '.197'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Collins
+  nameFirst: Clarence C.
+  nameClub1: Pennington Gap
+  G: '35'
+  AB: '127'
+  R: '8'
+  H: '25'
+  H2B: '4'
+  H3B: '3'
+  HR: '0'
+  TB: '35'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '9'
+  SO: '14'
+  AVG: '.197'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Payne
+  nameFirst: Virgil
+  nameClub1: Pennington Gap
+  nameClub2: Elizabethton
+  G: '29'
+  AB: '109'
+  R: '23'
+  H: '21'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  TB: '28'
+  SH: '5'
+  SB: '0'
+  BB: '18'
+  HP: '2'
+  RBI: '15'
+  SO: '20'
+  AVG: '.193'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kennedy
+  nameFirst: Earl
+  nameClub1: Newport
+  G: '72'
+  AB: '307'
+  R: '41'
+  H: '59'
+  H2B: '5'
+  H3B: '4'
+  HR: '0'
+  TB: '72'
+  SH: '7'
+  SB: '7'
+  BB: '11'
+  HP: '0'
+  RBI: '15'
+  SO: '9'
+  AVG: '.192'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Wacks
+  nameFirst: Kermit
+  nameClub1: Pennington Gap
+  G: '18'
+  AB: '58'
+  R: '7'
+  H: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '14'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '5'
+  SO: '0'
+  AVG: '.190'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Layman
+  nameFirst: Paul T.
+  nameClub1: Newport
+  G: '31'
+  AB: '87'
+  R: '3'
+  H: '16'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '19'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '5'
+  SO: '8'
+  AVG: '.184'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Poydock
+  nameFirst: Richard
+  nameClub1: Pennington Gap
+  G: '14'
+  AB: '55'
+  R: '6'
+  H: '10'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '14'
+  SH: '2'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '10'
+  SO: '10'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Shope
+  nameFirst: Norman R.
+  nameClub1: Elizabethton
+  G: '24'
+  AB: '55'
+  R: '8'
+  H: '10'
+  H2B: '0'
+  H3B: '1'
+  HR: '1'
+  TB: '15'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '9'
+  SO: '11'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Pultz
+  nameFirst: Bert H.
+  nameClub1: Kingsport
+  G: '11'
+  AB: '44'
+  R: '7'
+  H: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '3'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Wilken
+  nameFirst: Karl E.
+  nameClub1: Johnson City
+  G: '12'
+  AB: '11'
+  R: '0'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Horvath
+  nameFirst: Julius
+  nameClub1: Kingsport
+  G: '29'
+  AB: '95'
+  R: '6'
+  H: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '19'
+  SH: '3'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '9'
+  SO: '15'
+  AVG: '.179'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Rosenbaum
+  nameFirst: H. Ed
+  nameClub1: Elizabethton
+  G: '33'
+  AB: '45'
+  R: '2'
+  H: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '1'
+  SO: '13'
+  AVG: '.178'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Taylor
+  nameFirst: Harvey C.
+  nameClub1: Greeneville
+  G: '22'
+  AB: '46'
+  R: '4'
+  H: '8'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '10'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '8'
+  AVG: '.174'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kisley
+  nameFirst: Chester
+  nameClub1: Greeneville
+  G: '11'
+  AB: '29'
+  R: '2'
+  H: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '6'
+  AVG: '.172'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Antolick
+  nameFirst: Joseph
+  nameClub1: Kingsport
+  G: '23'
+  AB: '83'
+  R: '7'
+  H: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '1'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '5'
+  SO: '10'
+  AVG: '.169'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Parsons
+  nameFirst: Rudolph
+  nameClub1: Elizabethton
+  G: '28'
+  AB: '72'
+  R: '6'
+  H: '12'
+  H2B: '1'
+  H3B: '2'
+  HR: '1'
+  TB: '20'
+  SH: '5'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '10'
+  SO: '13'
+  AVG: '.167'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Coman
+  nameFirst: William Reuben
+  nameClub1: Johnson City
+  G: '13'
+  AB: '36'
+  R: '1'
+  H: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  AVG: '.167'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Dowling
+  nameFirst: John E.
+  nameClub1: Newport
+  G: '10'
+  AB: '25'
+  R: '3'
+  H: '4'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '7'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '4'
+  AVG: '.160'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Beilan
+  nameFirst: Alphonse
+  nameClub1: Johnson City
+  G: '33'
+  AB: '57'
+  R: '2'
+  H: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '3'
+  SO: '16'
+  AVG: '.158'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Heffelfinger
+  nameFirst: Clarence, Jr.
+  nameClub1: Kingsport
+  G: '29'
+  AB: '64'
+  R: '7'
+  H: '10'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '14'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '27'
+  AVG: '.156'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Shrieves
+  nameFirst: Sidney
+  nameClub1: Greeneville
+  G: '12'
+  AB: '45'
+  R: '8'
+  H: '7'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '10'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '7'
+  AVG: '.156'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Douthat
+  nameFirst: Dick
+  nameClub1: Greeneville
+  G: '22'
+  AB: '47'
+  R: '6'
+  H: '7'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '10'
+  SH: '2'
+  SB: '3'
+  BB: '2'
+  HP: '0'
+  RBI: '5'
+  SO: '10'
+  AVG: '.149'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McGaha
+  nameFirst: Walter L.
+  nameClub1: Newport
+  G: '25'
+  AB: '61'
+  R: '6'
+  H: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '4'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '6'
+  AVG: '.148'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hennessey
+  nameFirst: Charles
+  nameClub1: Pennington Gap
+  G: '14'
+  AB: '21'
+  R: '2'
+  H: '3'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '6'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  AVG: '.143'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hughes
+  nameFirst: Dale
+  nameClub1: Kingsport
+  G: '33'
+  AB: '64'
+  R: '8'
+  H: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '4'
+  SO: '6'
+  AVG: '.141'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Krist
+  nameFirst: Allen
+  nameClub1: Johnson City
+  G: '27'
+  AB: '45'
+  R: '3'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '14'
+  AVG: '.133'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Nash
+  nameFirst: Thomas
+  nameClub1: Pennington Gap
+  G: '30'
+  AB: '107'
+  R: '18'
+  H: '14'
+  H2B: '3'
+  H3B: '1'
+  HR: '2'
+  TB: '25'
+  SH: '0'
+  SB: '2'
+  BB: '11'
+  HP: '2'
+  RBI: '11'
+  SO: '23'
+  AVG: '.131'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hope
+  nameFirst: Bob
+  nameClub1: Greeneville
+  G: '13'
+  AB: '27'
+  R: '0'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.111'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Marable
+  nameFirst: Oscar Otis
+  nameClub1: Johnson City
+  G: '10'
+  AB: '32'
+  R: '3'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '8'
+  AVG: '.094'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Fisher
+  nameFirst: Charles
+  nameClub1: Newport
+  G: '10'
+  AB: '16'
+  R: '1'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  AVG: '.063'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hollifield
+  nameFirst: Eugene
+  nameClub1: Johnson City
+  nameClub2: Greeneville
+  G: '17'
+  AB: '33'
+  R: '7'
+  H: '2'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '4'
+  SH: '1'
+  SB: '0'
+  BB: '17'
+  HP: '0'
+  RBI: '1'
+  SO: '8'
+  AVG: '.061'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Nesseth
+  nameFirst: Frank
+  nameClub1: Pennington Gap
+  G: '14'
+  AB: '30'
+  R: '2'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '12'
+  AVG: '.033'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Albritton
+  nameFirst: Everett
+  nameClub1: Newport
+  nameClub2: Greeneville
+  G: '18'
+  AB: '44'
+  R: '1'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '8'
+  AVG: '.023'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Boise
+  nameFirst: John
+  nameClub1: Elizabethton
+  nameClub2: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bortz
+  nameFirst: George W.
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Brecetti
+  nameFirst: Victor J.
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameFirst: Russell
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Chester
+  nameFirst: Stewart
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Coker
+  nameFirst: Buddy
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Gentry
+  nameFirst: David E.
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Ogle
+  nameFirst: Fred
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Patton
+  nameFirst: Woodrow
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Pearson
+  nameFirst: Jesse W.
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Severa
+  nameFirst: Frank
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Stanton
+  nameFirst: Robert
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bradley
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Broback
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cass
+  nameFirst: Morton
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Conduff
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cotner
+  nameFirst: Ted
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Haston
+  nameFirst: Hugh
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hensley
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Lane
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: LoVecchio
+  nameFirst: Sam
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McCloskey
+  nameFirst: Adam
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Mercer
+  nameFirst: J. D.
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Parson
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Ruckart
+  nameFirst: Charles
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Simpson
+  nameFirst: Kling
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Strah
+  nameFirst: Harvey
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Tyner
+  nameFirst: Herbert
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Westmoreland
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cooper
+  nameFirst: James
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cunningham
+  nameFirst: Blake B.
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Goforth
+  nameFirst: Harry
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hollon
+  nameFirst: James
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Huntley
+  nameFirst: Robert
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Larmouth
+  nameFirst: John
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Mack
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McGowan
+  nameFirst: Robert L.
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Norris
+  nameFirst: Raymond
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Switzer
+  nameFirst: Marion
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Walsh
+  nameFirst: John
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Woolridge
+  nameFirst: C. D.
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Brleich
+  nameFirst: Michael
+  nameClub1: Kingsport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Conrad
+  nameFirst: Norman P.
+  nameClub1: Kingsport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Fogelman
+  nameFirst: James N.
+  nameClub1: Kingsport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Aynik
+  nameFirst: Max
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Barbee
+  nameFirst: Paul M.
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameFirst: Abe
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cameron
+  nameFirst: William
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Clayton
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hayes
+  nameFirst: Claude
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Heffner
+  nameFirst: Joe
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Huffaker
+  nameFirst: Hal
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McCall
+  nameFirst: Jimmy
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Rader
+  nameFirst: Jack
+  nameClub1: Newport
+  nameClub2: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Swann
+  nameFirst: Zeb V.
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Vaughn
+  nameFirst: William
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Whittimore
+  nameFirst: Willard
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Barbolla
+  nameFirst: Mike
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Blanchard
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Buswell
+  nameFirst: Warren
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Carppi
+  nameFirst: Oscar G.
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Dontelli
+  nameFirst: August
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Doyle
+  nameFirst: Elmer
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hoff
+  nameFirst: Russell
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Keel
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kelly
+  nameFirst: Harold
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Luebbers
+  nameFirst: Lawrence
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Murray
+  nameFirst: Harry
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Webb
+  nameClub1: Pennington Gap

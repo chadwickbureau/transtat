@@ -1,0 +1,158 @@
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular/first
+  W: '49'
+  L: '26'
+  T: '0'
+  PCT: '.653'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular/first
+  W: '37'
+  L: '33'
+  T: '0'
+  PCT: '.529'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular/first
+  W: '38'
+  L: '36'
+  T: '0'
+  PCT: '.514'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular/first
+  W: '36'
+  L: '35'
+  T: '2'
+  PCT: '.507'
+  RANK: '4'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular/first
+  W: '39'
+  L: '38'
+  T: '2'
+  PCT: '.506'
+  RANK: '5'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Montgomery
+  phase: regular/first
+  W: '33'
+  L: '33'
+  T: '1'
+  PCT: '.500'
+  RANK: '6'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Knoxville
+  phase: regular/first
+  W: '28'
+  L: '39'
+  T: '2'
+  PCT: '.418'
+  RANK: '7'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular/first
+  W: '24'
+  L: '44'
+  T: '1'
+  PCT: '.353'
+  RANK: '8'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular/second
+  W: '40'
+  L: '22'
+  T: '0'
+  PCT: '.645'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular/second
+  W: '41'
+  L: '29'
+  T: '0'
+  PCT: '.586'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular/second
+  W: '34'
+  L: '29'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Knoxville
+  phase: regular/second
+  W: '37'
+  L: '32'
+  T: '0'
+  PCT: '.536'
+  RANK: '4'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Montgomery
+  phase: regular/second
+  W: '36'
+  L: '37'
+  T: '0'
+  PCT: '.493'
+  RANK: '5'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular/second
+  W: '32'
+  L: '37'
+  T: '0'
+  PCT: '.464'
+  RANK: '6'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular/second
+  W: '24'
+  L: '38'
+  T: '0'
+  PCT: '.387'
+  RANK: '7'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular/second
+  W: '24'
+  L: '44'
+  T: '0'
+  PCT: '.353'
+  RANK: '8'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

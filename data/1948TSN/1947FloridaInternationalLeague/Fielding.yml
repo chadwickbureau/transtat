@@ -1,0 +1,2659 @@
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Dunabeita
+  nameClub1: Fort Lauderdale
+  Pos: 1B
+  G: '36'
+  PO: '292'
+  A: '12'
+  E: '1'
+  DP: '24'
+  PCT: '.997'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Napoles
+  nameClub1: West Palm Beach
+  nameClub2: Fort Lauderdale
+  Pos: 1B
+  G: '52'
+  PO: '493'
+  A: '23'
+  E: '2'
+  DP: '28'
+  PCT: '.996'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Hughes
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: 1B
+  G: '24'
+  PO: '219'
+  A: '14'
+  E: '1'
+  DP: '16'
+  PCT: '.996'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Ryan
+  nameClub1: Miami
+  throws: L
+  Pos: 1B
+  G: '29'
+  PO: '247'
+  A: '12'
+  E: '2'
+  DP: '23'
+  PCT: '.992'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fano
+  nameClub1: Havana
+  Pos: 1B
+  G: '53'
+  PO: '420'
+  A: '16'
+  E: '4'
+  DP: '37'
+  PCT: '.991'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fernandez
+  nameFirst: B.
+  nameClub1: Tampa
+  Pos: 1B
+  G: '145'
+  PO: '1442'
+  A: '52'
+  E: '17'
+  DP: '129'
+  PCT: '.989'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Acosta
+  nameClub1: Miami
+  nameClub2: Fort Lauderdale
+  throws: L
+  Pos: 1B
+  G: '61'
+  PO: '566'
+  A: '25'
+  E: '7'
+  DP: '52'
+  PCT: '.988'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Schemer
+  nameClub1: Miami Beach
+  throws: L
+  Pos: 1B
+  G: '19'
+  PO: '160'
+  A: '9'
+  E: '2'
+  DP: '10'
+  PCT: '.988'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sheridan
+  nameClub1: St. Petersburg
+  Pos: 1B
+  G: '11'
+  PO: '81'
+  A: '2'
+  E: '1'
+  DP: '4'
+  PCT: '.988'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Finney
+  nameClub1: St. Petersburg
+  Pos: 1B
+  G: '105'
+  PO: '902'
+  A: '54'
+  E: '13'
+  DP: '66'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gonzales
+  nameFirst: R.
+  nameClub1: Lakeland
+  nameClub2: Tampa
+  Pos: 1B
+  G: '48'
+  PO: '380'
+  A: '11'
+  E: '5'
+  DP: '30'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Streza
+  nameClub1: Miami Beach
+  Pos: 1B
+  G: '136'
+  PO: '1277'
+  A: '52'
+  E: '19'
+  DP: '105'
+  PCT: '.986'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Baron
+  nameClub1: Miami
+  throws: L
+  Pos: 1B
+  G: '48'
+  PO: '431'
+  A: '27'
+  E: '7'
+  DP: '36'
+  PCT: '.985'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Quicutis
+  nameClub1: Havana
+  Pos: 1B
+  G: '93'
+  PO: '712'
+  A: '28'
+  E: '13'
+  DP: '68'
+  PCT: '.983'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Enos
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: 1B
+  G: '120'
+  PO: '1102'
+  A: '54'
+  E: '21'
+  DP: '78'
+  PCT: '.982'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Satterfield
+  nameClub1: Lakeland
+  Pos: 1B
+  G: '81'
+  PO: '788'
+  A: '44'
+  E: '16'
+  DP: '57'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: McQuillen
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: 1B
+  G: '41'
+  PO: '371'
+  A: '19'
+  E: '8'
+  DP: '25'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Daniels
+  nameClub1: Fort Lauderdale
+  throws: L
+  Pos: 1B
+  G: '64'
+  PO: '597'
+  A: '52'
+  E: '13'
+  DP: '50'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Stokes
+  nameClub1: Miami
+  Pos: 1B
+  G: '32'
+  PO: '292'
+  A: '7'
+  E: '9'
+  DP: '15'
+  PCT: '.971'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gonzales
+  nameFirst: H.
+  nameClub1: Havana
+  throws: L
+  Pos: 1B
+  G: '20'
+  PO: '124'
+  A: '6'
+  E: '5'
+  DP: '5'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Mayer
+  nameClub1: Lakeland
+  Pos: 1B
+  G: '11'
+  PO: '100'
+  A: '5'
+  E: '5'
+  DP: '13'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Kase
+  nameClub1: Miami Beach
+  Pos: 2B
+  G: '29'
+  PO: '103'
+  A: '136'
+  E: '6'
+  DP: '25'
+  PCT: '.976'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Bucci
+  nameClub1: St. Petersburg
+  Pos: 2B
+  G: '121'
+  PO: '338'
+  A: '309'
+  E: '17'
+  DP: '54'
+  PCT: '.974'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gallardo
+  nameClub1: Havana
+  Pos: 2B
+  G: '135'
+  PO: '410'
+  A: '345'
+  E: '25'
+  DP: '69'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Arevalo
+  nameClub1: Tampa
+  Pos: 2B
+  G: '51'
+  PO: '134'
+  A: '166'
+  E: '10'
+  DP: '37'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gra'man
+  nameClub1: West Palm Beach
+  nameClub2: Fort Lauderdale
+  Pos: 2B
+  G: '78'
+  PO: '223'
+  A: '222'
+  E: '15'
+  DP: '44'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Halsall
+  nameClub1: Miami
+  Pos: 2B
+  G: '68'
+  PO: '196'
+  A: '187'
+  E: '13'
+  DP: '43'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Campuzano
+  nameClub1: West Palm Beach
+  Pos: 2B
+  G: '56'
+  PO: '137'
+  A: '155'
+  E: '12'
+  DP: '39'
+  PCT: '.961'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Perada
+  nameClub1: Lakeland
+  Pos: 2B
+  G: '146'
+  PO: '465'
+  A: '388'
+  E: '39'
+  DP: '91'
+  PCT: '.956'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Benito
+  nameClub1: Miami
+  nameClub2: Tampa
+  Pos: 2B
+  G: '45'
+  PO: '143'
+  A: '118'
+  E: '12'
+  DP: '27'
+  PCT: '.956'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Monte'o
+  nameClub1: St. Petersburg
+  nameClub2: West Palm Beach
+  Pos: 2B
+  G: '44'
+  PO: '119'
+  A: '119'
+  E: '12'
+  DP: '22'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Heckel
+  nameClub1: Miami Beach
+  Pos: 2B
+  G: '24'
+  PO: '83'
+  A: '53'
+  E: '7'
+  DP: '9'
+  PCT: '.951'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Webb
+  nameClub1: Miami
+  Pos: 2B
+  G: '33'
+  PO: '84'
+  A: '84'
+  E: '9'
+  DP: '15'
+  PCT: '.949'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Garrison
+  nameClub1: Fort Lauderdale
+  Pos: 2B
+  G: '58'
+  PO: '174'
+  A: '137'
+  E: '18'
+  DP: '26'
+  PCT: '.945'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Nelson
+  nameClub1: Miami Beach
+  Pos: 2B
+  G: '94'
+  PO: '248'
+  A: '255'
+  E: '30'
+  DP: '53'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Lastra
+  nameClub1: Tampa
+  nameClub2: Havana
+  Pos: 2B
+  G: '106'
+  PO: '342'
+  A: '333'
+  E: '41'
+  DP: '66'
+  PCT: '.943'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Etie
+  nameClub1: West Palm Beach
+  Pos: 2B
+  G: '21'
+  PO: '53'
+  A: '56'
+  E: '8'
+  DP: '5'
+  PCT: '.932'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sheridan
+  nameClub1: St. Petersburg
+  Pos: 2B
+  G: '24'
+  PO: '25'
+  A: '46'
+  E: '6'
+  DP: '12'
+  PCT: '.922'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Richards
+  nameFirst: W.
+  nameClub1: Fort Lauderdale
+  Pos: 2B
+  G: '13'
+  PO: '28'
+  A: '29'
+  E: '5'
+  DP: '6'
+  PCT: '.919'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Chapman
+  nameClub1: Fort Lauderdale
+  Pos: 2B
+  G: '25'
+  PO: '63'
+  A: '77'
+  E: '13'
+  DP: '21'
+  PCT: '.915'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Arago
+  nameClub1: Havana
+  Pos: 3B
+  G: '21'
+  PO: '12'
+  A: '34'
+  E: '2'
+  DP: '4'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Moock
+  nameClub1: Lakeland
+  Pos: 3B
+  G: '26'
+  PO: '18'
+  A: '49'
+  E: '3'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sheridan
+  nameClub1: St. Petersburg
+  Pos: 3B
+  G: '23'
+  PO: '38'
+  A: '45'
+  E: '4'
+  DP: '0'
+  PCT: '.954'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Suarez
+  nameFirst: L.
+  nameClub1: Havana
+  Pos: 3B
+  G: '131'
+  PO: '106'
+  A: '232'
+  E: '23'
+  DP: '19'
+  PCT: '.936'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: M'tesino
+  nameClub1: St. Petersburg
+  nameClub2: West Palm Beach
+  Pos: 3B
+  G: '60'
+  PO: '44'
+  A: '135'
+  E: '13'
+  DP: '9'
+  PCT: '.932'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Tucker
+  nameClub1: Miami Beach
+  Pos: 3B
+  G: '12'
+  PO: '12'
+  A: '27'
+  E: '3'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Dick
+  nameClub1: Fort Lauderdale
+  Pos: 3B
+  G: '51'
+  PO: '64'
+  A: '100'
+  E: '13'
+  DP: '8'
+  PCT: '.927'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Biershenk
+  nameClub1: Lakeland
+  Pos: 3B
+  G: '59'
+  PO: '75'
+  A: '211'
+  E: '24'
+  DP: '21'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fajo
+  nameClub1: Tampa
+  nameClub2: Fort Lauderdale
+  Pos: 3B
+  G: '84'
+  PO: '70'
+  A: '187'
+  E: '23'
+  DP: '12'
+  PCT: '.918'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Kline
+  nameClub1: St. Petersburg
+  Pos: 3B
+  G: '91'
+  PO: '99'
+  A: '175'
+  E: '26'
+  DP: '13'
+  PCT: '.913'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Souter
+  nameClub1: Miami
+  nameClub2: Lakeland
+  Pos: 3B
+  G: '61'
+  PO: '71'
+  A: '106'
+  E: '17'
+  DP: '7'
+  PCT: '.912'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Adkins
+  nameClub1: West Palm Beach
+  Pos: 3B
+  G: '104'
+  PO: '119'
+  A: '248'
+  E: '36'
+  DP: '19'
+  PCT: '.911'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Powers
+  nameClub1: Lakeland
+  Pos: 3B
+  G: '13'
+  PO: '14'
+  A: '37'
+  E: '5'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Morem
+  nameClub1: Miami
+  Pos: 3B
+  G: '112'
+  PO: '125'
+  A: '170'
+  E: '29'
+  DP: '29'
+  PCT: '.910'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Heckel
+  nameClub1: Miami Beach
+  Pos: 3B
+  G: '61'
+  PO: '67'
+  A: '112'
+  E: '22'
+  DP: '9'
+  PCT: '.891'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Nash
+  nameClub1: Tampa
+  Pos: 3B
+  G: '141'
+  PO: '122'
+  A: '299'
+  E: '52'
+  DP: '25'
+  PCT: '.890'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fulton
+  nameClub1: West Palm Beach
+  Pos: 3B
+  G: '25'
+  PO: '20'
+  A: '27'
+  E: '6'
+  DP: '1'
+  PCT: '.887'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Chiros
+  nameClub1: St. Petersburg
+  Pos: 3B
+  G: '12'
+  PO: '11'
+  A: '28'
+  E: '5'
+  DP: '1'
+  PCT: '.886'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Westbeld
+  nameClub1: Miami Beach
+  Pos: 3B
+  G: '68'
+  PO: '81'
+  A: '160'
+  E: '32'
+  DP: '10'
+  PCT: '.883'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Quicutis
+  nameClub1: Havana
+  Pos: 3B
+  G: '10'
+  PO: '6'
+  A: '18'
+  E: '4'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Etie
+  nameClub1: West Palm Beach
+  Pos: 3B
+  G: '10'
+  PO: '11'
+  A: '21'
+  E: '9'
+  DP: '2'
+  PCT: '.780'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Doy
+  nameClub1: Miami
+  Pos: SS
+  G: '94'
+  PO: '197'
+  A: '349'
+  E: '30'
+  DP: '56'
+  PCT: '.948'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fajo
+  nameClub1: Miami
+  nameClub2: Fort Lauderdale
+  Pos: SS
+  G: '39'
+  PO: '62'
+  A: '145'
+  E: '15'
+  DP: '20'
+  PCT: '.932'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Mott
+  nameClub1: Tampa
+  Pos: SS
+  G: '147'
+  PO: '302'
+  A: '507'
+  E: '61'
+  DP: '96'
+  PCT: '.930'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Hidalgo
+  nameClub1: Havana
+  Pos: SS
+  G: '150'
+  PO: '297'
+  A: '498'
+  E: '60'
+  DP: '89'
+  PCT: '.930'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Adkins
+  nameClub1: West Palm Beach
+  Pos: SS
+  G: '34'
+  PO: '46'
+  A: '106'
+  E: '12'
+  DP: '10'
+  PCT: '.927'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Biershenk
+  nameClub1: Lakeland
+  Pos: SS
+  G: '12'
+  PO: '17'
+  A: '18'
+  E: '3'
+  DP: '8'
+  PCT: '.921'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Bottoms
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '88'
+  PO: '167'
+  A: '282'
+  E: '42'
+  DP: '47'
+  PCT: '.914'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Minarck
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '10'
+  PO: '17'
+  A: '24'
+  E: '4'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sofia
+  nameClub1: Lakeland
+  Pos: SS
+  G: '74'
+  PO: '152'
+  A: '219'
+  E: '39'
+  DP: '43'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Karpinec
+  nameClub1: Fort Lauderdale
+  Pos: SS
+  G: '144'
+  PO: '301'
+  A: '306'
+  E: '65'
+  DP: '89'
+  PCT: '.903'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Bucci
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '12'
+  PO: '25'
+  A: '31'
+  E: '6'
+  DP: '5'
+  PCT: '.903'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gallart
+  nameClub1: Miami
+  nameClub2: Lakeland
+  Pos: SS
+  G: '75'
+  PO: '138'
+  A: '194'
+  E: '39'
+  DP: '23'
+  PCT: '.895'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Campos
+  nameClub1: St. Petersburg
+  nameClub2: West Palm Beach
+  Pos: SS
+  G: '75'
+  PO: '135'
+  A: '271'
+  E: '49'
+  DP: '37'
+  PCT: '.892'
+  TP: '1'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Franck
+  nameClub1: Miami Beach
+  Pos: SS
+  G: '146'
+  PO: '282'
+  A: '402'
+  E: '99'
+  DP: '75'
+  PCT: '.874'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Etie
+  nameClub1: West Palm Beach
+  Pos: SS
+  G: '33'
+  PO: '53'
+  A: '129'
+  E: '28'
+  DP: '12'
+  PCT: '.867'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Evelyn
+  nameClub1: West Palm Beach
+  Pos: SS
+  G: '16'
+  PO: '32'
+  A: '37'
+  E: '15'
+  DP: '7'
+  PCT: '.821'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Quicutis
+  nameClub1: Havana
+  Pos: OF
+  G: '29'
+  PO: '42'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Schemer
+  nameClub1: Miami Beach
+  throws: L
+  Pos: OF
+  G: '15'
+  PO: '34'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Hughes
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: OF
+  G: '26'
+  PO: '27'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Heckel
+  nameClub1: Miami Beach
+  Pos: OF
+  G: '19'
+  PO: '25'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Zinchak
+  nameClub1: Tampa
+  Pos: OF
+  G: '13'
+  PO: '19'
+  A: '2'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Davis
+  nameClub1: Tampa
+  Pos: OF
+  G: '11'
+  PO: '10'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fraker
+  nameClub1: St. Petersburg
+  nameClub2: Lakeland
+  Pos: OF
+  G: '92'
+  PO: '151'
+  A: '8'
+  E: '2'
+  DP: '2'
+  PCT: '.988'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fulton
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '58'
+  PO: '68'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.986'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Perez
+  nameClub1: Havana
+  Pos: OF
+  G: '148'
+  PO: '347'
+  A: '14'
+  E: '6'
+  DP: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Wingard
+  nameClub1: Lakeland
+  Pos: OF
+  G: '23'
+  PO: '54'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Kuester
+  nameClub1: Fort Lauderdale
+  Pos: OF
+  G: '25'
+  PO: '51'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.982'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Powell
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '115'
+  PO: '252'
+  A: '19'
+  E: '5'
+  DP: '7'
+  PCT: '.982'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Solis
+  nameClub1: Tampa
+  Pos: OF
+  G: '98'
+  PO: '185'
+  A: '15'
+  E: '4'
+  DP: '5'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Ware
+  nameClub1: Miami
+  Pos: OF
+  G: '16'
+  PO: '47'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Basch
+  nameClub1: Fort Lauderdale
+  Pos: OF
+  G: '84'
+  PO: '182'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sheridan
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '53'
+  PO: '134'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gonzales
+  nameFirst: H.
+  nameClub1: Havana
+  Pos: OF
+  G: '104'
+  PO: '167'
+  A: '15'
+  E: '4'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Bearden
+  nameClub1: Miami
+  Pos: OF
+  G: '150'
+  PO: '297'
+  A: '15'
+  E: '7'
+  DP: '4'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fuchs
+  nameClub1: Tampa
+  nameClub2: St. Petersburg
+  Pos: OF
+  G: '149'
+  PO: '291'
+  A: '16'
+  E: '8'
+  DP: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Mahon
+  nameClub1: Miami
+  Pos: OF
+  G: '51'
+  PO: '108'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Chandler
+  nameClub1: Miami
+  Pos: OF
+  G: '18'
+  PO: '34'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Souter
+  nameClub1: Miami
+  nameClub2: Lakeland
+  Pos: OF
+  G: '65'
+  PO: '156'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Zardon
+  nameClub1: Havana
+  Pos: OF
+  G: '134'
+  PO: '239'
+  A: '14'
+  E: '8'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Garmendia
+  nameClub1: Miami Beach
+  Pos: OF
+  G: '153'
+  PO: '431'
+  A: '35'
+  E: '15'
+  DP: '7'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Daniel
+  nameClub1: Fort Lauderdale
+  Pos: OF
+  G: '121'
+  PO: '233'
+  A: '13'
+  E: '8'
+  DP: '6'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gaillard
+  nameClub1: Lakeland
+  Pos: OF
+  G: '17'
+  PO: '29'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Dendinger
+  nameClub1: Tampa
+  Pos: OF
+  G: '44'
+  PO: '94'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Perello
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '96'
+  PO: '124'
+  A: '2'
+  E: '4'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Mendizabal
+  nameClub1: Miami
+  Pos: OF
+  G: '38'
+  PO: '58'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Richards
+  nameFirst: J.
+  nameClub1: Fort Lauderdale
+  Pos: OF
+  G: '113'
+  PO: '240'
+  A: '20'
+  E: '9'
+  DP: '5'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Howell
+  nameClub1: Lakeland
+  throws: L
+  Pos: OF
+  G: '96'
+  PO: '237'
+  A: '15'
+  E: '9'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Murphy
+  nameClub1: Tampa
+  Pos: OF
+  G: '128'
+  PO: '217'
+  A: '7'
+  E: '8'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Paul
+  nameClub1: Fort Lauderdale
+  Pos: OF
+  G: '29'
+  PO: '53'
+  A: '2'
+  E: '2'
+  DP: '2'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Chappell
+  nameClub1: Miami Beach
+  Pos: OF
+  G: '142'
+  PO: '332'
+  A: '26'
+  E: '13'
+  DP: '4'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Knepper
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '63'
+  PO: '154'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Richards
+  nameFirst: W.
+  nameClub1: Fort Lauderdale
+  Pos: OF
+  G: '31'
+  PO: '74'
+  A: '4'
+  E: '3'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Diaz
+  nameClub1: Havana
+  Pos: OF
+  G: '53'
+  PO: '74'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Bass
+  nameClub1: Lakeland
+  nameClub2: Miami
+  Pos: OF
+  G: '151'
+  PO: '243'
+  A: '11'
+  E: '10'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fern'dez
+  nameFirst: A.
+  nameClub1: Miami
+  nameClub2: Lakeland
+  Pos: OF
+  G: '49'
+  PO: '93'
+  A: '5'
+  E: '4'
+  DP: '2'
+  PCT: '.961'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Pastaris
+  nameClub1: Lakeland
+  Pos: OF
+  G: '29'
+  PO: '47'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.961'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Dornbusch
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '108'
+  PO: '304'
+  A: '8'
+  E: '13'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Murphy
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '19'
+  PO: '42'
+  A: '2'
+  E: '2'
+  DP: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sinnott
+  nameClub1: Lakeland
+  nameClub2: Tampa
+  Pos: OF
+  G: '127'
+  PO: '289'
+  A: '28'
+  E: '16'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Valdes
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '87'
+  PO: '178'
+  A: '8'
+  E: '10'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Acosta
+  nameClub1: Miami
+  nameClub2: Fort Lauderdale
+  Pos: OF
+  G: '34'
+  PO: '71'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Hendricksen
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '16'
+  PO: '18'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Caliento
+  nameClub1: Fort Lauderdale
+  Pos: OF
+  G: '13'
+  PO: '16'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Harris
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '153'
+  PO: '230'
+  A: '14'
+  E: '15'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Wayne
+  nameClub1: Miami Beach
+  Pos: OF
+  G: '134'
+  PO: '216'
+  A: '14'
+  E: '15'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sifft
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '18'
+  PO: '27'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.935'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Biershenk
+  nameClub1: Lakeland
+  Pos: OF
+  G: '16'
+  PO: '14'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Harrington
+  nameClub1: Tampa
+  throws: L
+  Pos: OF
+  G: '57'
+  PO: '92'
+  A: '7'
+  E: '8'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Warren
+  nameClub1: Lakeland
+  throws: L
+  Pos: OF
+  G: '25'
+  PO: '48'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.898'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Moody
+  nameClub1: Lakeland
+  Pos: OF
+  G: '11'
+  PO: '8'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Suarez
+  nameFirst: O.
+  nameClub1: Havana
+  Pos: C
+  G: '136'
+  PO: '784'
+  A: '85'
+  E: '14'
+  DP: '14'
+  PB: '7'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Andrews
+  nameClub1: St. Petersburg
+  Pos: C
+  G: '116'
+  PO: '466'
+  A: '59'
+  E: '10'
+  DP: '9'
+  PB: '8'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: DalPra
+  nameClub1: West Palm Beach
+  Pos: C
+  G: '14'
+  PO: '47'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PB: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fernandez
+  nameFirst: M.
+  nameClub1: Tampa
+  Pos: C
+  G: '135'
+  PO: '709'
+  A: '67'
+  E: '16'
+  DP: '5'
+  PB: '6'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: O'Brien
+  nameClub1: Tampa
+  nameClub2: Miami
+  Pos: C
+  G: '77'
+  PO: '345'
+  A: '40'
+  E: '8'
+  DP: '3'
+  PB: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Leitz
+  nameClub1: Miami Beach
+  Pos: C
+  G: '106'
+  PO: '392'
+  A: '59'
+  E: '9'
+  DP: '7'
+  PB: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Feduniak
+  nameClub1: West Palm Beach
+  Pos: C
+  G: '115'
+  PO: '552'
+  A: '61'
+  E: '13'
+  DP: '11'
+  PB: '12'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Kushta
+  nameClub1: Lakeland
+  Pos: C
+  G: '136'
+  PO: '543'
+  A: '99'
+  E: '15'
+  DP: '21'
+  PB: '9'
+  PCT: '.977'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameClub1: Miami
+  Pos: C
+  G: '11'
+  PO: '37'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PB: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Dunne
+  nameClub1: Miami Beach
+  Pos: C
+  G: '48'
+  PO: '154'
+  A: '26'
+  E: '7'
+  DP: '7'
+  PB: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Thompson
+  nameClub1: Miami Beach
+  Pos: C
+  G: '15'
+  PO: '36'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PB: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Lewis
+  nameClub1: Miami
+  Pos: C
+  G: '83'
+  PO: '357'
+  A: '63'
+  E: '20'
+  DP: '6'
+  PB: '9'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Valdes
+  nameClub1: West Palm Beach
+  Pos: C
+  G: '15'
+  PO: '55'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PB: '2'
+  PCT: '.954'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Salvador
+  nameClub1: Fort Lauderdale
+  Pos: C
+  G: '22'
+  PO: '75'
+  A: '8'
+  E: '4'
+  DP: '4'
+  PB: '5'
+  PCT: '.954'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Boynton
+  nameClub1: West Palm Beach
+  Pos: C
+  G: '10'
+  PO: '29'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PB: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Nichols
+  nameClub1: Fort Lauderdale
+  Pos: C
+  G: '76'
+  PO: '257'
+  A: '54'
+  E: '17'
+  DP: '7'
+  PB: '10'
+  PCT: '.948'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sweeting
+  nameClub1: Fort Lauderdale
+  Pos: C
+  G: '57'
+  PO: '222'
+  A: '44'
+  E: '15'
+  DP: '7'
+  PB: '15'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Diaz
+  nameClub1: Havana
+  Pos: C
+  G: '21'
+  PO: '72'
+  A: '12'
+  E: '5'
+  DP: '2'
+  PB: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Skapik
+  nameClub1: St. Petersburg
+  Pos: C
+  G: '52'
+  PO: '181'
+  A: '25'
+  E: '14'
+  DP: '5'
+  PB: '7'
+  PCT: '.936'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Calvino
+  nameClub1: Havana
+  Pos: C
+  G: '13'
+  PO: '48'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PB: '0'
+  PCT: '.927'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Moreno
+  nameClub1: Havana
+  Pos: P
+  G: '24'
+  PO: '9'
+  A: '47'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Leon
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '42'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Marrero
+  nameClub1: Havana
+  Pos: P
+  G: '40'
+  PO: '3'
+  A: '35'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Vega
+  nameClub1: Havana
+  Pos: P
+  G: '34'
+  PO: '2'
+  A: '34'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gagyi
+  nameClub1: Lakeland
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '22'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Wilson
+  nameClub1: Miami
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '21'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: G'zales
+  nameFirst: R.
+  nameClub1: Lakeland
+  nameClub2: Tampa
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '20'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Howard
+  nameClub1: Lakeland
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '20'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Covington
+  nameClub1: Tampa
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '19'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Adkins
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '17'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Rodriguez
+  nameClub1: Havana
+  Pos: P
+  G: '20'
+  PO: '3'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Fisher
+  nameClub1: Miami
+  Pos: P
+  G: '17'
+  PO: '8'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Cooke
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Leeper
+  nameClub1: Fort Lauderdale
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Cook
+  nameClub1: Lakeland
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Allen
+  nameClub1: Fort Lauderdale
+  Pos: P
+  G: '31'
+  PO: '11'
+  A: '61'
+  E: '1'
+  DP: '6'
+  PCT: '.986'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Elliott
+  nameClub1: Miami
+  nameClub2: Tampa
+  Pos: P
+  G: '49'
+  PO: '7'
+  A: '56'
+  E: '1'
+  DP: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Nee
+  nameClub1: Miami
+  Pos: P
+  G: '40'
+  PO: '7'
+  A: '48'
+  E: '1'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Embree
+  nameClub1: Miami
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '37'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Nelson
+  nameClub1: Fort Lauderdale
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '39'
+  E: '1'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Parra
+  nameClub1: Havana
+  Pos: P
+  G: '26'
+  PO: '21'
+  A: '46'
+  E: '2'
+  DP: '7'
+  PCT: '.971'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Salgado
+  nameClub1: St. Petersburg
+  nameClub2: Tampa
+  Pos: P
+  G: '26'
+  PO: '2'
+  A: '27'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Bardin
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '24'
+  E: '1'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Rivas
+  nameClub1: Havana
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Todd
+  nameClub1: Miami Beach
+  Pos: P
+  G: '32'
+  PO: '5'
+  A: '43'
+  E: '2'
+  DP: '3'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Martinez
+  nameClub1: Havana
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '40'
+  E: '2'
+  DP: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Bowles
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '51'
+  PO: '17'
+  A: '46'
+  E: '3'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Henton
+  nameClub1: Fort Lauderdale
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '37'
+  E: '2'
+  DP: '1'
+  PCT: '.953'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Donovan
+  nameClub1: Fort Lauderdale
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '49'
+  E: '3'
+  DP: '3'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Johnson
+  nameFirst: J. B.
+  nameClub1: Lakeland
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '31'
+  E: '2'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Nevel
+  nameClub1: Miami
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '28'
+  E: '2'
+  DP: '0'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Gonzales
+  nameFirst: C.
+  nameClub1: Tampa
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '11'
+  A: '44'
+  E: '3'
+  DP: '5'
+  PCT: '.948'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Tompkins
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '20'
+  PO: '1'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Murray
+  nameClub1: Fort Lauderdale
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Morilla
+  nameClub1: Miami Beach
+  Pos: P
+  G: '42'
+  PO: '14'
+  A: '39'
+  E: '3'
+  DP: '2'
+  PCT: '.946'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Winkler
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '39'
+  PO: '8'
+  A: '57'
+  E: '4'
+  DP: '1'
+  PCT: '.942'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: McCormick
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '17'
+  PO: '6'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Jiminez
+  nameClub1: Tampa
+  Pos: P
+  G: '47'
+  PO: '5'
+  A: '42'
+  E: '3'
+  DP: '3'
+  PCT: '.940'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Rubert
+  nameClub1: West Palm Beach
+  nameClub2: Tampa
+  Pos: P
+  G: '47'
+  PO: '11'
+  A: '82'
+  E: '6'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Catterton
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: McCravy
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '18'
+  PO: '0'
+  A: '14'
+  E: '1'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Stein
+  nameClub1: Lakeland
+  nameClub2: West Palm Beach
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '44'
+  E: '4'
+  DP: '4'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Lorenzo
+  nameClub1: Havana
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '2'
+  A: '50'
+  E: '4'
+  DP: '6'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Jakubov
+  nameClub1: Miami
+  Pos: P
+  G: '36'
+  PO: '6'
+  A: '20'
+  E: '2'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Price
+  nameClub1: Miami Beach
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '5'
+  A: '44'
+  E: '4'
+  DP: '3'
+  PCT: '.925'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Southard
+  nameClub1: Miami Beach
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '21'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Cuellar
+  nameClub1: Tampa
+  Pos: P
+  G: '26'
+  PO: '8'
+  A: '27'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Del Calvo
+  nameClub1: St. Petersburg
+  nameClub2: Tampa
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '28'
+  E: '3'
+  DP: '2'
+  PCT: '.919'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Garcia
+  nameClub1: Lakeland
+  Pos: P
+  G: '57'
+  PO: '3'
+  A: '31'
+  E: '3'
+  DP: '2'
+  PCT: '.919'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Perrin
+  nameClub1: Lakeland
+  Pos: P
+  G: '29'
+  PO: '5'
+  A: '28'
+  E: '3'
+  DP: '3'
+  PCT: '.917'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Estrella
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '45'
+  PO: '12'
+  A: '64'
+  E: '7'
+  DP: '2'
+  PCT: '.916'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Graham
+  nameClub1: Miami Beach
+  Pos: P
+  G: '34'
+  PO: '10'
+  A: '60'
+  E: '7'
+  DP: '4'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Wallace
+  nameClub1: Miami Beach
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Hughes
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '9'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameClub1: Tampa
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sangil
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '3'
+  A: '54'
+  E: '7'
+  DP: '1'
+  PCT: '.891'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Keller
+  nameClub1: Fort Lauderdale
+  Pos: P
+  G: '17'
+  PO: '0'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Buickell
+  nameClub1: Fort Lauderdale
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '10'
+  A: '41'
+  E: '7'
+  DP: '2'
+  PCT: '.879'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Johnson
+  nameFirst: H.
+  nameClub1: Tampa
+  nameClub2: Fort Lauderdale
+  nameClub3: West Palm Beach
+  Pos: P
+  G: '27'
+  PO: '1'
+  A: '28'
+  E: '4'
+  DP: '1'
+  PCT: '.879'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Biershenk
+  nameClub1: Lakeland
+  Pos: P
+  G: '22'
+  PO: '9'
+  A: '33'
+  E: '7'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Krall
+  nameClub1: Lakeland
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Acosta
+  nameClub1: Miami
+  nameClub2: Fort Lauderdale
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '7'
+  E: '2'
+  DP: '2'
+  PCT: '.818'
+  TP: '0'
+- year: '1947'
+  nameLeague: Florida International League
+  nameLast: Sabatie
+  nameClub1: Lakeland
+  Pos: P
+  G: '25'
+  PO: '3'
+  A: '19'
+  E: '5'
+  DP: '2'
+  PCT: '.815'
+  TP: '0'

@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  phase: regular
+  W: '81'
+  L: '55'
+  T: '0'
+  PCT: '.596'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  phase: regular
+  W: '79'
+  L: '58'
+  T: '0'
+  PCT: '.577'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: regular
+  W: '75'
+  L: '62'
+  T: '0'
+  PCT: '.547'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: regular
+  W: '72'
+  L: '65'
+  T: '1'
+  PCT: '.526'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: regular
+  W: '70'
+  L: '69'
+  T: '0'
+  PCT: '.504'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular
+  W: '68'
+  L: '70'
+  T: '0'
+  PCT: '.493'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  phase: regular
+  W: '53'
+  L: '82'
+  T: '0'
+  PCT: '.393'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: regular
+  W: '49'
+  L: '86'
+  T: '1'
+  PCT: '.363'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '1'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '1'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '2'
+- year: '1948'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '2'

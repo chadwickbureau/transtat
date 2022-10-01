@@ -1,0 +1,124 @@
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: regular
+  W: '96'
+  L: '43'
+  T: '0'
+  PCT: '.691'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.557'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: regular
+  W: '76'
+  L: '62'
+  T: '3'
+  PCT: '.551'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  phase: regular
+  W: '71'
+  L: '67'
+  T: '1'
+  PCT: '.514'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  phase: regular
+  W: '65'
+  L: '72'
+  T: '0'
+  PCT: '.474'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  W: '59'
+  L: '80'
+  T: '1'
+  PCT: '.424'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Utica
+  phase: regular
+  W: '59'
+  L: '80'
+  T: '1'
+  PCT: '.424'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '51'
+  L: '89'
+  T: '0'
+  PCT: '.364'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: final
+  W: '4'
+  L: '1'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  phase: final
+  W: '1'
+  L: '4'
+  T: '0'
+  RANK: '2'

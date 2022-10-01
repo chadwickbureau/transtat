@@ -1,0 +1,110 @@
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: regular/first
+  W: '40'
+  L: '19'
+  PCT: '.678'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/first
+  W: '32'
+  L: '26'
+  PCT: '.552'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/first
+  W: '32'
+  L: '26'
+  PCT: '.552'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  phase: regular/first
+  W: '27'
+  L: '31'
+  PCT: '.466'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: regular/first
+  W: '23'
+  L: '37'
+  PCT: '.383'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular/first
+  W: '21'
+  L: '36'
+  PCT: '.368'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: regular/second
+  W: '33'
+  L: '24'
+  PCT: '.579'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular/second
+  W: '30'
+  L: '26'
+  PCT: '.536'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  phase: regular/second
+  W: '31'
+  L: '27'
+  PCT: '.534'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/second
+  W: '28'
+  L: '27'
+  PCT: '.509'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: regular/second
+  W: '29'
+  L: '31'
+  PCT: '.483'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/second
+  W: '19'
+  L: '35'
+  PCT: '.352'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

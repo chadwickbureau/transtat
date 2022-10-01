@@ -1,0 +1,69 @@
+- year: '1952'
+  nameLeague: California League
+  nameClub: Fresno
+  nameLast: LeBlanc
+  nameFirst: Roland
+  seq: '0'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  nameLast: Scherger
+  nameFirst: George
+  seq: '0'
+- year: '1952'
+  nameLeague: California League
+  nameClub: San Jose
+  nameLast: Marion
+  nameFirst: John (Red)
+  seq: '0'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Visalia
+  nameLast: Barton
+  nameFirst: Lawrence
+  seq: '0'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Bakersfield
+  nameLast: Lillard
+  nameFirst: R. Eugene
+  seq: '0'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Modesto
+  nameLast: Elliott
+  nameFirst: A. W. (Buck)
+  seq: '1'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Modesto
+  nameLast: Cameron
+  nameFirst: Clint
+  seq: '2'
+  dateFirst: 07231952
+- year: '1952'
+  nameLeague: California League
+  nameClub: Stockton
+  nameLast: Clements
+  nameFirst: Harry
+  seq: '1'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Stockton
+  nameLast: Freitas
+  nameFirst: Antonio
+  seq: '2'
+  dateFirst: 06091952
+- year: '1952'
+  nameLeague: California League
+  nameClub: Ventura
+  nameLast: Sturgeon
+  nameFirst: Robert
+  seq: '1'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Ventura
+  nameLast: Perez
+  nameFirst: Jose
+  seq: '2'
+  dateFirst: 08021952

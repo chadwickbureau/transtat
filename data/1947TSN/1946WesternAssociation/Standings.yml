@@ -1,0 +1,144 @@
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Fort Smith
+  phase: regular/first
+  W: '37'
+  L: '23'
+  PCT: '.617'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Leavenworth
+  phase: regular/first
+  W: '39'
+  L: '27'
+  PCT: '.591'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Muskogee
+  phase: regular/first
+  W: '36'
+  L: '33'
+  PCT: '.522'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: regular/first
+  W: '35'
+  L: '33'
+  PCT: '.515'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: regular/first
+  W: '30'
+  L: '33'
+  PCT: '.476'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: regular/first
+  W: '30'
+  L: '34'
+  PCT: '.469'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Salina
+  phase: regular/first
+  W: '27'
+  L: '36'
+  PCT: '.429'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: regular/first
+  W: '25'
+  L: '40'
+  PCT: '.385'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: regular/second
+  W: '43'
+  L: '23'
+  PCT: '.652'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: regular/second
+  W: '40'
+  L: '29'
+  PCT: '.580'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Muskogee
+  phase: regular/second
+  W: '39'
+  L: '31'
+  PCT: '.557'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Leavenworth
+  phase: regular/second
+  W: '37'
+  L: '30'
+  PCT: '.552'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: regular/second
+  W: '36'
+  L: '33'
+  PCT: '.522'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Fort Smith
+  phase: regular/second
+  W: '30'
+  L: '40'
+  PCT: '.429'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Salina
+  phase: regular/second
+  W: '24'
+  L: '41'
+  PCT: '.369'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: regular/second
+  W: '23'
+  L: '45'
+  PCT: '.338'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Fort Smith
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

@@ -1,0 +1,2679 @@
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Humber
+  nameClub1: Clinton
+  Pos: 1B
+  G: '10'
+  PO: '49'
+  A: '1'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Jones
+  nameClub1: Dubuque
+  Pos: 1B
+  G: '15'
+  PO: '91'
+  A: '4'
+  E: '1'
+  DP: '9'
+  PCT: '.990'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Heiss
+  nameClub1: Michigan City
+  throws: L
+  Pos: 1B
+  G: '68'
+  PO: '524'
+  A: '24'
+  E: '6'
+  DP: '52'
+  PCT: '.989'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Miller
+  nameFirst: W.
+  nameClub1: Decatur
+  Pos: 1B
+  G: '36'
+  PO: '245'
+  A: '11'
+  E: '4'
+  DP: '27'
+  PCT: '.985'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Liprando
+  nameClub1: Lafayette
+  Pos: 1B
+  G: '111'
+  PO: '840'
+  A: '42'
+  E: '20'
+  DP: '77'
+  PCT: '.978'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Vallery
+  nameClub1: Lafayette
+  throws: L
+  Pos: 1B
+  G: '11'
+  PO: '87'
+  A: '2'
+  E: '2'
+  DP: '8'
+  PCT: '.978'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Kreuter
+  nameClub1: Paris
+  throws: L
+  Pos: 1B
+  G: '118'
+  PO: '879'
+  A: '64'
+  E: '23'
+  DP: '91'
+  PCT: '.976'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hartman
+  nameClub1: Decatur
+  Pos: 1B
+  G: '53'
+  PO: '435'
+  A: '17'
+  E: '11'
+  DP: '39'
+  PCT: '.976'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schmidt
+  nameClub1: Paris
+  Pos: 1B
+  G: '10'
+  PO: '33'
+  A: '8'
+  E: '1'
+  DP: '4'
+  PCT: '.976'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Teller
+  nameClub1: Decatur
+  throws: L
+  Pos: 1B
+  G: '39'
+  PO: '309'
+  A: '7'
+  E: '8'
+  DP: '24'
+  PCT: '.975'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Durden
+  nameClub1: Kokomo
+  throws: L
+  Pos: 1B
+  G: '65'
+  PO: '480'
+  A: '45'
+  E: '14'
+  DP: '45'
+  PCT: '.974'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Dickerson
+  nameClub1: Mattoon
+  throws: L
+  Pos: 1B
+  G: '126'
+  PO: '942'
+  A: '53'
+  E: '27'
+  DP: '97'
+  PCT: '.974'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Reichert
+  nameClub1: Dubuque
+  Pos: 1B
+  G: '25'
+  PO: '177'
+  A: '7'
+  E: '5'
+  DP: '20'
+  PCT: '.974'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bafus
+  nameClub1: Kokomo
+  Pos: 1B
+  G: '50'
+  PO: '405'
+  A: '30'
+  E: '13'
+  DP: '40'
+  PCT: '.971'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Wentzel
+  nameClub1: Clinton
+  Pos: 1B
+  G: '117'
+  PO: '882'
+  A: '50'
+  E: '30'
+  DP: '74'
+  PCT: '.969'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Shinn
+  nameClub1: Michigan City
+  throws: L
+  Pos: 1B
+  G: '15'
+  PO: '91'
+  A: '3'
+  E: '3'
+  DP: '17'
+  PCT: '.969'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Grable
+  nameClub1: Dubuque
+  throws: L
+  Pos: 1B
+  G: '82'
+  PO: '554'
+  A: '34'
+  E: '22'
+  DP: '58'
+  PCT: '.964'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Murawski
+  nameClub1: Michigan City
+  Pos: 1B
+  G: '12'
+  PO: '77'
+  A: '8'
+  E: '4'
+  DP: '4'
+  PCT: '.955'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Llewellyn
+  nameClub1: Dubuque
+  throws: L
+  Pos: 1B
+  G: '15'
+  PO: '100'
+  A: '4'
+  E: '6'
+  DP: '8'
+  PCT: '.945'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Giordano
+  nameClub1: Michigan City
+  Pos: 1B
+  G: '19'
+  PO: '135'
+  A: '7'
+  E: '11'
+  DP: '14'
+  PCT: '.928'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: McLeod
+  nameClub1: Michigan City
+  Pos: 1B
+  G: '12'
+  PO: '85'
+  A: '3'
+  E: '10'
+  DP: '6'
+  PCT: '.898'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Noga
+  nameClub1: Dubuque
+  Pos: 2B
+  G: '14'
+  PO: '30'
+  A: '36'
+  E: '0'
+  DP: '7'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Cutler
+  nameClub1: Dubuque
+  Pos: 2B
+  G: '18'
+  PO: '27'
+  A: '35'
+  E: '1'
+  DP: '7'
+  PCT: '.984'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Jones
+  nameClub1: Dubuque
+  Pos: 2B
+  G: '90'
+  PO: '217'
+  A: '205'
+  E: '15'
+  DP: '54'
+  PCT: '.966'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Whiteko
+  nameClub1: Mattoon
+  Pos: 2B
+  G: '34'
+  PO: '89'
+  A: '107'
+  E: '7'
+  DP: '29'
+  PCT: '.966'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Spatafora
+  nameClub1: Michigan City
+  Pos: 2B
+  G: '33'
+  PO: '89'
+  A: '75'
+  E: '6'
+  DP: '23'
+  PCT: '.965'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Rader
+  nameClub1: Michigan City
+  Pos: 2B
+  G: '10'
+  PO: '23'
+  A: '29'
+  E: '2'
+  DP: '8'
+  PCT: '.963'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Humber
+  nameClub1: Clinton
+  Pos: 2B
+  G: '41'
+  PO: '96'
+  A: '98'
+  E: '8'
+  DP: '17'
+  PCT: '.960'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Zebrowski
+  nameClub1: Kokomo
+  Pos: 2B
+  G: '60'
+  PO: '130'
+  A: '140'
+  E: '12'
+  DP: '46'
+  PCT: '.957'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gottschalk
+  nameClub1: Mattoon
+  Pos: 2B
+  G: '61'
+  PO: '129'
+  A: '148'
+  E: '13'
+  DP: '33'
+  PCT: '.955'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Smolinski
+  nameClub1: Paris
+  Pos: 2B
+  G: '44'
+  PO: '102'
+  A: '97'
+  E: '10'
+  DP: '20'
+  PCT: '.952'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schuler
+  nameClub1: Clinton
+  Pos: 2B
+  G: '82'
+  PO: '165'
+  A: '183'
+  E: '18'
+  DP: '37'
+  PCT: '.951'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Moseley
+  nameClub1: Kokomo
+  Pos: 2B
+  G: '16'
+  PO: '21'
+  A: '34'
+  E: '3'
+  DP: '4'
+  PCT: '.948'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hopkins
+  nameClub1: Lafayette
+  Pos: 2B
+  G: '115'
+  PO: '253'
+  A: '316'
+  E: '35'
+  DP: '69'
+  PCT: '.942'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gholson
+  nameClub1: Paris
+  Pos: 2B
+  G: '61'
+  PO: '128'
+  A: '173'
+  E: '19'
+  DP: '44'
+  PCT: '.941'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Abraham
+  nameClub1: Michigan City
+  nameClub2: Kokomo
+  Pos: 2B
+  G: '107'
+  PO: '289'
+  A: '259'
+  E: '39'
+  DP: '62'
+  PCT: '.934'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Stanton
+  nameClub1: Michigan City
+  Pos: 2B
+  G: '15'
+  PO: '25'
+  A: '31'
+  E: '4'
+  DP: '9'
+  PCT: '.933'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Whitekiller
+  nameClub1: Decatur
+  Pos: 2B
+  G: '14'
+  PO: '30'
+  A: '29'
+  E: '5'
+  DP: '7'
+  PCT: '.922'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Duncan
+  nameClub1: Decatur
+  Pos: 2B
+  G: '98'
+  PO: '223'
+  A: '244'
+  E: '42'
+  DP: '62'
+  PCT: '.917'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Lewis
+  nameClub1: Michigan City
+  Pos: 2B
+  G: '20'
+  PO: '38'
+  A: '42'
+  E: '8'
+  DP: '2'
+  PCT: '.909'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Miller
+  nameFirst: R.
+  nameClub1: Decatur
+  Pos: 2B
+  G: '21'
+  PO: '43'
+  A: '35'
+  E: '8'
+  DP: '6'
+  PCT: '.907'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Handley
+  nameClub1: Paris
+  Pos: 2B
+  G: '12'
+  PO: '34'
+  A: '18'
+  E: '6'
+  DP: '6'
+  PCT: '.897'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Miller
+  nameClub1: Mattoon
+  Pos: 2B
+  G: '20'
+  PO: '36'
+  A: '35'
+  E: '9'
+  DP: '7'
+  PCT: '.888'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: McDougal
+  nameClub1: Michigan City
+  Pos: 3B
+  G: '28'
+  PO: '28'
+  A: '40'
+  E: '2'
+  DP: '4'
+  PCT: '.971'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Dennis
+  nameClub1: Lafayette
+  Pos: 3B
+  G: '11'
+  PO: '6'
+  A: '40'
+  E: '2'
+  DP: '1'
+  PCT: '.958'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Huckemeyer
+  nameClub1: Paris
+  Pos: 3B
+  G: '14'
+  PO: '13'
+  A: '29'
+  E: '2'
+  DP: '0'
+  PCT: '.955'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gholson
+  nameClub1: Paris
+  Pos: 3B
+  G: '27'
+  PO: '17'
+  A: '59'
+  E: '4'
+  DP: '7'
+  PCT: '.950'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Kobuskie
+  nameClub1: Clinton
+  Pos: 3B
+  G: '10'
+  PO: '6'
+  A: '24'
+  E: '2'
+  DP: '1'
+  PCT: '.938'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hartman
+  nameClub1: Decatur
+  Pos: 3B
+  G: '27'
+  PO: '27'
+  A: '29'
+  E: '5'
+  DP: '4'
+  PCT: '.930'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hirsch
+  nameClub1: Lafayette
+  Pos: 3B
+  G: '104'
+  PO: '113'
+  A: '192'
+  E: '25'
+  DP: '22'
+  PCT: '.924'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Miller
+  nameFirst: R.
+  nameClub1: Decatur
+  Pos: 3B
+  G: '95'
+  PO: '100'
+  A: '170'
+  E: '24'
+  DP: '13'
+  PCT: '.918'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Williams
+  nameClub1: Clinton
+  Pos: 3B
+  G: '91'
+  PO: '88'
+  A: '136'
+  E: '23'
+  DP: '6'
+  PCT: '.907'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Moseley
+  nameClub1: Kokomo
+  Pos: 3B
+  G: '89'
+  PO: '116'
+  A: '150'
+  E: '29'
+  DP: '18'
+  PCT: '.902'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Lewis
+  nameClub1: Michigan City
+  Pos: 3B
+  G: '11'
+  PO: '15'
+  A: '21'
+  E: '4'
+  DP: '2'
+  PCT: '.900'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Spatafora
+  nameClub1: Michigan City
+  Pos: 3B
+  G: '62'
+  PO: '72'
+  A: '115'
+  E: '21'
+  DP: '13'
+  PCT: '.899'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Yoder
+  nameClub1: Kokomo
+  Pos: 3B
+  G: '13'
+  PO: '13'
+  A: '22'
+  E: '4'
+  DP: '0'
+  PCT: '.897'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Zebrowski
+  nameClub1: Kokomo
+  Pos: 3B
+  G: '11'
+  PO: '17'
+  A: '23'
+  E: '5'
+  DP: '2'
+  PCT: '.889'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Massey
+  nameClub1: Dubuque
+  Pos: 3B
+  G: '78'
+  PO: '80'
+  A: '149'
+  E: '29'
+  DP: '24'
+  PCT: '.888'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Randall
+  nameClub1: Mattoon
+  Pos: 3B
+  G: '86'
+  PO: '66'
+  A: '101'
+  E: '22'
+  DP: '17'
+  PCT: '.884'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Smolinski
+  nameClub1: Paris
+  Pos: 3B
+  G: '82'
+  PO: '78'
+  A: '147'
+  E: '31'
+  DP: '23'
+  PCT: '.879'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Giordano
+  nameClub1: Michigan City
+  Pos: 3B
+  G: '18'
+  PO: '20'
+  A: '37'
+  E: '8'
+  DP: '4'
+  PCT: '.877'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Palmquist
+  nameClub1: Kokomo
+  Pos: 3B
+  G: '13'
+  PO: '7'
+  A: '21'
+  E: '4'
+  DP: '0'
+  PCT: '.875'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gottschalk
+  nameClub1: Mattoon
+  Pos: 3B
+  G: '47'
+  PO: '60'
+  A: '83'
+  E: '22'
+  DP: '12'
+  PCT: '.867'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gram
+  nameClub1: Clinton
+  Pos: 3B
+  G: '19'
+  PO: '13'
+  A: '51'
+  E: '10'
+  DP: '9'
+  PCT: '.865'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Brown
+  nameClub1: Dubuque
+  Pos: 3B
+  G: '34'
+  PO: '44'
+  A: '64'
+  E: '21'
+  DP: '6'
+  PCT: '.837'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Stewart
+  nameClub1: Clinton
+  Pos: SS
+  G: '82'
+  PO: '120'
+  A: '181'
+  E: '18'
+  DP: '34'
+  PCT: '.944'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: McDougal
+  nameClub1: Michigan City
+  Pos: SS
+  G: '19'
+  PO: '31'
+  A: '37'
+  E: '5'
+  DP: '8'
+  PCT: '.932'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Yoder
+  nameClub1: Kokomo
+  Pos: SS
+  G: '43'
+  PO: '61'
+  A: '99'
+  E: '12'
+  DP: '21'
+  PCT: '.930'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Costa
+  nameClub1: Michigan City
+  Pos: SS
+  G: '90'
+  PO: '121'
+  A: '266'
+  E: '31'
+  DP: '55'
+  PCT: '.926'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Stanton
+  nameClub1: Michigan City
+  Pos: SS
+  G: '19'
+  PO: '28'
+  A: '46'
+  E: '6'
+  DP: '7'
+  PCT: '.925'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Robinson
+  nameClub1: Mattoon
+  Pos: SS
+  G: '47'
+  PO: '84'
+  A: '116'
+  E: '17'
+  DP: '21'
+  PCT: '.922'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Chinchak
+  nameClub1: Decatur
+  Pos: SS
+  G: '116'
+  PO: '168'
+  A: '274'
+  E: '39'
+  DP: '61'
+  PCT: '.919'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: DeSilva
+  nameClub1: Lafayette
+  Pos: SS
+  G: '123'
+  PO: '182'
+  A: '320'
+  E: '49'
+  DP: '60'
+  PCT: '.911'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Olley
+  nameClub1: Mattoon
+  Pos: SS
+  G: '71'
+  PO: '107'
+  A: '176'
+  E: '29'
+  DP: '44'
+  PCT: '.907'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Connors
+  nameClub1: Paris
+  Pos: SS
+  G: '87'
+  PO: '149'
+  A: '208'
+  E: '37'
+  DP: '43'
+  PCT: '.906'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Klyczek
+  nameClub1: Dubuque
+  Pos: SS
+  G: '110'
+  PO: '169'
+  A: '289'
+  E: '52'
+  DP: '52'
+  PCT: '.898'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Noga
+  nameClub1: Dubuque
+  Pos: SS
+  G: '11'
+  PO: '20'
+  A: '40'
+  E: '7'
+  DP: '6'
+  PCT: '.896'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Mattachione
+  nameClub1: Paris
+  Pos: SS
+  G: '39'
+  PO: '62'
+  A: '79'
+  E: '19'
+  DP: '19'
+  PCT: '.881'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Ritzheimer
+  nameClub1: Kokomo
+  Pos: SS
+  G: '43'
+  PO: '76'
+  A: '104'
+  E: '27'
+  DP: '25'
+  PCT: '.870'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Langer
+  nameClub1: Kokomo
+  Pos: SS
+  G: '16'
+  PO: '20'
+  A: '52'
+  E: '11'
+  DP: '9'
+  PCT: '.867'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schuler
+  nameClub1: Clinton
+  Pos: SS
+  G: '43'
+  PO: '67'
+  A: '108'
+  E: '27'
+  DP: '15'
+  PCT: '.866'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Purbaugh
+  nameClub1: Kokomo
+  Pos: SS
+  G: '22'
+  PO: '26'
+  A: '48'
+  E: '14'
+  DP: '7'
+  PCT: '.841'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Williams
+  nameClub1: Clinton
+  Pos: OF
+  G: '14'
+  PO: '21'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Davis
+  nameClub1: Paris
+  Pos: OF
+  G: '10'
+  PO: '10'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Stanton
+  nameClub1: Michigan City
+  Pos: OF
+  G: '60'
+  PO: '108'
+  A: '11'
+  E: '2'
+  DP: '3'
+  PCT: '.983'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Humber
+  nameClub1: Clinton
+  Pos: OF
+  G: '78'
+  PO: '160'
+  A: '7'
+  E: '4'
+  DP: '3'
+  PCT: '.977'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Reichert
+  nameClub1: Dubuque
+  Pos: OF
+  G: '77'
+  PO: '122'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.976'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Miller
+  nameFirst: W.
+  nameClub1: Decatur
+  Pos: OF
+  G: '49'
+  PO: '63'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Sasek
+  nameClub1: Kokomo
+  Pos: OF
+  G: '64'
+  PO: '113'
+  A: '12'
+  E: '4'
+  DP: '1'
+  PCT: '.969'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Duval
+  nameClub1: Lafayette
+  Pos: OF
+  G: '34'
+  PO: '55'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.968'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Rader
+  nameClub1: Michigan City
+  Pos: OF
+  G: '14'
+  PO: '22'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: McDougal
+  nameClub1: Michigan City
+  Pos: OF
+  G: '91'
+  PO: '179'
+  A: '18'
+  E: '9'
+  DP: '2'
+  PCT: '.956'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Watts
+  nameClub1: Dubuque
+  throws: L
+  Pos: OF
+  G: '122'
+  PO: '260'
+  A: '14'
+  E: '13'
+  DP: '4'
+  PCT: '.955'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Handley
+  nameClub1: Paris
+  Pos: OF
+  G: '113'
+  PO: '274'
+  A: '19'
+  E: '14'
+  DP: '4'
+  PCT: '.954'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schmitt
+  nameClub1: Decatur
+  Pos: OF
+  G: '127'
+  PO: '278'
+  A: '15'
+  E: '14'
+  DP: '2'
+  PCT: '.954'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Suttlemyre
+  nameClub1: Mattoon
+  Pos: OF
+  G: '98'
+  PO: '177'
+  A: '12'
+  E: '10'
+  DP: '1'
+  PCT: '.950'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Wilkins
+  nameClub1: Clinton
+  Pos: OF
+  G: '102'
+  PO: '150'
+  A: '17'
+  E: '9'
+  DP: '1'
+  PCT: '.949'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gordon
+  nameClub1: Dubuque
+  Pos: OF
+  G: '53'
+  PO: '84'
+  A: '8'
+  E: '5'
+  DP: '2'
+  PCT: '.948'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Paddock
+  nameClub1: Paris
+  Pos: OF
+  G: '99'
+  PO: '211'
+  A: '10'
+  E: '13'
+  DP: '2'
+  PCT: '.944'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bafus
+  nameClub1: Kokomo
+  Pos: OF
+  G: '22'
+  PO: '28'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.944'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bower
+  nameClub1: Lafayette
+  Pos: OF
+  G: '12'
+  PO: '13'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Miles
+  nameClub1: Kokomo
+  throws: L
+  Pos: OF
+  G: '114'
+  PO: '212'
+  A: '6'
+  E: '14'
+  DP: '0'
+  PCT: '.940'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Cunningham
+  nameClub1: Decatur
+  throws: L
+  Pos: OF
+  G: '95'
+  PO: '179'
+  A: '9'
+  E: '12'
+  DP: '0'
+  PCT: '.940'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Logan
+  nameClub1: Mattoon
+  Pos: OF
+  G: '121'
+  PO: '230'
+  A: '18'
+  E: '16'
+  DP: '4'
+  PCT: '.939'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Johnson
+  nameClub1: Paris
+  Pos: OF
+  G: '120'
+  PO: '173'
+  A: '11'
+  E: '12'
+  DP: '3'
+  PCT: '.939'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Randall
+  nameClub1: Mattoon
+  Pos: OF
+  G: '20'
+  PO: '30'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Carmel
+  nameClub1: Decatur
+  throws: L
+  Pos: OF
+  G: '87'
+  PO: '135'
+  A: '15'
+  E: '10'
+  DP: '5'
+  PCT: '.938'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Morales
+  nameClub1: Clinton
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Fountain
+  nameClub1: Kokomo
+  Pos: OF
+  G: '23'
+  PO: '42'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.936'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Loustalet
+  nameClub1: Clinton
+  Pos: OF
+  G: '97'
+  PO: '159'
+  A: '12'
+  E: '12'
+  DP: '1'
+  PCT: '.934'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Long
+  nameClub1: Lafayette
+  Pos: OF
+  G: '94'
+  PO: '155'
+  A: '13'
+  E: '14'
+  DP: '2'
+  PCT: '.923'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: DiFerdinando
+  nameClub1: Lafayette
+  Pos: OF
+  G: '76'
+  PO: '168'
+  A: '15'
+  E: '16'
+  DP: '1'
+  PCT: '.920'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schwandt
+  nameClub1: Mattoon
+  Pos: OF
+  G: '30'
+  PO: '42'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.920'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: McLeod
+  nameClub1: Michigan City
+  Pos: OF
+  G: '29'
+  PO: '32'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: DiCrosta
+  nameClub1: Dubuque
+  nameClub2: Kokomo
+  throws: L
+  Pos: OF
+  G: '33'
+  PO: '47'
+  A: '7'
+  E: '5'
+  DP: '2'
+  PCT: '.915'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schrader
+  nameClub1: Michigan City
+  Pos: OF
+  G: '47'
+  PO: '57'
+  A: '7'
+  E: '6'
+  DP: '1'
+  PCT: '.914'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Palmquist
+  nameClub1: Kokomo
+  Pos: OF
+  G: '37'
+  PO: '44'
+  A: '9'
+  E: '5'
+  DP: '2'
+  PCT: '.914'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Brown
+  nameClub1: Dubuque
+  Pos: OF
+  G: '76'
+  PO: '126'
+  A: '9'
+  E: '13'
+  DP: '0'
+  PCT: '.912'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Copley
+  nameClub1: Clinton
+  throws: L
+  Pos: OF
+  G: '31'
+  PO: '60'
+  A: '1'
+  E: '6'
+  DP: '0'
+  PCT: '.910'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Jonietz
+  nameClub1: Mattoon
+  Pos: OF
+  G: '86'
+  PO: '128'
+  A: '12'
+  E: '14'
+  DP: '2'
+  PCT: '.909'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Zban
+  nameClub1: Michigan City
+  throws: L
+  Pos: OF
+  G: '37'
+  PO: '58'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.909'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hartman
+  nameClub1: Decatur
+  Pos: OF
+  G: '23'
+  PO: '19'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Cottrell
+  nameClub1: Lafayette
+  Pos: OF
+  G: '70'
+  PO: '101'
+  A: '5'
+  E: '11'
+  DP: '0'
+  PCT: '.906'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bretzing
+  nameClub1: Michigan City
+  Pos: OF
+  G: '54'
+  PO: '96'
+  A: '8'
+  E: '11'
+  DP: '0'
+  PCT: '.904'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Quinlan
+  nameClub1: Lafayette
+  Pos: OF
+  G: '20'
+  PO: '40'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.894'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Howell
+  nameClub1: Lafayette
+  Pos: OF
+  G: '14'
+  PO: '23'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.893'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Lind
+  nameClub1: Kokomo
+  Pos: OF
+  G: '49'
+  PO: '75'
+  A: '8'
+  E: '10'
+  DP: '2'
+  PCT: '.892'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Baum
+  nameClub1: Clinton
+  Pos: OF
+  G: '24'
+  PO: '33'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.892'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schmidt
+  nameClub1: Paris
+  Pos: OF
+  G: '33'
+  PO: '41'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.880'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Liprando
+  nameClub1: Lafayette
+  Pos: OF
+  G: '11'
+  PO: '14'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gilmore
+  nameClub1: Paris
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.875'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Franklin
+  nameClub1: Michigan City
+  throws: L
+  Pos: OF
+  G: '28'
+  PO: '26'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.833'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Moseley
+  nameClub1: Kokomo
+  Pos: OF
+  G: '13'
+  PO: '16'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.826'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Fenner
+  nameClub1: Clinton
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.800'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Nebron
+  nameClub1: Lafayette
+  Pos: OF
+  G: '30'
+  PO: '31'
+  A: '4'
+  E: '10'
+  DP: '0'
+  PCT: '.778'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Willison
+  nameClub1: Dubuque
+  Pos: OF
+  G: '29'
+  PO: '29'
+  A: '4'
+  E: '11'
+  DP: '0'
+  PCT: '.750'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Zayas
+  nameClub1: Michigan City
+  Pos: OF
+  G: '13'
+  PO: '11'
+  A: '2'
+  E: '6'
+  DP: '1'
+  PCT: '.684'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Atkinson
+  nameClub1: Lafayette
+  Pos: C
+  G: '20'
+  PO: '174'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PB: '3'
+  PCT: '.989'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Howard
+  nameClub1: Decatur
+  Pos: C
+  G: '30'
+  PO: '150'
+  A: '15'
+  E: '2'
+  DP: '3'
+  PB: '8'
+  PCT: '.988'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Shimfessel
+  nameClub1: Mattoon
+  Pos: C
+  G: '36'
+  PO: '248'
+  A: '11'
+  E: '4'
+  DP: '3'
+  PB: '13'
+  PCT: '.985'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bafus
+  nameClub1: Kokomo
+  Pos: C
+  G: '20'
+  PO: '113'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PB: '3'
+  PCT: '.984'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Butcher
+  nameClub1: Dubuque
+  Pos: C
+  G: '10'
+  PO: '55'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PB: '3'
+  PCT: '.984'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Haight
+  nameClub1: Clinton
+  Pos: C
+  G: '23'
+  PO: '181'
+  A: '14'
+  E: '4'
+  DP: '2'
+  PB: '12'
+  PCT: '.980'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Huber
+  nameClub1: Paris
+  Pos: C
+  G: '41'
+  PO: '255'
+  A: '28'
+  E: '6'
+  DP: '1'
+  PB: '13'
+  PCT: '.979'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Giordano
+  nameClub1: Michigan City
+  Pos: C
+  G: '43'
+  PO: '223'
+  A: '33'
+  E: '6'
+  DP: '2'
+  PB: '9'
+  PCT: '.977'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Murawski
+  nameClub1: Michigan City
+  Pos: C
+  G: '86'
+  PO: '527'
+  A: '68'
+  E: '15'
+  DP: '18'
+  PB: '13'
+  PCT: '.975'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Cannizzaro
+  nameClub1: Decatur
+  Pos: C
+  G: '38'
+  PO: '234'
+  A: '26'
+  E: '7'
+  DP: '3'
+  PB: '6'
+  PCT: '.974'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Theis
+  nameClub1: Lafayette
+  Pos: C
+  G: '89'
+  PO: '705'
+  A: '59'
+  E: '21'
+  DP: '9'
+  PB: '21'
+  PCT: '.973'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schmidt
+  nameClub1: Paris
+  Pos: C
+  G: '80'
+  PO: '482'
+  A: '53'
+  E: '15'
+  DP: '3'
+  PB: '17'
+  PCT: '.973'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Yaskowitz
+  nameClub1: Clinton
+  Pos: C
+  G: '58'
+  PO: '369'
+  A: '32'
+  E: '11'
+  DP: '2'
+  PB: '5'
+  PCT: '.973'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schaffer
+  nameClub1: Decatur
+  Pos: C
+  G: '57'
+  PO: '329'
+  A: '46'
+  E: '11'
+  DP: '9'
+  PB: '7'
+  PCT: '.972'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bower
+  nameClub1: Lafayette
+  Pos: C
+  G: '13'
+  PO: '101'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PB: '2'
+  PCT: '.972'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Pauletich
+  nameClub1: Dubuque
+  Pos: C
+  G: '32'
+  PO: '257'
+  A: '14'
+  E: '8'
+  DP: '2'
+  PB: '6'
+  PCT: '.971'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Drake
+  nameClub1: Decatur
+  Pos: C
+  G: '12'
+  PO: '89'
+  A: '9'
+  E: '3'
+  DP: '1'
+  PB: '3'
+  PCT: '.970'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Baum
+  nameClub1: Clinton
+  Pos: C
+  G: '51'
+  PO: '374'
+  A: '26'
+  E: '15'
+  DP: '6'
+  PB: '16'
+  PCT: '.964'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Aguillard
+  nameClub1: Paris
+  Pos: C
+  G: '12'
+  PO: '72'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PB: '2'
+  PCT: '.963'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Mikez
+  nameClub1: Dubuque
+  Pos: C
+  G: '69'
+  PO: '445'
+  A: '55'
+  E: '20'
+  DP: '9'
+  PB: '20'
+  PCT: '.962'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Smith
+  nameClub1: Kokomo
+  Pos: C
+  G: '56'
+  PO: '356'
+  A: '42'
+  E: '16'
+  DP: '5'
+  PB: '9'
+  PCT: '.961'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Collier
+  nameClub1: Mattoon
+  Pos: C
+  G: '45'
+  PO: '303'
+  A: '35'
+  E: '14'
+  DP: '6'
+  PB: '19'
+  PCT: '.960'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Lachemann
+  nameClub1: Kokomo
+  Pos: C
+  G: '56'
+  PO: '354'
+  A: '45'
+  E: '19'
+  DP: '6'
+  PB: '11'
+  PCT: '.955'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bornman
+  nameClub1: Mattoon
+  Pos: C
+  G: '51'
+  PO: '353'
+  A: '31'
+  E: '20'
+  DP: '3'
+  PB: '15'
+  PCT: '.950'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Scichili
+  nameClub1: Dubuque
+  Pos: C
+  G: '18'
+  PO: '100'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PB: '4'
+  PCT: '.939'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Kern
+  nameClub1: Dubuque
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '18'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Smrekar
+  nameClub1: Mattoon
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '16'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bauernfeind
+  nameClub1: Michigan City
+  Pos: P
+  G: '39'
+  PO: '0'
+  A: '20'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Verspohl
+  nameClub1: Kokomo
+  Pos: P
+  G: '18'
+  PO: '7'
+  A: '8'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Dokos
+  nameClub1: Lafayette
+  Pos: P
+  G: '15'
+  PO: '0'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Rayburn
+  nameClub1: Dubuque
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Han
+  nameClub1: Kokomo
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '7'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Pohlman
+  nameClub1: Dubuque
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '7'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Weaver
+  nameClub1: Dubuque
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Moses
+  nameClub1: Paris
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Soderstrom
+  nameClub1: Lafayette
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Augustiny
+  nameClub1: Mattoon
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bafus
+  nameClub1: Kokomo
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Pakes
+  nameClub1: Mattoon
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Miro
+  nameClub1: Clinton
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '14'
+  A: '52'
+  E: '1'
+  DP: '3'
+  PCT: '.985'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Groce
+  nameClub1: Decatur
+  Pos: P
+  G: '32'
+  PO: '10'
+  A: '52'
+  E: '1'
+  DP: '5'
+  PCT: '.984'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Alsop
+  nameClub1: Michigan City
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '43'
+  E: '1'
+  DP: '3'
+  PCT: '.979'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Picker
+  nameClub1: Kokomo
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '32'
+  E: '1'
+  DP: '3'
+  PCT: '.974'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Melia
+  nameClub1: Decatur
+  Pos: P
+  G: '37'
+  PO: '5'
+  A: '22'
+  E: '1'
+  DP: '1'
+  PCT: '.964'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Langan
+  nameClub1: Decatur
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Ritchie
+  nameClub1: Lafayette
+  Pos: P
+  G: '41'
+  PO: '4'
+  A: '20'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Mahaffey
+  nameClub1: Mattoon
+  Pos: P
+  G: '10'
+  PO: '5'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.960'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: O'Day
+  nameClub1: Lafayette
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Unzicker
+  nameClub1: Kokomo
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '13'
+  A: '39'
+  E: '3'
+  DP: '0'
+  PCT: '.945'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Serafini
+  nameClub1: Clinton
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Owens
+  nameClub1: Lafayette
+  Pos: P
+  G: '31'
+  PO: '2'
+  A: '30'
+  E: '2'
+  DP: '2'
+  PCT: '.941'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Perry
+  nameClub1: Michigan City
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.941'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Trout
+  nameClub1: Michigan City
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.941'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Mowbray
+  nameClub1: Mattoon
+  Pos: P
+  G: '25'
+  PO: '2'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Masley
+  nameClub1: Dubuque
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Kettle
+  nameClub1: Mattoon
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Wallace
+  nameClub1: Mattoon
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '32'
+  E: '3'
+  DP: '3'
+  PCT: '.932'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hartsfield
+  nameClub1: Michigan City
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '10'
+  E: '1'
+  DP: '3'
+  PCT: '.929'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Queen
+  nameClub1: Mattoon
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hicks
+  nameClub1: Decatur
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Shima
+  nameClub1: Mattoon
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '29'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Ghelfi
+  nameClub1: Decatur
+  Pos: P
+  G: '16'
+  PO: '5'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Perinis
+  nameClub1: Clinton
+  Pos: P
+  G: '20'
+  PO: '6'
+  A: '27'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Brown
+  nameClub1: Michigan City
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.917'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Rouse
+  nameClub1: Dubuque
+  Pos: P
+  G: '35'
+  PO: '15'
+  A: '35'
+  E: '5'
+  DP: '3'
+  PCT: '.909'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Brancato
+  nameClub1: Mattoon
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Riddell
+  nameClub1: Michigan City
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Thomas
+  nameClub1: Decatur
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '45'
+  E: '6'
+  DP: '2'
+  PCT: '.895'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Toledo
+  nameClub1: Kokomo
+  nameClub2: Michigan City
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '20'
+  E: '3'
+  DP: '0'
+  PCT: '.893'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Powers
+  nameClub1: Paris
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '34'
+  E: '5'
+  DP: '3'
+  PCT: '.891'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Cockroft
+  nameClub1: Dubuque
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '16'
+  E: '3'
+  DP: '3'
+  PCT: '.889'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Foreman
+  nameClub1: Decatur
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hobbie
+  nameClub1: Dubuque
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '25'
+  E: '4'
+  DP: '1'
+  PCT: '.886'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Mills
+  nameClub1: Kokomo
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '27'
+  E: '4'
+  DP: '0'
+  PCT: '.882'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Rollins
+  nameClub1: Paris
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '12'
+  E: '2'
+  DP: '2'
+  PCT: '.882'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schaffernoth
+  nameClub1: Paris
+  Pos: P
+  G: '31'
+  PO: '4'
+  A: '33'
+  E: '5'
+  DP: '0'
+  PCT: '.881'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: McLeod
+  nameClub1: Michigan City
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '20'
+  E: '3'
+  DP: '2'
+  PCT: '.880'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Freeman
+  nameClub1: Kokomo
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '37'
+  E: '6'
+  DP: '1'
+  PCT: '.872'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Luoni
+  nameClub1: Lafayette
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '23'
+  E: '4'
+  DP: '2'
+  PCT: '.871'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Andress
+  nameClub1: Clinton
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '18'
+  E: '3'
+  DP: '0'
+  PCT: '.870'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bithell
+  nameClub1: Decatur
+  Pos: P
+  G: '26'
+  PO: '1'
+  A: '12'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schammel
+  nameClub1: Clinton
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '10'
+  E: '2'
+  DP: '1'
+  PCT: '.867'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Weilbaecker
+  nameClub1: Mattoon
+  Pos: P
+  G: '26'
+  PO: '2'
+  A: '17'
+  E: '3'
+  DP: '1'
+  PCT: '.864'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Robarge
+  nameClub1: Lafayette
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '25'
+  E: '5'
+  DP: '0'
+  PCT: '.861'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Murphy
+  nameClub1: Paris
+  Pos: P
+  G: '32'
+  PO: '18'
+  A: '31'
+  E: '8'
+  DP: '2'
+  PCT: '.860'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Willison
+  nameClub1: Dubuque
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.857'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Smith
+  nameClub1: Lafayette
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '3'
+  A: '26'
+  E: '5'
+  DP: '2'
+  PCT: '.853'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Bauta
+  nameClub1: Clinton
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PCT: '.850'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Stallard
+  nameClub1: Lafayette
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '13'
+  E: '3'
+  DP: '0'
+  PCT: '.833'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Glidewell
+  nameClub1: Dubuque
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '13'
+  E: '3'
+  DP: '0'
+  PCT: '.833'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Hagler
+  nameClub1: Michigan City
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Balderas
+  nameClub1: Paris
+  nameClub2: Michigan City
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Juhay
+  nameClub1: Mattoon
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '17'
+  E: '4'
+  DP: '0'
+  PCT: '.826'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Ross
+  nameClub1: Dubuque
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '10'
+  E: '3'
+  DP: '2'
+  PCT: '.824'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Odegard
+  nameClub1: Clinton
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '18'
+  E: '5'
+  DP: '2'
+  PCT: '.821'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Broughton
+  nameClub1: Clinton
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '23'
+  E: '7'
+  DP: '2'
+  PCT: '.800'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Zayas
+  nameClub1: Michigan City
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '10'
+  E: '3'
+  DP: '2'
+  PCT: '.800'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Schneider
+  nameClub1: Decatur
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '12'
+  E: '4'
+  DP: '0'
+  PCT: '.789'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Searcy
+  nameClub1: Clinton
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+- year: '1956'
+  nameLeague: Midwest League
+  nameLast: Gilmore
+  nameClub1: Paris
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '17'
+  E: '10'
+  DP: '1'
+  PCT: '.677'

@@ -1,0 +1,72 @@
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: Grand Island
+  phase: regular
+  W: '33'
+  L: '22'
+  T: '0'
+  PCT: '.600'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: Holdrege
+  phase: regular
+  W: '33'
+  L: '23'
+  T: '0'
+  PCT: '.589'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: Lexington
+  phase: regular
+  W: '33'
+  L: '23'
+  T: '0'
+  PCT: '.589'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: Kearney
+  phase: regular
+  W: '30'
+  L: '26'
+  T: '0'
+  PCT: '.536'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: Hastings
+  phase: regular
+  W: '29'
+  L: '26'
+  T: '0'
+  PCT: '.527'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: McCook
+  phase: regular
+  W: '27'
+  L: '29'
+  T: '0'
+  PCT: '.482'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: Superior
+  phase: regular
+  W: '27'
+  L: '29'
+  T: '0'
+  PCT: '.482'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Nebraska State League
+  nameClub: North Platte
+  phase: regular
+  W: '11'
+  L: '45'
+  T: '0'
+  PCT: '.196'
+  RANK: '8'

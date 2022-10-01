@@ -1,0 +1,66 @@
+- year: '1946'
+  nameLeague: California League
+  nameClub: Stockton
+  G: '130'
+  DP: '114'
+  TP: '1'
+  PB: '13'
+  PO: '3379'
+  A: '1482'
+  E: '273'
+  PCT: '.947'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Modesto
+  G: '130'
+  DP: '92'
+  TP: '0'
+  PB: '39'
+  PO: '3316'
+  A: '1561'
+  E: '289'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Bakersfield
+  G: '130'
+  DP: '84'
+  TP: '0'
+  PB: '46'
+  PO: '3352'
+  A: '1397'
+  E: '328'
+  PCT: '.935'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Fresno
+  G: '130'
+  DP: '104'
+  TP: '0'
+  PB: '28'
+  PO: '3346'
+  A: '1523'
+  E: '353'
+  PCT: '.932'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  G: '130'
+  DP: '101'
+  TP: '0'
+  PB: '44'
+  PO: '3374'
+  A: '1410'
+  E: '379'
+  PCT: '.927'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Visalia
+  G: '130'
+  DP: '73'
+  TP: '0'
+  PB: '29'
+  PO: '3269'
+  A: '1426'
+  E: '383'
+  PCT: '.925'

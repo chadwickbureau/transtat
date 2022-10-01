@@ -1,0 +1,48 @@
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  Nuevo Laredo: '13'
+  Mexico City Reds: '7'
+  Veracruz: '11'
+  Monterrey: '13'
+  Yucatan: '11'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  Mexico City Tigers: '9'
+  Mexico City Reds: '10'
+  Veracruz: '12'
+  Monterrey: '12'
+  Yucatan: '10'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  Mexico City Tigers: '13'
+  Nuevo Laredo: '10'
+  Veracruz: '10'
+  Monterrey: '8'
+  Yucatan: '11'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Veracruz
+  Mexico City Tigers: '9'
+  Nuevo Laredo: '8'
+  Mexico City Reds: '10'
+  Monterrey: '10'
+  Yucatan: '15'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  Mexico City Tigers: '7'
+  Nuevo Laredo: '8'
+  Mexico City Reds: '12'
+  Veracruz: '10'
+  Yucatan: '9'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  Mexico City Tigers: '9'
+  Nuevo Laredo: '10'
+  Mexico City Reds: '9'
+  Veracruz: '5'
+  Monterrey: '11'

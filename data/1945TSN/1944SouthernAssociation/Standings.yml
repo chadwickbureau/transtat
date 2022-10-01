@@ -1,0 +1,158 @@
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular/first
+  W: '41'
+  L: '26'
+  T: '1'
+  PCT: '.612'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular/first
+  W: '41'
+  L: '28'
+  T: '0'
+  PCT: '.594'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular/first
+  W: '40'
+  L: '31'
+  T: '0'
+  PCT: '.563'
+  RANK: '3'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular/first
+  W: '37'
+  L: '32'
+  T: '1'
+  PCT: '.536'
+  RANK: '4'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular/first
+  W: '32'
+  L: '36'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: regular/first
+  W: '31'
+  L: '36'
+  T: '0'
+  PCT: '.463'
+  RANK: '6'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular/first
+  W: '28'
+  L: '36'
+  T: '0'
+  PCT: '.438'
+  RANK: '7'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular/first
+  W: '19'
+  L: '44'
+  T: '0'
+  PCT: '.302'
+  RANK: '8'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular/second
+  W: '47'
+  L: '25'
+  T: '0'
+  PCT: '.653'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular/second
+  W: '45'
+  L: '25'
+  T: '0'
+  PCT: '.643'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular/second
+  W: '43'
+  L: '29'
+  T: '0'
+  PCT: '.597'
+  RANK: '3'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular/second
+  W: '38'
+  L: '39'
+  T: '1'
+  PCT: '.494'
+  RANK: '4'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: regular/second
+  W: '32'
+  L: '38'
+  T: '0'
+  PCT: '.457'
+  RANK: '5'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular/second
+  W: '26'
+  L: '41'
+  T: '1'
+  PCT: '.388'
+  RANK: '6'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular/second
+  W: '27'
+  L: '43'
+  T: '0'
+  PCT: '.386'
+  RANK: '7'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular/second
+  W: '29'
+  L: '47'
+  T: '0'
+  PCT: '.382'
+  RANK: '8'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

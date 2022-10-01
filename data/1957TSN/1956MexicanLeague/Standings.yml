@@ -1,0 +1,48 @@
+- year: '1956'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  W: '83'
+  L: '37'
+  T: '3'
+  PCT: '.692'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  W: '73'
+  L: '45'
+  T: '1'
+  PCT: '.619'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  W: '55'
+  L: '63'
+  T: '3'
+  PCT: '.466'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Mexican League
+  nameClub: Veracruz
+  W: '54'
+  L: '66'
+  T: '4'
+  PCT: '.450'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  W: '51'
+  L: '69'
+  T: '3'
+  PCT: '.425'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  W: '42'
+  L: '78'
+  T: '2'
+  PCT: '.350'
+  RANK: '6'

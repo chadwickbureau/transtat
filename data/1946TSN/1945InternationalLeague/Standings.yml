@@ -1,0 +1,110 @@
+- year: '1945'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '95'
+  L: '58'
+  PCT: '.621'
+  RANK: '1'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Newark
+  phase: regular
+  W: '89'
+  L: '64'
+  PCT: '.582'
+  RANK: '2'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '85'
+  L: '67'
+  PCT: '.559'
+  RANK: '3'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: regular
+  W: '80'
+  L: '73'
+  PCT: '.523'
+  RANK: '4'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Jersey City
+  phase: regular
+  W: '71'
+  L: '82'
+  PCT: '.464'
+  RANK: '5'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '64'
+  L: '89'
+  PCT: '.418'
+  RANK: '6'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '64'
+  L: '89'
+  PCT: '.418'
+  RANK: '6'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '64'
+  L: '90'
+  PCT: '.416'
+  RANK: '8'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Newark
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Newark
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

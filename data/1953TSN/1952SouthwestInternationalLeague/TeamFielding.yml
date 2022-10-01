@@ -1,0 +1,66 @@
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Mexicali
+  G: '132'
+  DP: '109'
+  PB: '30'
+  PO: '3438'
+  A: '1465'
+  E: '273'
+  PCT: '.947'
+  TP: '0'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Tijuana
+  G: '136'
+  DP: '134'
+  PB: '34'
+  PO: '3581'
+  A: '1388'
+  E: '298'
+  PCT: '.943'
+  TP: '2'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Las Vegas
+  G: '141'
+  DP: '104'
+  PB: '40'
+  PO: '3645'
+  A: '1497'
+  E: '329'
+  PCT: '.939'
+  TP: '0'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Yuma
+  G: '132'
+  DP: '107'
+  PB: '39'
+  PO: '3456'
+  A: '1190'
+  E: '332'
+  PCT: '.933'
+  TP: '1'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Porterville
+  G: '102'
+  DP: '94'
+  PB: '33'
+  PO: '2646'
+  A: '1030'
+  E: '292'
+  PCT: '.926'
+  TP: '0'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: El Centro
+  G: '87'
+  DP: '71'
+  PB: '40'
+  PO: '2228'
+  A: '802'
+  E: '255'
+  PCT: '.923'
+  TP: '0'

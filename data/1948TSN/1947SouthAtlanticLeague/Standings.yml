@@ -1,0 +1,124 @@
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular
+  W: '88'
+  L: '65'
+  T: '1'
+  PCT: '.578'
+  RANK: '1'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular
+  W: '85'
+  L: '66'
+  T: '1'
+  PCT: '.563'
+  RANK: '2'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Charleston
+  phase: regular
+  W: '83'
+  L: '69'
+  T: '1'
+  PCT: '.546'
+  RANK: '3'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular
+  W: '81'
+  L: '69'
+  T: '2'
+  PCT: '.540'
+  RANK: '4'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Greenville
+  phase: regular
+  W: '77'
+  L: '77'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular
+  W: '70'
+  L: '82'
+  T: '1'
+  PCT: '.461'
+  RANK: '6'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular
+  W: '66'
+  L: '87'
+  T: '0'
+  PCT: '.431'
+  RANK: '7'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular
+  W: '59'
+  L: '94'
+  T: '0'
+  PCT: '.386'
+  RANK: '8'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Charleston
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

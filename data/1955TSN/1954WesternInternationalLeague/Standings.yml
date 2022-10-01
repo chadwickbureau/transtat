@@ -1,0 +1,236 @@
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular/first
+  W: '42'
+  L: '24'
+  PCT: '.636'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: regular/first
+  W: '30'
+  L: '24'
+  PCT: '.556'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular/first
+  W: '39'
+  L: '32'
+  PCT: '.549'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Edmonton
+  phase: regular/first
+  W: '33'
+  L: '28'
+  PCT: '.541'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Lewiston
+  phase: regular/first
+  W: '33'
+  L: '35'
+  PCT: '.485'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Tri-City
+  phase: regular/first
+  W: '34'
+  L: '38'
+  PCT: '.472'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Victoria
+  phase: regular/first
+  W: '31'
+  L: '37'
+  PCT: '.456'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: regular/first
+  W: '33'
+  L: '40'
+  PCT: '.452'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular/first
+  W: '32'
+  L: '40'
+  PCT: '.444'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Calgary
+  phase: regular/first
+  W: '19'
+  L: '28'
+  PCT: '.404'
+  RANK: '10'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Lewiston
+  phase: regular/second
+  W: '44'
+  L: '26'
+  PCT: '.629'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular/second
+  W: '41'
+  L: '25'
+  PCT: '.621'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: regular/second
+  W: '38'
+  L: '26'
+  PCT: '.594'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular/second
+  W: '32'
+  L: '25'
+  PCT: '.561'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Victoria
+  phase: regular/second
+  W: '11'
+  L: '12'
+  PCT: '.478'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Edmonton
+  phase: regular/second
+  W: '29'
+  L: '35'
+  PCT: '.453'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular/second
+  W: '22'
+  L: '40'
+  PCT: '.355'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Tri-City
+  phase: regular/second
+  W: '22'
+  L: '43'
+  PCT: '.338'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular
+  W: '74'
+  L: '49'
+  T: '0'
+  PCT: '.602'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular
+  W: '80'
+  L: '57'
+  T: '0'
+  PCT: '.584'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Lewiston
+  phase: regular
+  W: '77'
+  L: '61'
+  T: '2'
+  PCT: '.558'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: regular
+  W: '30'
+  L: '24'
+  T: '0'
+  PCT: '.556'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: regular
+  W: '71'
+  L: '66'
+  T: '0'
+  PCT: '.518'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Edmonton
+  phase: regular
+  W: '62'
+  L: '63'
+  T: '0'
+  PCT: '.496'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Victoria
+  phase: regular
+  W: '42'
+  L: '49'
+  T: '0'
+  PCT: '.462'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Tri-City
+  phase: regular
+  W: '56'
+  L: '81'
+  T: '1'
+  PCT: '.409'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Calgary
+  phase: regular
+  W: '19'
+  L: '28'
+  T: '0'
+  PCT: '.404'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular
+  W: '54'
+  L: '80'
+  T: '1'
+  PCT: '.403'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: final
+  W: '4'
+  L: '0'
+- year: '1954'
+  nameLeague: Western International League
+  nameClub: Lewiston
+  phase: final
+  W: '0'
+  L: '4'

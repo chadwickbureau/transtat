@@ -1,0 +1,254 @@
+- year: '1957'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular/first
+  W: '43'
+  L: '24'
+  T: '0'
+  PCT: '.642'
+  RANK: '1'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular/first
+  W: '45'
+  L: '27'
+  T: '0'
+  PCT: '.625'
+  RANK: '2'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular/first
+  W: '39'
+  L: '34'
+  T: '0'
+  PCT: '.534'
+  RANK: '3'
+- year: '1957'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular/first
+  W: '36'
+  L: '33'
+  T: '0'
+  PCT: '.522'
+  RANK: '4'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular/first
+  W: '35'
+  L: '35'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular/first
+  W: '33'
+  L: '40'
+  T: '0'
+  PCT: '.452'
+  RANK: '6'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular/first
+  W: '27'
+  L: '44'
+  T: '0'
+  PCT: '.380'
+  RANK: '7'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular/first
+  W: '26'
+  L: '47'
+  T: '0'
+  PCT: '.356'
+  RANK: '8'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular/second
+  W: '41'
+  L: '27'
+  T: '0'
+  PCT: '.603'
+  RANK: '1'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular/second
+  W: '36'
+  L: '31'
+  T: '0'
+  PCT: '.537'
+  RANK: '2'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular/second
+  W: '35'
+  L: '32'
+  T: '0'
+  PCT: '.522'
+  RANK: '3'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular/second
+  W: '34'
+  L: '32'
+  T: '0'
+  PCT: '.515'
+  RANK: '4'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular/second
+  W: '33'
+  L: '32'
+  T: '0'
+  PCT: '.508'
+  RANK: '5'
+- year: '1957'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular/second
+  W: '31'
+  L: '35'
+  T: '0'
+  PCT: '.470'
+  RANK: '6'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular/second
+  W: '31'
+  L: '35'
+  T: '0'
+  PCT: '.470'
+  RANK: '6'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular/second
+  W: '25'
+  L: '42'
+  T: '0'
+  PCT: '.373'
+  RANK: '8'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '84'
+  L: '51'
+  T: '0'
+  PCT: '.622'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular
+  W: '79'
+  L: '59'
+  T: '0'
+  PCT: '.572'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '75'
+  L: '65'
+  T: '0'
+  PCT: '.536'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular
+  W: '68'
+  L: '67'
+  T: '0'
+  PCT: '.504'
+- year: '1957'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular
+  W: '67'
+  L: '68'
+  T: '0'
+  PCT: '.496'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '64'
+  L: '75'
+  T: '0'
+  PCT: '.460'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '61'
+  L: '79'
+  T: '0'
+  PCT: '.436'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '52'
+  L: '86'
+  T: '0'
+  PCT: '.377'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Reno
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1957'
+  nameLeague: California League
+  nameClub: Reno
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

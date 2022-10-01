@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  G: '147'
+  DP: '170'
+  PB: '15'
+  PO: '3857'
+  A: '1737'
+  E: '195'
+  PCT: '.966'
+  TP: '2'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Temple
+  G: '147'
+  DP: '116'
+  PB: '23'
+  PO: '3816'
+  A: '1511'
+  E: '215'
+  PCT: '.961'
+  TP: '0'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Gainesville
+  G: '149'
+  DP: '136'
+  PB: '15'
+  PO: '3845'
+  A: '1703'
+  E: '229'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Austin
+  G: '148'
+  DP: '169'
+  PB: '19'
+  PO: '3906'
+  A: '1745'
+  E: '247'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Greenville
+  G: '149'
+  DP: '128'
+  PB: '14'
+  PO: '3859'
+  A: '1679'
+  E: '244'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Sherman-Denison
+  G: '148'
+  DP: '143'
+  PB: '25'
+  PO: '3827'
+  A: '1729'
+  E: '257'
+  PCT: '.956'
+  TP: '0'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  G: '148'
+  DP: '185'
+  PB: '23'
+  PO: '3940'
+  A: '1616'
+  E: '259'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Waco
+  G: '148'
+  DP: '136'
+  PB: '24'
+  PO: '3862'
+  A: '1540'
+  E: '262'
+  PCT: '.954'
+  TP: '0'

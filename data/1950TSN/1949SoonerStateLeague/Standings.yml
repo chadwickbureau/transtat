@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Pauls Valley
+  phase: regular
+  W: '88'
+  L: '52'
+  T: '0'
+  PCT: '.629'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  phase: regular
+  W: '87'
+  L: '52'
+  T: '2'
+  PCT: '.626'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Chickasha
+  phase: regular
+  W: '78'
+  L: '61'
+  T: '1'
+  PCT: '.561'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Ada
+  phase: regular
+  W: '69'
+  L: '70'
+  T: '4'
+  PCT: '.497'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Duncan
+  phase: regular
+  W: '65'
+  L: '74'
+  T: '0'
+  PCT: '.468'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: McAlester
+  phase: regular
+  W: '58'
+  L: '82'
+  T: '3'
+  PCT: '.414'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  phase: regular
+  W: '57'
+  L: '81'
+  T: '0'
+  PCT: '.413'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Seminole
+  phase: regular
+  W: '54'
+  L: '84'
+  T: '0'
+  PCT: '.391'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Pauls Valley
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Ada
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Chickasha
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Sooner State League
+  nameClub: Pauls Valley
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

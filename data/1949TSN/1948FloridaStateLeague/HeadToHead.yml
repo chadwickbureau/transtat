@@ -1,0 +1,80 @@
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  Daytona Beach: '12'
+  Gainesville: '11'
+  Sanford: '13'
+  St. Augustine: '12'
+  Leesburg: '12'
+  DeLand: '16'
+  Palatka: '14'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  Orlando: '8'
+  Gainesville: '13'
+  Sanford: '11'
+  St. Augustine: '11'
+  Leesburg: '14'
+  DeLand: '11'
+  Palatka: '17'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  Orlando: '9'
+  Daytona Beach: '7'
+  Sanford: '9'
+  St. Augustine: '14'
+  Leesburg: '13'
+  DeLand: '15'
+  Palatka: '10'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  Orlando: '7'
+  Daytona Beach: '7'
+  Gainesville: '11'
+  St. Augustine: '13'
+  Leesburg: '12'
+  DeLand: '11'
+  Palatka: '13'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  Orlando: '8'
+  Daytona Beach: '9'
+  Gainesville: '6'
+  Sanford: '7'
+  Leesburg: '11'
+  DeLand: '15'
+  Palatka: '15'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  Orlando: '8'
+  Daytona Beach: '6'
+  Gainesville: '7'
+  Sanford: '8'
+  St. Augustine: '9'
+  DeLand: '11'
+  Palatka: '11'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  Orlando: '4'
+  Daytona Beach: '9'
+  Gainesville: '5'
+  Sanford: '9'
+  St. Augustine: '5'
+  Leesburg: '9'
+  Palatka: '9'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  Orlando: '6'
+  Daytona Beach: '3'
+  Gainesville: '10'
+  Sanford: '7'
+  St. Augustine: '5'
+  Leesburg: '6'
+  DeLand: '11'

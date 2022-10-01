@@ -1,0 +1,66 @@
+- year: '1937'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Clinton
+  G: '111'
+  DP: '70'
+  PB: '35'
+  PO: '2831'
+  A: '1177'
+  E: '188'
+  PCT: '.955'
+  TP: '0'
+- year: '1937'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Bloomington
+  G: '59'
+  DP: '31'
+  PB: '11'
+  PO: '1487'
+  A: '630'
+  E: '110'
+  PCT: '.951'
+  TP: '0'
+- year: '1937'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Moline
+  G: '115'
+  DP: '90'
+  PB: '18'
+  PO: '3003'
+  A: '1248'
+  E: '237'
+  PCT: '.947'
+  TP: '1'
+- year: '1937'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  G: '111'
+  DP: '76'
+  PB: '29'
+  PO: '2800'
+  A: '1222'
+  E: '246'
+  PCT: '.942'
+  TP: '1'
+- year: '1937'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Decatur
+  G: '137'
+  DP: '73'
+  PB: '38'
+  PO: '2953'
+  A: '1158'
+  E: '271'
+  PCT: '.938'
+  TP: '0'
+- year: '1937'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  G: '53'
+  DP: '29'
+  PB: '6'
+  PO: '1298'
+  A: '509'
+  E: '127'
+  PCT: '.934'
+  TP: '0'

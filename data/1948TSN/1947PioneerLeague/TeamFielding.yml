@@ -1,0 +1,66 @@
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  G: '137'
+  DP: '108'
+  TP: '0'
+  PB: '10'
+  PO: '3573'
+  A: '1558'
+  E: '253'
+  PCT: '.953'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  G: '138'
+  DP: '114'
+  TP: '0'
+  PB: '10'
+  PO: '3604'
+  A: '1577'
+  E: '277'
+  PCT: '.949'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  G: '139'
+  DP: '100'
+  TP: '0'
+  PB: '14'
+  PO: '3665'
+  A: '1530'
+  E: '281'
+  PCT: '.949'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  G: '138'
+  DP: '119'
+  TP: '1'
+  PB: '15'
+  PO: '3568'
+  A: '1480'
+  E: '276'
+  PCT: '.948'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  G: '138'
+  DP: '108'
+  TP: '0'
+  PB: '26'
+  PO: '3611'
+  A: '1522'
+  E: '314'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  G: '140'
+  DP: '113'
+  TP: '1'
+  PB: '19'
+  PO: '3556'
+  A: '1513'
+  E: '360'
+  PCT: '.931'

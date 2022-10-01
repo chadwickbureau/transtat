@@ -1,0 +1,1486 @@
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Munns
+  nameFirst: L. J.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '2'
+  AB: '7'
+  R: '3'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  RBI: '1'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  SO: '0'
+  AVG: '.571'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Rudolph
+  nameFirst: E.
+  nameClub1: Superior
+  bats: L
+  G: '2'
+  AB: '7'
+  R: '2'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  RBI: '1'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  SO: '0'
+  AVG: '.571'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Vucinovich
+  nameFirst: John
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '6'
+  AB: '20'
+  R: '4'
+  H: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  RBI: '1'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  SO: '1'
+  AVG: '.500'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Gilbert
+  nameFirst: W. J.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '16'
+  AB: '57'
+  R: '15'
+  H: '26'
+  H2B: '8'
+  H3B: '0'
+  HR: '0'
+  TB: '34'
+  RBI: '18'
+  SH: '0'
+  SB: '6'
+  BB: '12'
+  SO: '1'
+  AVG: '.456'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Hovanec
+  nameFirst: J. J.
+  nameClub1: Superior
+  bats: L
+  G: '8'
+  AB: '26'
+  R: '5'
+  H: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  RBI: '8'
+  SH: '1'
+  SB: '1'
+  BB: '8'
+  SO: '6'
+  AVG: '.423'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Shonts
+  nameFirst: Jos.
+  nameClub1: Duluth Heralds
+  bats: L
+  G: '16'
+  AB: '65'
+  R: '17'
+  H: '26'
+  H2B: '6'
+  H3B: '3'
+  HR: '1'
+  TB: '41'
+  RBI: '13'
+  SH: '0'
+  SB: '5'
+  BB: '5'
+  SO: '5'
+  AVG: '.400'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Farrell
+  nameFirst: E. M.
+  nameClub1: Superior
+  bats: R
+  G: '14'
+  AB: '48'
+  R: '11'
+  H: '19'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '20'
+  RBI: '7'
+  SH: '1'
+  SB: '3'
+  BB: '15'
+  SO: '8'
+  AVG: '.396'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Gettler
+  nameFirst: Robert
+  nameClub1: Duluth Heralds
+  bats: L
+  G: '6'
+  AB: '21'
+  R: '3'
+  H: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  RBI: '2'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  SO: '4'
+  AVG: '.381'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Norlander
+  nameFirst: John
+  nameClub1: Duluth Dukes
+  bats: L
+  G: '17'
+  AB: '69'
+  R: '10'
+  H: '26'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  TB: '39'
+  RBI: '16'
+  SH: '2'
+  SB: '1'
+  BB: '7'
+  SO: '9'
+  AVG: '.377'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Schroeder
+  nameFirst: J. P.
+  nameClub1: Superior
+  bats: R
+  G: '19'
+  AB: '72'
+  R: '21'
+  H: '27'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '32'
+  RBI: '23'
+  SH: '0'
+  SB: '10'
+  BB: '15'
+  SO: '5'
+  AVG: '.375'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Stemig
+  nameFirst: Ade
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '8'
+  AB: '32'
+  R: '11'
+  H: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '14'
+  RBI: '8'
+  SH: '0'
+  SB: '4'
+  BB: '4'
+  SO: '5'
+  AVG: '.375'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kresal
+  nameFirst: Elwood
+  nameClub1: Duluth Heralds
+  bats: L
+  G: '16'
+  AB: '54'
+  R: '14'
+  H: '19'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '23'
+  RBI: '16'
+  SH: '1'
+  SB: '1'
+  BB: '11'
+  SO: '8'
+  AVG: '.352'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Seltz
+  nameFirst: R.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '15'
+  AB: '63'
+  R: '15'
+  H: '22'
+  H2B: '1'
+  H3B: '4'
+  HR: '0'
+  TB: '31'
+  RBI: '14'
+  SH: '0'
+  SB: '9'
+  BB: '11'
+  SO: '9'
+  AVG: '.349'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Westergard
+  nameFirst: V.
+  nameClub1: Superior
+  bats: R
+  G: '12'
+  AB: '44'
+  R: '13'
+  H: '15'
+  H2B: '3'
+  H3B: '3'
+  HR: '0'
+  TB: '24'
+  RBI: '17'
+  SH: '1'
+  SB: '3'
+  BB: '7'
+  SO: '7'
+  AVG: '.341'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Downs
+  nameFirst: E. H.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '18'
+  AB: '71'
+  R: '17'
+  H: '24'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '29'
+  RBI: '13'
+  SH: '0'
+  SB: '7'
+  BB: '13'
+  SO: '10'
+  AVG: '.338'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Hicks
+  nameFirst: F. W.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '16'
+  AB: '63'
+  R: '12'
+  H: '21'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  TB: '28'
+  RBI: '10'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  SO: '15'
+  AVG: '.333'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Conito
+  nameFirst: E. J.
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '1'
+  AB: '3'
+  R: '0'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  RBI: '0'
+  SH: '0'
+  SB: '1'
+  BB: '0'
+  SO: '0'
+  AVG: '.333'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Zukosky
+  nameFirst: E. C.
+  nameClub1: Superior
+  bats: R
+  G: '16'
+  AB: '52'
+  R: '7'
+  H: '17'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  TB: '24'
+  RBI: '11'
+  SH: '0'
+  SB: '3'
+  BB: '10'
+  SO: '5'
+  AVG: '.327'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Day
+  nameFirst: L. I.
+  nameClub1: Superior
+  bats: L
+  G: '12'
+  AB: '40'
+  R: '18'
+  H: '13'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '17'
+  RBI: '5'
+  SH: '1'
+  SB: '3'
+  BB: '14'
+  SO: '6'
+  AVG: '.325'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Thompson
+  nameFirst: H. J.
+  nameClub1: Duluth Heralds
+  nameClub2: Duluth Dukes
+  bats: R
+  G: '15'
+  AB: '50'
+  R: '19'
+  H: '16'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '20'
+  RBI: '6'
+  SH: '0'
+  SB: '7'
+  BB: '17'
+  SO: '15'
+  AVG: '.320'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Coleman
+  nameFirst: J.
+  nameClub1: Duluth Dukes
+  nameClub2: Superior
+  bats: R
+  G: '10'
+  AB: '25'
+  R: '6'
+  H: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  RBI: '3'
+  SH: '1'
+  SB: '1'
+  BB: '3'
+  SO: '7'
+  AVG: '.320'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Wager
+  nameFirst: Clint
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '13'
+  AB: '51'
+  R: '9'
+  H: '16'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '22'
+  RBI: '14'
+  SH: '1'
+  SB: '2'
+  BB: '5'
+  SO: '6'
+  AVG: '.314'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Carter
+  nameFirst: R. E.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '7'
+  AB: '29'
+  R: '5'
+  H: '9'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '11'
+  RBI: '6'
+  SH: '0'
+  SB: '4'
+  BB: '1'
+  SO: '2'
+  AVG: '.310'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Dubla
+  nameFirst: Joe
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '13'
+  AB: '53'
+  R: '7'
+  H: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '18'
+  RBI: '5'
+  SH: '1'
+  SB: '2'
+  BB: '3'
+  SO: '12'
+  AVG: '.302'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lessard
+  nameFirst: Jay
+  nameClub1: Duluth Marine Iron
+  bats: L
+  G: '8'
+  AB: '30'
+  R: '9'
+  H: '9'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  RBI: '3'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  SO: '8'
+  AVG: '.300'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bakken
+  nameFirst: F. T.
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '15'
+  AB: '61'
+  R: '13'
+  H: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '20'
+  RBI: '8'
+  SH: '1'
+  SB: '3'
+  BB: '9'
+  SO: '9'
+  AVG: '.295'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bauers
+  nameFirst: John
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '4'
+  AB: '7'
+  R: '0'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  SO: '1'
+  AVG: '.286'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Jones
+  nameFirst: T. T.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '16'
+  AB: '64'
+  R: '18'
+  H: '18'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '22'
+  RBI: '9'
+  SH: '2'
+  SB: '3'
+  BB: '6'
+  SO: '5'
+  AVG: '.281'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Crescenzo
+  nameFirst: P.
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '8'
+  AB: '32'
+  R: '4'
+  H: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  RBI: '6'
+  SH: '0'
+  SB: '1'
+  BB: '1'
+  SO: '6'
+  AVG: '.281'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Ramey
+  nameFirst: Jos.
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '12'
+  AB: '47'
+  R: '7'
+  H: '13'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '14'
+  RBI: '5'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  SO: '11'
+  AVG: '.277'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Goldfine
+  nameFirst: J. I.
+  nameClub1: Superior
+  bats: L
+  G: '16'
+  AB: '60'
+  R: '15'
+  H: '16'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '20'
+  RBI: '12'
+  SH: '1'
+  SB: '6'
+  BB: '11'
+  SO: '9'
+  AVG: '.267'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Treadway
+  nameFirst: G. E.
+  nameClub1: Superior
+  bats: R
+  G: '11'
+  AB: '30'
+  R: '5'
+  H: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  RBI: '2'
+  SH: '1'
+  SB: '2'
+  BB: '7'
+  SO: '1'
+  AVG: '.267'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Muller
+  nameFirst: M. H.
+  nameClub1: Superior
+  bats: R
+  G: '19'
+  AB: '78'
+  R: '14'
+  H: '20'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '23'
+  RBI: '11'
+  SH: '1'
+  SB: '6'
+  BB: '9'
+  SO: '26'
+  AVG: '.256'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mason
+  nameFirst: L. J.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '16'
+  AB: '47'
+  R: '17'
+  H: '12'
+  H2B: '5'
+  H3B: '2'
+  HR: '0'
+  TB: '21'
+  RBI: '5'
+  SH: '0'
+  SB: '4'
+  BB: '17'
+  SO: '17'
+  AVG: '.255'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: A. J.
+  nameClub1: Superior
+  bats: R
+  G: '4'
+  AB: '4'
+  R: '2'
+  H: '1'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  RBI: '2'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  SO: '2'
+  AVG: '.250'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Kuddes
+  nameFirst: D. E.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '16'
+  AB: '51'
+  R: '12'
+  H: '12'
+  H2B: '1'
+  H3B: '3'
+  HR: '0'
+  TB: '19'
+  RBI: '8'
+  SH: '0'
+  SB: '1'
+  BB: '3'
+  SO: '3'
+  AVG: '.235'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Zapel
+  nameFirst: D. F.
+  nameClub1: Duluth Dukes
+  nameClub2: Duluth Marine Iron
+  bats: R
+  G: '14'
+  AB: '49'
+  R: '10'
+  H: '11'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  TB: '17'
+  RBI: '11'
+  SH: '0'
+  SB: '0'
+  BB: '11'
+  SO: '15'
+  AVG: '.224'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Stoltz
+  nameFirst: Art
+  nameClub1: Superior
+  bats: L
+  G: '3'
+  AB: '9'
+  R: '1'
+  H: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  RBI: '1'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  SO: '5'
+  AVG: '.222'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Seltz
+  nameFirst: Dick
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '15'
+  AB: '64'
+  R: '10'
+  H: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '18'
+  RBI: '13'
+  SH: '1'
+  SB: '8'
+  BB: '4'
+  SO: '5'
+  AVG: '.219'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Oliver
+  nameFirst: Henry
+  nameClub1: Duluth Heralds
+  bats: L
+  G: '5'
+  AB: '14'
+  R: '4'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  RBI: '2'
+  SH: '0'
+  SB: '1'
+  BB: '0'
+  SO: '3'
+  AVG: '.214'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Henricksen
+  nameFirst: D. R.
+  nameClub1: Duluth Heralds
+  nameClub2: Superior
+  bats: R
+  G: '16'
+  AB: '57'
+  R: '7'
+  H: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '13'
+  RBI: '7'
+  SH: '1'
+  SB: '2'
+  BB: '9'
+  SO: '8'
+  AVG: '.211'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Ryan
+  nameFirst: R. A.
+  nameClub1: Duluth Dukes
+  nameClub2: Duluth Marine Iron
+  bats: L
+  G: '11'
+  AB: '29'
+  R: '6'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  RBI: '4'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  SO: '5'
+  AVG: '.207'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: Fred
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '14'
+  AB: '40'
+  R: '8'
+  H: '8'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  RBI: '10'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  SO: '7'
+  AVG: '.200'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Haas
+  nameFirst: W. E.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '4'
+  AB: '15'
+  R: '2'
+  H: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  RBI: '2'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  SO: '3'
+  AVG: '.200'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: McPherson
+  nameFirst: R. I.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '19'
+  AB: '72'
+  R: '6'
+  H: '14'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '14'
+  RBI: '6'
+  SH: '0'
+  SB: '2'
+  BB: '11'
+  SO: '6'
+  AVG: '.194'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Winquist
+  nameFirst: R.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '9'
+  AB: '16'
+  R: '2'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  RBI: '1'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  SO: '9'
+  AVG: '.189'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: Ed
+  nameClub1: Duluth Marine Iron
+  bats: L
+  G: '13'
+  AB: '38'
+  R: '2'
+  H: '7'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '9'
+  RBI: '6'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  SO: '2'
+  AVG: '.184'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Dixon
+  nameFirst: J. E.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '8'
+  AB: '22'
+  R: '2'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  RBI: '3'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  SO: '7'
+  AVG: '.182'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Thompson
+  nameFirst: J. C.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '7'
+  AB: '22'
+  R: '2'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  RBI: '5'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  SO: '4'
+  AVG: '.182'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Titus
+  nameFirst: H. W.
+  nameClub1: Superior
+  bats: R
+  G: '19'
+  AB: '71'
+  R: '9'
+  H: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '13'
+  RBI: '9'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  SO: '19'
+  AVG: '.169'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Doig
+  nameFirst: Wilfred
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '5'
+  AB: '12'
+  R: '1'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  RBI: '1'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  SO: '2'
+  AVG: '.167'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Dvorak
+  nameFirst: Joe
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '2'
+  AB: '6'
+  R: '0'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  SO: '3'
+  AVG: '.167'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: George
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '8'
+  AB: '19'
+  R: '2'
+  H: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  RBI: '1'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  SO: '4'
+  AVG: '.158'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Rudie
+  nameFirst: William
+  nameClub1: Duluth Heralds
+  bats: L
+  G: '9'
+  AB: '26'
+  R: '4'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  RBI: '2'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  SO: '3'
+  AVG: '.154'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Anderson
+  nameFirst: Dick
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '3'
+  AB: '7'
+  R: '2'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  RBI: '0'
+  SH: '0'
+  SB: '1'
+  BB: '2'
+  SO: '2'
+  AVG: '.143'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Wangensteen
+  nameFirst: M.
+  nameClub1: Superior
+  bats: R
+  G: '2'
+  AB: '7'
+  R: '0'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  SO: '1'
+  AVG: '.143'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Bushey
+  nameFirst: V.
+  nameClub1: Duluth Heralds
+  nameClub2: Superior
+  bats: R
+  G: '4'
+  AB: '8'
+  R: '1'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  SO: '0'
+  AVG: '.125'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mason
+  nameFirst: Q.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '5'
+  AB: '19'
+  R: '7'
+  H: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  RBI: '0'
+  SH: '1'
+  SB: '2'
+  BB: '3'
+  SO: '3'
+  AVG: '.105'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Udee
+  nameFirst: L. J.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '3'
+  AB: '10'
+  R: '4'
+  H: '1'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  RBI: '1'
+  SH: '1'
+  SB: '1'
+  BB: '2'
+  SO: '2'
+  AVG: '.100'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Mortinsen
+  nameFirst: L. J.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '3'
+  AB: '11'
+  R: '2'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  RBI: '0'
+  SH: '0'
+  SB: '1'
+  BB: '3'
+  SO: '5'
+  AVG: '.091'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Germaine
+  nameFirst: A. G.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '10'
+  AB: '37'
+  R: '1'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  RBI: '2'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  SO: '15'
+  AVG: '.081'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Cartwright
+  nameFirst: M. F.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '9'
+  AB: '26'
+  R: '0'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  RBI: '1'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  SO: '12'
+  AVG: '.077'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Wilson
+  nameFirst: Stan
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '6'
+  AB: '15'
+  R: '0'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  RBI: '1'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  SO: '6'
+  AVG: '.067'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Erickson
+  nameFirst: H. W.
+  nameClub1: Superior
+  bats: R
+  G: '8'
+  AB: '24'
+  R: '3'
+  H: '1'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '3'
+  RBI: '2'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  SO: '18'
+  AVG: '.042'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Connolly
+  nameFirst: R. E.
+  nameClub1: Superior
+  bats: R
+  G: '11'
+  AB: '17'
+  R: '3'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  SO: '7'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Blin
+  nameFirst: James
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '7'
+  AB: '20'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  SO: '5'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Nyquist
+  nameFirst: George
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '4'
+  AB: '5'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  SO: '4'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Gamblin
+  nameFirst: R.
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '3'
+  AB: '8'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  SO: '6'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Johnson
+  nameFirst: John
+  nameClub1: Duluth Marine Iron
+  bats: R
+  G: '2'
+  AB: '9'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  SO: '2'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Larson
+  nameFirst: Chester
+  nameClub1: Duluth Heralds
+  bats: R
+  G: '2'
+  AB: '4'
+  R: '1'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  SO: '1'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lopp
+  nameFirst: H.
+  nameClub1: Superior
+  bats: R
+  G: '2'
+  AB: '6'
+  R: '2'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  SO: '4'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lanaghan
+  nameFirst: William
+  nameClub1: Duluth Marine Iron
+  bats: L
+  G: '1'
+  AB: '1'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  SO: '0'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Lukoskie
+  nameFirst: William
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '1'
+  AB: '4'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  SO: '2'
+  AVG: '.000'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameLast: Schwietert
+  nameFirst: J. A.
+  nameClub1: Duluth Dukes
+  bats: R
+  G: '1'
+  AB: '4'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  RBI: '1'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  SO: '1'
+  AVG: '.000'

@@ -1,0 +1,112 @@
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: regular
+  W: '96'
+  L: '58'
+  T: '0'
+  PCT: '.623'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: regular
+  W: '94'
+  L: '60'
+  T: '1'
+  PCT: '.610'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: regular
+  W: '84'
+  L: '70'
+  T: '0'
+  PCT: '.545'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: regular
+  W: '77'
+  L: '77'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  phase: regular
+  W: '76'
+  L: '78'
+  T: '1'
+  PCT: '.494'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Austin
+  phase: regular
+  W: '72'
+  L: '82'
+  T: '0'
+  PCT: '.468'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: regular
+  W: '69'
+  L: '85'
+  T: '0'
+  PCT: '.448'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: regular
+  W: '48'
+  L: '106'
+  T: '0'
+  PCT: '.312'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: final
+  W: '4'
+  L: '1'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: final
+  W: '1'
+  L: '4'

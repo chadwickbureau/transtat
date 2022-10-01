@@ -1,0 +1,110 @@
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '99'
+  L: '70'
+  PCT: '.586'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '87'
+  L: '82'
+  PCT: '.515'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '86'
+  L: '83'
+  PCT: '.509'
+  RANK: '3'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '86'
+  L: '83'
+  PCT: '.509'
+  RANK: '3'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '84'
+  L: '85'
+  PCT: '.497'
+  RANK: '5'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '83'
+  L: '86'
+  PCT: '.491'
+  RANK: '6'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '76'
+  L: '93'
+  PCT: '.450'
+  RANK: '7'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '75'
+  L: '94'
+  PCT: '.444'
+  RANK: '8'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

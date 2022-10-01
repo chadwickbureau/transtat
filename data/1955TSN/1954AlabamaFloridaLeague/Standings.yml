@@ -1,0 +1,100 @@
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Dothan
+  phase: regular
+  W: '72'
+  L: '53'
+  T: '1'
+  PCT: '.576'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Andalusia-Opp
+  phase: regular
+  W: '71'
+  L: '55'
+  T: '0'
+  PCT: '.563'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '1'
+  PCT: '.544'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  phase: regular
+  W: '63'
+  L: '62'
+  T: '0'
+  PCT: '.504'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Crestview
+  phase: regular
+  W: '55'
+  L: '69'
+  T: '0'
+  PCT: '.444'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  phase: regular
+  W: '46'
+  L: '79'
+  T: '0'
+  PCT: '.368'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Dothan
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Andalusia-Opp
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameClub: Dothan
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

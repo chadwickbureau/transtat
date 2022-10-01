@@ -1,0 +1,68 @@
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Sioux Falls
+  phase: regular
+  G: '120'
+  W: '71'
+  L: '49'
+  PCT: '.592'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Mitchell
+  phase: regular
+  G: '118'
+  W: '68'
+  L: '50'
+  PCT: '.576'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Norfolk
+  phase: regular
+  G: '120'
+  W: '63'
+  L: '57'
+  PCT: '.525'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Beatrice
+  phase: regular
+  G: '121'
+  W: '56'
+  L: '65'
+  PCT: '.463'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Lincoln
+  phase: regular
+  G: '64'
+  W: '26'
+  L: '38'
+  PCT: '.406'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Fairbury
+  phase: regular
+  G: '63'
+  W: '19'
+  L: '44'
+  PCT: '.302'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Mitchell
+  phase: final
+  G: '4'
+  W: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Nebraska State League
+  nameClub: Sioux Falls
+  phase: final
+  G: '2'
+  W: '4'
+  RANK: '2'

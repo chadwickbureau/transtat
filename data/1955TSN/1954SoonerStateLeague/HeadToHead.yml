@@ -1,0 +1,80 @@
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: Shawnee
+  Lawton: '9'
+  McAlester: '12'
+  Ardmore: '13'
+  Gainesville: '13'
+  Ada: '14'
+  Seminole: '15'
+  Pauls Valley: '16'
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  Shawnee: '11'
+  McAlester: '11'
+  Ardmore: '10'
+  Gainesville: '12'
+  Ada: '12'
+  Seminole: '11'
+  Pauls Valley: '14'
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: McAlester
+  Shawnee: '8'
+  Lawton: '9'
+  Ardmore: '9'
+  Gainesville: '6'
+  Ada: '15'
+  Seminole: '13'
+  Pauls Valley: '16'
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  Shawnee: '7'
+  Lawton: '9'
+  McAlester: '11'
+  Gainesville: '11'
+  Ada: '10'
+  Seminole: '11'
+  Pauls Valley: '13'
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: Gainesville
+  Shawnee: '7'
+  Lawton: '8'
+  McAlester: '14'
+  Ardmore: '9'
+  Ada: '13'
+  Seminole: '8'
+  Pauls Valley: '13'
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: Ada
+  Shawnee: '6'
+  Lawton: '8'
+  McAlester: '5'
+  Ardmore: '10'
+  Gainesville: '7'
+  Seminole: '12'
+  Pauls Valley: '16'
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: Seminole
+  Shawnee: '5'
+  Lawton: '9'
+  McAlester: '7'
+  Ardmore: '9'
+  Gainesville: '12'
+  Ada: '8'
+  Pauls Valley: '11'
+- year: '1954'
+  nameLeague: Sooner State League
+  nameClub: Pauls Valley
+  Shawnee: '4'
+  Lawton: '6'
+  McAlester: '4'
+  Ardmore: '7'
+  Gainesville: '7'
+  Ada: '4'
+  Seminole: '9'

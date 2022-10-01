@@ -1,0 +1,78 @@
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Miami Beach/Greater Miami
+  phase: regular/first
+  W: '40'
+  L: '23'
+  PCT: '.635'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  phase: regular/first
+  W: '39'
+  L: '24'
+  PCT: '.619'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: West Palm Beach
+  phase: regular/first
+  W: '31'
+  L: '32'
+  PCT: '.492'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Tallahassee
+  phase: regular/first
+  W: '12'
+  L: '50'
+  PCT: '.194'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Miami
+  phase: regular/first
+  W: '13'
+  L: '12'
+  PCT: '.520'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  phase: regular/first
+  W: '17'
+  L: '11'
+  PCT: '.607'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  phase: regular/second
+  W: '25'
+  L: '13'
+  PCT: '.658'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Miami Beach/Greater Miami
+  phase: regular/second
+  W: '23'
+  L: '16'
+  PCT: '.590'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: West Palm Beach
+  phase: regular/second
+  W: '16'
+  L: '19'
+  PCT: '.457'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Florida International League
+  nameClub: Tallahassee
+  phase: regular/second
+  W: '10'
+  L: '26'
+  PCT: '.278'
+  RANK: '4'

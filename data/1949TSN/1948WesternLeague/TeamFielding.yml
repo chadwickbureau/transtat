@@ -1,0 +1,66 @@
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Des Moines
+  G: '142'
+  DP: '143'
+  TP: '0'
+  PB: '21'
+  PO: '3623'
+  A: '1613'
+  E: '227'
+  PCT: '.958'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Lincoln
+  G: '137'
+  DP: '107'
+  TP: '0'
+  PB: '19'
+  PO: '3501'
+  A: '1529'
+  E: '226'
+  PCT: '.957'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Sioux City
+  G: '138'
+  DP: '91'
+  TP: '0'
+  PB: '10'
+  PO: '3469'
+  A: '1361'
+  E: '234'
+  PCT: '.954'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Pueblo
+  G: '140'
+  DP: '126'
+  TP: '1'
+  PB: '13'
+  PO: '3562'
+  A: '1441'
+  E: '247'
+  PCT: '.953'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Omaha
+  G: '141'
+  DP: '110'
+  TP: '1'
+  PB: '27'
+  PO: '3603'
+  A: '1475'
+  E: '259'
+  PCT: '.951'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Denver
+  G: '138'
+  DP: '136'
+  TP: '0'
+  PB: '20'
+  PO: '3524'
+  A: '1620'
+  E: '286'
+  PCT: '.947'

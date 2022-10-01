@@ -1,0 +1,254 @@
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: regular/first
+  W: '43'
+  L: '20'
+  T: '0'
+  PCT: '.683'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  phase: regular/first
+  W: '42'
+  L: '21'
+  T: '0'
+  PCT: '.667'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  phase: regular/first
+  W: '37'
+  L: '26'
+  T: '0'
+  PCT: '.587'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  phase: regular/first
+  W: '36'
+  L: '27'
+  T: '0'
+  PCT: '.571'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Mattoon
+  phase: regular/first
+  W: '27'
+  L: '36'
+  T: '0'
+  PCT: '.429'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Lafayette
+  phase: regular/first
+  W: '25'
+  L: '38'
+  T: '0'
+  PCT: '.397'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Paris
+  phase: regular/first
+  W: '24'
+  L: '39'
+  T: '0'
+  PCT: '.381'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: regular/first
+  W: '18'
+  L: '45'
+  T: '0'
+  PCT: '.286'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: regular/second
+  W: '38'
+  L: '23'
+  T: '0'
+  PCT: '.623'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  phase: regular/second
+  W: '37'
+  L: '24'
+  T: '0'
+  PCT: '.607'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  phase: regular/second
+  W: '35'
+  L: '29'
+  T: '0'
+  PCT: '.547'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: regular/second
+  W: '33'
+  L: '31'
+  T: '1'
+  PCT: '.516'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Lafayette
+  phase: regular/second
+  W: '30'
+  L: '29'
+  T: '0'
+  PCT: '.508'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  phase: regular/second
+  W: '31'
+  L: '31'
+  T: '2'
+  PCT: '.500'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Paris
+  phase: regular/second
+  W: '27'
+  L: '34'
+  T: '0'
+  PCT: '.443'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Mattoon
+  phase: regular/second
+  W: '16'
+  L: '46'
+  T: '1'
+  PCT: '.258'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  phase: regular
+  W: '77'
+  L: '50'
+  T: '0'
+  PCT: '.606'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: regular
+  W: '76'
+  L: '51'
+  T: '1'
+  PCT: '.598'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  phase: regular
+  W: '73'
+  L: '51'
+  T: '0'
+  PCT: '.589'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '2'
+  PCT: '.544'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: regular
+  W: '56'
+  L: '68'
+  T: '0'
+  PCT: '.452'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Lafayette
+  phase: regular
+  W: '55'
+  L: '67'
+  T: '0'
+  PCT: '.451'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Paris
+  phase: regular
+  W: '51'
+  L: '73'
+  T: '0'
+  PCT: '.411'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Mattoon
+  phase: regular
+  W: '43'
+  L: '82'
+  T: '1'
+  PCT: '.344'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: final
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: final
+  W: '0'
+  L: '2'
+  RANK: '2'

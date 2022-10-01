@@ -1,0 +1,144 @@
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/first
+  W: '47'
+  L: '23'
+  T: '0'
+  PCT: '.671'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/first
+  W: '40'
+  L: '30'
+  T: '0'
+  PCT: '.571'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/first
+  W: '40'
+  L: '30'
+  T: '0'
+  PCT: '.571'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: West Palm Beach
+  phase: regular/first
+  W: '39'
+  L: '31'
+  T: '1'
+  PCT: '.557'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/first
+  W: '34'
+  L: '36'
+  T: '1'
+  PCT: '.486'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  phase: regular/first
+  W: '29'
+  L: '41'
+  T: '0'
+  PCT: '.414'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular/first
+  W: '29'
+  L: '41'
+  T: '0'
+  PCT: '.414'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/first
+  W: '22'
+  L: '48'
+  T: '0'
+  PCT: '.314'
+  RANK: '8'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/second
+  W: '45'
+  L: '25'
+  T: '0'
+  PCT: '.643'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/second
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/second
+  W: '37'
+  L: '23'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: West Palm Beach
+  phase: regular/second
+  W: '71'
+  L: '68'
+  T: '1'
+  PCT: '.511'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/second
+  W: '35'
+  L: '34'
+  T: '0'
+  PCT: '.507'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular/second
+  W: '32'
+  L: '38'
+  T: '0'
+  PCT: '.457'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/second
+  W: '29'
+  L: '37'
+  T: '0'
+  PCT: '.439'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  phase: regular/second
+  W: '28'
+  L: '40'
+  T: '0'
+  PCT: '.412'
+  RANK: '8'

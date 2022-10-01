@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '0'
+  PCT: '.571'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.571'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '1'
+  PCT: '.529'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '1'
+  PCT: '.529'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: regular
+  W: '67'
+  L: '73'
+  T: '0'
+  PCT: '.479'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee-Douglas
+  phase: regular
+  W: '47'
+  L: '93'
+  T: '0'
+  PCT: '.336'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

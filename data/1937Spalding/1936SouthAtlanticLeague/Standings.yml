@@ -1,0 +1,140 @@
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular/first
+  W: '45'
+  L: '24'
+  PCT: '.652'
+  RANK: '1'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular/first
+  W: '45'
+  L: '25'
+  PCT: '.643'
+  RANK: '2'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular/first
+  W: '35'
+  L: '35'
+  PCT: '.500'
+  RANK: '3'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular/first
+  W: '31'
+  L: '40'
+  PCT: '.437'
+  RANK: '4'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular/first
+  W: '29'
+  L: '41'
+  PCT: '.414'
+  RANK: '5'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular/first
+  W: '25'
+  L: '45'
+  PCT: '.357'
+  RANK: '6'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular/second
+  W: '52'
+  L: '28'
+  PCT: '.650'
+  RANK: '1'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular/second
+  W: '52'
+  L: '29'
+  PCT: '.642'
+  RANK: '2'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular/second
+  W: '43'
+  L: '33'
+  PCT: '.566'
+  RANK: '3'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular/second
+  W: '35'
+  L: '43'
+  PCT: '.449'
+  RANK: '4'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular/second
+  W: '31'
+  L: '49'
+  PCT: '.388'
+  RANK: '5'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular/second
+  W: '24'
+  L: '55'
+  PCT: '.304'
+  RANK: '6'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular
+  T: '4'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular
+  T: '2'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular
+  T: '2'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular
+  T: '1'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular
+  T: '1'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular
+  T: '0'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

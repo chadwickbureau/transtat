@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: regular
+  W: '78'
+  L: '47'
+  T: '0'
+  PCT: '.624'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular
+  W: '77'
+  L: '48'
+  T: '0'
+  PCT: '.616'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular
+  W: '75'
+  L: '51'
+  T: '0'
+  PCT: '.595'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular
+  W: '73'
+  L: '53'
+  T: '0'
+  PCT: '.579'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular
+  W: '62'
+  L: '62'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular
+  W: '47'
+  L: '77'
+  T: '0'
+  PCT: '.379'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular
+  W: '31'
+  L: '95'
+  T: '0'
+  PCT: '.246'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

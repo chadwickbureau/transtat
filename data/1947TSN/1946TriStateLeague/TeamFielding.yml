@@ -1,0 +1,66 @@
+- year: '1946'
+  nameLeague: Tri-State League
+  nameClub: Charlotte
+  G: '130'
+  DP: '120'
+  TP: '0'
+  PB: '23'
+  PO: '3654'
+  A: '1607'
+  E: '221'
+  PCT: '.960'
+- year: '1946'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  G: '140'
+  DP: '106'
+  TP: '1'
+  PB: '19'
+  PO: '3687'
+  A: '1595'
+  E: '254'
+  PCT: '.954'
+- year: '1946'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  G: '140'
+  DP: '81'
+  TP: '1'
+  PB: '14'
+  PO: '3590'
+  A: '1474'
+  E: '245'
+  PCT: '.954'
+- year: '1946'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  G: '140'
+  DP: '135'
+  TP: '0'
+  PB: '16'
+  PO: '3573'
+  A: '1455'
+  E: '258'
+  PCT: '.951'
+- year: '1946'
+  nameLeague: Tri-State League
+  nameClub: Shelby
+  G: '140'
+  DP: '128'
+  TP: '0'
+  PB: '8'
+  PO: '3585'
+  A: '1624'
+  E: '281'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  G: '139'
+  DP: '92'
+  TP: '1'
+  PB: '23'
+  PO: '3514'
+  A: '1394'
+  E: '321'
+  PCT: '.939'

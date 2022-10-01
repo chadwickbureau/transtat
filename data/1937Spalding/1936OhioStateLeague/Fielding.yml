@@ -1,0 +1,529 @@
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Clements
+  nameClub1: Tiffin
+  Pos: 1B
+  G: '25'
+  PO: '195'
+  A: '5'
+  E: '2'
+  PCT: '.990'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Burgess
+  nameClub1: Tiffin
+  Pos: 1B
+  G: '64'
+  PO: '583'
+  A: '20'
+  E: '7'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Silvey
+  nameClub1: Fostoria
+  Pos: 1B
+  G: '42'
+  PO: '365'
+  A: '21'
+  E: '6'
+  PCT: '.985'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Swed
+  nameClub1: Sandusky
+  Pos: 1B
+  G: '97'
+  PO: '906'
+  A: '35'
+  E: '18'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Brennan
+  nameClub1: Fremont
+  Pos: 1B
+  G: '97'
+  PO: '973'
+  A: '27'
+  E: '23'
+  PCT: '.978'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Zipay
+  nameClub1: Fostoria
+  Pos: 1B
+  G: '62'
+  PO: '592'
+  A: '28'
+  E: '21'
+  PCT: '.967'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Hoffman
+  nameClub1: Tiffin
+  Pos: 1B
+  G: '12'
+  PO: '87'
+  A: '4'
+  E: '5'
+  PCT: '.948'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Wahonick
+  nameClub1: Fostoria
+  Pos: 2B
+  G: '80'
+  PO: '183'
+  A: '205'
+  E: '15'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Capozzi
+  nameClub1: Fremont
+  Pos: 2B
+  G: '78'
+  PO: '178'
+  A: '254'
+  E: '22'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Geygan
+  nameClub1: Sandusky
+  Pos: 2B
+  G: '87'
+  PO: '241'
+  A: '252'
+  E: '29'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Verban
+  nameClub1: Fremont
+  nameClub2: Tiffin
+  Pos: 2B
+  G: '21'
+  PO: '55'
+  A: '60'
+  E: '14'
+  PCT: '.891'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Rogala
+  nameClub1: Tiffin
+  Pos: 2B
+  G: '88'
+  PO: '134'
+  A: '266'
+  E: '50'
+  PCT: '.888'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Rosinski
+  nameClub1: Fostoria
+  Pos: 2B
+  G: '13'
+  PO: '25'
+  A: '28'
+  E: '11'
+  PCT: '.822'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Brelich
+  nameClub1: Fremont
+  Pos: 3B
+  G: '13'
+  PO: '11'
+  A: '20'
+  E: '1'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Harris
+  nameClub1: Sandusky
+  Pos: 3B
+  G: '95'
+  PO: '100'
+  A: '192'
+  E: '27'
+  PCT: '.915'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Hribernik
+  nameClub1: Fremont
+  Pos: 3B
+  G: '24'
+  PO: '28'
+  A: '54'
+  E: '8'
+  PCT: '.911'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Verban
+  nameClub1: Fremont
+  nameClub2: Tiffin
+  Pos: 3B
+  G: '40'
+  PO: '50'
+  A: '89'
+  E: '14'
+  PCT: '.909'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Dykes
+  nameClub1: Fostoria
+  Pos: 3B
+  G: '87'
+  PO: '120'
+  A: '171'
+  E: '31'
+  PCT: '.904'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Westphall
+  nameClub1: Tiffin
+  Pos: 3B
+  G: '89'
+  PO: '87'
+  A: '169'
+  E: '36'
+  PCT: '.877'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Korba
+  nameClub1: Tiffin
+  Pos: SS
+  G: '79'
+  PO: '164'
+  A: '220'
+  E: '28'
+  PCT: '.932'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Ludwig
+  nameClub1: Fremont
+  Pos: SS
+  G: '39'
+  PO: '61'
+  A: '117'
+  E: '18'
+  PCT: '.909'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Stiewe
+  nameClub1: Sandusky
+  Pos: SS
+  G: '97'
+  PO: '180'
+  A: '272'
+  E: '53'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Lucadello
+  nameFirst: T.
+  nameClub1: Fostoria
+  Pos: SS
+  G: '85'
+  PO: '146'
+  A: '251'
+  E: '53'
+  PCT: '.882'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Hribernik
+  nameClub1: Fremont
+  Pos: SS
+  G: '51'
+  PO: '94'
+  A: '115'
+  E: '36'
+  PCT: '.853'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Wummell
+  nameClub1: Fremont
+  nameClub2: Fostoria
+  nameClub3: Sandusky
+  Pos: OF
+  G: '12'
+  PO: '10'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: West
+  nameClub1: Sandusky
+  Pos: OF
+  G: '20'
+  PO: '45'
+  A: '2'
+  E: '1'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Rader
+  nameClub1: Fremont
+  Pos: OF
+  G: '78'
+  PO: '139'
+  A: '12'
+  E: '4'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Platek
+  nameClub1: Sandusky
+  Pos: OF
+  G: '91'
+  PO: '124'
+  A: '5'
+  E: '4'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Silvey
+  nameClub1: Fostoria
+  Pos: OF
+  G: '49'
+  PO: '79'
+  A: '5'
+  E: '3'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Suydam
+  nameClub1: Tiffin
+  Pos: OF
+  G: '80'
+  PO: '123'
+  A: '8'
+  E: '5'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Adams
+  nameClub1: Fremont
+  Pos: OF
+  G: '75'
+  PO: '148'
+  A: '7'
+  E: '6'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Clements
+  nameClub1: Tiffin
+  Pos: OF
+  G: '66'
+  PO: '128'
+  A: '6'
+  E: '6'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Satulla
+  nameClub1: Fostoria
+  Pos: OF
+  G: '86'
+  PO: '204'
+  A: '15'
+  E: '10'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Goldsmith
+  nameClub1: Tiffin
+  Pos: OF
+  G: '63'
+  PO: '98'
+  A: '6'
+  E: '5'
+  PCT: '.954'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Speas
+  nameClub1: Tiffin
+  Pos: OF
+  G: '73'
+  PO: '131'
+  A: '8'
+  E: '7'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Golobic
+  nameClub1: Sandusky
+  Pos: OF
+  G: '77'
+  PO: '167'
+  A: '8'
+  E: '10'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Dannaher
+  nameClub1: Fostoria
+  Pos: OF
+  G: '94'
+  PO: '157'
+  A: '12'
+  E: '10'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Jenkins
+  nameClub1: Fostoria
+  Pos: OF
+  G: '15'
+  PO: '14'
+  A: '2'
+  E: '1'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Lucadello
+  nameFirst: J.
+  nameClub1: Fostoria
+  Pos: OF
+  G: '16'
+  PO: '30'
+  A: '2'
+  E: '2'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Hale
+  nameClub1: Sandusky
+  Pos: OF
+  G: '25'
+  PO: '39'
+  A: '3'
+  E: '3'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: McCrea
+  nameClub1: Sandusky
+  Pos: OF
+  G: '50'
+  PO: '111'
+  A: '5'
+  E: '9'
+  PCT: '.928'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Burck
+  nameClub1: Fremont
+  Pos: OF
+  G: '86'
+  PO: '114'
+  A: '8'
+  E: '11'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Quackenbush
+  nameClub1: Fremont
+  Pos: OF
+  G: '23'
+  PO: '33'
+  A: '0'
+  E: '3'
+  PCT: '.917'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Brelich
+  nameClub1: Fremont
+  nameClub2: Sandusky
+  Pos: OF
+  G: '17'
+  PO: '24'
+  A: '2'
+  E: '3'
+  PCT: '.897'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Zipay
+  nameClub1: Fostoria
+  Pos: OF
+  G: '12'
+  PO: '6'
+  A: '2'
+  E: '1'
+  PCT: '.888'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Koval
+  nameClub1: Sandusky
+  Pos: OF
+  G: '15'
+  PO: '17'
+  A: '1'
+  E: '5'
+  PCT: '.783'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Zizak
+  nameClub1: Fostoria
+  nameClub2: Sandusky
+  Pos: C
+  G: '17'
+  PO: '93'
+  A: '10'
+  E: '1'
+  PCT: '.990'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: House
+  nameClub1: Tiffin
+  Pos: C
+  G: '90'
+  PO: '481'
+  A: '60'
+  E: '10'
+  PCT: '.982'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Spannraft
+  nameClub1: Fremont
+  Pos: C
+  G: '97'
+  PO: '467'
+  A: '69'
+  E: '10'
+  PCT: '.982'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Berry
+  nameClub1: Fostoria
+  Pos: C
+  G: '78'
+  PO: '423'
+  A: '58'
+  E: '17'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Dolence
+  nameClub1: Fostoria
+  nameClub2: Sandusky
+  Pos: C
+  G: '77'
+  PO: '384'
+  A: '42'
+  E: '17'
+  PCT: '.962'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameLast: Potter
+  nameClub1: Sandusky
+  Pos: C
+  G: '13'
+  PO: '48'
+  A: '6'
+  E: '5'
+  PCT: '.915'

@@ -1,0 +1,124 @@
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: regular/first
+  W: '38'
+  L: '27'
+  T: '0'
+  PCT: '.585'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular/first
+  W: '38'
+  L: '27'
+  T: '0'
+  PCT: '.585'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: regular/first
+  W: '34'
+  L: '29'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/first
+  W: '30'
+  L: '32'
+  T: '0'
+  PCT: '.484'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/first
+  W: '28'
+  L: '36'
+  T: '0'
+  PCT: '.438'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/first
+  W: '24'
+  L: '41'
+  T: '0'
+  PCT: '.369'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular/second
+  W: '38'
+  L: '27'
+  T: '0'
+  PCT: '.585'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: regular/second
+  W: '23'
+  L: '29'
+  T: '1'
+  PCT: '.540'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: regular/second
+  W: '34'
+  L: '30'
+  T: '0'
+  PCT: '.531'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/second
+  W: '34'
+  L: '31'
+  T: '0'
+  PCT: '.523'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/second
+  W: '28'
+  L: '36'
+  T: '1'
+  PCT: '.438'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/second
+  W: '25'
+  L: '40'
+  T: '0'
+  PCT: '.385'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

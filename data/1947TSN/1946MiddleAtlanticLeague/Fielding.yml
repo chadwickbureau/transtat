@@ -1,0 +1,3731 @@
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Voigt
+  nameClub1: Erie
+  Pos: 1B
+  G: '125'
+  PO: '1075'
+  A: '59'
+  E: '17'
+  DP: '68'
+  PCT: '.985'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Anderson
+  nameClub1: Butler
+  Pos: 1B
+  G: '131'
+  PO: '1146'
+  A: '66'
+  E: '21'
+  DP: '76'
+  PCT: '.983'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lamendola
+  nameClub1: Niagara Falls
+  Pos: 1B
+  G: '119'
+  PO: '1031'
+  A: '67'
+  E: '25'
+  DP: '68'
+  PCT: '.978'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Jenis
+  nameClub1: Oil City
+  Pos: 1B
+  G: '59'
+  PO: '542'
+  A: '23'
+  E: '13'
+  DP: '26'
+  PCT: '.977'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Pfeifer
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '97'
+  PO: '741'
+  A: '66'
+  E: '21'
+  DP: '65'
+  PCT: '.975'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Booth
+  nameFirst: J.
+  nameClub1: Youngstown
+  Pos: 1B
+  G: '90'
+  PO: '757'
+  A: '58'
+  E: '23'
+  DP: '50'
+  PCT: '.971'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Warfield
+  nameClub1: Johnstown
+  nameClub2: Oil City
+  Pos: 1B
+  G: '50'
+  PO: '480'
+  A: '21'
+  E: '15'
+  DP: '29'
+  PCT: '.971'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Gorman
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '19'
+  PO: '169'
+  A: '8'
+  E: '6'
+  DP: '7'
+  PCT: '.967'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mori
+  nameClub1: Youngstown
+  Pos: 1B
+  G: '41'
+  PO: '354'
+  A: '24'
+  E: '20'
+  DP: '31'
+  PCT: '.950'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mizerak
+  nameClub1: Erie
+  Pos: 1B
+  G: '4'
+  PO: '25'
+  A: '4'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harnick
+  nameClub1: Niagara Falls
+  Pos: 1B
+  G: '2'
+  PO: '13'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Parisi
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '3'
+  PO: '10'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Proechel
+  nameClub1: Niagara Falls
+  Pos: 1B
+  G: '1'
+  PO: '10'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Flesland
+  nameClub1: Erie
+  Pos: 1B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wernert
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '2'
+  PO: '8'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Thomier
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '1'
+  PO: '5'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Billings
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '2'
+  PO: '12'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Conklin
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '2'
+  PO: '5'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Widmayer
+  nameClub1: Butler
+  Pos: 1B
+  G: '1'
+  PO: '5'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Grella
+  nameClub1: Erie
+  nameClub2: Johnstown
+  Pos: 1B
+  G: '3'
+  PO: '3'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Powell
+  nameClub1: Oil City
+  Pos: 1B
+  G: '5'
+  PO: '35'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Americo
+  nameClub1: Youngstown
+  Pos: 1B
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Miasek
+  nameClub1: Niagara Falls
+  Pos: 1B
+  G: '5'
+  PO: '45'
+  A: '6'
+  E: '1'
+  PCT: '.980'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Powell
+  nameClub1: Oil City
+  Pos: 1B
+  G: '6'
+  PO: '46'
+  A: '3'
+  E: '1'
+  PCT: '.980'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Buckholtz
+  nameClub1: Oil City
+  Pos: 1B
+  G: '8'
+  PO: '78'
+  A: '2'
+  E: '2'
+  PCT: '.976'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reash
+  nameFirst: R.
+  nameClub1: Oil City
+  Pos: 1B
+  G: '4'
+  PO: '37'
+  A: '2'
+  E: '1'
+  PCT: '.975'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Cracchiolo
+  nameClub1: Niagara Falls
+  Pos: 1B
+  G: '4'
+  PO: '32'
+  A: '3'
+  E: '1'
+  PCT: '.972'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bazarnick
+  nameClub1: Youngstown
+  Pos: 1B
+  G: '3'
+  PO: '26'
+  A: '0'
+  E: '1'
+  PCT: '.963'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wapinsky
+  nameClub1: Oil City
+  Pos: 1B
+  G: '6'
+  PO: '44'
+  A: '2'
+  E: '2'
+  PCT: '.958'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: McIntyre
+  nameClub1: Oil City
+  Pos: 1B
+  G: '9'
+  PO: '81'
+  A: '3'
+  E: '4'
+  PCT: '.955'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lance
+  nameClub1: Erie
+  Pos: 1B
+  G: '2'
+  PO: '18'
+  A: '0'
+  E: '1'
+  PCT: '.947'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Hansen
+  nameClub1: Johnstown
+  Pos: 1B
+  G: '2'
+  PO: '16'
+  A: '1'
+  E: '1'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rushnock
+  nameClub1: Erie
+  Pos: 1B
+  G: '1'
+  PO: '7'
+  A: '0'
+  E: '1'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Och
+  nameClub1: Butler
+  Pos: 1B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '1'
+  PCT: '.500'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Moore
+  nameClub1: Oil City
+  Pos: 1B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Gallo
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '75'
+  PO: '248'
+  A: '201'
+  E: '16'
+  DP: '44'
+  PCT: '.966'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bolick
+  nameClub1: Butler
+  Pos: 2B
+  G: '27'
+  PO: '78'
+  A: '80'
+  E: '6'
+  DP: '11'
+  PCT: '.963'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Hoskins
+  nameClub1: Niagara Falls
+  Pos: 2B
+  G: '11'
+  PO: '22'
+  A: '30'
+  E: '2'
+  DP: '4'
+  PCT: '.963'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Jerina
+  nameClub1: Butler
+  Pos: 2B
+  G: '67'
+  PO: '172'
+  A: '162'
+  E: '13'
+  DP: '28'
+  PCT: '.962'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Nickols
+  nameClub1: Erie
+  Pos: 2B
+  G: '128'
+  PO: '306'
+  A: '353'
+  E: '27'
+  DP: '54'
+  PCT: '.960'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Yglesias
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '13'
+  PO: '37'
+  A: '42'
+  E: '4'
+  DP: '10'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Cone
+  nameClub1: Youngstown
+  Pos: 2B
+  G: '100'
+  PO: '217'
+  A: '258'
+  E: '28'
+  DP: '44'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rose
+  nameClub1: Niagara Falls
+  Pos: 2B
+  G: '118'
+  PO: '307'
+  A: '333'
+  E: '44'
+  DP: '53'
+  PCT: '.936'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Tuminelli
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '26'
+  PO: '75'
+  A: '69'
+  E: '12'
+  DP: '4'
+  PCT: '.923'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reash
+  nameFirst: R.
+  nameClub1: Oil City
+  Pos: 2B
+  G: '35'
+  PO: '57'
+  A: '76'
+  E: '13'
+  DP: '11'
+  PCT: '.911'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Englert
+  nameClub1: Oil City
+  Pos: 2B
+  G: '16'
+  PO: '46'
+  A: '43'
+  E: '9'
+  DP: '9'
+  PCT: '.908'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Paolisso
+  nameClub1: Oil City
+  Pos: 2B
+  G: '56'
+  PO: '125'
+  A: '129'
+  E: '26'
+  DP: '10'
+  PCT: '.907'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Godla
+  nameClub1: Butler
+  Pos: 2B
+  G: '12'
+  PO: '33'
+  A: '41'
+  E: '8'
+  DP: '10'
+  PCT: '.903'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Danila
+  nameClub1: Youngstown
+  Pos: 2B
+  G: '13'
+  PO: '29'
+  A: '34'
+  E: '9'
+  DP: '6'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Richardson
+  nameFirst: L.
+  nameClub1: Youngstown
+  Pos: 2B
+  G: '5'
+  PO: '7'
+  A: '4'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lesser
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '6'
+  PO: '11'
+  A: '19'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Greco
+  nameClub1: Butler
+  Pos: 2B
+  G: '1'
+  PO: '1'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Solters
+  nameClub1: Butler
+  Pos: 2B
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Komar
+  nameClub1: Butler
+  Pos: 2B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wood
+  nameClub1: Butler
+  Pos: 2B
+  G: '8'
+  PO: '22'
+  A: '24'
+  E: '2'
+  PCT: '.958'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Maria
+  nameClub1: Youngstown
+  nameClub2: Johnstown
+  Pos: 2B
+  G: '5'
+  PO: '9'
+  A: '9'
+  E: '1'
+  PCT: '.947'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Birch
+  nameClub1: Youngstown
+  Pos: 2B
+  G: '8'
+  PO: '16'
+  A: '15'
+  E: '2'
+  PCT: '.939'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mizerak
+  nameClub1: Erie
+  Pos: 2B
+  G: '6'
+  PO: '8'
+  A: '7'
+  E: '1'
+  PCT: '.937'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Baylon
+  nameClub1: Oil City
+  Pos: 2B
+  G: '7'
+  PO: '18'
+  A: '22'
+  E: '3'
+  PCT: '.930'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Zarod
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '6'
+  PO: '9'
+  A: '4'
+  E: '1'
+  PCT: '.929'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bell
+  nameClub1: Butler
+  Pos: 2B
+  G: '8'
+  PO: '8'
+  A: '23'
+  E: '3'
+  PCT: '.912'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Smayda
+  nameClub1: Oil City
+  Pos: 2B
+  G: '6'
+  PO: '26'
+  A: '18'
+  E: '5'
+  PCT: '.898'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Buffamonte
+  nameClub1: Niagara Falls
+  Pos: 2B
+  G: '4'
+  PO: '4'
+  A: '4'
+  E: '1'
+  PCT: '.889'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Williams
+  nameClub1: Oil City
+  Pos: 2B
+  G: '4'
+  PO: '8'
+  A: '11'
+  E: '4'
+  PCT: '.886'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reash
+  nameFirst: Dick
+  nameClub1: Oil City
+  Pos: 2B
+  G: '8'
+  PO: '20'
+  A: '17'
+  E: '5'
+  PCT: '.881'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Blonski
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '4'
+  PO: '8'
+  A: '5'
+  E: '3'
+  PCT: '.813'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Borowicz
+  nameClub1: Butler
+  Pos: 2B
+  G: '6'
+  PO: '16'
+  A: '5'
+  E: '5'
+  PCT: '.808'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wise
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '1'
+  PO: '2'
+  A: '2'
+  E: '1'
+  PCT: '.800'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Blackner
+  nameFirst: T.
+  nameClub1: Youngstown
+  Pos: 2B
+  G: '7'
+  PO: '12'
+  A: '14'
+  E: '7'
+  PCT: '.788'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Miller
+  nameClub1: Niagara Falls
+  Pos: 2B
+  G: '1'
+  PO: '5'
+  A: '1'
+  E: '2'
+  PCT: '.750'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harber
+  nameClub1: Niagara Falls
+  Pos: 2B
+  G: '1'
+  PO: '1'
+  A: '1'
+  E: '1'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Liberton
+  nameClub1: Butler
+  Pos: 2B
+  G: '2'
+  PO: '2'
+  A: '2'
+  E: '2'
+  PCT: '.600'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harvey
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Stoecker
+  nameClub1: Johnstown
+  Pos: 2B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Howell
+  nameClub1: Butler
+  Pos: 2B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Moore
+  nameClub1: Butler
+  Pos: 3B
+  G: '13'
+  PO: '5'
+  A: '24'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Zarod
+  nameClub1: Johnstown
+  Pos: 3B
+  G: '78'
+  PO: '80'
+  A: '145'
+  E: '14'
+  DP: '19'
+  PCT: '.941'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Brennan
+  nameClub1: Erie
+  Pos: 3B
+  G: '115'
+  PO: '123'
+  A: '235'
+  E: '29'
+  DP: '19'
+  PCT: '.925'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Maria
+  nameClub1: Youngstown
+  nameClub2: Johnstown
+  Pos: 3B
+  G: '46'
+  PO: '58'
+  A: '99'
+  E: '14'
+  DP: '6'
+  PCT: '.919'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mongieolli
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '126'
+  PO: '175'
+  A: '272'
+  E: '43'
+  DP: '18'
+  PCT: '.912'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Tuckey
+  nameClub1: Youngstown
+  Pos: 3B
+  G: '72'
+  PO: '94'
+  A: '144'
+  E: '25'
+  DP: '14'
+  PCT: '.908'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Dick
+  nameClub1: Johnstown
+  Pos: 3B
+  G: '15'
+  PO: '14'
+  A: '12'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Borowicz
+  nameClub1: Butler
+  Pos: 3B
+  G: '55'
+  PO: '62'
+  A: '92'
+  E: '19'
+  DP: '10'
+  PCT: '.890'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bell
+  nameClub1: Butler
+  Pos: 3B
+  G: '18'
+  PO: '28'
+  A: '27'
+  E: '7'
+  DP: '4'
+  PCT: '.887'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: McClelland
+  nameClub1: Oil City
+  Pos: 3B
+  G: '20'
+  PO: '32'
+  A: '31'
+  E: '10'
+  DP: '8'
+  PCT: '.863'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Jerina
+  nameClub1: Butler
+  Pos: 3B
+  G: '36'
+  PO: '28'
+  A: '47'
+  E: '12'
+  DP: '4'
+  PCT: '.862'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Roman
+  nameClub1: Oil City
+  Pos: 3B
+  G: '43'
+  PO: '36'
+  A: '90'
+  E: '21'
+  DP: '9'
+  PCT: '.857'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Davis
+  nameClub1: Butler
+  Pos: 3B
+  G: '12'
+  PO: '7'
+  A: '16'
+  E: '4'
+  DP: '2'
+  PCT: '.852'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Danila
+  nameClub1: Youngstown
+  Pos: 3B
+  G: '40'
+  PO: '33'
+  A: '65'
+  E: '19'
+  DP: '6'
+  PCT: '.838'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Marano
+  nameClub1: Oil City
+  Pos: 3B
+  G: '35'
+  PO: '40'
+  A: '53'
+  E: '19'
+  DP: '8'
+  PCT: '.830'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Paolisso
+  nameClub1: Oil City
+  Pos: 3B
+  G: '17'
+  PO: '24'
+  A: '34'
+  E: '15'
+  DP: '0'
+  PCT: '.795'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bartolomei
+  nameClub1: Erie
+  Pos: 3B
+  G: '9'
+  PO: '3'
+  A: '5'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Drakos
+  nameClub1: Erie
+  Pos: 3B
+  G: '3'
+  PO: '1'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mizerak
+  nameClub1: Erie
+  Pos: 3B
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: English
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Backner
+  nameFirst: T.
+  nameClub1: Youngstown
+  Pos: 3B
+  G: '1'
+  PO: '1'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Proechel
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '2'
+  PO: '3'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reash
+  nameFirst: R.
+  nameClub1: Oil City
+  Pos: 3B
+  G: '3'
+  PO: '1'
+  A: '3'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wapinsky
+  nameClub1: Oil City
+  Pos: 3B
+  G: '1'
+  PO: '1'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Major
+  nameClub1: Oil City
+  Pos: 3B
+  G: '2'
+  PO: '1'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wood
+  nameClub1: Butler
+  Pos: 3B
+  G: '4'
+  PO: '1'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Greco
+  nameClub1: Butler
+  Pos: 3B
+  G: '2'
+  PO: '0'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Paulson
+  nameClub1: Butler
+  Pos: 3B
+  G: '9'
+  PO: '8'
+  A: '20'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harig
+  nameClub1: Oil City
+  Pos: 3B
+  G: '8'
+  PO: '6'
+  A: '15'
+  E: '1'
+  PCT: '.955'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Baylon
+  nameClub1: Oil City
+  Pos: 3B
+  G: '9'
+  PO: '4'
+  A: '22'
+  E: '3'
+  PCT: '.897'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kinnaman
+  nameClub1: Johnstown
+  Pos: 3B
+  G: '3'
+  PO: '4'
+  A: '4'
+  E: '1'
+  PCT: '.889'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mitrus
+  nameClub1: Johnstown
+  Pos: 3B
+  G: '3'
+  PO: '4'
+  A: '11'
+  E: '2'
+  PCT: '.882'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Blonski
+  nameClub1: Johnstown
+  Pos: 3B
+  G: '6'
+  PO: '6'
+  A: '8'
+  E: '2'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Frantz
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '1'
+  PO: '4'
+  A: '3'
+  E: '1'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Riccobono
+  nameClub1: Oil City
+  Pos: 3B
+  G: '2'
+  PO: '1'
+  A: '4'
+  E: '1'
+  PCT: '.833'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Alotta
+  nameClub1: Erie
+  Pos: 3B
+  G: '7'
+  PO: '9'
+  A: '15'
+  E: '5'
+  PCT: '.828'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Cardinale
+  nameClub1: Johnstown
+  Pos: 3B
+  G: '2'
+  PO: '3'
+  A: '4'
+  E: '2'
+  PCT: '.778'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Tumiennle
+  nameClub1: Johnstown
+  Pos: 3B
+  G: '2'
+  PO: '3'
+  A: '3'
+  E: '2'
+  PCT: '.750'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Sawyer
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '2'
+  PO: '0'
+  A: '2'
+  E: '1'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Richardson
+  nameFirst: L.
+  nameClub1: Youngstown
+  Pos: 3B
+  G: '6'
+  PO: '1'
+  A: '4'
+  E: '3'
+  PCT: '.625'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Thompson
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '3'
+  PO: '1'
+  A: '2'
+  E: '2'
+  PCT: '.600'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Moore
+  nameClub1: Oil City
+  Pos: 3B
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '1'
+  PCT: '.500'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mruzinsky
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harber
+  nameClub1: Niagara Falls
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reeve
+  nameClub1: Oil City
+  Pos: 3B
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '2'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Burchfield
+  nameClub1: Butler
+  Pos: 3B
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mizerak
+  nameClub1: Erie
+  Pos: SS
+  G: '108'
+  PO: '153'
+  A: '260'
+  E: '22'
+  DP: '39'
+  PCT: '.950'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bartolomei
+  nameClub1: Erie
+  Pos: SS
+  G: '32'
+  PO: '45'
+  A: '65'
+  E: '8'
+  DP: '8'
+  PCT: '.932'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Angelone
+  nameClub1: Johnstown
+  Pos: SS
+  G: '26'
+  PO: '48'
+  A: '70'
+  E: '10'
+  DP: '13'
+  PCT: '.922'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Paulson
+  nameClub1: Butler
+  Pos: SS
+  G: '70'
+  PO: '133'
+  A: '187'
+  E: '28'
+  DP: '26'
+  PCT: '.920'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mitrus
+  nameClub1: Johnstown
+  Pos: SS
+  G: '27'
+  PO: '44'
+  A: '85'
+  E: '13'
+  DP: '13'
+  PCT: '.908'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mongiello
+  nameFirst: T.
+  nameClub1: Niagara Falls
+  Pos: SS
+  G: '113'
+  PO: '197'
+  A: '318'
+  E: '53'
+  DP: '44'
+  PCT: '.907'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Milesik
+  nameClub1: Erie
+  Pos: SS
+  G: '17'
+  PO: '22'
+  A: '35'
+  E: '6'
+  DP: '3'
+  PCT: '.905'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Gardner
+  nameClub1: Youngstown
+  Pos: SS
+  G: '121'
+  PO: '259'
+  A: '305'
+  E: '62'
+  DP: '49'
+  PCT: '.901'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Moore
+  nameClub1: Butler
+  Pos: SS
+  G: '61'
+  PO: '98'
+  A: '173'
+  E: '30'
+  DP: '29'
+  PCT: '.900'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Smayda
+  nameClub1: Oil City
+  Pos: SS
+  G: '117'
+  PO: '200'
+  A: '346'
+  E: '78'
+  DP: '46'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Flowers
+  nameClub1: Johnstown
+  Pos: SS
+  G: '25'
+  PO: '35'
+  A: '62'
+  E: '16'
+  DP: '9'
+  PCT: '.858'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Magee
+  nameClub1: Johnstown
+  Pos: SS
+  G: '31'
+  PO: '51'
+  A: '70'
+  E: '21'
+  DP: '4'
+  PCT: '.852'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Baylon
+  nameClub1: Oil City
+  Pos: SS
+  G: '10'
+  PO: '17'
+  A: '28'
+  E: '12'
+  DP: '2'
+  PCT: '.788'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Frantz
+  nameClub1: Niagara Falls
+  Pos: SS
+  G: '10'
+  PO: '14'
+  A: '9'
+  E: '7'
+  DP: '1'
+  PCT: '.767'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Stoeher
+  nameClub1: Johnstown
+  Pos: SS
+  G: '2'
+  PO: '2'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Major
+  nameClub1: Oil City
+  Pos: SS
+  G: '2'
+  PO: '1'
+  A: '4'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Tuminelli
+  nameClub1: Johnstown
+  Pos: SS
+  G: '8'
+  PO: '19'
+  A: '19'
+  E: '2'
+  PCT: '.950'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Brennan
+  nameClub1: Erie
+  Pos: SS
+  G: '2'
+  PO: '4'
+  A: '10'
+  E: '1'
+  PCT: '.933'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mongiello
+  nameFirst: B.
+  nameClub1: Niagara Falls
+  Pos: SS
+  G: '5'
+  PO: '13'
+  A: '11'
+  E: '2'
+  PCT: '.923'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rehm
+  nameClub1: Johnstown
+  Pos: SS
+  G: '8'
+  PO: '12'
+  A: '23'
+  E: '3'
+  PCT: '.921'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Danila
+  nameClub1: Youngstown
+  Pos: SS
+  G: '2'
+  PO: '4'
+  A: '2'
+  E: '1'
+  PCT: '.857'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Maria
+  nameClub1: Johnstown
+  nameClub2: Youngstown
+  Pos: SS
+  G: '7'
+  PO: '8'
+  A: '22'
+  E: '5'
+  PCT: '.857'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Dick
+  nameClub1: Johnstown
+  Pos: SS
+  G: '9'
+  PO: '11'
+  A: '18'
+  E: '5'
+  PCT: '.852'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Paolisso
+  nameClub1: Oil City
+  Pos: SS
+  G: '5'
+  PO: '16'
+  A: '15'
+  E: '6'
+  PCT: '.838'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Drakos
+  nameClub1: Erie
+  Pos: SS
+  G: '3'
+  PO: '2'
+  A: '8'
+  E: '2'
+  PCT: '.833'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lavosky
+  nameClub1: Oil City
+  Pos: SS
+  G: '4'
+  PO: '5'
+  A: '3'
+  E: '4'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Miller
+  nameClub1: Niagara Falls
+  Pos: SS
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '1'
+  PCT: '.500'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Seebold
+  nameClub1: Butler
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Frantz
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '33'
+  PO: '89'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.980'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kovach
+  nameClub1: Youngstown
+  Pos: OF
+  G: '52'
+  PO: '75'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.977'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Koller
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '74'
+  PO: '140'
+  A: '12'
+  E: '4'
+  DP: '2'
+  PCT: '.975'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reash
+  nameFirst: R.
+  nameClub1: Oil City
+  Pos: OF
+  G: '47'
+  PO: '87'
+  A: '9'
+  E: '3'
+  DP: '2'
+  PCT: '.970'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Colombo
+  nameClub1: Erie
+  Pos: OF
+  G: '105'
+  PO: '175'
+  A: '15'
+  E: '6'
+  DP: '3'
+  PCT: '.969'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Webb
+  nameClub1: Erie
+  Pos: OF
+  G: '13'
+  PO: '21'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Proechell
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '38'
+  PO: '50'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.964'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mori
+  nameClub1: Youngstown
+  Pos: OF
+  G: '17'
+  PO: '22'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.964'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Fucci
+  nameClub1: Butler
+  Pos: OF
+  G: '131'
+  PO: '278'
+  A: '19'
+  E: '11'
+  DP: '3'
+  PCT: '.964'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Thomaier
+  nameClub1: Johnstown
+  Pos: OF
+  G: '110'
+  PO: '161'
+  A: '17'
+  E: '7'
+  DP: '6'
+  PCT: '.962'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Magnorelli
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '16'
+  PO: '24'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wise
+  nameClub1: Johnstown
+  Pos: OF
+  G: '126'
+  PO: '286'
+  A: '26'
+  E: '13'
+  DP: '6'
+  PCT: '.960'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Strosser
+  nameClub1: Youngstown
+  Pos: OF
+  G: '92'
+  PO: '147'
+  A: '10'
+  E: '7'
+  DP: '2'
+  PCT: '.957'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Pavlick
+  nameClub1: Erie
+  Pos: OF
+  G: '102'
+  PO: '163'
+  A: '9'
+  E: '8'
+  DP: '3'
+  PCT: '.956'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Scala
+  nameClub1: Erie
+  Pos: OF
+  G: '95'
+  PO: '163'
+  A: '7'
+  E: '8'
+  DP: '1'
+  PCT: '.955'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Buffone
+  nameClub1: Youngstown
+  nameClub2: Oil City
+  Pos: OF
+  G: '10'
+  PO: '19'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Johnson
+  nameFirst: C.
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '35'
+  PO: '72'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.950'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Myers
+  nameClub1: Oil City
+  Pos: OF
+  G: '124'
+  PO: '259'
+  A: '23'
+  E: '15'
+  DP: '3'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Cunningham
+  nameClub1: Youngstown
+  Pos: OF
+  G: '54'
+  PO: '84'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.947'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harig
+  nameClub1: Oil City
+  Pos: OF
+  G: '45'
+  PO: '47'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.945'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Horney
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '13'
+  PO: '15'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Moore
+  nameClub1: Oil City
+  Pos: OF
+  G: '95'
+  PO: '170'
+  A: '12'
+  E: '11'
+  DP: '2'
+  PCT: '.943'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Varnak
+  nameClub1: Johnstown
+  Pos: OF
+  G: '19'
+  PO: '28'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Grella
+  nameClub1: Erie
+  nameClub2: Johnstown
+  Pos: OF
+  G: '92'
+  PO: '104'
+  A: '8'
+  E: '7'
+  DP: '1'
+  PCT: '.941'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kern
+  nameClub1: Butler
+  Pos: OF
+  G: '48'
+  PO: '41'
+  A: '5'
+  E: '3'
+  DP: '2'
+  PCT: '.939'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bazarnick
+  nameClub1: Youngstown
+  Pos: OF
+  G: '15'
+  PO: '14'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.937'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mruzinsky
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '59'
+  PO: '108'
+  A: '8'
+  E: '8'
+  DP: '2'
+  PCT: '.935'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Och
+  nameClub1: Butler
+  Pos: OF
+  G: '20'
+  PO: '13'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Widmayer
+  nameClub1: Butler
+  Pos: OF
+  G: '40'
+  PO: '41'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mruzinsky
+  nameClub1: Niagara Falls
+  nameClub2: Oil City
+  Pos: OF
+  G: '91'
+  PO: '148'
+  A: '9'
+  E: '12'
+  DP: '2'
+  PCT: '.929'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kroll
+  nameClub1: Oil City
+  Pos: OF
+  G: '12'
+  PO: '12'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harnick
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '102'
+  PO: '138'
+  A: '16'
+  E: '12'
+  DP: '4'
+  PCT: '.928'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Behie
+  nameClub1: Butler
+  Pos: OF
+  G: '128'
+  PO: '152'
+  A: '13'
+  E: '13'
+  DP: '1'
+  PCT: '.927'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Alotta
+  nameClub1: Erie
+  Pos: OF
+  G: '55'
+  PO: '50'
+  A: '10'
+  E: '5'
+  DP: '0'
+  PCT: '.923'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Flesland
+  nameClub1: Erie
+  Pos: OF
+  G: '16'
+  PO: '20'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.923'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Peloe
+  nameClub1: Youngstown
+  Pos: OF
+  G: '116'
+  PO: '194'
+  A: '14'
+  E: '18'
+  DP: '2'
+  PCT: '.921'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mruzinsky
+  nameClub1: Oil City
+  Pos: OF
+  G: '32'
+  PO: '40'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.911'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Magee
+  nameClub1: Johnstown
+  Pos: OF
+  G: '11'
+  PO: '8'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reash
+  nameFirst: Dick
+  nameClub1: Oil City
+  Pos: OF
+  G: '26'
+  PO: '33'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.900'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Blachner
+  nameClub1: Youngstown
+  Pos: OF
+  G: '25'
+  PO: '29'
+  A: '6'
+  E: '4'
+  DP: '2'
+  PCT: '.898'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Billings
+  nameClub1: Johnstown
+  Pos: OF
+  G: '17'
+  PO: '16'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Davis
+  nameClub1: Butler
+  Pos: OF
+  G: '20'
+  PO: '27'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.886'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Dick
+  nameClub1: Johnstown
+  Pos: OF
+  G: '39'
+  PO: '45'
+  A: '4'
+  E: '7'
+  DP: '1'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Moore
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '17'
+  PO: '25'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.862'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Ehehalt
+  nameClub1: Erie
+  Pos: OF
+  G: '1'
+  PO: '2'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bamberger
+  nameClub1: Erie
+  Pos: OF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Muse
+  nameClub1: Erie
+  Pos: OF
+  G: '3'
+  PO: '3'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Drews
+  nameClub1: Erie
+  Pos: OF
+  G: '1'
+  PO: '4'
+  A: '3'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lamondalo
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kohler
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '5'
+  PO: '4'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Thompson
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '3'
+  PO: '2'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reiber
+  nameClub1: Youngstown
+  Pos: OF
+  G: '9'
+  PO: '18'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Sabo
+  nameClub1: Youngstown
+  Pos: OF
+  G: '3'
+  PO: '6'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Shanks
+  nameClub1: Youngstown
+  Pos: OF
+  G: '9'
+  PO: '22'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Miller
+  nameClub1: Oil City
+  Pos: OF
+  G: '7'
+  PO: '7'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Gottschall
+  nameClub1: Oil City
+  Pos: OF
+  G: '5'
+  PO: '4'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lavosky
+  nameClub1: Oil City
+  Pos: OF
+  G: '5'
+  PO: '3'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Pfeifer
+  nameClub1: Johnstown
+  Pos: OF
+  G: '2'
+  PO: '1'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Parisi
+  nameClub1: Johnstown
+  Pos: OF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wolfe
+  nameClub1: Johnstown
+  Pos: OF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Zerod
+  nameClub1: Johnstown
+  Pos: OF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Orange
+  nameClub1: Johnstown
+  Pos: OF
+  G: '8'
+  PO: '11'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Warfield
+  nameClub1: Johnstown
+  Pos: OF
+  G: '4'
+  PO: '6'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Beres
+  nameClub1: Johnstown
+  Pos: OF
+  G: '3'
+  PO: '3'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Hotles
+  nameClub1: Johnstown
+  Pos: OF
+  G: '3'
+  PO: '3'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Patterson
+  nameClub1: Johnstown
+  Pos: OF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Liberton
+  nameClub1: Butler
+  Pos: OF
+  G: '1'
+  PO: '1'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Komar
+  nameClub1: Butler
+  Pos: OF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Greco
+  nameClub1: Butler
+  Pos: OF
+  G: '5'
+  PO: '5'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bell
+  nameClub1: Butler
+  Pos: OF
+  G: '2'
+  PO: '2'
+  A: '0'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Richardson
+  nameFirst: J.
+  nameClub1: Youngstown
+  Pos: OF
+  G: '5'
+  PO: '9'
+  A: '1'
+  E: '1'
+  PCT: '.909'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Hedman
+  nameClub1: Oil City
+  Pos: OF
+  G: '6'
+  PO: '8'
+  A: '1'
+  E: '1'
+  PCT: '.900'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wernert
+  nameClub1: Johnstown
+  Pos: OF
+  G: '8'
+  PO: '7'
+  A: '1'
+  E: '1'
+  PCT: '.889'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Ciori
+  nameClub1: Butler
+  Pos: OF
+  G: '9'
+  PO: '13'
+  A: '0'
+  E: '2'
+  PCT: '.867'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Scally
+  nameClub1: Youngstown
+  Pos: OF
+  G: '8'
+  PO: '8'
+  A: '1'
+  E: '2'
+  PCT: '.818'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kinnamon
+  nameClub1: Johnstown
+  Pos: OF
+  G: '1'
+  PO: '3'
+  A: '1'
+  E: '1'
+  PCT: '.800'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: McIntyre
+  nameClub1: Oil City
+  Pos: OF
+  G: '5'
+  PO: '2'
+  A: '0'
+  E: '1'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Grampsey
+  nameClub1: Johnstown
+  Pos: OF
+  G: '3'
+  PO: '2'
+  A: '0'
+  E: '1'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Miasek
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '2'
+  PO: '1'
+  A: '0'
+  E: '1'
+  PCT: '.500'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Drakos
+  nameClub1: Erie
+  Pos: OF
+  G: '3'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Natale
+  nameClub1: Erie
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Marsicona
+  nameClub1: Erie
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Ward
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '1'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Miller
+  nameClub1: Niagara Falls
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wapinsky
+  nameClub1: Oil City
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kroner
+  nameClub1: Oil City
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Souza
+  nameClub1: Johnstown
+  Pos: OF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Tuminelle
+  nameClub1: Johnstown
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Stoeher
+  nameClub1: Johnstown
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Misosky
+  nameClub1: Johnstown
+  Pos: OF
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Burchfield
+  nameClub1: Butler
+  Pos: OF
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lembo
+  nameClub1: Johnstown
+  Pos: C
+  G: '31'
+  PO: '168'
+  A: '25'
+  E: '2'
+  DP: '0'
+  PCT: '.990'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Greco
+  nameClub1: Butler
+  Pos: C
+  G: '59'
+  PO: '319'
+  A: '55'
+  E: '9'
+  DP: '8'
+  PCT: '.976'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lance
+  nameClub1: Erie
+  Pos: C
+  G: '83'
+  PO: '503'
+  A: '46'
+  E: '15'
+  DP: '7'
+  PCT: '.973'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rosner
+  nameClub1: Butler
+  Pos: C
+  G: '63'
+  PO: '307'
+  A: '42'
+  E: '11'
+  DP: '2'
+  PCT: '.970'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Richardson
+  nameFirst: L.
+  nameClub1: Youngstown
+  Pos: C
+  G: '100'
+  PO: '556'
+  A: '86'
+  E: '21'
+  DP: '13'
+  PCT: '.968'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Muse
+  nameClub1: Erie
+  nameClub2: Oil City
+  Pos: C
+  G: '53'
+  PO: '288'
+  A: '42'
+  E: '11'
+  DP: '5'
+  PCT: '.968'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wood
+  nameClub1: Butler
+  Pos: C
+  G: '22'
+  PO: '132'
+  A: '16'
+  E: '5'
+  DP: '2'
+  PCT: '.967'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Miller
+  nameClub1: Oil City
+  Pos: C
+  G: '72'
+  PO: '319'
+  A: '53'
+  E: '14'
+  DP: '2'
+  PCT: '.964'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Prozer
+  nameClub1: Niagara Falls
+  Pos: C
+  G: '13'
+  PO: '64'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PCT: '.960'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wapinsky
+  nameClub1: Oil City
+  Pos: C
+  G: '46'
+  PO: '197'
+  A: '30'
+  E: '11'
+  DP: '3'
+  PCT: '.954'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bellany
+  nameClub1: Niagara Falls
+  Pos: C
+  G: '33'
+  PO: '182'
+  A: '34'
+  E: '11'
+  DP: '4'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Cunningham
+  nameClub1: Youngstown
+  nameClub2: Butler
+  Pos: C
+  G: '35'
+  PO: '130'
+  A: '18'
+  E: '8'
+  DP: '2'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Frantz
+  nameClub1: Niagara Falls
+  Pos: C
+  G: '41'
+  PO: '190'
+  A: '38'
+  E: '13'
+  DP: '3'
+  PCT: '.946'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kinnaman
+  nameClub1: Johnstown
+  Pos: C
+  G: '60'
+  PO: '258'
+  A: '52'
+  E: '18'
+  DP: '4'
+  PCT: '.945'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Sternadori
+  nameClub1: Oil City
+  Pos: C
+  G: '16'
+  PO: '69'
+  A: '15'
+  E: '5'
+  DP: '2'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Drews
+  nameClub1: Erie
+  Pos: C
+  G: '15'
+  PO: '90'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.939'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Blaylock
+  nameClub1: Johnstown
+  Pos: C
+  G: '36'
+  PO: '208'
+  A: '34'
+  E: '17'
+  DP: '7'
+  PCT: '.934'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: English
+  nameClub1: Niagara Falls
+  Pos: C
+  G: '39'
+  PO: '153'
+  A: '21'
+  E: '18'
+  DP: '2'
+  PCT: '.906'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Spangler
+  nameClub1: Youngstown
+  Pos: C
+  G: '12'
+  PO: '40'
+  A: '8'
+  E: '6'
+  DP: '2'
+  PCT: '.889'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Tuminelli
+  nameClub1: Johnstown
+  Pos: C
+  G: '8'
+  PO: '49'
+  A: '6'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Marges
+  nameClub1: Butler
+  Pos: C
+  G: '2'
+  PO: '13'
+  A: '3'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: LaLonge
+  nameClub1: Niagara Falls
+  Pos: C
+  G: '7'
+  PO: '46'
+  A: '3'
+  E: '1'
+  PCT: '.980'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Slifka
+  nameClub1: Youngstown
+  Pos: C
+  G: '5'
+  PO: '19'
+  A: '4'
+  E: '1'
+  PCT: '.958'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Brickman
+  nameClub1: Butler
+  Pos: C
+  G: '9'
+  PO: '37'
+  A: '1'
+  E: '5'
+  PCT: '.884'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Snyder
+  nameClub1: Niagara Falls
+  Pos: C
+  G: '5'
+  PO: '28'
+  A: '2'
+  E: '4'
+  PCT: '.882'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Thompson
+  nameClub1: Niagara Falls
+  Pos: C
+  G: '3'
+  PO: '15'
+  A: '1'
+  E: '3'
+  PCT: '.842'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Ehehalt
+  nameClub1: Erie
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Natale
+  nameClub1: Erie
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Busco
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Snoddy
+  nameClub1: Youngstown
+  Pos: P
+  G: '33'
+  PO: '3'
+  A: '30'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Patterson
+  nameClub1: Johnstown
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '19'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Peterson
+  nameClub1: Butler
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Uber
+  nameClub1: Erie
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '49'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Webb
+  nameClub1: Erie
+  Pos: P
+  G: '25'
+  PO: '13'
+  A: '50'
+  E: '2'
+  DP: '4'
+  PCT: '.969'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Doleshal
+  nameClub1: Youngstown
+  Pos: P
+  G: '29'
+  PO: '11'
+  A: '51'
+  E: '2'
+  DP: '4'
+  PCT: '.969'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rushnock
+  nameClub1: Erie
+  Pos: P
+  G: '27'
+  PO: '13'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: McIntyre
+  nameClub1: Oil City
+  Pos: P
+  G: '27'
+  PO: '13'
+  A: '24'
+  E: '2'
+  DP: '0'
+  PCT: '.960'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Misosky
+  nameClub1: Johnstown
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wagner
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '40'
+  E: '2'
+  DP: '2'
+  PCT: '.958'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Sabine
+  nameClub1: Erie
+  Pos: P
+  G: '28'
+  PO: '12'
+  A: '33'
+  E: '2'
+  DP: '1'
+  PCT: '.957'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wright
+  nameClub1: Oil City
+  Pos: P
+  G: '31'
+  PO: '10'
+  A: '68'
+  E: '4'
+  DP: '3'
+  PCT: '.951'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kucab
+  nameClub1: Youngstown
+  Pos: P
+  G: '15'
+  PO: '10'
+  A: '26'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Bamberger
+  nameClub1: Erie
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '29'
+  E: '2'
+  DP: '4'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Johnson
+  nameClub1: Johnstown
+  Pos: P
+  G: '34'
+  PO: '6'
+  A: '41'
+  E: '3'
+  DP: '1'
+  PCT: '.940'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Souza
+  nameClub1: Johnstown
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '36'
+  E: '3'
+  DP: '2'
+  PCT: '.933'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Komar
+  nameClub1: Butler
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '57'
+  E: '5'
+  DP: '5'
+  PCT: '.931'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Maloney
+  nameClub1: Butler
+  Pos: P
+  G: '33'
+  PO: '12'
+  A: '41'
+  E: '4'
+  DP: '2'
+  PCT: '.930'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Moody
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '30'
+  E: '3'
+  DP: '2'
+  PCT: '.929'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Americo
+  nameClub1: Youngstown
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '24'
+  E: '2'
+  DP: '4'
+  PCT: '.928'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Elko
+  nameClub1: Youngstown
+  Pos: P
+  G: '30'
+  PO: '4'
+  A: '33'
+  E: '3'
+  DP: '0'
+  PCT: '.925'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Ward
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '33'
+  PO: '7'
+  A: '40'
+  E: '4'
+  DP: '1'
+  PCT: '.921'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Reiber
+  nameClub1: Youngstown
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '28'
+  E: '3'
+  DP: '2'
+  PCT: '.919'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Harvey
+  nameClub1: Erie
+  nameClub2: Johnstown
+  Pos: P
+  G: '30'
+  PO: '8'
+  A: '26'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Gottschall
+  nameClub1: Oil City
+  Pos: P
+  G: '31'
+  PO: '15'
+  A: '57'
+  E: '7'
+  DP: '1'
+  PCT: '.911'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rochevot
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '34'
+  PO: '10'
+  A: '51'
+  E: '6'
+  DP: '0'
+  PCT: '.910'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Firavanti
+  nameClub1: Oil City
+  nameClub2: Youngstown
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.910'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Frantz
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '7'
+  E: '1'
+  DP: '2'
+  PCT: '.909'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: VanCott
+  nameClub1: Johnstown
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.900'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mitchell
+  nameClub1: Butler
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '45'
+  E: '6'
+  DP: '0'
+  PCT: '.895'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Peterlic
+  nameClub1: Youngstown
+  Pos: P
+  G: '30'
+  PO: '18'
+  A: '52'
+  E: '8'
+  DP: '2'
+  PCT: '.892'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Liberton
+  nameClub1: Butler
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '19'
+  E: '3'
+  DP: '3'
+  PCT: '.885'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Grimes
+  nameClub1: Oil City
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '28'
+  E: '4'
+  DP: '1'
+  PCT: '.882'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wernert
+  nameClub1: Johnstown
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.880'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Judy
+  nameClub1: Oil City
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '32'
+  E: '6'
+  DP: '2'
+  PCT: '.878'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Och
+  nameClub1: Butler
+  Pos: P
+  G: '23'
+  PO: '2'
+  A: '40'
+  E: '6'
+  DP: '2'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kroner
+  nameClub1: Oil City
+  Pos: P
+  G: '24'
+  PO: '10'
+  A: '38'
+  E: '7'
+  DP: '0'
+  PCT: '.873'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Schneider
+  nameClub1: Oil City
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '23'
+  E: '4'
+  DP: '0'
+  PCT: '.852'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kaiser
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '55'
+  PO: '6'
+  A: '34'
+  E: '7'
+  DP: '2'
+  PCT: '.851'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Beres
+  nameClub1: Johnstown
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.846'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kowalchyk
+  nameClub1: Butler
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '34'
+  E: '6'
+  DP: '1'
+  PCT: '.833'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wolfe
+  nameClub1: Johnstown
+  Pos: P
+  G: '18'
+  PO: '1'
+  A: '17'
+  E: '4'
+  DP: '1'
+  PCT: '.818'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Sharkey
+  nameClub1: Butler
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Brennan
+  nameClub1: Erie
+  Pos: P
+  G: '8'
+  PO: '3'
+  A: '11'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lapaham
+  nameClub1: Erie
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '3'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Zillian
+  nameClub1: Erie
+  Pos: P
+  G: '5'
+  PO: '1'
+  A: '5'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Mattula
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Proechel
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Shank
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Playfair
+  nameClub1: Youngstown
+  Pos: P
+  G: '2'
+  PO: '1'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Ratkovicz
+  nameClub1: Youngstown
+  Pos: P
+  G: '4'
+  PO: '3'
+  A: '5'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: O'Neal
+  nameClub1: Oil City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '3'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Newson
+  nameClub1: Oil City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Wilson
+  nameClub1: Oil City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Hrelec
+  nameClub1: Oil City
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '3'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rodeghiero
+  nameClub1: Johnstown
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Fields
+  nameClub1: Johnstown
+  Pos: P
+  G: '4'
+  PO: '1'
+  A: '4'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Richardson
+  nameClub1: Johnstown
+  Pos: P
+  G: '8'
+  PO: '1'
+  A: '9'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Conklin
+  nameClub1: Johnstown
+  Pos: P
+  G: '5'
+  PO: '1'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Pfeifer
+  nameClub1: Johnstown
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Solters
+  nameClub1: Butler
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Curtes
+  nameClub1: Butler
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '2'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Howell
+  nameClub1: Butler
+  Pos: P
+  G: '7'
+  PO: '0'
+  A: '1'
+  E: '0'
+  PCT: '1.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Immell
+  nameClub1: Johnstown
+  Pos: P
+  G: '8'
+  PO: '2'
+  A: '21'
+  E: '1'
+  PCT: '.958'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Smith
+  nameClub1: Johnstown
+  Pos: P
+  G: '6'
+  PO: '4'
+  A: '7'
+  E: '1'
+  PCT: '.917'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Parisi
+  nameClub1: Johnstown
+  Pos: P
+  G: '8'
+  PO: '1'
+  A: '9'
+  E: '1'
+  PCT: '.909'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Pertazollo
+  nameClub1: Butler
+  Pos: P
+  G: '7'
+  PO: '3'
+  A: '11'
+  E: '2'
+  PCT: '.875'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Ifft
+  nameClub1: Youngstown
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '6'
+  E: '1'
+  PCT: '.857'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Rabeler
+  nameClub1: Butler
+  Pos: P
+  G: '8'
+  PO: '1'
+  A: '10'
+  E: '2'
+  PCT: '.846'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Foster
+  nameClub1: Youngstown
+  Pos: P
+  G: '9'
+  PO: '2'
+  A: '13'
+  E: '3'
+  PCT: '.833'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Butcher
+  nameClub1: Oil City
+  Pos: P
+  G: '6'
+  PO: '0'
+  A: '5'
+  E: '1'
+  PCT: '.833'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Cingolani
+  nameClub1: Erie
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '3'
+  E: '1'
+  PCT: '.750'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Tribotte
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '6'
+  PO: '0'
+  A: '2'
+  E: '1'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Piontaka
+  nameClub1: Oil City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '4'
+  E: '2'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Walker
+  nameClub1: Butler
+  Pos: P
+  G: '5'
+  PO: '0'
+  A: '2'
+  E: '1'
+  PCT: '.667'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Healey
+  nameClub1: Youngstown
+  Pos: P
+  G: '9'
+  PO: '0'
+  A: '6'
+  E: '4'
+  PCT: '.600'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Kinnaman
+  nameClub1: Johnstown
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '2'
+  E: '2'
+  PCT: '.500'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Welch
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '1'
+  E: '2'
+  PCT: '.333'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Nisley
+  nameClub1: Erie
+  Pos: P
+  G: '3'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Morrison
+  nameClub1: Erie
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: McCarthy
+  nameClub1: Niagara Falls
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Lumley
+  nameClub1: Oil City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Hurley
+  nameClub1: Oil City
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Beres
+  nameClub1: Johnstown
+  Pos: P
+  G: '2'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameLast: Malone
+  nameClub1: Butler
+  Pos: P
+  G: '1'
+  PO: '0'
+  A: '0'
+  E: '0'
+  PCT: '.000'

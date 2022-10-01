@@ -1,0 +1,118 @@
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Bassett
+  phase: regular
+  W: '76'
+  L: '40'
+  T: '1'
+  PCT: '.655'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Mayodan
+  phase: regular
+  W: '73'
+  L: '46'
+  T: '0'
+  PCT: '.613'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Reidsville
+  phase: regular
+  W: '71'
+  L: '48'
+  T: '0'
+  PCT: '.597'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Danville
+  phase: regular
+  W: '63'
+  L: '55'
+  T: '0'
+  PCT: '.534'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Martinsville
+  phase: regular
+  W: '61'
+  L: '56'
+  T: '0'
+  PCT: '.521'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Mount Airy
+  phase: regular
+  W: '49'
+  L: '69'
+  T: '1'
+  PCT: '.415'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: South Boston-Halifax
+  phase: regular
+  W: '43'
+  L: '77'
+  T: '0'
+  PCT: '.358'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Leaksville-Draper-Spray
+  phase: regular
+  W: '37'
+  L: '82'
+  T: '0'
+  PCT: '.311'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Bassett
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Reidsville
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Danville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Mayodan
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Bassett
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Danville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

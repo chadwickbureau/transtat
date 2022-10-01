@@ -1,0 +1,80 @@
+- year: '1954'
+  nameLeague: International League
+  nameClub: Toronto
+  Montreal: '9'
+  Rochester: '12'
+  Syracuse: '17'
+  Havana: '14'
+  Buffalo: '16'
+  Richmond: '14'
+  Ottawa: '15'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Montreal
+  Toronto: '13'
+  Rochester: '10'
+  Syracuse: '14'
+  Havana: '14'
+  Buffalo: '12'
+  Richmond: '13'
+  Ottawa: '12'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Rochester
+  Toronto: '10'
+  Montreal: '12'
+  Syracuse: '11'
+  Havana: '7'
+  Buffalo: '13'
+  Richmond: '18'
+  Ottawa: '15'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Syracuse
+  Toronto: '5'
+  Montreal: '8'
+  Rochester: '11'
+  Havana: '12'
+  Buffalo: '15'
+  Richmond: '12'
+  Ottawa: '16'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Havana
+  Toronto: '8'
+  Montreal: '8'
+  Rochester: '15'
+  Syracuse: '11'
+  Buffalo: '10'
+  Richmond: '13'
+  Ottawa: '13'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Buffalo
+  Toronto: '6'
+  Montreal: '10'
+  Rochester: '9'
+  Syracuse: '7'
+  Havana: '12'
+  Richmond: '14'
+  Ottawa: '13'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Richmond
+  Toronto: '8'
+  Montreal: '9'
+  Rochester: '4'
+  Syracuse: '10'
+  Havana: '9'
+  Buffalo: '8'
+  Ottawa: '12'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Ottawa
+  Toronto: '7'
+  Montreal: '10'
+  Rochester: '7'
+  Syracuse: '6'
+  Havana: '9'
+  Buffalo: '9'
+  Richmond: '10'

@@ -1,0 +1,80 @@
+- year: '1936'
+  nameLeague: International League
+  nameClub: Buffalo
+  Rochester: '12'
+  Newark: '11'
+  Baltimore: '13'
+  Toronto: '13'
+  Montreal: '17'
+  Syracuse: '14'
+  Albany: '14'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Rochester
+  Buffalo: '10'
+  Newark: '9'
+  Baltimore: '13'
+  Toronto: '16'
+  Montreal: '12'
+  Syracuse: '12'
+  Albany: '17'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Newark
+  Buffalo: '11'
+  Rochester: '14'
+  Baltimore: '12'
+  Toronto: '7'
+  Montreal: '14'
+  Syracuse: '16'
+  Albany: '14'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Baltimore
+  Buffalo: '9'
+  Rochester: '9'
+  Newark: '10'
+  Toronto: '14'
+  Montreal: '12'
+  Syracuse: '12'
+  Albany: '15'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Toronto
+  Buffalo: '9'
+  Rochester: '6'
+  Newark: '15'
+  Baltimore: '8'
+  Montreal: '10'
+  Syracuse: '14'
+  Albany: '15'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Montreal
+  Buffalo: '5'
+  Rochester: '10'
+  Newark: '8'
+  Baltimore: '9'
+  Toronto: '11'
+  Syracuse: '15'
+  Albany: '13'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Syracuse
+  Buffalo: '8'
+  Rochester: '10'
+  Newark: '6'
+  Baltimore: '10'
+  Toronto: '8'
+  Montreal: '7'
+  Albany: '10'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Albany
+  Buffalo: '8'
+  Rochester: '5'
+  Newark: '8'
+  Baltimore: '7'
+  Toronto: '7'
+  Montreal: '9'
+  Syracuse: '12'

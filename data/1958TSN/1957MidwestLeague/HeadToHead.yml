@@ -1,0 +1,80 @@
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  Decatur: '8'
+  Dubuque: '10'
+  Michigan City: '11'
+  Clinton: '10'
+  Lafayette: '13'
+  Paris: '12'
+  Mattoon: '13'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  Kokomo: '11'
+  Dubuque: '7'
+  Michigan City: '12'
+  Clinton: '10'
+  Lafayette: '10'
+  Paris: '11'
+  Mattoon: '15'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  Kokomo: '8'
+  Decatur: '11'
+  Michigan City: '9'
+  Clinton: '12'
+  Lafayette: '8'
+  Paris: '12'
+  Mattoon: '13'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  Kokomo: '7'
+  Decatur: '6'
+  Dubuque: '9'
+  Clinton: '11'
+  Lafayette: '9'
+  Paris: '12'
+  Mattoon: '14'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  Kokomo: '8'
+  Decatur: '8'
+  Dubuque: '6'
+  Michigan City: '7'
+  Lafayette: '8'
+  Paris: '9'
+  Mattoon: '10'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Lafayette
+  Kokomo: '5'
+  Decatur: '8'
+  Dubuque: '8'
+  Michigan City: '9'
+  Clinton: '9'
+  Paris: '8'
+  Mattoon: '8'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Paris
+  Kokomo: '6'
+  Decatur: '7'
+  Dubuque: '6'
+  Michigan City: '6'
+  Clinton: '8'
+  Lafayette: '9'
+  Mattoon: '9'
+- year: '1957'
+  nameLeague: Midwest League
+  nameClub: Mattoon
+  Kokomo: '5'
+  Decatur: '3'
+  Dubuque: '5'
+  Michigan City: '3'
+  Clinton: '8'
+  Lafayette: '10'
+  Paris: '9'

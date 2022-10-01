@@ -1,0 +1,110 @@
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Tarboro
+  phase: regular
+  W: '66'
+  L: '41'
+  PCT: '.617'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: New Bern
+  phase: regular
+  W: '67'
+  L: '44'
+  PCT: '.604'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Snow Hill
+  phase: regular
+  W: '64'
+  L: '45'
+  PCT: '.587'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: regular
+  W: '64'
+  L: '45'
+  PCT: '.587'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Greenville
+  phase: regular
+  W: '64'
+  L: '47'
+  PCT: '.577'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Goldsboro
+  phase: regular
+  W: '55'
+  L: '57'
+  PCT: '.491'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Ayden
+  phase: regular
+  W: '53'
+  L: '58'
+  PCT: '.477'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Williamston
+  phase: regular
+  W: '50'
+  L: '62'
+  PCT: '.446'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: New Bern
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Snow Hill
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Tarboro
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: New Bern
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameClub: Snow Hill
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,60 @@
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: Glace Bay
+  phase: regular
+  W: '30'
+  L: '21'
+  PCT: '.588'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: Sydney
+  phase: regular
+  W: '27'
+  L: '25'
+  PCT: '.519'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: New Waterford
+  phase: regular
+  W: '28'
+  L: '26'
+  PCT: '.518'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: Sydney Mines
+  phase: regular
+  W: '25'
+  L: '27'
+  PCT: '.480'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: New Waterford
+  phase: semifinal
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: Sydney
+  phase: semifinal
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: Glace Bay
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameClub: New Waterford
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

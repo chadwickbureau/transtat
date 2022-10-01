@@ -1,0 +1,230 @@
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Green Bay
+  phase: regular/first
+  W: '37'
+  L: '16'
+  T: '0'
+  PCT: '.698'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Sheboygan
+  phase: regular/first
+  W: '34'
+  L: '22'
+  T: '0'
+  PCT: '.607'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Wausau
+  phase: regular/first
+  W: '31'
+  L: '22'
+  T: '1'
+  PCT: '.585'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Fond du Lac
+  phase: regular/first
+  W: '32'
+  L: '23'
+  T: '0'
+  PCT: '.582'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Appleton
+  phase: regular/first
+  W: '24'
+  L: '29'
+  T: '1'
+  PCT: '.453'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Janesville
+  phase: regular/first
+  W: '22'
+  L: '33'
+  T: '0'
+  PCT: '.400'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Wisconsin Rapids
+  phase: regular/first
+  W: '21'
+  L: '35'
+  T: '0'
+  PCT: '.375'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Oshkosh
+  phase: regular/first
+  W: '17'
+  L: '38'
+  T: '0'
+  PCT: '.309'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Wausau
+  phase: regular/second
+  W: '45'
+  L: '25'
+  T: '0'
+  PCT: '.643'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Green Bay
+  phase: regular/second
+  W: '41'
+  L: '26'
+  T: '1'
+  PCT: '.612'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Oshkosh
+  phase: regular/second
+  W: '40'
+  L: '28'
+  T: '1'
+  PCT: '.588'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Sheboygan
+  phase: regular/second
+  W: '37'
+  L: '30'
+  T: '1'
+  PCT: '.552'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Fond du Lac
+  phase: regular/second
+  W: '36'
+  L: '32'
+  T: '0'
+  PCT: '.529'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Wisconsin Rapids
+  phase: regular/second
+  W: '32'
+  L: '35'
+  T: '1'
+  PCT: '.478'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Janesville
+  phase: regular/second
+  W: '21'
+  L: '47'
+  T: '3'
+  PCT: '.309'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Appleton
+  phase: regular/second
+  W: '19'
+  L: '48'
+  T: '1'
+  PCT: '.284'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Green Bay
+  phase: regular
+  W: '80'
+  L: '42'
+  T: '1'
+  PCT: '.656'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Wausau
+  phase: regular
+  W: '76'
+  L: '49'
+  T: '1'
+  PCT: '.608'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Sheboygan
+  phase: regular
+  W: '71'
+  L: '52'
+  T: '1'
+  PCT: '.577'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Fond du Lac
+  phase: regular
+  W: '68'
+  L: '55'
+  T: '0'
+  PCT: '.553'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Oshkosh
+  phase: regular
+  W: '57'
+  L: '66'
+  T: '1'
+  PCT: '.463'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Wisconsin Rapids
+  phase: regular
+  W: '53'
+  L: '70'
+  T: '1'
+  PCT: '.431'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Appleton
+  phase: regular
+  W: '43'
+  L: '77'
+  T: '2'
+  PCT: '.358'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Janesville
+  phase: regular
+  W: '43'
+  L: '80'
+  T: '3'
+  PCT: '.350'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Green Bay
+  phase: final
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Wisconsin State League
+  nameClub: Wausau
+  phase: final
+  W: '0'
+  L: '2'
+  RANK: '2'

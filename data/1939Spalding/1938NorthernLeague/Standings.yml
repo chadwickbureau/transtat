@@ -1,0 +1,118 @@
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: regular
+  W: '78'
+  L: '36'
+  T: '0'
+  PCT: '.684'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: regular
+  W: '72'
+  L: '44'
+  T: '4'
+  PCT: '.621'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Crookston
+  phase: regular
+  W: '69'
+  L: '47'
+  T: '4'
+  PCT: '.595'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Wausau
+  phase: regular
+  W: '60'
+  L: '55'
+  T: '4'
+  PCT: '.522'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '60'
+  L: '56'
+  T: '2'
+  PCT: '.517'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '49'
+  L: '66'
+  T: '2'
+  PCT: '.426'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: regular
+  W: '37'
+  L: '76'
+  T: '7'
+  PCT: '.327'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '39'
+  L: '84'
+  T: '1'
+  PCT: '.317'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Wausau
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Crookston
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Northern League
+  nameClub: Crookston
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

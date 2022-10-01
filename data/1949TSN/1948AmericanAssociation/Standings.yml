@@ -1,0 +1,110 @@
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '100'
+  L: '54'
+  PCT: '.649'
+  RANK: '1'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: regular
+  W: '89'
+  L: '65'
+  PCT: '.578'
+  RANK: '2'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '86'
+  L: '68'
+  PCT: '.558'
+  RANK: '3'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '81'
+  L: '73'
+  PCT: '.526'
+  RANK: '4'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '77'
+  L: '77'
+  PCT: '.500'
+  RANK: '5'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '64'
+  L: '88'
+  PCT: '.421'
+  RANK: '6'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '61'
+  L: '91'
+  PCT: '.401'
+  RANK: '7'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '56'
+  L: '98'
+  PCT: '.364'
+  RANK: '8'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,72 @@
+- year: '1936'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '94'
+  L: '60'
+  T: '0'
+  PCT: '.610'
+  RANK: '1'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '89'
+  L: '66'
+  T: '0'
+  PCT: '.574'
+  RANK: '2'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Newark
+  phase: regular
+  W: '88'
+  L: '67'
+  T: '0'
+  PCT: '.568'
+  RANK: '3'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: regular
+  W: '81'
+  L: '72'
+  T: '0'
+  PCT: '.529'
+  RANK: '4'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '77'
+  L: '76'
+  T: '2'
+  PCT: '.503'
+  RANK: '5'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '71'
+  L: '81'
+  T: '0'
+  PCT: '.467'
+  RANK: '6'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '59'
+  L: '95'
+  T: '1'
+  PCT: '.383'
+  RANK: '7'
+- year: '1936'
+  nameLeague: International League
+  nameClub: Albany
+  phase: regular
+  W: '56'
+  L: '98'
+  T: '1'
+  PCT: '.364'
+  RANK: '8'

@@ -1,0 +1,118 @@
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: regular
+  W: '93'
+  L: '67'
+  T: '0'
+  PCT: '.581'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  phase: regular
+  W: '93'
+  L: '68'
+  T: '1'
+  PCT: '.578'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: regular
+  W: '87'
+  L: '74'
+  T: '1'
+  PCT: '.540'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: regular
+  W: '86'
+  L: '75'
+  T: '2'
+  PCT: '.534'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: regular
+  W: '86'
+  L: '75'
+  T: '0'
+  PCT: '.534'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: regular
+  W: '77'
+  L: '84'
+  T: '1'
+  PCT: '.478'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: regular
+  W: '70'
+  L: '90'
+  T: '1'
+  PCT: '.438'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  phase: regular
+  W: '51'
+  L: '110'
+  T: '0'
+  PCT: '.317'
+  RANK: '8'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,53 @@
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Corpus Christi
+  PO: '3603'
+  E: '286'
+  DP: '122'
+  PB: '17'
+  PCT: '.946'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Harlingen
+  PO: '3583'
+  A: '1344'
+  E: '297'
+  DP: '103'
+  PB: '36'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Taft
+  PO: '3578'
+  A: '1452'
+  E: '331'
+  DP: '106'
+  PB: '44'
+  PCT: '.938'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: McAllen
+  PO: '3606'
+  A: '1455'
+  E: '339'
+  DP: '80'
+  PB: '36'
+  PCT: '.935'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Refugio
+  PO: '3381'
+  A: '1255'
+  E: '324'
+  DP: '76'
+  PB: '29'
+  PCT: '.934'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Brownsville
+  PO: '3413'
+  A: '1425'
+  E: '436'
+  DP: '58'
+  PB: '50'
+  PCT: '.919'

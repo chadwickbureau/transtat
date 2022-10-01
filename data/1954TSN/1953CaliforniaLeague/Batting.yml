@@ -1,0 +1,4908 @@
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roman
+  nameFirst: Jose J.
+  nameClub1: Visalia
+  G: '21'
+  AB: '19'
+  R: '3'
+  H: '9'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '5'
+  AVG: '.474'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Herrera
+  nameFirst: Henry
+  nameClub1: Fresno
+  G: '14'
+  AB: '25'
+  R: '5'
+  H: '11'
+  TB: '17'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '8'
+  SO: '8'
+  AVG: '.440'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Taylor
+  nameFirst: Jack L.
+  nameClub1: Ventura
+  bats: L
+  G: '16'
+  AB: '46'
+  R: '5'
+  H: '19'
+  TB: '24'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '1'
+  RBI: '9'
+  SO: '5'
+  AVG: '.413'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Keating
+  nameFirst: James J.
+  nameClub1: Bakersfield
+  G: '36'
+  AB: '136'
+  R: '24'
+  H: '52'
+  TB: '86'
+  H2B: '11'
+  H3B: '1'
+  HR: '7'
+  SH: '0'
+  SB: '2'
+  BB: '16'
+  HP: '0'
+  RBI: '30'
+  SO: '8'
+  AVG: '.382'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jenkins
+  nameFirst: Robert H.
+  nameClub1: Fresno
+  G: '20'
+  AB: '66'
+  R: '11'
+  H: '25'
+  TB: '43'
+  H2B: '7'
+  H3B: '1'
+  HR: '3'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '8'
+  SO: '10'
+  AVG: '.379'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: Jose M.
+  nameClub1: Ventura
+  G: '116'
+  AB: '440'
+  R: '55'
+  H: '164'
+  TB: '212'
+  H2B: '26'
+  H3B: '8'
+  HR: '2'
+  SH: '4'
+  SB: '8'
+  BB: '46'
+  HP: '2'
+  RBI: '80'
+  SO: '18'
+  AVG: '.373'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fraser
+  nameFirst: Victor
+  nameClub1: Fresno
+  G: '13'
+  AB: '25'
+  R: '3'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '6'
+  SO: '8'
+  AVG: '.360'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shawver
+  nameFirst: Robert L.
+  nameClub1: Fresno
+  bats: L
+  G: '38'
+  AB: '140'
+  R: '27'
+  H: '48'
+  TB: '65'
+  H2B: '8'
+  H3B: '3'
+  HR: '1'
+  SH: '2'
+  SB: '2'
+  BB: '29'
+  HP: '2'
+  RBI: '24'
+  SO: '19'
+  AVG: '.343'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Dallas
+  nameFirst: Robert E.
+  nameClub1: Santa Barbara
+  G: '132'
+  AB: '437'
+  R: '88'
+  H: '149'
+  TB: '185'
+  H2B: '29'
+  H3B: '2'
+  HR: '1'
+  SH: '8'
+  SB: '3'
+  BB: '122'
+  HP: '4'
+  RBI: '82'
+  SO: '35'
+  AVG: '.341'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perry
+  nameFirst: Raymond L.
+  nameClub1: Bakersfield
+  G: '141'
+  AB: '501'
+  R: '120'
+  H: '169'
+  TB: '320'
+  H2B: '41'
+  H3B: '1'
+  HR: '36'
+  SH: '3'
+  SB: '16'
+  BB: '142'
+  HP: '4'
+  RBI: '119'
+  SO: '76'
+  AVG: '.337'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sobczak
+  nameFirst: Edward F.
+  nameClub1: San Jose
+  G: '137'
+  AB: '519'
+  R: '105'
+  H: '175'
+  TB: '288'
+  H2B: '35'
+  H3B: '9'
+  HR: '20'
+  SH: '7'
+  SB: '17'
+  BB: '76'
+  HP: '3'
+  RBI: '142'
+  SO: '54'
+  AVG: '.337'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Pearson
+  nameFirst: Albert G.
+  nameClub1: San Jose
+  bats: L
+  G: '125'
+  AB: '461'
+  R: '106'
+  H: '154'
+  TB: '205'
+  H2B: '23'
+  H3B: '11'
+  HR: '2'
+  SH: '4'
+  SB: '14'
+  BB: '108'
+  HP: '3'
+  RBI: '43'
+  SO: '25'
+  AVG: '.334'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Weakley
+  nameFirst: Harry J.
+  nameClub1: Visalia
+  G: '13'
+  AB: '18'
+  R: '3'
+  H: '6'
+  TB: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '3'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spence
+  nameFirst: Robert G.
+  nameClub1: San Jose
+  G: '11'
+  AB: '3'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '0'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Corona
+  nameFirst: George A.
+  nameClub1: Modesto
+  G: '44'
+  AB: '169'
+  R: '38'
+  H: '56'
+  TB: '93'
+  H2B: '13'
+  H3B: '0'
+  HR: '8'
+  SH: '1'
+  SB: '3'
+  BB: '25'
+  HP: '1'
+  RBI: '40'
+  SO: '11'
+  AVG: '.331'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Keough
+  nameFirst: R. Martin
+  nameClub1: San Jose
+  bats: L
+  G: '124'
+  AB: '491'
+  R: '92'
+  H: '162'
+  TB: '217'
+  H2B: '21'
+  H3B: '11'
+  HR: '4'
+  SH: '19'
+  SB: '28'
+  BB: '47'
+  HP: '2'
+  RBI: '72'
+  SO: '53'
+  AVG: '.330'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Alarid
+  nameFirst: Leo
+  nameClub1: San Jose
+  bats: L
+  G: '74'
+  AB: '279'
+  R: '46'
+  H: '92'
+  TB: '119'
+  H2B: '15'
+  H3B: '3'
+  HR: '2'
+  SH: '10'
+  SB: '0'
+  BB: '26'
+  HP: '1'
+  RBI: '50'
+  SO: '13'
+  AVG: '.330'
+- year: '1953'
+  nameLeague: California League
+  nameLast: O'Brien
+  nameFirst: James P.
+  nameClub1: Stockton
+  bats: L
+  G: '136'
+  AB: '552'
+  R: '93'
+  H: '181'
+  TB: '208'
+  H2B: '17'
+  H3B: '5'
+  HR: '0'
+  SH: '9'
+  SB: '14'
+  BB: '67'
+  HP: '5'
+  RBI: '64'
+  SO: '44'
+  AVG: '.328'
+- year: '1953'
+  nameLeague: California League
+  nameLast: O'Keefe
+  nameFirst: John J.
+  nameClub1: Visalia
+  bats: L
+  G: '138'
+  AB: '534'
+  R: '107'
+  H: '175'
+  TB: '319'
+  H2B: '37'
+  H3B: '4'
+  HR: '33'
+  SH: '5'
+  SB: '6'
+  BB: '77'
+  HP: '2'
+  RBI: '137'
+  SO: '51'
+  AVG: '.328'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Grenald
+  nameFirst: Reginald
+  nameClub1: Visalia
+  G: '62'
+  AB: '246'
+  R: '49'
+  H: '80'
+  TB: '110'
+  H2B: '12'
+  H3B: '3'
+  HR: '4'
+  SH: '0'
+  SB: '5'
+  BB: '28'
+  HP: '1'
+  RBI: '42'
+  SO: '44'
+  AVG: '.325'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ponce
+  nameFirst: Anthony M.
+  nameClub1: Ventura
+  bats: S
+  G: '64'
+  AB: '114'
+  R: '20'
+  H: '37'
+  TB: '49'
+  H2B: '10'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '19'
+  HP: '0'
+  RBI: '14'
+  SO: '16'
+  AVG: '.325'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Irons
+  nameFirst: Edward F.
+  nameClub1: San Jose
+  G: '72'
+  AB: '219'
+  R: '39'
+  H: '70'
+  TB: '118'
+  H2B: '20'
+  H3B: '2'
+  HR: '8'
+  SH: '3'
+  SB: '1'
+  BB: '26'
+  HP: '0'
+  RBI: '50'
+  SO: '36'
+  AVG: '.320'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Garbe
+  nameFirst: William C.
+  nameClub1: Bakersfield
+  bats: L
+  G: '140'
+  AB: '538'
+  R: '117'
+  H: '171'
+  TB: '260'
+  H2B: '41'
+  H3B: '9'
+  HR: '10'
+  SH: '0'
+  SB: '24'
+  BB: '114'
+  HP: '1'
+  RBI: '89'
+  SO: '52'
+  AVG: '.318'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wilson
+  nameFirst: Richard C.
+  nameClub1: Modesto
+  G: '140'
+  AB: '510'
+  R: '108'
+  H: '162'
+  TB: '277'
+  H2B: '37'
+  H3B: '3'
+  HR: '24'
+  SH: '3'
+  SB: '8'
+  BB: '122'
+  HP: '4'
+  RBI: '125'
+  SO: '50'
+  AVG: '.318'
+- year: '1953'
+  nameLeague: California League
+  nameLast: LeBlanc
+  nameFirst: Roland C.
+  nameClub1: Fresno
+  G: '113'
+  AB: '379'
+  R: '68'
+  H: '120'
+  TB: '188'
+  H2B: '26'
+  H3B: '3'
+  HR: '12'
+  SH: '4'
+  SB: '13'
+  BB: '45'
+  HP: '2'
+  RBI: '65'
+  SO: '30'
+  AVG: '.317'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Burton
+  nameFirst: William R.
+  nameClub1: Fresno
+  G: '102'
+  AB: '426'
+  R: '91'
+  H: '132'
+  TB: '179'
+  H2B: '13'
+  H3B: '11'
+  HR: '4'
+  SH: '5'
+  SB: '11'
+  BB: '52'
+  HP: '7'
+  RBI: '41'
+  SO: '59'
+  AVG: '.310'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Melton
+  nameFirst: David O.
+  nameClub1: Ventura
+  G: '51'
+  AB: '200'
+  R: '31'
+  H: '62'
+  TB: '82'
+  H2B: '8'
+  H3B: '3'
+  HR: '2'
+  SH: '1'
+  SB: '6'
+  BB: '19'
+  HP: '1'
+  RBI: '30'
+  SO: '16'
+  AVG: '.310'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Olson
+  nameFirst: Herbert A.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '28'
+  AB: '81'
+  R: '15'
+  H: '25'
+  TB: '49'
+  H2B: '7'
+  H3B: '1'
+  HR: '5'
+  SH: '2'
+  SB: '1'
+  BB: '15'
+  HP: '0'
+  RBI: '19'
+  SO: '15'
+  AVG: '.309'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Turk
+  nameFirst: Robert D.
+  nameClub1: San Jose
+  G: '63'
+  AB: '212'
+  R: '29'
+  H: '65'
+  TB: '92'
+  H2B: '10'
+  H3B: '1'
+  HR: '5'
+  SH: '3'
+  SB: '1'
+  BB: '27'
+  HP: '0'
+  RBI: '34'
+  SO: '34'
+  AVG: '.307'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: Willis Eugene
+  nameClub1: Santa Barbara
+  G: '126'
+  AB: '507'
+  R: '89'
+  H: '153'
+  TB: '210'
+  H2B: '18'
+  H3B: '6'
+  HR: '9'
+  SH: '5'
+  SB: '14'
+  BB: '61'
+  HP: '4'
+  RBI: '77'
+  SO: '56'
+  AVG: '.302'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Amorena
+  nameFirst: August J.
+  nameClub1: Ventura
+  bats: L
+  G: '69'
+  AB: '275'
+  R: '45'
+  H: '83'
+  TB: '109'
+  H2B: '12'
+  H3B: '4'
+  HR: '2'
+  SH: '9'
+  SB: '4'
+  BB: '29'
+  HP: '1'
+  RBI: '40'
+  SO: '14'
+  AVG: '.302'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roselli
+  nameFirst: Robert E.
+  nameClub1: Modesto
+  G: '64'
+  AB: '235'
+  R: '46'
+  H: '71'
+  TB: '125'
+  H2B: '18'
+  H3B: '0'
+  HR: '12'
+  SH: '1'
+  SB: '3'
+  BB: '49'
+  HP: '5'
+  RBI: '50'
+  SO: '28'
+  AVG: '.302'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spatafore
+  nameFirst: Anthony J.
+  nameClub1: San Jose
+  G: '110'
+  AB: '361'
+  R: '72'
+  H: '109'
+  TB: '149'
+  H2B: '15'
+  H3B: '5'
+  HR: '5'
+  SH: '2'
+  SB: '12'
+  BB: '47'
+  HP: '3'
+  RBI: '58'
+  SO: '71'
+  AVG: '.302'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Clements
+  nameFirst: Harry M.
+  nameClub1: Stockton
+  G: '141'
+  AB: '583'
+  R: '70'
+  H: '173'
+  TB: '219'
+  H2B: '32'
+  H3B: '4'
+  HR: '2'
+  SH: '8'
+  SB: '2'
+  BB: '28'
+  HP: '8'
+  RBI: '77'
+  SO: '33'
+  AVG: '.297'
+- year: '1953'
+  nameLeague: California League
+  nameLast: LaBounty
+  nameFirst: Larry L.
+  nameClub1: Stockton
+  G: '20'
+  AB: '17'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Lodigiani
+  nameFirst: Dario E.
+  nameClub1: Ventura
+  G: '53'
+  AB: '164'
+  R: '21'
+  H: '48'
+  TB: '62'
+  H2B: '8'
+  H3B: '3'
+  HR: '0'
+  SH: '2'
+  SB: '3'
+  BB: '26'
+  HP: '0'
+  RBI: '22'
+  SO: '7'
+  AVG: '.293'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Keller
+  nameFirst: Charles A.
+  nameClub1: Fresno
+  bats: L
+  G: '61'
+  AB: '260'
+  R: '45'
+  H: '76'
+  TB: '99'
+  H2B: '13'
+  H3B: '5'
+  HR: '0'
+  SH: '11'
+  SB: '6'
+  BB: '20'
+  HP: '1'
+  RBI: '34'
+  SO: '15'
+  AVG: '.292'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spencer
+  nameFirst: Leverette F.
+  nameClub1: Fresno
+  G: '50'
+  AB: '103'
+  R: '10'
+  H: '30'
+  TB: '40'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '16'
+  SO: '7'
+  AVG: '.291'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wise
+  nameFirst: Hugh E.
+  nameClub1: Modesto
+  G: '63'
+  AB: '252'
+  R: '38'
+  H: '73'
+  TB: '86'
+  H2B: '7'
+  H3B: '3'
+  HR: '0'
+  SH: '8'
+  SB: '7'
+  BB: '31'
+  HP: '0'
+  RBI: '29'
+  SO: '28'
+  AVG: '.290'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ahtipis
+  nameFirst: Dan S.
+  nameClub1: Santa Barbara
+  G: '12'
+  AB: '14'
+  R: '0'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '5'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Tucker
+  nameFirst: Leonard
+  nameClub1: Fresno
+  G: '97'
+  AB: '379'
+  R: '79'
+  H: '108'
+  TB: '172'
+  H2B: '13'
+  H3B: '9'
+  HR: '11'
+  SH: '1'
+  SB: '16'
+  BB: '48'
+  HP: '7'
+  RBI: '55'
+  SO: '95'
+  AVG: '.285'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moler
+  nameFirst: Richard W.
+  nameClub1: Modesto
+  bats: L
+  G: '67'
+  AB: '239'
+  R: '41'
+  H: '68'
+  TB: '122'
+  H2B: '14'
+  H3B: '2'
+  HR: '12'
+  SH: '3'
+  SB: '4'
+  BB: '35'
+  HP: '5'
+  RBI: '44'
+  SO: '28'
+  AVG: '.285'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Marcucci
+  nameFirst: Lilio R.
+  nameClub1: Modesto
+  G: '64'
+  AB: '228'
+  R: '25'
+  H: '65'
+  TB: '91'
+  H2B: '16'
+  H3B: '2'
+  HR: '2'
+  SH: '1'
+  SB: '2'
+  BB: '21'
+  HP: '6'
+  RBI: '47'
+  SO: '10'
+  AVG: '.285'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Kreuter
+  nameFirst: John D.
+  nameClub1: Stockton
+  bats: L
+  G: '137'
+  AB: '482'
+  R: '56'
+  H: '137'
+  TB: '180'
+  H2B: '15'
+  H3B: '5'
+  HR: '6'
+  SH: '10'
+  SB: '7'
+  BB: '86'
+  HP: '2'
+  RBI: '82'
+  SO: '53'
+  AVG: '.284'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nubin
+  nameFirst: Frank
+  nameClub1: 71@Ventura
+  nameClub2: 28@Bakersfield
+  G: '99'
+  AB: '346'
+  R: '72'
+  H: '98'
+  TB: '149'
+  H2B: '17'
+  H3B: '2'
+  HR: '10'
+  SH: '4'
+  SB: '13'
+  BB: '67'
+  HP: '6'
+  RBI: '56'
+  SO: '64'
+  AVG: '.283'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McMinn
+  nameFirst: Glenn D.
+  nameClub1: Santa Barbara
+  G: '20'
+  AB: '53'
+  R: '15'
+  H: '15'
+  TB: '23'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '5'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '5'
+  SO: '16'
+  AVG: '.283'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moore
+  nameFirst: Donald W.
+  nameClub1: Stockton
+  G: '141'
+  AB: '577'
+  R: '97'
+  H: '163'
+  TB: '216'
+  H2B: '32'
+  H3B: '3'
+  HR: '5'
+  SH: '17'
+  SB: '8'
+  BB: '67'
+  HP: '9'
+  RBI: '64'
+  SO: '88'
+  AVG: '.282'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ananias
+  nameFirst: Nicolas T.
+  nameClub1: 49@Fresno
+  nameClub2: 77@Visalia
+  G: '126'
+  AB: '494'
+  R: '111'
+  H: '138'
+  TB: '232'
+  H2B: '16'
+  H3B: '6'
+  HR: '22'
+  SH: '5'
+  SB: '11'
+  BB: '73'
+  HP: '6'
+  RBI: '92'
+  SO: '81'
+  AVG: '.279'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sommers
+  nameFirst: Irvin
+  nameClub1: Santa Barbara
+  G: '54'
+  AB: '147'
+  R: '26'
+  H: '41'
+  TB: '63'
+  H2B: '7'
+  H3B: '3'
+  HR: '3'
+  SH: '2'
+  SB: '1'
+  BB: '21'
+  HP: '3'
+  RBI: '33'
+  SO: '31'
+  AVG: '.279'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gulvas
+  nameFirst: Joseph W.
+  nameClub1: Santa Barbara
+  G: '28'
+  AB: '112'
+  R: '24'
+  H: '31'
+  TB: '39'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '6'
+  BB: '19'
+  HP: '1'
+  RBI: '5'
+  SO: '17'
+  AVG: '.277'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roundy
+  nameFirst: Jay T.
+  nameClub1: Visalia
+  bats: L
+  G: '107'
+  AB: '420'
+  R: '93'
+  H: '116'
+  TB: '203'
+  H2B: '18'
+  H3B: '12'
+  HR: '15'
+  SH: '5'
+  SB: '23'
+  BB: '65'
+  HP: '2'
+  RBI: '53'
+  SO: '133'
+  AVG: '.276'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Green
+  nameFirst: Gene L.
+  nameClub1: Fresno
+  G: '115'
+  AB: '473'
+  R: '75'
+  H: '130'
+  TB: '204'
+  H2B: '24'
+  H3B: '7'
+  HR: '12'
+  SH: '3'
+  SB: '11'
+  BB: '16'
+  HP: '12'
+  RBI: '84'
+  SO: '73'
+  AVG: '.275'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Karan
+  nameFirst: Albert
+  nameClub1: Santa Barbara
+  G: '119'
+  AB: '433'
+  R: '68'
+  H: '119'
+  TB: '182'
+  H2B: '22'
+  H3B: '1'
+  HR: '13'
+  SH: '9'
+  SB: '2'
+  BB: '85'
+  HP: '3'
+  RBI: '79'
+  SO: '55'
+  AVG: '.275'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Smith
+  nameFirst: Bobby G.
+  nameClub1: Fresno
+  G: '33'
+  AB: '132'
+  R: '22'
+  H: '36'
+  TB: '44'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '14'
+  HP: '0'
+  RBI: '12'
+  SO: '21'
+  AVG: '.273'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cornsilk
+  nameFirst: Billy Jack
+  nameClub1: Santa Barbara
+  G: '27'
+  AB: '33'
+  R: '4'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '5'
+  SO: '4'
+  AVG: '.273'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stewart
+  nameFirst: Donald H.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '92'
+  AB: '323'
+  R: '60'
+  H: '88'
+  TB: '132'
+  H2B: '14'
+  H3B: '9'
+  HR: '4'
+  SH: '7'
+  SB: '8'
+  BB: '62'
+  HP: '0'
+  RBI: '45'
+  SO: '48'
+  AVG: '.272'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Toso
+  nameFirst: Harold A.
+  nameClub1: San Jose
+  bats: L
+  G: '136'
+  AB: '506'
+  R: '87'
+  H: '137'
+  TB: '176'
+  H2B: '20'
+  H3B: '5'
+  HR: '3'
+  SH: '15'
+  SB: '5'
+  BB: '78'
+  HP: '6'
+  RBI: '72'
+  SO: '53'
+  AVG: '.271'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hague
+  nameFirst: Lucio J.
+  nameClub1: Bakersfield
+  G: '137'
+  AB: '543'
+  R: '97'
+  H: '146'
+  TB: '179'
+  H2B: '17'
+  H3B: '2'
+  HR: '4'
+  SH: '4'
+  SB: '25'
+  BB: '78'
+  HP: '4'
+  RBI: '64'
+  SO: '67'
+  AVG: '.269'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nenna
+  nameFirst: Lawrence E.
+  nameClub1: Modesto
+  bats: L
+  G: '58'
+  AB: '229'
+  R: '51'
+  H: '61'
+  TB: '86'
+  H2B: '4'
+  H3B: '3'
+  HR: '5'
+  SH: '0'
+  SB: '11'
+  BB: '34'
+  HP: '7'
+  RBI: '29'
+  SO: '34'
+  AVG: '.266'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Zimmerman
+  nameFirst: Gerald R.
+  nameClub1: San Jose
+  G: '101'
+  AB: '328'
+  R: '31'
+  H: '87'
+  TB: '112'
+  H2B: '15'
+  H3B: '2'
+  HR: '2'
+  SH: '6'
+  SB: '3'
+  BB: '36'
+  HP: '4'
+  RBI: '58'
+  SO: '27'
+  AVG: '.265'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Anderson
+  nameFirst: George L.
+  nameClub1: Santa Barbara
+  G: '141'
+  AB: '598'
+  R: '98'
+  H: '157'
+  TB: '201'
+  H2B: '21'
+  H3B: '4'
+  HR: '5'
+  SH: '8'
+  SB: '13'
+  BB: '57'
+  HP: '4'
+  RBI: '55'
+  SO: '47'
+  AVG: '.263'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McDevitt
+  nameFirst: John T.
+  nameClub1: Visalia
+  G: '73'
+  AB: '284'
+  R: '64'
+  H: '74'
+  TB: '119'
+  H2B: '15'
+  H3B: '3'
+  HR: '8'
+  SH: '8'
+  SB: '3'
+  BB: '34'
+  HP: '5'
+  RBI: '29'
+  SO: '47'
+  AVG: '.261'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Herrera
+  nameFirst: Salvador
+  nameClub1: Modesto
+  G: '33'
+  AB: '100'
+  R: '8'
+  H: '26'
+  TB: '32'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '7'
+  HP: '1'
+  RBI: '8'
+  SO: '30'
+  AVG: '.260'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Johnston
+  nameFirst: F. Dale
+  nameClub1: Santa Barbara
+  G: '119'
+  AB: '421'
+  R: '51'
+  H: '109'
+  TB: '127'
+  H2B: '12'
+  H3B: '3'
+  HR: '0'
+  SH: '6'
+  SB: '10'
+  BB: '48'
+  HP: '2'
+  RBI: '44'
+  SO: '52'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ryan
+  nameFirst: Richard B.
+  nameClub1: Fresno
+  G: '18'
+  AB: '27'
+  R: '3'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '3'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Clevenger
+  nameFirst: Truman E.
+  nameClub1: San Jose
+  G: '19'
+  AB: '62'
+  R: '3'
+  H: '16'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '6'
+  SO: '18'
+  AVG: '.258'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Monge
+  nameFirst: Fred
+  nameClub1: Bakersfield
+  G: '132'
+  AB: '560'
+  R: '69'
+  H: '144'
+  TB: '180'
+  H2B: '13'
+  H3B: '4'
+  HR: '5'
+  SH: '13'
+  SB: '4'
+  BB: '50'
+  HP: '1'
+  RBI: '48'
+  SO: '36'
+  AVG: '.257'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Musto
+  nameFirst: Donald W.
+  nameClub1: Santa Barbara
+  G: '129'
+  AB: '497'
+  R: '69'
+  H: '127'
+  TB: '173'
+  H2B: '28'
+  H3B: '3'
+  HR: '4'
+  SH: '15'
+  SB: '6'
+  BB: '40'
+  HP: '9'
+  RBI: '63'
+  SO: '32'
+  AVG: '.256'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jackson
+  nameFirst: William H.
+  nameClub1: Visalia
+  G: '140'
+  AB: '537'
+  R: '94'
+  H: '137'
+  TB: '215'
+  H2B: '29'
+  H3B: '2'
+  HR: '15'
+  SH: '5'
+  SB: '7'
+  BB: '63'
+  HP: '12'
+  RBI: '84'
+  SO: '119'
+  AVG: '.255'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Vital
+  nameFirst: Duri H.
+  nameClub1: Modesto
+  G: '78'
+  AB: '294'
+  R: '71'
+  H: '75'
+  TB: '117'
+  H2B: '13'
+  H3B: '4'
+  HR: '7'
+  SH: '2'
+  SB: '23'
+  BB: '74'
+  HP: '9'
+  RBI: '49'
+  SO: '36'
+  AVG: '.255'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bortz
+  nameFirst: Robert E.
+  nameClub1: Stockton
+  G: '66'
+  AB: '224'
+  R: '29'
+  H: '57'
+  TB: '76'
+  H2B: '10'
+  H3B: '3'
+  HR: '1'
+  SH: '4'
+  SB: '1'
+  BB: '26'
+  HP: '1'
+  RBI: '36'
+  SO: '58'
+  AVG: '.254'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Newton
+  nameFirst: Robert P.
+  nameClub1: Bakersfield
+  G: '37'
+  AB: '142'
+  R: '18'
+  H: '36'
+  TB: '44'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '14'
+  HP: '1'
+  RBI: '11'
+  SO: '7'
+  AVG: '.254'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Barnhart
+  nameFirst: Richard L.
+  nameClub1: Fresno
+  bats: L
+  G: '78'
+  AB: '293'
+  R: '34'
+  H: '74'
+  TB: '104'
+  H2B: '12'
+  H3B: '6'
+  HR: '2'
+  SH: '8'
+  SB: '4'
+  BB: '38'
+  HP: '2'
+  RBI: '40'
+  SO: '79'
+  AVG: '.253'
+- year: '1953'
+  nameLeague: California League
+  nameLast: DeFazio
+  nameFirst: Richard
+  nameClub1: Fresno
+  G: '26'
+  AB: '95'
+  R: '12'
+  H: '24'
+  TB: '34'
+  H2B: '7'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '13'
+  SO: '13'
+  AVG: '.253'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Toso
+  nameFirst: Harvey J.
+  nameClub1: San Jose
+  G: '87'
+  AB: '278'
+  R: '62'
+  H: '70'
+  TB: '76'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '63'
+  HP: '3'
+  RBI: '24'
+  SO: '28'
+  AVG: '.252'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Adams
+  nameFirst: Richard L.
+  nameClub1: Ventura
+  G: '72'
+  AB: '279'
+  R: '44'
+  H: '70'
+  TB: '102'
+  H2B: '12'
+  H3B: '4'
+  HR: '4'
+  SH: '2'
+  SB: '4'
+  BB: '32'
+  HP: '1'
+  RBI: '48'
+  SO: '31'
+  AVG: '.251'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nitrini
+  nameFirst: Peter L.
+  nameClub1: Ventura
+  bats: L
+  G: '48'
+  AB: '172'
+  R: '30'
+  H: '43'
+  TB: '66'
+  H2B: '6'
+  H3B: '1'
+  HR: '5'
+  SH: '1'
+  SB: '6'
+  BB: '31'
+  HP: '1'
+  RBI: '32'
+  SO: '29'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cruger
+  nameFirst: Jerome W.
+  nameClub1: Bakersfield
+  bats: L
+  G: '17'
+  AB: '52'
+  R: '15'
+  H: '13'
+  TB: '20'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '2'
+  BB: '14'
+  HP: '0'
+  RBI: '5'
+  SO: '12'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Brower
+  nameFirst: Floyd E.
+  nameClub1: 15@Visalia
+  nameClub2: 11@San Jose
+  bats: L
+  G: '26'
+  AB: '32'
+  R: '3'
+  H: '8'
+  TB: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '4'
+  SO: '3'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Highfield
+  nameFirst: Vernon E.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '12'
+  AB: '28'
+  R: '0'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '5'
+  SO: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ban
+  nameFirst: Richard J.
+  nameClub1: Fresno
+  bats: L
+  G: '20'
+  AB: '12'
+  R: '3'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '0'
+  SO: '3'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cloud
+  nameFirst: Robert C.
+  nameClub1: Fresno
+  bats: L
+  G: '12'
+  AB: '12'
+  R: '4'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Whiting
+  nameFirst: Paul W.
+  nameClub1: Bakersfield
+  G: '12'
+  AB: '12'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spence
+  nameFirst: Jack E.
+  nameClub1: Visalia
+  G: '133'
+  AB: '473'
+  R: '77'
+  H: '118'
+  TB: '179'
+  H2B: '27'
+  H3B: '5'
+  HR: '8'
+  SH: '3'
+  SB: '7'
+  BB: '79'
+  HP: '1'
+  RBI: '72'
+  SO: '103'
+  AVG: '.249'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Camacho
+  nameFirst: Renaldo
+  nameClub1: Fresno
+  G: '100'
+  AB: '357'
+  R: '53'
+  H: '89'
+  TB: '136'
+  H2B: '12'
+  H3B: '1'
+  HR: '11'
+  SH: '4'
+  SB: '3'
+  BB: '58'
+  HP: '1'
+  RBI: '46'
+  SO: '78'
+  AVG: '.249'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Caselli
+  nameFirst: Robert A.
+  nameClub1: Modesto
+  bats: L
+  G: '36'
+  AB: '129'
+  R: '19'
+  H: '32'
+  TB: '58'
+  H2B: '4'
+  H3B: '2'
+  HR: '6'
+  SH: '5'
+  SB: '2'
+  BB: '20'
+  HP: '2'
+  RBI: '18'
+  SO: '14'
+  AVG: '.248'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Goss
+  nameFirst: Howard W.
+  nameClub1: Visalia
+  G: '86'
+  AB: '308'
+  R: '45'
+  H: '76'
+  TB: '144'
+  H2B: '12'
+  H3B: '1'
+  HR: '18'
+  SH: '2'
+  SB: '2'
+  BB: '23'
+  HP: '2'
+  RBI: '60'
+  SO: '98'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Demery
+  nameFirst: Artist
+  nameClub1: Bakersfield
+  G: '34'
+  AB: '85'
+  R: '8'
+  H: '21'
+  TB: '26'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '12'
+  SO: '19'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Collins
+  nameFirst: James M.
+  nameClub1: Ventura
+  bats: S
+  G: '41'
+  AB: '73'
+  R: '7'
+  H: '18'
+  TB: '24'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '9'
+  SO: '33'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Figueroa
+  nameFirst: William
+  nameClub1: Modesto
+  G: '140'
+  AB: '528'
+  R: '90'
+  H: '130'
+  TB: '162'
+  H2B: '16'
+  H3B: '5'
+  HR: '2'
+  SH: '11'
+  SB: '7'
+  BB: '89'
+  HP: '2'
+  RBI: '54'
+  SO: '71'
+  AVG: '.246'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ernaga
+  nameFirst: Frank J.
+  nameClub1: Stockton
+  G: '110'
+  AB: '399'
+  R: '67'
+  H: '98'
+  TB: '159'
+  H2B: '18'
+  H3B: '2'
+  HR: '13'
+  SH: '8'
+  SB: '5'
+  BB: '60'
+  HP: '7'
+  RBI: '64'
+  SO: '127'
+  AVG: '.246'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gill
+  nameFirst: William H.
+  nameClub1: Santa Barbara
+  G: '52'
+  AB: '163'
+  R: '18'
+  H: '40'
+  TB: '57'
+  H2B: '6'
+  H3B: '1'
+  HR: '3'
+  SH: '5'
+  SB: '1'
+  BB: '13'
+  HP: '2'
+  RBI: '21'
+  SO: '29'
+  AVG: '.245'
+- year: '1953'
+  nameLeague: California League
+  nameLast: White
+  nameFirst: William A.
+  nameClub1: Fresno
+  G: '78'
+  AB: '324'
+  R: '41'
+  H: '79'
+  TB: '110'
+  H2B: '12'
+  H3B: '2'
+  HR: '5'
+  SH: '1'
+  SB: '1'
+  BB: '19'
+  HP: '2'
+  RBI: '47'
+  SO: '51'
+  AVG: '.244'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Claridge
+  nameFirst: Berlin F.
+  nameClub1: 25@Stockton
+  nameClub2: 41@Bakersfield
+  G: '66'
+  AB: '217'
+  R: '23'
+  H: '53'
+  TB: '77'
+  H2B: '13'
+  H3B: '4'
+  HR: '1'
+  SH: '3'
+  SB: '3'
+  BB: '24'
+  HP: '0'
+  RBI: '24'
+  SO: '55'
+  AVG: '.244'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mirandette
+  nameFirst: Donald F.
+  nameClub1: 2@Modesto
+  nameClub2: 49@Ventura
+  G: '51'
+  AB: '168'
+  R: '24'
+  H: '41'
+  TB: '50'
+  H2B: '4'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '8'
+  BB: '28'
+  HP: '2'
+  RBI: '17'
+  SO: '8'
+  AVG: '.244'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fabiano
+  nameFirst: Stanley N.
+  nameClub1: Ventura
+  G: '74'
+  AB: '259'
+  R: '35'
+  H: '63'
+  TB: '83'
+  H2B: '5'
+  H3B: '3'
+  HR: '3'
+  SH: '2'
+  SB: '3'
+  BB: '33'
+  HP: '0'
+  RBI: '34'
+  SO: '37'
+  AVG: '.243'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shaw
+  nameFirst: Solon S.
+  nameClub1: Visalia
+  bats: L
+  G: '55'
+  AB: '95'
+  R: '8'
+  H: '23'
+  TB: '25'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '1'
+  SO: '17'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sack
+  nameFirst: Edward L.
+  nameClub1: Bakersfield
+  G: '65'
+  AB: '216'
+  R: '31'
+  H: '52'
+  TB: '94'
+  H2B: '13'
+  H3B: '1'
+  HR: '9'
+  SH: '3'
+  SB: '5'
+  BB: '35'
+  HP: '2'
+  RBI: '44'
+  SO: '55'
+  AVG: '.241'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Landis
+  nameFirst: James A.
+  nameClub1: Bakersfield
+  G: '36'
+  AB: '96'
+  R: '14'
+  H: '23'
+  TB: '29'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '6'
+  BB: '7'
+  HP: '1'
+  RBI: '6'
+  SO: '33'
+  AVG: '.240'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McBride
+  nameFirst: Arthur J.
+  nameClub1: Santa Barbara
+  G: '17'
+  AB: '46'
+  R: '9'
+  H: '11'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '2'
+  SH: '1'
+  SB: '4'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '9'
+  AVG: '.239'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stuart
+  nameFirst: Ronald J.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '44'
+  AB: '131'
+  R: '20'
+  H: '31'
+  TB: '41'
+  H2B: '5'
+  H3B: '1'
+  HR: '1'
+  SH: '4'
+  SB: '5'
+  BB: '20'
+  HP: '0'
+  RBI: '15'
+  SO: '12'
+  AVG: '.237'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Edwards
+  nameFirst: Shelly
+  nameClub1: Ventura
+  bats: L
+  G: '21'
+  AB: '76'
+  R: '9'
+  H: '18'
+  TB: '26'
+  H2B: '1'
+  H3B: '2'
+  HR: '1'
+  SH: '1'
+  SB: '2'
+  BB: '6'
+  HP: '2'
+  RBI: '10'
+  SO: '16'
+  AVG: '.237'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moody
+  nameFirst: Peter M.
+  nameClub1: Modesto
+  bats: L
+  G: '130'
+  AB: '470'
+  R: '97'
+  H: '111'
+  TB: '191'
+  H2B: '19'
+  H3B: '8'
+  HR: '15'
+  SH: '5'
+  SB: '7'
+  BB: '84'
+  HP: '3'
+  RBI: '80'
+  SO: '85'
+  AVG: '.236'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wuesthoff
+  nameFirst: Robert W.
+  nameClub1: Visalia
+  G: '11'
+  AB: '34'
+  R: '5'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '2'
+  RBI: '5'
+  SO: '8'
+  AVG: '.235'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Lopes
+  nameFirst: Donald A.
+  nameClub1: Bakersfield
+  G: '139'
+  AB: '486'
+  R: '96'
+  H: '113'
+  TB: '185'
+  H2B: '25'
+  H3B: '1'
+  HR: '15'
+  SH: '5'
+  SB: '28'
+  BB: '114'
+  HP: '5'
+  RBI: '83'
+  SO: '132'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Campana
+  nameFirst: Falco D.
+  nameClub1: Stockton
+  G: '73'
+  AB: '266'
+  R: '34'
+  H: '62'
+  TB: '101'
+  H2B: '14'
+  H3B: '2'
+  HR: '7'
+  SH: '10'
+  SB: '3'
+  BB: '33'
+  HP: '3'
+  RBI: '37'
+  SO: '28'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Witt
+  nameFirst: George A.
+  nameClub1: Santa Barbara
+  bats: S
+  G: '23'
+  AB: '43'
+  R: '2'
+  H: '10'
+  TB: '14'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bartels
+  nameFirst: Fred
+  nameClub1: Bakersfield
+  G: '86'
+  AB: '293'
+  R: '39'
+  H: '68'
+  TB: '100'
+  H2B: '12'
+  H3B: '1'
+  HR: '6'
+  SH: '2'
+  SB: '3'
+  BB: '51'
+  HP: '5'
+  RBI: '48'
+  SO: '38'
+  AVG: '.232'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hurych
+  nameFirst: Eugene F.
+  nameClub1: Santa Barbara
+  G: '35'
+  AB: '82'
+  R: '7'
+  H: '19'
+  TB: '30'
+  H2B: '6'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '8'
+  SO: '35'
+  AVG: '.232'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Huff
+  nameFirst: Neil V.
+  nameClub1: Visalia
+  G: '20'
+  AB: '69'
+  R: '10'
+  H: '16'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '12'
+  HP: '0'
+  RBI: '5'
+  SO: '6'
+  AVG: '.232'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roach
+  nameFirst: M. Lawrence
+  nameClub1: Modesto
+  G: '18'
+  AB: '56'
+  R: '8'
+  H: '13'
+  TB: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '2'
+  RBI: '6'
+  SO: '5'
+  AVG: '.232'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hermon
+  nameFirst: H. Duane
+  nameClub1: Stockton
+  bats: L
+  G: '68'
+  AB: '260'
+  R: '48'
+  H: '60'
+  TB: '78'
+  H2B: '9'
+  H3B: '3'
+  HR: '1'
+  SH: '6'
+  SB: '2'
+  BB: '62'
+  HP: '2'
+  RBI: '18'
+  SO: '77'
+  AVG: '.231'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Adams
+  nameFirst: Charles A.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '40'
+  AB: '65'
+  R: '8'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '6'
+  SO: '18'
+  AVG: '.231'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hudson
+  nameFirst: Donald L.
+  nameClub1: Fresno
+  G: '65'
+  AB: '200'
+  R: '38'
+  H: '46'
+  TB: '72'
+  H2B: '8'
+  H3B: '3'
+  HR: '4'
+  SH: '2'
+  SB: '5'
+  BB: '55'
+  HP: '1'
+  RBI: '24'
+  SO: '63'
+  AVG: '.230'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wright
+  nameFirst: Kenneth D.
+  nameClub1: Ventura
+  G: '50'
+  AB: '122'
+  R: '14'
+  H: '28'
+  TB: '35'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '1'
+  BB: '9'
+  HP: '1'
+  RBI: '9'
+  SO: '20'
+  AVG: '.230'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Domenichelli
+  nameFirst: Donald R.
+  nameClub1: Ventura
+  G: '128'
+  AB: '490'
+  R: '63'
+  H: '112'
+  TB: '127'
+  H2B: '13'
+  H3B: '1'
+  HR: '0'
+  SH: '14'
+  SB: '13'
+  BB: '74'
+  HP: '2'
+  RBI: '31'
+  SO: '55'
+  AVG: '.229'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mayer
+  nameFirst: Edwin D.
+  nameClub1: San Jose
+  bats: L
+  G: '53'
+  AB: '118'
+  R: '12'
+  H: '27'
+  TB: '35'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '12'
+  HP: '2'
+  RBI: '12'
+  SO: '18'
+  AVG: '.229'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ball
+  nameFirst: A. Frank
+  nameClub1: Fresno
+  G: '13'
+  AB: '35'
+  R: '3'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '2'
+  RBI: '2'
+  SO: '7'
+  AVG: '.229'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shirtcliff
+  nameFirst: Edward E.
+  nameClub1: Bakersfield
+  G: '46'
+  AB: '145'
+  R: '18'
+  H: '33'
+  TB: '46'
+  H2B: '6'
+  H3B: '2'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '13'
+  HP: '1'
+  RBI: '16'
+  SO: '33'
+  AVG: '.228'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Salkeld
+  nameFirst: William F.
+  nameClub1: Stockton
+  bats: L
+  G: '91'
+  AB: '251'
+  R: '53'
+  H: '57'
+  TB: '104'
+  H2B: '8'
+  H3B: '0'
+  HR: '13'
+  SH: '5'
+  SB: '1'
+  BB: '93'
+  HP: '1'
+  RBI: '54'
+  SO: '43'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Noce
+  nameFirst: John L.
+  nameClub1: Ventura
+  G: '39'
+  AB: '110'
+  R: '12'
+  H: '25'
+  TB: '30'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '0'
+  BB: '26'
+  HP: '0'
+  RBI: '11'
+  SO: '17'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Williams
+  nameFirst: Arthur
+  nameClub1: Bakersfield
+  G: '21'
+  AB: '66'
+  R: '7'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '13'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gelsinger
+  nameFirst: S. William
+  nameClub1: 68@Ventura
+  nameClub2: 7@Modesto
+  G: '75'
+  AB: '292'
+  R: '30'
+  H: '66'
+  TB: '73'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '6'
+  BB: '31'
+  HP: '2'
+  RBI: '26'
+  SO: '23'
+  AVG: '.226'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Farris
+  nameFirst: Ronald H.
+  nameClub1: Modesto
+  G: '19'
+  AB: '62'
+  R: '12'
+  H: '14'
+  TB: '23'
+  H2B: '6'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '2'
+  BB: '6'
+  HP: '1'
+  RBI: '7'
+  SO: '9'
+  AVG: '.226'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Olsen
+  nameFirst: Edwin C.
+  nameClub1: Fresno
+  G: '74'
+  AB: '253'
+  R: '26'
+  H: '57'
+  TB: '79'
+  H2B: '8'
+  H3B: '4'
+  HR: '2'
+  SH: '1'
+  SB: '1'
+  BB: '31'
+  HP: '0'
+  RBI: '21'
+  SO: '51'
+  AVG: '.225'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Reiman
+  nameFirst: James E.
+  nameClub1: Modesto
+  bats: L
+  G: '52'
+  AB: '135'
+  R: '18'
+  H: '30'
+  TB: '43'
+  H2B: '4'
+  H3B: '0'
+  HR: '3'
+  SH: '0'
+  SB: '0'
+  BB: '27'
+  HP: '2'
+  RBI: '15'
+  SO: '31'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stewart
+  nameFirst: Stanley C.
+  nameClub1: Ventura
+  G: '88'
+  AB: '314'
+  R: '44'
+  H: '69'
+  TB: '81'
+  H2B: '4'
+  H3B: '1'
+  HR: '2'
+  SH: '8'
+  SB: '2'
+  BB: '38'
+  HP: '4'
+  RBI: '30'
+  SO: '52'
+  AVG: '.220'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ammons
+  nameFirst: Elmer L.
+  nameClub1: 7@Fresno
+  nameClub2: 6@Ventura
+  G: '13'
+  AB: '41'
+  R: '4'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '6'
+  SO: '11'
+  AVG: '.220'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Klingman
+  nameFirst: Richard A.
+  nameClub1: 47@San Jose
+  nameClub2: 39@Modesto
+  G: '86'
+  AB: '278'
+  R: '30'
+  H: '61'
+  TB: '74'
+  H2B: '7'
+  H3B: '3'
+  HR: '0'
+  SH: '3'
+  SB: '5'
+  BB: '34'
+  HP: '2'
+  RBI: '34'
+  SO: '68'
+  AVG: '.219'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McGee
+  nameFirst: James N.
+  nameClub1: 6@Bakersfield
+  nameClub2: 13@Modesto
+  G: '19'
+  AB: '32'
+  R: '6'
+  H: '7'
+  TB: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  AVG: '.219'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Theodosis
+  nameFirst: Harry L.
+  nameClub1: 6@Visalia
+  nameClub2: 15@Bakersfield
+  G: '21'
+  AB: '23'
+  R: '8'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '5'
+  SO: '7'
+  AVG: '.217'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stewart
+  nameFirst: Donald E.
+  nameClub1: 9@Bakersfield
+  nameClub2: 67@Stockton
+  G: '76'
+  AB: '282'
+  R: '33'
+  H: '61'
+  TB: '96'
+  H2B: '11'
+  H3B: '3'
+  HR: '6'
+  SH: '6'
+  SB: '1'
+  BB: '30'
+  HP: '1'
+  RBI: '55'
+  SO: '50'
+  AVG: '.216'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Andrews
+  nameFirst: Robert S.
+  nameClub1: Modesto
+  G: '18'
+  AB: '37'
+  R: '6'
+  H: '8'
+  TB: '14'
+  H2B: '0'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '9'
+  SO: '15'
+  AVG: '.216'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Morse
+  nameFirst: Richard H.
+  nameClub1: Modesto
+  G: '14'
+  AB: '37'
+  R: '3'
+  H: '8'
+  TB: '13'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '9'
+  SO: '8'
+  AVG: '.216'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Poole
+  nameFirst: J. Robert
+  nameClub1: Ventura
+  G: '19'
+  AB: '66'
+  R: '8'
+  H: '14'
+  TB: '16'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '7'
+  SO: '11'
+  AVG: '.212'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ollis
+  nameFirst: James M.
+  nameClub1: San Jose
+  G: '64'
+  AB: '209'
+  R: '31'
+  H: '44'
+  TB: '62'
+  H2B: '3'
+  H3B: '0'
+  HR: '5'
+  SH: '2'
+  SB: '3'
+  BB: '37'
+  HP: '1'
+  RBI: '24'
+  SO: '61'
+  AVG: '.211'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moats
+  nameFirst: Kenneth J.
+  nameClub1: Modesto
+  G: '77'
+  AB: '263'
+  R: '32'
+  H: '55'
+  TB: '82'
+  H2B: '11'
+  H3B: '2'
+  HR: '4'
+  SH: '1'
+  SB: '2'
+  BB: '35'
+  HP: '3'
+  RBI: '25'
+  SO: '85'
+  AVG: '.209'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Alfano
+  nameFirst: Donald R.
+  nameClub1: Visalia
+  G: '75'
+  AB: '288'
+  R: '40'
+  H: '60'
+  TB: '76'
+  H2B: '10'
+  H3B: '3'
+  HR: '0'
+  SH: '10'
+  SB: '2'
+  BB: '31'
+  HP: '3'
+  RBI: '33'
+  SO: '25'
+  AVG: '.208'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Thile
+  nameFirst: Edmund L.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '13'
+  AB: '24'
+  R: '4'
+  H: '5'
+  TB: '8'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '4'
+  SO: '4'
+  AVG: '.208'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Dacko
+  nameFirst: Ronald P.
+  nameClub1: Santa Barbara
+  G: '37'
+  AB: '112'
+  R: '15'
+  H: '23'
+  TB: '31'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '8'
+  SO: '21'
+  AVG: '.205'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Thorpe
+  nameFirst: Robert J.
+  nameClub1: Stockton
+  G: '46'
+  AB: '112'
+  R: '12'
+  H: '23'
+  TB: '27'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '16'
+  HP: '2'
+  RBI: '13'
+  SO: '27'
+  AVG: '.205'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Adams
+  nameFirst: C. Richard
+  nameClub1: Stockton
+  bats: L
+  G: '20'
+  AB: '69'
+  R: '8'
+  H: '14'
+  TB: '18'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '4'
+  BB: '14'
+  HP: '2'
+  RBI: '6'
+  SO: '18'
+  AVG: '.203'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Eastman
+  nameFirst: Vernon D.
+  nameClub1: Bakersfield
+  G: '36'
+  AB: '105'
+  R: '12'
+  H: '21'
+  TB: '24'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '8'
+  SO: '20'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Malgradi
+  nameFirst: Raymond C.
+  nameClub1: Bakersfield
+  G: '45'
+  AB: '85'
+  R: '5'
+  H: '17'
+  TB: '21'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '2'
+  BB: '14'
+  HP: '0'
+  RBI: '6'
+  SO: '14'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bowman
+  nameFirst: Eugene H.
+  nameClub1: Modesto
+  G: '25'
+  AB: '40'
+  R: '3'
+  H: '8'
+  TB: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '5'
+  SO: '9'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Buttrey
+  nameFirst: John M.
+  nameClub1: Stockton
+  bats: S
+  G: '72'
+  AB: '241'
+  R: '38'
+  H: '48'
+  TB: '68'
+  H2B: '5'
+  H3B: '0'
+  HR: '5'
+  SH: '4'
+  SB: '4'
+  BB: '30'
+  HP: '1'
+  RBI: '18'
+  SO: '80'
+  AVG: '.199'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gardner
+  nameFirst: Jerry W.
+  nameClub1: Visalia
+  G: '75'
+  AB: '231'
+  R: '23'
+  H: '46'
+  TB: '73'
+  H2B: '10'
+  H3B: '1'
+  HR: '5'
+  SH: '2'
+  SB: '7'
+  BB: '38'
+  HP: '1'
+  RBI: '35'
+  SO: '50'
+  AVG: '.199'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Staniland
+  nameFirst: Charles W.
+  nameClub1: Fresno
+  G: '40'
+  AB: '121'
+  R: '16'
+  H: '24'
+  TB: '35'
+  H2B: '2'
+  H3B: '0'
+  HR: '3'
+  SH: '0'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '40'
+  AVG: '.198'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Weddle
+  nameFirst: Billy L.
+  nameClub1: Fresno
+  G: '33'
+  AB: '111'
+  R: '16'
+  H: '22'
+  TB: '25'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '19'
+  HP: '2'
+  RBI: '13'
+  SO: '36'
+  AVG: '.198'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Surprenant
+  nameFirst: George
+  nameClub1: 8@Bakersfield
+  nameClub2: 39@Ventura
+  G: '47'
+  AB: '86'
+  R: '11'
+  H: '17'
+  TB: '18'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '4'
+  SO: '18'
+  AVG: '.198'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bloxam
+  nameFirst: Loyal H.
+  nameClub1: Visalia
+  G: '33'
+  AB: '81'
+  R: '8'
+  H: '16'
+  TB: '17'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '3'
+  HP: '2'
+  RBI: '3'
+  SO: '24'
+  AVG: '.198'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Palica
+  nameFirst: Ambrose A.
+  nameClub1: San Jose
+  G: '46'
+  AB: '46'
+  R: '5'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '16'
+  AVG: '.196'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Deck
+  nameFirst: Cullen P.
+  nameClub1: San Jose
+  G: '17'
+  AB: '46'
+  R: '4'
+  H: '9'
+  TB: '14'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '9'
+  SO: '18'
+  AVG: '.196'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hicks
+  nameFirst: William R.
+  nameClub1: Fresno
+  G: '37'
+  AB: '103'
+  R: '5'
+  H: '20'
+  TB: '22'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '9'
+  SO: '12'
+  AVG: '.194'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moore
+  nameFirst: Michael P.
+  nameClub1: Ventura
+  bats: L
+  G: '27'
+  AB: '88'
+  R: '12'
+  H: '17'
+  TB: '23'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '3'
+  BB: '24'
+  HP: '1'
+  RBI: '7'
+  SO: '25'
+  AVG: '.193'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Crane
+  nameFirst: Robert L.
+  nameClub1: Stockton
+  G: '37'
+  AB: '57'
+  R: '2'
+  H: '11'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '20'
+  AVG: '.193'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Whitson
+  nameFirst: William B.
+  nameClub1: San Jose
+  G: '19'
+  AB: '26'
+  R: '3'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '12'
+  AVG: '.192'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Neufeld
+  nameFirst: Albert C.
+  nameClub1: Ventura
+  G: '59'
+  AB: '188'
+  R: '20'
+  H: '36'
+  TB: '49'
+  H2B: '11'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '22'
+  HP: '9'
+  RBI: '12'
+  SO: '34'
+  AVG: '.191'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Parkin
+  nameFirst: Clair G.
+  nameClub1: San Jose
+  G: '32'
+  AB: '84'
+  R: '5'
+  H: '16'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '3'
+  SO: '26'
+  AVG: '.190'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Scherger
+  nameFirst: George R.
+  nameClub1: Santa Barbara
+  G: '31'
+  AB: '79'
+  R: '9'
+  H: '15'
+  TB: '18'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '15'
+  HP: '0'
+  RBI: '8'
+  SO: '8'
+  AVG: '.190'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hanson
+  nameFirst: James L.
+  nameClub1: Visalia
+  G: '18'
+  AB: '38'
+  R: '9'
+  H: '7'
+  TB: '13'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '10'
+  HP: '1'
+  RBI: '3'
+  SO: '15'
+  AVG: '.184'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Barnes
+  nameFirst: Charles J.
+  nameClub1: Visalia
+  G: '88'
+  AB: '296'
+  R: '43'
+  H: '54'
+  TB: '85'
+  H2B: '4'
+  H3B: '3'
+  HR: '7'
+  SH: '3'
+  SB: '1'
+  BB: '46'
+  HP: '0'
+  RBI: '45'
+  SO: '103'
+  AVG: '.182'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bielefeld
+  nameFirst: Arthur H.
+  nameClub1: Stockton
+  G: '33'
+  AB: '66'
+  R: '10'
+  H: '12'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '8'
+  SB: '0'
+  BB: '19'
+  HP: '0'
+  RBI: '4'
+  SO: '22'
+  AVG: '.182'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Dawson
+  nameFirst: James A.
+  nameClub1: Bakersfield
+  G: '16'
+  AB: '22'
+  R: '0'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '2'
+  SO: '8'
+  AVG: '.182'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bryant
+  nameFirst: Eugene W.
+  nameClub1: Modesto
+  G: '40'
+  AB: '94'
+  R: '9'
+  H: '17'
+  TB: '32'
+  H2B: '3'
+  H3B: '0'
+  HR: '4'
+  SH: '5'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '7'
+  SO: '36'
+  AVG: '.181'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Killingsworth
+  nameFirst: Gary L.
+  nameClub1: 40@San Jose
+  nameClub2: 7@Modesto
+  G: '47'
+  AB: '172'
+  R: '19'
+  H: '31'
+  TB: '39'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '21'
+  HP: '1'
+  RBI: '16'
+  SO: '11'
+  AVG: '.180'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Utter
+  nameFirst: Richard C.
+  nameClub1: Bakersfield
+  G: '34'
+  AB: '73'
+  R: '6'
+  H: '13'
+  TB: '16'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '2'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '17'
+  AVG: '.178'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gonsalves
+  nameFirst: Robert L.
+  nameClub1: Modesto
+  G: '60'
+  AB: '193'
+  R: '22'
+  H: '34'
+  TB: '44'
+  H2B: '7'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '1'
+  BB: '34'
+  HP: '1'
+  RBI: '12'
+  SO: '67'
+  AVG: '.176'
+- year: '1953'
+  nameLeague: California League
+  nameLast: O'Connor
+  nameFirst: L. Raymond
+  nameClub1: Visalia
+  G: '49'
+  AB: '74'
+  R: '11'
+  H: '13'
+  TB: '17'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '7'
+  SO: '12'
+  AVG: '.176'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cheshier
+  nameFirst: Charles D.
+  nameClub1: Bakersfield
+  bats: L
+  G: '12'
+  AB: '34'
+  R: '2'
+  H: '6'
+  TB: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '3'
+  SO: '11'
+  AVG: '.176'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jacquier
+  nameFirst: Richard D.
+  nameClub1: Santa Barbara
+  G: '30'
+  AB: '76'
+  R: '5'
+  H: '13'
+  TB: '16'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '6'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '7'
+  SO: '24'
+  AVG: '.171'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fletcher
+  nameFirst: Guy W.
+  nameClub1: Modesto
+  G: '31'
+  AB: '72'
+  R: '3'
+  H: '12'
+  TB: '15'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '2'
+  BB: '8'
+  HP: '0'
+  RBI: '5'
+  SO: '33'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Meyer
+  nameFirst: Jerry
+  nameClub1: 13@Fresno
+  nameClub2: 8@Visalia
+  G: '21'
+  AB: '18'
+  R: '0'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '1'
+  SO: '10'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Henson
+  nameFirst: Donald G.
+  nameClub1: Modesto
+  G: '10'
+  AB: '6'
+  R: '1'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '2'
+  SO: '1'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Johnston
+  nameFirst: Delbert L.
+  nameClub1: Visalia
+  G: '35'
+  AB: '133'
+  R: '18'
+  H: '22'
+  TB: '30'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SH: '3'
+  SB: '1'
+  BB: '22'
+  HP: '3'
+  RBI: '14'
+  SO: '31'
+  AVG: '.165'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Forrest
+  nameFirst: Charles E.
+  nameClub1: Fresno
+  G: '33'
+  AB: '61'
+  R: '6'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '21'
+  AVG: '.164'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Thomas
+  nameFirst: John F.
+  nameClub1: Ventura
+  G: '31'
+  AB: '92'
+  R: '13'
+  H: '15'
+  TB: '24'
+  H2B: '3'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '3'
+  BB: '11'
+  HP: '7'
+  RBI: '11'
+  SO: '20'
+  AVG: '.163'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fiskness
+  nameFirst: Jack E.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '18'
+  AB: '49'
+  R: '7'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '12'
+  HP: '1'
+  RBI: '1'
+  SO: '16'
+  AVG: '.163'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Watkins
+  nameFirst: Reeve B.
+  nameClub1: Stockton
+  G: '23'
+  AB: '62'
+  R: '2'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '2'
+  SO: '14'
+  AVG: '.161'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Girdley
+  nameFirst: Bill H.
+  nameClub1: Ventura
+  bats: L
+  G: '17'
+  AB: '56'
+  R: '11'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '4'
+  SO: '16'
+  AVG: '.161'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Douzos
+  nameFirst: Milton A.
+  nameClub1: Bakersfield
+  G: '13'
+  AB: '31'
+  R: '2'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '4'
+  SO: '7'
+  AVG: '.161'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Burgess
+  nameFirst: Larry R.
+  nameClub1: Modesto
+  G: '46'
+  AB: '76'
+  R: '8'
+  H: '12'
+  TB: '13'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '7'
+  SO: '24'
+  AVG: '.158'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Vargas
+  nameFirst: Ramon M.
+  nameClub1: Ventura
+  G: '21'
+  AB: '83'
+  R: '5'
+  H: '13'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '4'
+  HP: '1'
+  RBI: '11'
+  SO: '2'
+  AVG: '.157'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fiori
+  nameFirst: Jack V.
+  nameClub1: Bakersfield
+  G: '29'
+  AB: '70'
+  R: '6'
+  H: '11'
+  TB: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '5'
+  SO: '9'
+  AVG: '.157'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Kenway
+  nameFirst: Donald B.
+  nameClub1: Santa Barbara
+  G: '22'
+  AB: '66'
+  R: '4'
+  H: '10'
+  TB: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '6'
+  SO: '18'
+  AVG: '.152'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Clark
+  nameFirst: William J.
+  nameClub1: Santa Barbara
+  G: '32'
+  AB: '27'
+  R: '3'
+  H: '4'
+  TB: '6'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '11'
+  AVG: '.148'
+- year: '1953'
+  nameLeague: California League
+  nameLast: James
+  nameFirst: Walter C.
+  nameClub1: Modesto
+  G: '15'
+  AB: '34'
+  R: '5'
+  H: '5'
+  TB: '8'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  AVG: '.147'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Zonner
+  nameFirst: William J.
+  nameClub1: San Jose
+  G: '15'
+  AB: '21'
+  R: '2'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Grunsky
+  nameFirst: Robert E.
+  nameClub1: Bakersfield
+  G: '18'
+  AB: '14'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Donley
+  nameFirst: Charles
+  nameClub1: Ventura
+  G: '47'
+  AB: '66'
+  R: '7'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '2'
+  SO: '25'
+  AVG: '.136'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Townsend
+  nameFirst: Donald A.
+  nameClub1: Fresno
+  bats: L
+  G: '24'
+  AB: '53'
+  R: '5'
+  H: '7'
+  TB: '12'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '5'
+  SO: '18'
+  AVG: '.132'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nunn
+  nameFirst: Samuel A.
+  nameClub1: Stockton
+  G: '23'
+  AB: '38'
+  R: '2'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '19'
+  AVG: '.132'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Allmon
+  nameFirst: Clifford R.
+  nameClub1: San Jose
+  G: '33'
+  AB: '63'
+  R: '6'
+  H: '8'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '7'
+  SO: '22'
+  AVG: '.127'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Corella
+  nameFirst: Donald J.
+  nameClub1: Visalia
+  bats: L
+  G: '21'
+  AB: '32'
+  R: '2'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '2'
+  SO: '16'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Christin
+  nameFirst: Chris E.
+  nameClub1: Fresno
+  G: '23'
+  AB: '25'
+  R: '2'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '0'
+  SO: '8'
+  AVG: '.120'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Freitas
+  nameFirst: Antonio
+  nameClub1: Stockton
+  G: '35'
+  AB: '87'
+  R: '7'
+  H: '10'
+  TB: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '10'
+  SB: '0'
+  BB: '22'
+  HP: '0'
+  RBI: '13'
+  SO: '25'
+  AVG: '.115'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perry
+  nameFirst: Robert D.
+  nameClub1: Ventura
+  G: '17'
+  AB: '44'
+  R: '3'
+  H: '5'
+  TB: '7'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '10'
+  HP: '1'
+  RBI: '1'
+  SO: '15'
+  AVG: '.114'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sisler
+  nameFirst: Raymond L.
+  nameClub1: Bakersfield
+  G: '16'
+  AB: '44'
+  R: '2'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '6'
+  SO: '6'
+  AVG: '.114'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Thompson
+  nameFirst: Jack C.
+  nameClub1: Modesto
+  G: '16'
+  AB: '44'
+  R: '5'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '3'
+  SO: '16'
+  AVG: '.114'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Pullings
+  nameFirst: George F.
+  nameClub1: Stockton
+  G: '16'
+  AB: '53'
+  R: '3'
+  H: '6'
+  TB: '10'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '3'
+  SO: '17'
+  AVG: '.113'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Kornack
+  nameFirst: George
+  nameClub1: Modesto
+  G: '33'
+  AB: '45'
+  R: '6'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '1'
+  SO: '25'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hinson
+  nameFirst: James F.
+  nameClub1: Visalia
+  bats: L
+  G: '10'
+  AB: '27'
+  R: '1'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '0'
+  SO: '13'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hatzenbuhler
+  nameFirst: Ervin J.
+  nameClub1: Bakersfield
+  G: '12'
+  AB: '28'
+  R: '6'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  RBI: '1'
+  SO: '11'
+  AVG: '.107'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Montgomery
+  nameFirst: Daniel M.
+  nameClub1: Visalia
+  G: '23'
+  AB: '78'
+  R: '8'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '9'
+  HP: '3'
+  RBI: '5'
+  SO: '18'
+  AVG: '.103'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mauriello
+  nameFirst: Ralph
+  nameClub1: Santa Barbara
+  G: '15'
+  AB: '29'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '11'
+  AVG: '.103'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Schroyer
+  nameFirst: Richard L.
+  nameClub1: Visalia
+  G: '38'
+  AB: '69'
+  R: '6'
+  H: '7'
+  TB: '12'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '2'
+  SO: '26'
+  AVG: '.101'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bolger
+  nameFirst: Laurence L.
+  nameClub1: Fresno
+  G: '14'
+  AB: '20'
+  R: '0'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '8'
+  AVG: '.100'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Geels
+  nameFirst: B. Joseph
+  nameClub1: Fresno
+  bats: L
+  G: '38'
+  AB: '52'
+  R: '5'
+  H: '5'
+  TB: '7'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '4'
+  SO: '12'
+  AVG: '.096'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hooper
+  nameFirst: Darwin D.
+  nameClub1: Bakersfield
+  G: '17'
+  AB: '43'
+  R: '3'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '5'
+  SO: '12'
+  AVG: '.093'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bonser
+  nameFirst: Robert R.
+  nameClub1: Bakersfield
+  G: '10'
+  AB: '12'
+  R: '1'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.083'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Benedict
+  nameFirst: O. Hoyt
+  nameClub1: Fresno
+  G: '17'
+  AB: '25'
+  R: '3'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '5'
+  HP: '1'
+  RBI: '1'
+  SO: '9'
+  AVG: '.080'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Pierce
+  nameFirst: Richard A.
+  nameClub1: 9@Visalia
+  nameClub2: 3@Bakersfield
+  G: '12'
+  AB: '28'
+  R: '5'
+  H: '2'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '3'
+  SO: '13'
+  AVG: '.071'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ropek
+  nameFirst: Alexander R.
+  nameClub1: Santa Barbara
+  G: '38'
+  AB: '47'
+  R: '2'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '2'
+  SO: '18'
+  AVG: '.064'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Higgins
+  nameFirst: Harry A.
+  nameClub1: Ventura
+  G: '18'
+  AB: '16'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '1'
+  SO: '6'
+  AVG: '.063'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Daley
+  nameFirst: C. Elmer
+  nameClub1: San Jose
+  G: '14'
+  AB: '28'
+  R: '2'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  AVG: '.036'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hall
+  nameFirst: Gerald M.
+  nameClub1: San Jose
+  G: '12'
+  AB: '14'
+  R: '1'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '7'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moore
+  nameFirst: William K.
+  nameClub1: Stockton
+  G: '11'
+  AB: '14'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Williams
+  nameFirst: David H.
+  nameClub1: Santa Barbara
+  G: '10'
+  AB: '9'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wortley
+  nameFirst: R. Kenneth
+  nameClub1: Visalia
+  G: '11'
+  AB: '2'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bandelier
+  nameFirst: Robert L.
+  nameClub1: Bakersfield
+  bats: L
+  G: '5'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Boggini
+  nameFirst: Donald R.
+  nameClub1: Bakersfield
+  bats: L
+  G: '7'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Brem
+  nameFirst: Bailey L.
+  nameClub1: Bakersfield
+  G: '6'
+  AVG: '.053'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fraser
+  nameFirst: Donald B.
+  nameClub1: Bakersfield
+  G: '5'
+  AVG: '.182'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gammino
+  nameFirst: Ernest S.
+  nameClub1: Bakersfield
+  bats: L
+  G: '9'
+  AVG: '.219'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gemberling
+  nameFirst: Melvin I.
+  nameClub1: Bakersfield
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mathews
+  nameFirst: Alfred R.
+  nameClub1: Bakersfield
+  G: '6'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Vickers
+  nameFirst: Garner R.
+  nameClub1: Bakersfield
+  G: '8'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Davis
+  nameFirst: James C.
+  nameClub1: Fresno
+  G: '8'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Greer
+  nameFirst: Charles H.
+  nameClub1: Fresno
+  G: '7'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jack
+  nameFirst: James N.
+  nameClub1: Fresno
+  bats: L
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Juhasz
+  nameFirst: Stephen R.
+  nameClub1: Fresno
+  G: '3'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Robinson
+  nameFirst: W. Earle
+  nameClub1: Fresno
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Scharnick
+  nameFirst: Chester R.
+  nameClub1: Fresno
+  G: '6'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Seward
+  nameFirst: William E.
+  nameClub1: Fresno
+  G: '5'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Warner
+  nameFirst: Harold
+  nameClub1: Fresno
+  G: '2'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wollenweber
+  nameFirst: Arthur H.
+  nameClub1: Fresno
+  G: '6'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Amaya
+  nameFirst: Arthur D.
+  nameClub1: Modesto
+  G: '8'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: LeRoy D.
+  nameClub1: Modesto
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Lochridge
+  nameFirst: Paul F.
+  nameClub1: Modesto
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shank
+  nameFirst: B. Robert
+  nameClub1: Modesto
+  G: '3'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Whitlock
+  nameFirst: Joel W.
+  nameClub1: Modesto
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Busey
+  nameFirst: Gerald L.
+  nameClub1: San Jose
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: D'Ambrosi
+  nameFirst: Mario
+  nameClub1: San Jose
+  G: '8'
+  AVG: '.308'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Luoni
+  nameFirst: Norman A.
+  nameClub1: San Jose
+  bats: L
+  G: '9'
+  AVG: '.083'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nebron
+  nameFirst: A. Gerald
+  nameClub1: San Jose
+  G: '8'
+  AVG: '.077'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Osborn
+  nameFirst: Jack G.
+  nameClub1: San Jose
+  G: '8'
+  AVG: '.357'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Schulte
+  nameFirst: Paul A.
+  nameClub1: San Jose
+  G: '6'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stamatis
+  nameFirst: Harry J.
+  nameClub1: San Jose
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Callahan
+  nameFirst: W. Brian
+  nameClub1: Santa Barbara
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gibson
+  nameFirst: Earl H.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Loepp
+  nameFirst: James A.
+  nameClub1: Santa Barbara
+  G: '9'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McCall
+  nameFirst: M. Gordon
+  nameClub1: Santa Barbara
+  G: '5'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sherry
+  nameFirst: Lawrence
+  nameClub1: Santa Barbara
+  G: '9'
+  AVG: '.077'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Terwedow
+  nameFirst: Donald D.
+  nameClub1: Santa Barbara
+  bats: L
+  G: '9'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wells
+  nameFirst: William D.
+  nameClub1: Santa Barbara
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wilsman
+  nameFirst: William D.
+  nameClub1: Santa Barbara
+  G: '7'
+  AVG: '.238'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Kuhlman
+  nameFirst: Sterling K.
+  nameClub1: Stockton
+  G: '9'
+  AVG: '.136'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McGaughey
+  nameFirst: Otis S.
+  nameClub1: Stockton
+  G: '7'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Montgomery
+  nameFirst: James H.
+  nameClub1: Stockton
+  G: '3'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ortega
+  nameFirst: Raymond
+  nameClub1: Stockton
+  G: '2'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Tyler
+  nameFirst: Walter
+  nameClub1: Stockton
+  bats: L
+  G: '9'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ball
+  nameFirst: Samuel H.
+  nameClub1: Ventura
+  bats: L
+  G: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cameron
+  nameFirst: Allan
+  nameClub1: Ventura
+  G: '5'
+  AVG: '.235'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cohen
+  nameFirst: Harlan
+  nameClub1: Ventura
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Coreris
+  nameFirst: Homer M.
+  nameClub1: Ventura
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Coyle
+  nameFirst: Jacques R.
+  nameClub1: Ventura
+  bats: L
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Garner
+  nameFirst: James F. T.
+  nameClub1: Ventura
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ghio
+  nameFirst: Lawrence
+  nameClub1: Ventura
+  G: '6'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: California League
+  nameLast: King
+  nameFirst: Don G.
+  nameClub1: Ventura
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Lopez
+  nameFirst: Ubaldo J.
+  nameClub1: Ventura
+  G: '2'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mendoza
+  nameFirst: Alberto R.
+  nameClub1: Ventura
+  bats: L
+  G: '3'
+  AVG: '.400'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Odekirk
+  nameFirst: Ronald C.
+  nameClub1: Ventura
+  G: '3'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Porter
+  nameFirst: Terry W.
+  nameClub1: Ventura
+  bats: L
+  G: '2'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sangster
+  nameFirst: Robert V.
+  nameClub1: Ventura
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Torres
+  nameFirst: Marcos
+  nameClub1: Ventura
+  G: '6'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Valdez
+  nameFirst: Rafael
+  nameClub1: Ventura
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ayres
+  nameFirst: Robert W.
+  nameClub1: Visalia
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Beene
+  nameFirst: Charlie F.
+  nameClub1: Visalia
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Caruso
+  nameFirst: John L.
+  nameClub1: Visalia
+  G: '5'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gretlein
+  nameFirst: Carl C.
+  nameClub1: Visalia
+  G: '4'
+  AVG: '1.000'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hagler
+  nameFirst: Ronald E.
+  nameClub1: Visalia
+  G: '9'
+  AVG: '.083'
+- year: '1953'
+  nameLeague: California League
+  nameLast: MacKay
+  nameFirst: Gerald R.
+  nameClub1: Visalia
+  bats: L
+  G: '6'
+  AVG: '.214'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Winslow
+  nameFirst: Charles F.
+  nameClub1: Visalia
+  G: '4'
+  AVG: '.250'

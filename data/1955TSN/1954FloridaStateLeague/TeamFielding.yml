@@ -1,0 +1,66 @@
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  G: '139'
+  DP: '149'
+  PB: '16'
+  PO: '3649'
+  A: '1554'
+  E: '259'
+  PCT: '.953'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  G: '139'
+  DP: '130'
+  PB: '34'
+  PO: '3723'
+  A: '1464'
+  E: '271'
+  PCT: '.950'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  G: '140'
+  DP: '136'
+  PB: '31'
+  PO: '3719'
+  A: '1636'
+  E: '301'
+  PCT: '.947'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  G: '139'
+  DP: '95'
+  PB: '25'
+  PO: '3633'
+  A: '1372'
+  E: '291'
+  PCT: '.945'
+  TP: '1'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  G: '138'
+  DP: '103'
+  PB: '18'
+  PO: '3654'
+  A: '1445'
+  E: '301'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  G: '137'
+  DP: '119'
+  PB: '25'
+  PO: '3678'
+  A: '1593'
+  E: '366'
+  PCT: '.935'
+  TP: '0'

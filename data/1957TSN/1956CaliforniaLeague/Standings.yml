@@ -1,0 +1,118 @@
+- year: '1956'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '91'
+  L: '49'
+  T: '0'
+  PCT: '.650'
+  RANK: '1'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '0'
+  PCT: '.593'
+  RANK: '2'
+- year: '1956'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '2'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular
+  W: '73'
+  L: '67'
+  T: '0'
+  PCT: '.521'
+  RANK: '4'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '67'
+  L: '73'
+  T: '0'
+  PCT: '.479'
+  RANK: '5'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '6'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular
+  W: '53'
+  L: '87'
+  T: '0'
+  PCT: '.379'
+  RANK: '7'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '48'
+  L: '92'
+  T: '0'
+  PCT: '.343'
+  RANK: '8'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '1'
+  RANK: '3'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Reno
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '2'
+  RANK: '4'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

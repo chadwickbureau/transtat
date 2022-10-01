@@ -1,0 +1,94 @@
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Corpus Christi
+  phase: regular
+  W: '89'
+  L: '51'
+  PCT: '.686'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Laredo
+  phase: regular
+  W: '80'
+  L: '60'
+  PCT: '.517'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Brownsville
+  phase: regular
+  W: '75'
+  L: '65'
+  PCT: '.536'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: McAllen
+  phase: regular
+  W: '70'
+  L: '68'
+  PCT: '.507'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Del Rio
+  phase: regular
+  W: '58'
+  L: '80'
+  PCT: '.420'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Donna/Robstown
+  phase: regular
+  W: '45'
+  L: '93'
+  PCT: '.326'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Corpus Christi
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: McAllen
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Brownsville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Laredo
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Corpus Christi
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Rio Grande Valley League
+  nameClub: Brownsville
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

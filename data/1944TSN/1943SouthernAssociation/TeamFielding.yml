@@ -1,0 +1,88 @@
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  G: '140'
+  DP: '150'
+  PB: '20'
+  PO: '3524'
+  A: '1691'
+  E: '175'
+  PCT: '.968'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  G: '138'
+  DP: '136'
+  PB: '15'
+  PO: '3520'
+  A: '1554'
+  E: '175'
+  PCT: '.967'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  G: '136'
+  DP: '134'
+  PB: '5'
+  PO: '3419'
+  A: '1575'
+  E: '182'
+  PCT: '.965'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Montgomery
+  G: '140'
+  DP: '104'
+  PB: '12'
+  PO: '3470'
+  A: '1515'
+  E: '203'
+  PCT: '.961'
+  TP: '1'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  G: '141'
+  DP: '138'
+  PB: '14'
+  PO: '3575'
+  A: '1612'
+  E: '218'
+  PCT: '.960'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Knoxville
+  G: '138'
+  DP: '108'
+  PB: '4'
+  PO: '3452'
+  A: '1574'
+  E: '209'
+  PCT: '.960'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  G: '138'
+  DP: '102'
+  PB: '13'
+  PO: '3423'
+  A: '1447'
+  E: '216'
+  PCT: '.958'
+  TP: '0'
+- year: '1943'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  G: '141'
+  DP: '141'
+  PB: '17'
+  PO: '3538'
+  A: '1589'
+  E: '238'
+  PCT: '.956'
+  TP: '0'

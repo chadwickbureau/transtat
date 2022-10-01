@@ -1,0 +1,110 @@
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Marshall
+  phase: regular
+  W: '84'
+  L: '55'
+  PCT: '.604'
+  RANK: '1'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Texarkana
+  phase: regular
+  W: '80'
+  L: '60'
+  PCT: '.571'
+  RANK: '2'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: regular
+  W: '75'
+  L: '65'
+  PCT: '.536'
+  RANK: '3'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: regular
+  W: '72'
+  L: '66'
+  PCT: '.522'
+  RANK: '4'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Kilgore
+  phase: regular
+  W: '64'
+  L: '74'
+  PCT: '.464'
+  RANK: '5'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Longview
+  phase: regular
+  W: '63'
+  L: '75'
+  PCT: '.457'
+  RANK: '6'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Palestine
+  phase: regular
+  W: '60'
+  L: '79'
+  PCT: '.432'
+  RANK: '7'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Jacksonville
+  phase: regular
+  W: '58'
+  L: '82'
+  PCT: '.414'
+  RANK: '8'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Marshall
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Texarkana
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

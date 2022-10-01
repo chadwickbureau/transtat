@@ -1,0 +1,54 @@
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  phase: regular
+  W: '75'
+  L: '45'
+  T: '1'
+  PCT: '.625'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  phase: regular
+  W: '65'
+  L: '55'
+  T: '1'
+  PCT: '.542'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  phase: regular
+  W: '60'
+  L: '60'
+  T: '0'
+  PCT: '.500'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  phase: regular
+  W: '56'
+  L: '64'
+  T: '2'
+  PCT: '.467'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  phase: regular
+  W: '52'
+  L: '68'
+  T: '1'
+  PCT: '.433'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Poza Rica
+  phase: regular
+  W: '52'
+  L: '68'
+  T: '1'
+  PCT: '.433'
+  RANK: '6'

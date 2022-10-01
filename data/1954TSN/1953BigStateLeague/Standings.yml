@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: regular
+  W: '85'
+  L: '58'
+  T: '0'
+  PCT: '.594'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Tyler
+  phase: regular
+  W: '81'
+  L: '63'
+  T: '0'
+  PCT: '.563'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: regular
+  W: '78'
+  L: '68'
+  T: '0'
+  PCT: '.534'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Waco/Longview
+  phase: regular
+  W: '77'
+  L: '68'
+  T: '0'
+  PCT: '.531'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Temple
+  phase: regular
+  W: '72'
+  L: '73'
+  T: '0'
+  PCT: '.497'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Greenville/Bryan
+  phase: regular
+  W: '70'
+  L: '77'
+  T: '0'
+  PCT: '.476'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: regular
+  W: '69'
+  L: '77'
+  T: '0'
+  PCT: '.473'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Paris
+  phase: regular
+  W: '48'
+  L: '96'
+  T: '0'
+  PCT: '.333'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Waco/Longview
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Tyler
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Big State League
+  nameClub: Tyler
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

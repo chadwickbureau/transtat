@@ -1,0 +1,66 @@
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Anaheim
+  G: '140'
+  DP: '146'
+  TP: '0'
+  PB: '9'
+  PO: '3563'
+  A: '1445'
+  E: '288'
+  PCT: '.946'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Ontario
+  G: '139'
+  DP: '83'
+  TP: '1'
+  PB: '26'
+  PO: '3502'
+  A: '1374'
+  E: '300'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  G: '140'
+  DP: '127'
+  TP: '0'
+  PB: '21'
+  PO: '3576'
+  A: '1420'
+  E: '313'
+  PCT: '.941'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: El Centro
+  G: '139'
+  DP: '113'
+  TP: '0'
+  PB: '16'
+  PO: '3535'
+  A: '1365'
+  E: '348'
+  PCT: '.934'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  G: '140'
+  DP: '104'
+  TP: '0'
+  PB: '18'
+  PO: '3575'
+  A: '1406'
+  E: '355'
+  PCT: '.933'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Reno
+  G: '138'
+  DP: '133'
+  TP: '1'
+  PB: '27'
+  PO: '3472'
+  A: '1403'
+  E: '361'
+  PCT: '.931'

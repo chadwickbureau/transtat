@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  G: '155'
+  DP: '131'
+  PB: '7'
+  PO: '4097'
+  A: '1498'
+  E: '141'
+  PCT: '.975'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  G: '153'
+  DP: '159'
+  PB: '15'
+  PO: '3919'
+  A: '1595'
+  E: '156'
+  PCT: '.972'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  G: '154'
+  DP: '181'
+  PB: '16'
+  PO: '4087'
+  A: '1623'
+  E: '168'
+  PCT: '.971'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  G: '156'
+  DP: '179'
+  PB: '9'
+  PO: '4020'
+  A: '1602'
+  E: '175'
+  PCT: '.970'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  G: '152'
+  DP: '151'
+  PB: '16'
+  PO: '3898'
+  A: '1596'
+  E: '167'
+  PCT: '.970'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  G: '154'
+  DP: '162'
+  PB: '21'
+  PO: '3957'
+  A: '1557'
+  E: '186'
+  PCT: '.967'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  G: '154'
+  DP: '142'
+  PB: '38'
+  PO: '3999'
+  A: '1626'
+  E: '197'
+  PCT: '.966'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  G: '152'
+  DP: '241'
+  PB: '15'
+  PO: '3827'
+  A: '1773'
+  E: '210'
+  PCT: '.964'

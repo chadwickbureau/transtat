@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular
+  W: '94'
+  L: '60'
+  T: '1'
+  PCT: '.610'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular
+  W: '92'
+  L: '62'
+  T: '1'
+  PCT: '.597'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular
+  W: '81'
+  L: '70'
+  T: '2'
+  PCT: '.536'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular
+  W: '80'
+  L: '74'
+  T: '2'
+  PCT: '.519'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular
+  W: '75'
+  L: '76'
+  T: '0'
+  PCT: '.497'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular
+  W: '64'
+  L: '90'
+  T: '0'
+  PCT: '.416'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular
+  W: '64'
+  L: '90'
+  T: '0'
+  PCT: '.416'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: regular
+  W: '63'
+  L: '91'
+  T: '0'
+  PCT: '.409'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

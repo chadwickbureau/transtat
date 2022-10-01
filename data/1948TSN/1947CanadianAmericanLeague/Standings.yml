@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Schenectady
+  phase: regular
+  W: '86'
+  L: '51'
+  T: '1'
+  PCT: '.628'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  phase: regular
+  W: '74'
+  L: '65'
+  T: '0'
+  PCT: '.532'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  phase: regular
+  W: '73'
+  L: '67'
+  T: '2'
+  PCT: '.521'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  phase: regular
+  W: '70'
+  L: '67'
+  T: '1'
+  PCT: '.511'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  phase: regular
+  W: '71'
+  L: '69'
+  T: '0'
+  PCT: '.507'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Trois-Rivieres
+  phase: regular
+  W: '65'
+  L: '69'
+  T: '2'
+  PCT: '.485'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  phase: regular
+  W: '67'
+  L: '72'
+  T: '3'
+  PCT: '.482'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Quebec
+  phase: regular
+  W: '45'
+  L: '91'
+  T: '3'
+  PCT: '.331'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Schenectady
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Schenectady
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

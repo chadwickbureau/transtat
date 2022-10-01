@@ -1,0 +1,118 @@
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '90'
+  L: '64'
+  T: '0'
+  PCT: '.584'
+  RANK: '1'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '89'
+  L: '65'
+  T: '0'
+  PCT: '.578'
+  RANK: '2'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '87'
+  L: '67'
+  T: '4'
+  PCT: '.565'
+  RANK: '3'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: regular
+  W: '80'
+  L: '73'
+  T: '3'
+  PCT: '.523'
+  RANK: '4'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '72'
+  L: '82'
+  T: '2'
+  PCT: '.468'
+  RANK: '5'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '67'
+  L: '85'
+  T: '5'
+  PCT: '.441'
+  RANK: '6'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '67'
+  L: '87'
+  T: '2'
+  PCT: '.435'
+  RANK: '7'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '62'
+  L: '91'
+  T: '4'
+  PCT: '.405'
+  RANK: '8'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1937'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

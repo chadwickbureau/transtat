@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Danville
+  phase: regular
+  W: '79'
+  L: '47'
+  T: '0'
+  PCT: '.627'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: regular
+  W: '74'
+  L: '51'
+  T: '0'
+  PCT: '.592'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Springfield
+  phase: regular
+  W: '71'
+  L: '55'
+  T: '0'
+  PCT: '.563'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular
+  W: '71'
+  L: '55'
+  T: '2'
+  PCT: '.563'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '70'
+  L: '55'
+  T: '2'
+  PCT: '.560'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: regular
+  W: '55'
+  L: '70'
+  T: '1'
+  PCT: '.440'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular
+  W: '50'
+  L: '75'
+  T: '1'
+  PCT: '.400'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Decatur
+  phase: regular
+  W: '31'
+  L: '93'
+  T: '0'
+  PCT: '.250'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Danville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Springfield
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Danville
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

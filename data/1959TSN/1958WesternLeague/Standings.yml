@@ -1,0 +1,64 @@
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  W: '87'
+  L: '60'
+  T: '0'
+  PCT: '.592'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Amarillo
+  W: '84'
+  L: '63'
+  T: '1'
+  PCT: '.571'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Lincoln
+  W: '75'
+  L: '71'
+  T: '0'
+  PCT: '.514'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Pueblo
+  W: '73'
+  L: '74'
+  T: '1'
+  PCT: '.497'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Albuquerque
+  W: '71'
+  L: '75'
+  T: '1'
+  PCT: '.486'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Sioux City
+  W: '69'
+  L: '77'
+  T: '0'
+  PCT: '.473'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Topeka
+  W: '65'
+  L: '82'
+  T: '1'
+  PCT: '.442'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Western League
+  nameClub: Des Moines
+  W: '61'
+  L: '83'
+  T: '0'
+  PCT: '.424'
+  RANK: '8'

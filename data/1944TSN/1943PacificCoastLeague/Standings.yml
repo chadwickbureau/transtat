@@ -1,0 +1,116 @@
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '110'
+  L: '45'
+  PCT: '.710'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '89'
+  L: '66'
+  PCT: '.574'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '85'
+  L: '70'
+  PCT: '.548'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '79'
+  L: '76'
+  PCT: '.510'
+  RANK: '4'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '73'
+  L: '82'
+  PCT: '.471'
+  RANK: '5'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '78'
+  L: '82'
+  PCT: '.471'
+  RANK: '5'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '70'
+  L: '85'
+  PCT: '.455'
+  RANK: '7'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '41'
+  L: '114'
+  PCT: '.265'
+  RANK: '8'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

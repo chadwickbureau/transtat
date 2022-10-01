@@ -1,0 +1,96 @@
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Easton
+  phase: regular
+  W: '68'
+  L: '52'
+  PCT: '.567'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  phase: regular
+  W: '63'
+  L: '56'
+  PCT: '.529'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: regular
+  W: '60'
+  L: '59'
+  PCT: '.504'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Rehoboth Beach
+  phase: regular
+  W: '56'
+  L: '63'
+  PCT: '.471'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Seaford
+  phase: regular
+  W: '56'
+  L: '64'
+  PCT: '.467'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: regular
+  W: '55'
+  L: '64'
+  PCT: '.462'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  phase: semifinal
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Rehoboth Beach
+  phase: semifinal
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Easton
+  phase: semifinal
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: semifinal
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Rehoboth Beach
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

@@ -1,0 +1,2077 @@
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameClub1: Welch
+  throws: L
+  Pos: 1B
+  G: '101'
+  PO: '863'
+  A: '54'
+  E: '12'
+  DP: '56'
+  PCT: '.987'
+  TP: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Bryan
+  nameClub1: Bluefield
+  Pos: 1B
+  G: '113'
+  PO: '980'
+  A: '62'
+  E: '15'
+  DP: '75'
+  PCT: '.986'
+  TP: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Lance
+  nameClub1: Bristol
+  throws: L
+  Pos: 1B
+  G: '114'
+  PO: '835'
+  A: '44'
+  E: '14'
+  DP: '67'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Vingers
+  nameClub1: Johnson City
+  Pos: 1B
+  G: '63'
+  PO: '499'
+  A: '29'
+  E: '10'
+  DP: '57'
+  PCT: '.981'
+  TP: '1'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Cisternelli
+  nameClub1: Wytheville
+  Pos: 1B
+  G: '52'
+  PO: '441'
+  A: '25'
+  E: '9'
+  DP: '37'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Pharr
+  nameClub1: Pulaski
+  throws: L
+  Pos: 1B
+  G: '114'
+  PO: '928'
+  A: '41'
+  E: '21'
+  DP: '67'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Konicki
+  nameClub1: Wytheville
+  Pos: 1B
+  G: '16'
+  PO: '137'
+  A: '7'
+  E: '4'
+  DP: '15'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Murray
+  nameClub1: Wytheville
+  throws: L
+  Pos: 1B
+  G: '42'
+  PO: '324'
+  A: '15'
+  E: '13'
+  DP: '22'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Matthews
+  nameClub1: Johnson City
+  throws: L
+  Pos: 1B
+  G: '54'
+  PO: '315'
+  A: '31'
+  E: '20'
+  DP: '41'
+  PCT: '.945'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Creasey
+  nameClub1: Welch
+  Pos: 1B
+  G: '13'
+  PO: '96'
+  A: '11'
+  E: '10'
+  DP: '8'
+  PCT: '.915'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Contini
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '11'
+  PO: '36'
+  A: '23'
+  E: '1'
+  DP: '7'
+  PCT: '.983'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Schifferle
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '21'
+  PO: '38'
+  A: '53'
+  E: '2'
+  DP: '10'
+  PCT: '.978'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Stallings
+  nameClub1: Bluefield
+  Pos: 2B
+  G: '68'
+  PO: '155'
+  A: '208'
+  E: '15'
+  DP: '40'
+  PCT: '.960'
+  TP: '1'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Davidson
+  nameClub1: Welch
+  Pos: 2B
+  G: '15'
+  PO: '14'
+  A: '32'
+  E: '2'
+  DP: '3'
+  PCT: '.958'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Whiteko
+  nameClub1: Pulaski
+  Pos: 2B
+  G: '73'
+  PO: '135'
+  A: '189'
+  E: '16'
+  DP: '40'
+  PCT: '.953'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Madalone
+  nameClub1: Bluefield
+  Pos: 2B
+  G: '41'
+  PO: '96'
+  A: '123'
+  E: '11'
+  DP: '25'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Rippili
+  nameClub1: Bristol
+  Pos: 2B
+  G: '86'
+  PO: '177'
+  A: '211'
+  E: '21'
+  DP: '46'
+  PCT: '.949'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Germano
+  nameClub1: Welch
+  nameClub2: Johnson City
+  Pos: 2B
+  G: '24'
+  PO: '66'
+  A: '67'
+  E: '8'
+  DP: '19'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Redmond
+  nameClub1: Welch
+  Pos: 2B
+  G: '47'
+  PO: '120'
+  A: '121'
+  E: '16'
+  DP: '32'
+  PCT: '.938'
+  TP: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Sarna
+  nameClub1: Wytheville
+  Pos: 2B
+  G: '53'
+  PO: '111'
+  A: '138'
+  E: '17'
+  DP: '26'
+  PCT: '.936'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Smyser
+  nameClub1: Pulaski
+  Pos: 2B
+  G: '37'
+  PO: '61'
+  A: '91'
+  E: '12'
+  DP: '13'
+  PCT: '.927'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Allegrucci
+  nameClub1: Bristol
+  Pos: 2B
+  G: '22'
+  PO: '44'
+  A: '43'
+  E: '7'
+  DP: '13'
+  PCT: '.922'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Johnson
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '19'
+  PO: '57'
+  A: '50'
+  E: '9'
+  DP: '12'
+  PCT: '.922'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Parke
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '11'
+  PO: '23'
+  A: '21'
+  E: '4'
+  DP: '5'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Lucas
+  nameClub1: Welch
+  Pos: 2B
+  G: '33'
+  PO: '55'
+  A: '64'
+  E: '11'
+  DP: '11'
+  PCT: '.915'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Stanton
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '25'
+  PO: '40'
+  A: '74'
+  E: '11'
+  DP: '14'
+  PCT: '.912'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Dodds
+  nameClub1: Wytheville
+  Pos: 2B
+  G: '36'
+  PO: '66'
+  A: '107'
+  E: '17'
+  DP: '10'
+  PCT: '.911'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Dargay
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '11'
+  PO: '18'
+  A: '30'
+  E: '5'
+  DP: '3'
+  PCT: '.906'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: White
+  nameClub1: Wytheville
+  Pos: 2B
+  G: '18'
+  PO: '29'
+  A: '42'
+  E: '10'
+  DP: '10'
+  PCT: '.877'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Braddock
+  nameClub1: Welch
+  Pos: 2B
+  G: '22'
+  PO: '37'
+  A: '47'
+  E: '12'
+  DP: '10'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Keller
+  nameClub1: Bristol
+  Pos: 3B
+  G: '11'
+  PO: '13'
+  A: '19'
+  E: '2'
+  DP: '4'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Stanton
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '64'
+  PO: '76'
+  A: '145'
+  E: '14'
+  DP: '22'
+  PCT: '.940'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Heffner
+  nameClub1: Welch
+  Pos: 3B
+  G: '62'
+  PO: '71'
+  A: '143'
+  E: '14'
+  DP: '7'
+  PCT: '.939'
+  TP: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Gust
+  nameClub1: Pulaski
+  Pos: 3B
+  G: '47'
+  PO: '39'
+  A: '53'
+  E: '6'
+  DP: '6'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Madalone
+  nameClub1: Bluefield
+  Pos: 3B
+  G: '31'
+  PO: '23'
+  A: '45'
+  E: '5'
+  DP: '7'
+  PCT: '.932'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Vescovi
+  nameClub1: Bluefield
+  Pos: 3B
+  G: '86'
+  PO: '83'
+  A: '154'
+  E: '18'
+  DP: '15'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Jones
+  nameClub1: Pulaski
+  Pos: 3B
+  G: '22'
+  PO: '15'
+  A: '40'
+  E: '5'
+  DP: '5'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Parke
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '40'
+  PO: '39'
+  A: '70'
+  E: '12'
+  DP: '5'
+  PCT: '.901'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Cleveland
+  nameClub1: Bristol
+  Pos: 3B
+  G: '70'
+  PO: '81'
+  A: '103'
+  E: '23'
+  DP: '11'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Oberg
+  nameClub1: Welch
+  Pos: 3B
+  G: '19'
+  PO: '22'
+  A: '39'
+  E: '8'
+  DP: '3'
+  PCT: '.884'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Stanford
+  nameClub1: Wytheville
+  Pos: 3B
+  G: '105'
+  PO: '112'
+  A: '162'
+  E: '38'
+  DP: '14'
+  PCT: '.878'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Green
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '11'
+  PO: '8'
+  A: '13'
+  E: '3'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Tester
+  nameClub1: Pulaski
+  Pos: 3B
+  G: '20'
+  PO: '15'
+  A: '31'
+  E: '8'
+  DP: '3'
+  PCT: '.852'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Male
+  nameClub1: Bristol
+  Pos: 3B
+  G: '14'
+  PO: '17'
+  A: '13'
+  E: '6'
+  DP: '2'
+  PCT: '.833'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Watkins
+  nameClub1: Pulaski
+  Pos: 3B
+  G: '33'
+  PO: '28'
+  A: '46'
+  E: '15'
+  DP: '0'
+  PCT: '.831'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Nix
+  nameClub1: Welch
+  Pos: 3B
+  G: '20'
+  PO: '19'
+  A: '31'
+  E: '11'
+  DP: '2'
+  PCT: '.820'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Redmond
+  nameClub1: Welch
+  Pos: SS
+  G: '11'
+  PO: '12'
+  A: '28'
+  E: '1'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Germano
+  nameClub1: Welch
+  nameClub2: Johnson City
+  Pos: SS
+  G: '11'
+  PO: '22'
+  A: '22'
+  E: '3'
+  DP: '3'
+  PCT: '.936'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Murgo
+  nameClub1: Wytheville
+  Pos: SS
+  G: '71'
+  PO: '125'
+  A: '225'
+  E: '30'
+  DP: '40'
+  PCT: '.921'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Green
+  nameClub1: Johnson City
+  Pos: SS
+  G: '52'
+  PO: '78'
+  A: '128'
+  E: '19'
+  DP: '26'
+  PCT: '.916'
+  TP: '1'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Mahoney
+  nameClub1: Bluefield
+  Pos: SS
+  G: '113'
+  PO: '169'
+  A: '306'
+  E: '48'
+  DP: '51'
+  PCT: '.908'
+  TP: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Howard
+  nameClub1: Pulaski
+  Pos: SS
+  G: '64'
+  PO: '130'
+  A: '154'
+  E: '31'
+  DP: '33'
+  PCT: '.902'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Traill
+  nameClub1: Welch
+  Pos: SS
+  G: '104'
+  PO: '139'
+  A: '249'
+  E: '43'
+  DP: '42'
+  PCT: '.900'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Keller
+  nameClub1: Bristol
+  Pos: SS
+  G: '66'
+  PO: '84'
+  A: '159'
+  E: '32'
+  DP: '27'
+  PCT: '.884'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Troy
+  nameClub1: Pulaski
+  Pos: SS
+  G: '38'
+  PO: '58'
+  A: '86'
+  E: '20'
+  DP: '15'
+  PCT: '.878'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: DePaola
+  nameClub1: Johnson City
+  Pos: SS
+  G: '20'
+  PO: '53'
+  A: '51'
+  E: '15'
+  DP: '8'
+  PCT: '.874'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Anderson
+  nameClub1: Bristol
+  Pos: SS
+  G: '40'
+  PO: '64'
+  A: '83'
+  E: '23'
+  DP: '15'
+  PCT: '.865'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Cazzetto
+  nameClub1: Wytheville
+  Pos: SS
+  G: '39'
+  PO: '62'
+  A: '98'
+  E: '29'
+  DP: '14'
+  PCT: '.847'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Reider
+  nameClub1: Johnson City
+  Pos: SS
+  G: '31'
+  PO: '51'
+  A: '62'
+  E: '21'
+  DP: '16'
+  PCT: '.843'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Zizza
+  nameClub1: Bluefield
+  throws: L
+  Pos: OF
+  G: '46'
+  PO: '64'
+  A: '5'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Parke
+  nameClub1: Johnson City
+  Pos: OF
+  G: '32'
+  PO: '35'
+  A: '5'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: White
+  nameClub1: Bristol
+  Pos: OF
+  G: '17'
+  PO: '16'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Lucas
+  nameClub1: Welch
+  Pos: OF
+  G: '14'
+  PO: '16'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Musselman
+  nameClub1: Welch
+  Pos: OF
+  G: '48'
+  PO: '113'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Demayo
+  nameClub1: Wytheville
+  Pos: OF
+  G: '19'
+  PO: '24'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Flannagan
+  nameClub1: Bristol
+  Pos: OF
+  G: '92'
+  PO: '159'
+  A: '14'
+  E: '7'
+  DP: '2'
+  PCT: '.961'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Ferrante
+  nameClub1: Wytheville
+  Pos: OF
+  G: '15'
+  PO: '24'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Welgoss
+  nameClub1: Pulaski
+  Pos: OF
+  G: '53'
+  PO: '146'
+  A: '13'
+  E: '7'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Radabach
+  nameClub1: Bluefield
+  Pos: OF
+  G: '113'
+  PO: '160'
+  A: '15'
+  E: '8'
+  DP: '5'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Chianese
+  nameClub1: Welch
+  throws: L
+  Pos: OF
+  G: '107'
+  PO: '171'
+  A: '26'
+  E: '9'
+  DP: '6'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Buckli
+  nameClub1: Wytheville
+  Pos: OF
+  G: '31'
+  PO: '60'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.954'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Marquis
+  nameClub1: Wytheville
+  Pos: OF
+  G: '13'
+  PO: '18'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Schwartz
+  nameClub1: Bristol
+  throws: L
+  Pos: OF
+  G: '114'
+  PO: '219'
+  A: '12'
+  E: '12'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Chavis
+  nameClub1: Johnson City
+  Pos: OF
+  G: '25'
+  PO: '34'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Neeley
+  nameClub1: Bristol
+  Pos: OF
+  G: '12'
+  PO: '16'
+  A: '3'
+  E: '1'
+  DP: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Davis
+  nameClub1: Johnson City
+  Pos: OF
+  G: '74'
+  PO: '115'
+  A: '19'
+  E: '8'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: McCoy
+  nameClub1: Johnson City
+  Pos: OF
+  G: '34'
+  PO: '79'
+  A: '5'
+  E: '5'
+  DP: '3'
+  PCT: '.944'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Nix
+  nameClub1: Welch
+  Pos: OF
+  G: '20'
+  PO: '27'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Kubes
+  nameClub1: Pulaski
+  Pos: OF
+  G: '80'
+  PO: '154'
+  A: '9'
+  E: '10'
+  DP: '4'
+  PCT: '.942'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Quinn
+  nameClub1: Pulaski
+  Pos: OF
+  G: '61'
+  PO: '86'
+  A: '9'
+  E: '6'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Werner
+  nameFirst: T.
+  nameClub1: Welch
+  Pos: OF
+  G: '62'
+  PO: '118'
+  A: '7'
+  E: '8'
+  DP: '1'
+  PCT: '.940'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Gust
+  nameClub1: Pulaski
+  Pos: OF
+  G: '51'
+  PO: '55'
+  A: '7'
+  E: '4'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Molokie
+  nameClub1: Welch
+  Pos: OF
+  G: '21'
+  PO: '29'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Briggs
+  nameClub1: Johnson City
+  Pos: OF
+  G: '120'
+  PO: '264'
+  A: '12'
+  E: '19'
+  DP: '2'
+  PCT: '.936'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Bayag
+  nameClub1: Wytheville
+  Pos: OF
+  G: '19'
+  PO: '26'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Samela
+  nameClub1: Welch
+  Pos: OF
+  G: '51'
+  PO: '82'
+  A: '0'
+  E: '6'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Marsh
+  nameClub1: Johnson City
+  throws: L
+  Pos: OF
+  G: '44'
+  PO: '64'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Schmidt
+  nameClub1: Welch
+  throws: L
+  Pos: OF
+  G: '15'
+  PO: '24'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Prescott
+  nameClub1: Bristol
+  Pos: OF
+  G: '49'
+  PO: '84'
+  A: '7'
+  E: '7'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Czekaj
+  nameClub1: Johnson City
+  Pos: OF
+  G: '13'
+  PO: '12'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Pfister
+  nameClub1: Wytheville
+  Pos: OF
+  G: '118'
+  PO: '314'
+  A: '14'
+  E: '28'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Gehris
+  nameClub1: Bluefield
+  Pos: OF
+  G: '81'
+  PO: '82'
+  A: '7'
+  E: '8'
+  DP: '3'
+  PCT: '.918'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Connelly
+  nameClub1: Welch
+  Pos: OF
+  G: '10'
+  PO: '10'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Male
+  nameClub1: Bristol
+  Pos: OF
+  G: '41'
+  PO: '57'
+  A: '1'
+  E: '6'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Iammatteo
+  nameClub1: Pulaski
+  Pos: OF
+  G: '60'
+  PO: '85'
+  A: '16'
+  E: '11'
+  DP: '3'
+  PCT: '.902'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameClub1: Johnson City
+  Pos: OF
+  G: '15'
+  PO: '17'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Thomas
+  nameClub1: Wytheville
+  Pos: OF
+  G: '46'
+  PO: '54'
+  A: '7'
+  E: '7'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameClub1: Pulaski
+  throws: L
+  Pos: OF
+  G: '27'
+  PO: '31'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Speer
+  nameClub1: Bluefield
+  Pos: OF
+  G: '112'
+  PO: '186'
+  A: '13'
+  E: '26'
+  DP: '2'
+  PCT: '.884'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Williamson
+  nameClub1: Pulaski
+  Pos: OF
+  G: '11'
+  PO: '13'
+  A: '2'
+  E: '2'
+  DP: '2'
+  PCT: '.882'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Turney
+  nameClub1: Wytheville
+  Pos: OF
+  G: '57'
+  PO: '76'
+  A: '6'
+  E: '12'
+  DP: '1'
+  PCT: '.872'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Goffredo
+  nameClub1: Wytheville
+  Pos: OF
+  G: '24'
+  PO: '36'
+  A: '2'
+  E: '7'
+  DP: '0'
+  PCT: '.844'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Maguire
+  nameClub1: Bristol
+  Pos: OF
+  G: '12'
+  PO: '13'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Curry
+  nameClub1: Welch
+  Pos: C
+  G: '16'
+  PO: '42'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Muncey
+  nameClub1: Bristol
+  Pos: C
+  G: '27'
+  PO: '217'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PB: '5'
+  PCT: '.992'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Brandenburg
+  nameClub1: Wytheville
+  Pos: C
+  G: '16'
+  PO: '84'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PB: '1'
+  PCT: '.990'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Walsh
+  nameClub1: Bluefield
+  Pos: C
+  G: '95'
+  PO: '726'
+  A: '63'
+  E: '13'
+  DP: '7'
+  PB: '11'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Ross
+  nameClub1: Wytheville
+  Pos: C
+  G: '23'
+  PO: '124'
+  A: '19'
+  E: '3'
+  DP: '2'
+  PB: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Triandos
+  nameClub1: Pulaski
+  Pos: C
+  G: '97'
+  PO: '778'
+  A: '48'
+  E: '19'
+  DP: '12'
+  PB: '6'
+  PCT: '.978'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Saatzer
+  nameClub1: Bristol
+  Pos: C
+  G: '48'
+  PO: '364'
+  A: '42'
+  E: '10'
+  DP: '6'
+  PB: '7'
+  PCT: '.976'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Quinn
+  nameClub1: Pulaski
+  Pos: C
+  G: '30'
+  PO: '176'
+  A: '14'
+  E: '5'
+  DP: '1'
+  PB: '4'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Okrie
+  nameClub1: Bluefield
+  Pos: C
+  G: '18'
+  PO: '138'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PB: '2'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Petroskey
+  nameClub1: Welch
+  Pos: C
+  G: '93'
+  PO: '506'
+  A: '50'
+  E: '18'
+  DP: '10'
+  PB: '7'
+  PCT: '.969'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Male
+  nameClub1: Bristol
+  Pos: C
+  G: '48'
+  PO: '354'
+  A: '28'
+  E: '13'
+  DP: '5'
+  PB: '4'
+  PCT: '.967'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Parke
+  nameClub1: Johnson City
+  Pos: C
+  G: '34'
+  PO: '159'
+  A: '14'
+  E: '6'
+  DP: '1'
+  PB: '8'
+  PCT: '.966'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Czekaj
+  nameClub1: Johnson City
+  Pos: C
+  G: '44'
+  PO: '251'
+  A: '29'
+  E: '11'
+  DP: '6'
+  PB: '11'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Watts
+  nameClub1: Welch
+  Pos: C
+  G: '24'
+  PO: '150'
+  A: '17'
+  E: '7'
+  DP: '4'
+  PB: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Conn
+  nameClub1: Johnson City
+  Pos: C
+  G: '21'
+  PO: '124'
+  A: '14'
+  E: '7'
+  DP: '0'
+  PB: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Raimondo
+  nameClub1: Johnson City
+  Pos: C
+  G: '31'
+  PO: '203'
+  A: '14'
+  E: '11'
+  DP: '5'
+  PB: '1'
+  PCT: '.952'
+  TP: '0'
+  apparatus: PCT=.951
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Goffredo
+  nameClub1: Wytheville
+  Pos: C
+  G: '72'
+  PO: '315'
+  A: '39'
+  E: '20'
+  DP: '5'
+  PB: '9'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Morgan
+  nameClub1: Bluefield
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '30'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Royce
+  nameClub1: Johnson City
+  nameClub2: Welch
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '21'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Schmidt
+  nameClub1: Welch
+  throws: L
+  Pos: P
+  G: '20'
+  PO: '3'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Simons
+  nameClub1: Pulaski
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Schenk
+  nameClub1: Bluefield
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '15'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Cimino
+  nameClub1: Bristol
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Jurecko
+  nameClub1: Bristol
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Mingle
+  nameClub1: Bristol
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Hodgson
+  nameClub1: Welch
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Nunn
+  nameFirst: H.
+  nameClub1: Johnson City
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '32'
+  E: '1'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Robinson
+  nameClub1: Bristol
+  Pos: P
+  G: '12'
+  PO: '7'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Cardwell
+  nameClub1: Pulaski
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '29'
+  E: '1'
+  DP: '5'
+  PCT: '.970'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Klinesmith
+  nameClub1: Bristol
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '25'
+  E: '1'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Marten
+  nameClub1: Bluefield
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '21'
+  E: '1'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Merget
+  nameClub1: Welch
+  Pos: P
+  G: '25'
+  PO: '9'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Purcell
+  nameClub1: Pulaski
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '37'
+  E: '2'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Masucci
+  nameClub1: Johnson City
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '14'
+  E: '1'
+  DP: '4'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Oliphant
+  nameClub1: Bristol
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '29'
+  E: '2'
+  DP: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Mehrmann
+  nameClub1: Bristol
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '8'
+  A: '27'
+  E: '2'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Vance
+  nameClub1: Welch
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '13'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Peterson
+  nameClub1: Johnson City
+  Pos: P
+  G: '30'
+  PO: '1'
+  A: '28'
+  E: '2'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Funari
+  nameClub1: Welch
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '11'
+  A: '29'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Sergo
+  nameClub1: Wytheville
+  nameClub2: Welch
+  Pos: P
+  G: '18'
+  PO: '6'
+  A: '19'
+  E: '2'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Kirk
+  nameClub1: Welch
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Jones
+  nameClub1: Bluefield
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '9'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: McClamrock
+  nameClub1: Bristol
+  Pos: P
+  G: '16'
+  PO: '9'
+  A: '26'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Snyders
+  nameClub1: Wytheville
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '35'
+  E: '4'
+  DP: '4'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Ferrante
+  nameClub1: Wytheville
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '26'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Misenheimer
+  nameClub1: Wytheville
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Richardson
+  nameClub1: Pulaski
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: McBride
+  nameClub1: Bluefield
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '46'
+  E: '6'
+  DP: '5'
+  PCT: '.895'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Farmer
+  nameClub1: Johnson City
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '4'
+  A: '29'
+  E: '4'
+  DP: '1'
+  PCT: '.892'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Johnson
+  nameClub1: Wytheville
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '35'
+  E: '5'
+  DP: '4'
+  PCT: '.891'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Johnson
+  nameClub1: Johnson City
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Larrivee
+  nameClub1: Bristol
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '19'
+  E: '3'
+  DP: '2'
+  PCT: '.885'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Kucharski
+  nameClub1: Pulaski
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '23'
+  E: '4'
+  DP: '2'
+  PCT: '.871'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Theiss
+  nameClub1: Pulaski
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Trezza
+  nameClub1: Bluefield
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameClub1: Johnson City
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Allmon
+  nameClub1: Bluefield
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '18'
+  E: '4'
+  DP: '0'
+  PCT: '.852'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Sherkel
+  nameClub1: Wytheville
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '19'
+  E: '4'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Hunsinger
+  nameClub1: Pulaski
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '21'
+  E: '5'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Whitlock
+  nameClub1: Welch
+  Pos: P
+  G: '20'
+  PO: '7'
+  A: '17'
+  E: '5'
+  DP: '0'
+  PCT: '.828'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Thiem
+  nameClub1: Johnson City
+  Pos: P
+  G: '21'
+  PO: '8'
+  A: '11'
+  E: '4'
+  DP: '1'
+  PCT: '.826'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Maxwell
+  nameClub1: Wytheville
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '17'
+  E: '4'
+  DP: '1'
+  PCT: '.818'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Hemric
+  nameClub1: Johnson City
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Nissen
+  nameClub1: Pulaski
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '13'
+  E: '3'
+  DP: '1'
+  PCT: '.813'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Sheatz
+  nameClub1: Pulaski
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '20'
+  E: '5'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameLast: Hoffman
+  nameClub1: Johnson City
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '9'
+  E: '5'
+  DP: '0'
+  PCT: '.667'
+  TP: '0'

@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  G: '123'
+  PO: '3281'
+  A: '1426'
+  E: '232'
+  DP: '108'
+  PB: '22'
+  PCT: '.953'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  G: '126'
+  PO: '3267'
+  A: '1379'
+  E: '234'
+  DP: '104'
+  PB: '19'
+  PCT: '.952'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  G: '123'
+  PO: '3072'
+  A: '1313'
+  E: '239'
+  DP: '89'
+  PB: '18'
+  PCT: '.948'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  G: '124'
+  PO: '3231'
+  A: '1402'
+  E: '276'
+  DP: '139'
+  PB: '14'
+  PCT: '.944'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  G: '124'
+  PO: '3116'
+  A: '1325'
+  E: '274'
+  DP: '110'
+  PB: '21'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Lockport
+  G: '123'
+  PO: '2972'
+  A: '1308'
+  E: '274'
+  DP: '98'
+  PB: '16'
+  PCT: '.940'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  G: '124'
+  PO: '2782'
+  A: '1031'
+  E: '253'
+  DP: '109'
+  PB: '33'
+  PCT: '.938'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  G: '125'
+  PO: '3125'
+  A: '1183'
+  E: '319'
+  DP: '85'
+  PB: '22'
+  PCT: '.931'

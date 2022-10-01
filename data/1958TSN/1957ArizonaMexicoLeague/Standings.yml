@@ -1,0 +1,156 @@
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  phase: regular/first
+  W: '44'
+  L: '23'
+  T: '0'
+  PCT: '.657'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Las Vegas
+  phase: regular/first
+  W: '35'
+  L: '32'
+  T: '1'
+  PCT: '.522'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  phase: regular/first
+  W: '33'
+  L: '31'
+  T: '3'
+  PCT: '.516'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  phase: regular/first
+  W: '32'
+  L: '36'
+  T: '0'
+  PCT: '.471'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  phase: regular/first
+  W: '31'
+  L: '36'
+  T: '1'
+  PCT: '.463'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  phase: regular/first
+  W: '26'
+  L: '43'
+  T: '1'
+  PCT: '.377'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  phase: regular/second
+  W: '45'
+  L: '25'
+  T: '0'
+  PCT: '.643'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  phase: regular/second
+  W: '43'
+  L: '25'
+  T: '0'
+  PCT: '.632'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  phase: regular/second
+  W: '36'
+  L: '33'
+  T: '0'
+  PCT: '.522'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  phase: regular/second
+  W: '36'
+  L: '34'
+  T: '0'
+  PCT: '.514'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Las Vegas
+  phase: regular/second
+  W: '27'
+  L: '42'
+  T: '0'
+  PCT: '.391'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  phase: regular/second
+  W: '20'
+  L: '48'
+  T: '0'
+  PCT: '.294'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  phase: regular
+  W: '89'
+  L: '48'
+  T: '0'
+  PCT: '.650'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  phase: regular
+  W: '76'
+  L: '56'
+  T: '3'
+  PCT: '.576'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  phase: regular
+  W: '68'
+  L: '69'
+  T: '0'
+  PCT: '.496'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Las Vegas
+  phase: regular
+  W: '62'
+  L: '74'
+  T: '1'
+  PCT: '.456'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  phase: regular
+  W: '62'
+  L: '77'
+  T: '1'
+  PCT: '.446'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  phase: regular
+  W: '51'
+  L: '84'
+  T: '1'
+  PCT: '.378'

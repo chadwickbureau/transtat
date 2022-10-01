@@ -1,0 +1,1352 @@
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Jones
+  nameClub1: Harlan
+  G: '122'
+  PO: '994'
+  A: '70'
+  E: '11'
+  DP: '95'
+  PCT: '.989'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Vercruysse
+  nameClub1: Newport
+  G: '113'
+  PO: '1061'
+  A: '66'
+  E: '13'
+  DP: '78'
+  PCT: '.989'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Lunn
+  nameClub1: Pennington Gap
+  G: '125'
+  PO: '1220'
+  A: '51'
+  E: '23'
+  DP: '106'
+  PCT: '.982'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Cordero
+  nameClub1: Middlesboro
+  G: '119'
+  PO: '1088'
+  A: '58'
+  E: '25'
+  DP: '65'
+  PCT: '.978'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Kitts
+  nameClub1: Morristown
+  G: '117'
+  PO: '1045'
+  A: '25'
+  E: '24'
+  DP: '84'
+  PCT: '.978'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Mays
+  nameClub1: Hazard
+  G: '120'
+  PO: '1058'
+  A: '41'
+  E: '32'
+  DP: '84'
+  PCT: '.971'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Strong
+  nameClub1: Jenkins
+  G: '117'
+  PO: '914'
+  A: '46'
+  E: '27'
+  DP: '76'
+  PCT: '.971'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 1B
+  nameLast: Alexy
+  nameClub1: Big Stone Gap
+  G: '107'
+  PO: '886'
+  A: '42'
+  E: '28'
+  DP: '75'
+  PCT: '.970'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: Curtis
+  nameClub1: Newport
+  G: '119'
+  PO: '342'
+  A: '350'
+  E: '35'
+  DP: '76'
+  PCT: '.951'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: Painter
+  nameClub1: Harlan
+  G: '125'
+  PO: '325'
+  A: '353'
+  E: '38'
+  DP: '92'
+  PCT: '.946'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: O'Donnell
+  nameClub1: Pennington Gap
+  G: '125'
+  PO: '337'
+  A: '385'
+  E: '41'
+  DP: '53'
+  PCT: '.946'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: Costa
+  nameClub1: Morristown
+  G: '118'
+  PO: '292'
+  A: '367'
+  E: '41'
+  DP: '62'
+  PCT: '.941'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: Burns
+  nameClub1: Middlesboro
+  G: '31'
+  PO: '83'
+  A: '59'
+  E: '9'
+  DP: '11'
+  PCT: '.940'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: Piscopo
+  nameClub1: Hazard
+  G: '102'
+  PO: '215'
+  A: '192'
+  E: '27'
+  DP: '35'
+  PCT: '.937'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: Saska
+  nameClub1: Big Stone Gap
+  G: '97'
+  PO: '231'
+  A: '214'
+  E: '34'
+  DP: '52'
+  PCT: '.929'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 2B
+  nameLast: Vitter
+  nameClub1: Jenkins
+  G: '70'
+  PO: '208'
+  A: '144'
+  E: '24'
+  DP: '31'
+  PCT: '.882'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Collins
+  nameClub1: Morristown
+  G: '65'
+  PO: '72'
+  A: '134'
+  E: '12'
+  DP: '13'
+  PCT: '.944'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Cousins
+  nameClub1: Harlan
+  G: '123'
+  PO: '164'
+  A: '204'
+  E: '31'
+  DP: '25'
+  PCT: '.922'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Kolback
+  nameClub1: Newport
+  G: '119'
+  PO: '143'
+  A: '274'
+  E: '39'
+  DP: '32'
+  PCT: '.914'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Thomas
+  nameClub1: Jenkins
+  G: '116'
+  PO: '153'
+  A: '236'
+  E: '38'
+  DP: '31'
+  PCT: '.911'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Stuart
+  nameClub1: Big Stone Gap
+  G: '55'
+  PO: '60'
+  A: '91'
+  E: '17'
+  DP: '17'
+  PCT: '.898'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Sadowski
+  nameClub1: Middlesboro
+  G: '73'
+  PO: '67'
+  A: '139'
+  E: '26'
+  DP: '8'
+  PCT: '.887'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Cooper
+  nameClub1: Pennington Gap
+  G: '121'
+  PO: '136'
+  A: '255'
+  E: '56'
+  DP: '24'
+  PCT: '.874'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: 3B
+  nameLast: Ballard
+  nameClub1: Hazard
+  G: '105'
+  PO: '99'
+  A: '160'
+  E: '60'
+  DP: '13'
+  PCT: '.811'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: Lewandowski
+  nameClub1: Hazard
+  G: '118'
+  PO: '249'
+  A: '408'
+  E: '33'
+  DP: '61'
+  PCT: '.952'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: Geier
+  nameClub1: Harlan
+  G: '93'
+  PO: '176'
+  A: '291'
+  E: '28'
+  DP: '65'
+  PCT: '.943'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: Bosch
+  nameClub1: Middlesboro
+  G: '52'
+  PO: '104'
+  A: '173'
+  E: '20'
+  DP: '26'
+  PCT: '.932'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: Pacheco
+  nameClub1: Newport
+  G: '96'
+  PO: '200'
+  A: '306'
+  E: '43'
+  DP: '49'
+  PCT: '.921'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: O'Rourke
+  nameClub1: Jenkins
+  G: '77'
+  PO: '148'
+  A: '187'
+  E: '28'
+  DP: '37'
+  PCT: '.922'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: Wilczek
+  nameClub1: Big Stone Gap
+  G: '120'
+  PO: '227'
+  A: '345'
+  E: '64'
+  DP: '47'
+  PCT: '.899'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: Grose
+  nameClub1: Pennington Gap
+  G: '125'
+  PO: '255'
+  A: '403'
+  E: '76'
+  DP: '55'
+  PCT: '.896'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: SS
+  nameLast: Wells
+  nameClub1: Morristown
+  G: '97'
+  PO: '156'
+  A: '256'
+  E: '53'
+  DP: '36'
+  PCT: '.886'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Flick
+  nameClub1: Pennington Gap
+  G: '112'
+  PO: '246'
+  A: '10'
+  E: '7'
+  DP: '1'
+  PCT: '.973'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Halstead
+  nameClub1: Pennington Gap
+  G: '105'
+  PO: '242'
+  A: '27'
+  E: '10'
+  DP: '4'
+  PCT: '.964'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Christian
+  nameClub1: Harlan
+  G: '116'
+  PO: '189'
+  A: '16'
+  E: '8'
+  DP: '3'
+  PCT: '.962'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Dehogues
+  nameClub1: Morristown
+  G: '115'
+  PO: '166'
+  A: '11'
+  E: '7'
+  DP: '6'
+  PCT: '.961'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Bertram
+  nameClub1: Newport
+  G: '107'
+  PO: '250'
+  A: '9'
+  E: '12'
+  DP: '3'
+  PCT: '.955'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Fronduto
+  nameClub1: Jenkins
+  G: '123'
+  PO: '345'
+  A: '13'
+  E: '17'
+  DP: '3'
+  PCT: '.954'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Whisman
+  nameClub1: Hazard
+  G: '105'
+  PO: '212'
+  A: '48'
+  E: '13'
+  DP: '11'
+  PCT: '.952'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Hill
+  nameClub1: Harlan
+  G: '80'
+  PO: '178'
+  A: '11'
+  E: '10'
+  DP: '2'
+  PCT: '.949'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Crawford
+  nameClub1: Newport
+  G: '99'
+  PO: '159'
+  A: '29'
+  E: '10'
+  DP: '5'
+  PCT: '.949'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Hugo
+  nameClub1: Middlesboro
+  G: '111'
+  PO: '284'
+  A: '20'
+  E: '17'
+  DP: '4'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Markert
+  nameClub1: Big Stone Gap
+  G: '113'
+  PO: '218'
+  A: '11'
+  E: '13'
+  DP: '2'
+  PCT: '.946'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Valdes
+  nameClub1: Middlesboro
+  G: '106'
+  PO: '234'
+  A: '174'
+  E: '25'
+  DP: '31'
+  PCT: '.942'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Russell
+  nameClub1: Morristown
+  G: '104'
+  PO: '249'
+  A: '33'
+  E: '18'
+  DP: '7'
+  PCT: '.940'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Scopetone
+  nameClub1: Harlan
+  G: '124'
+  PO: '278'
+  A: '13'
+  E: '21'
+  DP: '3'
+  PCT: '.932'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Benintendi
+  nameClub1: Big Stone Gap
+  G: '118'
+  PO: '216'
+  A: '19'
+  E: '17'
+  DP: '2'
+  PCT: '.932'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Juhasz
+  nameClub1: Jenkins
+  G: '112'
+  PO: '235'
+  A: '16'
+  E: '19'
+  DP: '8'
+  PCT: '.930'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Moon
+  nameClub1: Hazard
+  G: '99'
+  PO: '148'
+  A: '14'
+  E: '12'
+  DP: '2'
+  PCT: '.925'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Anderson
+  nameClub1: Big Stone Gap
+  G: '122'
+  PO: '274'
+  A: '11'
+  E: '24'
+  DP: '6'
+  PCT: '.922'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Kilgore
+  nameClub1: Hazard
+  G: '99'
+  PO: '264'
+  A: '12'
+  E: '24'
+  DP: '7'
+  PCT: '.920'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: McGhee
+  nameClub1: Middlesboro
+  G: '109'
+  PO: '177'
+  A: '29'
+  E: '18'
+  DP: '0'
+  PCT: '.919'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Hancock
+  nameClub1: Jenkins
+  G: '83'
+  PO: '118'
+  A: '13'
+  E: '12'
+  DP: '1'
+  PCT: '.916'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Wilson
+  nameClub1: Morristown
+  G: '115'
+  PO: '192'
+  A: '143'
+  E: '32'
+  DP: '16'
+  PCT: '.913'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: Whaley
+  nameClub1: Newport
+  G: '110'
+  PO: '166'
+  A: '14'
+  E: '18'
+  DP: '1'
+  PCT: '.909'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: OF
+  nameLast: McLane
+  nameClub1: Big Stone Gap
+  G: '63'
+  PO: '105'
+  A: '6'
+  E: '14'
+  DP: '0'
+  PCT: '.888'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: Russ
+  nameClub1: Middlesboro
+  G: '119'
+  PO: '586'
+  A: '74'
+  E: '10'
+  DP: '13'
+  PB: '9'
+  PCT: '.985'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: Grigg
+  nameClub1: Morristown
+  G: '106'
+  PO: '469'
+  A: '43'
+  E: '13'
+  DP: '8'
+  PB: '27'
+  PCT: '.975'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: Aguilar
+  nameClub1: Newport
+  G: '86'
+  PO: '335'
+  A: '55'
+  E: '12'
+  DP: '9'
+  PB: '15'
+  PCT: '.970'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: McCormick
+  nameClub1: Harlan
+  G: '122'
+  PO: '691'
+  A: '72'
+  E: '25'
+  DP: '12'
+  PB: '26'
+  PCT: '.968'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: Yearick
+  nameClub1: Hazard
+  G: '73'
+  PO: '290'
+  A: '29'
+  E: '10'
+  DP: '3'
+  PB: '32'
+  PCT: '.968'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: Earl
+  nameClub1: Big Stone Gap
+  G: '71'
+  PO: '301'
+  A: '25'
+  E: '17'
+  DP: '6'
+  PB: '30'
+  PCT: '.950'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: Williams
+  nameClub1: Jenkins
+  G: '88'
+  PO: '311'
+  A: '40'
+  E: '21'
+  DP: '7'
+  PB: '19'
+  PCT: '.943'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: C
+  nameLast: Stewart
+  nameClub1: Pennington Gap
+  G: '84'
+  PO: '283'
+  A: '36'
+  E: '21'
+  DP: '6'
+  PB: '19'
+  PCT: '.938'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Lawson
+  nameFirst: C.
+  nameClub1: Pennington Gap
+  G: '23'
+  PO: '5'
+  A: '24'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: McNeil
+  nameClub1: Big Stone Gap
+  G: '26'
+  PO: '5'
+  A: '35'
+  E: '1'
+  DP: '0'
+  PCT: '.976'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Codinachs
+  nameClub1: Middlesboro
+  G: '38'
+  PO: '27'
+  A: '40'
+  E: '1'
+  DP: '4'
+  PCT: '.985'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Crawford
+  nameClub1: Morristown
+  G: '22'
+  PO: '25'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.979'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Branham
+  nameClub1: Jenkins
+  G: '28'
+  PO: '9'
+  A: '28'
+  E: '1'
+  DP: '1'
+  PCT: '.973'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Brient
+  nameClub1: Hazard
+  G: '42'
+  PO: '3'
+  A: '32'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Conway
+  nameClub1: Big Stone Gap
+  G: '57'
+  PO: '65'
+  A: '38'
+  E: '3'
+  DP: '5'
+  PCT: '.971'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Anderson
+  nameClub1: Jenkins
+  G: '25'
+  PO: '7'
+  A: '26'
+  E: '1'
+  DP: '1'
+  PCT: '.970'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Moneypenny
+  nameClub1: Morristown
+  G: '21'
+  PO: '7'
+  A: '25'
+  E: '1'
+  DP: '2'
+  PCT: '.969'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Henry
+  nameClub1: Pennington Gap
+  G: '30'
+  PO: '10'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.967'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Wick
+  nameClub1: Newport
+  G: '23'
+  PO: '6'
+  A: '23'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Buonato
+  nameClub1: Middlesboro
+  G: '32'
+  PO: '13'
+  A: '43'
+  E: '2'
+  DP: '2'
+  PCT: '.965'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Elder
+  nameClub1: Pennington Gap
+  G: '23'
+  PO: '5'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PCT: '.964'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Case
+  nameClub1: Middlesboro
+  G: '17'
+  PO: '1'
+  A: '26'
+  E: '1'
+  DP: '3'
+  PCT: '.964'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Smith
+  nameClub1: Harlan
+  G: '10'
+  PO: '91'
+  A: '35'
+  E: '5'
+  DP: '8'
+  PCT: '.961'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Baxter
+  nameClub1: Big Stone Gap
+  G: '15'
+  PO: '3'
+  A: '20'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Seale
+  nameClub1: Harlan
+  G: '21'
+  PO: '4'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.956'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: McGhee
+  nameClub1: Pennington Gap
+  G: '62'
+  PO: '51'
+  A: '57'
+  E: '5'
+  DP: '5'
+  PCT: '.955'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Wilson
+  nameClub1: Harlan
+  G: '46'
+  PO: '22'
+  A: '61'
+  E: '4'
+  DP: '3'
+  PCT: '.955'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Wolfe
+  nameClub1: Middlesboro
+  G: '17'
+  PO: '3'
+  A: '36'
+  E: '2'
+  DP: '2'
+  PCT: '.951'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Mays
+  nameClub1: Jenkins
+  G: '70'
+  PO: '23'
+  A: '51'
+  E: '4'
+  DP: '2'
+  PCT: '.948'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Zellem
+  nameClub1: Jenkins
+  G: '19'
+  PO: '1'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Sengstock
+  nameClub1: Newport
+  G: '30'
+  PO: '22'
+  A: '29'
+  E: '3'
+  DP: '4'
+  PCT: '.944'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Mehal
+  nameClub1: Harlan
+  G: '21'
+  PO: '10'
+  A: '36'
+  E: '3'
+  DP: '2'
+  PCT: '.938'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Lawson
+  nameFirst: J.
+  nameClub1: Big Stone Gap
+  G: '19'
+  PO: '9'
+  A: '21'
+  E: '2'
+  DP: '1'
+  PCT: '.937'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Safford
+  nameClub1: Hazard
+  G: '18'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.937'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Fernandez
+  nameClub1: Newport
+  G: '70'
+  PO: '6'
+  A: '36'
+  E: '3'
+  DP: '0'
+  PCT: '.933'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Screen
+  nameClub1: Jenkins
+  G: '12'
+  PO: '1'
+  A: '25'
+  E: '2'
+  DP: '0'
+  PCT: '.928'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Delke
+  nameClub1: Middlesboro
+  G: '11'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.928'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Maximuk
+  nameClub1: Middlesboro
+  G: '29'
+  PO: '3'
+  A: '36'
+  E: '3'
+  DP: '0'
+  PCT: '.928'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Perchinsky
+  nameClub1: Jenkins
+  G: '28'
+  PO: '0'
+  A: '13'
+  E: '1'
+  DP: '1'
+  PCT: '.928'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Garrison
+  nameClub1: Middlesboro
+  G: '10'
+  PO: '4'
+  A: '10'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Brown
+  nameClub1: Hazard
+  G: '15'
+  PO: '2'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Patterson
+  nameClub1: Hazard
+  G: '33'
+  PO: '3'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Kelly
+  nameClub1: Morristown
+  G: '26'
+  PO: '4'
+  A: '41'
+  E: '4'
+  DP: '0'
+  PCT: '.918'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: McGuire
+  nameClub1: Hazard
+  G: '12'
+  PO: '3'
+  A: '8'
+  E: '1'
+  DP: '2'
+  PCT: '.916'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Wolfenbarger
+  nameClub1: Pennington Gap
+  G: '30'
+  PO: '1'
+  A: '21'
+  E: '2'
+  DP: '3'
+  PCT: '.916'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Aguiar
+  nameClub1: Newport
+  G: '23'
+  PO: '10'
+  A: '22'
+  E: '3'
+  DP: '3'
+  PCT: '.914'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Coburn
+  nameClub1: Morristown
+  G: '32'
+  PO: '10'
+  A: '32'
+  E: '4'
+  DP: '4'
+  PCT: '.913'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Chase
+  nameClub1: Harlan
+  G: '11'
+  PO: '2'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Witt
+  nameClub1: Morristown
+  G: '35'
+  PO: '16'
+  A: '33'
+  E: '5'
+  DP: '1'
+  PCT: '.907'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Fatur
+  nameClub1: Big Stone Gap
+  G: '31'
+  PO: '3'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.904'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Clay
+  nameClub1: Big Stone Gap
+  G: '17'
+  PO: '1'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.904'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Gaudio
+  nameClub1: Harlan
+  G: '26'
+  PO: '2'
+  A: '17'
+  E: '2'
+  DP: '0'
+  PCT: '.904'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Ayers
+  nameClub1: Big Stone Gap
+  G: '32'
+  PO: '7'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.903'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Calfee
+  nameClub1: Morristown
+  G: '20'
+  PO: '0'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Taylor
+  nameClub1: Middlesboro
+  G: '13'
+  PO: '3'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.889'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Jiminez
+  nameClub1: Middlesboro
+  G: '30'
+  PO: '18'
+  A: '62'
+  E: '11'
+  DP: '4'
+  PCT: '.879'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Parsons
+  nameClub1: Pennington Gap
+  G: '30'
+  PO: '0'
+  A: '20'
+  E: '3'
+  DP: '0'
+  PCT: '.869'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Boelling
+  nameClub1: Hazard
+  G: '16'
+  PO: '3'
+  A: '16'
+  E: '3'
+  DP: '3'
+  PCT: '.863'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Haney
+  nameClub1: Hazard
+  G: '15'
+  PO: '2'
+  A: '10'
+  E: '2'
+  DP: '1'
+  PCT: '.857'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Bise
+  nameClub1: Pennington Gap
+  G: '23'
+  PO: '1'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Rogers
+  nameClub1: Morristown
+  G: '25'
+  PO: '2'
+  A: '15'
+  E: '4'
+  DP: '0'
+  PCT: '.809'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Montgomery
+  nameClub1: Jenkins
+  G: '14'
+  PO: '5'
+  A: '15'
+  E: '5'
+  DP: '2'
+  PCT: '.800'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Ferrell
+  nameClub1: Harlan
+  G: '22'
+  PO: '2'
+  A: '17'
+  E: '5'
+  DP: '0'
+  PCT: '.791'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: George
+  nameClub1: Hazard
+  G: '20'
+  PO: '0'
+  A: '17'
+  E: '5'
+  DP: '1'
+  PCT: '.772'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Stansberry
+  nameClub1: Newport
+  G: '30'
+  PO: '22'
+  A: '29'
+  E: '3'
+  DP: '0'
+  PCT: '.761'
+- year: '1949'
+  nameLeague: Mountain States League
+  Pos: P
+  nameLast: Monardo
+  nameClub1: Hazard
+  G: '10'
+  PO: '6'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.647'

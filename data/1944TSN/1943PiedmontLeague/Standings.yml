@@ -1,0 +1,100 @@
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '90'
+  L: '40'
+  T: '1'
+  PCT: '.692'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '72'
+  L: '57'
+  T: '2'
+  PCT: '.558'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '66'
+  L: '63'
+  T: '4'
+  PCT: '.512'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: regular
+  W: '62'
+  L: '68'
+  T: '1'
+  PCT: '.477'
+  RANK: '4'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: regular
+  W: '54'
+  L: '74'
+  T: '2'
+  PCT: '.422'
+  RANK: '5'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Durham
+  phase: regular
+  W: '44'
+  L: '86'
+  T: '2'
+  PCT: '.338'
+  RANK: '6'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

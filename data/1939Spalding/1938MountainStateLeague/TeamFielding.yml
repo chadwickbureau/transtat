@@ -1,0 +1,54 @@
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Logan
+  G: '119'
+  PO: '3329'
+  A: '1167'
+  E: '160'
+  DP: '86'
+  PCT: '.966'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Huntington
+  G: '116'
+  PO: '2933'
+  A: '1283'
+  E: '183'
+  DP: '74'
+  PCT: '.958'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Welch
+  G: '120'
+  PO: '3083'
+  A: '1278'
+  E: '191'
+  DP: '94'
+  PCT: '.958'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Beckley
+  G: '113'
+  PO: '2819'
+  A: '1266'
+  E: '200'
+  DP: '102'
+  PCT: '.953'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Bluefield
+  G: '120'
+  PO: '3051'
+  A: '1310'
+  E: '236'
+  DP: '92'
+  PCT: '.949'
+- year: '1938'
+  nameLeague: Mountain State League
+  nameClub: Williamson
+  G: '118'
+  PO: '3053'
+  A: '1293'
+  E: '241'
+  DP: '91'
+  PCT: '.947'

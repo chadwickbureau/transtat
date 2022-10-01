@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  Michigan City: '7'
+  Waterloo: '5'
+  Paris: '10'
+  Keokuk: '11'
+  Dubuque: '9'
+  Decatur: '12'
+  Clinton: '14'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  Kokomo: '9'
+  Waterloo: '12'
+  Paris: '9'
+  Keokuk: '8'
+  Dubuque: '9'
+  Decatur: '7'
+  Clinton: '15'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Waterloo
+  Kokomo: '10'
+  Michigan City: '6'
+  Paris: '9'
+  Keokuk: '8'
+  Dubuque: '10'
+  Decatur: '11'
+  Clinton: '12'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Paris
+  Kokomo: '8'
+  Michigan City: '9'
+  Waterloo: '9'
+  Keokuk: '7'
+  Dubuque: '9'
+  Decatur: '11'
+  Clinton: '11'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Keokuk
+  Kokomo: '6'
+  Michigan City: '10'
+  Waterloo: '10'
+  Paris: '10'
+  Dubuque: '11'
+  Decatur: '7'
+  Clinton: '8'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  Kokomo: '8'
+  Michigan City: '9'
+  Waterloo: '7'
+  Paris: '9'
+  Keokuk: '6'
+  Decatur: '8'
+  Clinton: '12'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  Kokomo: '6'
+  Michigan City: '11'
+  Waterloo: '7'
+  Paris: '7'
+  Keokuk: '11'
+  Dubuque: '9'
+  Clinton: '8'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  Kokomo: '4'
+  Michigan City: '3'
+  Waterloo: '5'
+  Paris: '7'
+  Keokuk: '9'
+  Dubuque: '6'
+  Decatur: '10'

@@ -1,0 +1,32 @@
+- year: '1958'
+  nameLeague: Venezuelan Winter League
+  nameClub: Valencia
+  phase: regular
+  W: '28'
+  L: '18'
+  PCT: '.609'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Venezuelan Winter League
+  nameClub: Oriente
+  phase: regular
+  W: '25'
+  L: '21'
+  PCT: '.543'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Venezuelan Winter League
+  nameClub: Caracas
+  phase: regular
+  W: '24'
+  L: '22'
+  PCT: '.522'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Venezuelan Winter League
+  nameClub: Pampero
+  phase: regular
+  W: '17'
+  L: '28'
+  PCT: '.378'
+  RANK: '4'

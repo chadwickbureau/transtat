@@ -1,0 +1,114 @@
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  phase: regular
+  W: '84'
+  L: '54'
+  T: '0'
+  PCT: '.609'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: regular
+  W: '71'
+  L: '67'
+  T: '0'
+  PCT: '.514'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: regular
+  W: '69'
+  L: '69'
+  T: '0'
+  PCT: '.500'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: regular
+  W: '68'
+  L: '69'
+  T: '1'
+  PCT: '.496'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular
+  W: '68'
+  L: '69'
+  T: '1'
+  PCT: '.496'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: regular
+  W: '52'
+  L: '84'
+  T: '0'
+  PCT: '.382'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: quarterfinal
+  W: '1'
+  L: '0'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: quarterfinal
+  W: '0'
+  L: '1'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

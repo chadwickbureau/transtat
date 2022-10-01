@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '81'
+  L: '51'
+  T: '1'
+  PCT: '.614'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Hagerstown
+  phase: regular
+  W: '78'
+  L: '53'
+  T: '1'
+  PCT: '.595'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: regular
+  W: '80'
+  L: '56'
+  T: '0'
+  PCT: '.588'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '72'
+  L: '63'
+  T: '2'
+  PCT: '.533'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: York
+  phase: regular
+  W: '59'
+  L: '70'
+  T: '0'
+  PCT: '.457'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: regular
+  W: '39'
+  L: '53'
+  T: '0'
+  PCT: '.424'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: regular
+  W: '55'
+  L: '77'
+  T: '2'
+  PCT: '.417'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '45'
+  L: '86'
+  T: '2'
+  PCT: '.344'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Hagerstown
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

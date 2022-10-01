@@ -1,0 +1,80 @@
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: Hobbs
+  Ballinger: '20'
+  Carlsbad: '17'
+  Midland/Lamesa: '22'
+  Clovis: '0'
+  El Paso: '5'
+  Pampa/San Angelo: '3'
+  Plainview: '6'
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: Ballinger
+  Hobbs: '11'
+  Carlsbad: '12'
+  Midland/Lamesa: '18'
+  Clovis: '3'
+  El Paso: '11'
+  Pampa/San Angelo: '10'
+  Plainview: '4'
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: Carlsbad
+  Hobbs: '15'
+  Ballinger: '12'
+  Midland/Lamesa: '18'
+  Clovis: '3'
+  El Paso: '7'
+  Pampa/San Angelo: '6'
+  Plainview: '4'
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: Midland/Lamesa
+  Hobbs: '11'
+  Ballinger: '8'
+  Carlsbad: '8'
+  Clovis: '4'
+  El Paso: '5'
+  Pampa/San Angelo: '7'
+  Plainview: '2'
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: Clovis
+  Hobbs: '7'
+  Ballinger: '6'
+  Carlsbad: '2'
+  Midland/Lamesa: '6'
+  El Paso: '6'
+  Pampa/San Angelo: '5'
+  Plainview: '4'
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: El Paso
+  Hobbs: '4'
+  Ballinger: '4'
+  Carlsbad: '5'
+  Midland/Lamesa: '6'
+  Clovis: '1'
+  Pampa/San Angelo: '9'
+  Plainview: '4'
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: Pampa/San Angelo
+  Hobbs: '4'
+  Ballinger: '4'
+  Carlsbad: '7'
+  Midland/Lamesa: '8'
+  Clovis: '1'
+  El Paso: '5'
+  Plainview: '3'
+- year: '1957'
+  nameLeague: Southwestern League
+  nameClub: Plainview
+  Hobbs: '0'
+  Ballinger: '2'
+  Carlsbad: '3'
+  Midland/Lamesa: '1'
+  Clovis: '0'
+  El Paso: '6'
+  Pampa/San Angelo: '4'

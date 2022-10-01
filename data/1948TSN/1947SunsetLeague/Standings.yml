@@ -1,0 +1,208 @@
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Anaheim
+  phase: regular/first
+  W: '34'
+  L: '24'
+  T: '0'
+  PCT: '.586'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Reno
+  phase: regular/first
+  W: '31'
+  L: '23'
+  T: '0'
+  PCT: '.574'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: regular/first
+  W: '31'
+  L: '26'
+  T: '0'
+  PCT: '.544'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: regular/first
+  W: '29'
+  L: '27'
+  T: '0'
+  PCT: '.518'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Ontario
+  phase: regular/first
+  W: '23'
+  L: '33'
+  T: '0'
+  PCT: '.411'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: El Centro
+  phase: regular/first
+  W: '20'
+  L: '35'
+  T: '0'
+  PCT: '.364'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: regular/second
+  W: '49'
+  L: '34'
+  T: '0'
+  PCT: '.590'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Anaheim
+  phase: regular/second
+  W: '45'
+  L: '37'
+  T: '0'
+  PCT: '.549'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: regular/second
+  W: '44'
+  L: '40'
+  T: '0'
+  PCT: '.524'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Ontario
+  phase: regular/second
+  W: '41'
+  L: '42'
+  T: '0'
+  PCT: '.494'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Reno
+  phase: regular/second
+  W: '38'
+  L: '46'
+  T: '0'
+  PCT: '.452'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: El Centro
+  phase: regular/second
+  W: '33'
+  L: '51'
+  T: '0'
+  PCT: '.393'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '0'
+  PCT: '.571'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Anaheim
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: regular
+  W: '73'
+  L: '64'
+  T: '0'
+  PCT: '.521'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Reno
+  phase: regular
+  W: '69'
+  L: '69'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Ontario
+  phase: regular
+  W: '64'
+  L: '75'
+  T: '0'
+  PCT: '.460'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: El Centro
+  phase: regular
+  W: '53'
+  L: '86'
+  T: '0'
+  PCT: '.381'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Anaheim
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Ontario
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Anaheim
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

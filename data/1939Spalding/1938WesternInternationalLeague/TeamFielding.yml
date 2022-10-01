@@ -1,0 +1,66 @@
+- year: '1938'
+  nameLeague: Western International League
+  nameClub: Yakima
+  G: '132'
+  DP: '107'
+  TP: '1'
+  PB: '23'
+  PO: '3558'
+  A: '1632'
+  E: '203'
+  PCT: '.962'
+- year: '1938'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  G: '133'
+  DP: '132'
+  TP: '1'
+  PB: '12'
+  PO: '3573'
+  A: '1753'
+  E: '221'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Western International League
+  nameClub: Spokane
+  G: '134'
+  DP: '121'
+  TP: '0'
+  PB: '26'
+  PO: '3622'
+  A: '1640'
+  E: '227'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  G: '133'
+  DP: '109'
+  TP: '0'
+  PB: '30'
+  PO: '3631'
+  A: '1511'
+  E: '225'
+  PCT: '.958'
+- year: '1938'
+  nameLeague: Western International League
+  nameClub: Bellingham
+  G: '133'
+  DP: '88'
+  TP: '0'
+  PB: '26'
+  PO: '3563'
+  A: '1502'
+  E: '240'
+  PCT: '.955'
+- year: '1938'
+  nameLeague: Western International League
+  nameClub: Tacoma
+  G: '135'
+  DP: '86'
+  TP: '0'
+  PB: '12'
+  PO: '3679'
+  A: '1550'
+  E: '258'
+  PCT: '.953'

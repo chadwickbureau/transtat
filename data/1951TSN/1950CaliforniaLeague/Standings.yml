@@ -1,0 +1,124 @@
+- year: '1950'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: regular
+  W: '85'
+  L: '55'
+  T: '0'
+  PCT: '.607'
+  RANK: '1'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '82'
+  L: '58'
+  T: '0'
+  PCT: '.586'
+  RANK: '2'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '3'
+- year: '1950'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.557'
+  RANK: '4'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '65'
+  L: '75'
+  T: '0'
+  PCT: '.464'
+  RANK: '5'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '61'
+  L: '79'
+  T: '0'
+  PCT: '.436'
+  RANK: '6'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '58'
+  L: '82'
+  T: '0'
+  PCT: '.414'
+  RANK: '7'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: regular
+  W: '52'
+  L: '88'
+  T: '0'
+  PCT: '.371'
+  RANK: '8'
+- year: '1950'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1950'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1950'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

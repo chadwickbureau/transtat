@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: San Angelo
+  Roswell: '11'
+  Artesia: '5'
+  Carlsbad: '12'
+  Midland: '16'
+  Hobbs: '14'
+  Big Spring: '11'
+  Odessa: '16'
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: Roswell
+  San Angelo: '9'
+  Artesia: '8'
+  Carlsbad: '11'
+  Midland: '11'
+  Hobbs: '13'
+  Big Spring: '14'
+  Odessa: '13'
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: Artesia
+  San Angelo: '15'
+  Roswell: '9'
+  Carlsbad: '12'
+  Midland: '9'
+  Hobbs: '9'
+  Big Spring: '15'
+  Odessa: '11'
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  San Angelo: '8'
+  Roswell: '9'
+  Artesia: '8'
+  Midland: '10'
+  Hobbs: '10'
+  Big Spring: '11'
+  Odessa: '16'
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  San Angelo: '4'
+  Roswell: '9'
+  Artesia: '11'
+  Carlsbad: '9'
+  Hobbs: '12'
+  Big Spring: '11'
+  Odessa: '11'
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: Hobbs
+  San Angelo: '6'
+  Roswell: '7'
+  Artesia: '11'
+  Carlsbad: '10'
+  Midland: '8'
+  Big Spring: '10'
+  Odessa: '10'
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  San Angelo: '9'
+  Roswell: '6'
+  Artesia: '5'
+  Carlsbad: '9'
+  Midland: '9'
+  Hobbs: '10'
+  Odessa: '9'
+- year: '1955'
+  nameLeague: Longhorn League
+  nameClub: Odessa
+  San Angelo: '4'
+  Roswell: '5'
+  Artesia: '9'
+  Carlsbad: '4'
+  Midland: '9'
+  Hobbs: '9'
+  Big Spring: '11'

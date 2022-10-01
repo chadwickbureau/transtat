@@ -1,0 +1,48 @@
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Tijuana
+  Mexicali: '16'
+  Las Vegas: '16'
+  Yuma: '20'
+  Porterville: '15'
+  El Centro: '13'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Mexicali
+  Tijuana: '16'
+  Las Vegas: '22'
+  Yuma: '20'
+  Porterville: '10'
+  El Centro: '6'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Las Vegas
+  Tijuana: '16'
+  Mexicali: '12'
+  Yuma: '19'
+  Porterville: '11'
+  El Centro: '12'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Yuma
+  Tijuana: '9'
+  Mexicali: '15'
+  Las Vegas: '16'
+  Porterville: '16'
+  El Centro: '6'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: Porterville
+  Tijuana: '11'
+  Mexicali: '7'
+  Las Vegas: '6'
+  Yuma: '5'
+  El Centro: '10'
+- year: '1952'
+  nameLeague: Southwest International League
+  nameClub: El Centro
+  Tijuana: '4'
+  Mexicali: '7'
+  Las Vegas: '6'
+  Yuma: '4'
+  Porterville: '7'

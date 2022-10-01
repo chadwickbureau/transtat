@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: regular
+  W: '80'
+  L: '46'
+  T: '0'
+  PCT: '.635'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: regular
+  W: '78'
+  L: '48'
+  T: '0'
+  PCT: '.619'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: regular
+  W: '75'
+  L: '50'
+  T: '0'
+  PCT: '.600'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: regular
+  W: '66'
+  L: '60'
+  T: '0'
+  PCT: '.524'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: regular
+  W: '62'
+  L: '64'
+  T: '0'
+  PCT: '.492'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Lockport
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: regular
+  W: '45'
+  L: '81'
+  T: '0'
+  PCT: '.357'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: regular
+  W: '39'
+  L: '86'
+  T: '0'
+  PCT: '.312'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

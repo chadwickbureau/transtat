@@ -1,0 +1,124 @@
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: regular
+  W: '93'
+  L: '51'
+  T: '0'
+  PCT: '.646'
+  RANK: '1'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Gainesville
+  phase: regular
+  W: '82'
+  L: '63'
+  T: '0'
+  PCT: '.566'
+  RANK: '2'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: regular
+  W: '80'
+  L: '66'
+  T: '1'
+  PCT: '.438'
+  RANK: '3'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Temple
+  phase: regular
+  W: '74'
+  L: '70'
+  T: '0'
+  PCT: '.513'
+  RANK: '4'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Greenville
+  phase: regular
+  W: '75'
+  L: '71'
+  T: '0'
+  PCT: '.513'
+  RANK: '5'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: regular
+  W: '72'
+  L: '76'
+  T: '0'
+  PCT: '.486'
+  RANK: '6'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Sherman-Denison
+  phase: regular
+  W: '54'
+  L: '91'
+  T: '1'
+  PCT: '.372'
+  RANK: '7'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: regular
+  W: '52'
+  L: '94'
+  T: '0'
+  PCT: '.356'
+  RANK: '8'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Temple
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Gainesville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1950'
+  nameLeague: Big State League
+  nameClub: Gainesville
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

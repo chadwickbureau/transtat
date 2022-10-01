@@ -1,0 +1,1830 @@
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Walenga
+  nameClub1: El Dorado
+  Pos: 1B
+  G: '113'
+  PO: '838'
+  A: '65'
+  E: '10'
+  DP: '86'
+  PCT: '.989'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Parker
+  nameClub1: Hot Springs
+  throws: L
+  Pos: 1B
+  G: '32'
+  PO: '233'
+  A: '25'
+  E: '3'
+  DP: '10'
+  PCT: '.989'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Bales
+  nameClub1: Hot Springs
+  Pos: 1B
+  G: '13'
+  PO: '79'
+  A: '14'
+  E: '1'
+  DP: '10'
+  PCT: '.989'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Eaton
+  nameClub1: Greenville
+  throws: L
+  Pos: 1B
+  G: '120'
+  PO: '923'
+  A: '63'
+  E: '19'
+  DP: '108'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Olsen
+  nameClub1: Hot Springs
+  Pos: 1B
+  G: '26'
+  PO: '179'
+  A: '25'
+  E: '4'
+  DP: '15'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Mansfield
+  nameClub1: Pine Bluff
+  throws: L
+  Pos: 1B
+  G: '119'
+  PO: '938'
+  A: '57'
+  E: '21'
+  DP: '80'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Shetler
+  nameClub1: Meridian
+  throws: L
+  Pos: 1B
+  G: '118'
+  PO: '1001'
+  A: '60'
+  E: '25'
+  DP: '78'
+  PCT: '.977'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Norden
+  nameClub1: Monroe
+  Pos: 1B
+  G: '120'
+  PO: '909'
+  A: '46'
+  E: '29'
+  DP: '69'
+  PCT: '.971'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Dettling
+  nameClub1: Hot Springs
+  Pos: 1B
+  G: '37'
+  PO: '270'
+  A: '28'
+  E: '11'
+  DP: '17'
+  PCT: '.964'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Byrd
+  nameClub1: Hot Springs
+  Pos: 1B
+  TP: '1'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Scott
+  nameClub1: El Dorado
+  Pos: 2B
+  G: '76'
+  PO: '239'
+  A: '207'
+  E: '8'
+  DP: '50'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Adair
+  nameClub1: El Dorado
+  Pos: 2B
+  G: '43'
+  PO: '153'
+  A: '74'
+  E: '5'
+  DP: '25'
+  PCT: '.978'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Gates
+  nameClub1: Pine Bluff
+  Pos: 2B
+  G: '81'
+  PO: '218'
+  A: '223'
+  E: '12'
+  DP: '45'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Glaze
+  nameClub1: Greenville
+  Pos: 2B
+  G: '104'
+  PO: '283'
+  A: '294'
+  E: '18'
+  DP: '81'
+  PCT: '.970'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Nissel
+  nameClub1: Monroe
+  Pos: 2B
+  G: '75'
+  PO: '154'
+  A: '193'
+  E: '14'
+  DP: '37'
+  PCT: '.961'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Smith
+  nameClub1: Meridian
+  Pos: 2B
+  G: '15'
+  PO: '35'
+  A: '49'
+  E: '4'
+  DP: '4'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Radigan
+  nameClub1: Greenville
+  Pos: 2B
+  G: '13'
+  PO: '35'
+  A: '28'
+  E: '3'
+  DP: '8'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Akers
+  nameClub1: Hot Springs
+  Pos: 2B
+  G: '118'
+  PO: '292'
+  A: '296'
+  E: '33'
+  DP: '56'
+  PCT: '.947'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Rogers
+  nameClub1: Meridian
+  Pos: 2B
+  G: '51'
+  PO: '107'
+  A: '134'
+  E: '14'
+  DP: '30'
+  PCT: '.945'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Martin
+  nameClub1: Monroe
+  Pos: 2B
+  G: '44'
+  PO: '121'
+  A: '95'
+  E: '13'
+  DP: '19'
+  PCT: '.943'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Heron
+  nameClub1: Meridian
+  Pos: 2B
+  G: '32'
+  PO: '88'
+  A: '85'
+  E: '13'
+  DP: '20'
+  PCT: '.930'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameClub1: Meridian
+  Pos: 2B
+  G: '18'
+  PO: '40'
+  A: '49'
+  E: '7'
+  DP: '8'
+  PCT: '.927'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Mohn
+  nameClub1: Pine Bluff
+  Pos: 2B
+  G: '39'
+  PO: '101'
+  A: '79'
+  E: '16'
+  DP: '19'
+  PCT: '.918'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Brightwell
+  nameClub1: El Dorado
+  Pos: 3B
+  G: '11'
+  PO: '8'
+  A: '28'
+  E: '1'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Cooper
+  nameClub1: Hot Springs
+  Pos: 3B
+  G: '30'
+  PO: '65'
+  A: '43'
+  E: '4'
+  DP: '4'
+  PCT: '.964'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Tomicki
+  nameClub1: Pine Bluff
+  Pos: 3B
+  G: '18'
+  PO: '21'
+  A: '28'
+  E: '3'
+  DP: '3'
+  PCT: '.942'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Smith
+  nameClub1: Pine Bluff
+  Pos: 3B
+  G: '90'
+  PO: '99'
+  A: '201'
+  E: '19'
+  DP: '22'
+  PCT: '.940'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Rogers
+  nameClub1: Meridian
+  Pos: 3B
+  G: '30'
+  PO: '44'
+  A: '60'
+  E: '7'
+  DP: '10'
+  PCT: '.937'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Carr
+  nameClub1: El Dorado
+  Pos: 3B
+  G: '96'
+  PO: '120'
+  A: '196'
+  E: '22'
+  DP: '25'
+  PCT: '.935'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Lukasiuk
+  nameClub1: Hot Springs
+  nameClub2: Greenville
+  Pos: 3B
+  G: '14'
+  PO: '18'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Benza
+  nameClub1: Greenville
+  Pos: 3B
+  G: '116'
+  PO: '133'
+  A: '241'
+  E: '30'
+  DP: '31'
+  PCT: '.926'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Labeff
+  nameClub1: El Dorado
+  nameClub2: Hot Springs
+  Pos: 3B
+  G: '32'
+  PO: '26'
+  A: '60'
+  E: '9'
+  DP: '3'
+  PCT: '.905'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Forbes
+  nameClub1: Meridian
+  Pos: 3B
+  G: '93'
+  PO: '98'
+  A: '166'
+  E: '30'
+  DP: '4'
+  PCT: '.898'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Flores
+  nameClub1: Monroe
+  Pos: 3B
+  G: '60'
+  PO: '68'
+  A: '106'
+  E: '23'
+  DP: '14'
+  PCT: '.883'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Petty
+  nameClub1: Monroe
+  Pos: 3B
+  G: '38'
+  PO: '37'
+  A: '45'
+  E: '13'
+  DP: '6'
+  PCT: '.863'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Maltagliati
+  nameClub1: Pine Bluff
+  Pos: 3B
+  G: '11'
+  PO: '19'
+  A: '24'
+  E: '7'
+  DP: '4'
+  PCT: '.860'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Olsen
+  nameClub1: Hot Springs
+  Pos: 3B
+  G: '25'
+  PO: '31'
+  A: '41'
+  E: '15'
+  DP: '5'
+  PCT: '.828'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Waters
+  nameClub1: Monroe
+  Pos: 3B
+  G: '16'
+  PO: '26'
+  A: '40'
+  E: '14'
+  DP: '3'
+  PCT: '.825'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Byrd
+  nameClub1: Hot Springs
+  Pos: 3B
+  G: '14'
+  PO: '12'
+  A: '20'
+  E: '7'
+  DP: '7'
+  PCT: '.821'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Cooper
+  nameClub1: Hot Springs
+  Pos: SS
+  G: '12'
+  PO: '18'
+  A: '27'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Maupin
+  nameClub1: Meridian
+  Pos: SS
+  G: '59'
+  PO: '127'
+  A: '177'
+  E: '15'
+  DP: '28'
+  PCT: '.953'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Oden
+  nameClub1: Pine Bluff
+  Pos: SS
+  G: '113'
+  PO: '239'
+  A: '279'
+  E: '33'
+  DP: '42'
+  PCT: '.940'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Anderson
+  nameClub1: El Dorado
+  Pos: SS
+  G: '90'
+  PO: '141'
+  A: '219'
+  E: '32'
+  DP: '34'
+  PCT: '.918'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Flores
+  nameClub1: Monroe
+  Pos: SS
+  G: '42'
+  PO: '89'
+  A: '90'
+  E: '16'
+  DP: '15'
+  PCT: '.918'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Radigan
+  nameClub1: Greenville
+  Pos: SS
+  G: '105'
+  PO: '172'
+  A: '200'
+  E: '34'
+  DP: '61'
+  PCT: '.916'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Adams
+  nameClub1: Greenville
+  nameClub2: Meridian
+  Pos: SS
+  G: '68'
+  PO: '151'
+  A: '177'
+  E: '35'
+  DP: '35'
+  PCT: '.904'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Labeff
+  nameClub1: El Dorado
+  nameClub2: Hot Springs
+  Pos: SS
+  G: '12'
+  PO: '22'
+  A: '28'
+  E: '6'
+  DP: '7'
+  PCT: '.893'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Herzog
+  nameClub1: Monroe
+  Pos: SS
+  G: '76'
+  PO: '108'
+  A: '138'
+  E: '30'
+  DP: '26'
+  PCT: '.891'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Miller
+  nameClub1: Hot Springs
+  Pos: SS
+  G: '101'
+  PO: '209'
+  A: '253'
+  E: '58'
+  DP: '44'
+  PCT: '.888'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Carr
+  nameClub1: El Dorado
+  Pos: SS
+  G: '23'
+  PO: '40'
+  A: '54'
+  E: '13'
+  DP: '10'
+  PCT: '.879'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Wyatt
+  nameClub1: Hot Springs
+  Pos: OF
+  G: '24'
+  PO: '62'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Filogamo
+  nameClub1: El Dorado
+  Pos: OF
+  G: '35'
+  PO: '53'
+  A: '7'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Fenster
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '28'
+  PO: '49'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameClub1: Meridian
+  Pos: OF
+  G: '25'
+  PO: '44'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Forbes
+  nameClub1: Meridian
+  Pos: OF
+  G: '11'
+  PO: '18'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Kassay
+  nameClub1: Pine Bluff
+  throws: L
+  Pos: OF
+  G: '87'
+  PO: '227'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.996'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Bridges
+  nameClub1: Hot Springs
+  Pos: OF
+  G: '36'
+  PO: '72'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.987'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Bilo
+  nameClub1: El Dorado
+  throws: L
+  Pos: OF
+  G: '115'
+  PO: '198'
+  A: '18'
+  E: '4'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Ledwidge
+  nameClub1: Hot Springs
+  throws: L
+  Pos: OF
+  G: '36'
+  PO: '98'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Cooper
+  nameClub1: Hot Springs
+  Pos: OF
+  G: '81'
+  PO: '189'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Flores
+  nameClub1: Monroe
+  Pos: OF
+  G: '16'
+  PO: '45'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: McDowell
+  nameClub1: Greenville
+  throws: L
+  Pos: OF
+  G: '120'
+  PO: '294'
+  A: '11'
+  E: '7'
+  DP: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Rodgers
+  nameClub1: El Dorado
+  Pos: OF
+  G: '92'
+  PO: '211'
+  A: '10'
+  E: '6'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Morrison
+  nameClub1: Monroe
+  throws: L
+  Pos: OF
+  G: '23'
+  PO: '35'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Pompelia
+  nameClub1: Meridian
+  Pos: OF
+  G: '114'
+  PO: '292'
+  A: '12'
+  E: '9'
+  DP: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Burks
+  nameClub1: Hot Springs
+  Pos: OF
+  G: '47'
+  PO: '94'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Ryan
+  nameClub1: Meridian
+  throws: L
+  Pos: OF
+  G: '19'
+  PO: '31'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Adcock
+  nameClub1: Hot Springs
+  Pos: OF
+  G: '31'
+  PO: '84'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Griffith
+  nameClub1: Greenville
+  Pos: OF
+  G: '85'
+  PO: '132'
+  A: '13'
+  E: '5'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Pittman
+  nameClub1: Meridian
+  Pos: OF
+  G: '81'
+  PO: '186'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Austin
+  nameClub1: El Dorado
+  Pos: OF
+  G: '108'
+  PO: '196'
+  A: '6'
+  E: '8'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Fontana
+  nameClub1: Monroe
+  throws: L
+  Pos: OF
+  G: '111'
+  PO: '195'
+  A: '13'
+  E: '9'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Marinkovich
+  nameClub1: Monroe
+  Pos: OF
+  G: '91'
+  PO: '247'
+  A: '12'
+  E: '12'
+  DP: '6'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Korfonta
+  nameClub1: Hot Springs
+  Pos: OF
+  G: '107'
+  PO: '242'
+  A: '16'
+  E: '12'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Gonzales
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '110'
+  PO: '221'
+  A: '21'
+  E: '12'
+  DP: '6'
+  PCT: '.953'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Davis
+  nameClub1: Meridian
+  Pos: OF
+  G: '92'
+  PO: '138'
+  A: '9'
+  E: '8'
+  DP: '2'
+  PCT: '.948'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Forbes
+  nameClub1: Monroe
+  Pos: OF
+  G: '107'
+  PO: '202'
+  A: '10'
+  E: '12'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Tomicki
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '97'
+  PO: '149'
+  A: '10'
+  E: '10'
+  DP: '2'
+  PCT: '.941'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Martin
+  nameClub1: Greenville
+  Pos: OF
+  G: '100'
+  PO: '191'
+  A: '8'
+  E: '16'
+  DP: '3'
+  PCT: '.926'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Grimsley
+  nameClub1: Greenville
+  Pos: OF
+  G: '12'
+  PO: '30'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.919'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Berry
+  nameClub1: Greenville
+  Pos: OF
+  G: '15'
+  PO: '20'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Dougherty
+  nameClub1: Greenville
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '18'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Coho
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '15'
+  PO: '24'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.903'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Chrisco
+  nameClub1: Monroe
+  Pos: OF
+  G: '12'
+  PO: '14'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Rodgers
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '21'
+  PO: '30'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.865'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Shell
+  nameClub1: Greenville
+  Pos: C
+  G: '112'
+  PO: '665'
+  A: '55'
+  E: '7'
+  DP: '10'
+  PB: '12'
+  PCT: '.990'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Fenster
+  nameClub1: Pine Bluff
+  Pos: C
+  G: '36'
+  PO: '168'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PB: '2'
+  PCT: '.989'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Bales
+  nameClub1: Hot Springs
+  Pos: C
+  G: '51'
+  PO: '255'
+  A: '22'
+  E: '10'
+  DP: '5'
+  PB: '5'
+  PCT: '.965'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Giordanengo
+  nameClub1: Meridian
+  Pos: C
+  G: '100'
+  PO: '575'
+  A: '60'
+  E: '10'
+  DP: '3'
+  PB: '6'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Sprayberry
+  nameClub1: Meridian
+  Pos: C
+  G: '17'
+  PO: '60'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PB: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Tucker
+  nameClub1: El Dorado
+  Pos: C
+  G: '109'
+  PO: '721'
+  A: '37'
+  E: '13'
+  DP: '12'
+  PB: '8'
+  PCT: '.983'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Chetta
+  nameClub1: Monroe
+  Pos: C
+  G: '119'
+  PO: '794'
+  A: '82'
+  E: '19'
+  DP: '10'
+  PB: '9'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Gatta
+  nameClub1: Pine Bluff
+  Pos: C
+  G: '87'
+  PO: '448'
+  A: '46'
+  E: '19'
+  DP: '5'
+  PB: '3'
+  PCT: '.963'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Bolton
+  nameClub1: Hot Springs
+  Pos: C
+  G: '62'
+  PO: '269'
+  A: '43'
+  E: '14'
+  DP: '5'
+  PB: '11'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Carpenter
+  nameClub1: Meridian
+  Pos: C
+  G: '13'
+  PO: '35'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PB: '5'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Coburn
+  nameClub1: Pine Bluff
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '4'
+  A: '18'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Gookin
+  nameFirst: C. D.
+  nameClub1: Meridian
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '16'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Hicks
+  nameClub1: Hot Springs
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Glaser
+  nameClub1: Hot Springs
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Daugherty
+  nameClub1: Greenville
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Maroney
+  nameClub1: Monroe
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Renn
+  nameClub1: Greenville
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Cottle
+  nameClub1: Meridian
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '37'
+  E: '1'
+  DP: '1'
+  PCT: '.979'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Omelka
+  nameClub1: Pine Bluff
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '30'
+  E: '1'
+  DP: '2'
+  PCT: '.971'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Ronay
+  nameClub1: Hot Springs
+  Pos: P
+  G: '17'
+  PO: '6'
+  A: '23'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Dupuy
+  nameClub1: Hot Springs
+  nameClub2: Meridian
+  Pos: P
+  G: '17'
+  PO: '6'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Long
+  nameClub1: Hot Springs
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Dean
+  nameClub1: Greenville
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '19'
+  E: '1'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Lindquist
+  nameClub1: Greenville
+  nameClub2: Hot Springs
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '7'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Kelly
+  nameClub1: Greenville
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '30'
+  E: '2'
+  DP: '2'
+  PCT: '.953'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Rowe
+  nameClub1: Greenville
+  Pos: P
+  G: '17'
+  PO: '7'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Castille
+  nameClub1: Greenville
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Healy
+  nameClub1: Meridian
+  Pos: P
+  G: '32'
+  PO: '13'
+  A: '43'
+  E: '4'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Demus
+  nameClub1: El Dorado
+  nameClub2: Hot Springs
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Jayne
+  nameClub1: Meridian
+  Pos: P
+  G: '40'
+  PO: '13'
+  A: '28'
+  E: '3'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Toth
+  nameClub1: El Dorado
+  Pos: P
+  G: '34'
+  PO: '6'
+  A: '33'
+  E: '3'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Kromy
+  nameClub1: Pine Bluff
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Halley
+  nameClub1: Monroe
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '31'
+  E: '3'
+  DP: '0'
+  PCT: '.927'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Yoke
+  nameClub1: El Dorado
+  Pos: P
+  G: '24'
+  PO: '15'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Aube
+  nameClub1: Monroe
+  Pos: P
+  G: '11'
+  PO: '5'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Strickler
+  nameClub1: Monroe
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameClub1: Greenville
+  Pos: P
+  G: '13'
+  PO: '9'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Campver
+  nameClub1: Hot Springs
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Werrmann
+  nameClub1: Pine Bluff
+  Pos: P
+  G: '31'
+  PO: '5'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.912'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Jordan
+  nameFirst: E.
+  nameClub1: Monroe
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Wiltse
+  nameClub1: Greenville
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '24'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Ecklund
+  nameClub1: Pine Bluff
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '9'
+  A: '24'
+  E: '4'
+  DP: '0'
+  PCT: '.892'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Brown
+  nameClub1: El Dorado
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '8'
+  A: '41'
+  E: '6'
+  DP: '2'
+  PCT: '.891'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Gross
+  nameClub1: Meridian
+  Pos: P
+  G: '20'
+  PO: '9'
+  A: '23'
+  E: '4'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Farley
+  nameClub1: Pine Bluff
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Byrd
+  nameClub1: Hot Springs
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '11'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Henrichs
+  nameClub1: Pine Bluff
+  Pos: P
+  G: '35'
+  PO: '4'
+  A: '24'
+  E: '4'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Baldwin
+  nameClub1: El Dorado
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '14'
+  E: '3'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: White
+  nameClub1: Hot Springs
+  Pos: P
+  G: '12'
+  PO: '6'
+  A: '8'
+  E: '2'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Hreljac
+  nameClub1: Hot Springs
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '21'
+  E: '4'
+  DP: '1'
+  PCT: '.871'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Brightwell
+  nameClub1: El Dorado
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '28'
+  E: '6'
+  DP: '1'
+  PCT: '.864'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: White
+  nameClub1: Meridian
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '17'
+  E: '3'
+  DP: '0'
+  PCT: '.864'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Neutzel
+  nameClub1: Monroe
+  Pos: P
+  G: '25'
+  PO: '3'
+  A: '22'
+  E: '4'
+  DP: '1'
+  PCT: '.862'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: McWilliams
+  nameClub1: Monroe
+  Pos: P
+  G: '34'
+  PO: '6'
+  A: '27'
+  E: '6'
+  DP: '2'
+  PCT: '.846'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Siefert
+  nameClub1: Hot Springs
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Gaines
+  nameClub1: Greenville
+  Pos: P
+  G: '14'
+  PO: '6'
+  A: '13'
+  E: '4'
+  DP: '0'
+  PCT: '.826'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Sullivan
+  nameClub1: Monroe
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '23'
+  E: '7'
+  DP: '2'
+  PCT: '.794'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Venable
+  nameClub1: Greenville
+  Pos: P
+  G: '30'
+  PO: '5'
+  A: '9'
+  E: '5'
+  DP: '0'
+  PCT: '.737'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Arnone
+  nameClub1: Pine Bluff
+  throws: L
+  Pos: UT
+  G: '10'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PB: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Maroney
+  nameClub1: Greenville
+  Pos: UT
+  G: '16'
+  PO: '70'
+  A: '15'
+  E: '4'
+  DP: '1'
+  PB: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Scott
+  nameClub1: El Dorado
+  Pos: UT
+  G: '18'
+  PO: '35'
+  A: '24'
+  E: '3'
+  DP: '3'
+  PB: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Davis
+  nameClub1: Meridian
+  Pos: UT
+  G: '13'
+  PO: '10'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Burks
+  nameClub1: Hot Springs
+  Pos: UT
+  G: '11'
+  PO: '45'
+  A: '10'
+  E: '4'
+  DP: '5'
+  PB: '2'
+  PCT: '.932'
+  TP: '0'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameClub1: Pine Bluff
+  Pos: UT
+  G: '10'
+  PO: '6'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.846'
+  TP: '0'

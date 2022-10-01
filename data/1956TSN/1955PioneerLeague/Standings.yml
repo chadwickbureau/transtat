@@ -1,0 +1,118 @@
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular
+  W: '77'
+  L: '54'
+  T: '1'
+  PCT: '.588'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular
+  W: '74'
+  L: '58'
+  T: '1'
+  PCT: '.561'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular
+  W: '72'
+  L: '59'
+  T: '1'
+  PCT: '.550'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular
+  W: '64'
+  L: '67'
+  T: '3'
+  PCT: '.489'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular
+  W: '64'
+  L: '68'
+  T: '0'
+  PCT: '.485'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular
+  W: '61'
+  L: '70'
+  T: '0'
+  PCT: '.466'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular
+  W: '60'
+  L: '72'
+  T: '0'
+  PCT: '.455'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: regular
+  W: '54'
+  L: '78'
+  T: '2'
+  PCT: '.409'
+  RANK: '8'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  division: Semifinal 1
+  phase: semifinal
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  division: Semifinal 1
+  phase: semifinal
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  division: Semifinal 2
+  phase: semifinal
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  division: Semifinal 2
+  phase: semifinal
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

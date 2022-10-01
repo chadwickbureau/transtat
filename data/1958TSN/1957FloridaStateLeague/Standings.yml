@@ -1,0 +1,234 @@
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular/first
+  W: '44'
+  L: '26'
+  T: '0'
+  PCT: '.629'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/first
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  phase: regular/first
+  W: '37'
+  L: '32'
+  T: '0'
+  PCT: '.536'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/first
+  W: '37'
+  L: '33'
+  T: '0'
+  PCT: '.529'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/first
+  W: '34'
+  L: '35'
+  T: '1'
+  PCT: '.493'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular/first
+  W: '31'
+  L: '38'
+  T: '0'
+  PCT: '.449'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/first
+  W: '31'
+  L: '39'
+  T: '0'
+  PCT: '.443'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/first
+  W: '26'
+  L: '43'
+  T: '1'
+  PCT: '.337'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  phase: regular/second
+  W: '47'
+  L: '22'
+  T: '0'
+  PCT: '.681'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/second
+  W: '47'
+  L: '23'
+  T: '0'
+  PCT: '.671'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/second
+  W: '34'
+  L: '35'
+  T: '0'
+  PCT: '.493'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/second
+  W: '34'
+  L: '35'
+  T: '0'
+  PCT: '.493'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular/second
+  W: '34'
+  L: '36'
+  T: '0'
+  PCT: '.486'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular/second
+  W: '33'
+  L: '37'
+  T: '0'
+  PCT: '.471'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/second
+  W: '31'
+  L: '37'
+  T: '0'
+  PCT: '.456'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/second
+  W: '17'
+  L: '52'
+  T: '0'
+  PCT: '.246'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  phase: regular
+  W: '84'
+  L: '54'
+  T: '0'
+  PCT: '.609'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '84'
+  L: '56'
+  T: '0'
+  PCT: '.600'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.557'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular
+  W: '72'
+  L: '67'
+  T: '0'
+  PCT: '.518'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular
+  W: '64'
+  L: '75'
+  T: '0'
+  PCT: '.460'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular
+  W: '62'
+  L: '76'
+  T: '0'
+  PCT: '.449'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular
+  W: '60'
+  L: '78'
+  T: '1'
+  PCT: '.435'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular
+  W: '51'
+  L: '87'
+  T: '1'
+  PCT: '.370'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  phase: finals
+  W: '3'
+  L: '1'
+  T: '0'
+  PCT: '.750'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: finals
+  W: '1'
+  L: '3'
+  T: '0'
+  PCT: '.250'
+  RANK: '2'

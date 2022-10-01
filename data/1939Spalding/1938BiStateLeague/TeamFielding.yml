@@ -1,0 +1,80 @@
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Mayodan
+  G: '119'
+  DP: '103'
+  PB: '11'
+  PO: '3098'
+  A: '1415'
+  E: '149'
+  PCT: '.968'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Bassett
+  G: '117'
+  DP: '88'
+  PB: '19'
+  PO: '3052'
+  A: '1249'
+  E: '144'
+  PCT: '.968'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Danville
+  G: '118'
+  DP: '108'
+  PB: '19'
+  PO: '3103'
+  A: '1422'
+  E: '193'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Leaksville-Draper-Spray
+  G: '119'
+  DP: '81'
+  PB: '44'
+  PO: '3075'
+  A: '1379'
+  E: '193'
+  PCT: '.955'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Reidsville
+  G: '119'
+  DP: '81'
+  PB: '18'
+  PO: '3134'
+  A: '1226'
+  E: '218'
+  PCT: '.952'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Mount Airy
+  G: '119'
+  DP: '89'
+  PB: '13'
+  PO: '3206'
+  A: '1354'
+  E: '240'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: Martinsville
+  G: '117'
+  DP: '92'
+  PB: '14'
+  PO: '3077'
+  A: '1179'
+  E: '227'
+  PCT: '.949'
+- year: '1938'
+  nameLeague: Bi-State League
+  nameClub: South Boston-Halifax
+  G: '120'
+  DP: '72'
+  PB: '40'
+  PO: '3132'
+  A: '1145'
+  E: '242'
+  PCT: '.946'

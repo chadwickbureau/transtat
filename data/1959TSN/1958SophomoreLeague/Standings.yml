@@ -1,0 +1,74 @@
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Midland
+  phase: regular
+  division: Eastern
+  W: '72'
+  L: '48'
+  T: '0'
+  PCT: '.609'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: San Angelo
+  phase: regular
+  division: Eastern
+  W: '61'
+  L: '59'
+  T: '0'
+  PCT: '.509'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Plainview
+  phase: regular
+  division: Eastern
+  W: '50'
+  L: '70'
+  T: '0'
+  PCT: '.417'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Artesia
+  phase: regular
+  division: Western
+  W: '63'
+  L: '57'
+  T: '0'
+  PCT: '.527'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Hobbs
+  phase: regular
+  division: Western
+  W: '59'
+  L: '61'
+  T: '0'
+  PCT: '.492'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Carlsbad
+  phase: regular
+  division: Western
+  W: '55'
+  L: '65'
+  T: '0'
+  PCT: '.458'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Midland
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Artesia
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

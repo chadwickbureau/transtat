@@ -1,0 +1,48 @@
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Midland
+  San Angelo: '14'
+  Plainview: '14'
+  Artesia: '14'
+  Hobbs: '15'
+  Carlsbad: '15'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: San Angelo
+  Midland: '10'
+  Plainview: '14'
+  Artesia: '11'
+  Hobbs: '12'
+  Carlsbad: '14'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Plainview
+  Midland: '10'
+  San Angelo: '10'
+  Artesia: '9'
+  Hobbs: '8'
+  Carlsbad: '13'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Artesia
+  Midland: '10'
+  San Angelo: '13'
+  Plainview: '15'
+  Hobbs: '14'
+  Carlsbad: '11'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Hobbs
+  Midland: '9'
+  San Angelo: '12'
+  Plainview: '16'
+  Artesia: '10'
+  Carlsbad: '12'
+- year: '1958'
+  nameLeague: Sophomore League
+  nameClub: Carlsbad
+  Midland: '9'
+  San Angelo: '10'
+  Plainview: '11'
+  Artesia: '13'
+  Hobbs: '12'

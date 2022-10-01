@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Marysville
+  G: '123'
+  DP: '122'
+  TP: '0'
+  PB: '28'
+  PO: '3183'
+  A: '1316'
+  E: '280'
+  PCT: '.941'
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Willows
+  G: '125'
+  DP: '86'
+  TP: '0'
+  PB: '28'
+  PO: '3192'
+  A: '1259'
+  E: '305'
+  PCT: '.936'
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Oroville
+  G: '121'
+  DP: '65'
+  TP: '0'
+  PB: '43'
+  PO: '3116'
+  A: '1113'
+  E: '305'
+  PCT: '.933'
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Klamath Falls
+  G: '126'
+  DP: '89'
+  TP: '0'
+  PB: '36'
+  PO: '3245'
+  A: '1273'
+  E: '331'
+  PCT: '.932'
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Redding
+  G: '124'
+  DP: '98'
+  TP: '0'
+  PB: '34'
+  PO: '3173'
+  A: '1265'
+  E: '351'
+  PCT: '.927'
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Santa Rosa
+  G: '122'
+  DP: '69'
+  TP: '0'
+  PB: '39'
+  PO: '3034'
+  A: '1197'
+  E: '345'
+  PCT: '.925'
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Pittsburg/Roseville
+  G: '112'
+  DP: '86'
+  TP: '0'
+  PB: '51'
+  PO: '2736'
+  A: '1177'
+  E: '366'
+  PCT: '.914'
+- year: '1948'
+  nameLeague: Far West League
+  nameClub: Medford
+  G: '123'
+  DP: '67'
+  TP: '0'
+  PB: '84'
+  PO: '3155'
+  A: '1130'
+  E: '406'
+  PCT: '.913'

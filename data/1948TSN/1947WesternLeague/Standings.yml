@@ -1,0 +1,100 @@
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular
+  W: '81'
+  L: '49'
+  T: '0'
+  PCT: '.623'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular
+  W: '75'
+  L: '52'
+  T: '2'
+  PCT: '.591'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular
+  W: '70'
+  L: '58'
+  T: '1'
+  PCT: '.547'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Omaha
+  phase: regular
+  W: '67'
+  L: '62'
+  T: '2'
+  PCT: '.519'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: regular
+  W: '54'
+  L: '75'
+  T: '1'
+  PCT: '.419'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular
+  W: '38'
+  L: '89'
+  T: '0'
+  PCT: '.299'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Omaha
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

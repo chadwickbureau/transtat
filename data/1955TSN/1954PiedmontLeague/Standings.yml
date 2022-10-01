@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '87'
+  L: '53'
+  T: '1'
+  PCT: '.621'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: regular
+  W: '76'
+  L: '63'
+  T: '3'
+  PCT: '.547'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: York
+  phase: regular
+  W: '72'
+  L: '67'
+  T: '3'
+  PCT: '.518'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '71'
+  L: '69'
+  T: '0'
+  PCT: '.507'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Hagerstown
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: regular
+  W: '63'
+  L: '77'
+  T: '1'
+  PCT: '.450'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Lancaster
+  phase: regular
+  W: '62'
+  L: '78'
+  T: '0'
+  PCT: '.443'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Colonial Heights-Petersburg
+  phase: regular
+  W: '62'
+  L: '78'
+  T: '2'
+  PCT: '.443'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: York
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

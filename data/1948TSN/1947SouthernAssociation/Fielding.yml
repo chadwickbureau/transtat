@@ -1,0 +1,2793 @@
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Murphy
+  nameClub1: Memphis
+  Pos: 1B
+  G: '13'
+  PO: '92'
+  A: '9'
+  E: '0'
+  DP: '10'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Konopka
+  nameClub1: Atlanta
+  nameClub2: Little Rock
+  throws: L
+  Pos: 1B
+  G: '26'
+  PO: '224'
+  A: '17'
+  E: '1'
+  DP: '22'
+  PCT: '.996'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Byam
+  nameClub1: New Orleans
+  nameClub2: Nashville
+  Pos: 1B
+  G: '133'
+  PO: '1207'
+  A: '64'
+  E: '6'
+  DP: '110'
+  PCT: '.995'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Flair
+  nameClub1: New Orleans
+  throws: L
+  Pos: 1B
+  G: '152'
+  PO: '1303'
+  A: '99'
+  E: '11'
+  DP: '133'
+  PCT: '.992'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Buccola
+  nameClub1: Atlanta
+  throws: L
+  Pos: 1B
+  G: '62'
+  PO: '490'
+  A: '52'
+  E: '6'
+  DP: '38'
+  PCT: '.989'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Stockwell
+  nameClub1: Atlanta
+  throws: L
+  Pos: 1B
+  G: '28'
+  PO: '231'
+  A: '13'
+  E: '3'
+  DP: '31'
+  PCT: '.988'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Connors
+  nameClub1: Mobile
+  throws: L
+  Pos: 1B
+  G: '144'
+  PO: '1169'
+  A: '96'
+  E: '17'
+  DP: '132'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Reid
+  nameClub1: Birmingham
+  Pos: 1B
+  G: '88'
+  PO: '708'
+  A: '47'
+  E: '10'
+  DP: '80'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Bradley
+  nameClub1: Memphis
+  Pos: 1B
+  G: '36'
+  PO: '212'
+  A: '19'
+  E: '3'
+  DP: '28'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Metheny
+  nameClub1: Birmingham
+  Pos: 1B
+  G: '23'
+  PO: '180'
+  A: '15'
+  E: '3'
+  DP: '13'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mack
+  nameClub1: Little Rock
+  throws: L
+  Pos: 1B
+  G: '110'
+  PO: '871'
+  A: '74'
+  E: '15'
+  DP: '86'
+  PCT: '.984'
+  TP: '1'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Blair
+  nameClub1: Atlanta
+  Pos: 1B
+  G: '30'
+  PO: '229'
+  A: '14'
+  E: '4'
+  DP: '26'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Collins
+  nameClub1: Birmingham
+  throws: L
+  Pos: 1B
+  G: '35'
+  PO: '261'
+  A: '15'
+  E: '5'
+  DP: '21'
+  PCT: '.982'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Sanford
+  nameClub1: Chattanooga
+  Pos: 1B
+  G: '146'
+  PO: '1239'
+  A: '113'
+  E: '26'
+  DP: '118'
+  PCT: '.981'
+  TP: '1'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kluszewski
+  nameClub1: Memphis
+  throws: L
+  Pos: 1B
+  G: '107'
+  PO: '931'
+  A: '60'
+  E: '19'
+  DP: '108'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Goldsberry
+  nameClub1: Little Rock
+  throws: L
+  Pos: 1B
+  G: '16'
+  PO: '143'
+  A: '10'
+  E: '3'
+  DP: '16'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Trippi
+  nameClub1: Atlanta
+  Pos: 1B
+  G: '30'
+  PO: '255'
+  A: '17'
+  E: '6'
+  DP: '25'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Garbe
+  nameClub1: Little Rock
+  throws: L
+  Pos: 1B
+  G: '17'
+  PO: '145'
+  A: '9'
+  E: '4'
+  DP: '11'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Stringfellow
+  nameClub1: Nashville
+  Pos: 1B
+  G: '20'
+  PO: '180'
+  A: '12'
+  E: '6'
+  DP: '15'
+  PCT: '.970'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wooten
+  nameClub1: Chattanooga
+  throws: L
+  Pos: 1B
+  G: '10'
+  PO: '84'
+  A: '12'
+  E: '4'
+  DP: '9'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Dapper
+  nameClub1: Mobile
+  Pos: 1B
+  G: '11'
+  PO: '72'
+  A: '3'
+  E: '4'
+  DP: '5'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hoderlein
+  nameClub1: Birmingham
+  Pos: 2B
+  G: '11'
+  PO: '23'
+  A: '21'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Milosevich
+  nameClub1: Atlanta
+  nameClub2: New Orleans
+  Pos: 2B
+  G: '14'
+  PO: '26'
+  A: '30'
+  E: '1'
+  DP: '7'
+  PCT: '.982'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hodge
+  nameClub1: Memphis
+  Pos: 2B
+  G: '50'
+  PO: '99'
+  A: '141'
+  E: '5'
+  DP: '33'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Schenz
+  nameClub1: Nashville
+  Pos: 2B
+  G: '80'
+  PO: '211'
+  A: '272'
+  E: '11'
+  DP: '56'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Steiner
+  nameClub1: Atlanta
+  Pos: 2B
+  G: '125'
+  PO: '318'
+  A: '415'
+  E: '26'
+  DP: '82'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kozar
+  nameClub1: New Orleans
+  Pos: 2B
+  G: '147'
+  PO: '382'
+  A: '455'
+  E: '31'
+  DP: '102'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Rullo
+  nameClub1: Birmingham
+  Pos: 2B
+  G: '138'
+  PO: '373'
+  A: '385'
+  E: '29'
+  DP: '88'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wasiak
+  nameClub1: Mobile
+  Pos: 2B
+  G: '150'
+  PO: '418'
+  A: '426'
+  E: '35'
+  DP: '118'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Lyons
+  nameClub1: Chattanooga
+  Pos: 2B
+  G: '141'
+  PO: '402'
+  A: '440'
+  E: '37'
+  DP: '103'
+  PCT: '.958'
+  TP: '1'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mavis
+  nameClub1: Little Rock
+  Pos: 2B
+  G: '122'
+  PO: '312'
+  A: '364'
+  E: '30'
+  DP: '82'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hamner
+  nameClub1: Memphis
+  Pos: 2B
+  G: '76'
+  PO: '196'
+  A: '243'
+  E: '21'
+  DP: '60'
+  PCT: '.954'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Adair
+  nameClub1: Memphis
+  Pos: 2B
+  G: '38'
+  PO: '75'
+  A: '110'
+  E: '10'
+  DP: '22'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hartsfield
+  nameClub1: Atlanta
+  Pos: 2B
+  G: '13'
+  PO: '23'
+  A: '31'
+  E: '3'
+  DP: '9'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Boguskie
+  nameClub1: Nashville
+  Pos: 2B
+  G: '76'
+  PO: '168'
+  A: '235'
+  E: '24'
+  DP: '39'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Clawitter
+  nameClub1: Little Rock
+  Pos: 2B
+  G: '13'
+  PO: '20'
+  A: '30'
+  E: '3'
+  DP: '4'
+  PCT: '.943'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Block
+  nameClub1: Nashville
+  Pos: 2B
+  G: '12'
+  PO: '20'
+  A: '29'
+  E: '3'
+  DP: '3'
+  PCT: '.942'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wein
+  nameClub1: Birmingham
+  nameClub2: Mobile
+  Pos: 2B
+  G: '16'
+  PO: '34'
+  A: '41'
+  E: '6'
+  DP: '7'
+  PCT: '.926'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Scarborough
+  nameClub1: Little Rock
+  Pos: 2B
+  G: '11'
+  PO: '21'
+  A: '33'
+  E: '6'
+  DP: '6'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Lawing
+  nameClub1: Chattanooga
+  nameClub2: Atlanta
+  Pos: 3B
+  G: '10'
+  PO: '6'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hart
+  nameClub1: Mobile
+  Pos: 3B
+  G: '110'
+  PO: '115'
+  A: '165'
+  E: '9'
+  DP: '22'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Serafini
+  nameClub1: Nashville
+  Pos: 3B
+  G: '26'
+  PO: '23'
+  A: '61'
+  E: '3'
+  DP: '6'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Aleno
+  nameClub1: Atlanta
+  Pos: 3B
+  G: '39'
+  PO: '31'
+  A: '70'
+  E: '4'
+  DP: '3'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Milosevich
+  nameClub1: Atlanta
+  nameClub2: New Orleans
+  Pos: 3B
+  G: '58'
+  PO: '47'
+  A: '97'
+  E: '8'
+  DP: '10'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Rutner
+  nameClub1: Birmingham
+  Pos: 3B
+  G: '153'
+  PO: '175'
+  A: '276'
+  E: '27'
+  DP: '30'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Block
+  nameClub1: Nashville
+  Pos: 3B
+  G: '108'
+  PO: '115'
+  A: '216'
+  E: '21'
+  DP: '27'
+  PCT: '.940'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mauer
+  nameClub1: Memphis
+  Pos: 3B
+  G: '67'
+  PO: '65'
+  A: '89'
+  E: '10'
+  DP: '9'
+  PCT: '.939'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Glock
+  nameClub1: Atlanta
+  Pos: 3B
+  G: '94'
+  PO: '81'
+  A: '194'
+  E: '19'
+  DP: '21'
+  PCT: '.935'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: White
+  nameClub1: Mobile
+  Pos: 3B
+  G: '22'
+  PO: '20'
+  A: '38'
+  E: '4'
+  DP: '3'
+  PCT: '.935'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Letchas
+  nameClub1: Chattanooga
+  Pos: 3B
+  G: '146'
+  PO: '134'
+  A: '243'
+  E: '27'
+  DP: '22'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Held
+  nameClub1: New Orleans
+  Pos: 3B
+  G: '103'
+  PO: '102'
+  A: '163'
+  E: '19'
+  DP: '13'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kahle
+  nameClub1: Little Rock
+  Pos: 3B
+  G: '111'
+  PO: '142'
+  A: '188'
+  E: '25'
+  DP: '21'
+  PCT: '.930'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Schenz
+  nameClub1: Nashville
+  Pos: 3B
+  G: '16'
+  PO: '15'
+  A: '34'
+  E: '4'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hodge
+  nameClub1: Memphis
+  Pos: 3B
+  G: '68'
+  PO: '60'
+  A: '122'
+  E: '20'
+  DP: '18'
+  PCT: '.901'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Scarborough
+  nameClub1: Little Rock
+  Pos: 3B
+  G: '40'
+  PO: '36'
+  A: '64'
+  E: '11'
+  DP: '6'
+  PCT: '.901'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Maupin
+  nameClub1: Mobile
+  Pos: 3B
+  G: '29'
+  PO: '27'
+  A: '47'
+  E: '9'
+  DP: '9'
+  PCT: '.892'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mathis
+  nameClub1: Atlanta
+  Pos: 3B
+  G: '18'
+  PO: '18'
+  A: '32'
+  E: '8'
+  DP: '4'
+  PCT: '.862'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Harpuder
+  nameClub1: Atlanta
+  Pos: SS
+  G: '13'
+  PO: '28'
+  A: '37'
+  E: '1'
+  DP: '6'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Verble
+  nameClub1: Atlanta
+  Pos: SS
+  G: '10'
+  PO: '21'
+  A: '30'
+  E: '2'
+  DP: '7'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wein
+  nameClub1: Birmingham
+  nameClub2: Mobile
+  Pos: SS
+  G: '23'
+  PO: '54'
+  A: '67'
+  E: '5'
+  DP: '15'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Quick
+  nameClub1: Nashville
+  Pos: SS
+  G: '121'
+  PO: '209'
+  A: '376'
+  E: '25'
+  DP: '82'
+  PCT: '.959'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Rue
+  nameClub1: New Orleans
+  Pos: SS
+  G: '152'
+  PO: '324'
+  A: '486'
+  E: '38'
+  DP: '101'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Adkins
+  nameFirst: R.
+  nameClub1: Birmingham
+  Pos: SS
+  G: '116'
+  PO: '252'
+  A: '345'
+  E: '30'
+  DP: '67'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hamner
+  nameClub1: Memphis
+  Pos: SS
+  G: '35'
+  PO: '93'
+  A: '104'
+  E: '10'
+  DP: '15'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hoderlein
+  nameClub1: Birmingham
+  Pos: SS
+  G: '35'
+  PO: '59'
+  A: '93'
+  E: '8'
+  DP: '23'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hancock
+  nameClub1: Little Rock
+  nameClub2: Memphis
+  Pos: SS
+  G: '152'
+  PO: '300'
+  A: '500'
+  E: '43'
+  DP: '75'
+  PCT: '.949'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Schenz
+  nameClub1: Nashville
+  Pos: SS
+  G: '11'
+  PO: '15'
+  A: '21'
+  E: '2'
+  DP: '4'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Fleitas
+  nameClub1: Chattanooga
+  Pos: SS
+  G: '104'
+  PO: '204'
+  A: '331'
+  E: '35'
+  DP: '61'
+  PCT: '.969'
+  TP: '1'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Younghans
+  nameClub1: Mobile
+  Pos: SS
+  G: '93'
+  PO: '181'
+  A: '283'
+  E: '30'
+  DP: '67'
+  PCT: '.939'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Ordenana
+  nameClub1: Atlanta
+  Pos: SS
+  G: '54'
+  PO: '89'
+  A: '169'
+  E: '17'
+  DP: '40'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Morgan
+  nameClub1: Memphis
+  nameClub2: Little Rock
+  Pos: SS
+  G: '123'
+  PO: '243'
+  A: '334'
+  E: '41'
+  DP: '57'
+  PCT: '.934'
+  TP: '1'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Maupin
+  nameClub1: Mobile
+  Pos: SS
+  G: '32'
+  PO: '42'
+  A: '62'
+  E: '8'
+  DP: '13'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Greer
+  nameClub1: Mobile
+  Pos: SS
+  G: '22'
+  PO: '22'
+  A: '67'
+  E: '7'
+  DP: '6'
+  PCT: '.927'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Glock
+  nameClub1: Atlanta
+  Pos: SS
+  G: '57'
+  PO: '99'
+  A: '135'
+  E: '20'
+  DP: '22'
+  PCT: '.921'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Petrosky
+  nameClub1: Chattanooga
+  Pos: SS
+  G: '54'
+  PO: '96'
+  A: '154'
+  E: '23'
+  DP: '38'
+  PCT: '.916'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Milosevich
+  nameClub1: Atlanta
+  nameClub2: New Orleans
+  Pos: SS
+  G: '30'
+  PO: '45'
+  A: '74'
+  E: '11'
+  DP: '22'
+  PCT: '.915'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Cumby
+  nameClub1: Nashville
+  Pos: SS
+  G: '25'
+  PO: '41'
+  A: '62'
+  E: '14'
+  DP: '15'
+  PCT: '.880'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kruckman
+  nameClub1: Nashville
+  Pos: OF
+  G: '32'
+  PO: '57'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Boguskie
+  nameClub1: Nashville
+  Pos: OF
+  G: '15'
+  PO: '22'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Blair
+  nameClub1: Atlanta
+  Pos: OF
+  G: '14'
+  PO: '24'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Metheny
+  nameClub1: Birmingham
+  throws: L
+  Pos: OF
+  G: '12'
+  PO: '23'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Bennington
+  nameClub1: Birmingham
+  Pos: OF
+  G: '10'
+  PO: '16'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Bradsher
+  nameClub1: Little Rock
+  Pos: OF
+  G: '119'
+  PO: '278'
+  A: '10'
+  E: '3'
+  DP: '2'
+  PCT: '.990'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Matney
+  nameClub1: Mobile
+  Pos: OF
+  G: '131'
+  PO: '368'
+  A: '12'
+  E: '5'
+  DP: '4'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Stumpf
+  nameClub1: New Orleans
+  throws: L
+  Pos: OF
+  G: '124'
+  PO: '247'
+  A: '8'
+  E: '5'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Treadway
+  nameClub1: Nashville
+  Pos: OF
+  G: '83'
+  PO: '141'
+  A: '14'
+  E: '3'
+  DP: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hoderlein
+  nameClub1: Birmingham
+  Pos: OF
+  G: '48'
+  PO: '89'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Deal
+  nameClub1: Memphis
+  Pos: OF
+  G: '106'
+  PO: '181'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Cliggott
+  nameClub1: Memphis
+  Pos: OF
+  G: '26'
+  PO: '46'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Litzsinger
+  nameClub1: Little Rock
+  Pos: OF
+  G: '22'
+  PO: '41'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Layden
+  nameClub1: New Orleans
+  Pos: OF
+  G: '60'
+  PO: '206'
+  A: '3'
+  E: '5'
+  DP: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Abrams
+  nameClub1: Mobile
+  throws: L
+  Pos: OF
+  G: '154'
+  PO: '300'
+  A: '16'
+  E: '9'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Stringfellow
+  nameClub1: Nashville
+  Pos: OF
+  G: '20'
+  PO: '33'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kvasnak
+  nameClub1: Chattanooga
+  Pos: OF
+  G: '144'
+  PO: '282'
+  A: '6'
+  E: '9'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wright
+  nameFirst: T.
+  nameClub1: New Orleans
+  throws: L
+  Pos: OF
+  G: '133'
+  PO: '270'
+  A: '14'
+  E: '9'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Scheldt
+  nameClub1: Birmingham
+  throws: L
+  Pos: OF
+  G: '104'
+  PO: '208'
+  A: '8'
+  E: '7'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kraus
+  nameClub1: New Orleans
+  Pos: OF
+  G: '61'
+  PO: '120'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Armstrong
+  nameClub1: Memphis
+  Pos: OF
+  G: '143'
+  PO: '351'
+  A: '9'
+  E: '12'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Eaton
+  nameClub1: Birmingham
+  Pos: OF
+  G: '91'
+  PO: '145'
+  A: '8'
+  E: '5'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Bueschen
+  nameClub1: Memphis
+  Pos: OF
+  G: '140'
+  PO: '263'
+  A: '19'
+  E: '10'
+  DP: '7'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Richmond
+  nameClub1: Birmingham
+  Pos: OF
+  G: '42'
+  PO: '106'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Lavigne
+  nameClub1: New Orleans
+  throws: L
+  Pos: OF
+  G: '79'
+  PO: '153'
+  A: '10'
+  E: '6'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Shuba
+  nameClub1: Mobile
+  Pos: OF
+  G: '152'
+  PO: '352'
+  A: '15'
+  E: '4'
+  DP: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kahn
+  nameClub1: Birmingham
+  Pos: OF
+  G: '11'
+  PO: '24'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Robinson
+  nameClub1: Little Rock
+  Pos: OF
+  G: '23'
+  PO: '50'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Trippi
+  nameClub1: Atlanta
+  Pos: OF
+  G: '67'
+  PO: '141'
+  A: '7'
+  E: '6'
+  DP: '0'
+  PCT: '.961'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Sinton
+  nameClub1: Little Rock
+  Pos: OF
+  G: '120'
+  PO: '227'
+  A: '13'
+  E: '10'
+  DP: '3'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wooten
+  nameClub1: Chattanooga
+  throws: L
+  Pos: OF
+  G: '112'
+  PO: '282'
+  A: '11'
+  E: '13'
+  DP: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Vanni
+  nameClub1: Birmingham
+  Pos: OF
+  G: '57'
+  PO: '112'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Logan
+  nameClub1: Atlanta
+  Pos: OF
+  G: '61'
+  PO: '106'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Bradley
+  nameClub1: Memphis
+  Pos: OF
+  G: '52'
+  PO: '91'
+  A: '8'
+  E: '5'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Cantrell
+  nameClub1: Little Rock
+  Pos: OF
+  G: '148'
+  PO: '227'
+  A: '6'
+  E: '12'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Behrends
+  nameClub1: Birmingham
+  throws: L
+  Pos: OF
+  G: '11'
+  PO: '16'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Cieslak
+  nameClub1: Atlanta
+  Pos: OF
+  G: '144'
+  PO: '282'
+  A: '9'
+  E: '17'
+  DP: '1'
+  PCT: '.945'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Maynard
+  nameClub1: Nashville
+  Pos: OF
+  G: '80'
+  PO: '183'
+  A: '2'
+  E: '11'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Barkley
+  nameClub1: Chattanooga
+  Pos: OF
+  G: '19'
+  PO: '50'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Coan
+  nameClub1: Chattanooga
+  Pos: OF
+  G: '150'
+  PO: '276'
+  A: '13'
+  E: '18'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Burgo
+  nameClub1: Little Rock
+  nameClub2: Memphis
+  Pos: OF
+  G: '12'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Ellis
+  nameClub1: Atlanta
+  throws: L
+  Pos: OF
+  G: '150'
+  PO: '315'
+  A: '4'
+  E: '22'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Jeffcoat
+  nameClub1: Nashville
+  Pos: OF
+  G: '153'
+  PO: '366'
+  A: '17'
+  E: '28'
+  DP: '3'
+  PCT: '.932'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Dutton
+  nameClub1: Birmingham
+  Pos: OF
+  G: '11'
+  PO: '13'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Chipple
+  nameClub1: Little Rock
+  Pos: OF
+  G: '21'
+  PO: '37'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.927'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Scarborough
+  nameClub1: Little Rock
+  Pos: OF
+  G: '34'
+  PO: '74'
+  A: '1'
+  E: '6'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Lawing
+  nameClub1: Chattanooga
+  nameClub2: Atlanta
+  Pos: OF
+  G: '39'
+  PO: '60'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Rebel
+  nameClub1: Birmingham
+  throws: L
+  Pos: OF
+  G: '29'
+  PO: '47'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Skeen
+  nameClub1: Birmingham
+  Pos: OF
+  G: '37'
+  PO: '88'
+  A: '6'
+  E: '8'
+  DP: '3'
+  PCT: '.922'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Staples
+  nameClub1: Mobile
+  Pos: OF
+  G: '15'
+  PO: '21'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Durrett
+  nameClub1: Nashville
+  throws: L
+  Pos: OF
+  G: '31'
+  PO: '32'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Greene
+  nameClub1: Nashville
+  Pos: OF
+  G: '44'
+  PO: '53'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.915'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Collins
+  nameClub1: Birmingham
+  throws: L
+  Pos: OF
+  G: '14'
+  PO: '27'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Lavelle
+  nameClub1: Chattanooga
+  Pos: OF
+  G: '17'
+  PO: '22'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.885'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Easterwood
+  nameClub1: Nashville
+  Pos: C
+  G: '57'
+  PO: '241'
+  A: '24'
+  E: '1'
+  DP: '3'
+  PB: '4'
+  PCT: '.996'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Pruett
+  nameClub1: New Orleans
+  Pos: C
+  G: '45'
+  PO: '162'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PB: '2'
+  PCT: '.989'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Doolittle
+  nameClub1: Little Rock
+  Pos: C
+  G: '47'
+  PO: '135'
+  A: '24'
+  E: '2'
+  DP: '3'
+  PB: '4'
+  PCT: '.988'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: McNair
+  nameClub1: Memphis
+  Pos: C
+  G: '33'
+  PO: '137'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PB: '5'
+  PCT: '.987'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Dapper
+  nameClub1: Mobile
+  Pos: C
+  G: '119'
+  PO: '576'
+  A: '75'
+  E: '10'
+  DP: '12'
+  PB: '7'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Walters
+  nameClub1: New Orleans
+  Pos: C
+  G: '88'
+  PO: '384'
+  A: '59'
+  E: '7'
+  DP: '10'
+  PB: '15'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Plumbo
+  nameClub1: Memphis
+  Pos: C
+  G: '90'
+  PO: '358'
+  A: '63'
+  E: '8'
+  DP: '4'
+  PB: '5'
+  PCT: '.981'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Garbark
+  nameClub1: Chattanooga
+  Pos: C
+  G: '49'
+  PO: '216'
+  A: '29'
+  E: '5'
+  DP: '5'
+  PB: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Sears
+  nameClub1: Little Rock
+  Pos: C
+  G: '119'
+  PO: '502'
+  A: '69'
+  E: '14'
+  DP: '9'
+  PB: '15'
+  PCT: '.976'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mathis
+  nameClub1: Atlanta
+  Pos: C
+  G: '109'
+  PO: '441'
+  A: '48'
+  E: '12'
+  DP: '5'
+  PB: '9'
+  PCT: '.976'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kahn
+  nameClub1: Birmingham
+  Pos: C
+  G: '51'
+  PO: '185'
+  A: '30'
+  E: '6'
+  DP: '5'
+  PB: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Friar
+  nameClub1: Chattanooga
+  Pos: C
+  G: '99'
+  PO: '396'
+  A: '62'
+  E: '13'
+  DP: '10'
+  PB: '8'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Aulds
+  nameClub1: New Orleans
+  Pos: C
+  G: '29'
+  PO: '125'
+  A: '16'
+  E: '4'
+  DP: '2'
+  PB: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Erautt
+  nameClub1: Birmingham
+  Pos: C
+  G: '99'
+  PO: '443'
+  A: '52'
+  E: '15'
+  DP: '12'
+  PB: '4'
+  PCT: '.971'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Riebe
+  nameClub1: Memphis
+  Pos: C
+  G: '38'
+  PO: '148'
+  A: '18'
+  E: '5'
+  DP: '2'
+  PB: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Sosh
+  nameClub1: Mobile
+  Pos: C
+  G: '38'
+  PO: '165'
+  A: '16'
+  E: '6'
+  DP: '6'
+  PB: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Walker
+  nameClub1: Nashville
+  Pos: C
+  G: '109'
+  PO: '435'
+  A: '36'
+  E: '17'
+  DP: '2'
+  PB: '10'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Ulisney
+  nameClub1: Atlanta
+  Pos: C
+  G: '57'
+  PO: '219'
+  A: '28'
+  E: '9'
+  DP: '4'
+  PB: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Clawitter
+  nameClub1: Little Rock
+  Pos: C
+  G: '17'
+  PO: '49'
+  A: '5'
+  E: '2'
+  DP: '2'
+  PB: '3'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hill
+  nameClub1: Chattanooga
+  Pos: C
+  G: '14'
+  PO: '40'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PB: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Peterman
+  nameClub1: Birmingham
+  Pos: C
+  G: '10'
+  PO: '51'
+  A: '7'
+  E: '6'
+  DP: '2'
+  PB: '1'
+  PCT: '.906'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Teagan
+  nameClub1: Birmingham
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '24'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Knerr
+  nameClub1: Chattanooga
+  Pos: P
+  G: '21'
+  PO: '11'
+  A: '17'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Atkins
+  nameFirst: J.
+  nameClub1: New Orleans
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '21'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Eisenmann
+  nameClub1: Memphis
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '17'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Sherer
+  nameClub1: Memphis
+  Pos: P
+  G: '20'
+  PO: '6'
+  A: '13'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Bruner
+  nameClub1: Birmingham
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '13'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hanski
+  nameClub1: Memphis
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Aloma
+  nameClub1: Chattanooga
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Powers
+  nameClub1: Mobile
+  Pos: P
+  G: '39'
+  PO: '5'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wright
+  nameFirst: R.
+  nameClub1: New Orleans
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kimberlin
+  nameClub1: New Orleans
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Lindquist
+  nameClub1: Little Rock
+  Pos: P
+  G: '37'
+  PO: '12'
+  A: '37'
+  E: '1'
+  DP: '5'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kinney
+  nameClub1: Atlanta
+  Pos: P
+  G: '34'
+  PO: '12'
+  A: '33'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Cook
+  nameClub1: New Orleans
+  nameClub2: Atlanta
+  Pos: P
+  G: '34'
+  PO: '13'
+  A: '32'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Weiland
+  nameClub1: Memphis
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '35'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Thompson
+  nameClub1: Atlanta
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '35'
+  E: '1'
+  DP: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Laga
+  nameClub1: Mobile
+  Pos: P
+  G: '33'
+  PO: '10'
+  A: '64'
+  E: '2'
+  DP: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Conger
+  nameClub1: Nashville
+  Pos: P
+  G: '25'
+  PO: '12'
+  A: '23'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Matulis
+  nameClub1: Nashville
+  Pos: P
+  G: '38'
+  PO: '5'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Curtis
+  nameClub1: Chattanooga
+  Pos: P
+  G: '24'
+  PO: '8'
+  A: '23'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Smola
+  nameClub1: New Orleans
+  Pos: P
+  G: '35'
+  PO: '6'
+  A: '23'
+  E: '1'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mauney
+  nameClub1: Memphis
+  Pos: P
+  G: '20'
+  PO: '12'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mallory
+  nameClub1: Nashville
+  Pos: P
+  G: '32'
+  PO: '20'
+  A: '37'
+  E: '2'
+  DP: '3'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Ronay
+  nameClub1: Birmingham
+  Pos: P
+  G: '34'
+  PO: '6'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Modica
+  nameClub1: New Orleans
+  Pos: P
+  G: '33'
+  PO: '12'
+  A: '43'
+  E: '2'
+  DP: '6'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mondorff
+  nameClub1: Mobile
+  Pos: P
+  G: '33'
+  PO: '3'
+  A: '24'
+  E: '1'
+  DP: '3'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Livengood
+  nameClub1: Little Rock
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Mistos
+  nameClub1: Atlanta
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '20'
+  E: '1'
+  DP: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Stevens
+  nameClub1: Chattanooga
+  throws: L
+  Pos: P
+  G: '41'
+  PO: '6'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Cress
+  nameClub1: New Orleans
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Adkins
+  nameFirst: D.
+  nameClub1: Atlanta
+  Pos: P
+  G: '35'
+  PO: '23'
+  A: '40'
+  E: '3'
+  DP: '5'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Twardy
+  nameClub1: Nashville
+  Pos: P
+  G: '30'
+  PO: '8'
+  A: '34'
+  E: '2'
+  DP: '4'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kellner
+  nameClub1: Birmingham
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '12'
+  A: '29'
+  E: '2'
+  DP: '3'
+  PCT: '.953'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Diehl
+  nameClub1: Atlanta
+  nameClub2: New Orleans
+  Pos: P
+  G: '30'
+  PO: '12'
+  A: '29'
+  E: '2'
+  DP: '3'
+  PCT: '.953'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Schmidt
+  nameClub1: Birmingham
+  Pos: P
+  G: '10'
+  PO: '8'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: LaMacchia
+  nameClub1: Birmingham
+  Pos: P
+  G: '13'
+  PO: '8'
+  A: '11'
+  E: '1'
+  DP: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Johnson
+  nameClub1: Little Rock
+  Pos: P
+  G: '17'
+  PO: '5'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kaye
+  nameClub1: Little Rock
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Rush
+  nameClub1: Nashville
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '29'
+  E: '2'
+  DP: '2'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Toenes
+  nameClub1: Chattanooga
+  Pos: P
+  G: '40'
+  PO: '16'
+  A: '29'
+  E: '3'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hoerst
+  nameClub1: Memphis
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '15'
+  A: '30'
+  E: '3'
+  DP: '3'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Satterfield
+  nameClub1: Birmingham
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Newlin
+  nameClub1: Little Rock
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Boles
+  nameClub1: Mobile
+  Pos: P
+  G: '33'
+  PO: '12'
+  A: '32'
+  E: '3'
+  DP: '1'
+  PCT: '.936'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Whitaker
+  nameClub1: Mobile
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '11'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Nelson
+  nameClub1: Birmingham
+  Pos: P
+  G: '19'
+  PO: '10'
+  A: '18'
+  E: '2'
+  DP: '4'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Hall
+  nameClub1: Mobile
+  Pos: P
+  G: '30'
+  PO: '13'
+  A: '27'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Chmiel
+  nameClub1: Nashville
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Piechota
+  nameClub1: Little Rock
+  Pos: P
+  G: '35'
+  PO: '19'
+  A: '31'
+  E: '4'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Babbitt
+  nameClub1: Birmingham
+  Pos: P
+  G: '36'
+  PO: '3'
+  A: '21'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Kennedy
+  nameClub1: Chattanooga
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '11'
+  A: '34'
+  E: '4'
+  DP: '1'
+  PCT: '.918'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: House
+  nameClub1: Little Rock
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '24'
+  E: '3'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Evans
+  nameClub1: Little Rock
+  Pos: P
+  G: '36'
+  PO: '3'
+  A: '19'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Wade
+  nameClub1: Nashville
+  Pos: P
+  G: '36'
+  PO: '14'
+  A: '27'
+  E: '4'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Shea
+  nameClub1: New Orleans
+  Pos: P
+  G: '25'
+  PO: '12'
+  A: '27'
+  E: '4'
+  DP: '0'
+  PCT: '.907'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Sunkel
+  nameClub1: New Orleans
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: McGlothin
+  nameClub1: Mobile
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '20'
+  E: '3'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Zukowski
+  nameClub1: Chattanooga
+  Pos: P
+  G: '50'
+  PO: '3'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Harrell
+  nameClub1: Memphis
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Orphal
+  nameClub1: Birmingham
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '23'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Spragins
+  nameClub1: Memphis
+  Pos: P
+  G: '31'
+  PO: '2'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.895'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Perme
+  nameClub1: Little Rock
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '12'
+  A: '13'
+  E: '3'
+  DP: '1'
+  PCT: '.893'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Miller
+  nameClub1: Chattanooga
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '9'
+  A: '23'
+  E: '4'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Bush
+  nameClub1: Atlanta
+  Pos: P
+  G: '34'
+  PO: '3'
+  A: '11'
+  E: '2'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Minner
+  nameClub1: Mobile
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '16'
+  E: '4'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Weik
+  nameClub1: Chattanooga
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Saulia
+  nameClub1: Nashville
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '16'
+  E: '4'
+  DP: '4'
+  PCT: '.840'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: West
+  nameClub1: Atlanta
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '14'
+  E: '5'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Nolan
+  nameClub1: Little Rock
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '5'
+  A: '11'
+  E: '4'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Gables
+  nameClub1: Atlanta
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Pearson
+  nameClub1: Chattanooga
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Horton
+  nameClub1: Nashville
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Biggs
+  nameClub1: Memphis
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.714'
+  TP: '0'
+- year: '1947'
+  nameLeague: Southern Association
+  nameLast: Koval
+  nameClub1: Atlanta
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.333'
+  TP: '0'

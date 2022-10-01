@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: International League
+  nameClub: Jersey City
+  Montreal: '10'
+  Syracuse: '12'
+  Buffalo: '11'
+  Rochester: '15'
+  Newark: '16'
+  Baltimore: '15'
+  Toronto: '15'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Montreal
+  Jersey City: '12'
+  Syracuse: '16'
+  Buffalo: '13'
+  Rochester: '11'
+  Newark: '14'
+  Baltimore: '14'
+  Toronto: '13'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Syracuse
+  Jersey City: '10'
+  Montreal: '6'
+  Buffalo: '13'
+  Rochester: '11'
+  Newark: '16'
+  Baltimore: '16'
+  Toronto: '16'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Buffalo
+  Jersey City: '11'
+  Montreal: '8'
+  Syracuse: '8'
+  Rochester: '11'
+  Newark: '13'
+  Baltimore: '11'
+  Toronto: '15'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Rochester
+  Jersey City: '7'
+  Montreal: '11'
+  Syracuse: '11'
+  Buffalo: '11'
+  Newark: '8'
+  Baltimore: '10'
+  Toronto: '10'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Newark
+  Jersey City: '6'
+  Montreal: '8'
+  Syracuse: '6'
+  Buffalo: '9'
+  Rochester: '14'
+  Baltimore: '12'
+  Toronto: '10'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Baltimore
+  Jersey City: '7'
+  Montreal: '8'
+  Syracuse: '6'
+  Buffalo: '11'
+  Rochester: '12'
+  Newark: '10'
+  Toronto: '11'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Toronto
+  Jersey City: '7'
+  Montreal: '9'
+  Syracuse: '6'
+  Buffalo: '7'
+  Rochester: '12'
+  Newark: '12'
+  Baltimore: '11'

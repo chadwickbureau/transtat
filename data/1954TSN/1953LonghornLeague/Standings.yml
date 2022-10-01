@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  phase: regular
+  W: '80'
+  L: '52'
+  T: '0'
+  PCT: '.606'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: San Angelo
+  phase: regular
+  W: '77'
+  L: '52'
+  T: '0'
+  PCT: '.597'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: regular
+  W: '73'
+  L: '58'
+  T: '0'
+  PCT: '.557'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Artesia
+  phase: regular
+  W: '72'
+  L: '62'
+  T: '0'
+  PCT: '.537'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Roswell
+  phase: regular
+  W: '60'
+  L: '70'
+  T: '0'
+  PCT: '.462'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Odessa
+  phase: regular
+  W: '53'
+  L: '78'
+  T: '0'
+  PCT: '.405'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  phase: regular
+  W: '35'
+  L: '57'
+  T: '0'
+  PCT: '.380'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Lamesa/Winters-Ballinger
+  phase: regular
+  W: '10'
+  L: '31'
+  T: '0'
+  PCT: '.244'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Artesia
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: San Angelo
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

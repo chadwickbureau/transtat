@@ -1,0 +1,66 @@
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  G: '140'
+  DP: '119'
+  PB: '24'
+  PO: '3517'
+  A: '1577'
+  E: '205'
+  PCT: '.961'
+  TP: '1'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  G: '138'
+  DP: '141'
+  PB: '19'
+  PO: '3629'
+  A: '1575'
+  E: '220'
+  PCT: '.959'
+  TP: '1'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  G: '140'
+  DP: '109'
+  PB: '16'
+  PO: '3609'
+  A: '1346'
+  E: '211'
+  PCT: '.959'
+  TP: '0'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  G: '140'
+  DP: '197'
+  PB: '18'
+  PO: '3718'
+  A: '1679'
+  E: '240'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  G: '139'
+  DP: '152'
+  PB: '9'
+  PO: '3578'
+  A: '1532'
+  E: '243'
+  PCT: '.955'
+  TP: '0'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  G: '141'
+  DP: '148'
+  PB: '18'
+  PO: '3656'
+  A: '1603'
+  E: '321'
+  PCT: '.942'
+  TP: '1'

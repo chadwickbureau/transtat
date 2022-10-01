@@ -1,0 +1,80 @@
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  Savannah: '11'
+  Macon: '7'
+  Columbia: '9'
+  Montgomery: '10'
+  Charlotte: '15'
+  Augusta: '15'
+  Columbus: '16'
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  Jacksonville: '9'
+  Macon: '7'
+  Columbia: '11'
+  Montgomery: '14'
+  Charlotte: '14'
+  Augusta: '11'
+  Columbus: '14'
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  Jacksonville: '13'
+  Savannah: '13'
+  Columbia: '8'
+  Montgomery: '8'
+  Charlotte: '12'
+  Augusta: '11'
+  Columbus: '13'
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  Jacksonville: '11'
+  Savannah: '9'
+  Macon: '12'
+  Montgomery: '9'
+  Charlotte: '11'
+  Augusta: '12'
+  Columbus: '13'
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Montgomery
+  Jacksonville: '10'
+  Savannah: '6'
+  Macon: '12'
+  Columbia: '11'
+  Charlotte: '5'
+  Augusta: '11'
+  Columbus: '13'
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  Jacksonville: '5'
+  Savannah: '6'
+  Macon: '8'
+  Columbia: '9'
+  Montgomery: '15'
+  Augusta: '10'
+  Columbus: '9'
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  Jacksonville: '5'
+  Savannah: '9'
+  Macon: '9'
+  Columbia: '8'
+  Montgomery: '9'
+  Charlotte: '10'
+  Columbus: '8'
+- year: '1954'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  Jacksonville: '4'
+  Savannah: '6'
+  Macon: '6'
+  Columbia: '6'
+  Montgomery: '7'
+  Charlotte: '10'
+  Augusta: '12'

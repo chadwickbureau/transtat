@@ -1,0 +1,88 @@
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  G: '154'
+  DP: '151'
+  PB: '6'
+  PO: '3977'
+  A: '1526'
+  E: '182'
+  PCT: '.968'
+  TP: '1'
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  G: '152'
+  DP: '155'
+  PB: '22'
+  PO: '3913'
+  A: '1533'
+  E: '182'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  G: '155'
+  DP: '149'
+  PB: '20'
+  PO: '3966'
+  A: '1666'
+  E: '192'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  G: '156'
+  DP: '145'
+  PB: '9'
+  PO: '4039'
+  A: '1680'
+  E: '200'
+  PCT: '.966'
+  TP: '0'
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  G: '156'
+  DP: '134'
+  PB: '10'
+  PO: '4028'
+  A: '1632'
+  E: '206'
+  PCT: '.965'
+  TP: '1'
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  G: '151'
+  DP: '181'
+  PB: '20'
+  PO: '3891'
+  A: '1645'
+  E: '202'
+  PCT: '.965'
+  TP: '0'
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  G: '155'
+  DP: '168'
+  PB: '23'
+  PO: '4051'
+  A: '1815'
+  E: '225'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  G: '155'
+  DP: '163'
+  PB: '12'
+  PO: '3973'
+  A: '1573'
+  E: '230'
+  PCT: '.960'
+  TP: '0'

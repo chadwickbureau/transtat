@@ -1,0 +1,66 @@
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  G: '130'
+  DP: '112'
+  PB: '17'
+  PO: '3312'
+  A: '1345'
+  E: '206'
+  PCT: '.958'
+  TP: '1'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  G: '127'
+  DP: '146'
+  PB: '6'
+  PO: '3236'
+  A: '1414'
+  E: '234'
+  PCT: '.952'
+  TP: '0'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  G: '128'
+  DP: '109'
+  PB: '10'
+  PO: '3203'
+  A: '1394'
+  E: '269'
+  PCT: '.945'
+  TP: '0'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  G: '127'
+  DP: '130'
+  PB: '23'
+  PO: '3340'
+  A: '1279'
+  E: '280'
+  PCT: '.943'
+  TP: '0'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Wytheville
+  G: '129'
+  DP: '115'
+  PB: '31'
+  PO: '3290'
+  A: '1365'
+  E: '346'
+  PCT: '.931'
+  TP: '0'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  G: '127'
+  DP: '93'
+  PB: '24'
+  PO: '3160'
+  A: '1289'
+  E: '349'
+  PCT: '.927'
+  TP: '1'

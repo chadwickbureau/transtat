@@ -1,0 +1,66 @@
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  G: '129'
+  DP: '112'
+  PB: '20'
+  PO: '3426'
+  A: '1425'
+  E: '161'
+  PCT: '.968'
+  TP: '0'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  G: '131'
+  DP: '94'
+  PB: '14'
+  PO: '3373'
+  A: '1394'
+  E: '174'
+  PCT: '.965'
+  TP: '1'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  G: '130'
+  DP: '127'
+  PB: '29'
+  PO: '3161'
+  A: '1399'
+  E: '195'
+  PCT: '.959'
+  TP: '0'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Sherbrooke
+  G: '130'
+  DP: '107'
+  PB: '17'
+  PO: '3363'
+  A: '1378'
+  E: '214'
+  PCT: '.957'
+  TP: '0'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Thetford Mines
+  G: '128'
+  DP: '112'
+  PB: '14'
+  PO: '3210'
+  A: '1343'
+  E: '237'
+  PCT: '.951'
+  TP: '1'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  G: '126'
+  DP: '85'
+  PB: '28'
+  PO: '3162'
+  A: '1262'
+  E: '266'
+  PCT: '.943'
+  TP: '0'

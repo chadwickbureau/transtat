@@ -1,0 +1,78 @@
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '77'
+  L: '47'
+  PCT: '.621'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Decatur
+  phase: regular
+  W: '68'
+  L: '58'
+  PCT: '.540'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Moline
+  phase: regular
+  W: '67'
+  L: '59'
+  PCT: '.532'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Springfield
+  phase: regular
+  W: '63'
+  L: '60'
+  PCT: '.512'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular
+  W: '59'
+  L: '65'
+  PCT: '.476'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular
+  W: '56'
+  L: '63'
+  PCT: '.471'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Bloomington
+  phase: regular
+  W: '56'
+  L: '65'
+  PCT: '.463'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Clinton
+  phase: regular
+  W: '46'
+  L: '75'
+  PCT: '.380'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Decatur
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Springfield
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

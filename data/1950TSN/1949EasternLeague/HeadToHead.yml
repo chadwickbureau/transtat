@@ -1,0 +1,80 @@
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Albany
+  Scranton: '13'
+  Wilkes-Barre: '11'
+  Binghamton: '12'
+  Hartford: '14'
+  Williamsport: '15'
+  Elmira: '15'
+  Utica: '13'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  Albany: '7'
+  Wilkes-Barre: '9'
+  Binghamton: '10'
+  Hartford: '14'
+  Williamsport: '11'
+  Elmira: '13'
+  Utica: '15'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  Albany: '9'
+  Scranton: '11'
+  Binghamton: '12'
+  Hartford: '10'
+  Williamsport: '11'
+  Elmira: '9'
+  Utica: '15'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  Albany: '8'
+  Scranton: '10'
+  Wilkes-Barre: '8'
+  Hartford: '10'
+  Williamsport: '13'
+  Elmira: '9'
+  Utica: '12'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  Albany: '6'
+  Scranton: '6'
+  Wilkes-Barre: '10'
+  Binghamton: '10'
+  Williamsport: '9'
+  Elmira: '12'
+  Utica: '13'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  Albany: '5'
+  Scranton: '9'
+  Wilkes-Barre: '9'
+  Binghamton: '7'
+  Hartford: '11'
+  Elmira: '14'
+  Utica: '11'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  Albany: '5'
+  Scranton: '7'
+  Wilkes-Barre: '11'
+  Binghamton: '11'
+  Hartford: '8'
+  Williamsport: '6'
+  Utica: '10'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Utica
+  Albany: '7'
+  Scranton: '5'
+  Wilkes-Barre: '5'
+  Binghamton: '8'
+  Hartford: '7'
+  Williamsport: '9'
+  Elmira: '10'

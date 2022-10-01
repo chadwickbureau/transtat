@@ -1,0 +1,4550 @@
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Washington
+  nameFirst: Vernon
+  nameClub1: St. Paul
+  bats: L
+  G: '34'
+  AB: '129'
+  R: '22'
+  H: '55'
+  H2B: '8'
+  H3B: '1'
+  HR: '3'
+  TB: '74'
+  SH: '0'
+  SB: '2'
+  BB: '9'
+  HP: '2'
+  RBI: '23'
+  SO: '6'
+  AVG: '.426'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gonzales
+  nameFirst: Joseph M.
+  nameClub1: Milwaukee
+  bats: R
+  G: '11'
+  AB: '26'
+  R: '4'
+  H: '11'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '15'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  AVG: '.423'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Williams
+  nameFirst: Theodore
+  nameClub1: Minneapolis
+  bats: L
+  G: '148'
+  AB: '528'
+  R: '130'
+  H: '193'
+  H2B: '30'
+  H3B: '9'
+  HR: '43'
+  TB: '370'
+  SH: '1'
+  SB: '6'
+  BB: '114'
+  HP: '4'
+  RBI: '142'
+  SO: '75'
+  AVG: '.366'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Morgan
+  nameFirst: Chester C.
+  nameClub1: Toledo
+  bats: L
+  G: '71'
+  AB: '283'
+  R: '46'
+  H: '101'
+  H2B: '12'
+  H3B: '7'
+  HR: '0'
+  TB: '127'
+  SH: '5'
+  SB: '11'
+  BB: '24'
+  HP: '2'
+  RBI: '52'
+  SO: '10'
+  AVG: '.357'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gallagher
+  nameFirst: Joseph E.
+  nameClub1: Kansas City
+  bats: R
+  G: '152'
+  AB: '583'
+  R: '95'
+  H: '200'
+  H2B: '35'
+  H3B: '4'
+  HR: '24'
+  TB: '315'
+  SH: '6'
+  SB: '23'
+  BB: '27'
+  HP: '4'
+  RBI: '119'
+  SO: '77'
+  AVG: '.343'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Denning
+  nameFirst: Otto
+  nameClub1: Minneapolis
+  bats: R
+  G: '81'
+  AB: '228'
+  R: '34'
+  H: '78'
+  H2B: '18'
+  H3B: '4'
+  HR: '9'
+  TB: '131'
+  SH: '0'
+  SB: '1'
+  BB: '15'
+  HP: '1'
+  RBI: '42'
+  SO: '14'
+  AVG: '.342'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Fausett
+  nameFirst: Robert S.
+  nameClub1: Indianapolis
+  bats: L
+  G: '139'
+  AB: '502'
+  R: '89'
+  H: '170'
+  H2B: '27'
+  H3B: '11'
+  HR: '3'
+  TB: '228'
+  SH: '11'
+  SB: '28'
+  BB: '45'
+  HP: '1'
+  RBI: '40'
+  SO: '19'
+  AVG: '.339'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Taylor
+  nameFirst: Dan
+  nameClub1: 42@Minneapolis
+  nameClub2: 49@Columbus
+  nameClub3: 34@Indianapolis
+  bats: R
+  G: '125'
+  AB: '412'
+  R: '65'
+  H: '137'
+  H2B: '25'
+  H3B: '7'
+  HR: '2'
+  TB: '182'
+  SH: '9'
+  SB: '9'
+  BB: '52'
+  HP: '3'
+  RBI: '58'
+  SO: '33'
+  AVG: '.333'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Coleman
+  nameFirst: P. Edward
+  nameClub1: Toledo
+  bats: L
+  G: '119'
+  AB: '437'
+  R: '77'
+  H: '145'
+  H2B: '27'
+  H3B: '8'
+  HR: '15'
+  TB: '233'
+  SH: '2'
+  SB: '3'
+  BB: '54'
+  HP: '2'
+  RBI: '89'
+  SO: '43'
+  AVG: '.332'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Mesner
+  nameFirst: Stephen P.
+  nameClub1: Indianapolis
+  bats: R
+  G: '127'
+  AB: '441'
+  R: '79'
+  H: '146'
+  H2B: '37'
+  H3B: '9'
+  HR: '7'
+  TB: '222'
+  SH: '3'
+  SB: '2'
+  BB: '47'
+  HP: '2'
+  RBI: '91'
+  SO: '32'
+  AVG: '.331'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Tabor
+  nameFirst: James R.
+  nameClub1: Minneapolis
+  bats: R
+  G: '103'
+  AB: '437'
+  R: '76'
+  H: '144'
+  H2B: '30'
+  H3B: '5'
+  HR: '13'
+  TB: '223'
+  SH: '2'
+  SB: '7'
+  BB: '20'
+  HP: '0'
+  RBI: '72'
+  SO: '30'
+  AVG: '.330'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Bell
+  nameFirst: Fern L.
+  nameClub1: Louisville
+  bats: R
+  G: '129'
+  AB: '511'
+  R: '73'
+  H: '167'
+  H2B: '30'
+  H3B: '13'
+  HR: '9'
+  TB: '250'
+  SH: '1'
+  SB: '6'
+  BB: '29'
+  HP: '4'
+  RBI: '90'
+  SO: '62'
+  AVG: '.327'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Peel
+  nameFirst: Homer H.
+  nameClub1: Toledo
+  bats: R
+  G: '59'
+  AB: '162'
+  R: '31'
+  H: '53'
+  H2B: '9'
+  H3B: '2'
+  HR: '1'
+  TB: '69'
+  SH: '5'
+  SB: '0'
+  BB: '24'
+  HP: '0'
+  RBI: '21'
+  SO: '12'
+  AVG: '.327'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Bejma
+  nameFirst: Aloysius F.
+  nameClub1: St. Paul
+  bats: R
+  G: '145'
+  AB: '555'
+  R: '106'
+  H: '181'
+  H2B: '32'
+  H3B: '8'
+  HR: '25'
+  TB: '304'
+  SH: '6'
+  SB: '6'
+  BB: '60'
+  HP: '1'
+  RBI: '114'
+  SO: '57'
+  AVG: '.326'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Spence
+  nameFirst: Stanley O.
+  nameClub1: Minneapolis
+  bats: L
+  G: '136'
+  AB: '506'
+  R: '106'
+  H: '163'
+  H2B: '26'
+  H3B: '4'
+  HR: '19'
+  TB: '254'
+  SH: '6'
+  SB: '10'
+  BB: '57'
+  HP: '4'
+  RBI: '77'
+  SO: '28'
+  AVG: '.322'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Winegarner
+  nameFirst: Ralph L.
+  nameClub1: Milwaukee
+  bats: R
+  G: '62'
+  AB: '173'
+  R: '38'
+  H: '55'
+  H2B: '8'
+  H3B: '2'
+  HR: '12'
+  TB: '103'
+  SH: '2'
+  SB: '3'
+  BB: '7'
+  HP: '1'
+  RBI: '29'
+  SO: '29'
+  AVG: '.318'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Bucher
+  nameFirst: James Q.
+  nameClub1: Columbus
+  bats: L
+  G: '121'
+  AB: '501'
+  R: '86'
+  H: '159'
+  H2B: '37'
+  H3B: '5'
+  HR: '6'
+  TB: '224'
+  SH: '6'
+  SB: '11'
+  BB: '29'
+  HP: '3'
+  RBI: '64'
+  SO: '26'
+  AVG: '.317'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: King
+  nameFirst: Lynn
+  nameClub1: Columbus
+  bats: L
+  G: '153'
+  AB: '620'
+  R: '106'
+  H: '196'
+  H2B: '25'
+  H3B: '11'
+  HR: '3'
+  TB: '252'
+  SH: '8'
+  SB: '30'
+  BB: '79'
+  HP: '0'
+  RBI: '54'
+  SO: '45'
+  AVG: '.316'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Morgan
+  nameFirst: Edwin W.
+  nameClub1: Columbus
+  bats: L
+  G: '131'
+  AB: '438'
+  R: '75'
+  H: '138'
+  H2B: '29'
+  H3B: '10'
+  HR: '10'
+  TB: '217'
+  SH: '6'
+  SB: '20'
+  BB: '44'
+  HP: '0'
+  RBI: '69'
+  SO: '48'
+  AVG: '.315'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Linton
+  nameFirst: Claud C.
+  nameClub1: Toledo
+  bats: L
+  G: '97'
+  AB: '287'
+  R: '29'
+  H: '90'
+  H2B: '7'
+  H3B: '2'
+  HR: '3'
+  TB: '110'
+  SH: '2'
+  SB: '1'
+  BB: '56'
+  HP: '1'
+  RBI: '37'
+  SO: '24'
+  AVG: '.314'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gullic
+  nameFirst: Tedd J.
+  nameClub1: Milwaukee
+  bats: R
+  G: '135'
+  AB: '537'
+  R: '98'
+  H: '168'
+  H2B: '40'
+  H3B: '4'
+  HR: '28'
+  TB: '300'
+  SH: '13'
+  SB: '4'
+  BB: '31'
+  HP: '3'
+  RBI: '107'
+  SO: '71'
+  AVG: '.313'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Archie
+  nameFirst: George A.
+  nameClub1: Toledo
+  bats: R
+  G: '154'
+  AB: '602'
+  R: '97'
+  H: '188'
+  H2B: '33'
+  H3B: '10'
+  HR: '5'
+  TB: '256'
+  SH: '8'
+  SB: '28'
+  BB: '54'
+  HP: '7'
+  RBI: '109'
+  SO: '61'
+  AVG: '.312'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Washburn
+  nameFirst: George E.
+  nameClub1: Kansas City
+  bats: L
+  G: '42'
+  AB: '61'
+  R: '14'
+  H: '19'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '22'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '6'
+  SO: '9'
+  AVG: '.311'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: McCoy
+  nameFirst: Benjamin
+  nameClub1: Toledo
+  bats: L
+  G: '154'
+  AB: '615'
+  R: '105'
+  H: '190'
+  H2B: '27'
+  H3B: '16'
+  HR: '17'
+  TB: '300'
+  SH: '15'
+  SB: '15'
+  BB: '53'
+  HP: '4'
+  RBI: '98'
+  SO: '52'
+  AVG: '.309'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Cullenbine
+  nameFirst: Roy J.
+  nameClub1: Toledo
+  bats: S
+  G: '127'
+  AB: '479'
+  R: '115'
+  H: '148'
+  H2B: '34'
+  H3B: '11'
+  HR: '15'
+  TB: '249'
+  SH: '1'
+  SB: '17'
+  BB: '97'
+  HP: '3'
+  RBI: '89'
+  SO: '50'
+  AVG: '.309'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Chapman
+  nameFirst: Glenn J.
+  nameClub1: Indianapolis
+  bats: R
+  G: '149'
+  AB: '568'
+  R: '93'
+  H: '175'
+  H2B: '20'
+  H3B: '8'
+  HR: '8'
+  TB: '235'
+  SH: '9'
+  SB: '13'
+  BB: '42'
+  HP: '0'
+  RBI: '103'
+  SO: '52'
+  AVG: '.308'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Baker
+  nameFirst: William P.
+  nameClub1: Indianapolis
+  bats: R
+  G: '90'
+  AB: '280'
+  R: '40'
+  H: '86'
+  H2B: '18'
+  H3B: '3'
+  HR: '7'
+  TB: '131'
+  SH: '1'
+  SB: '2'
+  BB: '33'
+  HP: '6'
+  RBI: '38'
+  SO: '24'
+  AVG: '.307'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Grimes
+  nameFirst: Oscar R., Jr.
+  nameClub1: Milwaukee
+  bats: R
+  G: '143'
+  AB: '503'
+  R: '107'
+  H: '154'
+  H2B: '28'
+  H3B: '9'
+  HR: '12'
+  TB: '236'
+  SH: '14'
+  SB: '17'
+  BB: '81'
+  HP: '6'
+  RBI: '81'
+  SO: '72'
+  AVG: '.306'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Becker
+  nameFirst: Joseph E.
+  nameClub1: Milwaukee
+  bats: R
+  G: '79'
+  AB: '265'
+  R: '37'
+  H: '81'
+  H2B: '15'
+  H3B: '1'
+  HR: '4'
+  TB: '110'
+  SH: '1'
+  SB: '2'
+  BB: '28'
+  HP: '3'
+  RBI: '25'
+  SO: '12'
+  AVG: '.306'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Browne
+  nameFirst: J. W. Earle
+  nameClub1: Columbus
+  bats: L
+  G: '125'
+  AB: '469'
+  R: '79'
+  H: '143'
+  H2B: '23'
+  H3B: '6'
+  HR: '17'
+  TB: '229'
+  SH: '5'
+  SB: '7'
+  BB: '49'
+  HP: '5'
+  RBI: '98'
+  SO: '46'
+  AVG: '.305'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Poffenberger
+  nameFirst: Cletus E.
+  nameClub1: Toledo
+  bats: R
+  G: '15'
+  AB: '33'
+  R: '7'
+  H: '10'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '13'
+  SH: '2'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '3'
+  SO: '3'
+  AVG: '.303'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gay
+  nameFirst: Fred L.
+  nameClub1: Kansas City
+  bats: L
+  G: '37'
+  AB: '33'
+  R: '3'
+  H: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '2'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '12'
+  AVG: '.303'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: McCulloch
+  nameFirst: Malin G,
+  nameClub1: St. Paul
+  bats: L
+  G: '144'
+  AB: '499'
+  R: '90'
+  H: '150'
+  H2B: '41'
+  H3B: '14'
+  HR: '5'
+  TB: '234'
+  SH: '5'
+  SB: '9'
+  BB: '77'
+  HP: '5'
+  RBI: '83'
+  SO: '65'
+  AVG: '.301'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Johnson
+  nameFirst: Roy C.
+  nameClub1: Milwaukee
+  bats: L
+  G: '128'
+  AB: '491'
+  R: '86'
+  H: '148'
+  H2B: '29'
+  H3B: '6'
+  HR: '7'
+  TB: '210'
+  SH: '4'
+  SB: '14'
+  BB: '69'
+  HP: '2'
+  RBI: '86'
+  SO: '41'
+  AVG: '.301'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Sturm
+  nameFirst: John P.
+  nameClub1: Louisville
+  bats: L
+  G: '155'
+  AB: '600'
+  R: '69'
+  H: '180'
+  H2B: '31'
+  H3B: '4'
+  HR: '0'
+  TB: '219'
+  SH: '17'
+  SB: '10'
+  BB: '26'
+  HP: '1'
+  RBI: '70'
+  SO: '34'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Ogorek
+  nameFirst: Leo C.
+  nameClub1: Louisville
+  bats: S
+  G: '146'
+  AB: '566'
+  R: '79'
+  H: '170'
+  H2B: '18'
+  H3B: '8'
+  HR: '6'
+  TB: '222'
+  SH: '11'
+  SB: '14'
+  BB: '47'
+  HP: '0'
+  RBI: '55'
+  SO: '34'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Schulte
+  nameFirst: Fred W.
+  nameClub1: Milwaukee
+  bats: R
+  G: '124'
+  AB: '454'
+  R: '56'
+  H: '136'
+  H2B: '20'
+  H3B: '3'
+  HR: '9'
+  TB: '189'
+  SH: '6'
+  SB: '2'
+  BB: '38'
+  HP: '3'
+  RBI: '70'
+  SO: '3'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Galatzer
+  nameFirst: Milton
+  nameClub1: Indianapolis
+  bats: L
+  G: '96'
+  AB: '333'
+  R: '60'
+  H: '100'
+  H2B: '16'
+  H3B: '8'
+  HR: '0'
+  TB: '132'
+  SH: '7'
+  SB: '4'
+  BB: '41'
+  HP: '4'
+  RBI: '54'
+  SO: '15'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Phillips
+  nameFirst: Clarence L.
+  nameClub1: Indianapolis
+  bats: R
+  G: '10'
+  AB: '10'
+  R: '1'
+  H: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '0'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Davis
+  nameFirst: Harry A.
+  nameClub1: Kansas City
+  bats: L
+  G: '147'
+  AB: '602'
+  R: '107'
+  H: '180'
+  H2B: '31'
+  H3B: '7'
+  HR: '10'
+  TB: '255'
+  SH: '7'
+  SB: '25'
+  BB: '63'
+  HP: '0'
+  RBI: '64'
+  SO: '51'
+  AVG: '.299'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Governor
+  nameFirst: Anthony
+  nameClub1: Louisville
+  bats: L
+  G: '25'
+  AB: '77'
+  R: '7'
+  H: '23'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  TB: '28'
+  SH: '0'
+  SB: '2'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '6'
+  AVG: '.299'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Wilburn
+  nameFirst: Chester F.
+  nameClub1: Toledo
+  bats: R
+  G: '154'
+  AB: '658'
+  R: '110'
+  H: '196'
+  H2B: '31'
+  H3B: '6'
+  HR: '2'
+  TB: '245'
+  SH: '11'
+  SB: '6'
+  BB: '71'
+  HP: '1'
+  RBI: '63'
+  SO: '46'
+  AVG: '.298'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Landrum
+  nameFirst: Jesse G.
+  nameClub1: St. Paul
+  bats: R
+  G: '41'
+  AB: '131'
+  R: '22'
+  H: '39'
+  H2B: '11'
+  H3B: '2'
+  HR: '5'
+  TB: '69'
+  SH: '2'
+  SB: '2'
+  BB: '7'
+  HP: '1'
+  RBI: '17'
+  SO: '24'
+  AVG: '.298'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Boken
+  nameFirst: Robert
+  nameClub1: St. Paul
+  bats: R
+  G: '128'
+  AB: '465'
+  R: '87'
+  H: '138'
+  H2B: '19'
+  H3B: '4'
+  HR: '21'
+  TB: '228'
+  SH: '4'
+  SB: '8'
+  BB: '35'
+  HP: '1'
+  RBI: '75'
+  SO: '53'
+  AVG: '.297'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Irwin
+  nameFirst: Thomas A.
+  nameClub1: Milwaukee
+  bats: R
+  G: '125'
+  AB: '476'
+  R: '72'
+  H: '141'
+  H2B: '23'
+  H3B: '4'
+  HR: '8'
+  TB: '196'
+  SH: '8'
+  SB: '12'
+  BB: '35'
+  HP: '0'
+  RBI: '68'
+  SO: '22'
+  AVG: '.296'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Heath
+  nameFirst: Minor W.
+  nameClub1: Milwaukee
+  bats: L
+  G: '141'
+  AB: '514'
+  R: '117'
+  H: '151'
+  H2B: '21'
+  H3B: '4'
+  HR: '32'
+  TB: '276'
+  SH: '13'
+  SB: '13'
+  BB: '109'
+  HP: '5'
+  RBI: '81'
+  SO: '56'
+  AVG: '.294'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Laabs
+  nameFirst: Chester P.
+  nameClub1: Toledo
+  bats: R
+  G: '73'
+  AB: '290'
+  R: '61'
+  H: '85'
+  H2B: '16'
+  H3B: '6'
+  HR: '11'
+  TB: '146'
+  SH: '3'
+  SB: '6'
+  BB: '29'
+  HP: '2'
+  RBI: '54'
+  SO: '69'
+  AVG: '.293'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Mihalic
+  nameFirst: John, Jr.
+  nameClub1: Minneapolis
+  bats: R
+  G: '78'
+  AB: '239'
+  R: '45'
+  H: '70'
+  H2B: '10'
+  H3B: '0'
+  HR: '3'
+  TB: '89'
+  SH: '4'
+  SB: '1'
+  BB: '37'
+  HP: '1'
+  RBI: '18'
+  SO: '27'
+  AVG: '.293'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gaffke
+  nameFirst: Fabian S.
+  nameClub1: Minneapolis
+  bats: R
+  G: '42'
+  AB: '167'
+  R: '29'
+  H: '49'
+  H2B: '13'
+  H3B: '1'
+  HR: '3'
+  TB: '73'
+  SH: '2'
+  SB: '3'
+  BB: '6'
+  HP: '0'
+  RBI: '24'
+  SO: '20'
+  AVG: '.293'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Berger
+  nameFirst: Fred
+  nameClub1: St. Paul
+  bats: R
+  G: '102'
+  AB: '319'
+  R: '49'
+  H: '93'
+  H2B: '14'
+  H3B: '2'
+  HR: '10'
+  TB: '141'
+  SH: '4'
+  SB: '8'
+  BB: '31'
+  HP: '0'
+  RBI: '57'
+  SO: '47'
+  AVG: '.292'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Miller
+  nameFirst: Edward R.
+  nameClub1: Kansas City
+  bats: R
+  G: '147'
+  AB: '531'
+  R: '70'
+  H: '154'
+  H2B: '33'
+  H3B: '11'
+  HR: '14'
+  TB: '251'
+  SH: '6'
+  SB: '13'
+  BB: '39'
+  HP: '1'
+  RBI: '80'
+  SO: '30'
+  AVG: '.290'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Anton
+  nameFirst: LeRoy F.
+  nameClub1: St. Paul
+  bats: R
+  G: '138'
+  AB: '493'
+  R: '83'
+  H: '143'
+  H2B: '27'
+  H3B: '4'
+  HR: '14'
+  TB: '220'
+  SH: '16'
+  SB: '14'
+  BB: '39'
+  HP: '4'
+  RBI: '64'
+  SO: '38'
+  AVG: '.290'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Vance
+  nameFirst: Joseph A.
+  nameClub1: Kansas City
+  bats: R
+  G: '18'
+  AB: '31'
+  R: '5'
+  H: '9'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  TB: '15'
+  SH: '2'
+  SB: '3'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '7'
+  AVG: '.290'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Joost
+  nameFirst: Edwin R.
+  nameClub1: Kansas City
+  bats: R
+  G: '145'
+  AB: '578'
+  R: '96'
+  H: '167'
+  H2B: '33'
+  H3B: '6'
+  HR: '5'
+  TB: '227'
+  SH: '12'
+  SB: '23'
+  BB: '56'
+  HP: '4'
+  RBI: '70'
+  SO: '44'
+  AVG: '.289'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Matheson
+  nameFirst: William F.
+  nameClub1: Kansas City
+  bats: R
+  G: '107'
+  AB: '318'
+  R: '49'
+  H: '92'
+  H2B: '19'
+  H3B: '6'
+  HR: '1'
+  TB: '126'
+  SH: '6'
+  SB: '13'
+  BB: '10'
+  HP: '0'
+  RBI: '41'
+  SO: '38'
+  AVG: '.289'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hartje
+  nameFirst: Christian
+  nameClub1: Kansas City
+  bats: R
+  G: '44'
+  AB: '128'
+  R: '23'
+  H: '37'
+  H2B: '5'
+  H3B: '2'
+  HR: '2'
+  TB: '52'
+  SH: '0'
+  SB: '3'
+  BB: '10'
+  HP: '2'
+  RBI: '17'
+  SO: '10'
+  AVG: '.289'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Triplett
+  nameFirst: H. Coaker
+  nameClub1: Minneapolis
+  bats: R
+  G: '105'
+  AB: '366'
+  R: '70'
+  H: '105'
+  H2B: '16'
+  H3B: '7'
+  HR: '10'
+  TB: '165'
+  SH: '5'
+  SB: '5'
+  BB: '32'
+  HP: '0'
+  RBI: '54'
+  SO: '26'
+  AVG: '.287'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Wasdell
+  nameFirst: James C.
+  nameClub1: Indianapolis
+  bats: L
+  G: '36'
+  AB: '119'
+  R: '19'
+  H: '34'
+  H2B: '9'
+  H3B: '3'
+  HR: '1'
+  TB: '52'
+  SH: '0'
+  SB: '2'
+  BB: '19'
+  HP: '1'
+  RBI: '18'
+  SO: '22'
+  AVG: '.286'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Turbeville
+  nameFirst: George E.
+  nameClub1: Columbus
+  bats: R
+  G: '17'
+  AB: '21'
+  R: '3'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '0'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '2'
+  AVG: '.286'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gelbert
+  nameFirst: Charles M.
+  nameClub1: Toledo
+  bats: R
+  G: '143'
+  AB: '490'
+  R: '99'
+  H: '139'
+  H2B: '30'
+  H3B: '11'
+  HR: '8'
+  TB: '215'
+  SH: '5'
+  SB: '7'
+  BB: '87'
+  HP: '5'
+  RBI: '91'
+  SO: '43'
+  AVG: '.284'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Holbrook
+  nameFirst: James M.
+  nameClub1: Louisville
+  bats: R
+  G: '18'
+  AB: '46'
+  R: '4'
+  H: '13'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '16'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  AVG: '.283'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Kelleher
+  nameFirst: Harold J.
+  nameClub1: Columbus
+  bats: R
+  G: '26'
+  AB: '46'
+  R: '10'
+  H: '13'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  TB: '19'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '6'
+  SO: '9'
+  AVG: '.283'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: LeFebvre
+  nameFirst: Wilfred H.
+  nameClub1: Minneapolis
+  bats: L
+  G: '27'
+  AB: '57'
+  R: '8'
+  H: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  TB: '21'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '12'
+  AVG: '.281'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Boyle
+  nameFirst: Ralph F.
+  nameClub1: Kansas City
+  bats: L
+  G: '120'
+  AB: '353'
+  R: '43'
+  H: '99'
+  H2B: '11'
+  H3B: '6'
+  HR: '5'
+  TB: '137'
+  SH: '5'
+  SB: '7'
+  BB: '46'
+  HP: '0'
+  RBI: '47'
+  SO: '19'
+  AVG: '.280'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Madura
+  nameFirst: Frank J.
+  nameClub1: Louisville
+  bats: L
+  G: '153'
+  AB: '557'
+  R: '83'
+  H: '155'
+  H2B: '18'
+  H3B: '2'
+  HR: '1'
+  TB: '180'
+  SH: '8'
+  SB: '12'
+  BB: '110'
+  HP: '2'
+  RBI: '46'
+  SO: '18'
+  AVG: '.278'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Lewis
+  nameFirst: William H.
+  nameClub1: Indianapolis
+  bats: R
+  G: '92'
+  AB: '255'
+  R: '31'
+  H: '71'
+  H2B: '14'
+  H3B: '2'
+  HR: '1'
+  TB: '92'
+  SH: '7'
+  SB: '5'
+  BB: '44'
+  HP: '2'
+  RBI: '42'
+  SO: '13'
+  AVG: '.278'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Schultz
+  nameFirst: Joseph C.
+  nameClub1: Columbus
+  bats: L
+  G: '57'
+  AB: '176'
+  R: '15'
+  H: '49'
+  H2B: '8'
+  H3B: '0'
+  HR: '1'
+  TB: '60'
+  SH: '2'
+  SB: '2'
+  BB: '18'
+  HP: '0'
+  RBI: '19'
+  SO: '7'
+  AVG: '.278'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Stumpf
+  nameFirst: George F.
+  nameClub1: St. Paul
+  bats: L
+  G: '151'
+  AB: '582'
+  R: '104'
+  H: '161'
+  H2B: '25'
+  H3B: '10'
+  HR: '9'
+  TB: '233'
+  SH: '7'
+  SB: '9'
+  BB: '73'
+  HP: '4'
+  RBI: '51'
+  SO: '43'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Sherlock
+  nameFirst: Vincent T.
+  nameClub1: Indianapolis
+  bats: R
+  G: '138'
+  AB: '527'
+  R: '74'
+  H: '146'
+  H2B: '24'
+  H3B: '5'
+  HR: '5'
+  TB: '195'
+  SH: '14'
+  SB: '9'
+  BB: '51'
+  HP: '2'
+  RBI: '56'
+  SO: '69'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Reese
+  nameFirst: Harold H.
+  nameClub1: Louisville
+  bats: R
+  G: '138'
+  AB: '483'
+  R: '68'
+  H: '134'
+  H2B: '21'
+  H3B: '8'
+  HR: '3'
+  TB: '180'
+  SH: '4'
+  SB: '23'
+  BB: '36'
+  HP: '0'
+  RBI: '54'
+  SO: '57'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Saltzgaver
+  nameFirst: Otto (Jack)
+  nameClub1: Kansas City
+  bats: L
+  G: '129'
+  AB: '440'
+  R: '81'
+  H: '122'
+  H2B: '20'
+  H3B: '11'
+  HR: '8'
+  TB: '188'
+  SH: '12'
+  SB: '12'
+  BB: '71'
+  HP: '2'
+  RBI: '69'
+  SO: '28'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hasson
+  nameFirst: Charles Eugene
+  nameClub1: Columbus
+  bats: L
+  G: '123'
+  AB: '414'
+  R: '71'
+  H: '114'
+  H2B: '23'
+  H3B: '4'
+  HR: '19'
+  TB: '202'
+  SH: '3'
+  SB: '0'
+  BB: '60'
+  HP: '5'
+  RBI: '97'
+  SO: '57'
+  AVG: '.275'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Henry
+  nameFirst: James F.
+  nameClub1: Minneapolis
+  bats: R
+  G: '32'
+  AB: '51'
+  R: '9'
+  H: '14'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '19'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '7'
+  SO: '12'
+  AVG: '.275'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Judnich
+  nameFirst: Walter F.
+  nameClub1: Kansas City
+  bats: L
+  G: '150'
+  AB: '557'
+  R: '94'
+  H: '152'
+  H2B: '34'
+  H3B: '10'
+  HR: '22'
+  TB: '272'
+  SH: '4'
+  SB: '8'
+  BB: '61'
+  HP: '1'
+  RBI: '104'
+  SO: '47'
+  AVG: '.273'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Simons
+  nameFirst: Melbern E.
+  nameClub1: Louisville
+  bats: L
+  G: '144'
+  AB: '511'
+  R: '54'
+  H: '139'
+  H2B: '17'
+  H3B: '4'
+  HR: '0'
+  TB: '164'
+  SH: '10'
+  SB: '2'
+  BB: '30'
+  HP: '1'
+  RBI: '49'
+  SO: '14'
+  AVG: '.272'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Latshaw
+  nameFirst: Robert E.
+  nameClub1: Indianapolis
+  bats: L
+  G: '135'
+  AB: '482'
+  R: '65'
+  H: '131'
+  H2B: '38'
+  H3B: '6'
+  HR: '11'
+  TB: '214'
+  SH: '6'
+  SB: '6'
+  BB: '56'
+  HP: '2'
+  RBI: '76'
+  SO: '101'
+  AVG: '.272'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Silvestri
+  nameFirst: Kenneth J.
+  nameClub1: St. Paul
+  bats: S
+  G: '114'
+  AB: '371'
+  R: '54'
+  H: '101'
+  H2B: '22'
+  H3B: '8'
+  HR: '11'
+  TB: '172'
+  SH: '2'
+  SB: '11'
+  BB: '40'
+  HP: '4'
+  RBI: '69'
+  SO: '39'
+  AVG: '.272'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Galvin
+  nameFirst: James J.
+  nameClub1: Minneapolis
+  bats: R
+  G: '41'
+  AB: '129'
+  R: '16'
+  H: '35'
+  H2B: '10'
+  H3B: '0'
+  HR: '2'
+  TB: '51'
+  SH: '0'
+  SB: '2'
+  BB: '15'
+  HP: '0'
+  RBI: '11'
+  SO: '13'
+  AVG: '.271'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Ankenman
+  nameFirst: Fred N.
+  nameClub1: Columbus
+  bats: R
+  G: '137'
+  AB: '452'
+  R: '67'
+  H: '122'
+  H2B: '15'
+  H3B: '5'
+  HR: '2'
+  TB: '153'
+  SH: '6'
+  SB: '12'
+  BB: '52'
+  HP: '3'
+  RBI: '49'
+  SO: '29'
+  AVG: '.270'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Cohen
+  nameFirst: Albert H.
+  nameClub1: Minneapolis
+  bats: L
+  G: '34'
+  AB: '41'
+  R: '2'
+  H: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '14'
+  SH: '0'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '5'
+  SO: '9'
+  AVG: '.268'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Storti
+  nameFirst: Lindel
+  nameClub1: Milwaukee
+  bats: S
+  G: '112'
+  AB: '362'
+  R: '59'
+  H: '96'
+  H2B: '9'
+  H3B: '2'
+  HR: '21'
+  TB: '172'
+  SH: '3'
+  SB: '5'
+  BB: '57'
+  HP: '3'
+  RBI: '79'
+  SO: '54'
+  AVG: '.265'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Garibaldi
+  nameFirst: Arthur
+  nameClub1: Columbus
+  bats: R
+  G: '149'
+  AB: '549'
+  R: '75'
+  H: '145'
+  H2B: '27'
+  H3B: '4'
+  HR: '3'
+  TB: '189'
+  SH: '11'
+  SB: '20'
+  BB: '59'
+  HP: '1'
+  RBI: '72'
+  SO: '50'
+  AVG: '.264'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Koster
+  nameFirst: Fred C.
+  nameClub1: Louisville
+  bats: L
+  G: '149'
+  AB: '529'
+  R: '84'
+  H: '139'
+  H2B: '30'
+  H3B: '9'
+  HR: '3'
+  TB: '196'
+  SH: '7'
+  SB: '7'
+  BB: '43'
+  HP: '4'
+  RBI: '60'
+  SO: '50'
+  AVG: '.263'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Madjeski
+  nameFirst: Edward W.
+  nameClub1: Louisville
+  bats: R
+  G: '92'
+  AB: '270'
+  R: '27'
+  H: '71'
+  H2B: '8'
+  H3B: '2'
+  HR: '3'
+  TB: '92'
+  SH: '1'
+  SB: '5'
+  BB: '8'
+  HP: '2'
+  RBI: '45'
+  SO: '12'
+  AVG: '.263'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Lisenbee
+  nameFirst: Horace M.
+  nameClub1: Indianapolis
+  bats: R
+  G: '25'
+  AB: '19'
+  R: '0'
+  H: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.263'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Tauscher
+  nameFirst: Walter E.
+  nameClub1: Minneapolis
+  bats: R
+  G: '48'
+  AB: '65'
+  R: '4'
+  H: '17'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '20'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '6'
+  SO: '20'
+  AVG: '.262'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Just (Juszczak)
+  nameFirst: Joseph
+  nameClub1: Milwaukee
+  bats: R
+  G: '74'
+  AB: '199'
+  R: '35'
+  H: '52'
+  H2B: '10'
+  H3B: '0'
+  HR: '12'
+  TB: '98'
+  SH: '1'
+  SB: '2'
+  BB: '39'
+  HP: '0'
+  RBI: '38'
+  SO: '44'
+  AVG: '.261'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Taylor
+  nameFirst: Harry W.
+  nameClub1: Minneapolis
+  bats: L
+  G: '145'
+  AB: '523'
+  R: '79'
+  H: '136'
+  H2B: '28'
+  H3B: '5'
+  HR: '13'
+  TB: '213'
+  SH: '9'
+  SB: '3'
+  BB: '51'
+  HP: '1'
+  RBI: '60'
+  SO: '39'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hankins
+  nameFirst: William W.
+  nameClub1: Milwaukee
+  bats: L
+  G: '92'
+  AB: '338'
+  R: '40'
+  H: '88'
+  H2B: '11'
+  H3B: '3'
+  HR: '5'
+  TB: '120'
+  SH: '3'
+  SB: '1'
+  BB: '12'
+  HP: '3'
+  RBI: '37'
+  SO: '22'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Ringhofer
+  nameFirst: Walter W.
+  nameClub1: Louisville
+  bats: S
+  G: '112'
+  AB: '277'
+  R: '29'
+  H: '72'
+  H2B: '14'
+  H3B: '4'
+  HR: '0'
+  TB: '94'
+  SH: '2'
+  SB: '1'
+  BB: '33'
+  HP: '0'
+  RBI: '24'
+  SO: '18'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Pilney
+  nameFirst: Andrew J.
+  nameClub1: Indianapolis
+  bats: R
+  G: '81'
+  AB: '265'
+  R: '35'
+  H: '69'
+  H2B: '8'
+  H3B: '3'
+  HR: '0'
+  TB: '83'
+  SH: '3'
+  SB: '5'
+  BB: '22'
+  HP: '0'
+  RBI: '21'
+  SO: '29'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Connors
+  nameFirst: Mervyn J.
+  nameClub1: St. Paul
+  bats: R
+  G: '20'
+  AB: '70'
+  R: '11'
+  H: '18'
+  H2B: '3'
+  H3B: '0'
+  HR: '3'
+  TB: '30'
+  SH: '0'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  RBI: '10'
+  SO: '13'
+  AVG: '.257'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Cohen
+  nameFirst: Andrew H.
+  nameClub1: Minneapolis
+  bats: R
+  G: '145'
+  AB: '597'
+  R: '66'
+  H: '150'
+  H2B: '24'
+  H3B: '4'
+  HR: '4'
+  TB: '194'
+  SH: '11'
+  SB: '4'
+  BB: '11'
+  HP: '2'
+  RBI: '55'
+  SO: '37'
+  AVG: '.251'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: McCormick
+  nameFirst: Myron W.
+  nameClub1: Indianapolis
+  bats: R
+  G: '99'
+  AB: '344'
+  R: '49'
+  H: '86'
+  H2B: '10'
+  H3B: '3'
+  HR: '1'
+  TB: '105'
+  SH: '12'
+  SB: '16'
+  BB: '28'
+  HP: '2'
+  RBI: '33'
+  SO: '53'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: McCullough
+  nameFirst: Clyde E.
+  nameClub1: Kansas City
+  bats: R
+  G: '46'
+  AB: '132'
+  R: '20'
+  H: '33'
+  H2B: '2'
+  H3B: '2'
+  HR: '3'
+  TB: '48'
+  SH: '3'
+  SB: '5'
+  BB: '13'
+  HP: '1'
+  RBI: '12'
+  SO: '17'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Flowers
+  nameFirst: Charles W.
+  nameClub1: 15@Indianapolis
+  nameClub2: 20@Louisville
+  bats: L
+  G: '35'
+  AB: '60'
+  R: '2'
+  H: '15'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '18'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '5'
+  SO: '19'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Riddle
+  nameFirst: John L.
+  nameClub1: Kansas City
+  bats: R
+  G: '20'
+  AB: '52'
+  R: '9'
+  H: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '0'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '2'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Ogrodowski
+  nameFirst: Ambrose
+  nameClub1: Kansas City
+  bats: R
+  G: '16'
+  AB: '44'
+  R: '2'
+  H: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '3'
+  SO: '3'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Duke
+  nameFirst: Willie E.
+  nameClub1: Minneapolis
+  bats: L
+  G: '15'
+  AB: '28'
+  R: '6'
+  H: '7'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  TB: '13'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '2'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Taylor
+  nameFirst: Harry
+  nameClub1: St. Paul
+  bats: R
+  G: '14'
+  AB: '16'
+  R: '2'
+  H: '4'
+  H2B: '0'
+  H3B: '2'
+  HR: '0'
+  TB: '8'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '2'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Corbett
+  nameFirst: Stanley R.
+  nameClub1: Toledo
+  bats: R
+  G: '14'
+  AB: '4'
+  R: '1'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '0'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Pfleger
+  nameFirst: Roy R.
+  nameClub1: Minneapolis
+  bats: L
+  G: '135'
+  AB: '484'
+  R: '66'
+  H: '120'
+  H2B: '13'
+  H3B: '2'
+  HR: '20'
+  TB: '197'
+  SH: '4'
+  SB: '5'
+  BB: '43'
+  HP: '3'
+  RBI: '89'
+  SO: '44'
+  AVG: '.248'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Stein
+  nameFirst: Justin M.
+  nameClub1: Columbus
+  bats: R
+  G: '20'
+  AB: '73'
+  R: '2'
+  H: '18'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '23'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '7'
+  AVG: '.247'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Ryba
+  nameFirst: Dominic J.
+  nameClub1: Columbus
+  bats: R
+  G: '72'
+  AB: '207'
+  R: '15'
+  H: '51'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  TB: '58'
+  SH: '4'
+  SB: '1'
+  BB: '17'
+  HP: '0'
+  RBI: '25'
+  SO: '14'
+  AVG: '.246'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Pofahl
+  nameFirst: James W.
+  nameClub1: Indianapolis
+  bats: R
+  G: '88'
+  AB: '299'
+  R: '45'
+  H: '73'
+  H2B: '12'
+  H3B: '3'
+  HR: '5'
+  TB: '106'
+  SH: '6'
+  SB: '5'
+  BB: '41'
+  HP: '2'
+  RBI: '31'
+  SO: '58'
+  AVG: '.244'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: York
+  nameFirst: Anthony B.
+  nameClub1: St. Paul
+  bats: R
+  G: '145'
+  AB: '597'
+  R: '77'
+  H: '144'
+  H2B: '26'
+  H3B: '7'
+  HR: '12'
+  TB: '220'
+  SH: '10'
+  SB: '9'
+  BB: '20'
+  HP: '2'
+  RBI: '58'
+  SO: '86'
+  AVG: '.241'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Selway
+  nameFirst: Edward B.
+  nameClub1: Toledo
+  bats: R
+  G: '15'
+  AB: '29'
+  R: '1'
+  H: '7'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '6'
+  SO: '7'
+  AVG: '.241'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hancken
+  nameFirst: Morris M.
+  nameClub1: Toledo
+  bats: R
+  G: '47'
+  AB: '125'
+  R: '12'
+  H: '30'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '34'
+  SH: '1'
+  SB: '0'
+  BB: '13'
+  HP: '2'
+  RBI: '18'
+  SO: '13'
+  AVG: '.240'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Breese
+  nameFirst: Eldon L.
+  nameClub1: Kansas City
+  bats: R
+  G: '53'
+  AB: '151'
+  R: '21'
+  H: '36'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  TB: '44'
+  SH: '3'
+  SB: '7'
+  BB: '17'
+  HP: '1'
+  RBI: '13'
+  SO: '9'
+  AVG: '.238'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Miller
+  nameFirst: Kenneth L.
+  nameClub1: Columbus
+  bats: R
+  G: '34'
+  AB: '80'
+  R: '6'
+  H: '19'
+  H2B: '3'
+  H3B: '1'
+  HR: '3'
+  TB: '33'
+  SH: '0'
+  SB: '3'
+  BB: '7'
+  HP: '0'
+  RBI: '12'
+  SO: '12'
+  AVG: '.238'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Reis
+  nameFirst: Thomas E.
+  nameClub1: Milwaukee
+  bats: R
+  G: '17'
+  AB: '21'
+  R: '3'
+  H: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  TB: '8'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '5'
+  AVG: '.238'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Wyatt
+  nameFirst: J. Whitlow
+  nameClub1: Milwaukee
+  bats: R
+  G: '36'
+  AB: '106'
+  R: '10'
+  H: '25'
+  H2B: '5'
+  H3B: '1'
+  HR: '2'
+  TB: '38'
+  SH: '5'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '14'
+  SO: '22'
+  AVG: '.236'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Grilk
+  nameFirst: James M.
+  nameClub1: Columbus
+  bats: R
+  G: '50'
+  AB: '137'
+  R: '14'
+  H: '32'
+  H2B: '4'
+  H3B: '5'
+  HR: '2'
+  TB: '52'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '16'
+  SO: '20'
+  AVG: '.234'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Meadows
+  nameFirst: Rufus L.
+  nameClub1: Louisville
+  bats: L
+  G: '41'
+  AB: '77'
+  R: '8'
+  H: '18'
+  H2B: '2'
+  H3B: '2'
+  HR: '1'
+  TB: '27'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '5'
+  SO: '17'
+  AVG: '.234'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Grace
+  nameFirst: R. Earl
+  nameClub1: 43@Columbus
+  nameClub2: 74@Minneapolis
+  bats: L
+  G: '117'
+  AB: '356'
+  R: '38'
+  H: '83'
+  H2B: '13'
+  H3B: '1'
+  HR: '11'
+  TB: '131'
+  SH: '3'
+  SB: '1'
+  BB: '46'
+  HP: '4'
+  RBI: '50'
+  SO: '37'
+  AVG: '.233'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Camelli
+  nameFirst: Henry R.
+  nameClub1: Minneapolis
+  bats: R
+  G: '10'
+  AB: '26'
+  R: '2'
+  H: '6'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  TB: '11'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '3'
+  SO: '4'
+  AVG: '.231'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Logan
+  nameFirst: Robert D.
+  nameClub1: Indianapolis
+  bats: R
+  G: '15'
+  AB: '26'
+  R: '6'
+  H: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '3'
+  AVG: '.231'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Eckhardt
+  nameFirst: Oscar G.
+  nameClub1: Toledo
+  bats: L
+  G: '55'
+  AB: '201'
+  R: '29'
+  H: '46'
+  H2B: '9'
+  H3B: '3'
+  HR: '2'
+  TB: '67'
+  SH: '1'
+  SB: '3'
+  BB: '15'
+  HP: '0'
+  RBI: '29'
+  SO: '18'
+  AVG: '.229'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Johnson
+  nameFirst: Lloyd W.
+  nameClub1: Indianapolis
+  bats: L
+  G: '39'
+  AB: '70'
+  R: '6'
+  H: '16'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '21'
+  SH: '3'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '7'
+  SO: '19'
+  AVG: '.229'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Jungels
+  nameFirst: Kenneth P.
+  nameClub1: Milwaukee
+  bats: R
+  G: '21'
+  AB: '48'
+  R: '4'
+  H: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '2'
+  TB: '17'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '2'
+  SO: '14'
+  AVG: '.229'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Tremark
+  nameFirst: Nicholas J.
+  nameClub1: Louisville
+  bats: L
+  G: '55'
+  AB: '101'
+  R: '11'
+  H: '23'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '26'
+  SH: '1'
+  SB: '2'
+  BB: '9'
+  HP: '1'
+  RBI: '16'
+  SO: '9'
+  AVG: '.228'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Klaerner
+  nameFirst: Hugo E.
+  nameClub1: St. Paul
+  bats: R
+  G: '37'
+  AB: '49'
+  R: '7'
+  H: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '2'
+  TB: '20'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '7'
+  SO: '11'
+  AVG: '.224'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: French
+  nameFirst: Raymond E.
+  nameClub1: Louisville
+  bats: R
+  G: '74'
+  AB: '197'
+  R: '18'
+  H: '44'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '50'
+  SH: '4'
+  SB: '3'
+  BB: '18'
+  HP: '0'
+  RBI: '20'
+  SO: '12'
+  AVG: '.223'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Malinosky
+  nameFirst: Anthony F.
+  nameClub1: Columbus
+  bats: R
+  G: '20'
+  AB: '63'
+  R: '3'
+  H: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '15'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '6'
+  SO: '5'
+  AVG: '.222'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Frasier
+  nameFirst: Victor
+  nameClub1: St. Paul
+  bats: R
+  G: '32'
+  AB: '68'
+  R: '6'
+  H: '15'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '15'
+  SH: '4'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '5'
+  SO: '15'
+  AVG: '.221'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Baugh
+  nameFirst: Sam A.
+  nameClub1: Columbus
+  G: '16'
+  AB: '59'
+  R: '3'
+  H: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '15'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '13'
+  AVG: '.220'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: LaRocca
+  nameFirst: John J.
+  nameClub1: Kansas City
+  bats: R
+  G: '19'
+  AB: '32'
+  R: '2'
+  H: '7'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '10'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '11'
+  AVG: '.219'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Parmelee
+  nameFirst: LeRoy E.
+  nameClub1: Minneapolis
+  bats: R
+  G: '42'
+  AB: '101'
+  R: '14'
+  H: '22'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  TB: '28'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '12'
+  SO: '25'
+  AVG: '.218'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hope
+  nameFirst: Edward W.
+  nameClub1: Milwaukee
+  bats: R
+  G: '83'
+  AB: '268'
+  R: '35'
+  H: '58'
+  H2B: '7'
+  H3B: '3'
+  HR: '7'
+  TB: '92'
+  SH: '8'
+  SB: '0'
+  BB: '35'
+  HP: '0'
+  RBI: '27'
+  SO: '35'
+  AVG: '.216'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Clark
+  nameFirst: Philip G.
+  nameClub1: Columbus
+  G: '12'
+  AB: '37'
+  R: '4'
+  H: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '2'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '4'
+  SO: '4'
+  AVG: '.216'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Weis
+  nameFirst: Arthur J.
+  nameClub1: St. Paul
+  bats: L
+  G: '56'
+  AB: '160'
+  R: '16'
+  H: '34'
+  H2B: '4'
+  H3B: '1'
+  HR: '5'
+  TB: '55'
+  SH: '0'
+  SB: '0'
+  BB: '28'
+  HP: '0'
+  RBI: '21'
+  SO: '19'
+  AVG: '.213'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Heving
+  nameFirst: Joseph W.
+  nameClub1: Milwaukee
+  bats: R
+  G: '19'
+  AB: '47'
+  R: '8'
+  H: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  TB: '15'
+  SH: '4'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '8'
+  SO: '8'
+  AVG: '.213'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Norris
+  nameFirst: Leo J.
+  nameClub1: Kansas City
+  bats: R
+  G: '32'
+  AB: '90'
+  R: '8'
+  H: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  TB: '24'
+  SH: '4'
+  SB: '1'
+  BB: '8'
+  HP: '1'
+  RBI: '12'
+  SO: '9'
+  AVG: '.211'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Johnson
+  nameFirst: Allan E.
+  nameClub1: Milwaukee
+  bats: R
+  G: '29'
+  AB: '43'
+  R: '6'
+  H: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '4'
+  SO: '12'
+  AVG: '.209'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Fisher
+  nameFirst: Albert B.
+  nameClub1: Columbus
+  bats: R
+  G: '50'
+  AB: '87'
+  R: '11'
+  H: '18'
+  H2B: '3'
+  H3B: '2'
+  HR: '1'
+  TB: '28'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '13'
+  SO: '7'
+  AVG: '.207'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Harris
+  nameFirst: Robert A.
+  nameClub1: Toledo
+  bats: R
+  G: '48'
+  AB: '63'
+  R: '11'
+  H: '13'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '18'
+  SH: '7'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '6'
+  SO: '8'
+  AVG: '.206'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Marchand
+  nameFirst: Albert J.
+  nameClub1: St. Paul
+  bats: L
+  G: '16'
+  AB: '44'
+  R: '3'
+  H: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '1'
+  AVG: '.205'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hinkle
+  nameFirst: Gordon D.
+  nameClub1: 6@Indianapolis
+  nameClub2: 56@Toledo
+  bats: R
+  G: '62'
+  AB: '157'
+  R: '18'
+  H: '32'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  TB: '39'
+  SH: '4'
+  SB: '0'
+  BB: '18'
+  HP: '0'
+  RBI: '19'
+  SO: '33'
+  AVG: '.204'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Martynik
+  nameFirst: Michael J.
+  nameClub1: Columbus
+  bats: L
+  G: '41'
+  AB: '59'
+  R: '13'
+  H: '12'
+  H2B: '1'
+  H3B: '3'
+  HR: '0'
+  TB: '19'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '5'
+  SO: '11'
+  AVG: '.203'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Jorgensen
+  nameFirst: Carl
+  nameClub1: Indianapolis
+  bats: R
+  G: '42'
+  AB: '99'
+  R: '10'
+  H: '20'
+  H2B: '0'
+  H3B: '3'
+  HR: '3'
+  TB: '35'
+  SH: '1'
+  SB: '3'
+  BB: '13'
+  HP: '2'
+  RBI: '13'
+  SO: '15'
+  AVG: '.202'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Page
+  nameFirst: Vance L.
+  nameClub1: Indianapolis
+  bats: R
+  G: '26'
+  AB: '70'
+  R: '9'
+  H: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '15'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '17'
+  AVG: '.200'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Walkup
+  nameFirst: James E.
+  nameClub1: Toledo
+  bats: R
+  G: '13'
+  AB: '30'
+  R: '2'
+  H: '6'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '4'
+  SO: '7'
+  AVG: '.200'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Marberry
+  nameFirst: Fred
+  nameClub1: Toledo
+  bats: R
+  G: '14'
+  AB: '25'
+  R: '1'
+  H: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.200'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hampton
+  nameFirst: Cooper
+  nameClub1: Louisville
+  bats: R
+  G: '37'
+  AB: '81'
+  R: '6'
+  H: '16'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '19'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '24'
+  AVG: '.198'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Brown
+  nameFirst: Lloyd A.
+  nameClub1: St. Paul
+  bats: L
+  G: '37'
+  AB: '66'
+  R: '7'
+  H: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '15'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '15'
+  AVG: '.197'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Richardson
+  nameFirst: Kenneth
+  nameClub1: Minneapolis
+  bats: R
+  G: '22'
+  AB: '61'
+  R: '3'
+  H: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  TB: '17'
+  SH: '1'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '8'
+  SO: '7'
+  AVG: '.197'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Pasek
+  nameFirst: John P.
+  nameClub1: St. Paul
+  bats: R
+  G: '70'
+  AB: '207'
+  R: '10'
+  H: '40'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '44'
+  SH: '2'
+  SB: '0'
+  BB: '19'
+  HP: '1'
+  RBI: '19'
+  SO: '16'
+  AVG: '.193'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hader
+  nameFirst: George, Jr.
+  nameClub1: Columbus
+  bats: R
+  G: '21'
+  AB: '21'
+  R: '2'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '8'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '4'
+  SO: '3'
+  AVG: '.190'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Herring
+  nameFirst: Arthur L.
+  nameClub1: St. Paul
+  bats: R
+  G: '35'
+  AB: '74'
+  R: '6'
+  H: '14'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  TB: '21'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '10'
+  SO: '11'
+  AVG: '.189'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Willis
+  nameFirst: Lester E.
+  nameClub1: Louisville
+  bats: L
+  G: '43'
+  AB: '85'
+  R: '10'
+  H: '16'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '21'
+  SH: '1'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '7'
+  SO: '21'
+  AVG: '.188'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Bean
+  nameFirst: Belve B.
+  nameClub1: Minneapolis
+  bats: R
+  G: '39'
+  AB: '81'
+  R: '6'
+  H: '15'
+  H2B: '0'
+  H3B: '1'
+  HR: '1'
+  TB: '20'
+  SH: '6'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '7'
+  SO: '26'
+  AVG: '.185'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Piechota
+  nameFirst: Albert S.
+  nameClub1: Kansas City
+  bats: R
+  G: '30'
+  AB: '60'
+  R: '4'
+  H: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '1'
+  SO: '11'
+  AVG: '.183'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Dunn
+  nameFirst: Cecil A.
+  nameClub1: Toledo
+  bats: R
+  G: '10'
+  AB: '22'
+  R: '4'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  TB: '7'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '5'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Branch
+  nameFirst: Norman D.
+  nameClub1: Kansas City
+  bats: R
+  G: '18'
+  AB: '22'
+  R: '2'
+  H: '4'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Morrow
+  nameFirst: John
+  nameClub1: Columbus
+  bats: R
+  G: '27'
+  AB: '83'
+  R: '8'
+  H: '15'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '19'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '12'
+  AVG: '.181'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Johnson
+  nameFirst: Fred E.
+  nameClub1: Toledo
+  bats: R
+  G: '23'
+  AB: '56'
+  R: '2'
+  H: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '4'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.179'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Marrow
+  nameFirst: Charles K.
+  nameClub1: Milwaukee
+  bats: R
+  G: '12'
+  AB: '34'
+  R: '2'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '9'
+  AVG: '.176'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Wagner
+  nameFirst: Charles T.
+  nameClub1: Minneapolis
+  bats: R
+  G: '15'
+  AB: '34'
+  R: '3'
+  H: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '11'
+  AVG: '.176'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Lyons
+  nameFirst: Herschel E.
+  nameClub1: Columbus
+  bats: R
+  G: '13'
+  AB: '23'
+  R: '2'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '0'
+  SO: '4'
+  AVG: '.174'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Phelps
+  nameFirst: Raymond C.
+  nameClub1: St. Paul
+  bats: R
+  G: '33'
+  AB: '77'
+  R: '12'
+  H: '13'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '17'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '5'
+  SO: '22'
+  AVG: '.169'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Poindexter
+  nameFirst: Jennings
+  nameClub1: Minneapolis
+  bats: L
+  G: '23'
+  AB: '42'
+  R: '1'
+  H: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '2'
+  RBI: '3'
+  SO: '8'
+  AVG: '.167'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Chambers
+  nameFirst: John M.
+  nameClub1: 13@Columbus
+  nameClub2: 4@Minneapolis
+  bats: L
+  G: '17'
+  AB: '24'
+  R: '2'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.167'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Owens
+  nameFirst: John
+  nameClub1: Louisville
+  bats: L
+  G: '23'
+  AB: '12'
+  R: '1'
+  H: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.167'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Terry
+  nameFirst: Yank
+  nameClub1: Louisville
+  bats: R
+  G: '38'
+  AB: '61'
+  R: '4'
+  H: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '18'
+  AVG: '.164'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Cain
+  nameFirst: Merritt P.
+  nameClub1: St. Paul
+  bats: L
+  G: '28'
+  AB: '49'
+  R: '3'
+  H: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '7'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '16'
+  AVG: '.163'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Bonetti
+  nameFirst: Julio J.
+  nameClub1: Toledo
+  bats: R
+  G: '18'
+  AB: '38'
+  R: '4'
+  H: '6'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '9'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '10'
+  AVG: '.158'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Nelson
+  nameFirst: G. Emmett
+  nameClub1: Toledo
+  bats: R
+  G: '34'
+  AB: '51'
+  R: '4'
+  H: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '6'
+  SO: '16'
+  AVG: '.157'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Bocek
+  nameFirst: Milton F.
+  nameClub1: Columbus
+  bats: R
+  G: '14'
+  AB: '45'
+  R: '4'
+  H: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  TB: '10'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '4'
+  SO: '5'
+  AVG: '.156'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: English
+  nameFirst: Gilbert R.
+  nameClub1: Kansas City
+  bats: R
+  G: '20'
+  AB: '58'
+  R: '5'
+  H: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '7'
+  SO: '6'
+  AVG: '.155'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Rogalski
+  nameFirst: Joseph A.
+  nameClub1: Toledo
+  bats: R
+  G: '17'
+  AB: '26'
+  R: '3'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '6'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '2'
+  SO: '9'
+  AVG: '.154'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Riddle
+  nameFirst: Elmer R.
+  nameClub1: Indianapolis
+  bats: R
+  G: '35'
+  AB: '26'
+  R: '4'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '3'
+  SO: '9'
+  AVG: '.154'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Wicker
+  nameFirst: Kemp C.
+  nameClub1: Kansas City
+  bats: L
+  G: '27'
+  AB: '59'
+  R: '4'
+  H: '9'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '13'
+  SH: '4'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '15'
+  AVG: '.153'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Greenberg
+  nameFirst: Joseph
+  nameClub1: Toledo
+  bats: R
+  G: '11'
+  AB: '33'
+  R: '4'
+  H: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '1'
+  AVG: '.152'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: McLaughlin
+  nameFirst: Patrick E.
+  nameClub1: Toledo
+  bats: R
+  G: '42'
+  AB: '20'
+  R: '3'
+  H: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '5'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '2'
+  SO: '3'
+  AVG: '.150'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Peerson
+  nameFirst: Jack C.
+  nameClub1: St. Paul
+  bats: R
+  G: '14'
+  AB: '27'
+  R: '1'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '0'
+  SO: '5'
+  AVG: '.148'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Chelini
+  nameFirst: Italo V.
+  nameClub1: St. Paul
+  bats: L
+  G: '30'
+  AB: '68'
+  R: '6'
+  H: '10'
+  H2B: '0'
+  H3B: '1'
+  HR: '2'
+  TB: '18'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '9'
+  SO: '15'
+  AVG: '.147'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: French
+  nameFirst: Donald D.
+  nameClub1: Indianapolis
+  bats: R
+  G: '40'
+  AB: '48'
+  R: '3'
+  H: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  AVG: '.146'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Shaffer
+  nameFirst: Fred J.
+  nameClub1: Louisville
+  bats: R
+  G: '49'
+  AB: '50'
+  R: '4'
+  H: '7'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '10'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '8'
+  SO: '13'
+  AVG: '.140'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Makosky
+  nameFirst: Frank
+  nameClub1: Kansas City
+  bats: R
+  G: '24'
+  AB: '22'
+  R: '2'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '5'
+  AVG: '.136'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Boone
+  nameFirst: Carl E.
+  nameClub1: Louisville
+  bats: R
+  G: '26'
+  AB: '22'
+  R: '3'
+  H: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '7'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '5'
+  SO: '2'
+  AVG: '.136'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Miller
+  nameFirst: Robert J.
+  nameClub1: Kansas City
+  bats: R
+  G: '30'
+  AB: '37'
+  R: '3'
+  H: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '18'
+  AVG: '.135'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Epperly
+  nameFirst: Albert P.
+  nameClub1: Indianapolis
+  bats: L
+  G: '18'
+  AB: '30'
+  R: '1'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '14'
+  AVG: '.133'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Johnson
+  nameFirst: John C.
+  nameClub1: Toledo
+  bats: L
+  G: '45'
+  AB: '48'
+  R: '7'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  TB: '9'
+  SH: '5'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '9'
+  AVG: '.125'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Bonham
+  nameFirst: Ernest E.
+  nameClub1: Kansas City
+  bats: R
+  G: '10'
+  AB: '24'
+  R: '2'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.125'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Treadway
+  nameFirst: Charles V.
+  nameClub1: Toledo
+  bats: R
+  G: '30'
+  AB: '33'
+  R: '4'
+  H: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '2'
+  SO: '5'
+  AVG: '.121'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Mattick
+  nameFirst: Robert J.
+  nameClub1: Indianapolis
+  bats: R
+  G: '29'
+  AB: '67'
+  R: '6'
+  H: '8'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '6'
+  SO: '7'
+  AVG: '.119'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Lynn
+  nameFirst: James M.
+  nameClub1: Columbus
+  bats: R
+  G: '50'
+  AB: '59'
+  R: '4'
+  H: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '4'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '11'
+  AVG: '.119'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Breuer
+  nameFirst: Marvin H.
+  nameClub1: Kansas City
+  bats: R
+  G: '36'
+  AB: '63'
+  R: '5'
+  H: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '8'
+  SB: '0'
+  BB: '7'
+  HP: '1'
+  RBI: '1'
+  SO: '29'
+  AVG: '.111'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Zuber
+  nameFirst: William H.
+  nameClub1: Milwaukee
+  bats: R
+  G: '11'
+  AB: '27'
+  R: '2'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '8'
+  AVG: '.111'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Connell
+  nameFirst: Truman
+  nameClub1: Toledo
+  bats: R
+  G: '13'
+  AB: '20'
+  R: '2'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '7'
+  AVG: '.100'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Seinsoth
+  nameFirst: William
+  nameClub1: Columbus
+  bats: L
+  G: '11'
+  AB: '10'
+  R: '0'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  AVG: '.100'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Tising
+  nameFirst: John J.
+  nameClub1: 13@Louisville
+  nameClub2: 24@Indianapolis
+  bats: L
+  G: '37'
+  AB: '71'
+  R: '4'
+  H: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '4'
+  SO: '19'
+  AVG: '.099'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Benton
+  nameFirst: Alton
+  nameClub1: Toledo
+  G: '17'
+  AB: '22'
+  R: '1'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '3'
+  SO: '11'
+  AVG: '.091'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Niggeling
+  nameFirst: John A.
+  nameClub1: Indianapolis
+  G: '32'
+  AB: '69'
+  R: '4'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '5'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '1'
+  SO: '13'
+  AVG: '.087'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Thompkins
+  nameFirst: James N.
+  nameClub1: Columbus
+  G: '19'
+  AB: '12'
+  R: '1'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.083'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Carpenter
+  nameFirst: Lewis E.
+  nameClub1: Louisville
+  G: '37'
+  AB: '34'
+  R: '0'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '10'
+  AVG: '.059'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Andrews
+  nameFirst: Nathan H.
+  nameClub1: Columbus
+  G: '37'
+  AB: '71'
+  R: '8'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '3'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '1'
+  SO: '37'
+  AVG: '.056'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Midkiff
+  nameFirst: Richard
+  nameClub1: Minneapolis
+  G: '16'
+  AB: '22'
+  R: '0'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '0'
+  SO: '12'
+  AVG: '.045'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Blaeholder
+  nameFirst: George F.
+  nameClub1: Milwaukee
+  G: '30'
+  AB: '61'
+  R: '2'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '34'
+  AVG: '.016'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Myllykangas
+  nameFirst: Lauri E.
+  nameClub1: Indianapolis
+  G: '12'
+  AB: '13'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.000'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Thomasson
+  nameFirst: Ernest
+  nameClub1: Louisville
+  G: '10'
+  AB: '2'
+  R: '0'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  AVG: '.000'
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Berg
+  nameFirst: Howard
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Blattner
+  nameFirst: Robert, Jr.
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Dillingham
+  nameFirst: James T.
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Dreisewerd
+  nameFirst: Clement J.
+  nameClub1: Columbus
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Easterling
+  nameFirst: Paul
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gleason
+  nameFirst: Dennis J.
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Humphries
+  nameFirst: Bertram E.
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Lanier
+  nameFirst: Hubert M.
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Martin
+  nameFirst: Charles B.
+  nameClub1: Columbus
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Quante
+  nameFirst: Marvin M.
+  nameClub1: Columbus
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Siebert
+  nameFirst: Richard W.
+  nameClub1: Columbus
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Toten
+  nameFirst: Lawrence D.
+  nameClub1: Columbus
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Doljack
+  nameFirst: Frank J.
+  nameClub1: Indianapolis
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Gallivan
+  nameFirst: Thomas J.
+  nameClub1: Indianapolis
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Menendez
+  nameFirst: Louis
+  nameClub1: Indianapolis
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Mettler
+  nameFirst: Victor H.
+  nameClub1: Indianapolis
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Meyers
+  nameFirst: Otto
+  nameClub1: Indianapolis
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Scott
+  nameFirst: LeGrant E.
+  nameClub1: Indianapolis
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Smith
+  nameFirst: Clay
+  nameClub1: Indianapolis
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Glynn
+  nameFirst: John F.
+  nameClub1: Kansas City
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hamner
+  nameFirst: Ralph B.
+  nameClub1: Kansas City
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Holm
+  nameFirst: William
+  nameClub1: Kansas City
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Jeffcoat
+  nameFirst: George E.
+  nameClub1: Kansas City
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Kelleher
+  nameFirst: Francis E.
+  nameClub1: Kansas City
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Prendergast
+  nameFirst: James B.
+  nameClub1: Kansas City
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Rosette
+  nameFirst: John
+  nameClub1: Kansas City
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Stanceu
+  nameFirst: Charles
+  nameClub1: Kansas City
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Warren
+  nameFirst: Homer C.
+  nameClub1: Kansas City
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Yocke
+  nameFirst: William E.
+  nameClub1: Kansas City
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Brittsan
+  nameFirst: Eldred F.
+  nameClub1: Louisville
+- year: '1938'
+  nameLeague: American Association
+  nameLast: De Moisey
+  nameFirst: John R.
+  nameClub1: Louisville
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Hampton
+  nameFirst: Richard
+  nameClub1: Louisville
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Kolp
+  nameFirst: Raymond C.
+  nameClub1: Louisville
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Rutherford
+  nameFirst: M. Wayne
+  nameClub1: Louisville
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Ahlf
+  nameFirst: Louis
+  nameClub1: Milwaukee
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Drake
+  nameFirst: Thomas K.
+  nameClub1: Milwaukee
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Griswold
+  nameFirst: Harry N.
+  nameClub1: Milwaukee
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Haas
+  nameFirst: Berthold J.
+  nameClub1: Milwaukee
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Loafman
+  nameFirst: Russell O.
+  nameClub1: Milwaukee
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Ramos
+  nameFirst: Salvador
+  nameClub1: Milwaukee
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Stephens
+  nameFirst: David C.
+  nameClub1: Milwaukee
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Sullivan
+  nameFirst: Paul T.
+  nameClub1: Milwaukee
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Talos
+  nameFirst: Ernest A.
+  nameClub1: Milwaukee
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Chapman
+  nameFirst: Calvin L.
+  nameClub1: Minneapolis
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Clark
+  nameFirst: William W.
+  nameClub1: Minneapolis
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Fletcher
+  nameFirst: Guy M.
+  nameClub1: Minneapolis
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Grabowski
+  nameFirst: Reginald J.
+  nameClub1: Minneapolis
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Malone
+  nameFirst: Perce L.
+  nameClub1: Minneapolis
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Trent
+  nameFirst: Cecil O.
+  nameClub1: Minneapolis
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Adair
+  nameFirst: James A.
+  nameClub1: St. Paul
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Clarke
+  nameFirst: Grey R.
+  nameClub1: St. Paul
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Coombs
+  nameFirst: Raymond F.
+  nameClub1: St. Paul
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Dobernic
+  nameFirst: A. Jess
+  nameClub1: St. Paul
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Maxcy
+  nameFirst: Russell
+  nameClub1: St. Paul
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Sloat
+  nameFirst: Dwain
+  nameClub1: St. Paul
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Schoenecker
+  nameFirst: George F.
+  nameClub1: St. Paul
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Birkhofer
+  nameFirst: Ralph J.
+  nameClub1: Toledo
+  bats: L
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Haney
+  nameFirst: Fred
+  nameClub1: Toledo
+- year: '1938'
+  nameLeague: American Association
+  nameLast: House
+  nameFirst: Roy
+  nameClub1: Toledo
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Miller
+  nameFirst: William F.
+  nameClub1: Toledo
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Sorrell
+  nameFirst: Victor G.
+  nameClub1: Toledo
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Trout
+  nameFirst: Paul H.
+  nameClub1: Toledo
+- year: '1938'
+  nameLeague: American Association
+  nameLast: Zapor
+  nameFirst: John
+  nameClub1: Toledo

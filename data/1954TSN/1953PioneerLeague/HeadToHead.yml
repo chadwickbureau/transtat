@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  Great Falls: '11'
+  Billings: '10'
+  Salt Lake City: '17'
+  Idaho Falls: '11'
+  Boise: '12'
+  Magic Valley: '16'
+  Pocatello: '12'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  Ogden: '7'
+  Billings: '12'
+  Salt Lake City: '7'
+  Idaho Falls: '11'
+  Boise: '11'
+  Magic Valley: '14'
+  Pocatello: '15'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  Ogden: '8'
+  Great Falls: '11'
+  Salt Lake City: '8'
+  Idaho Falls: '6'
+  Boise: '10'
+  Magic Valley: '12'
+  Pocatello: '16'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  Ogden: '7'
+  Great Falls: '11'
+  Billings: '10'
+  Idaho Falls: '10'
+  Boise: '7'
+  Magic Valley: '12'
+  Pocatello: '12'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  Ogden: '7'
+  Great Falls: '7'
+  Billings: '12'
+  Salt Lake City: '8'
+  Boise: '6'
+  Magic Valley: '10'
+  Pocatello: '18'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  Ogden: '5'
+  Great Falls: '7'
+  Billings: '8'
+  Salt Lake City: '11'
+  Idaho Falls: '12'
+  Magic Valley: '11'
+  Pocatello: '9'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  Ogden: '2'
+  Great Falls: '4'
+  Billings: '6'
+  Salt Lake City: '5'
+  Idaho Falls: '8'
+  Boise: '13'
+  Pocatello: '10'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  Ogden: '6'
+  Great Falls: '3'
+  Billings: '2'
+  Salt Lake City: '6'
+  Idaho Falls: '6'
+  Boise: '9'
+  Magic Valley: '8'

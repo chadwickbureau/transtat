@@ -1,0 +1,110 @@
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Rocky Mount
+  phase: regular
+  W: '74'
+  L: '51'
+  PCT: '.592'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: regular
+  W: '67'
+  L: '56'
+  PCT: '.545'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Wilson
+  phase: regular
+  W: '67'
+  L: '57'
+  PCT: '.540'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Goldsboro
+  phase: regular
+  W: '64'
+  L: '60'
+  PCT: '.516'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Tarboro
+  phase: regular
+  W: '61'
+  L: '65'
+  PCT: '.484'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Greenville
+  phase: regular
+  W: '58'
+  L: '67'
+  PCT: '.464'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: New Bern
+  phase: regular
+  W: '57'
+  L: '68'
+  PCT: '.456'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Fayetteville
+  phase: regular
+  W: '51'
+  L: '75'
+  PCT: '.405'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Rocky Mount
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Goldsboro
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Wilson
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Rocky Mount
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

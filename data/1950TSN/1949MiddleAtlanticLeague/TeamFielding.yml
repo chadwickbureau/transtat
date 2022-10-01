@@ -1,0 +1,80 @@
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  G: '138'
+  DP: '145'
+  PO: '3575'
+  A: '1571'
+  E: '197'
+  TP: '0'
+  PCT: '.963'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  G: '137'
+  DP: '128'
+  PO: '3595'
+  A: '1546'
+  E: '214'
+  TP: '0'
+  PCT: '.960'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  G: '137'
+  DP: '145'
+  PO: '3395'
+  A: '1328'
+  E: '227'
+  TP: '0'
+  PCT: '.954'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  G: '138'
+  DP: '136'
+  PO: '3477'
+  A: '1520'
+  E: '248'
+  TP: '1'
+  PCT: '.953'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  G: '138'
+  DP: '127'
+  PO: '3495'
+  A: '1516'
+  E: '251'
+  TP: '0'
+  PCT: '.952'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  G: '140'
+  DP: '164'
+  PO: '3439'
+  A: '1481'
+  E: '249'
+  TP: '0'
+  PCT: '.952'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: New Castle
+  G: '136'
+  DP: '92'
+  PO: '3425'
+  A: '1414'
+  E: '250'
+  TP: '0'
+  PCT: '.951'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  G: '136'
+  DP: '127'
+  PO: '3486'
+  A: '1389'
+  E: '294'
+  TP: '1'
+  PCT: '.943'

@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  Johnson City: '7'
+  Salem: '7'
+  Wytheville: '11'
+  Pulaski: '10'
+  Kingsport: '12'
+- year: '1957'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  Bluefield: '6'
+  Salem: '8'
+  Wytheville: '10'
+  Pulaski: '11'
+  Kingsport: '11'
+- year: '1957'
+  nameLeague: Appalachian League
+  nameClub: Salem
+  Bluefield: '5'
+  Johnson City: '6'
+  Wytheville: '7'
+  Pulaski: '9'
+  Kingsport: '11'
+- year: '1957'
+  nameLeague: Appalachian League
+  nameClub: Wytheville
+  Bluefield: '3'
+  Johnson City: '4'
+  Salem: '7'
+  Pulaski: '8'
+  Kingsport: '10'
+- year: '1957'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  Bluefield: '4'
+  Johnson City: '3'
+  Salem: '5'
+  Wytheville: '6'
+  Kingsport: '5'
+- year: '1957'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  Bluefield: '2'
+  Johnson City: '3'
+  Salem: '3'
+  Wytheville: '4'
+  Pulaski: '9'

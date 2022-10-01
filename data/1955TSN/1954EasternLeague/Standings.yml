@@ -1,0 +1,119 @@
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: regular
+  W: '80'
+  L: '59'
+  T: '2'
+  PCT: '.576'
+  RANK: '1'
+  apparatus: PCT=.276
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  phase: regular
+  W: '77'
+  L: '63'
+  T: '0'
+  PCT: '.550'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '75'
+  L: '64'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: regular
+  W: '71'
+  L: '69'
+  T: '2'
+  PCT: '.507'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '1'
+  PCT: '.500'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  W: '63'
+  L: '77'
+  T: '3'
+  PCT: '.450'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: regular
+  W: '57'
+  L: '83'
+  T: '0'
+  PCT: '.407'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

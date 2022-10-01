@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular
+  W: '99'
+  L: '51'
+  T: '0'
+  PCT: '.660'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular
+  W: '91'
+  L: '57'
+  T: '0'
+  PCT: '.615'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: regular
+  W: '78'
+  L: '71'
+  T: '0'
+  PCT: '.523'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular
+  W: '77'
+  L: '73'
+  T: '0'
+  PCT: '.513'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Victoria
+  phase: regular
+  W: '68'
+  L: '84'
+  T: '0'
+  PCT: '.447'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: regular
+  W: '64'
+  L: '87'
+  T: '0'
+  PCT: '.424'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Tacoma
+  phase: regular
+  W: '63'
+  L: '88'
+  T: '0'
+  PCT: '.417'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Bremerton
+  phase: regular
+  W: '60'
+  L: '89'
+  T: '0'
+  PCT: '.403'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

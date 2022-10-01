@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: regular
+  W: '88'
+  L: '52'
+  T: '0'
+  PCT: '.629'
+  RANK: '1'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: regular
+  W: '84'
+  L: '56'
+  T: '0'
+  PCT: '.600'
+  RANK: '2'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: regular
+  W: '81'
+  L: '59'
+  T: '0'
+  PCT: '.579'
+  RANK: '3'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: regular
+  W: '77'
+  L: '61'
+  T: '0'
+  PCT: '.558'
+  RANK: '4'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: regular
+  W: '62'
+  L: '78'
+  T: '0'
+  PCT: '.443'
+  RANK: '5'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: regular
+  W: '61'
+  L: '77'
+  T: '0'
+  PCT: '.442'
+  RANK: '6'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  phase: regular
+  W: '60'
+  L: '78'
+  T: '0'
+  PCT: '.435'
+  RANK: '7'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lamesa
+  phase: regular
+  W: '44'
+  L: '96'
+  T: '0'
+  PCT: '.314'
+  RANK: '8'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

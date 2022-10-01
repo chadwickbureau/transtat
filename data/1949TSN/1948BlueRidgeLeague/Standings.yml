@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  phase: regular
+  W: '75'
+  L: '48'
+  T: '2'
+  PCT: '.610'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: North Wilkesboro
+  phase: regular
+  W: '72'
+  L: '54'
+  T: '1'
+  PCT: '.571'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Radford
+  phase: regular
+  W: '68'
+  L: '55'
+  T: '0'
+  PCT: '.553'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  phase: regular
+  W: '65'
+  L: '58'
+  T: '2'
+  PCT: '.528'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Wytheville
+  phase: regular
+  W: '47'
+  L: '74'
+  T: '2'
+  PCT: '.388'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Leaksville-Draper-Spray/Abingdon
+  phase: regular
+  W: '43'
+  L: '81'
+  T: '1'
+  PCT: '.347'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Radford
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: North Wilkesboro
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

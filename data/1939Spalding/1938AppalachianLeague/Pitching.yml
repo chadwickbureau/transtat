@@ -1,0 +1,868 @@
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Parsons
+  nameClub1: Elizabethton
+  IP: '168'
+  H: '133'
+  R: '60'
+  BB: '63'
+  SO: '138'
+  HP: '8'
+  WP: '5'
+  GP: '22'
+  W: '16'
+  L: '3'
+  PCT: '.842'
+  F_P_PCT: '.968'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kisley
+  nameClub1: Greeneville
+  IP: '58'
+  H: '41'
+  R: '19'
+  BB: '27'
+  SO: '33'
+  HP: '0'
+  WP: '0'
+  GP: '9'
+  W: '5'
+  L: '1'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Mackes
+  nameClub1: Kingsport
+  IP: '83'
+  H: '84'
+  R: '29'
+  BB: '23'
+  SO: '29'
+  HP: '1'
+  WP: '0'
+  GP: '16'
+  W: '7'
+  L: '2'
+  PCT: '.778'
+  F_P_PCT: '.963'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Lee
+  nameClub1: Kingsport
+  IP: '150'
+  H: '152'
+  R: '69'
+  BB: '18'
+  SO: '52'
+  HP: '3'
+  WP: '0'
+  GP: '24'
+  W: '11'
+  L: '5'
+  PCT: '.688'
+  F_P_PCT: '.981'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: King
+  nameClub1: Elizabethton
+  IP: '175'
+  H: '160'
+  R: '81'
+  BB: '61'
+  SO: '81'
+  HP: '9'
+  WP: '3'
+  GP: '24'
+  W: '12'
+  L: '6'
+  PCT: '.667'
+  F_P_PCT: '.966'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Rosenbaum
+  nameClub1: Elizabethton
+  IP: '121'
+  H: '108'
+  R: '54'
+  BB: '24'
+  SO: '61'
+  HP: '7'
+  WP: '0'
+  GP: '32'
+  W: '10'
+  L: '5'
+  PCT: '.667'
+  F_P_PCT: '.917'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Carr
+  nameClub1: Pennington Gap
+  IP: '115'
+  H: '122'
+  R: '53'
+  BB: '35'
+  SO: '78'
+  HP: '4'
+  WP: '0'
+  GP: '16'
+  W: '8'
+  L: '4'
+  PCT: '.667'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Heffelfinger
+  nameClub1: Kingsport
+  IP: '163'
+  H: '142'
+  R: '77'
+  BB: '68'
+  SO: '88'
+  HP: '7'
+  WP: '8'
+  GP: '28'
+  W: '15'
+  L: '8'
+  PCT: '.652'
+  F_P_PCT: '.936'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Shope
+  nameClub1: Elizabethton
+  IP: '158'
+  H: '120'
+  R: '52'
+  BB: '63'
+  SO: '88'
+  HP: '3'
+  WP: '3'
+  GP: '23'
+  W: '11'
+  L: '6'
+  PCT: '.647'
+  F_P_PCT: '.975'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hart
+  nameClub1: Elizabethton
+  IP: '123'
+  H: '107'
+  R: '52'
+  BB: '33'
+  SO: '66'
+  HP: '8'
+  WP: '0'
+  GP: '19'
+  W: '9'
+  L: '5'
+  PCT: '.643'
+  F_P_PCT: '.939'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Akard
+  nameClub1: Johnson City
+  nameClub2: Newport
+  IP: '84'
+  H: '88'
+  R: '47'
+  BB: '25'
+  SO: '19'
+  HP: '4'
+  WP: '0'
+  GP: '12'
+  W: '7'
+  L: '4'
+  PCT: '.636'
+  F_P_PCT: '.895'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Coman
+  nameClub1: Johnson City
+  IP: '66'
+  H: '48'
+  R: '18'
+  BB: '15'
+  SO: '15'
+  HP: '2'
+  WP: '2'
+  GP: '9'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Playfair
+  nameClub1: Pennington Gap
+  IP: '118'
+  H: '118'
+  R: '54'
+  BB: '41'
+  SO: '23'
+  HP: '1'
+  WP: '0'
+  GP: '19'
+  W: '9'
+  L: '6'
+  PCT: '.600'
+  F_P_PCT: '.895'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Diehl
+  nameClub1: Kingsport
+  IP: '162'
+  H: '146'
+  R: '57'
+  BB: '34'
+  SO: '77'
+  HP: '3'
+  WP: '3'
+  GP: '23'
+  W: '10'
+  L: '7'
+  PCT: '.588'
+  F_P_PCT: '.944'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hughes
+  nameClub1: Kingsport
+  IP: '172'
+  H: '188'
+  R: '91'
+  BB: '44'
+  SO: '56'
+  HP: '3'
+  WP: '2'
+  GP: '31'
+  W: '9'
+  L: '7'
+  PCT: '.563'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Douthat
+  nameClub1: Greeneville
+  IP: '128'
+  H: '125'
+  R: '54'
+  BB: '45'
+  SO: '72'
+  HP: '3'
+  WP: '1'
+  GP: '18'
+  W: '10'
+  L: '8'
+  PCT: '.556'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Shellard
+  nameClub1: Kingsport
+  IP: '69'
+  H: '69'
+  R: '31'
+  BB: '18'
+  SO: '15'
+  HP: '2'
+  WP: '0'
+  GP: '14'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  F_P_PCT: '.966'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Walker
+  nameClub1: Greeneville
+  IP: '131'
+  H: '103'
+  R: '46'
+  BB: '34'
+  SO: '102'
+  HP: '4'
+  WP: '1'
+  GP: '19'
+  W: '8'
+  L: '7'
+  PCT: '.533'
+  F_P_PCT: '.900'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hennessey
+  nameClub1: Pennington Gap
+  IP: '72'
+  H: '68'
+  R: '30'
+  BB: '25'
+  SO: '22'
+  HP: '2'
+  WP: '1'
+  GP: '14'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  F_P_PCT: '.964'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hope
+  nameClub1: Greeneville
+  IP: '82'
+  H: '100'
+  R: '55'
+  BB: '35'
+  SO: '21'
+  HP: '3'
+  WP: '1'
+  GP: '12'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  F_P_PCT: '.773'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Layman
+  nameClub1: Newport
+  IP: '159'
+  H: '160'
+  R: '66'
+  BB: '57'
+  SO: '55'
+  HP: '8'
+  WP: '10'
+  GP: '22'
+  W: '9'
+  L: '10'
+  PCT: '.474'
+  F_P_PCT: '.900'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McGaha
+  nameClub1: Newport
+  IP: '159'
+  H: '183'
+  R: '78'
+  BB: '32'
+  SO: '63'
+  HP: '1'
+  WP: '0'
+  GP: '24'
+  W: '8'
+  L: '9'
+  PCT: '.471'
+  F_P_PCT: '.915'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Beilan
+  nameClub1: Johnson City
+  IP: '158'
+  H: '156'
+  R: '95'
+  BB: '91'
+  SO: '73'
+  HP: '5'
+  WP: '4'
+  GP: '30'
+  W: '8'
+  L: '9'
+  PCT: '.471'
+  F_P_PCT: '.885'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Taylor
+  nameClub1: Greeneville
+  IP: '119'
+  H: '130'
+  R: '65'
+  BB: '47'
+  SO: '47'
+  HP: '3'
+  WP: '1'
+  GP: '19'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  F_P_PCT: '.952'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Jordan
+  nameClub1: Johnson City
+  IP: '151'
+  H: '152'
+  R: '86'
+  BB: '70'
+  SO: '85'
+  HP: '7'
+  WP: '1'
+  GP: '26'
+  W: '9'
+  L: '11'
+  PCT: '.450'
+  F_P_PCT: '.982'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Morrison
+  nameClub1: Greeneville
+  IP: '75'
+  H: '87'
+  R: '49'
+  BB: '14'
+  SO: '21'
+  HP: '3'
+  WP: '0'
+  GP: '14'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  F_P_PCT: '.950'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Sims
+  nameClub1: Johnson City
+  IP: '65'
+  H: '47'
+  R: '26'
+  BB: '4'
+  SO: '40'
+  HP: '1'
+  WP: '1'
+  GP: '10'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  F_P_PCT: '.955'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kelly
+  nameClub1: Pennington Gap
+  IP: '50'
+  H: '46'
+  R: '15'
+  BB: '14'
+  SO: '22'
+  HP: '1'
+  WP: '0'
+  GP: '6'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Swann
+  nameClub1: Newport
+  IP: '36'
+  H: '44'
+  R: '25'
+  BB: '9'
+  SO: '11'
+  HP: '1'
+  WP: '1'
+  GP: '7'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Albritton
+  nameClub1: Newport
+  nameClub2: Greeneville
+  IP: '117'
+  H: '131'
+  R: '76'
+  BB: '53'
+  SO: '55'
+  HP: '11'
+  WP: '4'
+  GP: '18'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  F_P_PCT: '.943'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bailey
+  nameClub1: Pennington Gap
+  IP: '146'
+  H: '136'
+  R: '65'
+  BB: '46'
+  SO: '43'
+  HP: '4'
+  WP: '2'
+  GP: '18'
+  W: '6'
+  L: '10'
+  PCT: '.375'
+  F_P_PCT: '.918'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Luntsford
+  nameClub1: Pennington Gap
+  IP: '110'
+  H: '109'
+  R: '56'
+  BB: '26'
+  SO: '56'
+  HP: '3'
+  WP: '3'
+  GP: '16'
+  W: '4'
+  L: '8'
+  PCT: '.333'
+  F_P_PCT: '.909'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Templeton
+  nameClub1: Johnson City
+  IP: '61'
+  H: '64'
+  R: '45'
+  BB: '35'
+  SO: '67'
+  HP: '0'
+  WP: '0'
+  GP: '11'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  F_P_PCT: '.737'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Ruckart
+  nameClub1: Greeneville
+  IP: '52'
+  H: '60'
+  R: '48'
+  BB: '22'
+  SO: '21'
+  HP: '2'
+  WP: '5'
+  GP: '8'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Nesseth
+  nameClub1: Pennington Gap
+  IP: '71'
+  H: '77'
+  R: '40'
+  BB: '34'
+  SO: '31'
+  HP: '1'
+  WP: '2'
+  GP: '13'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  F_P_PCT: '.852'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Fisher
+  nameClub1: Newport
+  IP: '39'
+  H: '42'
+  R: '20'
+  BB: '10'
+  SO: '9'
+  HP: '0'
+  WP: '0'
+  GP: '8'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Krist
+  nameClub1: Johnson City
+  IP: '130'
+  H: '133'
+  R: '86'
+  BB: '54'
+  SO: '28'
+  HP: '7'
+  WP: '1'
+  GP: '26'
+  W: '4'
+  L: '13'
+  PCT: '.235'
+  F_P_PCT: '.982'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Barbolla
+  nameClub1: Pennington Gap
+  IP: '34'
+  H: '38'
+  R: '18'
+  BB: '10'
+  SO: '28'
+  HP: '0'
+  WP: '0'
+  GP: '6'
+  W: '1'
+  L: '4'
+  PCT: '.200'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Parker
+  nameClub1: Newport
+  IP: '33'
+  H: '40'
+  R: '28'
+  BB: '16'
+  SO: '18'
+  HP: '1'
+  WP: '0'
+  GP: '9'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  F_P_PCT: '1.000'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bullock
+  nameClub1: Johnson City
+  IP: '46'
+  H: '50'
+  R: '26'
+  BB: '12'
+  SO: '23'
+  HP: '4'
+  WP: '5'
+  GP: '11'
+  W: '0'
+  L: '7'
+  PCT: '.000'
+  F_P_PCT: '.923'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Conrad
+  nameClub1: Kingsport
+  IP: '35'
+  H: '37'
+  R: '17'
+  BB: '15'
+  SO: '15'
+  HP: '1'
+  WP: '1'
+  GP: '7'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Bortz
+  nameClub1: Elizabethton
+  IP: '33'
+  H: '34'
+  R: '30'
+  BB: '24'
+  SO: '10'
+  HP: '1'
+  WP: '0'
+  GP: '7'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Brummitt
+  nameClub1: Elizabethton
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Chester
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Coker
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Gentry
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Ogle
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Patton
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Pearson
+  nameClub1: Elizabethton
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Stanton
+  nameClub1: Elizabethton
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Broback
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cass
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Haston
+  nameClub1: Greeneville
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Jaynes
+  nameClub1: Greeneville
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: LoVecchio
+  nameClub1: Greeneville
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Mercer
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Parson
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Tyner
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Westmoreland
+  nameClub1: Greeneville
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Clark
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cunningham
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Goforth
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hollon
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Huntley
+  nameClub1: Johnson City
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Kluttz
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Larmouth
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McGowan
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Miller
+  nameClub1: Johnson City
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Norris
+  nameClub1: Johnson City
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Souter
+  nameClub1: Johnson City
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Walsh
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Wilken
+  nameClub1: Johnson City
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Horvath
+  nameClub1: Kingsport
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Aynik
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Brown
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Cameron
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hayes
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: McCall
+  nameClub1: Newport
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Rader
+  nameClub1: Newport
+  nameClub2: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Whittimore
+  nameClub1: Newport
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Barker
+  nameClub1: Pennington Gap
+  W: '0'
+  L: '0'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Buswell
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Carppi
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Doyle
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Hoff
+  nameClub1: Pennington Gap
+- year: '1938'
+  nameLeague: Appalachian League
+  nameLast: Murray
+  nameClub1: Pennington Gap
+  W: '0'
+  L: '0'

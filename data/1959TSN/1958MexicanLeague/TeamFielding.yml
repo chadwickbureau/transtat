@@ -1,0 +1,66 @@
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  G: '120'
+  DP: '110'
+  PB: '17'
+  PO: '3118'
+  A: '1224'
+  E: '120'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  G: '121'
+  DP: '129'
+  PB: '5'
+  PO: '3140'
+  A: '1211'
+  E: '137'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  G: '123'
+  DP: '124'
+  PB: '11'
+  PO: '3140'
+  A: '1364'
+  E: '159'
+  PCT: '.968'
+  TP: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Poza Rica
+  G: '121'
+  DP: '110'
+  PB: '10'
+  PO: '3125'
+  A: '1390'
+  E: '169'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  G: '121'
+  DP: '134'
+  PB: '27'
+  PO: '3066'
+  A: '1323'
+  E: '175'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  G: '122'
+  DP: '137'
+  PB: '8'
+  PO: '3247'
+  A: '1393'
+  E: '195'
+  PCT: '.960'
+  TP: '1'

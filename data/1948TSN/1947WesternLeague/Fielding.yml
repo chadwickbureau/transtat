@@ -1,0 +1,1927 @@
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kamler
+  nameClub1: Omaha
+  throws: L
+  Pos: 1B
+  G: '18'
+  PO: '142'
+  A: '9'
+  E: '1'
+  DP: '13'
+  PCT: '.993'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Ward
+  nameClub1: Pueblo
+  Pos: 1B
+  G: '125'
+  PO: '1067'
+  A: '76'
+  E: '17'
+  DP: '110'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Yurkovich
+  nameClub1: Lincoln
+  throws: L
+  Pos: 1B
+  G: '13'
+  PO: '876'
+  A: '40'
+  E: '14'
+  DP: '55'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Lewinski
+  nameClub1: Omaha
+  Pos: 1B
+  G: '113'
+  PO: '995'
+  A: '46'
+  E: '17'
+  DP: '106'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Crawford
+  nameClub1: Denver
+  throws: L
+  Pos: 1B
+  G: '121'
+  PO: '998'
+  A: '68'
+  E: '22'
+  DP: '84'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: York
+  nameClub1: Des Moines
+  throws: L
+  Pos: 1B
+  G: '86'
+  PO: '714'
+  A: '32'
+  E: '15'
+  DP: '55'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Jaros
+  nameClub1: Sioux City
+  Pos: 1B
+  G: '130'
+  PO: '1138'
+  A: '71'
+  E: '26'
+  DP: '86'
+  PCT: '.979'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Peden
+  nameClub1: Des Moines
+  Pos: 1B
+  G: '14'
+  PO: '127'
+  A: '5'
+  E: '3'
+  DP: '10'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kemper
+  nameClub1: Des Moines
+  Pos: 1B
+  G: '34'
+  PO: '300'
+  A: '16'
+  E: '9'
+  DP: '21'
+  PCT: '.972'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: McIrvin
+  nameClub1: Lincoln
+  throws: L
+  Pos: 1B
+  G: '18'
+  PO: '131'
+  A: '13'
+  E: '6'
+  DP: '11'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Schulte
+  nameClub1: Lincoln
+  Pos: 2B
+  G: '80'
+  PO: '207'
+  A: '188'
+  E: '10'
+  DP: '51'
+  PCT: '.975'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Zelasko
+  nameClub1: Des Moines
+  Pos: 2B
+  G: '35'
+  PO: '77'
+  A: '83'
+  E: '7'
+  DP: '20'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kazak
+  nameClub1: Omaha
+  Pos: 2B
+  G: '81'
+  PO: '177'
+  A: '245'
+  E: '19'
+  DP: '61'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Young
+  nameClub1: Des Moines
+  Pos: 2B
+  G: '34'
+  PO: '75'
+  A: '77'
+  E: '7'
+  DP: '11'
+  PCT: '.956'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bundy
+  nameClub1: Pueblo
+  Pos: 2B
+  G: '111'
+  PO: '305'
+  A: '305'
+  E: '30'
+  DP: '71'
+  PCT: '.953'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Morris
+  nameClub1: Lincoln
+  Pos: 2B
+  G: '45'
+  PO: '117'
+  A: '114'
+  E: '12'
+  DP: '20'
+  PCT: '.951'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Garcia
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '114'
+  PO: '303'
+  A: '316'
+  E: '34'
+  DP: '69'
+  PCT: '.948'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bogard
+  nameClub1: Denver
+  Pos: 2B
+  G: '14'
+  PO: '33'
+  A: '40'
+  E: '4'
+  DP: '10'
+  PCT: '.948'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Damato
+  nameClub1: Des Moines
+  Pos: 2B
+  G: '57'
+  PO: '140'
+  A: '159'
+  E: '17'
+  DP: '31'
+  PCT: '.946'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Galvin
+  nameClub1: Denver
+  Pos: 2B
+  G: '39'
+  PO: '109'
+  A: '103'
+  E: '15'
+  DP: '16'
+  PCT: '.934'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Conroy
+  nameClub1: Omaha
+  Pos: 2B
+  G: '31'
+  PO: '76'
+  A: '73'
+  E: '12'
+  DP: '16'
+  PCT: '.925'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Ortiz
+  nameClub1: Omaha
+  Pos: 2B
+  G: '16'
+  PO: '46'
+  A: '38'
+  E: '7'
+  DP: '7'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Holden
+  nameClub1: Pueblo
+  Pos: 2B
+  G: '23'
+  PO: '53'
+  A: '49'
+  E: '10'
+  DP: '17'
+  PCT: '.911'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Palmer
+  nameClub1: Denver
+  Pos: 2B
+  G: '15'
+  PO: '52'
+  A: '44'
+  E: '10'
+  DP: '13'
+  PCT: '.906'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Clow
+  nameClub1: Denver
+  Pos: 2B
+  G: '19'
+  PO: '44'
+  A: '50'
+  E: '12'
+  DP: '10'
+  PCT: '.887'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Martin
+  nameFirst: E.
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '16'
+  PO: '33'
+  A: '35'
+  E: '9'
+  DP: '8'
+  PCT: '.883'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Babe
+  nameClub1: Denver
+  Pos: 2B
+  G: '35'
+  PO: '93'
+  A: '101'
+  E: '28'
+  DP: '18'
+  PCT: '.874'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Zelasko
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '18'
+  PO: '20'
+  A: '40'
+  E: '2'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Henningsen
+  nameClub1: Omaha
+  Pos: 3B
+  G: '114'
+  PO: '117'
+  A: '208'
+  E: '17'
+  DP: '24'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Peden
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '105'
+  PO: '116'
+  A: '236'
+  E: '21'
+  DP: '17'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Jenkins
+  nameClub1: Lincoln
+  Pos: 3B
+  G: '125'
+  PO: '155'
+  A: '251'
+  E: '29'
+  DP: '20'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Steele
+  nameClub1: Pueblo
+  Pos: 3B
+  G: '102'
+  PO: '86'
+  A: '212'
+  E: '27'
+  DP: '17'
+  PCT: '.917'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Badgett
+  nameClub1: Denver
+  Pos: 3B
+  G: '103'
+  PO: '101'
+  A: '214'
+  E: '29'
+  DP: '16'
+  PCT: '.916'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Martin
+  nameFirst: E.
+  nameClub1: Sioux City
+  Pos: 3B
+  G: '112'
+  PO: '118'
+  A: '217'
+  E: '31'
+  DP: '24'
+  PCT: '.915'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Holden
+  nameClub1: Pueblo
+  Pos: 3B
+  G: '27'
+  PO: '29'
+  A: '50'
+  E: '8'
+  DP: '2'
+  PCT: '.908'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Erps
+  nameClub1: Omaha
+  Pos: 3B
+  G: '11'
+  PO: '12'
+  A: '26'
+  E: '4'
+  DP: '3'
+  PCT: '.905'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Babe
+  nameClub1: Denver
+  Pos: 3B
+  G: '17'
+  PO: '22'
+  A: '21'
+  E: '7'
+  DP: '4'
+  PCT: '.860'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: King
+  nameClub1: Denver
+  Pos: 3B
+  G: '11'
+  PO: '10'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.818'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Garcia
+  nameClub1: Sioux City
+  Pos: 3B
+  G: '16'
+  PO: '22'
+  A: '27'
+  E: '11'
+  DP: '3'
+  PCT: '.817'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Genovese
+  nameClub1: Omaha
+  Pos: SS
+  G: '112'
+  PO: '220'
+  A: '561'
+  E: '44'
+  DP: '77'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Angelone
+  nameClub1: Pueblo
+  Pos: SS
+  G: '122'
+  PO: '208'
+  A: '393'
+  E: '36'
+  DP: '88'
+  PCT: '.943'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Allegue
+  nameClub1: Lincoln
+  Pos: SS
+  G: '32'
+  PO: '56'
+  A: '107'
+  E: '11'
+  DP: '16'
+  PCT: '.937'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Carlson
+  nameFirst: R.
+  nameClub1: Sioux City
+  Pos: SS
+  G: '130'
+  PO: '255'
+  A: '374'
+  E: '49'
+  DP: '60'
+  PCT: '.928'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Smalley
+  nameClub1: Des Moines
+  Pos: SS
+  G: '114'
+  PO: '223'
+  A: '313'
+  E: '55'
+  DP: '62'
+  PCT: '.907'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Morris
+  nameClub1: Lincoln
+  Pos: SS
+  G: '46'
+  PO: '70'
+  A: '127'
+  E: '22'
+  DP: '18'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Palmer
+  nameClub1: Denver
+  Pos: SS
+  G: '96'
+  PO: '169'
+  A: '260'
+  E: '48'
+  DP: '50'
+  PCT: '.899'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Dunn
+  nameClub1: Denver
+  Pos: SS
+  G: '33'
+  PO: '59'
+  A: '99'
+  E: '19'
+  DP: '10'
+  PCT: '.893'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Powell
+  nameClub1: Lincoln
+  Pos: SS
+  G: '28'
+  PO: '40'
+  A: '82'
+  E: '16'
+  DP: '15'
+  PCT: '.884'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Lentz
+  nameClub1: Lincoln
+  Pos: SS
+  G: '18'
+  PO: '20'
+  A: '52'
+  E: '12'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Ortiz
+  nameClub1: Omaha
+  Pos: SS
+  G: '12'
+  PO: '23'
+  A: '21'
+  E: '9'
+  DP: '4'
+  PCT: '.830'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Burns
+  nameClub1: Des Moines
+  Pos: OF
+  G: '43'
+  PO: '57'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Evans
+  nameClub1: Lincoln
+  Pos: OF
+  G: '22'
+  PO: '53'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Uniak
+  nameClub1: Denver
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '9'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Holden
+  nameClub1: Pueblo
+  Pos: OF
+  G: '50'
+  PO: '67'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.986'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Conroy
+  nameClub1: Omaha
+  Pos: OF
+  G: '101'
+  PO: '183'
+  A: '9'
+  E: '3'
+  DP: '2'
+  PCT: '.985'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Partee
+  nameClub1: Des Moines
+  Pos: OF
+  G: '38'
+  PO: '56'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Krage
+  nameClub1: Pueblo
+  Pos: OF
+  G: '121'
+  PO: '234'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Metkovich
+  nameClub1: Sioux City
+  Pos: OF
+  G: '89'
+  PO: '176'
+  A: '10'
+  E: '6'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Harpuder
+  nameClub1: Sioux City
+  Pos: OF
+  G: '95'
+  PO: '179'
+  A: '5'
+  E: '6'
+  DP: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Cherry
+  nameClub1: Denver
+  Pos: OF
+  G: '114'
+  PO: '166'
+  A: '16'
+  E: '6'
+  DP: '4'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Aberson
+  nameClub1: Des Moines
+  Pos: OF
+  G: '66'
+  PO: '83'
+  A: '8'
+  E: '3'
+  DP: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Badgett
+  nameClub1: Denver
+  Pos: OF
+  G: '13'
+  PO: '28'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bender
+  nameClub1: Lincoln
+  Pos: OF
+  G: '17'
+  PO: '29'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Pfeffer
+  nameClub1: Denver
+  Pos: OF
+  G: '29'
+  PO: '53'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: King
+  nameClub1: Denver
+  Pos: OF
+  G: '90'
+  PO: '177'
+  A: '17'
+  E: '7'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Clarkson
+  nameClub1: Pueblo
+  Pos: OF
+  G: '119'
+  PO: '212'
+  A: '5'
+  E: '8'
+  DP: '4'
+  PCT: '.964'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Turcy
+  nameClub1: Sioux City
+  Pos: OF
+  G: '73'
+  PO: '118'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: LeBlanc
+  nameClub1: Omaha
+  Pos: OF
+  G: '25'
+  PO: '23'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Basso
+  nameClub1: Omaha
+  Pos: OF
+  G: '29'
+  PO: '46'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Vernillo
+  nameClub1: Lincoln
+  Pos: OF
+  G: '117'
+  PO: '246'
+  A: '17'
+  E: '11'
+  DP: '8'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Skeen
+  nameClub1: Lincoln
+  throws: L
+  Pos: OF
+  G: '83'
+  PO: '173'
+  A: '12'
+  E: '8'
+  DP: '6'
+  PCT: '.959'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Burgess
+  nameClub1: Denver
+  throws: L
+  Pos: OF
+  G: '119'
+  PO: '278'
+  A: '15'
+  E: '13'
+  DP: '3'
+  PCT: '.958'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Mauro
+  nameClub1: Des Moines
+  throws: L
+  Pos: OF
+  G: '122'
+  PO: '273'
+  A: '15'
+  E: '15'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Borkowski
+  nameClub1: Des Moines
+  Pos: OF
+  G: '114'
+  PO: '224'
+  A: '23'
+  E: '13'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Marks
+  nameClub1: Omaha
+  Pos: OF
+  G: '107'
+  PO: '186'
+  A: '10'
+  E: '11'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kobesky
+  nameClub1: Lincoln
+  Pos: OF
+  G: '51'
+  PO: '67'
+  A: '1'
+  E: '4'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: James
+  nameClub1: Lincoln
+  Pos: OF
+  G: '22'
+  PO: '47'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bell
+  nameClub1: Sioux City
+  nameClub2: Omaha
+  Pos: OF
+  G: '84'
+  PO: '156'
+  A: '7'
+  E: '10'
+  DP: '1'
+  PCT: '.942'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Moore
+  nameClub1: Pueblo
+  Pos: OF
+  G: '83'
+  PO: '176'
+  A: '8'
+  E: '12'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: McIrvin
+  nameClub1: Lincoln
+  throws: L
+  Pos: OF
+  G: '41'
+  PO: '62'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Miggins
+  nameClub1: Sioux City
+  Pos: OF
+  G: '70'
+  PO: '155'
+  A: '9'
+  E: '11'
+  DP: '1'
+  PCT: '.937'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Gittens
+  nameClub1: Sioux City
+  Pos: OF
+  G: '19'
+  PO: '28'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kamler
+  nameClub1: Omaha
+  throws: L
+  Pos: OF
+  G: '71'
+  PO: '88'
+  A: '8'
+  E: '7'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Gravino
+  nameClub1: Omaha
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Samocki
+  nameClub1: Lincoln
+  Pos: OF
+  G: '15'
+  PO: '24'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Phillips
+  nameClub1: Pueblo
+  Pos: OF
+  G: '17'
+  PO: '22'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kemper
+  nameClub1: Des Moines
+  Pos: OF
+  G: '15'
+  PO: '19'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.870'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Ellspermann
+  nameClub1: Denver
+  Pos: OF
+  G: '20'
+  PO: '22'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Mele
+  nameClub1: Pueblo
+  Pos: OF
+  G: '20'
+  PO: '22'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kern
+  nameClub1: Denver
+  Pos: C
+  G: '11'
+  PO: '43'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Fortune
+  nameClub1: Des Moines
+  Pos: C
+  G: '17'
+  PO: '200'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PB: '5'
+  PCT: '.991'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Wheeler
+  nameClub1: Sioux City
+  Pos: C
+  G: '111'
+  PO: '578'
+  A: '66'
+  E: '9'
+  DP: '12'
+  PB: '9'
+  PCT: '.986'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Okrie
+  nameClub1: Des Moines
+  Pos: C
+  G: '22'
+  PO: '121'
+  A: '14'
+  E: '3'
+  DP: '0'
+  PB: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Paulson
+  nameClub1: Denver
+  Pos: C
+  G: '52'
+  PO: '304'
+  A: '36'
+  E: '8'
+  DP: '4'
+  PB: '9'
+  PCT: '.977'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bucha
+  nameClub1: Omaha
+  Pos: C
+  G: '69'
+  PO: '511'
+  A: '49'
+  E: '14'
+  DP: '6'
+  PB: '6'
+  PCT: '.976'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Calderone
+  nameClub1: Pueblo
+  Pos: C
+  G: '83'
+  PO: '345'
+  A: '50'
+  E: '11'
+  DP: '5'
+  PB: '9'
+  PCT: '.973'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kluttz
+  nameClub1: Omaha
+  Pos: C
+  G: '33'
+  PO: '233'
+  A: '32'
+  E: '8'
+  DP: '1'
+  PB: '5'
+  PCT: '.971'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Ahearn
+  nameClub1: Sioux City
+  Pos: C
+  G: '24'
+  PO: '92'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PB: '5'
+  PCT: '.970'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Tyson
+  nameClub1: Lincoln
+  Pos: C
+  G: '45'
+  PO: '212'
+  A: '24'
+  E: '8'
+  DP: '5'
+  PB: '6'
+  PCT: '.967'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Ellspermann
+  nameClub1: Denver
+  Pos: C
+  G: '67'
+  PO: '286'
+  A: '35'
+  E: '13'
+  DP: '6'
+  PB: '7'
+  PCT: '.961'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Peterman
+  nameClub1: Lincoln
+  Pos: C
+  G: '65'
+  PO: '203'
+  A: '57'
+  E: '11'
+  DP: '9'
+  PB: '8'
+  PCT: '.959'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Aylward
+  nameClub1: Des Moines
+  Pos: C
+  G: '42'
+  PO: '224'
+  A: '40'
+  E: '12'
+  DP: '4'
+  PB: '7'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Devlin
+  nameClub1: Lincoln
+  Pos: C
+  G: '17'
+  PO: '81'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PB: '5'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: LeBlanc
+  nameClub1: Omaha
+  Pos: C
+  G: '40'
+  PO: '243'
+  A: '17'
+  E: '13'
+  DP: '2'
+  PB: '12'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Mele
+  nameClub1: Pueblo
+  Pos: C
+  G: '56'
+  PO: '283'
+  A: '28'
+  E: '18'
+  DP: '3'
+  PB: '10'
+  PCT: '.945'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kemper
+  nameClub1: Des Moines
+  Pos: C
+  G: '66'
+  PO: '298'
+  A: '56'
+  E: '21'
+  DP: '6'
+  PB: '11'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kuhlman
+  nameClub1: Des Moines
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '32'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Schallock
+  nameClub1: Pueblo
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '29'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Ross
+  nameClub1: Pueblo
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '8'
+  A: '19'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Chmiel
+  nameClub1: Des Moines
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '4'
+  A: '21'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Andromidas
+  nameClub1: Sioux City
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '20'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Perko
+  nameClub1: Pueblo
+  Pos: P
+  G: '32'
+  PO: '1'
+  A: '21'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Miller
+  nameClub1: Lincoln
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Prust
+  nameClub1: Des Moines
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '17'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Lammers
+  nameClub1: Des Moines
+  Pos: P
+  G: '18'
+  PO: '0'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Lee
+  nameClub1: Omaha
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '12'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Garbett
+  nameClub1: Denver
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Harris
+  nameClub1: Lincoln
+  Pos: P
+  G: '23'
+  PO: '10'
+  A: '53'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Webb
+  nameClub1: Sioux City
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '67'
+  E: '2'
+  DP: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Alexander
+  nameClub1: Denver
+  Pos: P
+  G: '36'
+  PO: '10'
+  A: '61'
+  E: '2'
+  DP: '3'
+  PCT: '.973'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Niggeling
+  nameClub1: Sioux City
+  Pos: P
+  G: '20'
+  PO: '3'
+  A: '28'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Revels
+  nameClub1: Denver
+  Pos: P
+  G: '34'
+  PO: '4'
+  A: '57'
+  E: '2'
+  DP: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Crimian
+  nameClub1: Omaha
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '45'
+  E: '2'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Davison
+  nameClub1: Des Moines
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '0'
+  A: '24'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Thierolf
+  nameClub1: Omaha
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Rosin
+  nameClub1: Denver
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Uber
+  nameClub1: Sioux City
+  Pos: P
+  G: '29'
+  PO: '10'
+  A: '34'
+  E: '2'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Wagner
+  nameClub1: Sioux City
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '20'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Martin
+  nameFirst: W.
+  nameClub1: Des Moines
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '38'
+  E: '2'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Strunk
+  nameClub1: Sioux City
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '9'
+  A: '31'
+  E: '2'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bakkelund
+  nameClub1: Omaha
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '34'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Lown
+  nameClub1: Pueblo
+  Pos: P
+  G: '33'
+  PO: '14'
+  A: '41'
+  E: '3'
+  DP: '3'
+  PCT: '.948'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Johnson
+  nameClub1: Denver
+  throws: L
+  Pos: P
+  G: '49'
+  PO: '9'
+  A: '27'
+  E: '2'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Shepard
+  nameClub1: Pueblo
+  Pos: P
+  G: '33'
+  PO: '11'
+  A: '41'
+  E: '3'
+  DP: '2'
+  PCT: '.945'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Brightwell
+  nameClub1: Pueblo
+  Pos: P
+  G: '34'
+  PO: '10'
+  A: '41'
+  E: '3'
+  DP: '6'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Opperman
+  nameClub1: Denver
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '16'
+  E: '1'
+  DP: '3'
+  PCT: '.944'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Reidy
+  nameClub1: Lincoln
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Nozinski
+  nameClub1: Pueblo
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '24'
+  E: '2'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Burtschy
+  nameClub1: Lincoln
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '22'
+  E: '2'
+  DP: '3'
+  PCT: '.929'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Jacobs
+  nameClub1: Des Moines
+  Pos: P
+  G: '35'
+  PO: '5'
+  A: '45'
+  E: '4'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: McIrvin
+  nameClub1: Lincoln
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '22'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Carden
+  nameClub1: Sioux City
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Condit
+  nameClub1: Pueblo
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Stewart
+  nameClub1: Des Moines
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Melignano
+  nameClub1: Denver
+  Pos: P
+  G: '41'
+  PO: '9'
+  A: '28'
+  E: '4'
+  DP: '0'
+  PCT: '.902'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bender
+  nameClub1: Lincoln
+  Pos: P
+  G: '29'
+  PO: '2'
+  A: '34'
+  E: '4'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bishop
+  nameClub1: Omaha
+  Pos: P
+  G: '28'
+  PO: '1'
+  A: '24'
+  E: '3'
+  DP: '0'
+  PCT: '.893'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Clyde
+  nameClub1: Lincoln
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Bonness
+  nameClub1: Des Moines
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Klippstein
+  nameClub1: Omaha
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Schoenborn
+  nameClub1: Sioux City
+  Pos: P
+  G: '31'
+  PO: '8'
+  A: '60'
+  E: '9'
+  DP: '5'
+  PCT: '.883'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Kelley
+  nameClub1: Omaha
+  Pos: P
+  G: '30'
+  PO: '3'
+  A: '32'
+  E: '5'
+  DP: '4'
+  PCT: '.875'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Pereyra
+  nameClub1: Denver
+  Pos: P
+  G: '27'
+  PO: '8'
+  A: '26'
+  E: '5'
+  DP: '1'
+  PCT: '.872'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: McCullough
+  nameClub1: Omaha
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '24'
+  E: '4'
+  DP: '2'
+  PCT: '.871'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Wells
+  nameClub1: Lincoln
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '17'
+  E: '3'
+  DP: '0'
+  PCT: '.870'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Adams
+  nameClub1: Lincoln
+  Pos: P
+  G: '20'
+  PO: '6'
+  A: '25'
+  E: '6'
+  DP: '0'
+  PCT: '.838'
+  TP: '0'
+- year: '1947'
+  nameLeague: Western League
+  nameLast: Madison
+  nameClub1: Denver
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '8'
+  E: '3'
+  DP: '1'
+  PCT: '.750'
+  TP: '0'

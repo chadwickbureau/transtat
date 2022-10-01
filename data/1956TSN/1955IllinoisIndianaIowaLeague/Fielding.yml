@@ -1,0 +1,2815 @@
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Andrews
+  nameClub1: Evansville
+  Pos: 1B
+  G: '52'
+  PO: '400'
+  A: '36'
+  E: '4'
+  DP: '34'
+  PCT: '.991'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Creighton
+  nameClub1: Waterloo
+  throws: L
+  Pos: 1B
+  G: '105'
+  PO: '853'
+  A: '60'
+  E: '10'
+  DP: '76'
+  PCT: '.989'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Voigt
+  nameClub1: Burlington
+  throws: L
+  Pos: 1B
+  G: '98'
+  PO: '814'
+  A: '43'
+  E: '10'
+  DP: '63'
+  PCT: '.988'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Means
+  nameClub1: Waterloo
+  throws: L
+  Pos: 1B
+  G: '11'
+  PO: '70'
+  A: '6'
+  E: '1'
+  DP: '5'
+  PCT: '.987'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Shannon
+  nameClub1: Peoria
+  Pos: 1B
+  G: '39'
+  PO: '344'
+  A: '12'
+  E: '5'
+  DP: '28'
+  PCT: '.986'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Kudajeski
+  nameClub1: Quincy
+  throws: L
+  Pos: 1B
+  G: '112'
+  PO: '956'
+  A: '62'
+  E: '15'
+  DP: '124'
+  PCT: '.985'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Stephens
+  nameClub1: Keokuk
+  Pos: 1B
+  G: '126'
+  PO: '1040'
+  A: '72'
+  E: '18'
+  DP: '99'
+  PCT: '.984'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bigham
+  nameClub1: Evansville
+  throws: L
+  Pos: 1B
+  G: '61'
+  PO: '460'
+  A: '33'
+  E: '9'
+  DP: '35'
+  PCT: '.982'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Walenga
+  nameClub1: Terre Haute
+  Pos: 1B
+  G: '32'
+  PO: '252'
+  A: '17'
+  E: '5'
+  DP: '21'
+  PCT: '.982'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Patton
+  nameClub1: Waterloo
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '99'
+  A: '8'
+  E: '2'
+  DP: '4'
+  PCT: '.982'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: O'Keefe
+  nameClub1: Cedar Rapids
+  throws: L
+  Pos: 1B
+  G: '115'
+  PO: '849'
+  A: '90'
+  E: '19'
+  DP: '82'
+  PCT: '.980'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Williams
+  nameClub1: Evansville
+  Pos: 1B
+  G: '18'
+  PO: '156'
+  A: '7'
+  E: '4'
+  DP: '20'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Perry
+  nameClub1: Cedar Rapids
+  Pos: 1B
+  G: '10'
+  PO: '71'
+  A: '5'
+  E: '2'
+  DP: '4'
+  PCT: '.974'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Johnston
+  nameClub1: Quincy
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '135'
+  A: '8'
+  E: '4'
+  DP: '10'
+  PCT: '.973'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Murphy
+  nameClub1: Peoria
+  Pos: 1B
+  G: '12'
+  PO: '98'
+  A: '7'
+  E: '3'
+  DP: '10'
+  PCT: '.972'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Tucker
+  nameClub1: Peoria
+  throws: L
+  Pos: 1B
+  G: '70'
+  PO: '527'
+  A: '41'
+  E: '18'
+  DP: '41'
+  PCT: '.969'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Ferris
+  nameClub1: Terre Haute
+  Pos: 1B
+  G: '61'
+  PO: '500'
+  A: '25'
+  E: '18'
+  DP: '55'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Malnack
+  nameClub1: Peoria
+  Pos: 1B
+  G: '13'
+  PO: '113'
+  A: '2'
+  E: '4'
+  DP: '9'
+  PCT: '.966'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sheehan
+  nameClub1: Burlington
+  Pos: 1B
+  G: '22'
+  PO: '156'
+  A: '9'
+  E: '6'
+  DP: '10'
+  PCT: '.965'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Waters
+  nameClub1: Terre Haute
+  throws: L
+  Pos: 1B
+  G: '33'
+  PO: '268'
+  A: '14'
+  E: '13'
+  DP: '31'
+  PCT: '.956'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Della Monica
+  nameClub1: Waterloo
+  Pos: 2B
+  G: '34'
+  PO: '79'
+  A: '95'
+  E: '2'
+  DP: '20'
+  PCT: '.989'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Jankowski
+  nameClub1: Keokuk
+  Pos: 2B
+  G: '108'
+  PO: '221'
+  A: '280'
+  E: '13'
+  DP: '64'
+  PCT: '.975'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Izquierdo
+  nameClub1: Keokuk
+  Pos: 2B
+  G: '18'
+  PO: '45'
+  A: '34'
+  E: '2'
+  DP: '11'
+  PCT: '.975'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Camacho
+  nameFirst: R.
+  nameClub1: Peoria
+  Pos: 2B
+  G: '57'
+  PO: '131'
+  A: '137'
+  E: '8'
+  DP: '32'
+  PCT: '.971'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Krsnich
+  nameClub1: Evansville
+  Pos: 2B
+  G: '15'
+  PO: '36'
+  A: '29'
+  E: '2'
+  DP: '6'
+  PCT: '.970'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: McCotter
+  nameClub1: Burlington
+  Pos: 2B
+  G: '52'
+  PO: '98'
+  A: '134'
+  E: '8'
+  DP: '27'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bentfield
+  nameClub1: Terre Haute
+  Pos: 2B
+  G: '17'
+  PO: '52'
+  A: '55'
+  E: '4'
+  DP: '13'
+  PCT: '.964'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Nelson
+  nameFirst: D.
+  nameClub1: Evansville
+  Pos: 2B
+  G: '97'
+  PO: '234'
+  A: '284'
+  E: '20'
+  DP: '61'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Cozart
+  nameClub1: Cedar Rapids
+  Pos: 2B
+  G: '65'
+  PO: '168'
+  A: '160'
+  E: '14'
+  DP: '37'
+  PCT: '.959'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Jones
+  nameFirst: G.
+  nameClub1: Waterloo
+  Pos: 2B
+  G: '78'
+  PO: '194'
+  A: '219'
+  E: '18'
+  DP: '48'
+  PCT: '.958'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wyatt
+  nameClub1: Quincy
+  Pos: 2B
+  G: '99'
+  PO: '250'
+  A: '282'
+  E: '24'
+  DP: '86'
+  PCT: '.957'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Moore
+  nameClub1: Burlington
+  Pos: 2B
+  G: '77'
+  PO: '156'
+  A: '168'
+  E: '15'
+  DP: '31'
+  PCT: '.956'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Williams
+  nameClub1: Evansville
+  Pos: 2B
+  G: '14'
+  PO: '35'
+  A: '28'
+  E: '3'
+  DP: '6'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Petro
+  nameClub1: Terre Haute
+  Pos: 2B
+  G: '29'
+  PO: '78'
+  A: '76'
+  E: '8'
+  DP: '18'
+  PCT: '.951'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Davis
+  nameFirst: S.
+  nameClub1: Terre Haute
+  Pos: 2B
+  G: '65'
+  PO: '189'
+  A: '192'
+  E: '20'
+  DP: '51'
+  PCT: '.950'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Yoder
+  nameClub1: Cedar Rapids
+  Pos: 2B
+  G: '63'
+  PO: '176'
+  A: '140'
+  E: '18'
+  DP: '36'
+  PCT: '.946'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Shannon
+  nameClub1: Peoria
+  Pos: 2B
+  G: '55'
+  PO: '107'
+  A: '132'
+  E: '16'
+  DP: '2'
+  PCT: '.937'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Durkin
+  nameClub1: Terre Haute
+  Pos: 2B
+  G: '11'
+  PO: '19'
+  A: '28'
+  E: '4'
+  DP: '8'
+  PCT: '.922'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Rivas
+  nameClub1: Waterloo
+  Pos: 2B
+  G: '10'
+  PO: '22'
+  A: '23'
+  E: '4'
+  DP: '2'
+  PCT: '.918'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Camacho
+  nameFirst: M.
+  nameClub1: Peoria
+  Pos: 2B
+  G: '12'
+  PO: '28'
+  A: '35'
+  E: '6'
+  DP: '7'
+  PCT: '.913'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Perry
+  nameClub1: Cedar Rapids
+  Pos: 3B
+  G: '73'
+  PO: '78'
+  A: '124'
+  E: '10'
+  DP: '18'
+  PCT: '.953'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Vitale
+  nameClub1: Quincy
+  Pos: 3B
+  G: '59'
+  PO: '63'
+  A: '108'
+  E: '10'
+  DP: '17'
+  PCT: '.945'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Newton
+  nameClub1: Terre Haute
+  Pos: 3B
+  G: '48'
+  PO: '64'
+  A: '77'
+  E: '9'
+  DP: '10'
+  PCT: '.940'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Eaddy
+  nameClub1: Burlington
+  Pos: 3B
+  G: '32'
+  PO: '31'
+  A: '69'
+  E: '7'
+  DP: '8'
+  PCT: '.935'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bentfield
+  nameClub1: Terre Haute
+  Pos: 3B
+  G: '23'
+  PO: '24'
+  A: '48'
+  E: '5'
+  DP: '6'
+  PCT: '.935'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Krsnich
+  nameClub1: Evansville
+  Pos: 3B
+  G: '48'
+  PO: '53'
+  A: '89'
+  E: '10'
+  DP: '11'
+  PCT: '.934'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Yoder
+  nameClub1: Cedar Rapids
+  Pos: 3B
+  G: '50'
+  PO: '57'
+  A: '110'
+  E: '12'
+  DP: '17'
+  PCT: '.933'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sheehan
+  nameClub1: Burlington
+  Pos: 3B
+  G: '21'
+  PO: '12'
+  A: '42'
+  E: '4'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sagers
+  nameClub1: Waterloo
+  Pos: 3B
+  G: '122'
+  PO: '164'
+  A: '251'
+  E: '34'
+  DP: '35'
+  PCT: '.924'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Brunacki
+  nameClub1: Peoria
+  Pos: 3B
+  G: '112'
+  PO: '135'
+  A: '199'
+  E: '29'
+  DP: '17'
+  PCT: '.920'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Spinner
+  nameClub1: Keokuk
+  Pos: 3B
+  G: '111'
+  PO: '115'
+  A: '218'
+  E: '32'
+  DP: '26'
+  PCT: '.912'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Moore
+  nameClub1: Burlington
+  Pos: 3B
+  G: '21'
+  PO: '19'
+  A: '38'
+  E: '6'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Williams
+  nameClub1: Evansville
+  Pos: 3B
+  G: '54'
+  PO: '52'
+  A: '71'
+  E: '14'
+  DP: '3'
+  PCT: '.898'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Darrah
+  nameClub1: Quincy
+  Pos: 3B
+  G: '45'
+  PO: '53'
+  A: '73'
+  E: '15'
+  DP: '9'
+  PCT: '.894'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Miller
+  nameClub1: Peoria
+  Pos: 3B
+  G: '14'
+  PO: '15'
+  A: '35'
+  E: '6'
+  DP: '1'
+  PCT: '.893'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Walenga
+  nameClub1: Terre Haute
+  Pos: 3B
+  G: '49'
+  PO: '53'
+  A: '62'
+  E: '15'
+  DP: '9'
+  PCT: '.885'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: McCotter
+  nameClub1: Burlington
+  Pos: 3B
+  G: '34'
+  PO: '44'
+  A: '63'
+  E: '15'
+  DP: '6'
+  PCT: '.877'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Reed
+  nameClub1: Evansville
+  Pos: 3B
+  G: '19'
+  PO: '14'
+  A: '35'
+  E: '8'
+  DP: '4'
+  PCT: '.860'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Izquierdo
+  nameClub1: Keokuk
+  Pos: 3B
+  G: '17'
+  PO: '16'
+  A: '20'
+  E: '9'
+  DP: '2'
+  PCT: '.800'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Vitale
+  nameClub1: Quincy
+  Pos: SS
+  G: '16'
+  PO: '23'
+  A: '47'
+  E: '2'
+  DP: '9'
+  PCT: '.972'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Izquierdo
+  nameClub1: Keokuk
+  Pos: SS
+  G: '10'
+  PO: '15'
+  A: '16'
+  E: '1'
+  DP: '6'
+  PCT: '.969'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Johnson
+  nameClub1: Waterloo
+  Pos: SS
+  G: '19'
+  PO: '38'
+  A: '46'
+  E: '4'
+  DP: '6'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wilhite
+  nameClub1: Waterloo
+  Pos: SS
+  G: '99'
+  PO: '187'
+  A: '258'
+  E: '23'
+  DP: '50'
+  PCT: '.951'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Shannon
+  nameClub1: Peoria
+  Pos: SS
+  G: '10'
+  PO: '14'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Flory
+  nameClub1: Evansville
+  Pos: SS
+  G: '115'
+  PO: '204'
+  A: '309'
+  E: '32'
+  DP: '57'
+  PCT: '.941'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Pedigree
+  nameClub1: Keokuk
+  Pos: SS
+  G: '121'
+  PO: '188'
+  A: '295'
+  E: '32'
+  DP: '59'
+  PCT: '.938'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Costa
+  nameClub1: Cedar Rapids
+  Pos: SS
+  G: '36'
+  PO: '58'
+  A: '75'
+  E: '9'
+  DP: '14'
+  PCT: '.937'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Kubek
+  nameClub1: Quincy
+  Pos: SS
+  G: '110'
+  PO: '205'
+  A: '351'
+  E: '38'
+  DP: '89'
+  PCT: '.936'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Garcia
+  nameClub1: Peoria
+  Pos: SS
+  G: '113'
+  PO: '202'
+  A: '324'
+  E: '42'
+  DP: '60'
+  PCT: '.926'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Cozart
+  nameClub1: Cedar Rapids
+  Pos: SS
+  G: '32'
+  PO: '41'
+  A: '61'
+  E: '9'
+  DP: '10'
+  PCT: '.919'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Hamman
+  nameClub1: Burlington
+  Pos: SS
+  G: '125'
+  PO: '188'
+  A: '315'
+  E: '46'
+  DP: '57'
+  PCT: '.916'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bentfield
+  nameClub1: Terre Haute
+  Pos: SS
+  G: '76'
+  PO: '145'
+  A: '227'
+  E: '36'
+  DP: '42'
+  PCT: '.912'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Jingling
+  nameClub1: Terre Haute
+  Pos: SS
+  G: '45'
+  PO: '69'
+  A: '115'
+  E: '18'
+  DP: '19'
+  PCT: '.911'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sickel
+  nameClub1: Cedar Rapids
+  Pos: SS
+  G: '65'
+  PO: '96'
+  A: '142'
+  E: '25'
+  DP: '25'
+  PCT: '.905'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Reed
+  nameClub1: Evansville
+  Pos: SS
+  G: '11'
+  PO: '21'
+  A: '26'
+  E: '6'
+  DP: '4'
+  PCT: '.887'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sullivan
+  nameClub1: Cedar Rapids
+  throws: L
+  Pos: OF
+  G: '18'
+  PO: '38'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sass
+  nameClub1: Terre Haute
+  Pos: OF
+  G: '23'
+  PO: '25'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Green
+  nameClub1: Peoria
+  Pos: OF
+  G: '103'
+  PO: '215'
+  A: '15'
+  E: '3'
+  DP: '4'
+  PCT: '.987'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Gragg
+  nameClub1: Burlington
+  throws: L
+  Pos: OF
+  G: '24'
+  PO: '66'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Brown
+  nameFirst: J.
+  nameClub1: Evansville
+  Pos: OF
+  G: '34'
+  PO: '62'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.985'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Jones
+  nameFirst: M.
+  nameClub1: Waterloo
+  Pos: OF
+  G: '44'
+  PO: '57'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Darrah
+  nameClub1: Quincy
+  Pos: OF
+  G: '63'
+  PO: '121'
+  A: '19'
+  E: '3'
+  DP: '5'
+  PCT: '.979'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Izquierdo
+  nameClub1: Keokuk
+  Pos: OF
+  G: '57'
+  PO: '122'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Slusarek
+  nameClub1: Burlington
+  Pos: OF
+  G: '49'
+  PO: '78'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Will
+  nameClub1: Burlington
+  throws: L
+  Pos: OF
+  G: '115'
+  PO: '322'
+  A: '10'
+  E: '8'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Peeples
+  nameClub1: Evansville
+  Pos: OF
+  G: '55'
+  PO: '117'
+  A: '5'
+  E: '3'
+  DP: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Tucker
+  nameClub1: Peoria
+  throws: L
+  Pos: OF
+  G: '56'
+  PO: '109'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Kwiatkowski
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '126'
+  PO: '343'
+  A: '17'
+  E: '10'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Zuccarini
+  nameClub1: Peoria
+  Pos: OF
+  G: '40'
+  PO: '92'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Hurych
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '43'
+  PO: '60'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: June
+  nameClub1: Keokuk
+  Pos: OF
+  G: '100'
+  PO: '174'
+  A: '9'
+  E: '6'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Miller
+  nameClub1: Peoria
+  Pos: OF
+  G: '19'
+  PO: '28'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Mauney
+  nameClub1: Burlington
+  Pos: OF
+  G: '15'
+  PO: '29'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: McAnany
+  nameClub1: Waterloo
+  Pos: OF
+  G: '52'
+  PO: '113'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Incaviglia
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '68'
+  PO: '111'
+  A: '5'
+  E: '4'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Geedey
+  nameClub1: Evansville
+  Pos: OF
+  G: '86'
+  PO: '134'
+  A: '10'
+  E: '5'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Witwicki
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '102'
+  PO: '201'
+  A: '11'
+  E: '8'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Maye
+  nameClub1: Evansville
+  Pos: OF
+  G: '20'
+  PO: '51'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Williams
+  nameClub1: Evansville
+  Pos: OF
+  G: '19'
+  PO: '26'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Ernaga
+  nameClub1: Burlington
+  Pos: OF
+  G: '122'
+  PO: '195'
+  A: '12'
+  E: '8'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Kosis
+  nameClub1: Peoria
+  Pos: OF
+  G: '49'
+  PO: '100'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Cash
+  nameClub1: Waterloo
+  throws: L
+  Pos: OF
+  G: '91'
+  PO: '173'
+  A: '6'
+  E: '7'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Crumpton
+  nameClub1: Peoria
+  Pos: OF
+  G: '14'
+  PO: '19'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Unfried
+  nameClub1: Evansville
+  Pos: OF
+  G: '94'
+  PO: '140'
+  A: '10'
+  E: '8'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Killoren
+  nameClub1: Quincy
+  throws: L
+  Pos: OF
+  G: '116'
+  PO: '211'
+  A: '16'
+  E: '13'
+  DP: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Means
+  nameClub1: Waterloo
+  throws: L
+  Pos: OF
+  G: '96'
+  PO: '165'
+  A: '11'
+  E: '10'
+  DP: '2'
+  PCT: '.946'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sheehan
+  nameClub1: Burlington
+  Pos: OF
+  G: '51'
+  PO: '96'
+  A: '5'
+  E: '6'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Thomas
+  nameClub1: Quincy
+  Pos: OF
+  G: '97'
+  PO: '177'
+  A: '20'
+  E: '12'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Lombardi
+  nameClub1: Waterloo
+  Pos: OF
+  G: '49'
+  PO: '91'
+  A: '8'
+  E: '6'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Hofleit
+  nameClub1: Keokuk
+  Pos: OF
+  G: '87'
+  PO: '138'
+  A: '7'
+  E: '9'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wells
+  nameClub1: Evansville
+  Pos: OF
+  G: '12'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Camilli
+  nameClub1: Terre Haute
+  Pos: OF
+  G: '121'
+  PO: '195'
+  A: '10'
+  E: '13'
+  DP: '2'
+  PCT: '.940'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bigham
+  nameClub1: Evansville
+  throws: L
+  Pos: OF
+  G: '63'
+  PO: '129'
+  A: '6'
+  E: '9'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Fahringer
+  nameClub1: Waterloo
+  Pos: OF
+  G: '48'
+  PO: '124'
+  A: '7'
+  E: '9'
+  DP: '0'
+  PCT: '.936'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Schultz
+  nameClub1: Terre Haute
+  Pos: OF
+  G: '102'
+  PO: '261'
+  A: '10'
+  E: '20'
+  DP: '2'
+  PCT: '.931'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Anderson
+  nameClub1: Peoria
+  Pos: OF
+  G: '27'
+  PO: '52'
+  A: '2'
+  E: '4'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Coleman
+  nameClub1: Keokuk
+  Pos: OF
+  G: '93'
+  PO: '127'
+  A: '11'
+  E: '12'
+  DP: '2'
+  PCT: '.920'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Szabo
+  nameClub1: Terre Haute
+  Pos: OF
+  G: '76'
+  PO: '132'
+  A: '4'
+  E: '13'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Williams
+  nameClub1: Keokuk
+  Pos: OF
+  G: '20'
+  PO: '36'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Aprea
+  nameClub1: Quincy
+  throws: L
+  Pos: OF
+  G: '101'
+  PO: '147'
+  A: '10'
+  E: '16'
+  DP: '3'
+  PCT: '.908'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bennett
+  nameClub1: Peoria
+  Pos: OF
+  G: '46'
+  PO: '63'
+  A: '6'
+  E: '7'
+  DP: '3'
+  PCT: '.908'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Petro
+  nameClub1: Terre Haute
+  Pos: OF
+  G: '29'
+  PO: '38'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Rogers
+  nameClub1: Cedar Rapids
+  Pos: OF
+  G: '11'
+  PO: '13'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Davis
+  nameFirst: E.
+  nameClub1: Terre Haute
+  Pos: OF
+  G: '18'
+  PO: '16'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.864'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Truss
+  nameClub1: Keokuk
+  Pos: OF
+  G: '11'
+  PO: '18'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.864'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Malnack
+  nameClub1: Peoria
+  Pos: OF
+  G: '13'
+  PO: '10'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Brown
+  nameClub1: Peoria
+  Pos: OF
+  G: '11'
+  PO: '11'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Spencer
+  nameClub1: Keokuk
+  Pos: OF
+  G: '10'
+  PO: '6'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Malnack
+  nameClub1: Peoria
+  Pos: C
+  G: '15'
+  PO: '90'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PB: '2'
+  PCT: '.990'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Meek
+  nameClub1: Burlington
+  Pos: C
+  G: '97'
+  PO: '642'
+  A: '56'
+  E: '9'
+  DP: '9'
+  PB: '7'
+  PCT: '.987'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Nixon
+  nameClub1: Keokuk
+  Pos: C
+  G: '94'
+  PO: '718'
+  A: '47'
+  E: '10'
+  DP: '7'
+  PB: '6'
+  PCT: '.987'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Hoscheit
+  nameClub1: Quincy
+  Pos: C
+  G: '32'
+  PO: '209'
+  A: '13'
+  E: '3'
+  DP: '2'
+  PB: '1'
+  PCT: '.987'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wells
+  nameClub1: Evansville
+  Pos: C
+  G: '38'
+  PO: '257'
+  A: '23'
+  E: '4'
+  DP: '3'
+  PB: '3'
+  PCT: '.986'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Roseboro
+  nameClub1: Cedar Rapids
+  Pos: C
+  G: '53'
+  PO: '352'
+  A: '27'
+  E: '7'
+  DP: '4'
+  PB: '4'
+  PCT: '.982'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Patton
+  nameClub1: Peoria
+  Pos: C
+  G: '98'
+  PO: '593'
+  A: '51'
+  E: '14'
+  DP: '9'
+  PB: '7'
+  PCT: '.979'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Cummings
+  nameClub1: Evansville
+  nameClub2: Quincy
+  Pos: C
+  G: '58'
+  PO: '336'
+  A: '37'
+  E: '8'
+  DP: '4'
+  PB: '6'
+  PCT: '.979'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Mauney
+  nameClub1: Burlington
+  Pos: C
+  G: '28'
+  PO: '161'
+  A: '14'
+  E: '4'
+  DP: '3'
+  PB: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Izquierdo
+  nameClub1: Keokuk
+  Pos: C
+  G: '27'
+  PO: '183'
+  A: '21'
+  E: '5'
+  DP: '3'
+  PB: '4'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wagner
+  nameClub1: Terre Haute
+  Pos: C
+  G: '78'
+  PO: '409'
+  A: '39'
+  E: '12'
+  DP: '2'
+  PB: '10'
+  PCT: '.974'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Romano
+  nameClub1: Waterloo
+  Pos: C
+  G: '114'
+  PO: '680'
+  A: '82'
+  E: '21'
+  DP: '8'
+  PB: '18'
+  PCT: '.973'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Chetta
+  nameClub1: Quincy
+  Pos: C
+  G: '44'
+  PO: '258'
+  A: '21'
+  E: '8'
+  DP: '5'
+  PB: '5'
+  PCT: '.972'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Shoop
+  nameClub1: Terre Haute
+  Pos: C
+  G: '41'
+  PO: '266'
+  A: '36'
+  E: '9'
+  DP: '7'
+  PB: '7'
+  PCT: '.971'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: McCardell
+  nameClub1: Evansville
+  Pos: C
+  G: '34'
+  PO: '253'
+  A: '19'
+  E: '9'
+  DP: '0'
+  PB: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Leppert
+  nameClub1: Evansville
+  Pos: C
+  G: '11'
+  PO: '53'
+  A: '6'
+  E: '2'
+  DP: '2'
+  PB: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Dixon
+  nameClub1: Cedar Rapids
+  Pos: C
+  G: '57'
+  PO: '319'
+  A: '43'
+  E: '14'
+  DP: '3'
+  PB: '11'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Contos
+  nameClub1: Cedar Rapids
+  Pos: C
+  G: '15'
+  PO: '55'
+  A: '5'
+  E: '3'
+  DP: '2'
+  PB: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Hantak
+  nameClub1: Quincy
+  Pos: C
+  G: '25'
+  PO: '146'
+  A: '8'
+  E: '8'
+  DP: '2'
+  PB: '0'
+  PCT: '.951'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Flores
+  nameClub1: Keokuk
+  Pos: C
+  G: '14'
+  PO: '72'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PB: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Staniland
+  nameClub1: Peoria
+  Pos: C
+  G: '17'
+  PO: '91'
+  A: '12'
+  E: '6'
+  DP: '2'
+  PB: '4'
+  PCT: '.945'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wellman
+  nameClub1: Quincy
+  Pos: C
+  G: '16'
+  PO: '71'
+  A: '10'
+  E: '7'
+  DP: '1'
+  PB: '3'
+  PCT: '.920'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Dailey
+  nameClub1: Keokuk
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '32'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Rabung
+  nameClub1: Waterloo
+  Pos: P
+  G: '28'
+  PO: '8'
+  A: '30'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Spencer
+  nameClub1: Keokuk
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '25'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Grant
+  nameClub1: Keokuk
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '28'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Spiller
+  nameClub1: Peoria
+  Pos: P
+  G: '35'
+  PO: '11'
+  A: '24'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Vitter
+  nameClub1: Evansville
+  Pos: P
+  G: '23'
+  PO: '8'
+  A: '24'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Olivo
+  nameClub1: Evansville
+  Pos: P
+  G: '16'
+  PO: '17'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Foley
+  nameClub1: Quincy
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '22'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Stiles
+  nameClub1: Burlington
+  Pos: P
+  G: '30'
+  PO: '4'
+  A: '20'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bradey
+  nameClub1: Waterloo
+  Pos: P
+  G: '18'
+  PO: '6'
+  A: '17'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Aiello
+  nameClub1: Quincy
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '10'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Brown
+  nameFirst: W.
+  nameClub1: Evansville
+  Pos: P
+  G: '17'
+  PO: '5'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: McGahey
+  nameClub1: Waterloo
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Fortin
+  nameClub1: Evansville
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Unke
+  nameClub1: Peoria
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Yvars
+  nameClub1: Peoria
+  Pos: P
+  G: '25'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Logan
+  nameClub1: Terre Haute
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Ensley
+  nameClub1: Peoria
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Atkinson
+  nameClub1: Peoria
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Agnew
+  nameClub1: Evansville
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Neal
+  nameClub1: Quincy
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Vogel
+  nameClub1: Peoria
+  Pos: P
+  G: '28'
+  PO: '9'
+  A: '46'
+  E: '1'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Garber
+  nameClub1: Burlington
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '10'
+  A: '30'
+  E: '1'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Rehm
+  nameClub1: Evansville
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '25'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Heman
+  nameClub1: Waterloo
+  Pos: P
+  G: '24'
+  PO: '10'
+  A: '20'
+  E: '1'
+  DP: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Banker
+  nameClub1: Quincy
+  Pos: P
+  G: '30'
+  PO: '12'
+  A: '38'
+  E: '2'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Roland
+  nameClub1: Evansville
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Peterson
+  nameClub1: Cedar Rapids
+  Pos: P
+  G: '15'
+  PO: '7'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Swanson
+  nameClub1: Burlington
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '34'
+  E: '2'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wiegand
+  nameClub1: Cedar Rapids
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Newton
+  nameClub1: Quincy
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Drott
+  nameClub1: Burlington
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Armbruster
+  nameClub1: Terre Haute
+  Pos: P
+  G: '42'
+  PO: '4'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: McGlothlin
+  nameClub1: Waterloo
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Milburn
+  nameClub1: Cedar Rapids
+  Pos: P
+  G: '22'
+  PO: '6'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Tarpey
+  nameClub1: Burlington
+  Pos: P
+  G: '14'
+  PO: '7'
+  A: '13'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Loschke
+  nameClub1: Terre Haute
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Slocum
+  nameClub1: Waterloo
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '31'
+  E: '2'
+  DP: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sharkey
+  nameClub1: Terre Haute
+  Pos: P
+  G: '28'
+  PO: '10'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Ludtke
+  nameClub1: Cedar Rapids
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Baumgartner
+  nameClub1: Terre Haute
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Speck
+  nameClub1: Waterloo
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Stadnicki
+  nameClub1: Evansville
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Yanen
+  nameClub1: Keokuk
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '34'
+  E: '3'
+  DP: '3'
+  PCT: '.932'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Johnson
+  nameClub1: Burlington
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Fierro
+  nameClub1: Keokuk
+  Pos: P
+  G: '37'
+  PO: '8'
+  A: '28'
+  E: '3'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Greene
+  nameClub1: Evansville
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Locke
+  nameClub1: Keokuk
+  Pos: P
+  G: '19'
+  PO: '8'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Zacher
+  nameClub1: Cedar Rapids
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '36'
+  E: '4'
+  DP: '4'
+  PCT: '.913'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Poff
+  nameClub1: Quincy
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '17'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Vold
+  nameClub1: Cedar Rapids
+  Pos: P
+  G: '45'
+  PO: '12'
+  A: '18'
+  E: '3'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Emery
+  nameClub1: Terre Haute
+  Pos: P
+  G: '33'
+  PO: '9'
+  A: '21'
+  E: '3'
+  DP: '3'
+  PCT: '.909'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Dawson
+  nameClub1: Quincy
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Palmieri
+  nameClub1: Peoria
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '17'
+  E: '2'
+  DP: '2'
+  PCT: '.909'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bonebrake
+  nameClub1: Quincy
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '25'
+  E: '3'
+  DP: '2'
+  PCT: '.906'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Ramer
+  nameClub1: Terre Haute
+  Pos: P
+  G: '31'
+  PO: '8'
+  A: '39'
+  E: '5'
+  DP: '4'
+  PCT: '.904'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Funai
+  nameClub1: Burlington
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Gorden
+  nameClub1: Cedar Rapids
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Bowman
+  nameClub1: Peoria
+  Pos: P
+  G: '26'
+  PO: '10'
+  A: '24'
+  E: '4'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Speck
+  nameClub1: Quincy
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '22'
+  E: '3'
+  DP: '1'
+  PCT: '.893'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Roberts
+  nameClub1: Peoria
+  Pos: P
+  G: '29'
+  PO: '10'
+  A: '30'
+  E: '5'
+  DP: '2'
+  PCT: '.889'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Seymour
+  nameClub1: Quincy
+  Pos: P
+  G: '34'
+  PO: '6'
+  A: '18'
+  E: '3'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Roberson
+  nameClub1: Cedar Rapids
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Unzicker
+  nameClub1: Cedar Rapids
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '10'
+  A: '28'
+  E: '5'
+  DP: '3'
+  PCT: '.884'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Mixon
+  nameClub1: Cedar Rapids
+  Pos: P
+  G: '11'
+  PO: '6'
+  A: '9'
+  E: '2'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Brown
+  nameFirst: P.
+  nameClub1: Waterloo
+  Pos: P
+  G: '38'
+  PO: '5'
+  A: '24'
+  E: '4'
+  DP: '1'
+  PCT: '.879'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Ford
+  nameClub1: Burlington
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Wright
+  nameClub1: Cedar Rapids
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '21'
+  E: '4'
+  DP: '0'
+  PCT: '.852'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Duliba
+  nameClub1: Peoria
+  Pos: P
+  G: '29'
+  PO: '1'
+  A: '16'
+  E: '3'
+  DP: '0'
+  PCT: '.850'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Coen
+  nameClub1: Terre Haute
+  Pos: P
+  G: '38'
+  PO: '6'
+  A: '22'
+  E: '5'
+  DP: '2'
+  PCT: '.848'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Nelson
+  nameFirst: G.
+  nameClub1: Evansville
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Hoffman
+  nameClub1: Evansville
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '16'
+  E: '4'
+  DP: '2'
+  PCT: '.833'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Taliaferro
+  nameClub1: Terre Haute
+  throws: L
+  Pos: P
+  G: '20'
+  PO: '1'
+  A: '13'
+  E: '3'
+  DP: '2'
+  PCT: '.824'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Latman
+  nameClub1: Waterloo
+  Pos: P
+  G: '27'
+  PO: '13'
+  A: '24'
+  E: '8'
+  DP: '1'
+  PCT: '.822'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Babcock
+  nameClub1: Burlington
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Caffery
+  nameClub1: Evansville
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Seats
+  nameClub1: Waterloo
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Harr
+  nameClub1: Keokuk
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.688'
+  TP: '0'
+- year: '1955'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameLast: Sprankle
+  nameClub1: Cedar Rapids
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.667'
+  TP: '0'

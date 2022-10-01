@@ -1,0 +1,2397 @@
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Tugerson
+  nameClub1: Artesia
+  GP: '14'
+  GS: '8'
+  CG: '8'
+  SHO: '4'
+  W: '9'
+  L: '1'
+  PCT: '.900'
+  IP: '84'
+  H: '54'
+  HR: '2'
+  R: '21'
+  ER: '14'
+  BB: '28'
+  SO: '89'
+  HB: '3'
+  WP: '2'
+  ERA: '1.49'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Phipps
+  nameClub1: Artesia
+  GP: '13'
+  GS: '10'
+  CG: '9'
+  SHO: '2'
+  W: '8'
+  L: '1'
+  PCT: '.889'
+  IP: '99'
+  H: '81'
+  HR: '5'
+  R: '32'
+  ER: '21'
+  BB: '24'
+  SO: '101'
+  HB: '3'
+  WP: '1'
+  ERA: '1.91'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Foster
+  nameClub1: Artesia
+  GP: '25'
+  GS: '10'
+  CG: '2'
+  SHO: '1'
+  W: '9'
+  L: '4'
+  PCT: '.692'
+  IP: '110'
+  H: '121'
+  HR: '9'
+  R: '51'
+  ER: '40'
+  BB: '33'
+  SO: '57'
+  HB: '4'
+  WP: '2'
+  ERA: '3.26'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Singleton
+  nameClub1: Carlsbad
+  GP: '12'
+  GS: '4'
+  CG: '2'
+  SHO: '1'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '58'
+  H: '76'
+  HR: '4'
+  R: '27'
+  ER: '21'
+  BB: '22'
+  SO: '26'
+  HB: '1'
+  WP: '0'
+  ERA: '3.26'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Stryska
+  nameClub1: Artesia
+  GP: '22'
+  GS: '13'
+  CG: '9'
+  SHO: '1'
+  W: '9'
+  L: '7'
+  PCT: '.563'
+  IP: '117'
+  H: '117'
+  HR: '14'
+  R: '53'
+  ER: '45'
+  BB: '22'
+  SO: '60'
+  HB: '3'
+  WP: '1'
+  ERA: '3.46'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: DiMaggio
+  nameClub1: Artesia
+  GP: '27'
+  GS: '22'
+  CG: '17'
+  SHO: '3'
+  W: '14'
+  L: '8'
+  PCT: '.636'
+  IP: '182'
+  H: '157'
+  HR: '11'
+  R: '94'
+  ER: '73'
+  BB: '85'
+  SO: '167'
+  HB: '3'
+  WP: '10'
+  ERA: '3.60'
+  BK: '0'
+  ERA_RANK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Pickens
+  nameClub1: Midland
+  GP: '45'
+  GS: '23'
+  CG: '19'
+  SHO: '0'
+  W: '20'
+  L: '10'
+  PCT: '.667'
+  IP: '248'
+  H: '287'
+  HR: '24'
+  R: '152'
+  ER: '100'
+  BB: '59'
+  SO: '147'
+  HB: '0'
+  WP: '1'
+  ERA: '3.62'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Goodell
+  nameFirst: R. W.
+  nameClub1: Artesia
+  GP: '33'
+  GS: '24'
+  CG: '13'
+  SHO: '2'
+  W: '18'
+  L: '7'
+  PCT: '.720'
+  IP: '206'
+  H: '198'
+  HR: '10'
+  R: '104'
+  ER: '83'
+  BB: '103'
+  SO: '109'
+  HB: '13'
+  WP: '3'
+  ERA: '3.63'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Saldana
+  nameClub1: San Angelo
+  GP: '7'
+  GS: '4'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '36'
+  H: '46'
+  HR: '3'
+  R: '23'
+  ER: '15'
+  BB: '9'
+  SO: '20'
+  HB: '2'
+  WP: '0'
+  ERA: '3.72'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hernandez
+  nameFirst: G. E.
+  nameClub1: Roswell
+  GP: '22'
+  GS: '12'
+  CG: '8'
+  SHO: '1'
+  W: '9'
+  L: '4'
+  PCT: '.692'
+  IP: '123'
+  H: '125'
+  HR: '5'
+  R: '65'
+  ER: '51'
+  BB: '43'
+  SO: '83'
+  HB: '4'
+  WP: '1'
+  ERA: '3.74'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Chester
+  nameClub1: Artesia
+  GP: '15'
+  GS: '7'
+  CG: '3'
+  SHO: '1'
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  IP: '68'
+  H: '61'
+  HR: '6'
+  R: '33'
+  ER: '29'
+  BB: '33'
+  SO: '38'
+  HB: '2'
+  WP: '1'
+  ERA: '3.82'
+  BK: '4'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Mink
+  nameClub1: Odessa
+  GP: '8'
+  GS: '7'
+  CG: '6'
+  SHO: '1'
+  W: '6'
+  L: '1'
+  PCT: '.857'
+  IP: '56'
+  H: '67'
+  HR: '5'
+  R: '31'
+  ER: '24'
+  BB: '6'
+  SO: '32'
+  HB: '1'
+  WP: '0'
+  ERA: '3.86'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Atkinson
+  nameClub1: Midland
+  throws: L
+  GP: '32'
+  GS: '29'
+  CG: '15'
+  SHO: '2'
+  W: '13'
+  L: '9'
+  PCT: '.591'
+  IP: '206'
+  H: '197'
+  HR: '19'
+  R: '122'
+  ER: '91'
+  BB: '100'
+  SO: '168'
+  HB: '15'
+  WP: '8'
+  ERA: '3.96'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Faust
+  nameClub1: Roswell
+  GP: '9'
+  GS: '9'
+  CG: '6'
+  SHO: '0'
+  W: '6'
+  L: '2'
+  PCT: '.750'
+  IP: '65'
+  H: '85'
+  HR: '7'
+  R: '41'
+  ER: '29'
+  BB: '30'
+  SO: '32'
+  HB: '3'
+  WP: '1'
+  ERA: '3.99'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Robnett
+  nameClub1: Artesia
+  throws: L
+  GP: '15'
+  GS: '12'
+  CG: '5'
+  SHO: '0'
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  IP: '83'
+  H: '84'
+  HR: '0'
+  R: '58'
+  ER: '37'
+  BB: '59'
+  SO: '63'
+  HB: '3'
+  WP: '4'
+  ERA: '4.01'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Herron
+  nameClub1: Artesia
+  GP: '9'
+  GS: '5'
+  CG: '4'
+  SHO: '1'
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  IP: '49'
+  H: '53'
+  HR: '2'
+  R: '35'
+  ER: '22'
+  BB: '28'
+  SO: '37'
+  HB: '3'
+  WP: '9'
+  ERA: '4.04'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ramos
+  nameClub1: 16@Wichita Falls/Sweetwater
+  nameClub2: 22@Midland
+  throws: L
+  GP: '38'
+  GS: '29'
+  CG: '18'
+  SHO: '3'
+  W: '18'
+  L: '11'
+  PCT: '.621'
+  IP: '242'
+  H: '218'
+  HR: '11'
+  R: '140'
+  ER: '109'
+  BB: '100'
+  SO: '222'
+  HB: '7'
+  WP: '9'
+  ERA: '4.05'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Weaver
+  nameClub1: Carlsbad
+  GP: '33'
+  GS: '28'
+  CG: '19'
+  SHO: '1'
+  W: '21'
+  L: '9'
+  PCT: '.700'
+  IP: '237'
+  H: '261'
+  HR: '18'
+  R: '152'
+  ER: '109'
+  BB: '90'
+  SO: '189'
+  HB: '5'
+  WP: '5'
+  ERA: '4.13'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Williams
+  nameClub1: Carlsbad
+  GP: '39'
+  GS: '20'
+  CG: '13'
+  SHO: '1'
+  W: '15'
+  L: '10'
+  PCT: '.600'
+  IP: '212'
+  H: '228'
+  HR: '13'
+  R: '126'
+  ER: '99'
+  BB: '81'
+  SO: '123'
+  HB: '5'
+  WP: '3'
+  ERA: '4.20'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Soto
+  nameClub1: Midland
+  GP: '30'
+  GS: '22'
+  CG: '12'
+  SHO: '0'
+  W: '13'
+  L: '6'
+  PCT: '.684'
+  IP: '178'
+  H: '200'
+  HR: '13'
+  R: '103'
+  ER: '86'
+  BB: '42'
+  SO: '98'
+  HB: '2'
+  WP: '3'
+  ERA: '4.35'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Selbo
+  nameClub1: Midland
+  GP: '7'
+  GS: '5'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '51'
+  H: '56'
+  HR: '4'
+  R: '38'
+  ER: '25'
+  BB: '17'
+  SO: '31'
+  HB: '1'
+  WP: '5'
+  ERA: '4.41'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Nalley
+  nameClub1: Roswell
+  GP: '19'
+  GS: '14'
+  CG: '7'
+  SHO: '0'
+  W: '6'
+  L: '5'
+  PCT: '.545'
+  IP: '123'
+  H: '130'
+  HR: '12'
+  R: '82'
+  ER: '61'
+  BB: '64'
+  SO: '60'
+  HB: '4'
+  WP: '2'
+  ERA: '4.46'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hatridge
+  nameClub1: Carlsbad
+  GP: '17'
+  GS: '11'
+  CG: '6'
+  SHO: '0'
+  W: '7'
+  L: '1'
+  PCT: '.875'
+  IP: '89'
+  H: '86'
+  HR: '8'
+  R: '57'
+  ER: '45'
+  BB: '46'
+  SO: '44'
+  HB: '6'
+  WP: '7'
+  ERA: '4.53'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Brookshier
+  nameClub1: Roswell
+  GP: '11'
+  GS: '7'
+  CG: '2'
+  SHO: '0'
+  W: '7'
+  L: '1'
+  PCT: '.875'
+  IP: '65'
+  H: '69'
+  HR: '3'
+  R: '45'
+  ER: '33'
+  BB: '57'
+  SO: '32'
+  HB: '3'
+  WP: '5'
+  ERA: '4.55'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Arencibia
+  nameClub1: Big Spring
+  GP: '32'
+  GS: '27'
+  CG: '17'
+  SHO: '2'
+  W: '14'
+  L: '11'
+  PCT: '.560'
+  IP: '226'
+  H: '241'
+  HR: '31'
+  R: '145'
+  ER: '117'
+  BB: '45'
+  SO: '140'
+  HB: '6'
+  WP: '6'
+  ERA: '4.67'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Wulf
+  nameClub1: 3@Carlsbad
+  nameClub2: 7@Odessa
+  GP: '10'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '5'
+  L: '2'
+  PCT: '.714'
+  IP: '65'
+  H: '83'
+  HR: '8'
+  R: '50'
+  ER: '35'
+  BB: '10'
+  SO: '13'
+  HB: '2'
+  WP: '2'
+  ERA: '4.87'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Rainey
+  nameClub1: Big Spring
+  GP: '37'
+  GS: '25'
+  CG: '17'
+  SHO: '0'
+  W: '19'
+  L: '14'
+  PCT: '.576'
+  IP: '213'
+  H: '281'
+  HR: '17'
+  R: '175'
+  ER: '121'
+  BB: '66'
+  SO: '110'
+  HB: '9'
+  WP: '10'
+  ERA: '5.10'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Jiminez
+  nameClub1: Carlsbad
+  GP: '41'
+  GS: '24'
+  CG: '13'
+  SHO: '2'
+  W: '13'
+  L: '11'
+  PCT: '.542'
+  IP: '207'
+  H: '255'
+  HR: '14'
+  R: '155'
+  ER: '118'
+  BB: '65'
+  SO: '79'
+  HB: '5'
+  WP: '2'
+  ERA: '5.12'
+  BK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Johnson
+  nameFirst: G.
+  nameClub1: Artesia
+  GP: '28'
+  GS: '21'
+  CG: '2'
+  SHO: '0'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '121'
+  H: '124'
+  HR: '11'
+  R: '110'
+  ER: '71'
+  BB: '102'
+  SO: '71'
+  HB: '8'
+  WP: '13'
+  ERA: '5.27'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ewen
+  nameClub1: San Angelo
+  GP: '35'
+  GS: '34'
+  CG: '26'
+  SHO: '0'
+  W: '16'
+  L: '16'
+  PCT: '.500'
+  IP: '256'
+  H: '324'
+  HR: '22'
+  R: '177'
+  ER: '152'
+  BB: '89'
+  SO: '103'
+  HB: '8'
+  WP: '14'
+  ERA: '5.34'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Baez
+  nameClub1: 5@Roswell
+  nameClub2: 27@Big Spring
+  GP: '32'
+  GS: '19'
+  CG: '12'
+  SHO: '0'
+  W: '15'
+  L: '8'
+  PCT: '.652'
+  IP: '185'
+  H: '214'
+  HR: '16'
+  R: '126'
+  ER: '111'
+  BB: '53'
+  SO: '91'
+  HB: '5'
+  WP: '3'
+  ERA: '5.40'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Cassio
+  nameClub1: Roswell
+  throws: L
+  GP: '10'
+  GS: '4'
+  CG: '2'
+  SHO: '1'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '30'
+  H: '31'
+  HR: '1'
+  R: '19'
+  ER: '18'
+  BB: '25'
+  SO: '20'
+  HB: '2'
+  WP: '3'
+  ERA: '5.40'
+  BK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ortiz
+  nameFirst: W.
+  nameClub1: Odessa
+  GP: '28'
+  GS: '13'
+  CG: '5'
+  SHO: '1'
+  W: '10'
+  L: '5'
+  PCT: '.667'
+  IP: '130'
+  H: '164'
+  HR: '14'
+  R: '105'
+  ER: '78'
+  BB: '56'
+  SO: '62'
+  HB: '2'
+  WP: '3'
+  ERA: '5.41'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Gonzales
+  nameClub1: 2@Wichita Falls/Sweetwater
+  nameClub2: 15@Odessa
+  GP: '17'
+  GS: '8'
+  CG: '4'
+  SHO: '0'
+  W: '3'
+  L: '7'
+  PCT: '.300'
+  IP: '90'
+  H: '111'
+  HR: '10'
+  R: '69'
+  ER: '54'
+  BB: '42'
+  SO: '50'
+  HB: '4'
+  WP: '4'
+  ERA: '5.42'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hacker
+  nameClub1: Midland
+  GP: '30'
+  GS: '21'
+  CG: '14'
+  SHO: '0'
+  W: '11'
+  L: '12'
+  PCT: '.478'
+  IP: '187'
+  H: '234'
+  HR: '25'
+  R: '140'
+  ER: '113'
+  BB: '84'
+  SO: '97'
+  HB: '5'
+  WP: '3'
+  ERA: '5.43'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Martin
+  nameFirst: R.
+  nameClub1: Big Spring
+  GP: '23'
+  GS: '4'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '52'
+  H: '70'
+  HR: '5'
+  R: '43'
+  ER: '32'
+  BB: '23'
+  SO: '22'
+  HB: '0'
+  WP: '0'
+  ERA: '5.50'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Sawyer
+  nameClub1: Roswell
+  throws: L
+  GP: '36'
+  GS: '28'
+  CG: '13'
+  SHO: '0'
+  W: '18'
+  L: '11'
+  PCT: '.621'
+  IP: '206'
+  H: '251'
+  HR: '25'
+  R: '147'
+  ER: '127'
+  BB: '94'
+  SO: '142'
+  HB: '7'
+  WP: '17'
+  ERA: '5.56'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Sotelo
+  nameClub1: Odessa
+  GP: '26'
+  GS: '18'
+  CG: '11'
+  SHO: '0'
+  W: '10'
+  L: '9'
+  PCT: '.526'
+  IP: '157'
+  H: '167'
+  HR: '10'
+  R: '134'
+  ER: '97'
+  BB: '108'
+  SO: '117'
+  HB: '6'
+  WP: '17'
+  ERA: '5.56'
+  BK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Fornall
+  nameFirst: D.
+  nameClub1: Carlsbad
+  GP: '35'
+  GS: '25'
+  CG: '14'
+  SHO: '1'
+  W: '16'
+  L: '8'
+  PCT: '.667'
+  IP: '195'
+  H: '250'
+  HR: '11'
+  R: '145'
+  ER: '121'
+  BB: '97'
+  SO: '114'
+  HB: '9'
+  WP: '3'
+  ERA: '5.58'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Stevens
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '19'
+  GS: '9'
+  CG: '7'
+  SHO: '0'
+  W: '0'
+  L: '10'
+  PCT: '.000'
+  IP: '95'
+  H: '120'
+  HR: '10'
+  R: '88'
+  ER: '59'
+  BB: '43'
+  SO: '65'
+  HB: '2'
+  WP: '12'
+  ERA: '5.61'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Braun
+  nameClub1: Odessa
+  GP: '15'
+  GS: '9'
+  CG: '6'
+  SHO: '0'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  IP: '81'
+  H: '101'
+  HR: '12'
+  R: '64'
+  ER: '51'
+  BB: '23'
+  SO: '34'
+  HB: '3'
+  WP: '2'
+  ERA: '5.69'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Burns
+  nameClub1: Carlsbad
+  GP: '28'
+  GS: '12'
+  CG: '3'
+  SHO: '1'
+  W: '8'
+  L: '3'
+  PCT: '.727'
+  IP: '106'
+  H: '135'
+  HR: '14'
+  R: '92'
+  ER: '68'
+  BB: '42'
+  SO: '64'
+  HB: '3'
+  WP: '0'
+  ERA: '5.79'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Agne
+  nameClub1: San Angelo
+  throws: L
+  GP: '35'
+  GS: '20'
+  CG: '11'
+  SHO: '1'
+  W: '9'
+  L: '14'
+  PCT: '.391'
+  IP: '172'
+  H: '192'
+  HR: '14'
+  R: '133'
+  ER: '111'
+  BB: '92'
+  SO: '121'
+  HB: '9'
+  WP: '10'
+  ERA: '5.81'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Rivera
+  nameClub1: San Angelo
+  GP: '24'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '61'
+  H: '86'
+  HR: '9'
+  R: '56'
+  ER: '40'
+  BB: '23'
+  SO: '33'
+  HB: '1'
+  WP: '2'
+  ERA: '5.87'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Pillar
+  nameClub1: Midland
+  GP: '6'
+  GS: '4'
+  CG: '2'
+  SHO: '0'
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  IP: '34'
+  H: '45'
+  HR: '4'
+  R: '26'
+  ER: '22'
+  BB: '5'
+  SO: '11'
+  HB: '1'
+  WP: '2'
+  ERA: '5.88'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Cummins
+  nameClub1: Big Spring
+  GP: '6'
+  GS: '5'
+  CG: '2'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '37'
+  H: '40'
+  HR: '3'
+  R: '35'
+  ER: '24'
+  BB: '20'
+  SO: '16'
+  HB: '3'
+  WP: '3'
+  ERA: '5.89'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Nunez
+  nameClub1: 15@Wichita Falls/Sweetwater
+  nameClub2: 22@Roswell
+  throws: L
+  GP: '37'
+  GS: '26'
+  CG: '12'
+  SHO: '0'
+  W: '13'
+  L: '9'
+  PCT: '.591'
+  IP: '197'
+  H: '218'
+  HR: '17'
+  R: '160'
+  ER: '133'
+  BB: '129'
+  SO: '127'
+  HB: '9'
+  WP: '5'
+  ERA: '6.07'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Rousselot
+  nameClub1: San Angelo
+  GP: '13'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '6'
+  PCT: '.333'
+  IP: '63'
+  H: '92'
+  HR: '13'
+  R: '55'
+  ER: '43'
+  BB: '25'
+  SO: '30'
+  HB: '1'
+  WP: '1'
+  ERA: '6.11'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Mattson
+  nameClub1: 1@Big Spring
+  nameClub2: 14@Wichita Falls/Sweetwater
+  GP: '15'
+  GS: '12'
+  CG: '6'
+  SHO: '1'
+  W: '3'
+  L: '9'
+  PCT: '.250'
+  IP: '86'
+  H: '110'
+  HR: '9'
+  R: '75'
+  ER: '59'
+  BB: '30'
+  SO: '38'
+  HB: '0'
+  WP: '1'
+  ERA: '6.15'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Malone
+  nameClub1: San Angelo
+  GP: '40'
+  GS: '28'
+  CG: '18'
+  SHO: '0'
+  W: '15'
+  L: '15'
+  PCT: '.500'
+  IP: '235'
+  H: '295'
+  HR: '27'
+  R: '209'
+  ER: '161'
+  BB: '99'
+  SO: '137'
+  HB: '14'
+  WP: '7'
+  ERA: '6.16'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ortiz
+  nameFirst: O.
+  nameClub1: 7@Roswell
+  nameClub2: 30@Wichita Falls/Sweetwater
+  GP: '37'
+  GS: '22'
+  CG: '18'
+  SHO: '0'
+  W: '7'
+  L: '17'
+  PCT: '.292'
+  IP: '212'
+  H: '279'
+  HR: '22'
+  R: '177'
+  ER: '145'
+  BB: '64'
+  SO: '125'
+  HB: '6'
+  WP: '12'
+  ERA: '6.16'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Peters
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '8'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  IP: '30'
+  H: '45'
+  HR: '0'
+  R: '38'
+  ER: '21'
+  BB: '12'
+  SO: '5'
+  HB: '2'
+  WP: '2'
+  ERA: '6.30'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hill
+  nameClub1: Big Spring
+  GP: '17'
+  GS: '12'
+  CG: '5'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '90'
+  H: '124'
+  HR: '13'
+  R: '77'
+  ER: '63'
+  BB: '29'
+  SO: '53'
+  HB: '2'
+  WP: '1'
+  ERA: '6.32'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Dwire
+  nameClub1: 2@San Angelo
+  nameClub2: 4@Wichita Falls/Sweetwater
+  GP: '6'
+  GS: '5'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '38'
+  H: '59'
+  HR: '5'
+  R: '34'
+  ER: '27'
+  BB: '13'
+  SO: '21'
+  HB: '2'
+  WP: '2'
+  ERA: '6.34'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hechevarria
+  nameClub1: Roswell
+  GP: '7'
+  GS: '2'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '34'
+  H: '38'
+  HR: '2'
+  R: '31'
+  ER: '24'
+  BB: '12'
+  SO: '32'
+  HB: '1'
+  WP: '5'
+  ERA: '6.35'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Molden
+  nameClub1: 14@Odessa
+  nameClub2: 1@San Angelo
+  GP: '15'
+  GS: '7'
+  CG: '0'
+  SHO: '0'
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  IP: '41'
+  H: '33'
+  HR: '3'
+  R: '53'
+  ER: '29'
+  BB: '84'
+  SO: '39'
+  HB: '5'
+  WP: '9'
+  ERA: '6.37'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Lagan
+  nameClub1: Odessa
+  throws: L
+  GP: '12'
+  GS: '11'
+  CG: '5'
+  SHO: '0'
+  W: '2'
+  L: '8'
+  PCT: '.200'
+  IP: '74'
+  H: '105'
+  HR: '13'
+  R: '69'
+  ER: '53'
+  BB: '22'
+  SO: '40'
+  HB: '1'
+  WP: '0'
+  ERA: '6.45'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Lopez
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '24'
+  GS: '7'
+  CG: '2'
+  SHO: '1'
+  W: '2'
+  L: '7'
+  PCT: '.222'
+  IP: '97'
+  H: '138'
+  HR: '11'
+  R: '91'
+  ER: '70'
+  BB: '39'
+  SO: '35'
+  HB: '4'
+  WP: '1'
+  ERA: '6.49'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hernandez
+  nameFirst: G.
+  nameClub1: 13@Roswell
+  nameClub2: 17@Wichita Falls/Sweetwater
+  GP: '30'
+  GS: '18'
+  CG: '7'
+  SHO: '0'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '134'
+  H: '165'
+  HR: '14'
+  R: '133'
+  ER: '101'
+  BB: '96'
+  SO: '80'
+  HB: '7'
+  WP: '15'
+  ERA: '6.80'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Gallardo
+  nameFirst: J.
+  nameClub1: 25@Roswell
+  nameClub2: 10@Artesia
+  GP: '35'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  IP: '89'
+  H: '109'
+  HR: '14'
+  R: '83'
+  ER: '68'
+  BB: '62'
+  SO: '37'
+  HB: '5'
+  WP: '6'
+  ERA: '6.90'
+  BK: '5'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Moreno
+  nameClub1: 18@Roswell
+  nameClub2: 15@Wichita Falls/Sweetwater
+  GP: '33'
+  GS: '13'
+  CG: '6'
+  SHO: '0'
+  W: '5'
+  L: '9'
+  PCT: '.357'
+  IP: '139'
+  H: '213'
+  HR: '13'
+  R: '135'
+  ER: '108'
+  BB: '35'
+  SO: '40'
+  HB: '6'
+  WP: '4'
+  ERA: '6.98'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Feller
+  nameClub1: Odessa
+  GP: '38'
+  GS: '21'
+  CG: '8'
+  SHO: '0'
+  W: '6'
+  L: '15'
+  PCT: '.286'
+  IP: '187'
+  H: '282'
+  HR: '24'
+  R: '195'
+  ER: '146'
+  BB: '41'
+  SO: '50'
+  HB: '7'
+  WP: '9'
+  ERA: '7.01'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Pestana
+  nameClub1: Roswell
+  throws: L
+  GP: '21'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '57'
+  H: '74'
+  HR: '8'
+  R: '38'
+  ER: '45'
+  BB: '49'
+  SO: '41'
+  HB: '4'
+  WP: '9'
+  ERA: '7.06'
+  BK: '3'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: McKenna
+  nameClub1: Big Spring
+  GP: '34'
+  GS: '17'
+  CG: '6'
+  SHO: '1'
+  W: '6'
+  L: '10'
+  PCT: '.375'
+  IP: '154'
+  H: '234'
+  HR: '20'
+  R: '147'
+  ER: '125'
+  BB: '54'
+  SO: '86'
+  HB: '8'
+  WP: '6'
+  ERA: '7.29'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Bonine
+  nameClub1: Odessa
+  throws: L
+  GP: '11'
+  GS: '10'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '2'
+  PCT: '.714'
+  IP: '61'
+  H: '86'
+  HR: '8'
+  R: '55'
+  ER: '50'
+  BB: '20'
+  SO: '28'
+  HB: '3'
+  WP: '1'
+  ERA: '7.34'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Fornall
+  nameFirst: T.
+  nameClub1: Carlsbad
+  GP: '12'
+  GS: '7'
+  CG: '0'
+  SHO: '0'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  IP: '48'
+  H: '63'
+  HR: '4'
+  R: '57'
+  ER: '39'
+  BB: '43'
+  SO: '22'
+  HB: '3'
+  WP: '5'
+  ERA: '7.36'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ortega
+  nameClub1: Odessa
+  throws: L
+  GP: '10'
+  GS: '7'
+  CG: '2'
+  SHO: '0'
+  W: '1'
+  L: '7'
+  PCT: '.125'
+  IP: '54'
+  H: '75'
+  HR: '12'
+  R: '57'
+  ER: '44'
+  BB: '22'
+  SO: '14'
+  HB: '1'
+  WP: '0'
+  ERA: '7.38'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Vruck
+  nameClub1: San Angelo
+  GP: '20'
+  GS: '10'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '81'
+  H: '107'
+  HR: '13'
+  R: '83'
+  ER: '67'
+  BB: '55'
+  SO: '34'
+  HB: '4'
+  WP: '5'
+  ERA: '7.41'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Sather
+  nameClub1: San Angelo
+  GP: '20'
+  GS: '11'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '8'
+  PCT: '.111'
+  IP: '83'
+  H: '124'
+  HR: '5'
+  R: '84'
+  ER: '69'
+  BB: '58'
+  SO: '50'
+  HB: '4'
+  WP: '6'
+  ERA: '7.45'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Mendoza
+  nameClub1: Big Spring
+  throws: L
+  GP: '13'
+  GS: '9'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '6'
+  PCT: '.333'
+  IP: '54'
+  H: '77'
+  HR: '11'
+  R: '53'
+  ER: '46'
+  BB: '36'
+  SO: '22'
+  HB: '2'
+  WP: '5'
+  ERA: '7.62'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Laza
+  nameClub1: Roswell
+  GP: '16'
+  GS: '2'
+  CG: '0'
+  SHO: '0'
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  IP: '37'
+  H: '59'
+  HR: '7'
+  R: '43'
+  ER: '32'
+  BB: '15'
+  SO: '25'
+  HB: '3'
+  WP: '0'
+  ERA: '7.78'
+  BK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Abshire
+  nameClub1: Wichita Falls/Sweetwater
+  throws: L
+  GP: '24'
+  GS: '15'
+  CG: '7'
+  SHO: '0'
+  W: '1'
+  L: '13'
+  PCT: '.071'
+  IP: '122'
+  H: '184'
+  HR: '10'
+  R: '162'
+  ER: '112'
+  BB: '86'
+  SO: '88'
+  HB: '4'
+  WP: '11'
+  ERA: '8.28'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Wadsworth
+  nameClub1: San Angelo
+  GP: '12'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  IP: '41'
+  H: '60'
+  HR: '4'
+  R: '42'
+  ER: '38'
+  BB: '31'
+  SO: '16'
+  HB: '1'
+  WP: '3'
+  ERA: '8.34'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Fals
+  nameClub1: 7@Wichita Falls/Sweetwater
+  nameClub2: 18@Odessa
+  GP: '25'
+  GS: '13'
+  CG: '5'
+  SHO: '0'
+  W: '2'
+  L: '13'
+  PCT: '.133'
+  IP: '93'
+  H: '136'
+  HR: '9'
+  R: '117'
+  ER: '92'
+  BB: '76'
+  SO: '50'
+  HB: '8'
+  WP: '9'
+  ERA: '8.90'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Maren
+  nameClub1: Big Spring
+  GP: '21'
+  GS: '9'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '5'
+  PCT: '.286'
+  IP: '72'
+  H: '126'
+  HR: '15'
+  R: '95'
+  ER: '71'
+  BB: '27'
+  SO: '27'
+  HB: '2'
+  WP: '5'
+  ERA: '8.92'
+  BK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: McMellon
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '14'
+  GS: '11'
+  CG: '4'
+  SHO: '0'
+  W: '1'
+  L: '10'
+  PCT: '.091'
+  IP: '68'
+  H: '113'
+  HR: '3'
+  R: '107'
+  ER: '78'
+  BB: '43'
+  SO: '40'
+  HB: '7'
+  WP: '5'
+  ERA: '10.32'
+  BK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: McCarty
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '10'
+  GS: '6'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '33'
+  H: '71'
+  HR: '14'
+  R: '60'
+  ER: '50'
+  BB: '28'
+  SO: '12'
+  HB: '3'
+  WP: '4'
+  ERA: '13.50'
+  BK: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Diaz
+  nameFirst: A.
+  nameClub1: Artesia
+  throws: L
+  GP: '12'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Gallardo
+  nameFirst: F.
+  nameClub1: Artesia
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Gibson
+  nameClub1: Artesia
+  GP: '3'
+  W: '0'
+  L: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Goodell
+  nameFirst: J.
+  nameClub1: Artesia
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Upton
+  nameClub1: Artesia
+  GP: '5'
+  W: '1'
+  L: '3'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Wright
+  nameClub1: Artesia
+  GP: '2'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Caballero
+  nameClub1: Big Spring
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Davis
+  nameFirst: J.
+  nameClub1: Big Spring
+  GP: '4'
+  W: '3'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: La Grone
+  nameClub1: Big Spring
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Martin
+  nameFirst: A. F.
+  nameClub1: Big Spring
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Martinez
+  nameClub1: Big Spring
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Permoda
+  nameClub1: Big Spring
+  GP: '11'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Silva
+  nameClub1: Big Spring
+  GP: '7'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Simone
+  nameClub1: Carlsbad
+  nameClub2: Big Spring
+  GP: '4'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Snead
+  nameClub1: Big Spring
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Woodard
+  nameClub1: Big Spring
+  GP: '7'
+  W: '2'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Dieppa
+  nameClub1: Carlsbad
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hardy
+  nameClub1: Carlsbad
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Herring
+  nameClub1: Carlsbad
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Jackson
+  nameClub1: Carlsbad
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Osorio
+  nameFirst: P.
+  nameClub1: Carlsbad
+  GP: '1'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Richardson
+  nameClub1: Carlsbad
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Solis
+  nameClub1: Carlsbad
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Valdez
+  nameClub1: Carlsbad
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Barton
+  nameClub1: Midland
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Briner
+  nameClub1: Midland
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Camacho
+  nameClub1: Midland
+  GP: '4'
+  W: '1'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Clark
+  nameClub1: Midland
+  GP: '3'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ford
+  nameClub1: Midland
+  throws: L
+  GP: '5'
+  W: '2'
+  L: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Grasso
+  nameClub1: Midland
+  GP: '2'
+  W: '1'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Heredia
+  nameClub1: Midland
+  throws: L
+  GP: '8'
+  W: '0'
+  L: '3'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: McMillan
+  nameClub1: Midland
+  GP: '8'
+  W: '1'
+  L: '4'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Paulvir
+  nameClub1: Midland
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Rogers
+  nameClub1: Midland
+  GP: '5'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Waters
+  nameClub1: Midland
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Barich
+  nameClub1: San Angelo
+  nameClub2: Odessa
+  GP: '5'
+  W: '0'
+  L: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Batson
+  nameClub1: Odessa
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Bethany
+  nameClub1: Odessa
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Caldwell
+  nameClub1: Odessa
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Costello
+  nameClub1: Odessa
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Davis
+  nameFirst: C.
+  nameClub1: Odessa
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Di Primo
+  nameClub1: Odessa
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Jennings
+  nameClub1: Odessa
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Kelcher
+  nameClub1: Odessa
+  GP: '5'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Needham
+  nameClub1: Odessa
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Newlin
+  nameClub1: Carlsbad
+  nameClub2: Odessa
+  GP: '8'
+  W: '1'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Red
+  nameClub1: Odessa
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Rider
+  nameClub1: Odessa
+  throws: L
+  GP: '10'
+  W: '1'
+  L: '4'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Rogas
+  nameClub1: Odessa
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Bell
+  nameClub1: Roswell
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Collato
+  nameClub1: Roswell
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Fowlkes
+  nameClub1: Roswell
+  GP: '4'
+  W: '2'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Mantaras
+  nameClub1: Roswell
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Oliva
+  nameClub1: Roswell
+  GP: '11'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Orlando
+  nameClub1: Roswell
+  GP: '1'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Oviedo
+  nameClub1: Roswell
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Berbesia
+  nameClub1: San Angelo
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Celis
+  nameClub1: San Angelo
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Christensen
+  nameClub1: San Angelo
+  GP: '5'
+  W: '1'
+  L: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Criner
+  nameClub1: San Angelo
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Fineman
+  nameClub1: San Angelo
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Folkman
+  nameClub1: San Angelo
+  GP: '3'
+  W: '1'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Gonsalves
+  nameClub1: San Angelo
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Gonzales
+  nameClub1: San Angelo
+  GP: '2'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Graves
+  nameClub1: San Angelo
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hobbs
+  nameClub1: San Angelo
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Naranjo
+  nameClub1: San Angelo
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ortosky
+  nameClub1: San Angelo
+  GP: '5'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Peacock
+  nameClub1: San Angelo
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Purcell
+  nameClub1: San Angelo
+  GP: '9'
+  W: '0'
+  L: '3'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Quintana
+  nameClub1: San Angelo
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Sharpe
+  nameClub1: San Angelo
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Terlip
+  nameClub1: San Angelo
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Weeks
+  nameClub1: San Angelo
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Ankeny
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Cluley
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '4'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: De La Torre
+  nameFirst: M.
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '4'
+  W: '1'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Eaves
+  nameClub1: Roswell
+  nameClub2: Wichita Falls/Sweetwater
+  GP: '3'
+  W: '1'
+  L: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Finkler
+  nameClub1: Wichita Falls/Sweetwater
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Gibbs
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Hebra
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Langford
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '5'
+  W: '0'
+  L: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: McAllister
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '5'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Morganstern
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Muniz
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Recio
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Salmon
+  nameClub1: Wichita Falls/Sweetwater
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Shuler
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '2'
+  W: '0'
+  L: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Smith
+  nameFirst: C.
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Tuttle
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameLast: Wingate
+  nameClub1: Wichita Falls/Sweetwater
+  GP: '1'
+  W: '0'
+  L: '0'

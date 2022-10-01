@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  G: '125'
+  DP: '127'
+  PB: '26'
+  PO: '3241'
+  A: '1299'
+  E: '194'
+  PCT: '.959'
+  TP: '0'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  G: '124'
+  DP: '128'
+  PB: '17'
+  PO: '3237'
+  A: '1478'
+  E: '224'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  G: '127'
+  DP: '86'
+  PB: '8'
+  PO: '3321'
+  A: '1483'
+  E: '232'
+  PCT: '.954'
+  TP: '0'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  G: '124'
+  DP: '108'
+  PB: '9'
+  PO: '3203'
+  A: '1344'
+  E: '223'
+  PCT: '.953'
+  TP: '2'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Duluth
+  G: '126'
+  DP: '151'
+  PB: '11'
+  PO: '3237'
+  A: '1481'
+  E: '249'
+  PCT: '.950'
+  TP: '2'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Superior
+  G: '126'
+  DP: '102'
+  PB: '18'
+  PO: '3212'
+  A: '1377'
+  E: '262'
+  PCT: '.946'
+  TP: '0'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Sioux Falls
+  G: '125'
+  DP: '129'
+  PB: '7'
+  PO: '3143'
+  A: '1494'
+  E: '270'
+  PCT: '.945'
+  TP: '0'
+- year: '1949'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  G: '125'
+  DP: '125'
+  PB: '23'
+  PO: '3221'
+  A: '1551'
+  E: '283'
+  PCT: '.944'
+  TP: '0'

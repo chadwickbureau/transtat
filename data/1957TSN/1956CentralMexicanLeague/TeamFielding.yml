@@ -1,0 +1,66 @@
+- year: '1956'
+  nameLeague: Central Mexican League
+  nameClub: Saltillo
+  G: '100'
+  DP: '110'
+  PB: '9'
+  PO: '2631'
+  A: '1177'
+  E: '155'
+  PCT: '.960'
+  TP: '0'
+- year: '1956'
+  nameLeague: Central Mexican League
+  nameClub: Chihuahua
+  G: '102'
+  DP: '106'
+  PB: '6'
+  PO: '2702'
+  A: '1224'
+  E: '160'
+  PCT: '.960'
+  TP: '0'
+- year: '1956'
+  nameLeague: Central Mexican League
+  nameClub: Durango
+  G: '101'
+  DP: '100'
+  PB: '10'
+  PO: '2604'
+  A: '1153'
+  E: '157'
+  PCT: '.959'
+  TP: '0'
+- year: '1956'
+  nameLeague: Central Mexican League
+  nameClub: Aguascalientes
+  G: '103'
+  DP: '108'
+  PB: '14'
+  PO: '2722'
+  A: '1167'
+  E: '172'
+  PCT: '.958'
+  TP: '0'
+- year: '1956'
+  nameLeague: Central Mexican League
+  nameClub: Ciudad Juarez
+  G: '101'
+  DP: '104'
+  PB: '10'
+  PO: '2630'
+  A: '1189'
+  E: '190'
+  PCT: '.953'
+  TP: '0'
+- year: '1956'
+  nameLeague: Central Mexican League
+  nameClub: Fresnillo
+  G: '101'
+  DP: '121'
+  PB: '8'
+  PO: '2661'
+  A: '1328'
+  E: '211'
+  PCT: '.950'
+  TP: '0'

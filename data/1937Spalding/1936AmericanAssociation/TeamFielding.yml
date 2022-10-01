@@ -1,0 +1,88 @@
+- year: '1936'
+  nameLeague: American Association
+  nameClub: St. Paul
+  G: '152'
+  DP: '110'
+  TP: '0'
+  PB: '13'
+  PO: '4053'
+  A: '1679'
+  E: '154'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Kansas City
+  G: '157'
+  DP: '159'
+  TP: '0'
+  PB: '17'
+  PO: '4218'
+  A: '1857'
+  E: '190'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  G: '158'
+  DP: '146'
+  TP: '0'
+  PB: '21'
+  PO: '4171'
+  A: '1819'
+  E: '209'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  G: '157'
+  DP: '152'
+  TP: '0'
+  PB: '24'
+  PO: '4120'
+  A: '1758'
+  E: '213'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Toledo
+  G: '153'
+  DP: '147'
+  TP: '0'
+  PB: '13'
+  PO: '4026'
+  A: '1851'
+  E: '225'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Louisville
+  G: '155'
+  DP: '127'
+  TP: '0'
+  PB: '23'
+  PO: '4074'
+  A: '1745'
+  E: '225'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  G: '158'
+  DP: '138'
+  TP: '1'
+  PB: '11'
+  PO: '4152'
+  A: '1916'
+  E: '279'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Columbus
+  G: '154'
+  DP: '129'
+  TP: '1'
+  PB: '17'
+  PO: '4029'
+  A: '1678'
+  E: '269'
+  PCT: '.955'

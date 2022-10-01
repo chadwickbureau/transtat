@@ -1,0 +1,118 @@
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '0'
+  PCT: '.571'
+  RANK: '1'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: regular
+  W: '79'
+  L: '60'
+  T: '0'
+  PCT: '.568'
+  RANK: '2'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: regular
+  W: '75'
+  L: '64'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Plainview
+  phase: regular
+  W: '73'
+  L: '67'
+  T: '0'
+  PCT: '.521'
+  RANK: '4'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: regular
+  W: '69'
+  L: '71'
+  T: '0'
+  PCT: '.493'
+  RANK: '5'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: regular
+  W: '68'
+  L: '72'
+  T: '0'
+  PCT: '.486'
+  RANK: '6'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: regular
+  W: '59'
+  L: '81'
+  T: '0'
+  PCT: '.421'
+  RANK: '7'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: El Paso
+  phase: regular
+  W: '56'
+  L: '84'
+  T: '0'
+  PCT: '.400'
+  RANK: '8'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Plainview
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '1'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '2'

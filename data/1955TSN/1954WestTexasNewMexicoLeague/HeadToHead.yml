@@ -1,0 +1,80 @@
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  Clovis: '7'
+  Amarillo: '11'
+  Abilene: '10'
+  Albuquerque: '16'
+  Plainview: '14'
+  Lubbock: '11'
+  Borger: '12'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  Pampa: '11'
+  Amarillo: '9'
+  Abilene: '13'
+  Albuquerque: '9'
+  Plainview: '16'
+  Lubbock: '12'
+  Borger: '9'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  Pampa: '9'
+  Clovis: '11'
+  Abilene: '9'
+  Albuquerque: '9'
+  Plainview: '13'
+  Lubbock: '13'
+  Borger: '7'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  Pampa: '11'
+  Clovis: '7'
+  Amarillo: '10'
+  Albuquerque: '11'
+  Plainview: '7'
+  Lubbock: '12'
+  Borger: '7'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  Pampa: '4'
+  Clovis: '13'
+  Amarillo: '13'
+  Abilene: '9'
+  Plainview: '8'
+  Lubbock: '10'
+  Borger: '5'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Plainview
+  Pampa: '7'
+  Clovis: '4'
+  Amarillo: '8'
+  Abilene: '13'
+  Albuquerque: '12'
+  Lubbock: '11'
+  Borger: '5'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  Pampa: '8'
+  Clovis: '7'
+  Amarillo: '7'
+  Abilene: '11'
+  Albuquerque: '10'
+  Plainview: '10'
+  Borger: '5'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  Pampa: '4'
+  Clovis: '4'
+  Amarillo: '5'
+  Abilene: '5'
+  Albuquerque: '7'
+  Plainview: '5'
+  Lubbock: '6'

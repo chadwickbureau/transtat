@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '97'
+  L: '57'
+  T: '0'
+  PCT: '.630'
+  RANK: '1'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '89'
+  L: '63'
+  T: '2'
+  PCT: '.586'
+  RANK: '2'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '87'
+  L: '65'
+  T: '1'
+  PCT: '.572'
+  RANK: '3'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: regular
+  W: '82'
+  L: '72'
+  T: '0'
+  PCT: '.532'
+  RANK: '4'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '78'
+  L: '76'
+  T: '0'
+  PCT: '.506'
+  RANK: '5'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Ottawa
+  phase: regular
+  W: '71'
+  L: '83'
+  T: '0'
+  PCT: '.461'
+  RANK: '6'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '58'
+  L: '95'
+  T: '0'
+  PCT: '.379'
+  RANK: '7'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Springfield
+  phase: regular
+  W: '51'
+  L: '102'
+  T: '1'
+  PCT: '.333'
+  RANK: '8'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

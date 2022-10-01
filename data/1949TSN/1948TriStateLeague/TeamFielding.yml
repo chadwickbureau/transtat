@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  G: '146'
+  DP: '164'
+  TP: '1'
+  PB: '18'
+  PO: '3807'
+  A: '1622'
+  E: '236'
+  PCT: '.958'
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Fayetteville
+  G: '144'
+  DP: '121'
+  TP: '3'
+  PB: '16'
+  PO: '3733'
+  A: '1693'
+  E: '236'
+  PCT: '.958'
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  G: '145'
+  DP: '117'
+  TP: '0'
+  PB: '4'
+  PO: '3736'
+  A: '1572'
+  E: '237'
+  PCT: '.957'
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  G: '147'
+  DP: '121'
+  TP: '0'
+  PB: '8'
+  PO: '3833'
+  A: '1596'
+  E: '257'
+  PCT: '.955'
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Charlotte
+  G: '148'
+  DP: '124'
+  TP: '0'
+  PB: '23'
+  PO: '3851'
+  A: '1745'
+  E: '272'
+  PCT: '.954'
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  G: '148'
+  DP: '145'
+  TP: '0'
+  PB: '16'
+  PO: '3838'
+  A: '1675'
+  E: '284'
+  PCT: '.951'
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  G: '145'
+  DP: '110'
+  TP: '0'
+  PB: '3'
+  PO: '3695'
+  A: '1607'
+  E: '292'
+  PCT: '.948'
+- year: '1948'
+  nameLeague: Tri-State League
+  nameClub: Florence
+  G: '145'
+  DP: '118'
+  TP: '1'
+  PB: '19'
+  PO: '3722'
+  A: '1622'
+  E: '306'
+  PCT: '.946'

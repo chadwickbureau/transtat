@@ -1,0 +1,112 @@
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular
+  W: '89'
+  L: '65'
+  T: '0'
+  PCT: '.578'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular
+  W: '82'
+  L: '72'
+  T: '0'
+  PCT: '.532'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: regular
+  W: '82'
+  L: '73'
+  T: '0'
+  PCT: '.529'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular
+  W: '81'
+  L: '74'
+  T: '1'
+  PCT: '.523'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular
+  W: '79'
+  L: '75'
+  T: '1'
+  PCT: '.513'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular
+  W: '76'
+  L: '78'
+  T: '0'
+  PCT: '.494'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular
+  W: '75'
+  L: '79'
+  T: '0'
+  PCT: '.487'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Little Rock/Montgomery
+  phase: regular
+  W: '53'
+  L: '101'
+  T: '0'
+  PCT: '.344'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: final
+  W: '4'
+  L: '3'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: final
+  W: '3'
+  L: '4'

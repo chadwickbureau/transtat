@@ -1,0 +1,66 @@
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  G: '130'
+  DP: '121'
+  PB: '16'
+  PO: '3315'
+  A: '1365'
+  E: '205'
+  PCT: '.958'
+  TP: '0'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  G: '125'
+  DP: '116'
+  PB: '12'
+  PO: '3269'
+  A: '1399'
+  E: '223'
+  PCT: '.954'
+  TP: '0'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Hyacinthe
+  G: '129'
+  DP: '126'
+  PB: '5'
+  PO: '3375'
+  A: '1371'
+  E: '232'
+  PCT: '.953'
+  TP: '1'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  G: '129'
+  DP: '124'
+  PB: '13'
+  PO: '3383'
+  A: '1456'
+  E: '263'
+  PCT: '.948'
+  TP: '0'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Granby
+  G: '124'
+  DP: '100'
+  PB: '15'
+  PO: '3123'
+  A: '1319'
+  E: '251'
+  PCT: '.947'
+  TP: '0'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  G: '129'
+  DP: '113'
+  PB: '19'
+  PO: '3360'
+  A: '1333'
+  E: '267'
+  PCT: '.946'
+  TP: '0'

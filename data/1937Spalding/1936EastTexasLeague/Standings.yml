@@ -1,0 +1,174 @@
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  phase: regular/first
+  W: '51'
+  L: '23'
+  PCT: '.689'
+  RANK: '1'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: regular/first
+  W: '46'
+  L: '28'
+  PCT: '.622'
+  RANK: '2'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Longview
+  phase: regular/first
+  W: '41'
+  L: '32'
+  PCT: '.562'
+  RANK: '3'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Palestine
+  phase: regular/first
+  W: '40'
+  L: '34'
+  PCT: '.541'
+  RANK: '4'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: regular/first
+  W: '36'
+  L: '38'
+  PCT: '.486'
+  RANK: '5'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Jacksonville
+  phase: regular/first
+  W: '33'
+  L: '41'
+  PCT: '.446'
+  RANK: '6'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Marshall
+  phase: regular/first
+  W: '28'
+  L: '44'
+  PCT: '.389'
+  RANK: '7'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Kilgore
+  phase: regular/first
+  W: '20'
+  L: '55'
+  PCT: '.267'
+  RANK: '8'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: regular/second
+  W: '48'
+  L: '28'
+  PCT: '.632'
+  RANK: '1'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Jacksonville
+  phase: regular/second
+  W: '47'
+  L: '28'
+  PCT: '.627'
+  RANK: '2'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Longview
+  phase: regular/second
+  W: '45'
+  L: '32'
+  PCT: '.584'
+  RANK: '3'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  phase: regular/second
+  W: '42'
+  L: '36'
+  PCT: '.538'
+  RANK: '4'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: regular/second
+  W: '34'
+  L: '42'
+  PCT: '.447'
+  RANK: '5'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Palestine
+  phase: regular/second
+  W: '34'
+  L: '43'
+  PCT: '.442'
+  RANK: '6'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Marshall
+  phase: regular/second
+  W: '31'
+  L: '46'
+  PCT: '.403'
+  RANK: '6'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Kilgore
+  phase: regular/second
+  W: '25'
+  L: '51'
+  PCT: '.329'
+  RANK: '8'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Jacksonville
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Longview
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: East Texas League
+  nameClub: Jacksonville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

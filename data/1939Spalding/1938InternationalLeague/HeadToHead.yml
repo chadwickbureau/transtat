@@ -1,0 +1,80 @@
+- year: '1938'
+  nameLeague: International League
+  nameClub: Newark
+  Syracuse: '12'
+  Rochester: '13'
+  Buffalo: '14'
+  Toronto: '16'
+  Montreal: '16'
+  Jersey City: '17'
+  Baltimore: '16'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Syracuse
+  Newark: '10'
+  Rochester: '8'
+  Buffalo: '9'
+  Toronto: '12'
+  Montreal: '14'
+  Jersey City: '17'
+  Baltimore: '17'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Rochester
+  Newark: '9'
+  Syracuse: '14'
+  Buffalo: '10'
+  Toronto: '11'
+  Montreal: '12'
+  Jersey City: '12'
+  Baltimore: '12'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Buffalo
+  Newark: '8'
+  Syracuse: '13'
+  Rochester: '12'
+  Toronto: '12'
+  Montreal: '11'
+  Jersey City: '11'
+  Baltimore: '12'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Toronto
+  Newark: '5'
+  Syracuse: '10'
+  Rochester: '11'
+  Buffalo: '10'
+  Montreal: '12'
+  Jersey City: '9'
+  Baltimore: '15'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Montreal
+  Newark: '6'
+  Syracuse: '8'
+  Rochester: '10'
+  Buffalo: '11'
+  Toronto: '10'
+  Jersey City: '12'
+  Baltimore: '12'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Jersey City
+  Newark: '5'
+  Syracuse: '5'
+  Rochester: '10'
+  Buffalo: '11'
+  Toronto: '13'
+  Montreal: '10'
+  Baltimore: '14'
+- year: '1938'
+  nameLeague: International League
+  nameClub: Baltimore
+  Newark: '5'
+  Syracuse: '5'
+  Rochester: '10'
+  Buffalo: '9'
+  Toronto: '7'
+  Montreal: '9'
+  Jersey City: '7'

@@ -1,0 +1,48 @@
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  Valdosta: '10'
+  Dublin: '19'
+  Brunswick: '17'
+  Waycross: '19'
+  Thomasville: '21'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  Albany: '15'
+  Dublin: '12'
+  Brunswick: '13'
+  Waycross: '15'
+  Thomasville: '20'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Dublin
+  Albany: '7'
+  Valdosta: '14'
+  Brunswick: '14'
+  Waycross: '19'
+  Thomasville: '18'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  Albany: '9'
+  Valdosta: '12'
+  Dublin: '12'
+  Waycross: '12'
+  Thomasville: '19'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  Albany: '6'
+  Valdosta: '10'
+  Dublin: '7'
+  Brunswick: '13'
+  Thomasville: '11'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  Albany: '4'
+  Valdosta: '6'
+  Dublin: '6'
+  Brunswick: '7'
+  Waycross: '15'

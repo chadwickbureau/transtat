@@ -1,0 +1,35 @@
+- year: '1958'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  Wytheville: '9'
+  Salem: '8'
+  Pulaski: '16'
+  Bluefield: '14'
+- year: '1958'
+  nameLeague: Appalachian League
+  nameClub: Wytheville
+  Johnson City: '9'
+  Salem: '12'
+  Pulaski: '9'
+  Bluefield: '14'
+- year: '1958'
+  nameLeague: Appalachian League
+  nameClub: Salem
+  Johnson City: '10'
+  Wytheville: '6'
+  Pulaski: '13'
+  Bluefield: '13'
+- year: '1958'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  Johnson City: '1'
+  Wytheville: '9'
+  Salem: '4'
+  Bluefield: '10'
+- year: '1958'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  Johnson City: '4'
+  Wytheville: '4'
+  Salem: '5'
+  Pulaski: '8'

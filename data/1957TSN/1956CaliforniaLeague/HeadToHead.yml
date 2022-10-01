@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: California League
+  nameClub: Fresno
+  Stockton: '13'
+  San Jose: '11'
+  Reno: '13'
+  Visalia: '12'
+  Modesto: '16'
+  Salinas: '12'
+  Bakersfield: '14'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Stockton
+  Fresno: '7'
+  San Jose: '14'
+  Reno: '12'
+  Visalia: '9'
+  Modesto: '10'
+  Salinas: '16'
+  Bakersfield: '15'
+- year: '1956'
+  nameLeague: California League
+  nameClub: San Jose
+  Fresno: '9'
+  Stockton: '6'
+  Reno: '8'
+  Visalia: '13'
+  Modesto: '16'
+  Salinas: '15'
+  Bakersfield: '12'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Reno
+  Fresno: '7'
+  Stockton: '8'
+  San Jose: '12'
+  Visalia: '12'
+  Modesto: '11'
+  Salinas: '13'
+  Bakersfield: '10'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Visalia
+  Fresno: '8'
+  Stockton: '11'
+  San Jose: '7'
+  Reno: '8'
+  Modesto: '10'
+  Salinas: '9'
+  Bakersfield: '14'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Modesto
+  Fresno: '4'
+  Stockton: '10'
+  San Jose: '4'
+  Reno: '9'
+  Visalia: '10'
+  Salinas: '13'
+  Bakersfield: '16'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Salinas
+  Fresno: '8'
+  Stockton: '4'
+  San Jose: '5'
+  Reno: '7'
+  Visalia: '11'
+  Modesto: '7'
+  Bakersfield: '11'
+- year: '1956'
+  nameLeague: California League
+  nameClub: Bakersfield
+  Fresno: '6'
+  Stockton: '5'
+  San Jose: '8'
+  Reno: '10'
+  Visalia: '6'
+  Modesto: '4'
+  Salinas: '9'

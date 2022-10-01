@@ -1,0 +1,80 @@
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  Seattle: '15'
+  Sacramento: '21'
+  San Francisco: '14'
+  San Diego: '11'
+  Portland: '15'
+  Hollywood: '13'
+  Oakland: '16'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  Los Angeles: '10'
+  Sacramento: '14'
+  San Francisco: '13'
+  San Diego: '13'
+  Portland: '16'
+  Hollywood: '20'
+  Oakland: '14'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  Los Angeles: '6'
+  Seattle: '11'
+  San Francisco: '12'
+  San Diego: '17'
+  Portland: '11'
+  Hollywood: '17'
+  Oakland: '21'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  Los Angeles: '13'
+  Seattle: '13'
+  Sacramento: '12'
+  San Diego: '12'
+  Portland: '14'
+  Hollywood: '12'
+  Oakland: '17'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  Los Angeles: '13'
+  Seattle: '11'
+  Sacramento: '9'
+  San Francisco: '13'
+  Portland: '18'
+  Hollywood: '16'
+  Oakland: '12'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  Los Angeles: '11'
+  Seattle: '8'
+  Sacramento: '13'
+  San Francisco: '10'
+  San Diego: '10'
+  Hollywood: '10'
+  Oakland: '17'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  Los Angeles: '11'
+  Seattle: '7'
+  Sacramento: '8'
+  San Francisco: '13'
+  San Diego: '10'
+  Portland: '14'
+  Oakland: '16'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  Los Angeles: '9'
+  Seattle: '10'
+  Sacramento: '5'
+  San Francisco: '10'
+  San Diego: '12'
+  Portland: '8'
+  Hollywood: '11'

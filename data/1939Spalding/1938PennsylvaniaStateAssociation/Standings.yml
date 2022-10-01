@@ -1,0 +1,78 @@
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: Butler
+  phase: regular/first
+  W: '27'
+  L: '19'
+  PCT: '.587'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: McKeesport
+  phase: regular/first
+  W: '21'
+  L: '23'
+  PCT: '.477'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: Greensburg
+  phase: regular/first
+  W: '22'
+  L: '25'
+  PCT: '.468'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: Beaver Falls
+  phase: regular/first
+  W: '22'
+  L: '25'
+  PCT: '.468'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: McKeesport
+  phase: regular/second
+  W: '32'
+  L: '20'
+  PCT: '.615'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: Butler
+  phase: regular/second
+  W: '28'
+  L: '24'
+  PCT: '.539'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: Beaver Falls
+  phase: regular/second
+  W: '29'
+  L: '25'
+  PCT: '.537'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: Greensburg
+  phase: regular/second
+  W: '15'
+  L: '35'
+  PCT: '.300'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: Butler
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Pennsylvania State Association
+  nameClub: McKeesport
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

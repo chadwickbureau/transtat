@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: regular
+  W: '95'
+  L: '59'
+  T: '1'
+  PCT: '.617'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: regular
+  W: '94'
+  L: '60'
+  T: '0'
+  PCT: '.610'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular
+  W: '78'
+  L: '77'
+  T: '1'
+  PCT: '.503'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular
+  W: '77'
+  L: '78'
+  T: '1'
+  PCT: '.497'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Omaha
+  phase: regular
+  W: '74'
+  L: '80'
+  T: '0'
+  PCT: '.481'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular
+  W: '71'
+  L: '83'
+  T: '0'
+  PCT: '.461'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular
+  W: '70'
+  L: '84'
+  T: '0'
+  PCT: '.455'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Wichita
+  phase: regular
+  W: '58'
+  L: '96'
+  T: '1'
+  PCT: '.377'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

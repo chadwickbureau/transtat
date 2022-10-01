@@ -1,0 +1,72 @@
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  phase: regular
+  W: '88'
+  L: '38'
+  T: '0'
+  PCT: '.698'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Mexicali
+  phase: regular
+  W: '79'
+  L: '47'
+  T: '0'
+  PCT: '.627'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: San Bernardino
+  phase: regular
+  W: '62'
+  L: '64'
+  T: '0'
+  PCT: '.492'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Porterville
+  phase: regular
+  W: '61'
+  L: '65'
+  T: '0'
+  PCT: '.484'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: El Centro
+  phase: regular
+  W: '59'
+  L: '66'
+  T: '0'
+  PCT: '.472'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Salinas/Tijuana
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Reno
+  phase: regular
+  W: '49'
+  L: '75'
+  T: '0'
+  PCT: '.395'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  phase: regular
+  W: '46'
+  L: '79'
+  T: '0'
+  PCT: '.368'
+  RANK: '8'

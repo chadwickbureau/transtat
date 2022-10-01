@@ -1,0 +1,2202 @@
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Berbesia
+  nameClub1: Graceville
+  GP: '15'
+  GS: '14'
+  CG: '11'
+  SHO: '2'
+  W: '12'
+  L: '2'
+  PCT: '.857'
+  IP: '107'
+  H: '101'
+  HR: '7'
+  R: '50'
+  ER: '31'
+  BB: '46'
+  SO: '60'
+  HB: '4'
+  WP: '1'
+  ERA: '2.61'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: S.
+  nameClub1: Dothan
+  throws: L
+  GP: '31'
+  GS: '24'
+  CG: '23'
+  SHO: '1'
+  W: '23'
+  L: '4'
+  PCT: '.852'
+  IP: '242'
+  H: '215'
+  HR: '1'
+  R: '98'
+  ER: '76'
+  BB: '85'
+  SO: '196'
+  HB: '7'
+  WP: '13'
+  ERA: '2.83'
+  ERA_RANK: '1'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Drostie
+  nameClub1: Fort Walton Beach
+  GP: '14'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '68'
+  H: '78'
+  HR: '2'
+  R: '40'
+  ER: '22'
+  BB: '47'
+  SO: '41'
+  HB: '0'
+  WP: '3'
+  ERA: '2.91'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Sturgill
+  nameClub1: Fort Walton Beach
+  GP: '26'
+  GS: '15'
+  CG: '14'
+  SHO: '0'
+  W: '15'
+  L: '4'
+  PCT: '.789'
+  IP: '165'
+  H: '137'
+  HR: '4'
+  R: '73'
+  ER: '55'
+  BB: '70'
+  SO: '119'
+  HB: '6'
+  WP: '5'
+  ERA: '3.00'
+  BK: '1'
+  T: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Rogers
+  nameClub1: Panama City
+  GP: '36'
+  GS: '25'
+  CG: '18'
+  SHO: '0'
+  W: '14'
+  L: '14'
+  PCT: '.500'
+  IP: '209'
+  H: '229'
+  HR: '9'
+  R: '130'
+  ER: '71'
+  BB: '88'
+  SO: '125'
+  HB: '3'
+  WP: '6'
+  ERA: '3.06'
+  BK: '3'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wolfe
+  nameClub1: Crestview
+  GP: '8'
+  GS: '5'
+  CG: '4'
+  SHO: '1'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '46'
+  H: '46'
+  HR: '3'
+  R: '24'
+  ER: '17'
+  BB: '13'
+  SO: '22'
+  HB: '2'
+  WP: '2'
+  ERA: '3.33'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Dobberstein
+  nameClub1: Panama City
+  GP: '13'
+  GS: '8'
+  CG: '3'
+  SHO: '1'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '67'
+  H: '90'
+  HR: '1'
+  R: '45'
+  ER: '26'
+  BB: '30'
+  SO: '39'
+  HB: '1'
+  WP: '2'
+  ERA: '3.49'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Shockley
+  nameClub1: Dothan
+  GP: '36'
+  GS: '18'
+  CG: '11'
+  SHO: '2'
+  W: '10'
+  L: '7'
+  PCT: '.588'
+  IP: '198'
+  H: '198'
+  HR: '7'
+  R: '111'
+  ER: '77'
+  BB: '95'
+  SO: '108'
+  HB: '2'
+  WP: '6'
+  ERA: '3.50'
+  BK: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: McDonald
+  nameClub1: Andalusia-Opp
+  nameClub2: Crestview
+  GP: '30'
+  GS: '21'
+  CG: '12'
+  SHO: '1'
+  W: '10'
+  L: '12'
+  PCT: '.455'
+  IP: '158'
+  H: '161'
+  HR: '9'
+  R: '104'
+  ER: '67'
+  BB: '71'
+  SO: '55'
+  HB: '12'
+  WP: '5'
+  ERA: '3.82'
+  BK: '3'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Yochim
+  nameClub1: Panama City
+  GP: '13'
+  GS: '3'
+  CG: '3'
+  SHO: '0'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '61'
+  H: '54'
+  HR: '2'
+  R: '35'
+  ER: '27'
+  BB: '24'
+  SO: '45'
+  HB: '2'
+  WP: '7'
+  ERA: '3.98'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Tucker
+  nameClub1: Dothan
+  throws: L
+  GP: '30'
+  GS: '11'
+  CG: '5'
+  SHO: '0'
+  W: '6'
+  L: '8'
+  PCT: '.429'
+  IP: '124'
+  H: '139'
+  HR: '3'
+  R: '80'
+  ER: '57'
+  BB: '73'
+  SO: '96'
+  HB: '6'
+  WP: '5'
+  ERA: '4.14'
+  BK: '0'
+  T: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Curl
+  nameClub1: Dothan
+  GP: '18'
+  GS: '16'
+  CG: '6'
+  SHO: '0'
+  W: '7'
+  L: '5'
+  PCT: '.583'
+  IP: '104'
+  H: '91'
+  HR: '7'
+  R: '58'
+  ER: '48'
+  BB: '74'
+  SO: '83'
+  HB: '4'
+  WP: '4'
+  ERA: '4.15'
+  BK: '1'
+  T: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: M.
+  nameClub1: Graceville
+  GP: '19'
+  GS: '9'
+  CG: '6'
+  SHO: '0'
+  W: '4'
+  L: '5'
+  PCT: '.444'
+  IP: '110'
+  H: '136'
+  HR: '9'
+  R: '77'
+  ER: '52'
+  BB: '30'
+  SO: '52'
+  HB: '5'
+  WP: '1'
+  ERA: '4.25'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Laumann
+  nameClub1: Andalusia-Opp
+  throws: L
+  GP: '17'
+  GS: '6'
+  CG: '2'
+  SHO: '1'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '71'
+  H: '70'
+  HR: '5'
+  R: '38'
+  ER: '34'
+  BB: '48'
+  SO: '41'
+  HB: '3'
+  WP: '2'
+  ERA: '4.31'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Barry
+  nameClub1: Crestview
+  nameClub2: Andalusia-Opp
+  GP: '29'
+  GS: '17'
+  CG: '15'
+  SHO: '1'
+  W: '11'
+  L: '8'
+  PCT: '.579'
+  IP: '173'
+  H: '207'
+  HR: '9'
+  R: '103'
+  ER: '83'
+  BB: '67'
+  SO: '87'
+  HB: '2'
+  WP: '6'
+  ERA: '4.32'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Stark
+  nameClub1: Crestview
+  GP: '12'
+  GS: '12'
+  CG: '4'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '60'
+  H: '52'
+  HR: '5'
+  R: '40'
+  ER: '29'
+  BB: '50'
+  SO: '46'
+  HB: '4'
+  WP: '6'
+  ERA: '4.35'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wright
+  nameClub1: Graceville
+  throws: L
+  GP: '22'
+  GS: '13'
+  CG: '5'
+  SHO: '0'
+  W: '8'
+  L: '7'
+  PCT: '.533'
+  IP: '104'
+  H: '112'
+  HR: '6'
+  R: '68'
+  ER: '52'
+  BB: '45'
+  SO: '49'
+  HB: '7'
+  WP: '2'
+  ERA: '4.50'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Bastion
+  nameClub1: Crestview
+  GP: '22'
+  GS: '0'
+  CG: '0'
+  SHO: '0'
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  IP: '82'
+  H: '81'
+  HR: '2'
+  R: '63'
+  ER: '41'
+  BB: '69'
+  SO: '34'
+  HB: '1'
+  WP: '2'
+  ERA: '4.50'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Sinquefield
+  nameClub1: Panama City
+  nameClub2: Fort Walton Beach
+  GP: '15'
+  GS: '3'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '1'
+  PCT: '.667'
+  IP: '55'
+  H: '64'
+  HR: '1'
+  R: '35'
+  ER: '28'
+  BB: '31'
+  SO: '33'
+  HB: '2'
+  WP: '0'
+  ERA: '4.58'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: McKinstry
+  nameClub1: Crestview
+  GP: '17'
+  GS: '6'
+  CG: '4'
+  SHO: '0'
+  W: '7'
+  L: '3'
+  PCT: '.700'
+  IP: '92'
+  H: '87'
+  HR: '4'
+  R: '61'
+  ER: '48'
+  BB: '47'
+  SO: '42'
+  HB: '1'
+  WP: '1'
+  ERA: '4.70'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kleczynski
+  nameClub1: Crestview
+  GP: '16'
+  GS: '13'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '98'
+  H: '97'
+  HR: '6'
+  R: '75'
+  ER: '52'
+  BB: '100'
+  SO: '74'
+  HB: '3'
+  WP: '3'
+  ERA: '4.78'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Fincher
+  nameClub1: Graceville
+  GP: '34'
+  GS: '19'
+  CG: '9'
+  SHO: '1'
+  W: '13'
+  L: '6'
+  PCT: '.684'
+  IP: '199'
+  H: '247'
+  HR: '11'
+  R: '152'
+  ER: '106'
+  BB: '114'
+  SO: '113'
+  HB: '2'
+  WP: '13'
+  ERA: '4.79'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Thomasson
+  nameClub1: Andalusia-Opp
+  nameClub2: Fort Walton Beach
+  GP: '22'
+  GS: '0'
+  CG: '0'
+  SHO: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '56'
+  H: '75'
+  HR: '7'
+  R: '39'
+  ER: '30'
+  BB: '26'
+  SO: '23'
+  HB: '3'
+  WP: '4'
+  ERA: '4.82'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Callahan
+  nameClub1: Andalusia-Opp
+  GP: '17'
+  GS: '9'
+  CG: '6'
+  SHO: '1'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  IP: '76'
+  H: '80'
+  HR: '4'
+  R: '48'
+  ER: '41'
+  BB: '50'
+  SO: '43'
+  HB: '2'
+  WP: '2'
+  ERA: '4.86'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Hemmerly
+  nameClub1: Fort Walton Beach
+  throws: L
+  GP: '41'
+  GS: '25'
+  CG: '13'
+  SHO: '1'
+  W: '11'
+  L: '13'
+  PCT: '.458'
+  IP: '216'
+  H: '197'
+  HR: '7'
+  R: '156'
+  ER: '118'
+  BB: '166'
+  SO: '190'
+  HB: '18'
+  WP: '9'
+  ERA: '4.92'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Vowels
+  nameClub1: Dothan
+  GP: '30'
+  GS: '21'
+  CG: '7'
+  SHO: '0'
+  W: '9'
+  L: '11'
+  PCT: '.450'
+  IP: '139'
+  H: '127'
+  HR: '9'
+  R: '95'
+  ER: '77'
+  BB: '108'
+  SO: '145'
+  HB: '1'
+  WP: '10'
+  ERA: '4.99'
+  BK: '0'
+  T: '1'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Collins
+  nameClub1: Graceville
+  GP: '13'
+  GS: '9'
+  CG: '6'
+  SHO: '0'
+  W: '4'
+  L: '6'
+  PCT: '.400'
+  IP: '89'
+  H: '92'
+  HR: '4'
+  R: '72'
+  ER: '52'
+  BB: '71'
+  SO: '50'
+  HB: '3'
+  WP: '8'
+  ERA: '5.26'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Salmonson
+  nameClub1: Fort Walton Beach
+  GP: '35'
+  GS: '25'
+  CG: '10'
+  SHO: '2'
+  W: '16'
+  L: '7'
+  PCT: '.696'
+  IP: '191'
+  H: '233'
+  HR: '4'
+  R: '148'
+  ER: '113'
+  BB: '118'
+  SO: '113'
+  HB: '6'
+  WP: '19'
+  ERA: '5.32'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnard
+  nameClub1: Graceville
+  GP: '26'
+  GS: '13'
+  CG: '5'
+  SHO: '0'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  IP: '115'
+  H: '112'
+  HR: '7'
+  R: '92'
+  ER: '68'
+  BB: '107'
+  SO: '55'
+  HB: '6'
+  WP: '14'
+  ERA: '5.32'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Karasak
+  nameClub1: Panama City
+  throws: L
+  GP: '16'
+  GS: '2'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '0'
+  PCT: '1.000'
+  IP: '49'
+  H: '62'
+  HR: '3'
+  R: '46'
+  ER: '29'
+  BB: '35'
+  SO: '33'
+  HB: '4'
+  WP: '3'
+  ERA: '5.33'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Mitnick
+  nameClub1: Crestview
+  GP: '29'
+  GS: '13'
+  CG: '7'
+  SHO: '0'
+  W: '5'
+  L: '11'
+  PCT: '.313'
+  IP: '117'
+  H: '132'
+  HR: '12'
+  R: '91'
+  ER: '71'
+  BB: '48'
+  SO: '72'
+  HB: '3'
+  WP: '6'
+  ERA: '5.46'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Tussing
+  nameClub1: Andalusia-Opp
+  GP: '25'
+  GS: '18'
+  CG: '9'
+  SHO: '0'
+  W: '7'
+  L: '9'
+  PCT: '.438'
+  IP: '144'
+  H: '164'
+  HR: '12'
+  R: '105'
+  ER: '88'
+  BB: '92'
+  SO: '74'
+  HB: '5'
+  WP: '12'
+  ERA: '5.50'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kennedy
+  nameClub1: Panama City
+  throws: L
+  GP: '18'
+  GS: '12'
+  CG: '2'
+  SHO: '0'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  IP: '79'
+  H: '83'
+  HR: '3'
+  R: '59'
+  ER: '49'
+  BB: '80'
+  SO: '101'
+  HB: '5'
+  WP: '2'
+  ERA: '5.58'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilson
+  nameClub1: Panama City
+  GP: '27'
+  GS: '16'
+  CG: '8'
+  SHO: '0'
+  W: '5'
+  L: '12'
+  PCT: '.294'
+  IP: '128'
+  H: '154'
+  HR: '3'
+  R: '106'
+  ER: '80'
+  BB: '81'
+  SO: '86'
+  HB: '5'
+  WP: '14'
+  ERA: '5.63'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Garland
+  nameClub1: Dothan
+  nameClub2: Andalusia-Opp
+  GP: '22'
+  GS: '11'
+  CG: '5'
+  SHO: '1'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '99'
+  H: '118'
+  HR: '5'
+  R: '68'
+  ER: '62'
+  BB: '54'
+  SO: '43'
+  HB: '1'
+  WP: '7'
+  ERA: '5.64'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Haddon
+  nameClub1: Fort Walton Beach
+  GP: '14'
+  GS: '9'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  IP: '81'
+  H: '85'
+  HR: '8'
+  R: '58'
+  ER: '51'
+  BB: '49'
+  SO: '48'
+  HB: '2'
+  WP: '3'
+  ERA: '5.67'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: Andalusia-Opp
+  GP: '8'
+  GS: '6'
+  CG: '3'
+  SHO: '1'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '54'
+  H: '60'
+  HR: '4'
+  R: '35'
+  ER: '34'
+  BB: '30'
+  SO: '37'
+  HB: '0'
+  WP: '2'
+  ERA: '5.67'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kidd
+  nameClub1: Andalusia-Opp
+  GP: '9'
+  GS: '7'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '1'
+  PCT: '.833'
+  IP: '61'
+  H: '71'
+  HR: '8'
+  R: '46'
+  ER: '39'
+  BB: '33'
+  SO: '32'
+  HB: '1'
+  WP: '3'
+  ERA: '5.75'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Worlinsky
+  nameClub1: Fort Walton Beach
+  GP: '12'
+  GS: '6'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '54'
+  H: '65'
+  HR: '4'
+  R: '50'
+  ER: '36'
+  BB: '36'
+  SO: '43'
+  HB: '2'
+  WP: '2'
+  ERA: '6.00'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Greenough
+  nameClub1: Crestview
+  GP: '10'
+  GS: '9'
+  CG: '5'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '62'
+  H: '68'
+  HR: '10'
+  R: '50'
+  ER: '42'
+  BB: '36'
+  SO: '30'
+  HB: '1'
+  WP: '4'
+  ERA: '6.10'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Stackhouse
+  nameClub1: Andalusia-Opp
+  GP: '13'
+  GS: '11'
+  CG: '2'
+  SHO: '0'
+  W: '5'
+  L: '2'
+  PCT: '.714'
+  IP: '74'
+  H: '81'
+  HR: '2'
+  R: '53'
+  ER: '51'
+  BB: '53'
+  SO: '30'
+  HB: '2'
+  WP: '0'
+  ERA: '6.20'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Hughes
+  nameClub1: Graceville
+  GP: '16'
+  GS: '11'
+  CG: '4'
+  SHO: '0'
+  W: '3'
+  L: '6'
+  PCT: '.333'
+  IP: '78'
+  H: '95'
+  HR: '2'
+  R: '79'
+  ER: '55'
+  BB: '76'
+  SO: '34'
+  HB: '7'
+  WP: '5'
+  ERA: '6.35'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Picone
+  nameClub1: Andalusia-Opp
+  GP: '19'
+  GS: '11'
+  CG: '6'
+  SHO: '0'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '79'
+  H: '76'
+  HR: '6'
+  R: '66'
+  ER: '57'
+  BB: '68'
+  SO: '55'
+  HB: '4'
+  WP: '13'
+  ERA: '6.49'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Lager
+  nameClub1: Andalusia-Opp
+  GP: '17'
+  GS: '13'
+  CG: '6'
+  SHO: '0'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  IP: '99'
+  H: '116'
+  HR: '9'
+  R: '89'
+  ER: '76'
+  BB: '84'
+  SO: '52'
+  HB: '10'
+  WP: '4'
+  ERA: '6.91'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Alsup
+  nameClub1: Crestview
+  nameClub2: Andalusia-Opp
+  nameClub3: Graceville
+  throws: L
+  GP: '11'
+  GS: '6'
+  CG: '1'
+  SHO: '0'
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  IP: '47'
+  H: '51'
+  HR: '4'
+  R: '43'
+  ER: '39'
+  BB: '43'
+  SO: '33'
+  HB: '5'
+  WP: '3'
+  ERA: '7.47'
+  BK: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Tyler
+  nameClub1: Andalusia-Opp
+  nameClub2: Crestview
+  GP: '12'
+  GS: '9'
+  CG: '2'
+  SHO: '0'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '60'
+  H: '67'
+  HR: '1'
+  R: '57'
+  ER: '50'
+  BB: '55'
+  SO: '50'
+  HB: '3'
+  WP: '9'
+  ERA: '7.50'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Peterson
+  nameClub1: Panama City
+  GP: '30'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '80'
+  H: '83'
+  HR: '6'
+  R: '99'
+  ER: '69'
+  BB: '81'
+  SO: '46'
+  HB: '1'
+  WP: '11'
+  ERA: '7.76'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Peale
+  nameClub1: Graceville
+  GP: '17'
+  GS: '8'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '66'
+  H: '68'
+  HR: '2'
+  R: '73'
+  ER: '57'
+  BB: '77'
+  SO: '50'
+  HB: '5'
+  WP: '7'
+  ERA: '7.77'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Whitzer
+  nameClub1: Fort Walton Beach
+  GP: '16'
+  GS: '7'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  IP: '69'
+  H: '107'
+  HR: '11'
+  R: '77'
+  ER: '67'
+  BB: '45'
+  SO: '36'
+  HB: '3'
+  WP: '4'
+  ERA: '8.74'
+  BK: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Adkins
+  nameClub1: Graceville
+  nameClub2: Andalusia-Opp
+  GP: '7'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Bowen
+  nameClub1: Andalusia-Opp
+  GP: '4'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Boyd
+  nameClub1: Andalusia-Opp
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Folmar
+  nameClub1: Andalusia-Opp
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Goggins
+  nameClub1: Andalusia-Opp
+  GP: '1'
+  W: '1'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Heffren
+  nameClub1: Panama City
+  nameClub2: Andalusia-Opp
+  GP: '6'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Jordan
+  nameClub1: Andalusia-Opp
+  GP: '10'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kazinski
+  nameClub1: Andalusia-Opp
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kennard
+  nameClub1: Andalusia-Opp
+  GP: '2'
+  W: '1'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kluck
+  nameClub1: Andalusia-Opp
+  GP: '7'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Ogdon
+  nameClub1: Andalusia-Opp
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Schwengls
+  nameClub1: Andalusia-Opp
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Stanford
+  nameClub1: Andalusia-Opp
+  throws: L
+  GP: '4'
+  W: '1'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Tepedino
+  nameClub1: Andalusia-Opp
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Anderson
+  nameClub1: Crestview
+  GP: '6'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Bumgardner
+  nameClub1: Crestview
+  GP: '4'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Bloom
+  nameClub1: Crestview
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Bradley
+  nameClub1: Crestview
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Butts
+  nameClub1: Crestview
+  GP: '7'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Dunbar
+  nameClub1: Fort Walton Beach
+  nameClub2: Crestview
+  GP: '11'
+  W: '0'
+  L: '3'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Dunn
+  nameClub1: Crestview
+  GP: '4'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Duvall
+  nameClub1: Crestview
+  GP: '4'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Gaston
+  nameClub1: Crestview
+  GP: '9'
+  W: '3'
+  L: '3'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Gookin
+  nameClub1: Crestview
+  GP: '4'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameClub1: Crestview
+  GP: '2'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Mazisky
+  nameClub1: Crestview
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: McCracken
+  nameClub1: Crestview
+  GP: '3'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: McLeod
+  nameClub1: Crestview
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Monkman
+  nameClub1: Crestview
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Pegg
+  nameClub1: Crestview
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Phillips
+  nameClub1: Crestview
+  GP: '3'
+  W: '1'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Renfroe
+  nameClub1: Crestview
+  throws: L
+  GP: '5'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Sevier
+  nameClub1: Crestview
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Stevens
+  nameClub1: Crestview
+  GP: '2'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Streetman
+  nameClub1: Crestview
+  throws: L
+  GP: '7'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Thomsen
+  nameClub1: Crestview
+  GP: '4'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Thorne
+  nameClub1: Crestview
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Thornhill
+  nameClub1: Crestview
+  GP: '2'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Thurn
+  nameClub1: Crestview
+  GP: '7'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wells
+  nameClub1: Crestview
+  GP: '3'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Whitekiller
+  nameClub1: Crestview
+  GP: '4'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Williams
+  nameClub1: Crestview
+  GP: '4'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Burgess
+  nameClub1: Dothan
+  GP: '8'
+  W: '3'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Camden
+  nameClub1: Dothan
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Catchot
+  nameClub1: Dothan
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Coy
+  nameClub1: Dothan
+  GP: '11'
+  W: '1'
+  L: '4'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Gatzman
+  nameClub1: Dothan
+  GP: '3'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Hicks
+  nameClub1: Dothan
+  throws: L
+  GP: '9'
+  W: '4'
+  L: '4'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Jeczesko
+  nameClub1: Dothan
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Robinson
+  nameClub1: Dothan
+  GP: '13'
+  W: '2'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Schieffer
+  nameClub1: Dothan
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Shannon
+  nameClub1: Dothan
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Waddell
+  nameClub1: Dothan
+  GP: '8'
+  W: '3'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilson
+  nameClub1: Dothan
+  GP: '3'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Borrero
+  nameClub1: Graceville
+  nameClub2: Fort Walton Beach
+  GP: '4'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Carswell
+  nameClub1: Fort Walton Beach
+  GP: '4'
+  W: '1'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Dean
+  nameClub1: Fort Walton Beach
+  GP: '5'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Faust
+  nameClub1: Fort Walton Beach
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Feimster
+  nameClub1: Fort Walton Beach
+  GP: '5'
+  W: '1'
+  L: '4'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Garcia
+  nameClub1: Fort Walton Beach
+  GP: '6'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Hector
+  nameClub1: Fort Walton Beach
+  GP: '2'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Higgenbottom
+  nameClub1: Fort Walton Beach
+  throws: L
+  GP: '9'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Ladner
+  nameClub1: Fort Walton Beach
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Long
+  nameClub1: Graceville
+  nameClub2: Fort Walton Beach
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: McCluskey
+  nameClub1: Fort Walton Beach
+  GP: '4'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Naughton
+  nameClub1: Fort Walton Beach
+  GP: '8'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Nolan
+  nameClub1: Fort Walton Beach
+  throws: L
+  GP: '5'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Roth
+  nameClub1: Fort Walton Beach
+  GP: '5'
+  W: '2'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Streza
+  nameClub1: Fort Walton Beach
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilkinson
+  nameClub1: Fort Walton Beach
+  GP: '8'
+  W: '2'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wrona
+  nameClub1: Fort Walton Beach
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Adair
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Ash
+  nameClub1: Panama City
+  nameClub2: Graceville
+  GP: '6'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Bello
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Camp
+  nameClub1: Graceville
+  GP: '5'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Chadner
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Clark
+  nameClub1: Graceville
+  GP: '5'
+  W: '1'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Cline
+  nameClub1: Graceville
+  GP: '3'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Dacus
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Horn
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Jiminez
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Jones
+  nameClub1: Graceville
+  GP: '3'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kowalski
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: LeBlanc
+  nameClub1: Graceville
+  GP: '5'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Lindsay
+  nameClub1: Graceville
+  GP: '6'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Lopez
+  nameClub1: Graceville
+  GP: '3'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: McLaney
+  nameClub1: Graceville
+  GP: '4'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Moreno
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Pearce
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Perinis
+  nameClub1: Graceville
+  GP: '5'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Rogers
+  nameClub1: Graceville
+  GP: '6'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Sheetz
+  nameClub1: Graceville
+  GP: '4'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Sherrer
+  nameClub1: Graceville
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wyzykowski
+  nameClub1: Graceville
+  GP: '11'
+  W: '4'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Billotte
+  nameClub1: Panama City
+  GP: '5'
+  W: '1'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Bryant
+  nameClub1: Panama City
+  GP: '7'
+  W: '1'
+  L: '4'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Cantrell
+  nameClub1: Panama City
+  GP: '3'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Cartier
+  nameClub1: Panama City
+  throws: L
+  GP: '9'
+  W: '2'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Corbissero
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Croston
+  nameClub1: Panama City
+  GP: '4'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: DeSandis
+  nameClub1: Panama City
+  GP: '7'
+  W: '1'
+  L: '4'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Dickinson
+  nameClub1: Panama City
+  GP: '5'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Douglas
+  nameClub1: Panama City
+  GP: '10'
+  W: '3'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Ertz
+  nameClub1: Panama City
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Estep
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Farnese
+  nameClub1: Panama City
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Green
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Hane
+  nameClub1: Panama City
+  throws: L
+  GP: '9'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Harris
+  nameClub1: Panama City
+  GP: '6'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Hefner
+  nameClub1: Panama City
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Herrington
+  nameClub1: Panama City
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Hotard
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kardos
+  nameClub1: Panama City
+  GP: '4'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Kirkpatrick
+  nameClub1: Panama City
+  throws: L
+  GP: '5'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Knight
+  nameClub1: Panama City
+  throws: L
+  GP: '4'
+  W: '1'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Lane
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Langston
+  nameClub1: Panama City
+  GP: '3'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Lovett
+  nameClub1: Panama City
+  GP: '4'
+  W: '1'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: MacKulin
+  nameClub1: Panama City
+  throws: L
+  GP: '5'
+  W: '0'
+  L: '3'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Mason
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: McMaster
+  nameClub1: Panama City
+  GP: '2'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Moore
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '1'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Naccari
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Reynolds
+  nameClub1: Panama City
+  throws: L
+  GP: '5'
+  W: '0'
+  L: '2'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Scott
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Tidwell
+  nameClub1: Panama City
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Tomanelli
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Wheeler
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'
+- year: '1954'
+  nameLeague: Alabama-Florida League
+  nameLast: Williams
+  nameClub1: Panama City
+  GP: '1'
+  W: '0'
+  L: '0'
+  T: '0'

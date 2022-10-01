@@ -1,0 +1,48 @@
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Ottawa
+  G: '94'
+  PO: '2358'
+  A: '1052'
+  E: '150'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Brockville
+  G: '81'
+  PO: '2057'
+  A: '883'
+  E: '161'
+  PCT: '.948'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Perth
+  G: '81'
+  PO: '2022'
+  A: '911'
+  E: '165'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Oswego
+  G: '86'
+  PO: '2187'
+  A: '940'
+  E: '196'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  G: '84'
+  PO: '2136'
+  A: '947'
+  E: '196'
+  PCT: '.940'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Watertown
+  G: '87'
+  PO: '2201'
+  A: '969'
+  E: '220'
+  PCT: '.935'

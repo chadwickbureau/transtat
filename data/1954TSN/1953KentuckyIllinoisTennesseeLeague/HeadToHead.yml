@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  Madisonville: '10'
+  Paducah: '5'
+  Hopkinsville: '14'
+  Mayfield: '9'
+  Jackson: '9'
+  Union City: '14'
+  Owensboro: '9'
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  Fulton: '8'
+  Paducah: '11'
+  Hopkinsville: '11'
+  Mayfield: '10'
+  Jackson: '6'
+  Union City: '9'
+  Owensboro: '12'
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Paducah
+  Fulton: '11'
+  Madisonville: '6'
+  Hopkinsville: '9'
+  Mayfield: '9'
+  Jackson: '12'
+  Union City: '11'
+  Owensboro: '9'
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  Fulton: '3'
+  Madisonville: '7'
+  Paducah: '8'
+  Mayfield: '9'
+  Jackson: '9'
+  Union City: '11'
+  Owensboro: '12'
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  Fulton: '8'
+  Madisonville: '6'
+  Paducah: '9'
+  Hopkinsville: '6'
+  Jackson: '11'
+  Union City: '8'
+  Owensboro: '10'
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Jackson
+  Fulton: '9'
+  Madisonville: '12'
+  Paducah: '4'
+  Hopkinsville: '9'
+  Mayfield: '6'
+  Union City: '7'
+  Owensboro: '11'
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  Fulton: '4'
+  Madisonville: '7'
+  Paducah: '7'
+  Hopkinsville: '5'
+  Mayfield: '10'
+  Jackson: '10'
+  Owensboro: '8'
+- year: '1953'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  Fulton: '7'
+  Madisonville: '5'
+  Paducah: '9'
+  Hopkinsville: '6'
+  Mayfield: '8'
+  Jackson: '5'
+  Union City: '9'

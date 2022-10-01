@@ -1,0 +1,154 @@
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: regular/first
+  W: '40'
+  L: '20'
+  T: '0'
+  PCT: '.667'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: regular/first
+  W: '37'
+  L: '23'
+  T: '0'
+  PCT: '.617'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: regular/first
+  W: '33'
+  L: '27'
+  T: '0'
+  PCT: '.550'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Thomson
+  phase: regular/first
+  W: '28'
+  L: '32'
+  T: '0'
+  PCT: '.467'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: regular/first
+  W: '23'
+  L: '37'
+  T: '0'
+  PCT: '.383'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  phase: regular/first
+  W: '19'
+  L: '41'
+  T: '0'
+  PCT: '.317'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: regular/second
+  W: '37'
+  L: '23'
+  T: '0'
+  PCT: '.617'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: regular/second
+  W: '33'
+  L: '27'
+  T: '1'
+  PCT: '.550'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Thomson
+  phase: regular/second
+  W: '33'
+  L: '27'
+  T: '0'
+  PCT: '.550'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: regular/second
+  W: '30'
+  L: '30'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: regular/second
+  W: '26'
+  L: '34'
+  T: '1'
+  PCT: '.433'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  phase: regular/second
+  W: '21'
+  L: '39'
+  T: '0'
+  PCT: '.350'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Thomson
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

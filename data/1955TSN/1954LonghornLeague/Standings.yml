@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Artesia
+  phase: regular
+  W: '92'
+  L: '46'
+  T: '0'
+  PCT: '.667'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Roswell
+  phase: regular
+  W: '87'
+  L: '51'
+  T: '0'
+  PCT: '.630'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  phase: regular
+  W: '87'
+  L: '52'
+  T: '0'
+  PCT: '.626'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: regular
+  W: '80'
+  L: '59'
+  T: '0'
+  PCT: '.576'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  phase: regular
+  W: '70'
+  L: '65'
+  T: '0'
+  PCT: '.519'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Odessa
+  phase: regular
+  W: '54'
+  L: '82'
+  T: '0'
+  PCT: '.397'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: San Angelo
+  phase: regular
+  W: '53'
+  L: '86'
+  T: '0'
+  PCT: '.381'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Wichita Falls/Sweetwater
+  phase: regular
+  W: '27'
+  L: '109'
+  T: '0'
+  PCT: '.199'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Artesia
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Roswell
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Artesia
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,124 @@
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular
+  W: '94'
+  L: '44'
+  T: '1'
+  PCT: '.681'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular
+  W: '81'
+  L: '57'
+  T: '1'
+  PCT: '.587'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: regular
+  W: '75'
+  L: '62'
+  T: '0'
+  PCT: '.547'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular
+  W: '68'
+  L: '68'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular
+  W: '63'
+  L: '71'
+  T: '1'
+  PCT: '.470'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular
+  W: '62'
+  L: '75'
+  T: '0'
+  PCT: '.453'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '58'
+  L: '73'
+  T: '1'
+  PCT: '.443'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular
+  W: '42'
+  L: '93'
+  T: '2'
+  PCT: '.311'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: final
+  W: '4'
+  L: '3'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: final
+  W: '3'
+  L: '4'
+  T: '0'
+  RANK: '2'

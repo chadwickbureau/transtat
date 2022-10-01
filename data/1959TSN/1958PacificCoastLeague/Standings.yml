@@ -1,0 +1,64 @@
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Phoenix
+  W: '89'
+  L: '65'
+  T: '0'
+  PCT: '.578'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  W: '84'
+  L: '69'
+  T: '0'
+  PCT: '.549'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Vancouver
+  W: '79'
+  L: '73'
+  T: '1'
+  PCT: '.520'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  W: '78'
+  L: '76'
+  T: '2'
+  PCT: '.506'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Salt Lake City
+  W: '77'
+  L: '77'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  W: '71'
+  L: '83'
+  T: '1'
+  PCT: '.461'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Spokane
+  W: '68'
+  L: '85'
+  T: '1'
+  PCT: '.444'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  W: '68'
+  L: '86'
+  T: '1'
+  PCT: '.442'
+  RANK: '8'

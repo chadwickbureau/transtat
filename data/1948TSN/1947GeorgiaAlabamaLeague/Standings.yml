@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Carrollton
+  phase: regular
+  W: '75'
+  L: '49'
+  T: '0'
+  PCT: '.605'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Opelika
+  phase: regular
+  W: '76'
+  L: '50'
+  T: '0'
+  PCT: '.603'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: regular
+  W: '75'
+  L: '51'
+  T: '0'
+  PCT: '.595'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Newnan
+  phase: regular
+  W: '72'
+  L: '53'
+  T: '1'
+  PCT: '.576'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Tallassee
+  phase: regular
+  W: '62'
+  L: '63'
+  T: '1'
+  PCT: '.496'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Griffin
+  phase: regular
+  W: '53'
+  L: '68'
+  T: '0'
+  PCT: '.438'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: LaGrange
+  phase: regular
+  W: '46'
+  L: '78'
+  T: '0'
+  PCT: '.371'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Alexander City
+  phase: regular
+  W: '39'
+  L: '86'
+  T: '0'
+  PCT: '.312'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Carrollton
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Opelika
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Newnan
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Alabama League
+  nameClub: Opelika
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

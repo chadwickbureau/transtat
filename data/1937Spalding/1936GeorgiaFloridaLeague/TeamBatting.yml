@@ -1,0 +1,54 @@
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  AB: '4359'
+  R: '788'
+  H: '1341'
+  TB: '1857'
+  HR: '75'
+  AVG: '.307'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  AB: '4193'
+  R: '694'
+  H: '1145'
+  TB: '1560'
+  HR: '34'
+  AVG: '.273'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  AB: '3867'
+  R: '631'
+  H: '1013'
+  TB: '1457'
+  HR: '42'
+  AVG: '.261'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  AB: '3779'
+  R: '535'
+  H: '981'
+  TB: '1363'
+  HR: '49'
+  AVG: '.259'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  AB: '4083'
+  R: '573'
+  H: '1045'
+  TB: '1455'
+  HR: '50'
+  AVG: '.255'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  AB: '3895'
+  R: '542'
+  H: '948'
+  TB: '1344'
+  HR: '49'
+  AVG: '.243'

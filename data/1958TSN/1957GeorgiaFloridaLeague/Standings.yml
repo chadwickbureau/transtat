@@ -1,0 +1,170 @@
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular/first
+  W: '42'
+  L: '28'
+  T: '0'
+  PCT: '.600'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/first
+  W: '42'
+  L: '28'
+  T: '1'
+  PCT: '.600'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/first
+  W: '39'
+  L: '31'
+  T: '1'
+  PCT: '.557'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: regular/first
+  W: '37'
+  L: '33'
+  T: '1'
+  PCT: '.529'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie/Brunswick
+  phase: regular/first
+  W: '29'
+  L: '41'
+  T: '0'
+  PCT: '.414'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular/first
+  W: '21'
+  L: '49'
+  T: '1'
+  PCT: '.300'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/second
+  W: '45'
+  L: '24'
+  T: '0'
+  PCT: '.652'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular/second
+  W: '37'
+  L: '32'
+  T: '0'
+  PCT: '.536'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular/second
+  W: '35'
+  L: '34'
+  T: '1'
+  PCT: '.507'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular/second
+  W: '33'
+  L: '36'
+  T: '1'
+  PCT: '.478'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/second
+  W: '29'
+  L: '40'
+  T: '0'
+  PCT: '.420'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: regular/second
+  W: '28'
+  L: '41'
+  T: '0'
+  PCT: '.406'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '84'
+  L: '55'
+  T: '1'
+  PCT: '.604'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular
+  W: '77'
+  L: '62'
+  T: '1'
+  PCT: '.554'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '71'
+  L: '68'
+  T: '1'
+  PCT: '.511'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: regular
+  W: '65'
+  L: '74'
+  T: '1'
+  PCT: '.468'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie/Brunswick
+  phase: regular
+  W: '62'
+  L: '77'
+  T: '1'
+  PCT: '.446'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular
+  W: '58'
+  L: '81'
+  T: '1'
+  PCT: '.417'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

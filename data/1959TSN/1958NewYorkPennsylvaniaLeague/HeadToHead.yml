@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Wellsville
+  Geneva: '12'
+  Olean: '9'
+  Auburn: '11'
+  Corning: '9'
+  Batavia: '9'
+  Erie: '11'
+  Elmira: '9'
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Geneva
+  Wellsville: '7'
+  Olean: '9'
+  Auburn: '10'
+  Corning: '8'
+  Batavia: '13'
+  Erie: '10'
+  Elmira: '12'
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Olean
+  Wellsville: '9'
+  Geneva: '9'
+  Auburn: '11'
+  Corning: '8'
+  Batavia: '7'
+  Erie: '12'
+  Elmira: '11'
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Auburn
+  Wellsville: '7'
+  Geneva: '8'
+  Olean: '7'
+  Corning: '10'
+  Batavia: '14'
+  Erie: '12'
+  Elmira: '9'
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Corning
+  Wellsville: '9'
+  Geneva: '10'
+  Olean: '10'
+  Auburn: '7'
+  Batavia: '10'
+  Erie: '7'
+  Elmira: '11'
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Batavia
+  Wellsville: '9'
+  Geneva: '5'
+  Olean: '10'
+  Auburn: '4'
+  Corning: '8'
+  Erie: '11'
+  Elmira: '13'
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Erie
+  Wellsville: '6'
+  Geneva: '8'
+  Olean: '6'
+  Auburn: '6'
+  Corning: '11'
+  Batavia: '7'
+  Elmira: '9'
+- year: '1958'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Elmira
+  Wellsville: '9'
+  Geneva: '5'
+  Olean: '6'
+  Auburn: '9'
+  Corning: '7'
+  Batavia: '5'
+  Erie: '9'

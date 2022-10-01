@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: regular
+  W: '89'
+  L: '42'
+  T: '0'
+  PCT: '.679'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular
+  W: '77'
+  L: '54'
+  T: '0'
+  PCT: '.588'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular
+  W: '71'
+  L: '60'
+  T: '0'
+  PCT: '.542'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular
+  W: '69'
+  L: '62'
+  T: '0'
+  PCT: '.527'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular
+  W: '68'
+  L: '64'
+  T: '0'
+  PCT: '.515'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular
+  W: '63'
+  L: '68'
+  T: '0'
+  PCT: '.481'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular
+  W: '48'
+  L: '83'
+  T: '0'
+  PCT: '.366'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular
+  W: '40'
+  L: '92'
+  T: '0'
+  PCT: '.303'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

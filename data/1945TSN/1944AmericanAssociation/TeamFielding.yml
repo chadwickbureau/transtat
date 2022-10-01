@@ -1,0 +1,88 @@
+- year: '1944'
+  nameLeague: American Association
+  nameClub: St. Paul
+  G: '153'
+  DP: '170'
+  TP: '1'
+  PB: '23'
+  PO: '3845'
+  A: '1734'
+  E: '178'
+  PCT: '.969'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Columbus
+  G: '155'
+  DP: '176'
+  TP: '1'
+  PB: '17'
+  PO: '4045'
+  A: '1771'
+  E: '192'
+  PCT: '.968'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  G: '154'
+  DP: '166'
+  TP: '0'
+  PB: '7'
+  PO: '3898'
+  A: '1820'
+  E: '189'
+  PCT: '.968'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Louisville
+  G: '150'
+  DP: '134'
+  TP: '0'
+  PB: '11'
+  PO: '3829'
+  A: '1612'
+  E: '212'
+  PCT: '.962'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Toledo
+  G: '154'
+  DP: '133'
+  TP: '0'
+  PB: '17'
+  PO: '3932'
+  A: '1663'
+  E: '228'
+  PCT: '.961'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  G: '151'
+  DP: '133'
+  TP: '0'
+  PB: '12'
+  PO: '3767'
+  A: '1691'
+  E: '231'
+  PCT: '.959'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  G: '152'
+  DP: '123'
+  TP: '0'
+  PB: '6'
+  PO: '3806'
+  A: '1678'
+  E: '240'
+  PCT: '.958'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Kansas City
+  G: '153'
+  DP: '112'
+  TP: '1'
+  PB: '32'
+  PO: '3726'
+  A: '1645'
+  E: '249'
+  PCT: '.956'

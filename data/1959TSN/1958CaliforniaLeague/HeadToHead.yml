@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: California League
+  nameClub: Fresno
+  Bakersfield: '8'
+  Stockton: '12'
+  Visalia: '15'
+  Modesto: '12'
+  Reno: '10'
+  San Jose/Las Vegas: '13'
+  Salinas: '15'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Bakersfield
+  Fresno: '12'
+  Stockton: '11'
+  Visalia: '13'
+  Modesto: '12'
+  Reno: '9'
+  San Jose/Las Vegas: '12'
+  Salinas: '15'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Stockton
+  Fresno: '8'
+  Bakersfield: '9'
+  Visalia: '10'
+  Modesto: '11'
+  Reno: '11'
+  San Jose/Las Vegas: '11'
+  Salinas: '10'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Visalia
+  Fresno: '5'
+  Bakersfield: '7'
+  Stockton: '10'
+  Modesto: '11'
+  Reno: '11'
+  San Jose/Las Vegas: '13'
+  Salinas: '12'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Modesto
+  Fresno: '8'
+  Bakersfield: '8'
+  Stockton: '9'
+  Visalia: '9'
+  Reno: '12'
+  San Jose/Las Vegas: '11'
+  Salinas: '12'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Reno
+  Fresno: '10'
+  Bakersfield: '10'
+  Stockton: '9'
+  Visalia: '9'
+  Modesto: '8'
+  San Jose/Las Vegas: '10'
+  Salinas: '12'
+- year: '1958'
+  nameLeague: California League
+  nameClub: San Jose/Las Vegas
+  Fresno: '7'
+  Bakersfield: '8'
+  Stockton: '9'
+  Visalia: '5'
+  Modesto: '8'
+  Reno: '8'
+  Salinas: '9'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Salinas
+  Fresno: '5'
+  Bakersfield: '5'
+  Stockton: '8'
+  Visalia: '8'
+  Modesto: '8'
+  Reno: '8'
+  San Jose/Las Vegas: '11'

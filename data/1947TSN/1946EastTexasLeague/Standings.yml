@@ -1,0 +1,130 @@
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: regular
+  W: '83'
+  L: '56'
+  T: '2'
+  PCT: '.597'
+  RANK: '1'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Texarkana
+  phase: regular
+  W: '81'
+  L: '58'
+  T: '0'
+  PCT: '.582'
+  RANK: '2'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: regular
+  W: '76'
+  L: '63'
+  T: '0'
+  PCT: '.547'
+  RANK: '2'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Greenville
+  phase: regular
+  W: '71'
+  L: '67'
+  T: '0'
+  PCT: '.514'
+  RANK: '4'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Sherman
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Paris
+  phase: regular
+  W: '68'
+  L: '72'
+  T: '0'
+  PCT: '.486'
+  RANK: '6'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Jacksonville
+  phase: regular
+  W: '60'
+  L: '78'
+  T: '1'
+  PCT: '.435'
+  RANK: '7'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Lufkin
+  phase: regular
+  W: '47'
+  L: '92'
+  T: '1'
+  PCT: '.338'
+  RANK: '8'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  T: '0'
+  PCT: '.571'
+  RANK: '1'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Greenville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  T: '0'
+  PCT: '.429'
+  RANK: '2'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Texarkana
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  T: '0'
+  PCT: '.800'
+  RANK: '1'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  T: '0'
+  PCT: '.200'
+  RANK: '2'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: final
+  W: '4'
+  L: '2'
+  T: '0'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: East Texas League
+  nameClub: Texarkana
+  phase: final
+  W: '2'
+  L: '4'
+  T: '0'
+  PCT: '.333'
+  RANK: '2'

@@ -1,0 +1,66 @@
+- year: '1953'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  G: '135'
+  DP: '144'
+  PB: '15'
+  PO: '3510'
+  A: '1614'
+  E: '174'
+  PCT: '.967'
+  TP: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameClub: Miami
+  G: '136'
+  DP: '150'
+  PB: '15'
+  PO: '3607'
+  A: '1595'
+  E: '199'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameClub: West Palm Beach
+  G: '137'
+  DP: '134'
+  PB: '8'
+  PO: '3515'
+  A: '1519'
+  E: '194'
+  PCT: '.963'
+  TP: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameClub: Havana
+  G: '133'
+  DP: '107'
+  PB: '15'
+  PO: '3398'
+  A: '1425'
+  E: '189'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  G: '137'
+  DP: '111'
+  PB: '8'
+  PO: '3523'
+  A: '1561'
+  E: '218'
+  PCT: '.959'
+  TP: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameClub: Fort Lauderdale
+  G: '140'
+  DP: '128'
+  PB: '19'
+  PO: '3639'
+  A: '1617'
+  E: '250'
+  PCT: '.955'
+  TP: '0'

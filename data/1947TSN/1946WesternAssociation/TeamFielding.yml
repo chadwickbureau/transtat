@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  G: '130'
+  DP: '102'
+  TP: '0'
+  PB: '21'
+  PO: '3404'
+  A: '1383'
+  E: '232'
+  PCT: '.954'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Leavenworth
+  G: '135'
+  DP: '102'
+  TP: '0'
+  PB: '22'
+  PO: '3508'
+  A: '1612'
+  E: '250'
+  PCT: '.953'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  G: '137'
+  DP: '102'
+  TP: '0'
+  PB: '52'
+  PO: '3489'
+  A: '1611'
+  E: '257'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Muskogee
+  G: '139'
+  DP: '101'
+  TP: '0'
+  PB: '21'
+  PO: '3594'
+  A: '1424'
+  E: '264'
+  PCT: '.950'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Fort Smith
+  G: '133'
+  DP: '101'
+  TP: '0'
+  PB: '30'
+  PO: '3440'
+  A: '1301'
+  E: '259'
+  PCT: '.948'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Joplin
+  G: '135'
+  DP: '104'
+  TP: '0'
+  PB: '19'
+  PO: '3526'
+  A: '1521'
+  E: '288'
+  PCT: '.946'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Topeka
+  G: '134'
+  DP: '112'
+  TP: '1'
+  PB: '24'
+  PO: '3519'
+  A: '1563'
+  E: '303'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: Western Association
+  nameClub: Salina
+  G: '129'
+  DP: '127'
+  TP: '1'
+  PB: '28'
+  PO: '3348'
+  A: '1547'
+  E: '308'
+  PCT: '.941'

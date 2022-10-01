@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular
+  W: '79'
+  L: '53'
+  T: '1'
+  PCT: '.598'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: regular
+  W: '76'
+  L: '52'
+  T: '0'
+  PCT: '.594'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: regular
+  W: '76'
+  L: '58'
+  T: '1'
+  PCT: '.567'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  phase: regular
+  W: '73'
+  L: '60'
+  T: '0'
+  PCT: '.549'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  phase: regular
+  W: '63'
+  L: '76'
+  T: '0'
+  PCT: '.453'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Natchez
+  phase: regular
+  W: '58'
+  L: '76'
+  T: '2'
+  PCT: '.433'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: regular
+  W: '54'
+  L: '79'
+  T: '0'
+  PCT: '.406'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  phase: regular
+  W: '53'
+  L: '78'
+  T: '0'
+  PCT: '.405'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

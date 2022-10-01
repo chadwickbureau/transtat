@@ -1,0 +1,44 @@
+- year: '1947'
+  nameLeague: Blue Ridge League
+  nameClub: Lenoir
+  G: '116'
+  DP: '97'
+  TP: '0'
+  PB: '54'
+  PO: '2877'
+  A: '1202'
+  E: '249'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  G: '124'
+  DP: '67'
+  TP: '0'
+  PB: '42'
+  PO: '3230'
+  A: '1305'
+  E: '321'
+  PCT: '.934'
+- year: '1947'
+  nameLeague: Blue Ridge League
+  nameClub: Radford
+  G: '115'
+  DP: '71'
+  TP: '0'
+  PB: '36'
+  PO: '2951'
+  A: '1113'
+  E: '288'
+  PCT: '.934'
+- year: '1947'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  G: '121'
+  DP: '103'
+  TP: '0'
+  PB: '28'
+  PO: '3080'
+  A: '1324'
+  E: '315'
+  PCT: '.933'

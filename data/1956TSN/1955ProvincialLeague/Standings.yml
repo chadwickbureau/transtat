@@ -1,0 +1,100 @@
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  phase: regular
+  W: '86'
+  L: '44'
+  T: '0'
+  PCT: '.662'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: regular
+  W: '81'
+  L: '49'
+  T: '0'
+  PCT: '.623'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Burlington
+  phase: regular
+  W: '65'
+  L: '64'
+  T: '0'
+  PCT: '.504'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Three Rivers
+  phase: regular
+  W: '62'
+  L: '68'
+  T: '0'
+  PCT: '.477'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Sherbrooke
+  phase: regular
+  W: '53'
+  L: '76'
+  T: '0'
+  PCT: '.411'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Thetford Mines
+  phase: regular
+  W: '42'
+  L: '88'
+  T: '0'
+  PCT: '.323'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Burlington
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Three Rivers
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Burlington
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

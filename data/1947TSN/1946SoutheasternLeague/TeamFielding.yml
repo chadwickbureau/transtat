@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  G: '139'
+  DP: '116'
+  TP: '0'
+  PB: '14'
+  PO: '3488'
+  A: '1476'
+  E: '216'
+  PCT: '.958'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Anniston
+  G: '140'
+  DP: '20'
+  TP: '0'
+  PB: '11'
+  PO: '3575'
+  A: '1382'
+  E: '228'
+  PCT: '.956'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  G: '136'
+  DP: '90'
+  TP: '0'
+  PB: '21'
+  PO: '3401'
+  A: '1362'
+  E: '225'
+  PCT: '.955'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  G: '135'
+  DP: '99'
+  TP: '0'
+  PB: '12'
+  PO: '3462'
+  A: '1257'
+  E: '227'
+  PCT: '.954'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  G: '137'
+  DP: '105'
+  TP: '1'
+  PB: '32'
+  PO: '3384'
+  A: '1377'
+  E: '239'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Vicksburg
+  G: '135'
+  DP: '118'
+  TP: '0'
+  PB: '14'
+  PO: '3347'
+  A: '1469'
+  E: '254'
+  PCT: '.950'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Gadsden
+  G: '138'
+  DP: '82'
+  TP: '0'
+  PB: '16'
+  PO: '3357'
+  A: '1311'
+  E: '248'
+  PCT: '.950'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Meridian
+  G: '136'
+  DP: '82'
+  TP: '1'
+  PB: '32'
+  PO: '3370'
+  A: '1398'
+  E: '258'
+  PCT: '.949'

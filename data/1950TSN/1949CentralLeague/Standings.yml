@@ -1,0 +1,106 @@
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Dayton
+  phase: regular
+  W: '80'
+  L: '57'
+  T: '1'
+  PCT: '.584'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Flint
+  phase: regular
+  W: '77'
+  L: '62'
+  T: '1'
+  PCT: '.554'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Grand Rapids
+  phase: regular
+  W: '70'
+  L: '66'
+  T: '2'
+  PCT: '.515'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Charleston
+  phase: regular
+  W: '67'
+  L: '68'
+  T: '0'
+  PCT: '.496'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Muskegon
+  phase: regular
+  W: '60'
+  L: '79'
+  T: '0'
+  PCT: '.432'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Saginaw
+  phase: regular
+  W: '58'
+  L: '80'
+  T: '0'
+  PCT: '.420'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Charleston
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Dayton
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Grand Rapids
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Flint
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Grand Rapids
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Charleston
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

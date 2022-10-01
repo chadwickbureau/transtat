@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Schenectady
+  Gloversville-Johnstown: '12'
+  Amsterdam: '10'
+  Oneonta: '10'
+  Pittsfield: '14'
+  Trois-Rivieres: '12'
+  Rome: '13'
+  Quebec: '15'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  Schenectady: '8'
+  Amsterdam: '10'
+  Oneonta: '12'
+  Pittsfield: '11'
+  Trois-Rivieres: '10'
+  Rome: '10'
+  Quebec: '13'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  Schenectady: '10'
+  Gloversville-Johnstown: '10'
+  Oneonta: '7'
+  Pittsfield: '9'
+  Trois-Rivieres: '8'
+  Rome: '14'
+  Quebec: '15'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  Schenectady: '8'
+  Gloversville-Johnstown: '8'
+  Amsterdam: '13'
+  Pittsfield: '11'
+  Trois-Rivieres: '6'
+  Rome: '8'
+  Quebec: '16'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  Schenectady: '6'
+  Gloversville-Johnstown: '9'
+  Amsterdam: '11'
+  Oneonta: '9'
+  Trois-Rivieres: '13'
+  Rome: '11'
+  Quebec: '12'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Trois-Rivieres
+  Schenectady: '7'
+  Gloversville-Johnstown: '10'
+  Amsterdam: '12'
+  Oneonta: '13'
+  Pittsfield: '7'
+  Rome: '9'
+  Quebec: '7'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  Schenectady: '7'
+  Gloversville-Johnstown: '9'
+  Amsterdam: '6'
+  Oneonta: '12'
+  Pittsfield: '9'
+  Trois-Rivieres: '11'
+  Quebec: '13'
+- year: '1947'
+  nameLeague: Canadian-American League
+  nameClub: Quebec
+  Schenectady: '5'
+  Gloversville-Johnstown: '7'
+  Amsterdam: '5'
+  Oneonta: '4'
+  Pittsfield: '8'
+  Trois-Rivieres: '9'
+  Rome: '7'

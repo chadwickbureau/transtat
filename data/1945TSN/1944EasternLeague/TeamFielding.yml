@@ -1,0 +1,88 @@
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  G: '137'
+  DP: '124'
+  TP: '1'
+  PB: '14'
+  PO: '3434'
+  A: '1492'
+  E: '185'
+  PCT: '.964'
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Utica
+  G: '138'
+  DP: '133'
+  TP: '1'
+  PB: '25'
+  PO: '3473'
+  A: '1630'
+  E: '232'
+  PCT: '.957'
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  G: '140'
+  DP: '130'
+  TP: '0'
+  PB: '24'
+  PO: '3472'
+  A: '1667'
+  E: '269'
+  PCT: '.950'
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Albany
+  G: '138'
+  DP: '107'
+  TP: '0'
+  PB: '18'
+  PO: '3479'
+  A: '1631'
+  E: '281'
+  PCT: '.948'
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  G: '139'
+  DP: '117'
+  TP: '2'
+  PB: '24'
+  PO: '3479'
+  A: '1497'
+  E: '272'
+  PCT: '.948'
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  G: '138'
+  DP: '104'
+  TP: '0'
+  PB: '26'
+  PO: '3423'
+  A: '1566'
+  E: '288'
+  PCT: '.947'
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  G: '141'
+  DP: '122'
+  TP: '0'
+  PB: '11'
+  PO: '3504'
+  A: '1570'
+  E: '314'
+  PCT: '.942'
+- year: '1944'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  G: '135'
+  DP: '79'
+  TP: '0'
+  PB: '24'
+  PO: '3400'
+  A: '1388'
+  E: '312'
+  PCT: '.939'

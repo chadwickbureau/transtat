@@ -1,0 +1,2515 @@
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: James
+  nameClub1: St. Petersburg
+  Pos: 1B
+  G: '21'
+  PO: '162'
+  A: '6'
+  E: '0'
+  DP: '20'
+  PCT: '1.000'
+  TP: '1'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Ocanto
+  nameClub1: Palatka
+  Pos: 1B
+  G: '14'
+  PO: '130'
+  A: '4'
+  E: '1'
+  DP: '9'
+  PCT: '.993'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Suarez
+  nameClub1: Palatka
+  Pos: 1B
+  G: '44'
+  PO: '304'
+  A: '10'
+  E: '3'
+  DP: '19'
+  PCT: '.990'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Elsner
+  nameClub1: Palatka
+  Pos: 1B
+  G: '63'
+  PO: '434'
+  A: '28'
+  E: '5'
+  DP: '27'
+  PCT: '.989'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Hamilton
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: 1B
+  G: '111'
+  PO: '905'
+  A: '75'
+  E: '13'
+  DP: '82'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Rance
+  nameClub1: Tampa
+  Pos: 1B
+  G: '24'
+  PO: '145'
+  A: '5'
+  E: '2'
+  DP: '11'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Manale
+  nameClub1: Orlando
+  Pos: 1B
+  G: '11'
+  PO: '71'
+  A: '2'
+  E: '1'
+  DP: '6'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Webb
+  nameClub1: Cocoa
+  throws: L
+  Pos: 1B
+  G: '140'
+  PO: '1063'
+  A: '62'
+  E: '17'
+  DP: '99'
+  PCT: '.985'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Braziel
+  nameClub1: Orlando
+  Pos: 1B
+  G: '105'
+  PO: '799'
+  A: '67'
+  E: '13'
+  DP: '78'
+  PCT: '.985'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Pizarro
+  nameClub1: Gainesville
+  nameClub2: Tampa
+  nameClub3: Gainesville
+  throws: L
+  Pos: 1B
+  G: '135'
+  PO: '1004'
+  A: '58'
+  E: '20'
+  DP: '72'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Jennings
+  nameClub1: Daytona Beach
+  Pos: 1B
+  G: '13'
+  PO: '55'
+  A: '0'
+  E: '1'
+  DP: '12'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Fannon
+  nameClub1: Tampa
+  throws: L
+  Pos: 1B
+  G: '66'
+  PO: '467'
+  A: '29'
+  E: '10'
+  DP: '27'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lott
+  nameClub1: Palatka
+  throws: L
+  Pos: 1B
+  G: '23'
+  PO: '142'
+  A: '8'
+  E: '3'
+  DP: '9'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Betancourt
+  nameClub1: Daytona Beach
+  Pos: 1B
+  G: '114'
+  PO: '813'
+  A: '32'
+  E: '19'
+  DP: '70'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Merkoskey
+  nameClub1: Tampa
+  Pos: 1B
+  G: '10'
+  PO: '76'
+  A: '2'
+  E: '3'
+  DP: '5'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Zapata
+  nameClub1: Tampa
+  Pos: 1B
+  G: '17'
+  PO: '129'
+  A: '12'
+  E: '6'
+  DP: '11'
+  PCT: '.961'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lanter
+  nameClub1: Orlando
+  Pos: 1B
+  G: '16'
+  PO: '115'
+  A: '4'
+  E: '5'
+  DP: '7'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Wright
+  nameClub1: Tampa
+  Pos: 1B
+  G: '11'
+  PO: '56'
+  A: '5'
+  E: '4'
+  DP: '7'
+  PCT: '.938'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Leftridge
+  nameClub1: Gainesville
+  Pos: 1B
+  G: '13'
+  PO: '76'
+  A: '5'
+  E: '7'
+  DP: '8'
+  PCT: '.920'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Manale
+  nameClub1: Orlando
+  Pos: 2B
+  G: '18'
+  PO: '49'
+  A: '37'
+  E: '2'
+  DP: '12'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Gonzales
+  nameFirst: P.
+  nameClub1: St. Petersburg
+  Pos: 2B
+  G: '139'
+  PO: '349'
+  A: '368'
+  E: '21'
+  DP: '101'
+  PCT: '.972'
+  TP: '1'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Caiafa
+  nameClub1: Tampa
+  Pos: 2B
+  G: '101'
+  PO: '258'
+  A: '237'
+  E: '15'
+  DP: '41'
+  PCT: '.971'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameClub1: Daytona Beach
+  Pos: 2B
+  G: '124'
+  PO: '307'
+  A: '297'
+  E: '24'
+  DP: '64'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Halaska
+  nameClub1: Palatka
+  Pos: 2B
+  G: '32'
+  PO: '69'
+  A: '75'
+  E: '6'
+  DP: '15'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameClub1: Palatka
+  Pos: 2B
+  G: '20'
+  PO: '42'
+  A: '27'
+  E: '3'
+  DP: '7'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Sanchez
+  nameClub1: Palatka
+  nameClub2: Orlando
+  Pos: 2B
+  G: '119'
+  PO: '285'
+  A: '266'
+  E: '25'
+  DP: '46'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Kowalczyk
+  nameClub1: Cocoa
+  Pos: 2B
+  G: '106'
+  PO: '271'
+  A: '219'
+  E: '24'
+  DP: '47'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Williamson
+  nameClub1: Tampa
+  Pos: 2B
+  G: '41'
+  PO: '89'
+  A: '94'
+  E: '9'
+  DP: '23'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Hill
+  nameClub1: Gainesville
+  Pos: 2B
+  G: '82'
+  PO: '177'
+  A: '188'
+  E: '19'
+  DP: '26'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Grant
+  nameClub1: Orlando
+  Pos: 2B
+  G: '46'
+  PO: '133'
+  A: '117'
+  E: '14'
+  DP: '20'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Velo
+  nameClub1: Gainesville
+  Pos: 2B
+  G: '25'
+  PO: '58'
+  A: '55'
+  E: '7'
+  DP: '11'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Roberson
+  nameClub1: Cocoa
+  Pos: 2B
+  G: '22'
+  PO: '49'
+  A: '47'
+  E: '6'
+  DP: '12'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Newberry
+  nameClub1: Cocoa
+  Pos: 2B
+  G: '13'
+  PO: '35'
+  A: '38'
+  E: '6'
+  DP: '13'
+  PCT: '.924'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Paul
+  nameClub1: Orlando
+  Pos: 2B
+  G: '12'
+  PO: '28'
+  A: '34'
+  E: '4'
+  DP: '6'
+  PCT: '.924'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Gonzales
+  nameFirst: O.
+  nameClub1: Gainesville
+  Pos: 2B
+  G: '18'
+  PO: '34'
+  A: '44'
+  E: '7'
+  DP: '4'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Chatelain
+  nameClub1: Gainesville
+  Pos: 2B
+  G: '14'
+  PO: '37'
+  A: '25'
+  E: '6'
+  DP: '4'
+  PCT: '.912'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Kosten
+  nameClub1: Palatka
+  Pos: 3B
+  G: '25'
+  PO: '28'
+  A: '50'
+  E: '4'
+  DP: '4'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '62'
+  PO: '73'
+  A: '113'
+  E: '15'
+  DP: '11'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameClub1: Palatka
+  Pos: 3B
+  G: '54'
+  PO: '55'
+  A: '67'
+  E: '10'
+  DP: '6'
+  PCT: '.924'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Parsons
+  nameClub1: Tampa
+  Pos: 3B
+  G: '70'
+  PO: '81'
+  A: '126'
+  E: '18'
+  DP: '15'
+  PCT: '.920'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Wright
+  nameClub1: Tampa
+  Pos: 3B
+  G: '28'
+  PO: '28'
+  A: '48'
+  E: '7'
+  DP: '6'
+  PCT: '.916'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Card
+  nameClub1: Cocoa
+  Pos: 3B
+  G: '133'
+  PO: '149'
+  A: '247'
+  E: '38'
+  DP: '18'
+  PCT: '.912'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Olivares
+  nameClub1: Daytona Beach
+  Pos: 3B
+  G: '128'
+  PO: '131'
+  A: '206'
+  E: '33'
+  DP: '26'
+  PCT: '.911'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Paul
+  nameClub1: Orlando
+  Pos: 3B
+  G: '60'
+  PO: '66'
+  A: '144'
+  E: '22'
+  DP: '20'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Niemann
+  nameClub1: Palatka
+  Pos: 3B
+  G: '40'
+  PO: '36'
+  A: '79'
+  E: '12'
+  DP: '6'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Banks
+  nameClub1: St. Petersburg
+  Pos: 3B
+  G: '130'
+  PO: '109'
+  A: '244'
+  E: '40'
+  DP: '31'
+  PCT: '.900'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Manale
+  nameClub1: Orlando
+  Pos: 3B
+  G: '33'
+  PO: '33'
+  A: '63'
+  E: '11'
+  DP: '9'
+  PCT: '.897'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Mihock
+  nameClub1: Palatka
+  Pos: 3B
+  G: '18'
+  PO: '7'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Williamson
+  nameClub1: Tampa
+  Pos: 3B
+  G: '29'
+  PO: '30'
+  A: '39'
+  E: '10'
+  DP: '5'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Matthews
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '14'
+  PO: '19'
+  A: '20'
+  E: '6'
+  DP: '3'
+  PCT: '.867'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Gaudette
+  nameClub1: Orlando
+  Pos: 3B
+  G: '25'
+  PO: '29'
+  A: '48'
+  E: '13'
+  DP: '6'
+  PCT: '.856'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Gonzales
+  nameFirst: O.
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '39'
+  PO: '76'
+  A: '60'
+  E: '28'
+  DP: '7'
+  PCT: '.829'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Zambrano
+  nameClub1: Palatka
+  nameClub2: Orlando
+  Pos: 3B
+  G: '11'
+  PO: '11'
+  A: '13'
+  E: '5'
+  DP: '2'
+  PCT: '.828'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Goodman
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '15'
+  PO: '6'
+  A: '32'
+  E: '10'
+  DP: '1'
+  PCT: '.791'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Passilla
+  nameClub1: Palatka
+  Pos: SS
+  G: '47'
+  PO: '73'
+  A: '101'
+  E: '10'
+  DP: '17'
+  PCT: '.945'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Brown
+  nameClub1: Cocoa
+  Pos: SS
+  G: '65'
+  PO: '86'
+  A: '161'
+  E: '16'
+  DP: '31'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Tresh
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '121'
+  PO: '180'
+  A: '358'
+  E: '45'
+  DP: '67'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Miali
+  nameClub1: Tampa
+  Pos: SS
+  G: '125'
+  PO: '146'
+  A: '286'
+  E: '38'
+  DP: '40'
+  PCT: '.919'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Roberson
+  nameClub1: Cocoa
+  Pos: SS
+  G: '44'
+  PO: '72'
+  A: '108'
+  E: '16'
+  DP: '21'
+  PCT: '.918'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Braziel
+  nameClub1: Orlando
+  Pos: SS
+  G: '29'
+  PO: '43'
+  A: '63'
+  E: '11'
+  DP: '9'
+  PCT: '.906'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Pfaehler
+  nameClub1: Gainesville
+  Pos: SS
+  G: '139'
+  PO: '201'
+  A: '381'
+  E: '70'
+  DP: '41'
+  PCT: '.893'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Fogleman
+  nameClub1: Palatka
+  Pos: SS
+  G: '23'
+  PO: '37'
+  A: '70'
+  E: '13'
+  DP: '6'
+  PCT: '.892'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Kowalczyk
+  nameClub1: Cocoa
+  Pos: SS
+  G: '27'
+  PO: '47'
+  A: '75'
+  E: '15'
+  DP: '16'
+  PCT: '.890'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Proctor
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '129'
+  PO: '152'
+  A: '314'
+  E: '60'
+  DP: '39'
+  PCT: '.886'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Cushing
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '13'
+  PO: '13'
+  A: '27'
+  E: '4'
+  DP: '3'
+  PCT: '.884'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Holcomb
+  nameClub1: Tampa
+  Pos: SS
+  G: '15'
+  PO: '21'
+  A: '23'
+  E: '6'
+  DP: '6'
+  PCT: '.880'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Manale
+  nameClub1: Orlando
+  Pos: SS
+  G: '18'
+  PO: '34'
+  A: '29'
+  E: '9'
+  DP: '5'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameClub1: Palatka
+  Pos: SS
+  G: '62'
+  PO: '112'
+  A: '143'
+  E: '46'
+  DP: '17'
+  PCT: '.847'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameClub1: Orlando
+  Pos: SS
+  G: '43'
+  PO: '55'
+  A: '105'
+  E: '29'
+  DP: '9'
+  PCT: '.847'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Nichols
+  nameClub1: Orlando
+  Pos: SS
+  G: '40'
+  PO: '48'
+  A: '115'
+  E: '30'
+  DP: '21'
+  PCT: '.845'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Fassler
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '33'
+  PO: '37'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Priestes
+  nameClub1: Tampa
+  Pos: OF
+  G: '10'
+  PO: '26'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Manale
+  nameClub1: Orlando
+  Pos: OF
+  G: '10'
+  PO: '19'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Horsford
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '13'
+  PO: '10'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Pennington
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '117'
+  PO: '150'
+  A: '15'
+  E: '2'
+  DP: '3'
+  PCT: '.988'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Haines
+  nameClub1: Tampa
+  Pos: OF
+  G: '38'
+  PO: '52'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Suarez
+  nameClub1: Palatka
+  Pos: OF
+  G: '33'
+  PO: '51'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Conton
+  nameClub1: Palatka
+  Pos: OF
+  G: '76'
+  PO: '165'
+  A: '10'
+  E: '4'
+  DP: '4'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lanter
+  nameClub1: Orlando
+  Pos: OF
+  G: '17'
+  PO: '40'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: O'Flynn
+  nameClub1: Tampa
+  nameClub2: Gainesville
+  Pos: OF
+  G: '79'
+  PO: '102'
+  A: '7'
+  E: '6'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Minor
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '20'
+  PO: '32'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Maldonado
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '134'
+  PO: '256'
+  A: '22'
+  E: '8'
+  DP: '4'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lorenzo
+  nameClub1: Tampa
+  Pos: OF
+  G: '18'
+  PO: '34'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Wiley
+  nameClub1: Tampa
+  Pos: OF
+  G: '71'
+  PO: '147'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Mitchell
+  nameClub1: Orlando
+  Pos: OF
+  G: '94'
+  PO: '203'
+  A: '10'
+  E: '8'
+  DP: '5'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Krase
+  nameClub1: Cocoa
+  throws: L
+  Pos: OF
+  G: '11'
+  PO: '25'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Bartunek
+  nameClub1: Cocoa
+  Pos: OF
+  G: '120'
+  PO: '213'
+  A: '12'
+  E: '9'
+  DP: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Hewitt
+  nameClub1: Tampa
+  Pos: OF
+  G: '52'
+  PO: '105'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Dutton
+  nameClub1: Tampa
+  nameClub2: Gainesville
+  Pos: OF
+  G: '115'
+  PO: '248'
+  A: '15'
+  E: '12'
+  DP: '6'
+  PCT: '.956'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Cline
+  nameClub1: Tampa
+  Pos: OF
+  G: '60'
+  PO: '101'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Parmelee
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '123'
+  PO: '193'
+  A: '12'
+  E: '10'
+  DP: '6'
+  PCT: '.954'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Kaczynski
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: OF
+  G: '141'
+  PO: '281'
+  A: '17'
+  E: '15'
+  DP: '6'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Jennings
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '17'
+  PO: '19'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Vlahovic
+  nameClub1: Cocoa
+  Pos: OF
+  G: '72'
+  PO: '125'
+  A: '11'
+  E: '7'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Niemann
+  nameClub1: Palatka
+  Pos: OF
+  G: '66'
+  PO: '100'
+  A: '13'
+  E: '6'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Dreitlein
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '32'
+  PO: '70'
+  A: '5'
+  E: '4'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Zambrano
+  nameClub1: Palatka
+  nameClub2: Gainesville
+  nameClub3: Orlando
+  Pos: OF
+  G: '91'
+  PO: '112'
+  A: '11'
+  E: '10'
+  DP: '0'
+  PCT: '.948'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameClub1: Cocoa
+  Pos: OF
+  G: '51'
+  PO: '101'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Velo
+  nameClub1: Gainesville
+  Pos: OF
+  G: '35'
+  PO: '62'
+  A: '7'
+  E: '4'
+  DP: '1'
+  PCT: '.945'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Coleman
+  nameClub1: Orlando
+  Pos: OF
+  G: '38'
+  PO: '74'
+  A: '11'
+  E: '5'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Holcomb
+  nameClub1: Tampa
+  Pos: OF
+  G: '14'
+  PO: '17'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: James
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '32'
+  PO: '29'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Newberry
+  nameClub1: Cocoa
+  Pos: OF
+  G: '82'
+  PO: '170'
+  A: '14'
+  E: '12'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Copps
+  nameClub1: Palatka
+  Pos: OF
+  G: '63'
+  PO: '73'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Purvis
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '16'
+  PO: '12'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.937'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lott
+  nameClub1: Palatka
+  throws: L
+  Pos: OF
+  G: '75'
+  PO: '97'
+  A: '5'
+  E: '7'
+  DP: '1'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lawrence
+  nameClub1: Cocoa
+  Pos: OF
+  G: '68'
+  PO: '78'
+  A: '7'
+  E: '6'
+  DP: '6'
+  PCT: '.934'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Marlowe
+  nameClub1: Orlando
+  Pos: OF
+  G: '46'
+  PO: '77'
+  A: '8'
+  E: '6'
+  DP: '1'
+  PCT: '.934'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Leftridge
+  nameClub1: Gainesville
+  Pos: OF
+  G: '75'
+  PO: '124'
+  A: '11'
+  E: '10'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Rodriguez
+  nameClub1: Orlando
+  Pos: OF
+  G: '114'
+  PO: '137'
+  A: '7'
+  E: '11'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Grant
+  nameClub1: Orlando
+  Pos: OF
+  G: '14'
+  PO: '12'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Casteen
+  nameClub1: Tampa
+  Pos: OF
+  G: '37'
+  PO: '75'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.928'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Garcia
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '101'
+  PO: '144'
+  A: '13'
+  E: '13'
+  DP: '4'
+  PCT: '.924'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lopez
+  nameClub1: Cocoa
+  Pos: OF
+  G: '17'
+  PO: '19'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Noble
+  nameClub1: Gainesville
+  Pos: OF
+  G: '29'
+  PO: '52'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.918'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Benner
+  nameClub1: Cocoa
+  Pos: OF
+  G: '14'
+  PO: '18'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.904'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Williams
+  nameClub1: Gainesville
+  Pos: OF
+  G: '15'
+  PO: '21'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.903'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Torres
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '38'
+  PO: '53'
+  A: '4'
+  E: '7'
+  DP: '0'
+  PCT: '.891'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Merkoskey
+  nameClub1: Tampa
+  Pos: OF
+  G: '37'
+  PO: '49'
+  A: '7'
+  E: '7'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Chatelain
+  nameClub1: Gainesville
+  Pos: OF
+  G: '13'
+  PO: '22'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: DiMauro
+  nameClub1: Gainesville
+  Pos: OF
+  G: '46'
+  PO: '83'
+  A: '6'
+  E: '12'
+  DP: '1'
+  PCT: '.881'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Gwin
+  nameClub1: Orlando
+  Pos: OF
+  G: '24'
+  PO: '19'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Connell
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: OF
+  G: '16'
+  PO: '19'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.870'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Cordiero
+  nameClub1: Gainesville
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '6'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Hennessy
+  nameClub1: Orlando
+  Pos: OF
+  G: '20'
+  PO: '43'
+  A: '3'
+  E: '8'
+  DP: '0'
+  PCT: '.852'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Matthews
+  nameClub1: Gainesville
+  Pos: OF
+  G: '15'
+  PO: '22'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Timlin
+  nameClub1: Gainesville
+  Pos: OF
+  G: '23'
+  PO: '34'
+  A: '1'
+  E: '8'
+  DP: '1'
+  PCT: '.814'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Mills
+  nameClub1: Palatka
+  Pos: OF
+  G: '21'
+  PO: '28'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.778'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: James
+  nameClub1: St. Petersburg
+  Pos: C
+  G: '19'
+  PO: '130'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PB: '1'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Ferkovich
+  nameClub1: Palatka
+  Pos: C
+  G: '15'
+  PO: '98'
+  A: '8'
+  E: '2'
+  DP: '4'
+  PB: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Murphy
+  nameClub1: Tampa
+  Pos: C
+  G: '95'
+  PO: '498'
+  A: '66'
+  E: '13'
+  DP: '21'
+  PB: '4'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: McGaughey
+  nameClub1: Palatka
+  Pos: C
+  G: '62'
+  PO: '426'
+  A: '27'
+  E: '11'
+  DP: '7'
+  PB: '5'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Muskus
+  nameClub1: St. Petersburg
+  Pos: C
+  G: '114'
+  PO: '634'
+  A: '66'
+  E: '18'
+  DP: '9'
+  PB: '13'
+  PCT: '.975'
+  TP: '1'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Jennings
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '102'
+  PO: '716'
+  A: '67'
+  E: '21'
+  DP: '19'
+  PB: '9'
+  PCT: '.940'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Torres
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '35'
+  PO: '196'
+  A: '29'
+  E: '7'
+  DP: '6'
+  PB: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Maley
+  nameClub1: Palatka
+  Pos: C
+  G: '19'
+  PO: '121'
+  A: '8'
+  E: '4'
+  DP: '3'
+  PB: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lawrence
+  nameClub1: Cocoa
+  Pos: C
+  G: '67'
+  PO: '369'
+  A: '22'
+  E: '13'
+  DP: '13'
+  PB: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Suarez
+  nameClub1: Palatka
+  Pos: C
+  G: '42'
+  PO: '248'
+  A: '30'
+  E: '10'
+  DP: '4'
+  PB: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Velo
+  nameClub1: Gainesville
+  Pos: C
+  G: '45'
+  PO: '216'
+  A: '30'
+  E: '9'
+  DP: '11'
+  PB: '3'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Merkoskey
+  nameClub1: Tampa
+  Pos: C
+  G: '34'
+  PO: '192'
+  A: '21'
+  E: '8'
+  DP: '8'
+  PB: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Coleman
+  nameClub1: Orlando
+  Pos: C
+  G: '85'
+  PO: '470'
+  A: '75'
+  E: '23'
+  DP: '10'
+  PB: '9'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Noble
+  nameClub1: Gainesville
+  Pos: C
+  G: '90'
+  PO: '517'
+  A: '40'
+  E: '24'
+  DP: '21'
+  PB: '3'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Ramont
+  nameClub1: Tampa
+  Pos: C
+  G: '23'
+  PO: '141'
+  A: '8'
+  E: '7'
+  DP: '2'
+  PB: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: McFarland
+  nameClub1: Cocoa
+  Pos: C
+  G: '75'
+  PO: '360'
+  A: '52'
+  E: '20'
+  DP: '12'
+  PB: '7'
+  PCT: '.954'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Lanter
+  nameClub1: Orlando
+  Pos: C
+  G: '52'
+  PO: '262'
+  A: '44'
+  E: '15'
+  DP: '5'
+  PB: '5'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Carter
+  nameClub1: Cocoa
+  Pos: P
+  G: '37'
+  PO: '3'
+  A: '36'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Porto
+  nameClub1: Gainesville
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '11'
+  A: '22'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Seagrave
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '28'
+  PO: '11'
+  A: '18'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Crotty
+  nameClub1: Gainesville
+  Pos: P
+  G: '26'
+  PO: '2'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Johnson
+  nameClub1: Tampa
+  Pos: P
+  G: '12'
+  PO: '6'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Pinder
+  nameClub1: Cocoa
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Rodriguez
+  nameClub1: Tampa
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Mooneyham
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Rybak
+  nameClub1: Tampa
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Davalillo
+  nameClub1: Palatka
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '5'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Taylor
+  nameClub1: Palatka
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Sherfinski
+  nameClub1: Palatka
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Cocoa
+  Pos: P
+  G: '30'
+  PO: '10'
+  A: '44'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Gray
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '26'
+  PO: '10'
+  A: '35'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Horsford
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '22'
+  PO: '14'
+  A: '51'
+  E: '2'
+  DP: '3'
+  PCT: '.970'
+  TP: '1'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Turner
+  nameClub1: Orlando
+  Pos: P
+  G: '38'
+  PO: '11'
+  A: '52'
+  E: '2'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Cruze
+  nameClub1: Tampa
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '15'
+  A: '45'
+  E: '2'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Weaver
+  nameClub1: Cocoa
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '5'
+  A: '51'
+  E: '2'
+  DP: '2'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Fischer
+  nameClub1: Cocoa
+  Pos: P
+  G: '34'
+  PO: '5'
+  A: '34'
+  E: '2'
+  DP: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Coe
+  nameClub1: Tampa
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '13'
+  A: '58'
+  E: '4'
+  DP: '4'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Williams
+  nameClub1: Gainesville
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '31'
+  E: '2'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Murry
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '33'
+  PO: '10'
+  A: '24'
+  E: '2'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Franks
+  nameClub1: Tampa
+  Pos: P
+  G: '16'
+  PO: '10'
+  A: '23'
+  E: '2'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Talavera
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '6'
+  A: '26'
+  E: '2'
+  DP: '2'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Jancich
+  nameClub1: Palatka
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Seale
+  nameClub1: Gainesville
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Womack
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Alvarez
+  nameClub1: Gainesville
+  nameClub2: Orlando
+  Pos: P
+  G: '42'
+  PO: '6'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Flachman
+  nameClub1: Palatka
+  Pos: P
+  G: '20'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.934'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Purvis
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '18'
+  PO: '7'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Soderstrom
+  nameClub1: Palatka
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Millaway
+  nameClub1: Palatka
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Happell
+  nameClub1: Cocoa
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '10'
+  E: '1'
+  DP: '3'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Skuce
+  nameClub1: Orlando
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '28'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Fazekas
+  nameClub1: Cocoa
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '38'
+  E: '4'
+  DP: '3'
+  PCT: '.918'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Cordiero
+  nameClub1: Gainesville
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '11'
+  A: '33'
+  E: '4'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Wright
+  nameClub1: Orlando
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '8'
+  A: '36'
+  E: '4'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Fassler
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '17'
+  PO: '6'
+  A: '27'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Eastman
+  nameClub1: Orlando
+  Pos: P
+  G: '10'
+  PO: '10'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.916'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Olano
+  nameClub1: Palatka
+  Pos: P
+  G: '21'
+  PO: '7'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.916'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Hofmeister
+  nameClub1: Tampa
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '20'
+  E: '2'
+  DP: '2'
+  PCT: '.913'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Peregrin
+  nameClub1: Palatka
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '34'
+  E: '4'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Henriksen
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '24'
+  PO: '10'
+  A: '28'
+  E: '4'
+  DP: '3'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Dziadek
+  nameClub1: Palatka
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '39'
+  E: '5'
+  DP: '4'
+  PCT: '.896'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Nickisch
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.895'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Magrino
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '12'
+  A: '21'
+  E: '4'
+  DP: '2'
+  PCT: '.892'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Shaw
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '7'
+  A: '24'
+  E: '4'
+  DP: '3'
+  PCT: '.886'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Rouleau
+  nameFirst: Jas.
+  nameClub1: Gainesville
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Dunn
+  nameClub1: Tampa
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '19'
+  E: '3'
+  DP: '5'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Maddox
+  nameClub1: Gainesville
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Rouleau
+  nameFirst: John
+  nameClub1: Gainesville
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '10'
+  E: '2'
+  DP: '4'
+  PCT: '.867'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Arrendell
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Conrad
+  nameClub1: Orlando
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '19'
+  E: '4'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Jones
+  nameClub1: Gainesville
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '14'
+  E: '3'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: McWilliams
+  nameClub1: Palatka
+  Pos: P
+  G: '39'
+  PO: '5'
+  A: '42'
+  E: '9'
+  DP: '1'
+  PCT: '.839'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Concepcion
+  nameClub1: Gainesville
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.836'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Clark
+  nameClub1: Palatka
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '12'
+  E: '3'
+  DP: '0'
+  PCT: '.834'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Mullins
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '18'
+  PO: '1'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Langlois
+  nameClub1: Orlando
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameLast: Hughie
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '32'
+  PO: '1'
+  A: '12'
+  E: '4'
+  DP: '0'
+  PCT: '.765'
+  TP: '0'

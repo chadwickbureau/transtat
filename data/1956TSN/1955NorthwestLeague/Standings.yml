@@ -1,0 +1,140 @@
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: regular/first
+  W: '42'
+  L: '23'
+  T: '0'
+  PCT: '.646'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: regular/first
+  W: '40'
+  L: '23'
+  T: '0'
+  PCT: '.635'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: regular/first
+  W: '38'
+  L: '26'
+  T: '0'
+  PCT: '.594'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  phase: regular/first
+  W: '34'
+  L: '31'
+  T: '0'
+  PCT: '.523'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  phase: regular/first
+  W: '28'
+  L: '35'
+  T: '0'
+  PCT: '.444'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  phase: regular/first
+  W: '22'
+  L: '42'
+  T: '0'
+  PCT: '.344'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Spokane
+  phase: regular/first
+  W: '20'
+  L: '44'
+  T: '0'
+  PCT: '.313'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: regular/second
+  W: '39'
+  L: '2'
+  T: '0'
+  PCT: '.639'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: regular/second
+  W: '33'
+  L: '28'
+  T: '0'
+  PCT: '.541'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: regular/second
+  W: '33'
+  L: '31'
+  T: '0'
+  PCT: '.516'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  phase: regular/second
+  W: '32'
+  L: '32'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  phase: regular/second
+  W: '34'
+  L: '34'
+  T: '0'
+  PCT: '.477'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Spokane
+  phase: regular/second
+  W: '27'
+  L: '36'
+  T: '0'
+  PCT: '.429'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  phase: regular/second
+  W: '25'
+  L: '37'
+  T: '0'
+  PCT: '.403'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: finals
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: finals
+  W: '2'
+  L: '4'
+  RANK: '2'

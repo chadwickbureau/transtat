@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  G: '152'
+  DP: '143'
+  TP: '0'
+  PB: '28'
+  PO: '3942'
+  A: '1672'
+  E: '176'
+  PCT: '.970'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Louisville
+  G: '155'
+  DP: '150'
+  TP: '0'
+  PB: '37'
+  PO: '4087'
+  A: '1742'
+  E: '184'
+  PCT: '.969'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Toledo
+  G: '154'
+  DP: '126'
+  TP: '0'
+  PB: '36'
+  PO: '3995'
+  A: '1593'
+  E: '176'
+  PCT: '.969'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  G: '149'
+  DP: '141'
+  TP: '0'
+  PB: '26'
+  PO: '3856'
+  A: '1756'
+  E: '184'
+  PCT: '.968'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Kansas City
+  G: '151'
+  DP: '145'
+  TP: '0'
+  PB: '17'
+  PO: '3950'
+  A: '1655'
+  E: '190'
+  PCT: '.967'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  G: '155'
+  DP: '122'
+  TP: '0'
+  PB: '13'
+  PO: '4017'
+  A: '1776'
+  E: '206'
+  PCT: '.966'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: St. Paul
+  G: '152'
+  DP: '139'
+  TP: '0'
+  PB: '20'
+  PO: '4009'
+  A: '1728'
+  E: '223'
+  PCT: '.963'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Columbus
+  G: '154'
+  DP: '135'
+  TP: '0'
+  PB: '12'
+  PO: '3994'
+  A: '1611'
+  E: '258'
+  PCT: '.956'

@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  Mobile: '11'
+  Atlanta: '16'
+  Chattanooga: '13'
+  Nashville: '12'
+  Little Rock: '11'
+  Memphis: '13'
+  New Orleans: '15'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  Birmingham: '10'
+  Atlanta: '10'
+  Chattanooga: '8'
+  Nashville: '14'
+  Little Rock: '14'
+  Memphis: '11'
+  New Orleans: '17'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  Birmingham: '6'
+  Mobile: '12'
+  Chattanooga: '12'
+  Nashville: '12'
+  Little Rock: '13'
+  Memphis: '15'
+  New Orleans: '14'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  Birmingham: '9'
+  Mobile: '14'
+  Atlanta: '10'
+  Nashville: '11'
+  Little Rock: '11'
+  Memphis: '10'
+  New Orleans: '12'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  Birmingham: '10'
+  Mobile: '8'
+  Atlanta: '10'
+  Chattanooga: '11'
+  Little Rock: '11'
+  Memphis: '13'
+  New Orleans: '13'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  Birmingham: '11'
+  Mobile: '8'
+  Atlanta: '9'
+  Chattanooga: '11'
+  Nashville: '11'
+  Memphis: '12'
+  New Orleans: '12'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  Birmingham: '9'
+  Mobile: '11'
+  Atlanta: '7'
+  Chattanooga: '12'
+  Nashville: '9'
+  Little Rock: '10'
+  New Orleans: '11'
+- year: '1958'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  Birmingham: '7'
+  Mobile: '4'
+  Atlanta: '8'
+  Chattanooga: '9'
+  Nashville: '9'
+  Little Rock: '10'
+  Memphis: '10'

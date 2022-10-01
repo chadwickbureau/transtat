@@ -1,0 +1,118 @@
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular
+  W: '87'
+  L: '67'
+  T: '2'
+  PCT: '.565'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular
+  W: '86'
+  L: '67'
+  T: '0'
+  PCT: '.562'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular
+  W: '83'
+  L: '69'
+  T: '0'
+  PCT: '.546'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular
+  W: '83'
+  L: '70'
+  T: '0'
+  PCT: '.542'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  phase: regular
+  W: '75'
+  L: '78'
+  T: '1'
+  PCT: '.490'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular
+  W: '74'
+  L: '79'
+  T: '1'
+  PCT: '.484'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular
+  W: '64'
+  L: '88'
+  T: '0'
+  PCT: '.421'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular
+  W: '60'
+  L: '94'
+  T: '0'
+  PCT: '.390'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

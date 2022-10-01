@@ -1,0 +1,112 @@
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Auburn
+  phase: regular
+  W: '72'
+  L: '44'
+  T: '0'
+  PCT: '.621'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Watertown
+  phase: regular
+  W: '69'
+  L: '51'
+  T: '0'
+  PCT: '.575'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Kingston
+  phase: regular
+  W: '58'
+  L: '55'
+  T: '3'
+  PCT: '.513'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Granby
+  phase: regular
+  W: '54'
+  L: '60'
+  T: '2'
+  PCT: '.474'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  phase: regular
+  W: '50'
+  L: '68'
+  T: '2'
+  PCT: '.424'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Sherbrooke
+  phase: regular
+  W: '46'
+  L: '71'
+  T: '1'
+  PCT: '.393'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Kingston
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  T: '0'
+  PCT: '.750'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Auburn
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  T: '0'
+  PCT: '.250'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Watertown
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  T: '0'
+  PCT: '.750'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Granby
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  T: '0'
+  PCT: '.250'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Watertown
+  phase: final
+  W: '4'
+  L: '2'
+  T: '0'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Kingston
+  phase: final
+  W: '2'
+  L: '4'
+  T: '0'
+  PCT: '.333'
+  RANK: '2'

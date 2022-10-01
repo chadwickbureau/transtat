@@ -1,0 +1,69 @@
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  nameLast: Metro
+  nameFirst: Charles
+  seq: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  nameLast: Shepard
+  nameFirst: Lawrence
+  seq: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  nameLast: Lowe
+  nameFirst: Walter
+  seq: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  nameLast: Thompson
+  nameFirst: Rupert
+  seq: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  nameLast: Bowman
+  nameFirst: Joseph
+  seq: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  nameLast: Schulte
+  nameFirst: Herman
+  seq: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  nameLast: Stenger
+  nameFirst: William
+  seq: '1'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  nameLast: Williamson
+  nameFirst: Gordon
+  dateFirst: '19490702'
+  seq: '2'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  nameLast: Babich
+  nameFirst: John
+  seq: '1'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  nameLast: Garland
+  nameFirst: Louis
+  dateFirst: '19490628'
+  seq: '2'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  nameLast: Gabler
+  nameFirst: Frank
+  dateFirst: '19490812'
+  seq: '3'

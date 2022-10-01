@@ -1,0 +1,64 @@
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '105'
+  L: '73'
+  PCT: '.590'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '100'
+  L: '75'
+  PCT: '.571'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '95'
+  L: '82'
+  PCT: '.537'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '93'
+  L: '85'
+  PCT: '.522'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '92'
+  L: '85'
+  PCT: '.520'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '79'
+  L: '96'
+  PCT: '.451'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '79'
+  L: '99'
+  PCT: '.444'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '65'
+  L: '113'
+  PCT: '.365'
+  RANK: '8'

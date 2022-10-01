@@ -1,0 +1,110 @@
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '102'
+  L: '76'
+  PCT: '.573'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '98'
+  L: '80'
+  PCT: '.551'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '97'
+  L: '81'
+  PCT: '.545'
+  RANK: '3'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '90'
+  L: '86'
+  PCT: '.511'
+  RANK: '4'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '90'
+  L: '88'
+  PCT: '.506'
+  RANK: '5'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '81'
+  L: '96'
+  PCT: '.458'
+  RANK: '6'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '79'
+  L: '98'
+  PCT: '.446'
+  RANK: '7'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Mission
+  phase: regular
+  W: '73'
+  L: '105'
+  PCT: '.410'
+  RANK: '8'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

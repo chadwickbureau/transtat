@@ -1,0 +1,60 @@
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Auburn
+  G: '116'
+  DP: '87'
+  PB: '20'
+  PO: '2789'
+  A: '1330'
+  E: '241'
+  PCT: '.945'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Watertown
+  G: '120'
+  DP: '76'
+  PB: '75'
+  PO: '3066'
+  A: '1246'
+  E: '258'
+  PCT: '.944'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Kingston
+  G: '116'
+  DP: '71'
+  PB: '24'
+  PO: '2926'
+  A: '1081'
+  E: '253'
+  PCT: '.941'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Granby
+  G: '116'
+  DP: '82'
+  PB: '16'
+  PO: '2882'
+  A: '1402'
+  E: '278'
+  PCT: '.938'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Sherbrooke
+  G: '117'
+  DP: '73'
+  PB: '32'
+  PO: '2763'
+  A: '1150'
+  E: '261'
+  PCT: '.936'
+- year: '1946'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  G: '119'
+  DP: '56'
+  PB: '34'
+  PO: '2644'
+  A: '1226'
+  E: '301'
+  PCT: '.928'

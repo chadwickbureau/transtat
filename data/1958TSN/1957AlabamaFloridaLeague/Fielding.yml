@@ -1,0 +1,2253 @@
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Wellman
+  nameClub1: Graceville
+  Pos: 1B
+  G: '79'
+  PO: '532'
+  A: '37'
+  E: '6'
+  DP: '39'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Patterson
+  nameClub1: Panama City
+  Pos: 1B
+  G: '27'
+  PO: '196'
+  A: '11'
+  E: '2'
+  DP: '14'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Lott
+  nameClub1: Graceville
+  throws: L
+  Pos: 1B
+  G: '23'
+  PO: '185'
+  A: '12'
+  E: '2'
+  DP: '25'
+  PCT: '.990'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Pounds
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '12'
+  PO: '86'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Stubing
+  nameClub1: Selma
+  throws: L
+  Pos: 1B
+  G: '99'
+  PO: '747'
+  A: '52'
+  E: '11'
+  DP: '53'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Cobb
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '38'
+  PO: '276'
+  A: '3'
+  E: '4'
+  DP: '14'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Ford
+  nameFirst: T.
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '25'
+  PO: '202'
+  A: '16'
+  E: '3'
+  DP: '14'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Lembo
+  nameClub1: Pensacola
+  throws: L
+  Pos: 1B
+  G: '15'
+  PO: '114'
+  A: '8'
+  E: '2'
+  DP: '13'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: VanDyke
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '20'
+  PO: '151'
+  A: '5'
+  E: '4'
+  DP: '7'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Tasker
+  nameClub1: Montgomery
+  throws: L
+  Pos: 1B
+  G: '34'
+  PO: '254'
+  A: '11'
+  E: '7'
+  DP: '18'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: McGhee
+  nameClub1: Pensacola
+  Pos: 1B
+  G: '22'
+  PO: '179'
+  A: '11'
+  E: '5'
+  DP: '17'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hardwick
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '37'
+  PO: '274'
+  A: '7'
+  E: '8'
+  DP: '30'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Smith
+  nameClub1: Montgomery
+  Pos: 1B
+  G: '29'
+  PO: '231'
+  A: '8'
+  E: '7'
+  DP: '23'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Goza
+  nameClub1: Panama City
+  Pos: 1B
+  G: '46'
+  PO: '383'
+  A: '20'
+  E: '13'
+  DP: '28'
+  PCT: '.969'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Kimbrough
+  nameClub1: Montgomery
+  throws: L
+  Pos: 1B
+  G: '56'
+  PO: '463'
+  A: '28'
+  E: '16'
+  DP: '41'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fry
+  nameClub1: Pensacola
+  Pos: 1B
+  G: '19'
+  PO: '171'
+  A: '8'
+  E: '6'
+  DP: '10'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Dunbar
+  nameClub1: Panama City
+  Pos: 1B
+  G: '11'
+  PO: '76'
+  A: '11'
+  E: '3'
+  DP: '4'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Moore
+  nameClub1: Panama City
+  Pos: 1B
+  G: '16'
+  PO: '125'
+  A: '6'
+  E: '5'
+  DP: '11'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Buhite
+  nameClub1: Pensacola
+  throws: L
+  Pos: 1B
+  G: '13'
+  PO: '96'
+  A: '4'
+  E: '4'
+  DP: '5'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Croke
+  nameClub1: Graceville
+  Pos: 1B
+  G: '10'
+  PO: '67'
+  A: '2'
+  E: '3'
+  DP: '6'
+  PCT: '.958'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hodges
+  nameClub1: Pensacola
+  Pos: 1B
+  G: '12'
+  PO: '127'
+  A: '4'
+  E: '7'
+  DP: '7'
+  PCT: '.949'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Zuccarini
+  nameClub1: Pensacola
+  Pos: 1B
+  G: '29'
+  PO: '228'
+  A: '18'
+  E: '17'
+  DP: '23'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Clark
+  nameClub1: Selma
+  throws: L
+  Pos: 1B
+  G: '17'
+  PO: '112'
+  A: '3'
+  E: '10'
+  DP: '12'
+  PCT: '.920'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Boggan
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '52'
+  PO: '133'
+  A: '125'
+  E: '4'
+  DP: '33'
+  PCT: '.985'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Grant
+  nameClub1: Graceville
+  Pos: 2B
+  G: '35'
+  PO: '85'
+  A: '105'
+  E: '5'
+  DP: '28'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Jenne
+  nameClub1: Selma
+  Pos: 2B
+  G: '19'
+  PO: '42'
+  A: '40'
+  E: '3'
+  DP: '8'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hubbard
+  nameClub1: Fort Walton Beach
+  Pos: 2B
+  G: '115'
+  PO: '280'
+  A: '298'
+  E: '22'
+  DP: '57'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Pagliero
+  nameClub1: Selma
+  Pos: 2B
+  G: '70'
+  PO: '159'
+  A: '150'
+  E: '12'
+  DP: '34'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Deery
+  nameClub1: Panama City
+  Pos: 2B
+  G: '100'
+  PO: '257'
+  A: '267'
+  E: '25'
+  DP: '52'
+  PCT: '.954'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Jewell
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '25'
+  PO: '72'
+  A: '60'
+  E: '7'
+  DP: '15'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fitzgerald
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '19'
+  PO: '50'
+  A: '64'
+  E: '6'
+  DP: '12'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Strange
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '18'
+  PO: '29'
+  A: '42'
+  E: '4'
+  DP: '7'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: Panama City
+  Pos: 2B
+  G: '19'
+  PO: '51'
+  A: '36'
+  E: '5'
+  DP: '7'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Stephenson
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '14'
+  PO: '32'
+  A: '38'
+  E: '4'
+  DP: '10'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fry
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '48'
+  PO: '129'
+  A: '129'
+  E: '16'
+  DP: '36'
+  PCT: '.942'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Shumate
+  nameClub1: Selma
+  Pos: 2B
+  G: '29'
+  PO: '61'
+  A: '60'
+  E: '9'
+  DP: '9'
+  PCT: '.931'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hanson
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '36'
+  PO: '85'
+  A: '94'
+  E: '14'
+  DP: '20'
+  PCT: '.927'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Croke
+  nameClub1: Graceville
+  Pos: 2B
+  G: '42'
+  PO: '103'
+  A: '99'
+  E: '17'
+  DP: '16'
+  PCT: '.922'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Morrow
+  nameClub1: Graceville
+  Pos: 2B
+  G: '38'
+  PO: '68'
+  A: '87'
+  E: '14'
+  DP: '6'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Diaz
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '15'
+  PO: '39'
+  A: '34'
+  E: '10'
+  DP: '3'
+  PCT: '.880'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Figueroa
+  nameClub1: Selma
+  Pos: 3B
+  G: '11'
+  PO: '10'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fry
+  nameClub1: Pensacola
+  Pos: 3B
+  G: '21'
+  PO: '21'
+  A: '30'
+  E: '3'
+  DP: '6'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Strange
+  nameClub1: Montgomery
+  Pos: 3B
+  G: '102'
+  PO: '123'
+  A: '207'
+  E: '22'
+  DP: '22'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hungate
+  nameClub1: Selma
+  Pos: 3B
+  G: '10'
+  PO: '9'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Boggan
+  nameClub1: Montgomery
+  Pos: 3B
+  G: '18'
+  PO: '17'
+  A: '20'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Tedesco
+  nameClub1: Selma
+  Pos: 3B
+  G: '34'
+  PO: '42'
+  A: '52'
+  E: '8'
+  DP: '4'
+  PCT: '.922'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: VanDyke
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '82'
+  PO: '87'
+  A: '134'
+  E: '19'
+  DP: '9'
+  PCT: '.921'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fisher
+  nameClub1: Graceville
+  Pos: 3B
+  G: '104'
+  PO: '104'
+  A: '162'
+  E: '24'
+  DP: '13'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Caputo
+  nameClub1: Panama City
+  Pos: 3B
+  G: '120'
+  PO: '123'
+  A: '255'
+  E: '37'
+  DP: '29'
+  PCT: '.911'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Jenne
+  nameClub1: Selma
+  Pos: 3B
+  G: '66'
+  PO: '65'
+  A: '115'
+  E: '22'
+  DP: '10'
+  PCT: '.891'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Diaz
+  nameClub1: Pensacola
+  Pos: 3B
+  G: '58'
+  PO: '60'
+  A: '106'
+  E: '24'
+  DP: '9'
+  PCT: '.874'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Ford
+  nameFirst: T.
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '46'
+  PO: '53'
+  A: '75'
+  E: '21'
+  DP: '11'
+  PCT: '.859'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Humberson
+  nameClub1: Pensacola
+  Pos: 3B
+  G: '20'
+  PO: '13'
+  A: '25'
+  E: '9'
+  DP: '2'
+  PCT: '.809'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Birri
+  nameFirst: F.
+  nameClub1: Graceville
+  Pos: 3B
+  G: '11'
+  PO: '9'
+  A: '14'
+  E: '6'
+  DP: '2'
+  PCT: '.793'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Marcano
+  nameClub1: Graceville
+  Pos: SS
+  G: '20'
+  PO: '25'
+  A: '57'
+  E: '3'
+  DP: '15'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Tedesco
+  nameClub1: Selma
+  Pos: SS
+  G: '35'
+  PO: '66'
+  A: '83'
+  E: '11'
+  DP: '13'
+  PCT: '.931'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Ford
+  nameFirst: D. L.
+  nameClub1: Fort Walton Beach
+  Pos: SS
+  G: '101'
+  PO: '172'
+  A: '266'
+  E: '42'
+  DP: '33'
+  PCT: '.913'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Callaway
+  nameClub1: Panama City
+  Pos: SS
+  G: '75'
+  PO: '139'
+  A: '196'
+  E: '33'
+  DP: '23'
+  PCT: '.910'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Morrow
+  nameClub1: Graceville
+  Pos: SS
+  G: '29'
+  PO: '39'
+  A: '58'
+  E: '10'
+  DP: '13'
+  PCT: '.907'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Pagliero
+  nameClub1: Selma
+  Pos: SS
+  G: '10'
+  PO: '16'
+  A: '23'
+  E: '4'
+  DP: '3'
+  PCT: '.907'
+  TP: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Strickland
+  nameClub1: Pensacola
+  Pos: SS
+  G: '120'
+  PO: '202'
+  A: '318'
+  E: '62'
+  DP: '60'
+  PCT: '.893'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Manning
+  nameClub1: Montgomery
+  Pos: SS
+  G: '120'
+  PO: '203'
+  A: '319'
+  E: '66'
+  DP: '60'
+  PCT: '.888'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hutchinson
+  nameClub1: Selma
+  Pos: SS
+  G: '54'
+  PO: '89'
+  A: '124'
+  E: '27'
+  DP: '20'
+  PCT: '.888'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Ford
+  nameFirst: T.
+  nameClub1: Fort Walton Beach
+  Pos: SS
+  G: '20'
+  PO: '29'
+  A: '55'
+  E: '11'
+  DP: '8'
+  PCT: '.884'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Saylors
+  nameClub1: Panama City
+  Pos: SS
+  G: '32'
+  PO: '54'
+  A: '75'
+  E: '18'
+  DP: '8'
+  PCT: '.878'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Zona
+  nameClub1: Graceville
+  Pos: SS
+  G: '29'
+  PO: '29'
+  A: '57'
+  E: '12'
+  DP: '6'
+  PCT: '.878'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: Panama City
+  Pos: SS
+  G: '16'
+  PO: '37'
+  A: '28'
+  E: '10'
+  DP: '5'
+  PCT: '.867'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Puma
+  nameClub1: Selma
+  Pos: SS
+  G: '12'
+  PO: '15'
+  A: '23'
+  E: '7'
+  DP: '3'
+  PCT: '.844'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Shumate
+  nameClub1: Selma
+  Pos: SS
+  G: '12'
+  PO: '16'
+  A: '23'
+  E: '9'
+  DP: '6'
+  PCT: '.813'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Birri
+  nameFirst: R.
+  nameClub1: Graceville
+  Pos: SS
+  G: '24'
+  PO: '31'
+  A: '44'
+  E: '18'
+  DP: '11'
+  PCT: '.806'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Birri
+  nameFirst: F.
+  nameClub1: Graceville
+  Pos: SS
+  G: '10'
+  PO: '13'
+  A: '17'
+  E: '11'
+  DP: '2'
+  PCT: '.732'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Prater
+  nameClub1: Panama City
+  Pos: OF
+  G: '19'
+  PO: '38'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Creel
+  nameClub1: Panama City
+  nameClub2: Pensacola
+  Pos: OF
+  G: '23'
+  PO: '37'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hoffman
+  nameClub1: Graceville
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '14'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Shulman
+  nameClub1: Pensacola
+  Pos: OF
+  G: '120'
+  PO: '292'
+  A: '11'
+  E: '8'
+  DP: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Tarleton
+  nameClub1: Panama City
+  Pos: OF
+  G: '40'
+  PO: '72'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Stockton
+  nameClub1: Selma
+  Pos: OF
+  G: '36'
+  PO: '72'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Coleman
+  nameClub1: Selma
+  Pos: OF
+  G: '71'
+  PO: '137'
+  A: '14'
+  E: '5'
+  DP: '5'
+  PCT: '.968'
+  TP: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: VanDyke
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '15'
+  PO: '27'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Moyer
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '35'
+  PO: '49'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Jakubowski
+  nameClub1: Graceville
+  Pos: OF
+  G: '118'
+  PO: '276'
+  A: '13'
+  E: '11'
+  DP: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Marockie
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '118'
+  PO: '243'
+  A: '14'
+  E: '10'
+  DP: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Patterson
+  nameClub1: Panama City
+  Pos: OF
+  G: '43'
+  PO: '73'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.961'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Temple
+  nameClub1: Graceville
+  Pos: OF
+  G: '18'
+  PO: '24'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Lowe
+  nameClub1: Panama City
+  Pos: OF
+  G: '120'
+  PO: '321'
+  A: '9'
+  E: '14'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Lambert
+  nameClub1: Pensacola
+  Pos: OF
+  G: '59'
+  PO: '106'
+  A: '7'
+  E: '5'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Moore
+  nameClub1: Montgomery
+  Pos: OF
+  G: '48'
+  PO: '87'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Kelly
+  nameFirst: P.
+  nameClub1: Graceville
+  Pos: OF
+  G: '73'
+  PO: '134'
+  A: '14'
+  E: '7'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hardwick
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '85'
+  PO: '119'
+  A: '4'
+  E: '6'
+  DP: '3'
+  PCT: '.953'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Cockrell
+  nameClub1: Selma
+  Pos: OF
+  G: '50'
+  PO: '58'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.953'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Billingsley
+  nameClub1: Montgomery
+  Pos: OF
+  G: '118'
+  PO: '256'
+  A: '13'
+  E: '14'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Tasker
+  nameClub1: Montgomery
+  throws: L
+  Pos: OF
+  G: '26'
+  PO: '46'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Irace
+  nameClub1: Selma
+  Pos: OF
+  G: '46'
+  PO: '48'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Scroggs
+  nameClub1: Panama City
+  Pos: OF
+  G: '24'
+  PO: '29'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Tedesco
+  nameClub1: Selma
+  Pos: OF
+  G: '27'
+  PO: '46'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Jarvinen
+  nameClub1: Panama City
+  Pos: OF
+  G: '17'
+  PO: '29'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Tano
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '93'
+  PO: '157'
+  A: '7'
+  E: '11'
+  DP: '2'
+  PCT: '.937'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hungate
+  nameClub1: Selma
+  Pos: OF
+  G: '26'
+  PO: '40'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Ferretti
+  nameClub1: Graceville
+  Pos: OF
+  G: '22'
+  PO: '27'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Niemann
+  nameClub1: Graceville
+  Pos: OF
+  G: '51'
+  PO: '105'
+  A: '6'
+  E: '8'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Stapp
+  nameClub1: Panama City
+  Pos: OF
+  G: '36'
+  PO: '65'
+  A: '6'
+  E: '6'
+  DP: '2'
+  PCT: '.922'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Markham
+  nameClub1: Pensacola
+  Pos: OF
+  G: '23'
+  PO: '23'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Priolo
+  nameClub1: Graceville
+  Pos: OF
+  G: '46'
+  PO: '76'
+  A: '3'
+  E: '7'
+  DP: '0'
+  PCT: '.919'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Raines
+  nameClub1: Fort Walton Beach
+  throws: L
+  Pos: OF
+  G: '30'
+  PO: '55'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.919'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Diaz
+  nameClub1: Pensacola
+  Pos: OF
+  G: '43'
+  PO: '52'
+  A: '4'
+  E: '5'
+  DP: '0'
+  PCT: '.918'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Valesky
+  nameClub1: Pensacola
+  throws: L
+  Pos: OF
+  G: '22'
+  PO: '29'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Brooker
+  nameClub1: Montgomery
+  Pos: OF
+  G: '114'
+  PO: '183'
+  A: '10'
+  E: '18'
+  DP: '1'
+  PCT: '.915'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Zuccarini
+  nameClub1: Pensacola
+  Pos: OF
+  G: '87'
+  PO: '128'
+  A: '7'
+  E: '14'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Clark
+  nameClub1: Selma
+  throws: L
+  Pos: OF
+  G: '101'
+  PO: '152'
+  A: '9'
+  E: '17'
+  DP: '1'
+  PCT: '.904'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Gore
+  nameClub1: Montgomery
+  throws: L
+  Pos: OF
+  G: '32'
+  PO: '47'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.904'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Croke
+  nameClub1: Graceville
+  Pos: OF
+  G: '19'
+  PO: '22'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Pettit
+  nameClub1: Selma
+  Pos: OF
+  G: '18'
+  PO: '20'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Herzog
+  nameClub1: Panama City
+  Pos: OF
+  G: '17'
+  PO: '21'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.862'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Duncan
+  nameClub1: Montgomery
+  Pos: OF
+  G: '14'
+  PO: '20'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.815'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Dodd
+  nameClub1: Panama City
+  Pos: OF
+  G: '14'
+  PO: '12'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.765'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Boner
+  nameClub1: Pensacola
+  Pos: C
+  G: '23'
+  PO: '160'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PB: '5'
+  PCT: '.989'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Mendoza
+  nameClub1: Pensacola
+  Pos: C
+  G: '39'
+  PO: '275'
+  A: '22'
+  E: '5'
+  DP: '2'
+  PB: '6'
+  PCT: '.983'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Stogowski
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '82'
+  PO: '494'
+  A: '58'
+  E: '12'
+  DP: '7'
+  PB: '7'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Saviola
+  nameClub1: Selma
+  Pos: C
+  G: '42'
+  PO: '255'
+  A: '22'
+  E: '6'
+  DP: '7'
+  PB: '7'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Markham
+  nameClub1: Pensacola
+  Pos: C
+  G: '22'
+  PO: '135'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PB: '5'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Bettin
+  nameClub1: Graceville
+  Pos: C
+  G: '108'
+  PO: '780'
+  A: '54'
+  E: '19'
+  DP: '7'
+  PB: '18'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Boone
+  nameClub1: Pensacola
+  Pos: C
+  G: '20'
+  PO: '126'
+  A: '10'
+  E: '3'
+  DP: '2'
+  PB: '6'
+  PCT: '.978'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Maupin
+  nameClub1: Montgomery
+  Pos: C
+  G: '93'
+  PO: '642'
+  A: '32'
+  E: '18'
+  DP: '4'
+  PB: '16'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Taylor
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '18'
+  PO: '141'
+  A: '6'
+  E: '4'
+  DP: '0'
+  PB: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Creel
+  nameClub1: Panama City
+  nameClub2: Pensacola
+  Pos: C
+  G: '13'
+  PO: '61'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PB: '3'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Pounds
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '21'
+  PO: '124'
+  A: '8'
+  E: '4'
+  DP: '0'
+  PB: '6'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Leneave
+  nameClub1: Selma
+  Pos: C
+  G: '33'
+  PO: '302'
+  A: '13'
+  E: '10'
+  DP: '0'
+  PB: '8'
+  PCT: '.969'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hay
+  nameClub1: Panama City
+  Pos: C
+  G: '108'
+  PO: '693'
+  A: '55'
+  E: '25'
+  DP: '2'
+  PB: '21'
+  PCT: '.968'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Kennedy
+  nameClub1: Pensacola
+  Pos: C
+  G: '13'
+  PO: '80'
+  A: '6'
+  E: '3'
+  DP: '2'
+  PB: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Moore
+  nameClub1: Montgomery
+  Pos: C
+  G: '23'
+  PO: '150'
+  A: '12'
+  E: '6'
+  DP: '2'
+  PB: '7'
+  PCT: '.964'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: McDowell
+  nameClub1: Selma
+  Pos: C
+  G: '43'
+  PO: '230'
+  A: '29'
+  E: '10'
+  DP: '4'
+  PB: '11'
+  PCT: '.963'
+  TP: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Cooke
+  nameClub1: Selma
+  Pos: C
+  G: '11'
+  PO: '60'
+  A: '5'
+  E: '3'
+  DP: '2'
+  PB: '4'
+  PCT: '.956'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Croke
+  nameClub1: Graceville
+  Pos: C
+  G: '17'
+  PO: '108'
+  A: '10'
+  E: '6'
+  DP: '1'
+  PB: '5'
+  PCT: '.952'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Butler
+  nameClub1: Panama City
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '39'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Preston
+  nameClub1: Panama City
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '30'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Seagrave
+  nameClub1: Pensacola
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '24'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Merlob
+  nameClub1: Selma
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '25'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Poppens
+  nameClub1: Pensacola
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Madaris
+  nameClub1: Selma
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '15'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: DeSandis
+  nameClub1: Panama City
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Renfroe
+  nameClub1: Pensacola
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Dominquez
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '9'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Williams
+  nameClub1: Montgomery
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Scroggs
+  nameClub1: Panama City
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Seiferlein
+  nameClub1: Montgomery
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Gaeta
+  nameClub1: Selma
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Addison
+  nameClub1: Panama City
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Cockrell
+  nameClub1: Selma
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Belinsky
+  nameClub1: Pensacola
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '3'
+  A: '48'
+  E: '1'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Kelleher
+  nameClub1: Selma
+  throws: L
+  Pos: P
+  G: '38'
+  PO: '11'
+  A: '38'
+  E: '1'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Beane
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '23'
+  PO: '9'
+  A: '26'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Beck
+  nameClub1: Graceville
+  Pos: P
+  G: '33'
+  PO: '9'
+  A: '23'
+  E: '1'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fields
+  nameClub1: Montgomery
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '2'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Felker
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '37'
+  PO: '11'
+  A: '47'
+  E: '3'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Cueto
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '44'
+  E: '3'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Harper
+  nameClub1: Selma
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Wright
+  nameClub1: Selma
+  Pos: P
+  G: '26'
+  PO: '7'
+  A: '33'
+  E: '3'
+  DP: '3'
+  PCT: '.930'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Day
+  nameClub1: Montgomery
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '43'
+  E: '4'
+  DP: '2'
+  PCT: '.926'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hannam
+  nameClub1: Montgomery
+  Pos: P
+  G: '29'
+  PO: '12'
+  A: '24'
+  E: '3'
+  DP: '5'
+  PCT: '.923'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Buchner
+  nameClub1: Pensacola
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '20'
+  E: '2'
+  DP: '2'
+  PCT: '.913'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Clay
+  nameClub1: Panama City
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '1'
+  A: '29'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Jones
+  nameClub1: Montgomery
+  Pos: P
+  G: '33'
+  PO: '2'
+  A: '27'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hasson
+  nameClub1: Pensacola
+  nameClub2: Panama City
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '23'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Knoll
+  nameClub1: Panama City
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Kelly
+  nameFirst: F.
+  nameClub1: Graceville
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '21'
+  E: '3'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: LeBlanc
+  nameClub1: Montgomery
+  Pos: P
+  G: '25'
+  PO: '3'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fausett
+  nameClub1: Pensacola
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '21'
+  E: '3'
+  DP: '2'
+  PCT: '.893'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hammond
+  nameClub1: Graceville
+  Pos: P
+  G: '27'
+  PO: '2'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: McCullough
+  nameClub1: Selma
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '15'
+  E: '3'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Burroughs
+  nameClub1: Montgomery
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '6'
+  A: '16'
+  E: '3'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Evans
+  nameClub1: Fort Walton Beach
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '7'
+  A: '35'
+  E: '6'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Coley
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Ford
+  nameFirst: D. R.
+  nameClub1: Pensacola
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '17'
+  E: '3'
+  DP: '1'
+  PCT: '.864'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Hammack
+  nameClub1: Pensacola
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Kakuske
+  nameClub1: Graceville
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '27'
+  E: '6'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Fletcher
+  nameClub1: Pensacola
+  Pos: P
+  G: '45'
+  PO: '6'
+  A: '29'
+  E: '7'
+  DP: '2'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Stange
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '13'
+  E: '3'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Flynn
+  nameClub1: Graceville
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '10'
+  A: '9'
+  E: '4'
+  DP: '0'
+  PCT: '.826'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Cron
+  nameClub1: Graceville
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '24'
+  E: '7'
+  DP: '3'
+  PCT: '.811'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Townsend
+  nameClub1: Panama City
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '22'
+  E: '6'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Higby
+  nameClub1: Selma
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Temple
+  nameClub1: Graceville
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '14'
+  E: '5'
+  DP: '0'
+  PCT: '.792'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameLast: Leak
+  nameClub1: Fort Walton Beach
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.727'
+  TP: '0'

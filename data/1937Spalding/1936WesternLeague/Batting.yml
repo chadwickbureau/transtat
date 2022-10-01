@@ -1,0 +1,2138 @@
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mitchell
+  nameFirst: Clarence
+  nameClub1: Omaha/Rock Island
+  G: '24'
+  AB: '38'
+  R: '6'
+  H: '14'
+  H2B: '4'
+  H3B: '0'
+  HR: '2'
+  TB: '24'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  RBI: '11'
+  AVG: '.368'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Dike
+  nameFirst: Joseph
+  nameClub1: Omaha/Rock Island
+  G: '10'
+  AB: '41'
+  R: '9'
+  H: '15'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  TB: '20'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  RBI: '3'
+  AVG: '.366'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Prerost
+  nameFirst: Joseph E.
+  nameClub1: Davenport
+  G: '96'
+  AB: '390'
+  R: '65'
+  H: '133'
+  H2B: '35'
+  H3B: '7'
+  HR: '4'
+  TB: '194'
+  SH: '0'
+  SB: '14'
+  BB: '22'
+  RBI: '87'
+  AVG: '.341'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mead
+  nameFirst: Ralph D.
+  nameClub1: Cedar Rapids
+  G: '16'
+  AB: '21'
+  R: '1'
+  H: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  RBI: '3'
+  AVG: '.333'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Prather
+  nameFirst: M. Argus
+  nameClub1: Omaha/Rock Island
+  G: '126'
+  AB: '435'
+  R: '102'
+  H: '140'
+  H2B: '20'
+  H3B: '6'
+  HR: '22'
+  TB: '238'
+  SH: '4'
+  SB: '8'
+  BB: '79'
+  RBI: '101'
+  AVG: '.322'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Nelson
+  nameFirst: Earle
+  nameClub1: Sioux City
+  G: '29'
+  AB: '115'
+  R: '22'
+  H: '37'
+  H2B: '9'
+  H3B: '0'
+  HR: '2'
+  TB: '52'
+  SH: '1'
+  SB: '1'
+  BB: '9'
+  RBI: '19'
+  AVG: '.322'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Luby
+  nameFirst: Hugh
+  nameClub1: Sioux City
+  G: '120'
+  AB: '486'
+  R: '91'
+  H: '155'
+  H2B: '19'
+  H3B: '7'
+  HR: '11'
+  TB: '221'
+  SH: '8'
+  SB: '40'
+  BB: '40'
+  RBI: '62'
+  AVG: '.319'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Goodman
+  nameFirst: David
+  nameClub1: Omaha/Rock Island
+  G: '126'
+  AB: '478'
+  R: '101'
+  H: '152'
+  H2B: '33'
+  H3B: '14'
+  HR: '11'
+  TB: '246'
+  SH: '7'
+  SB: '30'
+  BB: '68'
+  RBI: '92'
+  AVG: '.318'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Howard
+  nameFirst: James F.
+  nameClub1: Cedar Rapids
+  G: '127'
+  AB: '489'
+  R: '90'
+  H: '154'
+  H2B: '31'
+  H3B: '7'
+  HR: '13'
+  TB: '238'
+  SH: '6'
+  SB: '14'
+  BB: '37'
+  RBI: '96'
+  AVG: '.315'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Williamson
+  nameFirst: Elmer (Speck)
+  nameClub1: Waterloo
+  G: '12'
+  AB: '52'
+  R: '6'
+  H: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '17'
+  SH: '0'
+  SB: '2'
+  BB: '4'
+  RBI: '5'
+  AVG: '.308'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Smilgoff
+  nameFirst: James
+  nameClub1: Sioux City
+  G: '76'
+  AB: '264'
+  R: '34'
+  H: '81'
+  H2B: '15'
+  H3B: '2'
+  HR: '1'
+  TB: '103'
+  SH: '2'
+  SB: '3'
+  BB: '27'
+  RBI: '29'
+  AVG: '.307'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Leonard
+  nameFirst: Harry
+  nameClub1: Cedar Rapids
+  G: '29'
+  AB: '102'
+  R: '18'
+  H: '31'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  TB: '38'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  RBI: '10'
+  AVG: '.304'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Scarritt
+  nameFirst: Russell M.
+  nameClub1: Omaha/Rock Island
+  G: '113'
+  AB: '434'
+  R: '75'
+  H: '131'
+  H2B: '21'
+  H3B: '9'
+  HR: '7'
+  TB: '191'
+  SH: '4'
+  SB: '4'
+  BB: '39'
+  RBI: '75'
+  AVG: '.302'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Seghi
+  nameFirst: Philip
+  nameClub1: Sioux City
+  G: '125'
+  AB: '509'
+  R: '72'
+  H: '153'
+  H2B: '21'
+  H3B: '4'
+  HR: '14'
+  TB: '224'
+  SH: '5'
+  SB: '8'
+  BB: '16'
+  RBI: '104'
+  AVG: '.301'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Riley
+  nameFirst: Leon
+  nameClub1: Davenport
+  G: '123'
+  AB: '431'
+  R: '79'
+  H: '129'
+  H2B: '24'
+  H3B: '6'
+  HR: '12'
+  TB: '201'
+  SH: '5'
+  SB: '9'
+  BB: '64'
+  RBI: '85'
+  AVG: '.299'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Van Camp
+  nameFirst: Albert
+  nameClub1: Des Moines
+  G: '125'
+  AB: '497'
+  R: '74'
+  H: '148'
+  H2B: '20'
+  H3B: '14'
+  HR: '6'
+  TB: '214'
+  SH: '6'
+  SB: '6'
+  BB: '20'
+  RBI: '79'
+  AVG: '.298'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Denning
+  nameFirst: Otto
+  nameClub1: Davenport
+  G: '114'
+  AB: '432'
+  R: '73'
+  H: '128'
+  H2B: '34'
+  H3B: '3'
+  HR: '5'
+  TB: '183'
+  SH: '7'
+  SB: '9'
+  BB: '27'
+  RBI: '74'
+  AVG: '.296'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Gasaway
+  nameFirst: Jack
+  nameClub1: Cedar Rapids
+  G: '118'
+  AB: '489'
+  R: '92'
+  H: '144'
+  H2B: '26'
+  H3B: '11'
+  HR: '7'
+  TB: '213'
+  SH: '4'
+  SB: '17'
+  BB: '43'
+  RBI: '37'
+  AVG: '.295'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Pearson
+  nameFirst: Alva
+  nameClub1: Waterloo
+  G: '10'
+  AB: '17'
+  R: '2'
+  H: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  RBI: '3'
+  AVG: '.294'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hayes
+  nameFirst: James A.
+  nameClub1: Cedar Rapids
+  G: '40'
+  AB: '82'
+  R: '7'
+  H: '24'
+  H2B: '4'
+  H3B: '2'
+  HR: '0'
+  TB: '32'
+  SH: '4'
+  SB: '0'
+  BB: '7'
+  RBI: '10'
+  AVG: '.293'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Webb
+  nameFirst: James L.
+  nameClub1: Cedar Rapids
+  G: '128'
+  AB: '510'
+  R: '97'
+  H: '149'
+  H2B: '24'
+  H3B: '8'
+  HR: '11'
+  TB: '222'
+  SH: '8'
+  SB: '25'
+  BB: '45'
+  RBI: '72'
+  AVG: '.292'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Michaels
+  nameFirst: Ralph J.
+  nameClub1: 80@Waterloo
+  nameClub2: 26@Cedar Rapids
+  G: '106'
+  AB: '387'
+  R: '52'
+  H: '113'
+  H2B: '16'
+  H3B: '8'
+  HR: '1'
+  TB: '148'
+  SH: '5'
+  SB: '9'
+  BB: '51'
+  RBI: '49'
+  AVG: '.292'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Williford
+  nameFirst: Edward
+  nameClub1: Omaha/Rock Island
+  G: '123'
+  AB: '479'
+  R: '68'
+  H: '139'
+  H2B: '34'
+  H3B: '11'
+  HR: '4'
+  TB: '207'
+  SH: '4'
+  SB: '6'
+  BB: '31'
+  RBI: '84'
+  AVG: '.290'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Plummer
+  nameFirst: Irving
+  nameClub1: Waterloo
+  G: '129'
+  AB: '485'
+  R: '78'
+  H: '140'
+  H2B: '26'
+  H3B: '10'
+  HR: '12'
+  TB: '222'
+  SH: '4'
+  SB: '7'
+  BB: '51'
+  RBI: '76'
+  AVG: '.289'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Keyes
+  nameFirst: Stanley
+  nameClub1: Des Moines
+  G: '124'
+  AB: '477'
+  R: '78'
+  H: '137'
+  H2B: '18'
+  H3B: '9'
+  HR: '20'
+  TB: '233'
+  SH: '6'
+  SB: '7'
+  BB: '17'
+  RBI: '81'
+  AVG: '.287'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Asbell
+  nameFirst: James M.
+  nameClub1: Des Moines
+  G: '90'
+  AB: '345'
+  R: '60'
+  H: '98'
+  H2B: '25'
+  H3B: '9'
+  HR: '13'
+  TB: '180'
+  SH: '2'
+  SB: '1'
+  BB: '10'
+  RBI: '66'
+  AVG: '.284'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: DeFofrest
+  nameFirst: Russell
+  nameClub1: Cedar Rapids
+  G: '125'
+  AB: '467'
+  R: '66'
+  H: '132'
+  H2B: '19'
+  H3B: '10'
+  HR: '2'
+  TB: '177'
+  SH: '8'
+  SB: '23'
+  BB: '38'
+  RBI: '74'
+  AVG: '.283'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hall
+  nameFirst: Ermal Ed.
+  nameClub1: Davenport
+  G: '80'
+  AB: '290'
+  R: '51'
+  H: '82'
+  H2B: '16'
+  H3B: '2'
+  HR: '6'
+  TB: '120'
+  SH: '6'
+  SB: '8'
+  BB: '28'
+  RBI: '46'
+  AVG: '.283'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mills
+  nameFirst: Dale
+  nameClub1: Omaha/Rock Island
+  G: '39'
+  AB: '85'
+  R: '10'
+  H: '24'
+  H2B: '5'
+  H3B: '1'
+  HR: '1'
+  TB: '34'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  RBI: '12'
+  AVG: '.282'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Coleman
+  nameFirst: Alex
+  nameClub1: Omaha/Rock Island
+  G: '14'
+  AB: '32'
+  R: '5'
+  H: '9'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  RBI: '3'
+  AVG: '.281'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Clark
+  nameFirst: Keith
+  nameClub1: Omaha/Rock Island
+  G: '85'
+  AB: '286'
+  R: '40'
+  H: '80'
+  H2B: '15'
+  H3B: '5'
+  HR: '0'
+  TB: '105'
+  SH: '1'
+  SB: '2'
+  BB: '28'
+  RBI: '35'
+  AVG: '.280'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: White
+  nameFirst: Ray
+  nameClub1: Davenport
+  G: '125'
+  AB: '481'
+  R: '59'
+  H: '134'
+  H2B: '17'
+  H3B: '4'
+  HR: '0'
+  TB: '159'
+  SH: '7'
+  SB: '2'
+  BB: '24'
+  RBI: '55'
+  AVG: '.279'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Polly
+  nameFirst: Nick
+  nameClub1: Davenport
+  G: '114'
+  AB: '437'
+  R: '82'
+  H: '121'
+  H2B: '26'
+  H3B: '7'
+  HR: '4'
+  TB: '173'
+  SH: '7'
+  SB: '4'
+  BB: '52'
+  RBI: '50'
+  AVG: '.277'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Catchings
+  nameFirst: Ben F.
+  nameClub1: Des Moines
+  G: '126'
+  AB: '485'
+  R: '81'
+  H: '134'
+  H2B: '15'
+  H3B: '13'
+  HR: '2'
+  TB: '181'
+  SH: '7'
+  SB: '21'
+  BB: '46'
+  RBI: '46'
+  AVG: '.276'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Schinski
+  nameFirst: John
+  nameClub1: Sioux City
+  G: '120'
+  AB: '481'
+  R: '93'
+  H: '132'
+  H2B: '21'
+  H3B: '4'
+  HR: '6'
+  TB: '179'
+  SH: '5'
+  SB: '17'
+  BB: '58'
+  RBI: '53'
+  AVG: '.274'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Piet
+  nameFirst: Frank
+  nameClub1: Des Moines
+  G: '113'
+  AB: '400'
+  R: '60'
+  H: '109'
+  H2B: '32'
+  H3B: '1'
+  HR: '7'
+  TB: '164'
+  SH: '3'
+  SB: '5'
+  BB: '22'
+  RBI: '47'
+  AVG: '.273'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Menke
+  nameFirst: Walter
+  nameClub1: Des Moines
+  G: '123'
+  AB: '485'
+  R: '79'
+  H: '132'
+  H2B: '20'
+  H3B: '4'
+  HR: '7'
+  TB: '181'
+  SH: '13'
+  SB: '14'
+  BB: '13'
+  RBI: '56'
+  AVG: '.272'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Cosbey
+  nameFirst: Harold D.
+  nameClub1: Waterloo
+  G: '124'
+  AB: '474'
+  R: '80'
+  H: '129'
+  H2B: '20'
+  H3B: '5'
+  HR: '8'
+  TB: '183'
+  SH: '7'
+  SB: '16'
+  BB: '51'
+  RBI: '52'
+  AVG: '.272'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Purdy
+  nameFirst: Everett
+  nameClub1: Omaha/Rock Island
+  G: '46'
+  AB: '169'
+  R: '32'
+  H: '46'
+  H2B: '10'
+  H3B: '1'
+  HR: '2'
+  TB: '64'
+  SH: '2'
+  SB: '1'
+  BB: '24'
+  RBI: '16'
+  AVG: '.272'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Koch
+  nameFirst: Gus R.
+  nameClub1: 22@Waterloo
+  nameClub2: 9@Sioux City
+  G: '31'
+  AB: '92'
+  R: '16'
+  H: '25'
+  H2B: '2'
+  H3B: '4'
+  HR: '5'
+  TB: '50'
+  SH: '0'
+  SB: '1'
+  BB: '18'
+  RBI: '17'
+  AVG: '.272'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Blakeney
+  nameFirst: Oliver
+  nameClub1: Sioux City
+  G: '125'
+  AB: '483'
+  R: '53'
+  H: '131'
+  H2B: '15'
+  H3B: '5'
+  HR: '5'
+  TB: '171'
+  SH: '7'
+  SB: '11'
+  BB: '32'
+  RBI: '64'
+  AVG: '.271'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Monahan
+  nameFirst: Peter
+  nameClub1: Sioux City
+  G: '123'
+  AB: '450'
+  R: '58'
+  H: '122'
+  H2B: '18'
+  H3B: '1'
+  HR: '10'
+  TB: '172'
+  SH: '3'
+  SB: '4'
+  BB: '47'
+  RBI: '61'
+  AVG: '.271'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Preibisch
+  nameFirst: Melvin
+  nameClub1: Waterloo
+  G: '90'
+  AB: '354'
+  R: '47'
+  H: '96'
+  H2B: '16'
+  H3B: '9'
+  HR: '2'
+  TB: '136'
+  SH: '4'
+  SB: '11'
+  BB: '26'
+  RBI: '32'
+  AVG: '.271'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Kintana
+  nameFirst: Leo J.
+  nameClub1: Omaha/Rock Island
+  G: '13'
+  AB: '48'
+  R: '9'
+  H: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  RBI: '4'
+  AVG: '.271'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wilson
+  nameFirst: William W.
+  nameClub1: Des Moines
+  G: '128'
+  AB: '472'
+  R: '39'
+  H: '126'
+  H2B: '25'
+  H3B: '10'
+  HR: '5'
+  TB: '186'
+  SH: '3'
+  SB: '2'
+  BB: '25'
+  RBI: '56'
+  AVG: '.267'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hall
+  nameFirst: Frank
+  nameClub1: Davenport
+  G: '122'
+  AB: '479'
+  R: '84'
+  H: '127'
+  H2B: '17'
+  H3B: '3'
+  HR: '0'
+  TB: '150'
+  SH: '10'
+  SB: '6'
+  BB: '78'
+  RBI: '49'
+  AVG: '.265'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Rye
+  nameFirst: Eugene
+  nameClub1: Davenport
+  G: '120'
+  AB: '465'
+  R: '79'
+  H: '123'
+  H2B: '22'
+  H3B: '13'
+  HR: '8'
+  TB: '195'
+  SH: '11'
+  SB: '5'
+  BB: '44'
+  RBI: '66'
+  AVG: '.265'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Spadafore
+  nameFirst: Joseph E.
+  nameClub1: Omaha/Rock Island
+  G: '119'
+  AB: '460'
+  R: '69'
+  H: '122'
+  H2B: '22'
+  H3B: '5'
+  HR: '8'
+  TB: '178'
+  SH: '12'
+  SB: '8'
+  BB: '36'
+  RBI: '69'
+  AVG: '.265'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Leach
+  nameFirst: Frank
+  nameClub1: Sioux City
+  G: '121'
+  AB: '457'
+  R: '95'
+  H: '121'
+  H2B: '17'
+  H3B: '12'
+  HR: '9'
+  TB: '189'
+  SH: '3'
+  SB: '11'
+  BB: '58'
+  RBI: '74'
+  AVG: '.265'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Turpin
+  nameFirst: Harold
+  nameClub1: Des Moines
+  G: '36'
+  AB: '102'
+  R: '12'
+  H: '27'
+  H2B: '4'
+  H3B: '0'
+  HR: '2'
+  TB: '37'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  RBI: '9'
+  AVG: '.265'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Swinger
+  nameFirst: Wilbert A.
+  nameClub1: Omaha/Rock Island
+  G: '42'
+  AB: '159'
+  R: '16'
+  H: '42'
+  H2B: '8'
+  H3B: '1'
+  HR: '2'
+  TB: '58'
+  SH: '2'
+  SB: '4'
+  BB: '15'
+  RBI: '15'
+  AVG: '.264'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Whitehouse
+  nameFirst: Harry
+  nameClub1: Sioux City
+  G: '96'
+  AB: '376'
+  R: '50'
+  H: '99'
+  H2B: '17'
+  H3B: '7'
+  HR: '5'
+  TB: '145'
+  SH: '3'
+  SB: '7'
+  BB: '24'
+  RBI: '62'
+  AVG: '.263'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Pelton
+  nameFirst: Marvin
+  nameClub1: Cedar Rapids
+  G: '14'
+  AB: '61'
+  R: '4'
+  H: '16'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  TB: '21'
+  SH: '0'
+  SB: '2'
+  BB: '3'
+  RBI: '10'
+  AVG: '.262'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: McCue
+  nameFirst: Wayne
+  nameClub1: Cedar Rapids
+  G: '73'
+  AB: '268'
+  R: '32'
+  H: '70'
+  H2B: '16'
+  H3B: '4'
+  HR: '0'
+  TB: '94'
+  SH: '3'
+  SB: '0'
+  BB: '19'
+  RBI: '30'
+  AVG: '.261'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Southard
+  nameFirst: Delma M.
+  nameClub1: Des Moines
+  G: '20'
+  AB: '46'
+  R: '9'
+  H: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '14'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  RBI: '6'
+  AVG: '.261'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Thomas
+  nameFirst: Raymond J.
+  nameClub1: Cedar Rapids
+  G: '78'
+  AB: '262'
+  R: '40'
+  H: '68'
+  H2B: '15'
+  H3B: '1'
+  HR: '5'
+  TB: '100'
+  SH: '4'
+  SB: '7'
+  BB: '30'
+  RBI: '32'
+  AVG: '.260'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Beason
+  nameFirst: Carl
+  nameClub1: Davenport
+  G: '33'
+  AB: '127'
+  R: '16'
+  H: '33'
+  H2B: '7'
+  H3B: '3'
+  HR: '0'
+  TB: '46'
+  SH: '1'
+  SB: '1'
+  BB: '11'
+  RBI: '12'
+  AVG: '.260'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Harris
+  nameFirst: Herbert
+  nameClub1: Des Moines
+  G: '31'
+  AB: '97'
+  R: '14'
+  H: '25'
+  H2B: '3'
+  H3B: '2'
+  HR: '2'
+  TB: '38'
+  SH: '3'
+  SB: '1'
+  BB: '2'
+  RBI: '11'
+  AVG: '.258'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wise
+  nameFirst: George E.
+  nameClub1: 62@Omaha/Rock Island
+  nameClub2: 62@Waterloo
+  G: '124'
+  AB: '471'
+  R: '56'
+  H: '121'
+  H2B: '23'
+  H3B: '3'
+  HR: '4'
+  TB: '162'
+  SH: '9'
+  SB: '3'
+  BB: '38'
+  RBI: '49'
+  AVG: '.257'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Vusich
+  nameFirst: John M.
+  nameClub1: 50@Waterloo
+  nameClub2: 27@Cedar Rapids
+  G: '77'
+  AB: '292'
+  R: '42'
+  H: '75'
+  H2B: '11'
+  H3B: '1'
+  HR: '5'
+  TB: '103'
+  SH: '5'
+  SB: '4'
+  BB: '36'
+  RBI: '41'
+  AVG: '.257'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Crossley
+  nameFirst: Clarence F.
+  nameClub1: Cedar Rapids
+  G: '106'
+  AB: '359'
+  R: '65'
+  H: '91'
+  H2B: '15'
+  H3B: '3'
+  HR: '2'
+  TB: '118'
+  SH: '3'
+  SB: '14'
+  BB: '59'
+  RBI: '36'
+  AVG: '.254'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Doljack
+  nameFirst: Joseph
+  nameClub1: Waterloo
+  G: '27'
+  AB: '36'
+  R: '5'
+  H: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '13'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  RBI: '4'
+  AVG: '.250'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Stone
+  nameFirst: C. Richard
+  nameClub1: Davenport
+  G: '16'
+  AB: '32'
+  R: '3'
+  H: '8'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '11'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  RBI: '4'
+  AVG: '.250'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Filbert
+  nameFirst: Alex
+  nameClub1: Cedar Rapids
+  G: '127'
+  AB: '471'
+  R: '47'
+  H: '117'
+  H2B: '11'
+  H3B: '5'
+  HR: '1'
+  TB: '141'
+  SH: '7'
+  SB: '12'
+  BB: '22'
+  RBI: '50'
+  AVG: '.248'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: DeCuir
+  nameFirst: Edward
+  nameClub1: 60@Waterloo
+  nameClub2: 50@Omaha/Rock Island
+  G: '110'
+  AB: '402'
+  R: '62'
+  H: '99'
+  H2B: '20'
+  H3B: '3'
+  HR: '2'
+  TB: '131'
+  SH: '5'
+  SB: '9'
+  BB: '31'
+  RBI: '51'
+  AVG: '.246'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Lotz
+  nameFirst: John N.
+  nameClub1: Sioux City
+  G: '49'
+  AB: '98'
+  R: '11'
+  H: '24'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  TB: '30'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  RBI: '5'
+  AVG: '.245'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Falk(owski)
+  nameFirst: Peter
+  nameClub1: Des Moines
+  G: '97'
+  AB: '342'
+  R: '36'
+  H: '83'
+  H2B: '10'
+  H3B: '7'
+  HR: '2'
+  TB: '113'
+  SH: '3'
+  SB: '5'
+  BB: '17'
+  RBI: '37'
+  AVG: '.243'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: James
+  nameFirst: Norman S.
+  nameClub1: Des Moines
+  G: '28'
+  AB: '108'
+  R: '15'
+  H: '26'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  TB: '33'
+  SH: '2'
+  SB: '2'
+  BB: '8'
+  RBI: '11'
+  AVG: '.241'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Cauble
+  nameFirst: Vance
+  nameClub1: Omaha/Rock Island
+  G: '29'
+  AB: '50'
+  R: '1'
+  H: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '14'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  RBI: '7'
+  AVG: '.240'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Luther
+  nameFirst: August
+  nameClub1: Waterloo
+  G: '67'
+  AB: '251'
+  R: '33'
+  H: '60'
+  H2B: '11'
+  H3B: '6'
+  HR: '7'
+  TB: '104'
+  SH: '2'
+  SB: '8'
+  BB: '11'
+  RBI: '37'
+  AVG: '.239'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wolff
+  nameFirst: Roger F.
+  nameClub1: Davenport
+  G: '18'
+  AB: '38'
+  R: '8'
+  H: '9'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '13'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  RBI: '1'
+  AVG: '.237'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wolfe
+  nameFirst: Charles Gale
+  nameClub1: Omaha/Rock Island
+  G: '36'
+  AB: '85'
+  R: '16'
+  H: '20'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  TB: '26'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  RBI: '4'
+  AVG: '.235'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Laskowski
+  nameFirst: Rudolph
+  nameClub1: 23@Davenport
+  nameClub2: 19@Omaha/Rock Island
+  G: '42'
+  AB: '141'
+  R: '20'
+  H: '33'
+  H2B: '7'
+  H3B: '2'
+  HR: '0'
+  TB: '44'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  RBI: '17'
+  AVG: '.234'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Tierney
+  nameFirst: Martin
+  nameClub1: 39@Des Moines
+  nameClub2: 19@Omaha/Rock Island
+  G: '58'
+  AB: '195'
+  R: '29'
+  H: '45'
+  H2B: '5'
+  H3B: '3'
+  HR: '1'
+  TB: '59'
+  SH: '9'
+  SB: '2'
+  BB: '9'
+  RBI: '23'
+  AVG: '.231'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Berger
+  nameFirst: John H.
+  nameClub1: Waterloo
+  G: '60'
+  AB: '173'
+  R: '24'
+  H: '40'
+  H2B: '8'
+  H3B: '0'
+  HR: '1'
+  TB: '51'
+  SH: '3'
+  SB: '2'
+  BB: '35'
+  RBI: '19'
+  AVG: '.231'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Taylor
+  nameFirst: Howard S.
+  nameClub1: Cedar Rapids
+  G: '54'
+  AB: '139'
+  R: '19'
+  H: '32'
+  H2B: '4'
+  H3B: '1'
+  HR: '2'
+  TB: '44'
+  SH: '2'
+  SB: '2'
+  BB: '11'
+  RBI: '23'
+  AVG: '.230'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Shiell
+  nameFirst: Victor W.
+  nameClub1: Waterloo
+  G: '129'
+  AB: '468'
+  R: '64'
+  H: '107'
+  H2B: '22'
+  H3B: '4'
+  HR: '5'
+  TB: '152'
+  SH: '6'
+  SB: '2'
+  BB: '37'
+  RBI: '52'
+  AVG: '.229'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Doljack
+  nameFirst: John F.
+  nameClub1: 11@Waterloo
+  nameClub2: 22@Omaha/Rock Island
+  nameClub3: 25@Des Moines
+  G: '58'
+  AB: '201'
+  R: '27'
+  H: '46'
+  H2B: '8'
+  H3B: '0'
+  HR: '0'
+  TB: '54'
+  SH: '3'
+  SB: '4'
+  BB: '31'
+  RBI: '23'
+  AVG: '.229'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Czarnecki
+  nameFirst: Frank (Morgan)
+  nameClub1: Davenport
+  G: '63'
+  AB: '215'
+  R: '22'
+  H: '49'
+  H2B: '5'
+  H3B: '4'
+  HR: '4'
+  TB: '74'
+  SH: '1'
+  SB: '0'
+  BB: '21'
+  RBI: '34'
+  AVG: '.228'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mahan
+  nameFirst: Joseph
+  nameClub1: Waterloo
+  G: '33'
+  AB: '128'
+  R: '11'
+  H: '29'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '31'
+  SH: '7'
+  SB: '2'
+  BB: '2'
+  RBI: '7'
+  AVG: '.227'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Guinotte
+  nameFirst: Richard
+  nameClub1: Omaha/Rock Island
+  G: '10'
+  AB: '33'
+  R: '1'
+  H: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  RBI: '3'
+  AVG: '.212'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: King
+  nameFirst: Don
+  nameClub1: Waterloo
+  G: '32'
+  AB: '76'
+  R: '10'
+  H: '16'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '21'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  RBI: '9'
+  AVG: '.211'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Richards
+  nameFirst: Verne
+  nameClub1: Waterloo
+  G: '76'
+  AB: '262'
+  R: '24'
+  H: '55'
+  H2B: '8'
+  H3B: '2'
+  HR: '2'
+  TB: '73'
+  SH: '6'
+  SB: '0'
+  BB: '12'
+  RBI: '18'
+  AVG: '.210'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Clements
+  nameFirst: Charles C.
+  nameClub1: Cedar Rapids
+  G: '37'
+  AB: '149'
+  R: '20'
+  H: '30'
+  H2B: '5'
+  H3B: '0'
+  HR: '2'
+  TB: '41'
+  SH: '2'
+  SB: '0'
+  BB: '19'
+  RBI: '15'
+  AVG: '.201'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Grimes
+  nameFirst: Burley
+  nameClub1: Sioux City
+  G: '13'
+  AB: '25'
+  R: '6'
+  H: '5'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  RBI: '1'
+  AVG: '.200'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Smith
+  nameFirst: Henry
+  nameClub1: 48@Waterloo
+  nameClub2: 11@Omaha/Rock Island
+  G: '59'
+  AB: '131'
+  R: '17'
+  H: '26'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '29'
+  SH: '2'
+  SB: '1'
+  BB: '12'
+  RBI: '16'
+  AVG: '.198'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Elston
+  nameFirst: Richard
+  nameClub1: Cedar Rapids
+  G: '32'
+  AB: '77'
+  R: '8'
+  H: '15'
+  H2B: '4'
+  H3B: '2'
+  HR: '0'
+  TB: '23'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  RBI: '10'
+  AVG: '.195'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Graf
+  nameFirst: Kinner
+  nameClub1: Sioux City
+  G: '30'
+  AB: '85'
+  R: '11'
+  H: '16'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  TB: '22'
+  SH: '6'
+  SB: '0'
+  BB: '6'
+  RBI: '7'
+  AVG: '.188'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hodge
+  nameFirst: Loyal E.
+  nameClub1: Omaha/Rock Island
+  G: '12'
+  AB: '43'
+  R: '6'
+  H: '8'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '10'
+  SH: '2'
+  SB: '1'
+  BB: '4'
+  RBI: '1'
+  AVG: '.186'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Papish
+  nameFirst: Frank
+  nameClub1: Omaha/Rock Island
+  G: '29'
+  AB: '81'
+  R: '7'
+  H: '15'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '18'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  RBI: '5'
+  AVG: '.185'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Thesenga
+  nameFirst: Arnold
+  nameClub1: Sioux City
+  G: '16'
+  AB: '38'
+  R: '1'
+  H: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  RBI: '3'
+  AVG: '.184'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Chody
+  nameFirst: Byron
+  nameClub1: Davenport
+  G: '19'
+  AB: '56'
+  R: '4'
+  H: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '5'
+  SB: '0'
+  BB: '3'
+  RBI: '5'
+  AVG: '.179'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Neisler
+  nameFirst: Fred
+  nameClub1: Sioux City
+  G: '31'
+  AB: '103'
+  R: '11'
+  H: '18'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '22'
+  SH: '0'
+  SB: '3'
+  BB: '9'
+  RBI: '12'
+  AVG: '.175'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Albee
+  nameFirst: Harold E.
+  nameClub1: Davenport
+  G: '16'
+  AB: '40'
+  R: '4'
+  H: '7'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  RBI: '3'
+  AVG: '.175'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bonnetti
+  nameFirst: Julio
+  nameClub1: Des Moines
+  G: '37'
+  AB: '92'
+  R: '5'
+  H: '16'
+  H2B: '3'
+  H3B: '3'
+  HR: '0'
+  TB: '25'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  RBI: '8'
+  AVG: '.174'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Schmidt
+  nameFirst: Christian
+  nameClub1: 2@Davenport
+  nameClub2: 35@Sioux City
+  G: '37'
+  AB: '78'
+  R: '9'
+  H: '13'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '18'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  RBI: '6'
+  AVG: '.167'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Rezotko
+  nameFirst: Joe
+  nameClub1: Des Moines
+  G: '19'
+  AB: '50'
+  R: '2'
+  H: '8'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '11'
+  SH: '4'
+  SB: '0'
+  BB: '3'
+  RBI: '1'
+  AVG: '.160'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Kemp
+  nameFirst: Burley J.
+  nameClub1: Sioux City
+  G: '23'
+  AB: '50'
+  R: '4'
+  H: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  RBI: '3'
+  AVG: '.160'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Schroeder
+  nameFirst: Michael H.
+  nameClub1: Davenport
+  G: '12'
+  AB: '19'
+  R: '1'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  RBI: '1'
+  AVG: '.158'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Willoughby
+  nameFirst: Claude W.
+  nameClub1: Davenport
+  G: '35'
+  AB: '84'
+  R: '4'
+  H: '13'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '18'
+  SH: '4'
+  SB: '1'
+  BB: '4'
+  RBI: '6'
+  AVG: '.155'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Phillips
+  nameFirst: Elmer
+  nameClub1: Des Moines
+  G: '10'
+  AB: '26'
+  R: '2'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  RBI: '3'
+  AVG: '.154'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bucklin
+  nameFirst: Luke
+  nameClub1: 11@Des Moines
+  nameClub2: 5@Sioux City
+  G: '16'
+  AB: '40'
+  R: '5'
+  H: '6'
+  H2B: '0'
+  H3B: '1'
+  HR: '2'
+  TB: '14'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  RBI: '4'
+  AVG: '.150'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Larson
+  nameFirst: Berger
+  nameClub1: Davenport
+  G: '15'
+  AB: '41'
+  R: '3'
+  H: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  RBI: '4'
+  AVG: '.146'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Van Fleet
+  nameFirst: Dwight
+  nameClub1: Cedar Rapids
+  G: '33'
+  AB: '76'
+  R: '11'
+  H: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '14'
+  SH: '6'
+  SB: '0'
+  BB: '14'
+  RBI: '9'
+  AVG: '.145'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Corpe
+  nameFirst: Norwood
+  nameClub1: 10@Waterloo
+  nameClub2: 13@Des Moines
+  G: '23'
+  AB: '36'
+  R: '4'
+  H: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '9'
+  SH: '7'
+  SB: '0'
+  BB: '7'
+  RBI: '4'
+  AVG: '.139'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Zahn
+  nameFirst: George
+  nameClub1: Sioux City
+  G: '40'
+  AB: '80'
+  R: '10'
+  H: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '7'
+  SB: '0'
+  BB: '4'
+  RBI: '7'
+  AVG: '.138'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Ludsick
+  nameFirst: John
+  nameClub1: 3@Des Moines
+  nameClub2: 39@Waterloo
+  G: '42'
+  AB: '96'
+  R: '10'
+  H: '13'
+  H2B: '4'
+  H3B: '2'
+  HR: '2'
+  TB: '27'
+  SH: '4'
+  SB: '1'
+  BB: '5'
+  RBI: '12'
+  AVG: '.135'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Prince
+  nameFirst: William T.
+  nameClub1: Davenport
+  G: '30'
+  AB: '67'
+  R: '11'
+  H: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '6'
+  SB: '0'
+  BB: '4'
+  RBI: '4'
+  AVG: '.134'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Schaefer
+  nameFirst: George
+  nameClub1: Davenport
+  G: '12'
+  AB: '15'
+  R: '1'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  SH: '3'
+  SB: '0'
+  BB: '0'
+  RBI: '4'
+  AVG: '.133'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hemenway
+  nameFirst: Emil
+  nameClub1: Waterloo
+  G: '23'
+  AB: '54'
+  R: '4'
+  H: '7'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '9'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  RBI: '1'
+  AVG: '.130'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Gebo
+  nameFirst: Gilbert
+  nameClub1: Des Moines
+  G: '19'
+  AB: '47'
+  R: '5'
+  H: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '4'
+  SB: '0'
+  BB: '0'
+  RBI: '1'
+  AVG: '.128'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Fieber
+  nameFirst: Clarence
+  nameClub1: Sioux City
+  G: '12'
+  AB: '18'
+  R: '2'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  RBI: '0'
+  AVG: '.111'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Drefs
+  nameFirst: Herman
+  nameClub1: Waterloo
+  G: '11'
+  AB: '19'
+  R: '2'
+  H: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  RBI: '2'
+  AVG: '.105'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mueller
+  nameFirst: Clarence F.
+  nameClub1: Cedar Rapids
+  G: '18'
+  AB: '60'
+  R: '4'
+  H: '6'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '9'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  RBI: '6'
+  AVG: '.100'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Stanceu
+  nameFirst: Charles
+  nameClub1: Waterloo
+  G: '22'
+  AB: '50'
+  R: '0'
+  H: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  RBI: '1'
+  AVG: '.100'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Nichols
+  nameFirst: Edward
+  nameClub1: Omaha/Rock Island
+  G: '30'
+  AB: '54'
+  R: '5'
+  H: '5'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '3'
+  SB: '0'
+  BB: '6'
+  RBI: '3'
+  AVG: '.093'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wolcyn
+  nameFirst: Bernard
+  nameClub1: Waterloo
+  G: '10'
+  AB: '34'
+  R: '2'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '1'
+  SB: '1'
+  BB: '5'
+  RBI: '0'
+  AVG: '.088'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bertram
+  nameFirst: Clare
+  nameClub1: Sioux City
+  G: '12'
+  AB: '15'
+  R: '0'
+  H: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '1'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  RBI: '2'
+  AVG: '.067'

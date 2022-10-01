@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Havana
+  phase: regular
+  W: '95'
+  L: '57'
+  T: '1'
+  PCT: '.625'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Miami
+  phase: regular
+  W: '87'
+  L: '62'
+  T: '1'
+  PCT: '.584'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Miami Beach
+  phase: regular
+  W: '81'
+  L: '70'
+  T: '1'
+  PCT: '.536'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  phase: regular
+  W: '81'
+  L: '72'
+  T: '1'
+  PCT: '.529'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: West Palm Beach
+  phase: regular
+  W: '74'
+  L: '78'
+  T: '4'
+  PCT: '.487'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Fort Lauderdale
+  phase: regular
+  W: '65'
+  L: '88'
+  T: '1'
+  PCT: '.425'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  phase: regular
+  W: '62'
+  L: '86'
+  T: '1'
+  PCT: '.419'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Lakeland
+  phase: regular
+  W: '60'
+  L: '92'
+  T: '0'
+  PCT: '.395'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Havana
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Miami Beach
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Miami
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  phase: final
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida International League
+  nameClub: Havana
+  phase: final
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'

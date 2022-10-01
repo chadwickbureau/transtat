@@ -1,0 +1,116 @@
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: regular
+  W: '83'
+  L: '39'
+  PCT: '.680'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: regular
+  W: '73'
+  L: '53'
+  PCT: '.579'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: regular
+  W: '69'
+  L: '56'
+  PCT: '.552'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: regular
+  W: '64'
+  L: '59'
+  PCT: '.520'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Clarksville
+  phase: regular
+  W: '58'
+  L: '67'
+  PCT: '.464'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  phase: regular
+  W: '53'
+  L: '71'
+  PCT: '.427'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: regular
+  W: '52'
+  L: '72'
+  PCT: '.419'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Cairo
+  phase: regular
+  W: '45'
+  L: '80'
+  PCT: '.360'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

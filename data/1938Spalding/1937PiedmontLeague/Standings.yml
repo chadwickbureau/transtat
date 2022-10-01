@@ -1,0 +1,118 @@
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Asheville
+  phase: regular
+  W: '89'
+  L: '50'
+  T: '0'
+  PCT: '.640'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '83'
+  L: '53'
+  T: '1'
+  PCT: '.610'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '75'
+  L: '62'
+  T: '3'
+  PCT: '.547'
+  RANK: '3'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '72'
+  L: '66'
+  T: '0'
+  PCT: '.522'
+  RANK: '4'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Durham
+  phase: regular
+  W: '68'
+  L: '69'
+  T: '0'
+  PCT: '.496'
+  RANK: '5'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Rocky Mount
+  phase: regular
+  W: '67'
+  L: '75'
+  T: '0'
+  PCT: '.472'
+  RANK: '6'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Charlotte
+  phase: regular
+  W: '66'
+  L: '75'
+  T: '2'
+  PCT: '.468'
+  RANK: '7'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Winston-Salem
+  phase: regular
+  W: '35'
+  L: '105'
+  T: '0'
+  PCT: '.250'
+  RANK: '8'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Asheville
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

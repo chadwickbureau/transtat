@@ -1,0 +1,100 @@
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: regular
+  W: '85'
+  L: '44'
+  T: '0'
+  PCT: '.659'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: regular
+  W: '85'
+  L: '45'
+  T: '0'
+  PCT: '.654'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  phase: regular
+  W: '82'
+  L: '48'
+  T: '0'
+  PCT: '.631'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Statesboro
+  phase: regular
+  W: '57'
+  L: '73'
+  T: '0'
+  PCT: '.438'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: regular
+  W: '47'
+  L: '82'
+  T: '1'
+  PCT: '.364'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: regular
+  W: '33'
+  L: '97'
+  T: '1'
+  PCT: '.254'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Statesboro
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

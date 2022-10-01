@@ -1,0 +1,2387 @@
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Staples
+  nameClub1: Grand Forks
+  Pos: 1B
+  G: '17'
+  PO: '157'
+  A: '11'
+  E: '1'
+  DP: '8'
+  PCT: '.994'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Ertman
+  nameClub1: Superior
+  throws: L
+  Pos: 1B
+  G: '60'
+  PO: '540'
+  A: '14'
+  E: '8'
+  DP: '49'
+  PCT: '.986'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Jaros
+  nameClub1: St. Cloud
+  Pos: 1B
+  G: '89'
+  PO: '773'
+  A: '36'
+  E: '14'
+  DP: '41'
+  PCT: '.983'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lindgren
+  nameClub1: St. Cloud
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '111'
+  A: '4'
+  E: '2'
+  DP: '13'
+  PCT: '.983'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Peterson
+  nameClub1: Sioux Falls
+  throws: L
+  Pos: 1B
+  G: '45'
+  PO: '344'
+  A: '24'
+  E: '7'
+  DP: '18'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lambert
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: 1B
+  G: '99'
+  PO: '862'
+  A: '45'
+  E: '19'
+  DP: '74'
+  PCT: '.979'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Chapetta
+  nameClub1: Sioux Falls
+  nameClub2: Grand Forks
+  Pos: 1B
+  G: '76'
+  PO: '641'
+  A: '47'
+  E: '16'
+  DP: '51'
+  PCT: '.977'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Magula
+  nameClub1: Eau Claire
+  Pos: 1B
+  G: '79'
+  PO: '589'
+  A: '37'
+  E: '16'
+  DP: '54'
+  PCT: '.975'
+  TP: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Reilly
+  nameClub1: Duluth
+  Pos: 1B
+  G: '52'
+  PO: '493'
+  A: '24'
+  E: '13'
+  DP: '27'
+  PCT: '.975'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Steele
+  nameClub1: Aberdeen
+  Pos: 1B
+  G: '65'
+  PO: '487'
+  A: '27'
+  E: '13'
+  DP: '49'
+  PCT: '.975'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Pope
+  nameClub1: Aberdeen
+  throws: L
+  Pos: 1B
+  G: '47'
+  PO: '339'
+  A: '8'
+  E: '10'
+  DP: '29'
+  PCT: '.972'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Sarras
+  nameClub1: Superior
+  Pos: 1B
+  G: '14'
+  PO: '68'
+  A: '2'
+  E: '2'
+  DP: '6'
+  PCT: '.972'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Nabarek
+  nameClub1: Sioux Falls
+  throws: L
+  Pos: 1B
+  G: '28'
+  PO: '259'
+  A: '8'
+  E: '8'
+  DP: '11'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hensley
+  nameClub1: Superior
+  Pos: 1B
+  G: '17'
+  PO: '124'
+  A: '5'
+  E: '4'
+  DP: '8'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lakics
+  nameClub1: Duluth
+  nameClub2: Superior
+  Pos: 1B
+  G: '18'
+  PO: '120'
+  A: '4'
+  E: '4'
+  DP: '7'
+  PCT: '.969'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Michalowski
+  nameClub1: Duluth
+  Pos: 1B
+  G: '30'
+  PO: '255'
+  A: '16'
+  E: '10'
+  DP: '14'
+  PCT: '.964'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Kempe
+  nameClub1: Sioux Falls
+  Pos: 1B
+  G: '10'
+  PO: '82'
+  A: '3'
+  E: '4'
+  DP: '4'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wickel
+  nameClub1: Duluth
+  Pos: 1B
+  G: '11'
+  PO: '95'
+  A: '6'
+  E: '6'
+  DP: '3'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Sobek
+  nameClub1: Superior
+  Pos: 2B
+  G: '110'
+  PO: '353'
+  A: '322'
+  E: '25'
+  DP: '61'
+  PCT: '.964'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Albright
+  nameClub1: Aberdeen
+  Pos: 2B
+  G: '72'
+  PO: '227'
+  A: '197'
+  E: '18'
+  DP: '41'
+  PCT: '.959'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: McNeely
+  nameClub1: St. Cloud
+  Pos: 2B
+  G: '84'
+  PO: '200'
+  A: '236'
+  E: '22'
+  DP: '36'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Ebnet
+  nameClub1: Fargo-Moorhead
+  Pos: 2B
+  G: '58'
+  PO: '153'
+  A: '160'
+  E: '16'
+  DP: '30'
+  PCT: '.951'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gibbons
+  nameClub1: Duluth
+  nameClub2: Sioux Falls
+  Pos: 2B
+  G: '24'
+  PO: '57'
+  A: '74'
+  E: '7'
+  DP: '11'
+  PCT: '.949'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Schebell
+  nameClub1: Fargo-Moorhead
+  Pos: 2B
+  G: '35'
+  PO: '73'
+  A: '74'
+  E: '8'
+  DP: '13'
+  PCT: '.948'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: McCabe
+  nameClub1: St. Cloud
+  Pos: 2B
+  G: '21'
+  PO: '40'
+  A: '41'
+  E: '5'
+  DP: '7'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hunt
+  nameClub1: Fargo-Moorhead
+  nameClub2: Grand Forks
+  Pos: 2B
+  G: '22'
+  PO: '53'
+  A: '40'
+  E: '6'
+  DP: '11'
+  PCT: '.939'
+  TP: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wojcik
+  nameClub1: Grand Forks
+  Pos: 2B
+  G: '81'
+  PO: '218'
+  A: '249'
+  E: '33'
+  DP: '42'
+  PCT: '.934'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Horning
+  nameClub1: Sioux Falls
+  Pos: 2B
+  G: '84'
+  PO: '238'
+  A: '225'
+  E: '33'
+  DP: '33'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Oddo
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '90'
+  PO: '223'
+  A: '180'
+  E: '29'
+  DP: '32'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Chapman
+  nameClub1: Grand Forks
+  Pos: 2B
+  G: '12'
+  PO: '23'
+  A: '32'
+  E: '4'
+  DP: '6'
+  PCT: '.932'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hoey
+  nameClub1: Duluth
+  Pos: 2B
+  G: '52'
+  PO: '122'
+  A: '151'
+  E: '27'
+  DP: '24'
+  PCT: '.910'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gamache
+  nameClub1: Duluth
+  Pos: 2B
+  G: '17'
+  PO: '46'
+  A: '41'
+  E: '9'
+  DP: '5'
+  PCT: '.906'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Anderson
+  nameClub1: Duluth
+  Pos: 2B
+  G: '19'
+  PO: '46'
+  A: '54'
+  E: '12'
+  DP: '9'
+  PCT: '.893'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gutzwiller
+  nameClub1: Aberdeen
+  Pos: 2B
+  G: '31'
+  PO: '73'
+  A: '77'
+  E: '19'
+  DP: '15'
+  PCT: '.888'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Swittel
+  nameClub1: Eau Claire
+  Pos: 3B
+  G: '105'
+  PO: '158'
+  A: '217'
+  E: '30'
+  DP: '20'
+  PCT: '.926'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Pigg
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '39'
+  PO: '60'
+  A: '65'
+  E: '11'
+  DP: '12'
+  PCT: '.919'
+  TP: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Simcich
+  nameClub1: Superior
+  Pos: 3B
+  G: '110'
+  PO: '136'
+  A: '186'
+  E: '29'
+  DP: '20'
+  PCT: '.917'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Turck
+  nameClub1: St. Cloud
+  Pos: 3B
+  G: '30'
+  PO: '36'
+  A: '51'
+  E: '8'
+  DP: '4'
+  PCT: '.916'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Mealey
+  nameClub1: Duluth
+  Pos: 3B
+  G: '10'
+  PO: '9'
+  A: '22'
+  E: '3'
+  DP: '2'
+  PCT: '.912'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Harris
+  nameClub1: Duluth
+  Pos: 3B
+  G: '69'
+  PO: '85'
+  A: '134'
+  E: '23'
+  DP: '17'
+  PCT: '.905'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Brovold
+  nameClub1: Fargo-Moorhead
+  Pos: 3B
+  G: '92'
+  PO: '132'
+  A: '210'
+  E: '37'
+  DP: '24'
+  PCT: '.902'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Juelke
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '34'
+  PO: '49'
+  A: '41'
+  E: '10'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Angelevski
+  nameClub1: Aberdeen
+  Pos: 3B
+  G: '113'
+  PO: '161'
+  A: '185'
+  E: '41'
+  DP: '17'
+  PCT: '.894'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hoey
+  nameClub1: Duluth
+  Pos: 3B
+  G: '17'
+  PO: '9'
+  A: '28'
+  E: '5'
+  DP: '1'
+  PCT: '.881'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hunt
+  nameClub1: Fargo-Moorhead
+  nameClub2: Grand Forks
+  Pos: 3B
+  G: '33'
+  PO: '49'
+  A: '69'
+  E: '17'
+  DP: '10'
+  PCT: '.874'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Steffens
+  nameClub1: St. Cloud
+  Pos: 3B
+  G: '63'
+  PO: '72'
+  A: '100'
+  E: '25'
+  DP: '10'
+  PCT: '.873'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Ryan
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '56'
+  PO: '69'
+  A: '94'
+  E: '28'
+  DP: '10'
+  PCT: '.853'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wulff
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '12'
+  PO: '15'
+  A: '18'
+  E: '7'
+  DP: '0'
+  PCT: '.825'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hamel
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '23'
+  PO: '36'
+  A: '45'
+  E: '19'
+  DP: '5'
+  PCT: '.810'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Jaros
+  nameClub1: St. Cloud
+  Pos: 3B
+  G: '13'
+  PO: '21'
+  A: '13'
+  E: '9'
+  DP: '2'
+  PCT: '.791'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gamache
+  nameClub1: Duluth
+  Pos: 3B
+  G: '11'
+  PO: '10'
+  A: '11'
+  E: '6'
+  DP: '0'
+  PCT: '.778'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: McCloskey
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '12'
+  PO: '12'
+  A: '20'
+  E: '13'
+  DP: '1'
+  PCT: '.711'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hoey
+  nameClub1: Duluth
+  Pos: SS
+  G: '24'
+  PO: '46'
+  A: '82'
+  E: '10'
+  DP: '7'
+  PCT: '.928'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Tayoan
+  nameClub1: Fargo-Moorhead
+  Pos: SS
+  G: '104'
+  PO: '211'
+  A: '305'
+  E: '44'
+  DP: '43'
+  PCT: '.921'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Boaz
+  nameClub1: Grand Forks
+  Pos: SS
+  G: '52'
+  PO: '91'
+  A: '157'
+  E: '24'
+  DP: '20'
+  PCT: '.912'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Piesik
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '16'
+  PO: '34'
+  A: '38'
+  E: '7'
+  DP: '6'
+  PCT: '.911'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lewandowski
+  nameClub1: Duluth
+  Pos: SS
+  G: '74'
+  PO: '165'
+  A: '215'
+  E: '38'
+  DP: '35'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Garrison
+  nameClub1: St. Cloud
+  Pos: SS
+  G: '97'
+  PO: '200'
+  A: '266'
+  E: '50'
+  DP: '38'
+  PCT: '.903'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gibbons
+  nameClub1: Duluth
+  nameClub2: Sioux Falls
+  Pos: SS
+  G: '34'
+  PO: '51'
+  A: '74'
+  E: '14'
+  DP: '11'
+  PCT: '.899'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Klein
+  nameFirst: P.
+  nameClub1: Superior
+  Pos: SS
+  G: '100'
+  PO: '192'
+  A: '310'
+  E: '59'
+  DP: '59'
+  PCT: '.895'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Pigg
+  nameClub1: Grand Forks
+  Pos: SS
+  G: '48'
+  PO: '106'
+  A: '132'
+  E: '28'
+  DP: '26'
+  PCT: '.895'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: McCloskey
+  nameClub1: Sioux Falls
+  Pos: SS
+  G: '42'
+  PO: '92'
+  A: '114'
+  E: '27'
+  DP: '12'
+  PCT: '.884'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Harden
+  nameClub1: Eau Claire
+  Pos: SS
+  G: '20'
+  PO: '34'
+  A: '62'
+  E: '14'
+  DP: '9'
+  PCT: '.873'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hensley
+  nameClub1: Superior
+  Pos: SS
+  G: '13'
+  PO: '16'
+  A: '30'
+  E: '7'
+  DP: '4'
+  PCT: '.868'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Szurma
+  nameClub1: Eau Claire
+  Pos: SS
+  G: '78'
+  PO: '142'
+  A: '210'
+  E: '55'
+  DP: '31'
+  PCT: '.865'
+  TP: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Mancuso
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '56'
+  PO: '82'
+  A: '141'
+  E: '45'
+  DP: '20'
+  PCT: '.832'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Carach
+  nameClub1: Sioux Falls
+  Pos: SS
+  G: '17'
+  PO: '42'
+  A: '31'
+  E: '15'
+  DP: '2'
+  PCT: '.830'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Barkovich
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '43'
+  PO: '82'
+  A: '103'
+  E: '41'
+  DP: '15'
+  PCT: '.819'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Shank
+  nameClub1: Duluth
+  Pos: OF
+  G: '11'
+  PO: '28'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lowy
+  nameClub1: Superior
+  Pos: OF
+  G: '10'
+  PO: '16'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Welch
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: OF
+  G: '83'
+  PO: '213'
+  A: '9'
+  E: '2'
+  DP: '3'
+  PCT: '.991'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Linden
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '66'
+  PO: '127'
+  A: '9'
+  E: '2'
+  DP: '2'
+  PCT: '.986'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: King
+  nameFirst: L.
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '33'
+  PO: '53'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Olix
+  nameClub1: Grand Forks
+  nameClub2: Duluth
+  Pos: OF
+  G: '60'
+  PO: '108'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.982'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Siegert
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '70'
+  PO: '148'
+  A: '13'
+  E: '4'
+  DP: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Corcoran
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: OF
+  G: '85'
+  PO: '176'
+  A: '10'
+  E: '5'
+  DP: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Floyd
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '14'
+  PO: '36'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lenhardt
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '37'
+  PO: '64'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gutzwiller
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '41'
+  PO: '62'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Franiak
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '19'
+  PO: '32'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Piesik
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '80'
+  PO: '139'
+  A: '8'
+  E: '5'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Koenig
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '61'
+  PO: '107'
+  A: '10'
+  E: '4'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Katnich
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '48'
+  PO: '79'
+  A: '8'
+  E: '3'
+  DP: '1'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Skurski
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '31'
+  PO: '57'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Harlow
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '97'
+  PO: '171'
+  A: '10'
+  E: '7'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Delsing
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '65'
+  PO: '95'
+  A: '5'
+  E: '4'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Welsch
+  nameClub1: St. Cloud
+  throws: L
+  Pos: OF
+  G: '63'
+  PO: '92'
+  A: '7'
+  E: '4'
+  DP: '1'
+  PCT: '.961'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Davis
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '102'
+  PO: '173'
+  A: '19'
+  E: '8'
+  DP: '1'
+  PCT: '.960'
+  TP: '1'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Bowen
+  nameClub1: Duluth
+  Pos: OF
+  G: '40'
+  PO: '68'
+  A: '4'
+  E: '3'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Schenck
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '92'
+  PO: '140'
+  A: '14'
+  E: '7'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Rollins
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '103'
+  PO: '240'
+  A: '14'
+  E: '12'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Balance
+  nameClub1: Superior
+  Pos: OF
+  G: '100'
+  PO: '174'
+  A: '16'
+  E: '9'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Schadt
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '105'
+  PO: '233'
+  A: '9'
+  E: '12'
+  DP: '3'
+  PCT: '.953'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Dudding
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '11'
+  PO: '20'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Juelke
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '51'
+  PO: '95'
+  A: '3'
+  E: '5'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Turck
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '30'
+  PO: '39'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.951'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gilbert
+  nameClub1: Duluth
+  Pos: OF
+  G: '40'
+  PO: '62'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Vanhoff
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '57'
+  PO: '106'
+  A: '11'
+  E: '7'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Novak
+  nameClub1: Grand Forks
+  throws: L
+  Pos: OF
+  G: '39'
+  PO: '64'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: King
+  nameFirst: D.
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '83'
+  PO: '185'
+  A: '10'
+  E: '12'
+  DP: '3'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hamel
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '78'
+  PO: '140'
+  A: '7'
+  E: '9'
+  DP: '1'
+  PCT: '.942'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Peterson
+  nameClub1: Duluth
+  Pos: OF
+  G: '26'
+  PO: '38'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Fialko
+  nameClub1: Superior
+  throws: L
+  Pos: OF
+  G: '105'
+  PO: '161'
+  A: '12'
+  E: '11'
+  DP: '1'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Terpko
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '51'
+  PO: '76'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gittens
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '102'
+  PO: '157'
+  A: '13'
+  E: '11'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: McCloskey
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '20'
+  PO: '29'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wojciechowski
+  nameClub1: Superior
+  Pos: OF
+  G: '89'
+  PO: '112'
+  A: '8'
+  E: '9'
+  DP: '1'
+  PCT: '.930'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Beck
+  nameClub1: Duluth
+  Pos: OF
+  G: '26'
+  PO: '36'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lakics
+  nameClub1: Duluth
+  nameClub2: Superior
+  Pos: OF
+  G: '63'
+  PO: '108'
+  A: '3'
+  E: '9'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Calovini
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '22'
+  PO: '47'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Richardville
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '10'
+  PO: '9'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Marges
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '10'
+  PO: '16'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Mealey
+  nameClub1: Duluth
+  Pos: OF
+  G: '63'
+  PO: '84'
+  A: '2'
+  E: '11'
+  DP: '3'
+  PCT: '.887'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Murphy
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: OF
+  G: '12'
+  PO: '18'
+  A: '2'
+  E: '4'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gamache
+  nameClub1: Duluth
+  Pos: OF
+  G: '10'
+  PO: '8'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Blaemire
+  nameClub1: Grand Forks
+  Pos: C
+  G: '27'
+  PO: '129'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PB: '1'
+  PCT: '.993'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Fenno
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '57'
+  PO: '261'
+  A: '43'
+  E: '3'
+  DP: '7'
+  PB: '9'
+  PCT: '.990'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Koenig
+  nameClub1: Sioux Falls
+  Pos: C
+  G: '33'
+  PO: '176'
+  A: '24'
+  E: '2'
+  DP: '5'
+  PB: '0'
+  PCT: '.990'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Vrablik
+  nameClub1: Superior
+  Pos: C
+  G: '84'
+  PO: '423'
+  A: '68'
+  E: '8'
+  DP: '7'
+  PB: '2'
+  PCT: '.984'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Janicki
+  nameClub1: Aberdeen
+  Pos: C
+  G: '63'
+  PO: '351'
+  A: '46'
+  E: '7'
+  DP: '6'
+  PB: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Weaver
+  nameClub1: Duluth
+  Pos: C
+  G: '15'
+  PO: '95'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PB: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Edwards
+  nameClub1: Eau Claire
+  Pos: C
+  G: '75'
+  PO: '414'
+  A: '67'
+  E: '10'
+  DP: '16'
+  PB: '0'
+  PCT: '.980'
+  TP: '2'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Staples
+  nameClub1: Grand Forks
+  Pos: C
+  G: '49'
+  PO: '297'
+  A: '32'
+  E: '7'
+  DP: '4'
+  PB: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wheeler
+  nameClub1: St. Cloud
+  Pos: C
+  G: '16'
+  PO: '112'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PB: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Pankovits
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '33'
+  PO: '150'
+  A: '19'
+  E: '5'
+  DP: '2'
+  PB: '2'
+  PCT: '.971'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Webster
+  nameClub1: St. Cloud
+  Pos: C
+  G: '77'
+  PO: '467'
+  A: '57'
+  E: '16'
+  DP: '6'
+  PB: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Sack
+  nameClub1: Duluth
+  Pos: C
+  G: '76'
+  PO: '276'
+  A: '74'
+  E: '11'
+  DP: '6'
+  PB: '5'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Tschudin
+  nameClub1: Grand Forks
+  Pos: C
+  G: '23'
+  PO: '97'
+  A: '13'
+  E: '4'
+  DP: '1'
+  PB: '3'
+  PCT: '.965'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Anderson
+  nameFirst: F.
+  nameClub1: Sioux Falls
+  Pos: C
+  G: '27'
+  PO: '138'
+  A: '15'
+  E: '7'
+  DP: '5'
+  PB: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Ghelf
+  nameClub1: Superior
+  Pos: C
+  G: '26'
+  PO: '110'
+  A: '22'
+  E: '7'
+  DP: '0'
+  PB: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Dobkins
+  nameClub1: Fargo-Moorhead
+  nameClub2: Sioux Falls
+  Pos: C
+  G: '71'
+  PO: '323'
+  A: '31'
+  E: '19'
+  DP: '1'
+  PB: '4'
+  PCT: '.949'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Ponath
+  nameClub1: Grand Forks
+  Pos: C
+  G: '10'
+  PO: '45'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PB: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Kopp
+  nameClub1: St. Cloud
+  Pos: C
+  G: '15'
+  PO: '76'
+  A: '8'
+  E: '5'
+  DP: '0'
+  PB: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Starzinski
+  nameClub1: Aberdeen
+  Pos: C
+  G: '45'
+  PO: '248'
+  A: '24'
+  E: '17'
+  DP: '2'
+  PB: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Schymanski
+  nameClub1: Eau Claire
+  Pos: C
+  G: '56'
+  PO: '215'
+  A: '50'
+  E: '17'
+  DP: '8'
+  PB: '1'
+  PCT: '.940'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Mealey
+  nameClub1: Duluth
+  Pos: C
+  G: '14'
+  PO: '88'
+  A: '11'
+  E: '8'
+  DP: '0'
+  PB: '2'
+  PCT: '.925'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Oldani
+  nameClub1: Aberdeen
+  Pos: C
+  G: '23'
+  PO: '115'
+  A: '29'
+  E: '15'
+  DP: '7'
+  PB: '2'
+  PCT: '.906'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Westergaard
+  nameClub1: Superior
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '57'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Klein
+  nameFirst: J.
+  nameClub1: Superior
+  Pos: P
+  G: '20'
+  PO: '9'
+  A: '36'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Thie
+  nameClub1: Aberdeen
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '20'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: McDowell
+  nameClub1: Aberdeen
+  Pos: P
+  G: '21'
+  PO: '5'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Plamann
+  nameClub1: Duluth
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Kennon
+  nameClub1: Superior
+  Pos: P
+  G: '12'
+  PO: '5'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Lindgren
+  nameClub1: St. Cloud
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Soltis
+  nameClub1: St. Cloud
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Zureick
+  nameClub1: St. Cloud
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wieczorek
+  nameClub1: Grand Forks
+  Pos: P
+  G: '25'
+  PO: '18'
+  A: '43'
+  E: '1'
+  DP: '5'
+  PCT: '.984'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Bender
+  nameClub1: St. Cloud
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '44'
+  E: '1'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hoepner
+  nameClub1: St. Cloud
+  Pos: P
+  G: '13'
+  PO: '6'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Haas
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '52'
+  E: '2'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Rhode
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '24'
+  E: '1'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Anderson
+  nameClub1: Sioux Falls
+  nameClub2: Aberdeen
+  Pos: P
+  G: '32'
+  PO: '9'
+  A: '43'
+  E: '2'
+  DP: '3'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Reigstad
+  nameClub1: St. Cloud
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '24'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Younger
+  nameClub1: Sioux Falls
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '10'
+  A: '55'
+  E: '3'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Derbas
+  nameClub1: Superior
+  nameClub2: Sioux Falls
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Eisenach
+  nameClub1: Eau Claire
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Tucker
+  nameClub1: St. Cloud
+  Pos: P
+  G: '25'
+  PO: '9'
+  A: '42'
+  E: '3'
+  DP: '5'
+  PCT: '.944'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hernandez
+  nameClub1: Aberdeen
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '26'
+  E: '2'
+  DP: '3'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Peterson
+  nameClub1: Sioux Falls
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Johnson
+  nameClub1: Grand Forks
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '24'
+  E: '2'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Brand
+  nameClub1: Superior
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Gamache
+  nameClub1: Duluth
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Novak
+  nameClub1: Grand Forks
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Godfredson
+  nameClub1: Eau Claire
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Johnson
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '51'
+  E: '5'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Remke
+  nameClub1: Duluth
+  Pos: P
+  G: '26'
+  PO: '8'
+  A: '51'
+  E: '5'
+  DP: '4'
+  PCT: '.922'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Laidlaw
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '21'
+  PO: '6'
+  A: '29'
+  E: '3'
+  DP: '0'
+  PCT: '.921'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Moss
+  nameClub1: Duluth
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Jacobs
+  nameClub1: Eau Claire
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Thomas
+  nameClub1: Duluth
+  Pos: P
+  G: '24'
+  PO: '10'
+  A: '32'
+  E: '4'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Haugstad
+  nameClub1: Grand Forks
+  Pos: P
+  G: '30'
+  PO: '10'
+  A: '73'
+  E: '8'
+  DP: '5'
+  PCT: '.912'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Cosgrove
+  nameClub1: St. Cloud
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '26'
+  E: '3'
+  DP: '0'
+  PCT: '.912'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Kmet
+  nameClub1: Eau Claire
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '42'
+  E: '5'
+  DP: '3'
+  PCT: '.906'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Otto
+  nameClub1: Aberdeen
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '25'
+  E: '3'
+  DP: '2'
+  PCT: '.906'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Green
+  nameClub1: Eau Claire
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '23'
+  E: '3'
+  DP: '1'
+  PCT: '.906'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Demyan
+  nameClub1: Superior
+  Pos: P
+  G: '20'
+  PO: '6'
+  A: '23'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Goemer
+  nameClub1: Grand Forks
+  Pos: P
+  G: '23'
+  PO: '11'
+  A: '45'
+  E: '6'
+  DP: '1'
+  PCT: '.903'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: McCarty
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '39'
+  E: '5'
+  DP: '2'
+  PCT: '.902'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Kaczala
+  nameClub1: Superior
+  Pos: P
+  G: '14'
+  PO: '9'
+  A: '28'
+  E: '4'
+  DP: '2'
+  PCT: '.902'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Zolinski
+  nameClub1: Eau Claire
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Joseph
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: King
+  nameFirst: S.
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '29'
+  PO: '12'
+  A: '21'
+  E: '4'
+  DP: '2'
+  PCT: '.892'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Weber
+  nameClub1: Grand Forks
+  Pos: P
+  G: '25'
+  PO: '18'
+  A: '30'
+  E: '6'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Burke
+  nameClub1: Eau Claire
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '24'
+  E: '4'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wagner
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Enright
+  nameClub1: Superior
+  Pos: P
+  G: '33'
+  PO: '7'
+  A: '36'
+  E: '6'
+  DP: '6'
+  PCT: '.878'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Kuhl
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Husse
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '36'
+  E: '7'
+  DP: '1'
+  PCT: '.865'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Homstad
+  nameClub1: Duluth
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Atchley
+  nameClub1: Duluth
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '27'
+  E: '6'
+  DP: '2'
+  PCT: '.842'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Hartman
+  nameClub1: Aberdeen
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '10'
+  E: '4'
+  DP: '1'
+  PCT: '.765'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Nichols
+  nameClub1: Eau Claire
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '21'
+  E: '9'
+  DP: '2'
+  PCT: '.735'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Howe
+  nameClub1: Duluth
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '8'
+  E: '4'
+  DP: '0'
+  PCT: '.714'
+  TP: '0'
+- year: '1946'
+  nameLeague: Northern League
+  nameLast: Wilkie
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '8'
+  E: '5'
+  DP: '1'
+  PCT: '.688'
+  TP: '0'

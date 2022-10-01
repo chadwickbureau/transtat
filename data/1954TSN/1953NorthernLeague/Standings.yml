@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '86'
+  L: '39'
+  T: '1'
+  PCT: '.688'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: regular
+  W: '73'
+  L: '52'
+  T: '1'
+  PCT: '.584'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular
+  W: '66'
+  L: '59'
+  T: '0'
+  PCT: '.528'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular
+  W: '60'
+  L: '63'
+  T: '0'
+  PCT: '.488'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Sioux Falls
+  phase: regular
+  W: '59'
+  L: '65'
+  T: '0'
+  PCT: '.476'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '55'
+  L: '70'
+  T: '0'
+  PCT: '.440'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: regular
+  W: '51'
+  L: '74'
+  T: '0'
+  PCT: '.408'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '49'
+  L: '77'
+  T: '0'
+  PCT: '.389'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

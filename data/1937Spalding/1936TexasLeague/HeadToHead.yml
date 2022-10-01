@@ -1,0 +1,80 @@
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Dallas
+  Houston: '10'
+  Tulsa: '14'
+  Oklahoma City: '9'
+  Fort Worth: '13'
+  San Antonio: '16'
+  Beaumont: '13'
+  Galveston: '18'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Houston
+  Dallas: '12'
+  Tulsa: '13'
+  Oklahoma City: '13'
+  Fort Worth: '8'
+  San Antonio: '13'
+  Beaumont: '8'
+  Galveston: '16'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  Dallas: '8'
+  Houston: '9'
+  Oklahoma City: '12'
+  Fort Worth: '14'
+  San Antonio: '12'
+  Beaumont: '14'
+  Galveston: '11'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  Dallas: '13'
+  Houston: '9'
+  Tulsa: '10'
+  Fort Worth: '14'
+  San Antonio: '11'
+  Beaumont: '12'
+  Galveston: '10'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  Dallas: '9'
+  Houston: '14'
+  Tulsa: '8'
+  Oklahoma City: '8'
+  San Antonio: '13'
+  Beaumont: '13'
+  Galveston: '11'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  Dallas: '6'
+  Houston: '9'
+  Tulsa: '10'
+  Oklahoma City: '11'
+  Fort Worth: '9'
+  Beaumont: '11'
+  Galveston: '17'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  Dallas: '9'
+  Houston: '12'
+  Tulsa: '8'
+  Oklahoma City: '10'
+  Fort Worth: '9'
+  San Antonio: '8'
+  Galveston: '13'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Galveston
+  Dallas: '4'
+  Houston: '6'
+  Tulsa: '11'
+  Oklahoma City: '12'
+  Fort Worth: '11'
+  San Antonio: '4'
+  Beaumont: '9'

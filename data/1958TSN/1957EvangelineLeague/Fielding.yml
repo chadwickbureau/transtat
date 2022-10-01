@@ -1,0 +1,1574 @@
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Robinson
+  nameClub1: Lake Charles
+  nameClub2: Thibodaux
+  Pos: 1B
+  G: '13'
+  PO: '101'
+  A: '6'
+  E: '0'
+  DP: '10'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McElroy
+  nameClub1: Lake Charles
+  Pos: 1B
+  G: '35'
+  PO: '265'
+  A: '17'
+  E: '4'
+  DP: '14'
+  PCT: '.986'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McClish
+  nameClub1: Thibodaux
+  throws: L
+  Pos: 1B
+  G: '65'
+  PO: '557'
+  A: '52'
+  E: '10'
+  DP: '54'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Tucker
+  nameClub1: Alexandria
+  throws: L
+  Pos: 1B
+  G: '59'
+  PO: '477'
+  A: '26'
+  E: '8'
+  DP: '63'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Kimball
+  nameClub1: Thibodaux
+  throws: L
+  Pos: 1B
+  G: '25'
+  PO: '229'
+  A: '16'
+  E: '4'
+  DP: '23'
+  PCT: '.984'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Winter
+  nameClub1: Lake Charles
+  throws: L
+  Pos: 1B
+  G: '66'
+  PO: '512'
+  A: '29'
+  E: '10'
+  DP: '46'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Dixon
+  nameClub1: Lafayette
+  Pos: 1B
+  G: '56'
+  PO: '412'
+  A: '33'
+  E: '8'
+  DP: '39'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: G.
+  nameClub1: Crowley
+  throws: L
+  Pos: 1B
+  G: '57'
+  PO: '479'
+  A: '22'
+  E: '10'
+  DP: '31'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: J.
+  nameClub1: Baton Rouge
+  Pos: 1B
+  G: '58'
+  PO: '451'
+  A: '22'
+  E: '10'
+  DP: '22'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Balcom
+  nameClub1: Crowley
+  throws: L
+  Pos: 1B
+  G: '54'
+  PO: '404'
+  A: '21'
+  E: '9'
+  DP: '43'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Merklen
+  nameClub1: Alexandria
+  throws: L
+  Pos: 1B
+  G: '42'
+  PO: '320'
+  A: '22'
+  E: '8'
+  DP: '42'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Mayer
+  nameClub1: Alexandria
+  throws: L
+  Pos: 1B
+  G: '11'
+  PO: '84'
+  A: '2'
+  E: '4'
+  DP: '12'
+  PCT: '.956'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Dziadura
+  nameClub1: Lafayette
+  Pos: 2B
+  G: '11'
+  PO: '22'
+  A: '27'
+  E: '1'
+  DP: '7'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Didier
+  nameClub1: Baton Rouge
+  Pos: 2B
+  G: '54'
+  PO: '139'
+  A: '139'
+  E: '8'
+  DP: '19'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McElroy
+  nameClub1: Lake Charles
+  Pos: 2B
+  G: '60'
+  PO: '157'
+  A: '129'
+  E: '11'
+  DP: '31'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Travers
+  nameClub1: Crowley
+  Pos: 2B
+  G: '86'
+  PO: '206'
+  A: '201'
+  E: '16'
+  DP: '38'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Semonik
+  nameClub1: Thibodaux
+  Pos: 2B
+  G: '104'
+  PO: '267'
+  A: '311'
+  E: '26'
+  DP: '69'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: G.
+  nameClub1: Lafayette
+  Pos: 2B
+  G: '39'
+  PO: '87'
+  A: '85'
+  E: '11'
+  DP: '20'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McDowell
+  nameClub1: Lake Charles
+  Pos: 2B
+  G: '51'
+  PO: '100'
+  A: '95'
+  E: '13'
+  DP: '18'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Irby
+  nameClub1: Alexandria
+  Pos: 2B
+  G: '108'
+  PO: '288'
+  A: '258'
+  E: '39'
+  DP: '81'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Frulio
+  nameClub1: Crowley
+  Pos: 2B
+  G: '20'
+  PO: '45'
+  A: '39'
+  E: '9'
+  DP: '11'
+  PCT: '.903'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: B.
+  nameClub1: Baton Rouge
+  Pos: 3B
+  G: '14'
+  PO: '19'
+  A: '18'
+  E: '2'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Pearson
+  nameClub1: Lafayette
+  nameClub2: Baton Rouge
+  Pos: 3B
+  G: '44'
+  PO: '32'
+  A: '61'
+  E: '6'
+  DP: '8'
+  PCT: '.939'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Kurtz
+  nameClub1: Thibodaux
+  Pos: 3B
+  G: '13'
+  PO: '11'
+  A: '29'
+  E: '3'
+  DP: '2'
+  PCT: '.930'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McElroy
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '14'
+  PO: '13'
+  A: '22'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Quick
+  nameClub1: Lafayette
+  Pos: 3B
+  G: '21'
+  PO: '22'
+  A: '32'
+  E: '5'
+  DP: '4'
+  PCT: '.915'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Scercy
+  nameClub1: Thibodaux
+  Pos: 3B
+  G: '94'
+  PO: '85'
+  A: '171'
+  E: '24'
+  DP: '17'
+  PCT: '.914'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Cooper
+  nameClub1: Baton Rouge
+  Pos: 3B
+  G: '26'
+  PO: '27'
+  A: '40'
+  E: '7'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Mackenzie
+  nameClub1: Crowley
+  Pos: 3B
+  G: '109'
+  PO: '103'
+  A: '204'
+  E: '33'
+  DP: '15'
+  PCT: '.903'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fanizzi
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '27'
+  PO: '27'
+  A: '35'
+  E: '7'
+  DP: '3'
+  PCT: '.899'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Anthony
+  nameClub1: Alexandria
+  Pos: 3B
+  G: '90'
+  PO: '100'
+  A: '162'
+  E: '31'
+  DP: '20'
+  PCT: '.894'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Millet
+  nameClub1: Alexandria
+  Pos: 3B
+  G: '22'
+  PO: '25'
+  A: '39'
+  E: '9'
+  DP: '4'
+  PCT: '.877'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Cooley
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '27'
+  PO: '28'
+  A: '49'
+  E: '13'
+  DP: '7'
+  PCT: '.856'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Simpson
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '11'
+  PO: '8'
+  A: '18'
+  E: '5'
+  DP: '2'
+  PCT: '.839'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Dworaczyk
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '12'
+  PO: '16'
+  A: '18'
+  E: '8'
+  DP: '3'
+  PCT: '.810'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Tursellino
+  nameClub1: Lake Charles
+  Pos: 3B
+  G: '16'
+  PO: '18'
+  A: '25'
+  E: '11'
+  DP: '1'
+  PCT: '.796'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Cooper
+  nameClub1: Baton Rouge
+  Pos: SS
+  G: '29'
+  PO: '65'
+  A: '79'
+  E: '10'
+  DP: '7'
+  PCT: '.935'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Stechmann
+  nameClub1: Thibodaux
+  Pos: SS
+  G: '103'
+  PO: '167'
+  A: '291'
+  E: '33'
+  DP: '66'
+  PCT: '.933'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Herrscher
+  nameClub1: Crowley
+  Pos: SS
+  G: '96'
+  PO: '175'
+  A: '256'
+  E: '32'
+  DP: '43'
+  PCT: '.931'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Kray
+  nameClub1: Lafayette
+  Pos: SS
+  G: '56'
+  PO: '79'
+  A: '127'
+  E: '17'
+  DP: '26'
+  PCT: '.924'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Davis
+  nameFirst: D.
+  nameClub1: Alexandria
+  Pos: SS
+  G: '104'
+  PO: '107'
+  A: '317'
+  E: '47'
+  DP: '71'
+  PCT: '.916'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Mueller
+  nameClub1: Lake Charles
+  Pos: SS
+  G: '107'
+  PO: '220'
+  A: '287'
+  E: '53'
+  DP: '39'
+  PCT: '.905'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fogleman
+  nameClub1: Baton Rouge
+  Pos: SS
+  G: '30'
+  PO: '45'
+  A: '70'
+  E: '13'
+  DP: '12'
+  PCT: '.898'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Travers
+  nameClub1: Crowley
+  Pos: SS
+  G: '14'
+  PO: '22'
+  A: '36'
+  E: '10'
+  DP: '6'
+  PCT: '.853'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Lary
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '23'
+  PO: '38'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Taylor
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '11'
+  PO: '17'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Busboom
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Gorrie
+  nameClub1: Crowley
+  throws: L
+  Pos: OF
+  G: '110'
+  PO: '275'
+  A: '2'
+  E: '6'
+  DP: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Balcom
+  nameClub1: Crowley
+  throws: L
+  Pos: OF
+  G: '55'
+  PO: '127'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McKee
+  nameClub1: Baton Rouge
+  throws: L
+  Pos: OF
+  G: '51'
+  PO: '110'
+  A: '15'
+  E: '3'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Paul
+  nameClub1: Alexandria
+  Pos: OF
+  G: '108'
+  PO: '226'
+  A: '14'
+  E: '6'
+  DP: '5'
+  PCT: '.976'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Bianchini
+  nameClub1: Alexandria
+  Pos: OF
+  G: '46'
+  PO: '74'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Davis
+  nameFirst: J.
+  nameClub1: Alexandria
+  Pos: OF
+  G: '52'
+  PO: '88'
+  A: '12'
+  E: '3'
+  DP: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Lambert
+  nameClub1: Lafayette
+  Pos: OF
+  G: '46'
+  PO: '60'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Chavis
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '87'
+  PO: '248'
+  A: '7'
+  E: '9'
+  DP: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Simpson
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '66'
+  PO: '76'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Robinson
+  nameClub1: Lake Charles
+  nameClub2: Thibodaux
+  Pos: OF
+  G: '34'
+  PO: '52'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Nisewonger
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '91'
+  PO: '112'
+  A: '10'
+  E: '5'
+  DP: '1'
+  PCT: '.961'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fanizzi
+  nameClub1: Thibodaux
+  nameClub2: Lake Charles
+  Pos: OF
+  G: '75'
+  PO: '156'
+  A: '7'
+  E: '7'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Clifford
+  nameClub1: Crowley
+  Pos: OF
+  G: '39'
+  PO: '67'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.959'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Silvera
+  nameClub1: Crowley
+  Pos: OF
+  G: '14'
+  PO: '19'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: LaNasa
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '57'
+  PO: '76'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Mayer
+  nameClub1: Alexandria
+  throws: L
+  Pos: OF
+  G: '78'
+  PO: '90'
+  A: '8'
+  E: '5'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Morgan
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '57'
+  PO: '104'
+  A: '6'
+  E: '6'
+  DP: '2'
+  PCT: '.948'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Carr
+  nameClub1: Alexandria
+  Pos: OF
+  G: '41'
+  PO: '87'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.948'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Thrash
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '43'
+  PO: '79'
+  A: '10'
+  E: '5'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Horn
+  nameClub1: Crowley
+  Pos: OF
+  G: '106'
+  PO: '180'
+  A: '6'
+  E: '11'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Zimmerman
+  nameClub1: Lafayette
+  throws: L
+  Pos: OF
+  G: '58'
+  PO: '73'
+  A: '6'
+  E: '5'
+  DP: '0'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Adams
+  nameClub1: Lafayette
+  Pos: OF
+  G: '52'
+  PO: '110'
+  A: '4'
+  E: '8'
+  DP: '1'
+  PCT: '.934'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Robison
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '11'
+  PO: '12'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Dworaczyk
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '31'
+  PO: '39'
+  A: '5'
+  E: '4'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hinton
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '14'
+  PO: '19'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Williams
+  nameClub1: Thibodaux
+  Pos: OF
+  G: '76'
+  PO: '162'
+  A: '11'
+  E: '17'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Smith
+  nameFirst: B.
+  nameClub1: Baton Rouge
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Wiest
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '26'
+  PO: '33'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.872'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Pasquale
+  nameClub1: Lake Charles
+  Pos: OF
+  G: '14'
+  PO: '13'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.727'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Schmidt
+  nameClub1: Lafayette
+  Pos: C
+  G: '56'
+  PO: '379'
+  A: '16'
+  E: '5'
+  DP: '3'
+  PB: '9'
+  PCT: '.988'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Millet
+  nameClub1: Alexandria
+  Pos: C
+  G: '22'
+  PO: '96'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PB: '5'
+  PCT: '.982'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Bader
+  nameClub1: Lake Charles
+  Pos: C
+  G: '15'
+  PO: '91'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PB: '3'
+  PCT: '.981'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Dossey
+  nameClub1: Thibodaux
+  Pos: C
+  G: '52'
+  PO: '302'
+  A: '36'
+  E: '7'
+  DP: '2'
+  PB: '8'
+  PCT: '.980'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Johnson
+  nameClub1: Alexandria
+  Pos: C
+  G: '96'
+  PO: '546'
+  A: '56'
+  E: '16'
+  DP: '8'
+  PB: '14'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Silvera
+  nameClub1: Crowley
+  Pos: C
+  G: '86'
+  PO: '465'
+  A: '35'
+  E: '14'
+  DP: '7'
+  PB: '8'
+  PCT: '.973'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Dworaczyk
+  nameClub1: Lake Charles
+  Pos: C
+  G: '27'
+  PO: '157'
+  A: '17'
+  E: '5'
+  DP: '3'
+  PB: '5'
+  PCT: '.972'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Mendoza
+  nameClub1: Baton Rouge
+  Pos: C
+  G: '51'
+  PO: '289'
+  A: '44'
+  E: '12'
+  DP: '2'
+  PB: '10'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Robinson
+  nameClub1: Lake Charles
+  nameClub2: Thibodaux
+  Pos: C
+  G: '50'
+  PO: '290'
+  A: '47'
+  E: '13'
+  DP: '5'
+  PB: '9'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: White
+  nameClub1: Lake Charles
+  Pos: C
+  G: '69'
+  PO: '374'
+  A: '43'
+  E: '18'
+  DP: '5'
+  PB: '8'
+  PCT: '.959'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Zeiss
+  nameClub1: Crowley
+  Pos: C
+  G: '13'
+  PO: '44'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PB: '3'
+  PCT: '.940'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Thrash
+  nameClub1: Thibodaux
+  Pos: C
+  G: '15'
+  PO: '81'
+  A: '7'
+  E: '6'
+  DP: '0'
+  PB: '4'
+  PCT: '.936'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Clifford
+  nameClub1: Crowley
+  Pos: C
+  G: '15'
+  PO: '95'
+  A: '7'
+  E: '10'
+  DP: '2'
+  PB: '5'
+  PCT: '.911'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fitzgerald
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '18'
+  PO: '6'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Davis
+  nameFirst: L.
+  nameClub1: Lafayette
+  Pos: P
+  G: '16'
+  PO: '6'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McFarland
+  nameClub1: Crowley
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '9'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Riesener
+  nameClub1: Alexandria
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '29'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Alderman
+  nameClub1: Crowley
+  Pos: P
+  G: '23'
+  PO: '8'
+  A: '24'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Donnelly
+  nameClub1: Lafayette
+  Pos: P
+  G: '17'
+  PO: '5'
+  A: '23'
+  E: '1'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Tompkins
+  nameClub1: Lake Charles
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '7'
+  A: '45'
+  E: '2'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: DiMuzio
+  nameClub1: Lake Charles
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '9'
+  A: '41'
+  E: '2'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Mudrock
+  nameClub1: Alexandria
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '45'
+  E: '2'
+  DP: '10'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fahnestock
+  nameClub1: Alexandria
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Jurecko
+  nameClub1: Alexandria
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Fuller
+  nameClub1: Crowley
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '33'
+  E: '2'
+  DP: '5'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Pfister
+  nameClub1: Crowley
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '29'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Riska
+  nameClub1: Alexandria
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '26'
+  E: '2'
+  DP: '4'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hicks
+  nameClub1: Crowley
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Sassone
+  nameClub1: Thibodaux
+  Pos: P
+  G: '23'
+  PO: '11'
+  A: '35'
+  E: '3'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Lindsey
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '28'
+  E: '2'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Voegtlen
+  nameClub1: Crowley
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '4'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Donaldson
+  nameClub1: Thibodaux
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '14'
+  A: '36'
+  E: '4'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Stegall
+  nameClub1: Lake Charles
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '31'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Larned
+  nameClub1: Thibodaux
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '31'
+  E: '3'
+  DP: '3'
+  PCT: '.923'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hughes
+  nameClub1: Thibodaux
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Grover
+  nameClub1: Lafayette
+  Pos: P
+  G: '13'
+  PO: '6'
+  A: '18'
+  E: '2'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Buckner
+  nameClub1: Thibodaux
+  nameClub2: Baton Rouge
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Pleis
+  nameClub1: Lafayette
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hartsoe
+  nameClub1: Alexandria
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McCarthy
+  nameClub1: Alexandria
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Wallace
+  nameClub1: Baton Rouge
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Burton
+  nameClub1: Alexandria
+  Pos: P
+  G: '17'
+  PO: '5'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Kirby
+  nameClub1: Lake Charles
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Webrand
+  nameClub1: Crowley
+  Pos: P
+  G: '27'
+  PO: '3'
+  A: '23'
+  E: '3'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Rudenacker
+  nameClub1: Thibodaux
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '38'
+  E: '6'
+  DP: '3'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Moore
+  nameClub1: Lafayette
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: McArdle
+  nameClub1: Baton Rouge
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Gorrondona
+  nameClub1: Lake Charles
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '28'
+  E: '7'
+  DP: '2'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Altomare
+  nameClub1: Thibodaux
+  nameClub2: Baton Rouge
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '12'
+  E: '3'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Hickman
+  nameClub1: Lafayette
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameLast: Makay
+  nameClub1: Lake Charles
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '11'
+  E: '3'
+  DP: '1'
+  PCT: '.813'
+  TP: '0'

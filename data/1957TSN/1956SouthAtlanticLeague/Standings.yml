@@ -1,0 +1,118 @@
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular
+  W: '87'
+  L: '53'
+  T: '0'
+  PCT: '.621'
+  RANK: '1'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '2'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '1'
+  PCT: '.564'
+  RANK: '2'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '0'
+  PCT: '.529'
+  RANK: '4'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular
+  W: '64'
+  L: '76'
+  T: '1'
+  PCT: '.457'
+  RANK: '5'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular
+  W: '64'
+  L: '76'
+  T: '0'
+  PCT: '.457'
+  RANK: '5'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular
+  W: '60'
+  L: '80'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Montgomery/Knoxville
+  phase: regular
+  W: '53'
+  L: '87'
+  T: '0'
+  PCT: '.379'
+  RANK: '8'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '1'
+  RANK: '2'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '0'
+  RANK: '3'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '1'
+  RANK: '4'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: final
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: final
+  W: '0'
+  L: '2'
+  RANK: '2'

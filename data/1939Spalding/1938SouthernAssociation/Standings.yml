@@ -1,0 +1,120 @@
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular
+  W: '91'
+  L: '62'
+  T: '5'
+  PCT: '.595'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular
+  W: '84'
+  L: '66'
+  T: '4'
+  PCT: '.560'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular
+  W: '79'
+  L: '70'
+  T: '5'
+  PCT: '.530'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular
+  W: '77'
+  L: '75'
+  T: '3'
+  PCT: '.507'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular
+  W: '75'
+  L: '76'
+  T: '3'
+  PCT: '.497'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular
+  W: '73'
+  L: '79'
+  T: '4'
+  PCT: '.480'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular
+  W: '66'
+  L: '85'
+  T: '2'
+  PCT: '.437'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Knoxville
+  phase: regular
+  W: '59'
+  L: '91'
+  T: '4'
+  PCT: '.393'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: final
+  W: '4'
+  L: '1'
+  T: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: final
+  W: '1'
+  L: '4'
+  T: '1'
+  RANK: '2'

@@ -1,0 +1,48 @@
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  W: '55'
+  L: '47'
+  T: '0'
+  PCT: '.539'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  W: '52'
+  L: '48'
+  T: '1'
+  PCT: '.520'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Veracruz
+  W: '52'
+  L: '48'
+  T: '3'
+  PCT: '.520'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  W: '53'
+  L: '49'
+  T: '3'
+  PCT: '.520'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  W: '46'
+  L: '54'
+  T: '0'
+  PCT: '.460'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  W: '44'
+  L: '56'
+  T: '1'
+  PCT: '.440'
+  RANK: '6'

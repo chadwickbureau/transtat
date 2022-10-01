@@ -1,0 +1,3035 @@
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Rice
+  nameFirst: Harry
+  nameClub1: Evergreen
+  G: '31'
+  AB: '89'
+  R: '19'
+  H: '39'
+  H2B: '5'
+  H3B: '1'
+  HR: '2'
+  TB: '52'
+  SH: '1'
+  SB: '0'
+  BB: '20'
+  HP: '1'
+  RBI: '13'
+  SO: '2'
+  AVG: '.438'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Titcomb
+  nameFirst: James
+  nameClub1: Panama City
+  G: '12'
+  AB: '25'
+  R: '4'
+  H: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '8'
+  SO: '3'
+  AVG: '.400'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Lindsey
+  nameFirst: Eldon
+  nameClub1: Troy
+  G: '13'
+  AB: '37'
+  R: '4'
+  H: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '4'
+  SO: '10'
+  AVG: '.378'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Summerhill
+  nameFirst: Steve
+  nameClub1: Union Springs
+  G: '127'
+  AB: '517'
+  R: '89'
+  H: '187'
+  H2B: '33'
+  H3B: '12'
+  HR: '4'
+  TB: '256'
+  SH: '8'
+  SB: '21'
+  BB: '44'
+  HP: '2'
+  RBI: '108'
+  SO: '40'
+  AVG: '.362'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Ray
+  nameFirst: Lloyd
+  nameClub1: Evergreen
+  G: '18'
+  AB: '39'
+  R: '3'
+  H: '14'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '19'
+  SH: '0'
+  SB: '2'
+  BB: '2'
+  HP: '0'
+  RBI: '6'
+  SO: '5'
+  AVG: '.360'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Wingard
+  nameFirst: Ernie
+  nameClub1: Dothan
+  G: '128'
+  AB: '499'
+  R: '96'
+  H: '178'
+  H2B: '25'
+  H3B: '9'
+  HR: '10'
+  TB: '251'
+  SH: '5'
+  SB: '11'
+  BB: '74'
+  HP: '1'
+  RBI: '10'
+  SO: '47'
+  AVG: '.357'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Craven
+  nameFirst: Robert
+  nameClub1: Union Springs
+  G: '14'
+  AB: '52'
+  R: '8'
+  H: '18'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '24'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '8'
+  SO: '4'
+  AVG: '.346'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Owens
+  nameFirst: Broughton
+  nameClub1: Troy
+  G: '92'
+  AB: '371'
+  R: '98'
+  H: '128'
+  H2B: '15'
+  H3B: '10'
+  HR: '4'
+  TB: '175'
+  SH: '9'
+  SB: '47'
+  BB: '36'
+  HP: '9'
+  RBI: '57'
+  SO: '22'
+  AVG: '.345'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Cudillo
+  nameFirst: Joseph
+  nameClub1: 50@Evergreen
+  nameClub2: 34@Andalusia
+  G: '84'
+  AB: '326'
+  R: '71'
+  H: '109'
+  H2B: '15'
+  H3B: '8'
+  HR: '2'
+  TB: '146'
+  SH: '5'
+  SB: '6'
+  BB: '37'
+  HP: '6'
+  RBI: '42'
+  SO: '63'
+  AVG: '.334'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Rios
+  nameFirst: Felix
+  nameClub1: Dothan
+  G: '127'
+  AB: '511'
+  R: '105'
+  H: '170'
+  H2B: '22'
+  H3B: '10'
+  HR: '10'
+  TB: '242'
+  SH: '4'
+  SB: '17'
+  BB: '69'
+  HP: '2'
+  RBI: '85'
+  SO: '39'
+  AVG: '.333'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Allen
+  nameFirst: William
+  nameClub1: Panama City
+  G: '22'
+  AB: '57'
+  R: '10'
+  H: '19'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  TB: '26'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '15'
+  SO: '7'
+  AVG: '.333'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Trapp
+  nameFirst: Al
+  nameClub1: 17@Dothan
+  nameClub2: 2@Union Springs
+  nameClub3: 2@Evergreen
+  G: '21'
+  AB: '45'
+  R: '8'
+  H: '15'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '18'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '6'
+  SO: '10'
+  AVG: '.333'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Zabala
+  nameFirst: Adrian
+  nameClub1: Panama City
+  G: '41'
+  AB: '102'
+  R: '16'
+  H: '33'
+  H2B: '6'
+  H3B: '2'
+  HR: '0'
+  TB: '43'
+  SH: '3'
+  SB: '0'
+  BB: '14'
+  HP: '0'
+  RBI: '14'
+  SO: '21'
+  AVG: '.324'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Allen
+  nameFirst: Miner
+  nameClub1: Panama City
+  G: '16'
+  AB: '65'
+  R: '3'
+  H: '21'
+  H2B: '9'
+  H3B: '1'
+  HR: '0'
+  TB: '32'
+  SH: '0'
+  SB: '2'
+  BB: '4'
+  HP: '0'
+  RBI: '14'
+  SO: '12'
+  AVG: '.323'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bryan
+  nameFirst: Eddie P.
+  nameClub1: 8@Union Springs
+  nameClub2: 5@Evergreen
+  G: '13'
+  AB: '44'
+  R: '3'
+  H: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '17'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '2'
+  RBI: '7'
+  SO: '6'
+  AVG: '.319'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Jones
+  nameFirst: Robert G.
+  nameClub1: Union Springs
+  G: '122'
+  AB: '491'
+  R: '98'
+  H: '156'
+  H2B: '25'
+  H3B: '6'
+  HR: '9'
+  TB: '220'
+  SH: '12'
+  SB: '29'
+  BB: '58'
+  HP: '1'
+  RBI: '78'
+  SO: '40'
+  AVG: '.318'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Gorman
+  nameFirst: Howard
+  nameClub1: Andalusia
+  G: '73'
+  AB: '255'
+  R: '59'
+  H: '81'
+  H2B: '6'
+  H3B: '3'
+  HR: '3'
+  TB: '102'
+  SH: '4'
+  SB: '36'
+  BB: '66'
+  HP: '4'
+  RBI: '28'
+  SO: '22'
+  AVG: '.318'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Middlebrooks
+  nameFirst: Bruce
+  nameClub1: Troy
+  G: '103'
+  AB: '378'
+  R: '61'
+  H: '120'
+  H2B: '19'
+  H3B: '3'
+  HR: '12'
+  TB: '181'
+  SH: '6'
+  SB: '13'
+  BB: '47'
+  HP: '4'
+  RBI: '68'
+  SO: '52'
+  AVG: '.317'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: A. Woodrow
+  nameClub1: Panama City
+  G: '56'
+  AB: '230'
+  R: '31'
+  H: '72'
+  H2B: '10'
+  H3B: '5'
+  HR: '3'
+  TB: '101'
+  SH: '2'
+  SB: '8'
+  BB: '16'
+  HP: '2'
+  RBI: '27'
+  SO: '24'
+  AVG: '.313'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Smathers
+  nameFirst: Al
+  nameClub1: Dothan
+  G: '74'
+  AB: '279'
+  R: '56'
+  H: '87'
+  H2B: '12'
+  H3B: '10'
+  HR: '13'
+  TB: '158'
+  SH: '1'
+  SB: '1'
+  BB: '48'
+  HP: '2'
+  RBI: '71'
+  SO: '50'
+  AVG: '.312'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Waldron
+  nameFirst: George
+  nameClub1: Union Springs
+  G: '123'
+  AB: '490'
+  R: '68'
+  H: '151'
+  H2B: '29'
+  H3B: '4'
+  HR: '13'
+  TB: '227'
+  SH: '5'
+  SB: '12'
+  BB: '28'
+  HP: '3'
+  RBI: '84'
+  SO: '69'
+  AVG: '.308'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Gunnells
+  nameFirst: Luther
+  nameClub1: Andalusia
+  G: '68'
+  AB: '273'
+  R: '63'
+  H: '84'
+  H2B: '15'
+  H3B: '4'
+  HR: '2'
+  TB: '113'
+  SH: '6'
+  SB: '28'
+  BB: '33'
+  HP: '4'
+  RBI: '27'
+  SO: '16'
+  AVG: '.308'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Decker
+  nameFirst: Robert
+  nameClub1: Dothan
+  G: '89'
+  AB: '382'
+  R: '63'
+  H: '116'
+  H2B: '11'
+  H3B: '9'
+  HR: '2'
+  TB: '151'
+  SH: '5'
+  SB: '12'
+  BB: '40'
+  HP: '0'
+  RBI: '43'
+  SO: '29'
+  AVG: '.304'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hodgins
+  nameFirst: William
+  nameClub1: Troy
+  G: '112'
+  AB: '459'
+  R: '112'
+  H: '139'
+  H2B: '19'
+  H3B: '3'
+  HR: '3'
+  TB: '173'
+  SH: '6'
+  SB: '23'
+  BB: '71'
+  HP: '3'
+  RBI: '30'
+  SO: '52'
+  AVG: '.303'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Serafine
+  nameFirst: Melvin
+  nameClub1: Union Springs
+  G: '118'
+  AB: '452'
+  R: '95'
+  H: '136'
+  H2B: '37'
+  H3B: '4'
+  HR: '11'
+  TB: '214'
+  SH: '8'
+  SB: '6'
+  BB: '67'
+  HP: '4'
+  RBI: '67'
+  SO: '68'
+  AVG: '.301'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Spurlock
+  nameFirst: John
+  nameClub1: Evergreen
+  G: '128'
+  AB: '507'
+  R: '71'
+  H: '152'
+  H2B: '24'
+  H3B: '13'
+  HR: '5'
+  TB: '217'
+  SH: '5'
+  SB: '6'
+  BB: '38'
+  HP: '5'
+  RBI: '66'
+  SO: '71'
+  AVG: '.300'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Langston
+  nameFirst: E.B.
+  nameClub1: Andalusia
+  G: '66'
+  AB: '260'
+  R: '40'
+  H: '77'
+  H2B: '13'
+  H3B: '3'
+  HR: '4'
+  TB: '108'
+  SH: '2'
+  SB: '8'
+  BB: '7'
+  HP: '2'
+  RBI: '50'
+  SO: '23'
+  AVG: '.296'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Madick
+  nameFirst: Michael
+  nameClub1: Union Springs
+  G: '38'
+  AB: '159'
+  R: '16'
+  H: '47'
+  H2B: '4'
+  H3B: '4'
+  HR: '1'
+  TB: '62'
+  SH: '0'
+  SB: '5'
+  BB: '6'
+  HP: '2'
+  RBI: '26'
+  SO: '17'
+  AVG: '.296'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Dick
+  nameFirst: F.
+  nameClub1: 24@Andalusia
+  nameClub2: 67@Evergreen
+  G: '91'
+  AB: '272'
+  R: '33'
+  H: '80'
+  H2B: '20'
+  H3B: '2'
+  HR: '1'
+  TB: '107'
+  SH: '4'
+  SB: '8'
+  BB: '56'
+  HP: '5'
+  RBI: '45'
+  SO: '49'
+  AVG: '.294'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Dietz
+  nameFirst: Joseph
+  nameClub1: Evergreen
+  G: '16'
+  AB: '34'
+  R: '5'
+  H: '10'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '13'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '4'
+  SO: '7'
+  AVG: '.294'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Pittman
+  nameFirst: Claude
+  nameClub1: 34@Andalusia
+  nameClub2: 52@Dothan
+  G: '86'
+  AB: '301'
+  R: '60'
+  H: '88'
+  H2B: '12'
+  H3B: '6'
+  HR: '0'
+  TB: '112'
+  SH: '3'
+  SB: '27'
+  BB: '66'
+  HP: '6'
+  RBI: '46'
+  SO: '39'
+  AVG: '.292'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hilcher
+  nameFirst: Charles
+  nameClub1: 33@Troy
+  nameClub2: 51@Evergreen
+  G: '84'
+  AB: '363'
+  R: '55'
+  H: '105'
+  H2B: '16'
+  H3B: '4'
+  HR: '10'
+  TB: '159'
+  SH: '6'
+  SB: '5'
+  BB: '8'
+  HP: '4'
+  RBI: '68'
+  SO: '34'
+  AVG: '.289'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Yaryan
+  nameFirst: C. Everett
+  nameClub1: Andalusia
+  G: '116'
+  AB: '375'
+  R: '38'
+  H: '108'
+  H2B: '19'
+  H3B: '2'
+  HR: '5'
+  TB: '146'
+  SH: '7'
+  SB: '0'
+  BB: '48'
+  HP: '2'
+  RBI: '78'
+  SO: '23'
+  AVG: '.288'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Howard
+  nameFirst: Jack
+  nameClub1: Panama City
+  G: '72'
+  AB: '307'
+  R: '43'
+  H: '88'
+  H2B: '20'
+  H3B: '3'
+  HR: '2'
+  TB: '120'
+  SH: '6'
+  SB: '5'
+  BB: '32'
+  HP: '3'
+  RBI: '31'
+  SO: '37'
+  AVG: '.287'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Finley
+  nameFirst: Dewey
+  nameClub1: Troy
+  G: '84'
+  AB: '350'
+  R: '57'
+  H: '100'
+  H2B: '11'
+  H3B: '2'
+  HR: '0'
+  TB: '115'
+  SH: '4'
+  SB: '16'
+  BB: '43'
+  HP: '1'
+  RBI: '48'
+  SO: '28'
+  AVG: '.286'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Pare
+  nameFirst: John G.
+  nameClub1: Dothan
+  G: '17'
+  AB: '49'
+  R: '7'
+  H: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '0'
+  SB: '1'
+  BB: '14'
+  HP: '0'
+  RBI: '10'
+  SO: '7'
+  AVG: '.286'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameFirst: Harvey
+  nameClub1: Panama City
+  G: '95'
+  AB: '369'
+  R: '66'
+  H: '105'
+  H2B: '13'
+  H3B: '6'
+  HR: '7'
+  TB: '151'
+  SH: '4'
+  SB: '7'
+  BB: '53'
+  HP: '3'
+  RBI: '51'
+  SO: '40'
+  AVG: '.285'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Humphries
+  nameFirst: Roy
+  nameClub1: Andalusia
+  G: '96'
+  AB: '319'
+  R: '52'
+  H: '91'
+  H2B: '15'
+  H3B: '4'
+  HR: '6'
+  TB: '132'
+  SH: '7'
+  SB: '16'
+  BB: '32'
+  HP: '4'
+  RBI: '40'
+  SO: '48'
+  AVG: '.285'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Adams
+  nameFirst: Thomas
+  nameClub1: Troy
+  G: '39'
+  AB: '95'
+  R: '9'
+  H: '27'
+  H2B: '5'
+  H3B: '2'
+  HR: '0'
+  TB: '36'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '10'
+  SO: '20'
+  AVG: '.284'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Mackey
+  nameFirst: Edward
+  nameClub1: Andalusia
+  G: '106'
+  AB: '360'
+  R: '57'
+  H: '102'
+  H2B: '19'
+  H3B: '4'
+  HR: '11'
+  TB: '162'
+  SH: '3'
+  SB: '20'
+  BB: '44'
+  HP: '13'
+  RBI: '55'
+  SO: '67'
+  AVG: '.283'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McDuffie
+  nameFirst: Ralph
+  nameClub1: 76@Andalusia
+  nameClub2: 32@Evergreen
+  G: '108'
+  AB: '397'
+  R: '60'
+  H: '112'
+  H2B: '25'
+  H3B: '0'
+  HR: '10'
+  TB: '167'
+  SH: '0'
+  SB: '12'
+  BB: '61'
+  HP: '4'
+  RBI: '72'
+  SO: '83'
+  AVG: '.282'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Buscher
+  nameFirst: Francis
+  nameClub1: Panama City
+  G: '35'
+  AB: '129'
+  R: '28'
+  H: '36'
+  H2B: '6'
+  H3B: '1'
+  HR: '2'
+  TB: '50'
+  SH: '4'
+  SB: '4'
+  BB: '14'
+  HP: '1'
+  RBI: '13'
+  SO: '12'
+  AVG: '.279'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hust
+  nameFirst: Wilbur
+  nameClub1: Dothan
+  G: '125'
+  AB: '488'
+  R: '83'
+  H: '135'
+  H2B: '30'
+  H3B: '4'
+  HR: '4'
+  TB: '185'
+  SH: '10'
+  SB: '22'
+  BB: '63'
+  HP: '0'
+  RBI: '70'
+  SO: '69'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Trucks
+  nameFirst: Warren
+  nameClub1: Panama City
+  G: '14'
+  AB: '47'
+  R: '9'
+  H: '13'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '17'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '5'
+  SO: '8'
+  AVG: '.277'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameFirst: W.H.
+  nameClub1: Evergreen
+  G: '17'
+  AB: '58'
+  R: '9'
+  H: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '3'
+  TB: '27'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '8'
+  SO: '7'
+  AVG: '.276'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Leatherwood
+  nameFirst: Gilbert
+  nameClub1: Troy
+  G: '103'
+  AB: '404'
+  R: '58'
+  H: '111'
+  H2B: '17'
+  H3B: '2'
+  HR: '14'
+  TB: '174'
+  SH: '2'
+  SB: '4'
+  BB: '26'
+  HP: '3'
+  RBI: '59'
+  SO: '52'
+  AVG: '.275'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Babbitt
+  nameFirst: Eugene
+  nameClub1: Troy
+  G: '53'
+  AB: '121'
+  R: '15'
+  H: '33'
+  H2B: '4'
+  H3B: '2'
+  HR: '2'
+  TB: '47'
+  SH: '2'
+  SB: '1'
+  BB: '11'
+  HP: '1'
+  RBI: '20'
+  SO: '18'
+  AVG: '.273'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Gentry
+  nameFirst: W. Ed.
+  nameClub1: 5@Evergreen
+  nameClub2: 21@Panama City
+  G: '26'
+  AB: '99'
+  R: '10'
+  H: '27'
+  H2B: '4'
+  H3B: '3'
+  HR: '1'
+  TB: '40'
+  SH: '2'
+  SB: '4'
+  BB: '10'
+  HP: '0'
+  RBI: '16'
+  SO: '13'
+  AVG: '.273'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Laskowski
+  nameFirst: Walter
+  nameClub1: Panama City
+  G: '28'
+  AB: '77'
+  R: '14'
+  H: '21'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '25'
+  SH: '0'
+  SB: '2'
+  BB: '24'
+  HP: '0'
+  RBI: '14'
+  SO: '12'
+  AVG: '.273'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Knapp
+  nameFirst: Roy K.
+  nameClub1: 35@Dothan
+  nameClub2: 3@Evergreen
+  G: '38'
+  AB: '103'
+  R: '31'
+  H: '28'
+  H2B: '5'
+  H3B: '3'
+  HR: '0'
+  TB: '39'
+  SH: '2'
+  SB: '9'
+  BB: '18'
+  HP: '0'
+  RBI: '10'
+  SO: '15'
+  AVG: '.272'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Harris
+  nameFirst: John
+  nameClub1: Evergreen
+  G: '122'
+  AB: '493'
+  R: '71'
+  H: '133'
+  H2B: '28'
+  H3B: '3'
+  HR: '3'
+  TB: '176'
+  SH: '7'
+  SB: '21'
+  BB: '47'
+  HP: '4'
+  RBI: '70'
+  SO: '49'
+  AVG: '.270'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Cox
+  nameFirst: James H.
+  nameClub1: Dothan
+  G: '125'
+  AB: '481'
+  R: '96'
+  H: '130'
+  H2B: '19'
+  H3B: '8'
+  HR: '7'
+  TB: '186'
+  SH: '0'
+  SB: '17'
+  BB: '84'
+  HP: '11'
+  RBI: '75'
+  SO: '58'
+  AVG: '.270'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Mosley
+  nameFirst: Oscar
+  nameClub1: Andalusia
+  G: '126'
+  AB: '481'
+  R: '62'
+  H: '130'
+  H2B: '24'
+  H3B: '3'
+  HR: '2'
+  TB: '166'
+  SH: '10'
+  SB: '30'
+  BB: '49'
+  HP: '3'
+  RBI: '41'
+  SO: '55'
+  AVG: '.270'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Dinges
+  nameFirst: Vance
+  nameClub1: 61@Andalusia
+  nameClub2: 21@Evergreen
+  G: '82'
+  AB: '299'
+  R: '42'
+  H: '80'
+  H2B: '11'
+  H3B: '0'
+  HR: '1'
+  TB: '94'
+  SH: '3'
+  SB: '14'
+  BB: '38'
+  HP: '2'
+  RBI: '27'
+  SO: '56'
+  AVG: '.268'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Knapp
+  nameFirst: Charles O.
+  nameClub1: Andalusia
+  G: '15'
+  AB: '56'
+  R: '6'
+  H: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '17'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '4'
+  SO: '5'
+  AVG: '.268'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Fehrenbacher
+  nameFirst: Harold
+  nameClub1: Troy
+  G: '112'
+  AB: '402'
+  R: '78'
+  H: '107'
+  H2B: '13'
+  H3B: '4'
+  HR: '9'
+  TB: '155'
+  SH: '6'
+  SB: '6'
+  BB: '73'
+  HP: '5'
+  RBI: '81'
+  SO: '32'
+  AVG: '.266'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Soltis
+  nameFirst: Carmen
+  nameClub1: 90@Evergreen
+  nameClub2: 40@Andalusia
+  G: '130'
+  AB: '503'
+  R: '102'
+  H: '133'
+  H2B: '21'
+  H3B: '11'
+  HR: '4'
+  TB: '188'
+  SH: '4'
+  SB: '29'
+  BB: '84'
+  HP: '2'
+  RBI: '58'
+  SO: '59'
+  AVG: '.264'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Casey
+  nameFirst: William
+  nameClub1: Dothan
+  G: '113'
+  AB: '424'
+  R: '58'
+  H: '112'
+  H2B: '20'
+  H3B: '9'
+  HR: '3'
+  TB: '159'
+  SH: '4'
+  SB: '3'
+  BB: '56'
+  HP: '1'
+  RBI: '7'
+  SO: '9'
+  AVG: '.264'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Marrett
+  nameFirst: E. J.
+  nameClub1: Troy
+  G: '17'
+  AB: '61'
+  R: '12'
+  H: '16'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  TB: '24'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '3'
+  RBI: '7'
+  SO: '92'
+  AVG: '.262'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Snell
+  nameFirst: Dan
+  nameClub1: Troy
+  G: '131'
+  AB: '544'
+  R: '74'
+  H: '142'
+  H2B: '27'
+  H3B: '6'
+  HR: '2'
+  TB: '187'
+  SH: '10'
+  SB: '16'
+  BB: '37'
+  HP: '4'
+  RBI: '69'
+  SO: '76'
+  AVG: '.261'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Stewart
+  nameFirst: Russell
+  nameClub1: Panama City
+  G: '127'
+  AB: '491'
+  R: '77'
+  H: '128'
+  H2B: '27'
+  H3B: '4'
+  HR: '1'
+  TB: '166'
+  SH: '15'
+  SB: '13'
+  BB: '59'
+  HP: '0'
+  RBI: '70'
+  SO: '51'
+  AVG: '.261'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Austin
+  nameFirst: Forrest
+  nameClub1: Panama City
+  G: '91'
+  AB: '262'
+  R: '38'
+  H: '68'
+  H2B: '17'
+  H3B: '5'
+  HR: '6'
+  TB: '113'
+  SH: '2'
+  SB: '3'
+  BB: '32'
+  HP: '5'
+  RBI: '54'
+  SO: '9'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Newcomb
+  nameFirst: Walter
+  nameClub1: Panama City
+  G: '36'
+  AB: '146'
+  R: '19'
+  H: '38'
+  H2B: '4'
+  H3B: '0'
+  HR: '2'
+  TB: '48'
+  SH: '0'
+  SB: '10'
+  BB: '19'
+  HP: '0'
+  RBI: '25'
+  SO: '8'
+  AVG: '.260'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hancock
+  nameFirst: George
+  nameClub1: Dothan
+  G: '10'
+  AB: '31'
+  R: '8'
+  H: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  TB: '11'
+  SH: '2'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '27'
+  AVG: '.258'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Harber
+  nameFirst: Edward
+  nameClub1: Panama City
+  G: '122'
+  AB: '486'
+  R: '61'
+  H: '125'
+  H2B: '22'
+  H3B: '2'
+  HR: '0'
+  TB: '151'
+  SH: '7'
+  SB: '8'
+  BB: '39'
+  HP: '1'
+  RBI: '45'
+  SO: '92'
+  AVG: '.257'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Miller
+  nameFirst: James D.
+  nameClub1: Union Springs
+  G: '108'
+  AB: '405'
+  R: '106'
+  H: '104'
+  H2B: '20'
+  H3B: '5'
+  HR: '1'
+  TB: '137'
+  SH: '9'
+  SB: '36'
+  BB: '90'
+  HP: '2'
+  RBI: '35'
+  SO: '16'
+  AVG: '.257'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Brockhoeft
+  nameFirst: Edward A.
+  nameClub1: Andalusia
+  G: '23'
+  AB: '55'
+  R: '12'
+  H: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  TB: '19'
+  SH: '2'
+  SB: '1'
+  BB: '8'
+  HP: '2'
+  RBI: '9'
+  SO: '16'
+  AVG: '.255'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Kraus
+  nameFirst: D.
+  nameClub1: 62@Panama City
+  nameClub2: 19@Andalusia
+  nameClub3: 27@Evergreen
+  G: '108'
+  AB: '411'
+  R: '78'
+  H: '104'
+  H2B: '8'
+  H3B: '5'
+  HR: '2'
+  TB: '128'
+  SH: '10'
+  SB: '15'
+  BB: '66'
+  HP: '6'
+  RBI: '53'
+  SO: '31'
+  AVG: '.253'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Lindsey
+  nameFirst: Emory
+  nameClub1: Troy
+  G: '109'
+  AB: '403'
+  R: '59'
+  H: '102'
+  H2B: '20'
+  H3B: '2'
+  HR: '7'
+  TB: '147'
+  SH: '7'
+  SB: '10'
+  BB: '57'
+  HP: '3'
+  RBI: '58'
+  SO: '76'
+  AVG: '.253'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Koneff
+  nameFirst: John
+  nameClub1: Troy
+  G: '28'
+  AB: '75'
+  R: '6'
+  H: '19'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  TB: '25'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '20'
+  AVG: '.253'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Knatzer
+  nameFirst: Lester
+  nameClub1: Andalusia
+  G: '22'
+  AB: '44'
+  R: '4'
+  H: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '4'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '3'
+  SO: '11'
+  AVG: '.250'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Streza
+  nameFirst: John
+  nameClub1: Union Springs
+  G: '51'
+  AB: '182'
+  R: '24'
+  H: '45'
+  H2B: '10'
+  H3B: '4'
+  HR: '0'
+  TB: '63'
+  SH: '2'
+  SB: '3'
+  BB: '20'
+  HP: '1'
+  RBI: '21'
+  SO: '49'
+  AVG: '.247'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Gray
+  nameClub1: Panama City
+  G: '43'
+  AB: '142'
+  R: '23'
+  H: '35'
+  H2B: '6'
+  H3B: '3'
+  HR: '1'
+  TB: '50'
+  SH: '4'
+  SB: '4'
+  BB: '16'
+  HP: '1'
+  RBI: '15'
+  SO: '18'
+  AVG: '.247'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Koval
+  nameFirst: Peter
+  nameClub1: Evergreen
+  G: '90'
+  AB: '339'
+  R: '53'
+  H: '83'
+  H2B: '18'
+  H3B: '7'
+  HR: '3'
+  TB: '124'
+  SH: '7'
+  SB: '7'
+  BB: '45'
+  HP: '2'
+  RBI: '50'
+  SO: '51'
+  AVG: '.245'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Harbin
+  nameFirst: Charles
+  nameClub1: 7@Andalusia
+  nameClub2: 50@Evergreen
+  G: '57'
+  AB: '237'
+  R: '32'
+  H: '58'
+  H2B: '9'
+  H3B: '6'
+  HR: '1'
+  TB: '82'
+  SH: '5'
+  SB: '4'
+  BB: '15'
+  HP: '1'
+  RBI: '33'
+  SO: '28'
+  AVG: '.245'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Richards
+  nameFirst: Charles W.
+  nameClub1: 4@Andalusia
+  nameClub2: 19@Evergreen
+  G: '23'
+  AB: '53'
+  R: '6'
+  H: '13'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '14'
+  SH: '3'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '4'
+  SO: '10'
+  AVG: '.245'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bryant
+  nameFirst: Ernest
+  nameClub1: Troy
+  G: '11'
+  AB: '41'
+  R: '9'
+  H: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '1'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '6'
+  AVG: '.245'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Lang
+  nameFirst: Roy
+  nameClub1: 11@Union Springs
+  nameClub2: 1@Evergreen
+  G: '12'
+  AB: '41'
+  R: '5'
+  H: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '4'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '3'
+  SO: '9'
+  AVG: '.244'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Gremp
+  nameFirst: Louis
+  nameClub1: Union Springs
+  G: '129'
+  AB: '467'
+  R: '56'
+  H: '113'
+  H2B: '23'
+  H3B: '6'
+  HR: '4'
+  TB: '160'
+  SH: '5'
+  SB: '19'
+  BB: '45'
+  HP: '6'
+  RBI: '61'
+  SO: '63'
+  AVG: '.242'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Mele
+  nameFirst: Eddie
+  nameClub1: Union Springs
+  G: '27'
+  AB: '112'
+  R: '11'
+  H: '27'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '30'
+  SH: '4'
+  SB: '1'
+  BB: '6'
+  HP: '2'
+  RBI: '17'
+  SO: '14'
+  AVG: '.241'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Ferguson
+  nameFirst: Robert
+  nameClub1: 22@Andalusia
+  nameClub2: 18@Evergreen
+  G: '40'
+  AB: '75'
+  R: '12'
+  H: '18'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '21'
+  SH: '3'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '5'
+  SO: '21'
+  AVG: '.240'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Niewisch
+  nameFirst: Louis
+  nameClub1: 24@Troy
+  nameClub2: 6@Evergreen
+  G: '30'
+  AB: '113'
+  R: '19'
+  H: '27'
+  H2B: '7'
+  H3B: '2'
+  HR: '0'
+  TB: '38'
+  SH: '4'
+  SB: '4'
+  BB: '10'
+  HP: '3'
+  RBI: '11'
+  SO: '25'
+  AVG: '.239'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McGaughey
+  nameFirst: Clarence
+  nameClub1: Dothan
+  G: '25'
+  AB: '93'
+  R: '19'
+  H: '22'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  TB: '24'
+  SH: '0'
+  SB: '1'
+  BB: '11'
+  HP: '1'
+  RBI: '12'
+  SO: '9'
+  AVG: '.237'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Breaux
+  nameFirst: Irwin
+  nameClub1: Andalusia
+  G: '115'
+  AB: '453'
+  R: '67'
+  H: '106'
+  H2B: '16'
+  H3B: '6'
+  HR: '7'
+  TB: '155'
+  SH: '6'
+  SB: '12'
+  BB: '69'
+  HP: '2'
+  RBI: '48'
+  SO: '58'
+  AVG: '.234'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Belin
+  nameFirst: Leonard
+  nameClub1: Panama City
+  G: '104'
+  AB: '354'
+  R: '58'
+  H: '83'
+  H2B: '20'
+  H3B: '7'
+  HR: '3'
+  TB: '126'
+  SH: '4'
+  SB: '3'
+  BB: '58'
+  HP: '5'
+  RBI: '46'
+  SO: '92'
+  AVG: '.234'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Mashburn
+  nameFirst: Larry
+  nameClub1: Troy
+  G: '32'
+  AB: '111'
+  R: '9'
+  H: '26'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  TB: '30'
+  SH: '1'
+  SB: '2'
+  BB: '6'
+  HP: '4'
+  RBI: '11'
+  SO: '24'
+  AVG: '.234'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Beasley
+  nameFirst: James
+  nameClub1: 17@Panama City
+  nameClub2: 23@Evergreen
+  G: '40'
+  AB: '77'
+  R: '8'
+  H: '18'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '24'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '5'
+  SO: '22'
+  AVG: '.234'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Armstrong
+  nameFirst: John
+  nameClub1: Panama City
+  G: '96'
+  AB: '349'
+  R: '62'
+  H: '81'
+  H2B: '16'
+  H3B: '4'
+  HR: '1'
+  TB: '108'
+  SH: '5'
+  SB: '30'
+  BB: '62'
+  HP: '14'
+  RBI: '37'
+  SO: '69'
+  AVG: '.232'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Russo
+  nameFirst: Manuel
+  nameClub1: Dothan
+  G: '73'
+  AB: '220'
+  R: '38'
+  H: '51'
+  H2B: '9'
+  H3B: '3'
+  HR: '2'
+  TB: '72'
+  SH: '6'
+  SB: '9'
+  BB: '43'
+  HP: '1'
+  RBI: '29'
+  SO: '26'
+  AVG: '.232'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Kilbane
+  nameFirst: Thomas
+  nameClub1: Troy
+  G: '12'
+  AB: '26'
+  R: '3'
+  H: '6'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '9'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  AVG: '.231'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Laskowski
+  nameFirst: Rudolph
+  nameClub1: Panama City
+  G: '20'
+  AB: '61'
+  R: '13'
+  H: '14'
+  H2B: '8'
+  H3B: '0'
+  HR: '0'
+  TB: '22'
+  SH: '1'
+  SB: '4'
+  BB: '27'
+  HP: '0'
+  RBI: '22'
+  SO: '6'
+  AVG: '.230'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Goetz
+  nameFirst: Arthur
+  nameClub1: 17@Evergreen
+  nameClub2: 43@Union Springs
+  G: '60'
+  AB: '153'
+  R: '18'
+  H: '35'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '40'
+  SH: '2'
+  SB: '0'
+  BB: '11'
+  HP: '3'
+  RBI: '13'
+  SO: '25'
+  AVG: '.229'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Lucas
+  nameFirst: Fred
+  nameClub1: Union Springs
+  G: '41'
+  AB: '149'
+  R: '15'
+  H: '34'
+  H2B: '6'
+  H3B: '1'
+  HR: '1'
+  TB: '45'
+  SH: '2'
+  SB: '5'
+  BB: '13'
+  HP: '0'
+  RBI: '18'
+  SO: '29'
+  AVG: '.228'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Boisseranc
+  nameFirst: Norm
+  nameClub1: Panama City
+  G: '11'
+  AB: '22'
+  R: '5'
+  H: '5'
+  H2B: '0'
+  H3B: '1'
+  HR: '2'
+  TB: '13'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '4'
+  SO: '9'
+  AVG: '.227'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Merchant
+  nameFirst: Harry
+  nameClub1: Union Springs
+  G: '22'
+  AB: '91'
+  R: '19'
+  H: '20'
+  H2B: '1'
+  H3B: '4'
+  HR: '2'
+  TB: '35'
+  SH: '2'
+  SB: '4'
+  BB: '12'
+  HP: '1'
+  RBI: '5'
+  SO: '14'
+  AVG: '.220'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Klumker
+  nameFirst: John
+  nameClub1: Evergreen
+  G: '26'
+  AB: '98'
+  R: '9'
+  H: '21'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '22'
+  SH: '0'
+  SB: '0'
+  BB: '11'
+  HP: '2'
+  RBI: '5'
+  SO: '28'
+  AVG: '.214'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Cyson
+  nameFirst: Stanley
+  nameClub1: 32@Troy
+  nameClub2: 47@Union Springs
+  G: '79'
+  AB: '320'
+  R: '44'
+  H: '68'
+  H2B: '12'
+  H3B: '1'
+  HR: '2'
+  TB: '88'
+  SH: '8'
+  SB: '4'
+  BB: '34'
+  HP: '7'
+  RBI: '25'
+  SO: '41'
+  AVG: '.213'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bearden
+  nameFirst: Clay
+  nameClub1: Union Springs
+  G: '19'
+  AB: '61'
+  R: '7'
+  H: '13'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  TB: '18'
+  SH: '2'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '12'
+  SO: '11'
+  AVG: '.213'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Anthony
+  nameFirst: Lee
+  nameClub1: 31@Evergreen
+  nameClub2: 8@Andalusia
+  G: '39'
+  AB: '109'
+  R: '13'
+  H: '23'
+  H2B: '6'
+  H3B: '2'
+  HR: '0'
+  TB: '33'
+  SH: '3'
+  SB: '1'
+  BB: '4'
+  HP: '2'
+  RBI: '10'
+  SO: '38'
+  AVG: '.211'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Pinion
+  nameFirst: Commodore
+  nameClub1: 6@Union Springs
+  nameClub2: 31@Panama City
+  G: '37'
+  AB: '134'
+  R: '23'
+  H: '28'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  TB: '31'
+  SH: '2'
+  SB: '8'
+  BB: '24'
+  HP: '5'
+  RBI: '11'
+  SO: '26'
+  AVG: '.209'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Feret
+  nameFirst: Leo
+  nameClub1: 68@Panama City
+  nameClub2: 18@Evergreen
+  G: '86'
+  AB: '269'
+  R: '36'
+  H: '56'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  TB: '63'
+  SH: '2'
+  SB: '4'
+  BB: '17'
+  HP: '3'
+  RBI: '24'
+  SO: '26'
+  AVG: '.208'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Weston
+  nameFirst: Jack
+  nameClub1: Union Springs
+  G: '47'
+  AB: '121'
+  R: '14'
+  H: '25'
+  H2B: '4'
+  H3B: '4'
+  HR: '1'
+  TB: '40'
+  SH: '1'
+  SB: '0'
+  BB: '16'
+  HP: '2'
+  RBI: '8'
+  SO: '51'
+  AVG: '.207'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Duncan
+  nameFirst: Robert
+  nameClub1: Evergreen
+  G: '18'
+  AB: '58'
+  R: '9'
+  H: '12'
+  H2B: '3'
+  H3B: '0'
+  HR: '3'
+  TB: '24'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '1'
+  RBI: '10'
+  SO: '26'
+  AVG: '.207'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Walls
+  nameFirst: William
+  nameClub1: Evergreen
+  G: '96'
+  AB: '362'
+  R: '62'
+  H: '73'
+  H2B: '26'
+  H3B: '3'
+  HR: '12'
+  TB: '141'
+  SH: '0'
+  SB: '6'
+  BB: '35'
+  HP: '18'
+  RBI: '52'
+  SO: '144'
+  AVG: '.202'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Jurwiak
+  nameFirst: Felix
+  nameClub1: Dothan
+  G: '91'
+  AB: '327'
+  R: '37'
+  H: '65'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  TB: '75'
+  SH: '7'
+  SB: '7'
+  BB: '41'
+  HP: '3'
+  RBI: '38'
+  SO: '59'
+  AVG: '.199'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Blackburn
+  nameFirst: Eugene
+  nameClub1: 6@Andalusia
+  nameClub2: 12@Evergreen
+  G: '18'
+  AB: '36'
+  R: '3'
+  H: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '7'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.194'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Baird
+  nameFirst: Richard
+  nameClub1: Union Springs
+  G: '38'
+  AB: '80'
+  R: '10'
+  H: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '16'
+  SH: '4'
+  SB: '0'
+  BB: '8'
+  HP: '2'
+  RBI: '6'
+  SO: '15'
+  AVG: '.188'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Manheim
+  nameFirst: Francis
+  nameClub1: 22@Evergreen
+  nameClub2: 20@Andalusia
+  G: '42'
+  AB: '82'
+  R: '7'
+  H: '15'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  TB: '21'
+  SH: '3'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '7'
+  SO: '22'
+  AVG: '.183'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Head
+  nameFirst: Thomas R.
+  nameClub1: Troy
+  G: '22'
+  AB: '60'
+  R: '7'
+  H: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '8'
+  SO: '14'
+  AVG: '.183'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Sims
+  nameFirst: Jack
+  nameClub1: Panama City
+  G: '12'
+  AB: '44'
+  R: '5'
+  H: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '3'
+  SO: '1'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Holdstock
+  nameFirst: William
+  nameClub1: Panama City
+  G: '10'
+  AB: '33'
+  R: '3'
+  H: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '6'
+  SH: '0'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '13'
+  AVG: '.182'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bates
+  nameFirst: J. J.
+  nameClub1: Andalusia
+  G: '13'
+  AB: '45'
+  R: '6'
+  H: '8'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '13'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '1'
+  RBI: '3'
+  SO: '9'
+  AVG: '.178'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Barranco
+  nameFirst: Frank
+  nameClub1: 5@Evergreen
+  nameClub2: 15@Troy
+  G: '20'
+  AB: '62'
+  R: '10'
+  H: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  TB: '15'
+  SH: '1'
+  SB: '0'
+  BB: '13'
+  HP: '1'
+  RBI: '7'
+  SO: '12'
+  AVG: '.177'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hughes
+  nameFirst: Ted
+  nameClub1: Andalusia
+  G: '12'
+  AB: '46'
+  R: '2'
+  H: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '8'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  AVG: '.174'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Veach
+  nameFirst: Gerald
+  nameClub1: Andalusia
+  G: '24'
+  AB: '52'
+  R: '7'
+  H: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '11'
+  SH: '0'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '5'
+  SO: '11'
+  AVG: '.173'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Himsel
+  nameFirst: Alvin
+  nameClub1: 25@Troy
+  nameClub2: 9@Dothan
+  G: '34'
+  AB: '82'
+  R: '14'
+  H: '14'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  TB: '18'
+  SH: '5'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '9'
+  SO: '15'
+  AVG: '.171'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Robson
+  nameFirst: William
+  nameClub1: Troy
+  G: '30'
+  AB: '120'
+  R: '20'
+  H: '20'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '25'
+  SH: '5'
+  SB: '5'
+  BB: '22'
+  HP: '0'
+  RBI: '8'
+  SO: '20'
+  AVG: '.167'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Trucks
+  nameFirst: Virgil O.
+  nameClub1: Andalusia
+  G: '43'
+  AB: '121'
+  R: '8'
+  H: '20'
+  H2B: '5'
+  H3B: '2'
+  HR: '0'
+  TB: '29'
+  SH: '3'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '9'
+  SO: '25'
+  AVG: '.165'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McKenzie
+  nameFirst: William
+  nameClub1: Dothan
+  G: '33'
+  AB: '93'
+  R: '12'
+  H: '15'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  TB: '22'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '16'
+  SO: '28'
+  AVG: '.161'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Thorne
+  nameFirst: Joseph
+  nameClub1: Union Springs
+  G: '39'
+  AB: '75'
+  R: '5'
+  H: '12'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '2'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '6'
+  SO: '25'
+  AVG: '.160'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Blackwell
+  nameFirst: C. Everett
+  nameClub1: 12@Troy
+  nameClub2: 6@Evergreen
+  nameClub3: 9@Panama City
+  G: '27'
+  AB: '57'
+  R: '2'
+  H: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '22'
+  AVG: '.158'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Vickery
+  nameFirst: Mack
+  nameClub1: 3@Andalusia
+  nameClub2: 10@Troy
+  G: '13'
+  AB: '26'
+  R: '1'
+  H: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '5'
+  AVG: '.154'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hyde
+  nameFirst: R. Layce
+  nameClub1: Evergreen
+  G: '11'
+  AB: '20'
+  R: '1'
+  H: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '4'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '9'
+  AVG: '.150'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Beaugez
+  nameFirst: Joseph
+  nameClub1: Dothan
+  G: '45'
+  AB: '94'
+  R: '10'
+  H: '14'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  TB: '17'
+  SH: '3'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '7'
+  SO: '41'
+  AVG: '.149'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McMullen
+  nameFirst: Carlos
+  nameClub1: 14@Panama City
+  nameClub2: 11@Union Springs
+  G: '25'
+  AB: '54'
+  R: '5'
+  H: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  TB: '9'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '4'
+  SO: '18'
+  AVG: '.148'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Lovetere
+  nameFirst: Jose
+  nameClub1: Dothan
+  G: '30'
+  AB: '75'
+  R: '9'
+  H: '10'
+  H2B: '1'
+  H3B: '3'
+  HR: '0'
+  TB: '17'
+  SH: '4'
+  SB: '0'
+  BB: '12'
+  HP: '2'
+  RBI: '19'
+  SO: '19'
+  AVG: '.133'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Helmick
+  nameFirst: K.
+  nameClub1: Union Springs
+  G: '42'
+  AB: '84'
+  R: '8'
+  H: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  TB: '12'
+  SH: '2'
+  SB: '0'
+  BB: '18'
+  HP: '0'
+  RBI: '3'
+  SO: '43'
+  AVG: '.119'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Tomasello
+  nameFirst: Theron
+  nameClub1: Dothan
+  G: '30'
+  AB: '87'
+  R: '9'
+  H: '10'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  TB: '15'
+  SH: '2'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '7'
+  SO: '38'
+  AVG: '.115'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Martins
+  nameFirst: Roy
+  nameClub1: 16@Panama City
+  nameClub2: 7@Dothan
+  G: '23'
+  AB: '46'
+  R: '4'
+  H: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '5'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '1'
+  SO: '19'
+  AVG: '.109'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Stumpf
+  nameFirst: Raymond
+  nameClub1: Evergreen
+  G: '27'
+  AB: '84'
+  R: '13'
+  H: '9'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  TB: '14'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '4'
+  RBI: '2'
+  SO: '26'
+  AVG: '.107'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Wallis
+  nameFirst: John
+  nameClub1: Union Springs
+  G: '13'
+  AB: '28'
+  R: '1'
+  H: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '3'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '16'
+  AVG: '.107'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Banks
+  nameFirst: James
+  nameClub1: Evergreen
+  G: '10'
+  AB: '20'
+  R: '1'
+  H: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '2'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '2'
+  AVG: '.100'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Kardow
+  nameFirst: Paul
+  nameClub1: Evergreen
+  G: '11'
+  AB: '17'
+  R: '2'
+  H: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  TB: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '0'
+  SO: '13'
+  AVG: '.000'
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Ash
+  nameFirst: Hunter
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bice
+  nameFirst: Carl
+  nameClub1: Evergreen
+  nameClub2: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Dudley
+  nameFirst: Emmett
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Carroll
+  nameFirst: Clifford
+  nameClub1: Troy
+  nameClub2: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Eller
+  nameFirst: Curtis
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hamilton
+  nameFirst: T. C.
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Heath
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hubbard
+  nameFirst: Carval
+  nameClub1: Panama City
+  nameClub2: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hughes
+  nameFirst: J.
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Karch
+  nameFirst: Lawrence
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: King
+  nameFirst: John P.
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McFarlane
+  nameFirst: Alex
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Pope
+  nameFirst: C. E.
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Richards
+  nameFirst: Charles W.
+  nameClub1: Evergreen
+  nameClub2: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Reeves
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Smith
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Sproull
+  nameFirst: Charles
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Suttles
+  nameFirst: William
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Tench
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Zalis
+  nameFirst: John
+  nameClub1: Andalusia
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Balch
+  nameFirst: Vernon
+  nameClub1: Dothan
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Cleveland
+  nameClub1: Dothan
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Elmore
+  nameClub1: Dothan
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hemphill
+  nameFirst: Elmore
+  nameClub1: Dothan
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Morgan
+  nameFirst: J. T.
+  nameClub1: Dothan
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McGeehee
+  nameClub1: Dothan
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Zesiger
+  nameFirst: Clayton
+  nameClub1: Dothan
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Basenberg
+  nameFirst: Charles
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bozeman
+  nameFirst: Lynn
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Brandon
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bryars
+  nameFirst: Gene
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Cannon
+  nameFirst: H. S.
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Clark
+  nameFirst: William
+  nameClub1: Panama City
+  nameClub2: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: DeBerry
+  nameFirst: Ray
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Ellis
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hayes
+  nameFirst: Wilson
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hudson
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Lane
+  nameFirst: James
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McCawley
+  nameFirst: Carlton
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Murphy
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Pippin
+  nameFirst: Robert
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Sanford
+  nameFirst: John
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Smith
+  nameFirst: Harold E.
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Taylor
+  nameFirst: Rufus
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Willridge
+  nameFirst: William
+  nameClub1: Evergreen
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Booth
+  nameFirst: Harry
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Chandler
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Davidson
+  nameFirst: Robert
+  nameClub1: Troy
+  nameClub2: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Griffin
+  nameFirst: Lester
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Griffith
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Leary
+  nameFirst: Al
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Manning
+  nameFirst: Duncan
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Pelham
+  nameFirst: William
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Wagner
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Ogle
+  nameFirst: Fred
+  nameClub1: Panama City
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Albritton
+  nameFirst: Euel
+  nameClub1: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Campbell
+  nameFirst: Tilden
+  nameClub1: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Crifield
+  nameFirst: A. H.
+  nameClub1: Union Springs
+  nameClub2: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Hunt
+  nameFirst: Joe L.
+  nameClub1: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Jenkins
+  nameFirst: Harry
+  nameClub1: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: McIntyre
+  nameFirst: Woodrow
+  nameClub1: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Pippen
+  nameFirst: James
+  nameClub1: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilson
+  nameFirst: Herbert
+  nameClub1: Troy
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Bendiz
+  nameClub1: Union Springs
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Burgess
+  nameFirst: Charles
+  nameClub1: Union Springs
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Cox
+  nameFirst: Leslie
+  nameClub1: Union Springs
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Fay
+  nameFirst: Edward
+  nameClub1: Union Springs
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Herman
+  nameFirst: Theodore
+  nameClub1: Union Springs
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Millman
+  nameFirst: Charles
+  nameClub1: Union Springs
+- year: '1938'
+  nameLeague: Alabama-Florida League
+  nameLast: Steger
+  nameFirst: Herschel
+  nameClub1: Union Springs

@@ -1,0 +1,94 @@
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Neosho
+  phase: regular
+  W: '73'
+  L: '42'
+  PCT: '.635'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Carthage
+  phase: regular
+  W: '69'
+  L: '49'
+  PCT: '.585'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Fayetteville
+  phase: regular
+  W: '66'
+  L: '53'
+  PCT: '.555'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Rogers
+  phase: regular
+  W: '63'
+  L: '54'
+  PCT: '.538'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Monett
+  phase: regular
+  W: '44'
+  L: '74'
+  PCT: '.373'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Siloam Springs
+  phase: regular
+  W: '36'
+  L: '79'
+  PCT: '.331'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Neosho
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Rogers
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Carthage
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Fayetteville
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Carthage
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Arkansas-Missouri League
+  nameClub: Neosho
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

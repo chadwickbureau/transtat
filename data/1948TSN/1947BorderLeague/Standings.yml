@@ -1,0 +1,100 @@
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Ottawa
+  phase: regular
+  W: '82'
+  L: '42'
+  T: '0'
+  PCT: '.661'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Watertown
+  phase: regular
+  W: '70'
+  L: '54'
+  T: '2'
+  PCT: '.565'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Auburn
+  phase: regular
+  W: '66'
+  L: '60'
+  T: '0'
+  PCT: '.524'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  phase: regular
+  W: '61'
+  L: '65'
+  T: '1'
+  PCT: '.484'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Kingston
+  phase: regular
+  W: '49'
+  L: '77'
+  T: '1'
+  PCT: '.389'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Geneva
+  phase: regular
+  W: '46'
+  L: '76'
+  T: '0'
+  PCT: '.377'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Ottawa
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Auburn
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Watertown
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Ottawa
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Border League
+  nameClub: Ogdensburg
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

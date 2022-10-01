@@ -1,0 +1,80 @@
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  G: '157'
+  PO: '4024'
+  A: '1813'
+  E: '134'
+  DP: '140'
+  PB: '12'
+  PCT: '.978'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  G: '157'
+  PO: '4054'
+  A: '1894'
+  E: '181'
+  DP: '143'
+  PB: '10'
+  PCT: '.970'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  G: '155'
+  PO: '3954'
+  A: '1769'
+  E: '183'
+  DP: '148'
+  PB: '2'
+  PCT: '.969'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  G: '158'
+  PO: '4004'
+  A: '1815'
+  E: '193'
+  DP: '144'
+  PB: '7'
+  PCT: '.968'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  G: '157'
+  PO: '4018'
+  A: '1800'
+  E: '194'
+  DP: '123'
+  PB: '8'
+  PCT: '.968'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  G: '157'
+  PO: '4187'
+  A: '1776'
+  E: '204'
+  DP: '124'
+  PB: '11'
+  PCT: '.967'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  G: '156'
+  PO: '4031'
+  A: '1848'
+  E: '210'
+  DP: '102'
+  PB: '8'
+  PCT: '.966'
+- year: '1943'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  G: '155'
+  PO: '3862'
+  A: '1817'
+  E: '239'
+  DP: '147'
+  PB: '7'
+  PCT: '.960'

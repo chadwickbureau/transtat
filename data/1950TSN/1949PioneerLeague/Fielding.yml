@@ -1,0 +1,2534 @@
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lowe
+  nameClub1: Pocatello
+  Pos: 1B
+  G: '33'
+  PO: '282'
+  A: '13'
+  E: '1'
+  DP: '22'
+  PCT: '.997'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Gale
+  nameClub1: Salt Lake City
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '115'
+  A: '4'
+  E: '1'
+  DP: '8'
+  PCT: '.992'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hjelmaa
+  nameClub1: Great Falls
+  Pos: 1B
+  G: '26'
+  PO: '238'
+  A: '8'
+  E: '3'
+  DP: '27'
+  PCT: '.988'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Westlake
+  nameClub1: Salt Lake City
+  Pos: 1B
+  G: '113'
+  PO: '1013'
+  A: '61'
+  E: '19'
+  DP: '98'
+  PCT: '.983'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stewart
+  nameClub1: Great Falls
+  Pos: 1B
+  G: '32'
+  PO: '254'
+  A: '16'
+  E: '6'
+  DP: '25'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lamont
+  nameClub1: Ogden
+  throws: L
+  Pos: 1B
+  G: '125'
+  PO: '1080'
+  A: '49'
+  E: '28'
+  DP: '79'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Jessen
+  nameClub1: Twin Falls
+  Pos: 1B
+  G: '125'
+  PO: '976'
+  A: '50'
+  E: '26'
+  DP: '96'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: O'Brien
+  nameClub1: Boise
+  Pos: 1B
+  G: '120'
+  PO: '1031'
+  A: '44'
+  E: '30'
+  DP: '86'
+  PCT: '.973'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Means
+  nameClub1: Billings
+  throws: L
+  Pos: 1B
+  G: '120'
+  PO: '931'
+  A: '54'
+  E: '27'
+  DP: '92'
+  PCT: '.973'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Zich
+  nameClub1: Pocatello
+  Pos: 1B
+  G: '88'
+  PO: '679'
+  A: '42'
+  E: '20'
+  DP: '76'
+  PCT: '.973'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Goldstein
+  nameClub1: Idaho Falls
+  throws: L
+  Pos: 1B
+  G: '82'
+  PO: '678'
+  A: '57'
+  E: '21'
+  DP: '57'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Daniels
+  nameClub1: Great Falls
+  Pos: 1B
+  G: '17'
+  PO: '111'
+  A: '13'
+  E: '4'
+  DP: '5'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: O'Keefe
+  nameClub1: Great Falls
+  throws: L
+  Pos: 1B
+  G: '43'
+  PO: '327'
+  A: '29'
+  E: '13'
+  DP: '44'
+  PCT: '.965'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Clary
+  nameClub1: Great Falls
+  throws: L
+  Pos: 1B
+  G: '37'
+  PO: '293'
+  A: '23'
+  E: '12'
+  DP: '24'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Sperato
+  nameClub1: Billings
+  Pos: 1B
+  G: '11'
+  PO: '52'
+  A: '2'
+  E: '6'
+  DP: '4'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Metro
+  nameClub1: Twin Falls
+  Pos: 2B
+  G: '26'
+  PO: '64'
+  A: '61'
+  E: '3'
+  DP: '17'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Moore
+  nameClub1: Great Falls
+  Pos: 2B
+  G: '92'
+  PO: '247'
+  A: '241'
+  E: '17'
+  DP: '54'
+  PCT: '.966'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Skinner
+  nameClub1: Billings
+  Pos: 2B
+  G: '122'
+  PO: '360'
+  A: '315'
+  E: '26'
+  DP: '82'
+  PCT: '.963'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Barczewski
+  nameClub1: Pocatello
+  Pos: 2B
+  G: '124'
+  PO: '380'
+  A: '325'
+  E: '33'
+  DP: '93'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Noverini
+  nameClub1: Salt Lake City
+  Pos: 2B
+  G: '110'
+  PO: '280'
+  A: '303'
+  E: '28'
+  DP: '74'
+  PCT: '.954'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Machado
+  nameClub1: Salt Lake City
+  nameClub2: Boise
+  Pos: 2B
+  G: '15'
+  PO: '38'
+  A: '41'
+  E: '4'
+  DP: '4'
+  PCT: '.952'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Schulte
+  nameClub1: Ogden
+  Pos: 2B
+  G: '24'
+  PO: '58'
+  A: '54'
+  E: '6'
+  DP: '11'
+  PCT: '.949'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Santora
+  nameClub1: Ogden
+  Pos: 2B
+  G: '95'
+  PO: '241'
+  A: '227'
+  E: '27'
+  DP: '42'
+  PCT: '.945'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Balance
+  nameClub1: Idaho Falls
+  Pos: 2B
+  G: '81'
+  PO: '274'
+  A: '157'
+  E: '25'
+  DP: '39'
+  PCT: '.945'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Williamson
+  nameClub1: Billings
+  Pos: 2B
+  G: '67'
+  PO: '191'
+  A: '185'
+  E: '22'
+  DP: '33'
+  PCT: '.945'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stewart
+  nameClub1: Great Falls
+  Pos: 2B
+  G: '35'
+  PO: '108'
+  A: '104'
+  E: '15'
+  DP: '24'
+  PCT: '.934'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Phipps
+  nameClub1: Boise
+  Pos: 2B
+  G: '46'
+  PO: '125'
+  A: '112'
+  E: '17'
+  DP: '26'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bell
+  nameClub1: Twin Falls
+  Pos: 2B
+  G: '102'
+  PO: '268'
+  A: '230'
+  E: '39'
+  DP: '67'
+  PCT: '.927'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hill
+  nameClub1: Idaho Falls
+  Pos: 2B
+  G: '14'
+  PO: '39'
+  A: '36'
+  E: '6'
+  DP: '5'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Holt
+  nameClub1: Idaho Falls
+  Pos: 2B
+  G: '30'
+  PO: '77'
+  A: '72'
+  E: '13'
+  DP: '14'
+  PCT: '.920'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Tuckett
+  nameClub1: Salt Lake City
+  Pos: 3B
+  G: '39'
+  PO: '42'
+  A: '77'
+  E: '5'
+  DP: '6'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Vitous
+  nameClub1: Twin Falls
+  Pos: 3B
+  G: '49'
+  PO: '56'
+  A: '66'
+  E: '8'
+  DP: '8'
+  PCT: '.938'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hamric
+  nameClub1: Twin Falls
+  Pos: 3B
+  G: '13'
+  PO: '16'
+  A: '28'
+  E: '3'
+  DP: '5'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hill
+  nameClub1: Idaho Falls
+  Pos: 3B
+  G: '62'
+  PO: '69'
+  A: '123'
+  E: '14'
+  DP: '14'
+  PCT: '.932'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Neves
+  nameClub1: Salt Lake City
+  Pos: 3B
+  G: '23'
+  PO: '30'
+  A: '65'
+  E: '7'
+  DP: '7'
+  PCT: '.931'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Rose
+  nameClub1: Salt Lake City
+  Pos: 3B
+  G: '47'
+  PO: '54'
+  A: '114'
+  E: '15'
+  DP: '8'
+  PCT: '.918'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Koenig
+  nameClub1: Boise
+  Pos: 3B
+  G: '68'
+  PO: '76'
+  A: '151'
+  E: '22'
+  DP: '18'
+  PCT: '.912'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Petersen
+  nameClub1: Twin Falls
+  Pos: 3B
+  G: '13'
+  PO: '14'
+  A: '27'
+  E: '4'
+  DP: '1'
+  PCT: '.911'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bockman
+  nameClub1: Great Falls
+  Pos: 3B
+  G: '103'
+  PO: '141'
+  A: '208'
+  E: '35'
+  DP: '22'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Schulte
+  nameClub1: Ogden
+  Pos: 3B
+  G: '12'
+  PO: '11'
+  A: '29'
+  E: '4'
+  DP: '4'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Metro
+  nameClub1: Twin Falls
+  Pos: 3B
+  G: '16'
+  PO: '12'
+  A: '27'
+  E: '4'
+  DP: '3'
+  PCT: '.907'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Peccia
+  nameClub1: Billings
+  Pos: 3B
+  G: '118'
+  PO: '129'
+  A: '234'
+  E: '38'
+  DP: '30'
+  PCT: '.901'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Thrasher
+  nameClub1: Great Falls
+  Pos: 3B
+  G: '15'
+  PO: '19'
+  A: '25'
+  E: '5'
+  DP: '4'
+  PCT: '.898'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Ford
+  nameClub1: Ogden
+  Pos: 3B
+  G: '107'
+  PO: '118'
+  A: '217'
+  E: '42'
+  DP: '13'
+  PCT: '.889'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Sheehan
+  nameClub1: Boise
+  Pos: 3B
+  G: '27'
+  PO: '31'
+  A: '73'
+  E: '13'
+  DP: '7'
+  PCT: '.889'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Williams
+  nameClub1: Pocatello
+  Pos: 3B
+  G: '100'
+  PO: '110'
+  A: '157'
+  E: '35'
+  DP: '19'
+  PCT: '.884'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Thompson
+  nameClub1: Salt Lake City
+  Pos: 3B
+  G: '20'
+  PO: '12'
+  A: '23'
+  E: '5'
+  DP: '6'
+  PCT: '.875'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Michaelson
+  nameClub1: Twin Falls
+  Pos: 3B
+  G: '39'
+  PO: '41'
+  A: '90'
+  E: '19'
+  DP: '6'
+  PCT: '.873'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bausman
+  nameClub1: Pocatello
+  Pos: 3B
+  G: '15'
+  PO: '18'
+  A: '31'
+  E: '8'
+  DP: '3'
+  PCT: '.860'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: LaMar
+  nameClub1: Boise
+  Pos: 3B
+  G: '33'
+  PO: '34'
+  A: '69'
+  E: '23'
+  DP: '11'
+  PCT: '.817'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stumpus
+  nameClub1: Idaho Falls
+  Pos: 3B
+  G: '13'
+  PO: '13'
+  A: '27'
+  E: '9'
+  DP: '3'
+  PCT: '.816'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Mullin
+  nameClub1: Idaho Falls
+  Pos: 3B
+  G: '22'
+  PO: '26'
+  A: '40'
+  E: '15'
+  DP: '2'
+  PCT: '.815'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bell
+  nameClub1: Twin Falls
+  Pos: SS
+  G: '14'
+  PO: '26'
+  A: '36'
+  E: '3'
+  DP: '5'
+  PCT: '.954'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stewart
+  nameClub1: Great Falls
+  Pos: SS
+  G: '28'
+  PO: '55'
+  A: '82'
+  E: '8'
+  DP: '22'
+  PCT: '.945'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Santora
+  nameClub1: Ogden
+  Pos: SS
+  G: '10'
+  PO: '15'
+  A: '29'
+  E: '3'
+  DP: '4'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bausman
+  nameClub1: Pocatello
+  Pos: SS
+  G: '10'
+  PO: '15'
+  A: '27'
+  E: '3'
+  DP: '9'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stenger
+  nameClub1: Boise
+  nameClub2: Salt Lake City
+  Pos: SS
+  G: '116'
+  PO: '201'
+  A: '343'
+  E: '41'
+  DP: '66'
+  PCT: '.930'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Brewer
+  nameClub1: Idaho Falls
+  Pos: SS
+  G: '77'
+  PO: '124'
+  A: '261'
+  E: '30'
+  DP: '35'
+  PCT: '.928'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Cope
+  nameClub1: Twin Falls
+  Pos: SS
+  G: '36'
+  PO: '71'
+  A: '107'
+  E: '14'
+  DP: '26'
+  PCT: '.927'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lewandowski
+  nameClub1: Pocatello
+  Pos: SS
+  G: '94'
+  PO: '161'
+  A: '297'
+  E: '37'
+  DP: '57'
+  PCT: '.925'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Temple
+  nameClub1: Ogden
+  Pos: SS
+  G: '112'
+  PO: '216'
+  A: '335'
+  E: '46'
+  DP: '51'
+  PCT: '.923'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hjelmaa
+  nameClub1: Great Falls
+  Pos: SS
+  G: '68'
+  PO: '150'
+  A: '211'
+  E: '30'
+  DP: '41'
+  PCT: '.923'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Moore
+  nameClub1: Great Falls
+  Pos: SS
+  G: '11'
+  PO: '26'
+  A: '32'
+  E: '5'
+  DP: '10'
+  PCT: '.921'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Williams
+  nameClub1: Pocatello
+  Pos: SS
+  G: '18'
+  PO: '25'
+  A: '49'
+  E: '7'
+  DP: '3'
+  PCT: '.914'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Tuckett
+  nameClub1: Salt Lake City
+  Pos: SS
+  G: '18'
+  PO: '28'
+  A: '53'
+  E: '8'
+  DP: '7'
+  PCT: '.910'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Wolfe
+  nameClub1: Billings
+  Pos: SS
+  G: '19'
+  PO: '26'
+  A: '45'
+  E: '7'
+  DP: '11'
+  PCT: '.910'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Brodie
+  nameClub1: Idaho Falls
+  Pos: SS
+  G: '12'
+  PO: '24'
+  A: '26'
+  E: '5'
+  DP: '7'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Busby
+  nameClub1: Idaho Falls
+  Pos: SS
+  G: '30'
+  PO: '68'
+  A: '71'
+  E: '15'
+  DP: '8'
+  PCT: '.903'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Petersen
+  nameClub1: Twin Falls
+  Pos: SS
+  G: '39'
+  PO: '57'
+  A: '108'
+  E: '19'
+  DP: '21'
+  PCT: '.897'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Incaviglia
+  nameClub1: Billings
+  Pos: SS
+  G: '98'
+  PO: '172'
+  A: '266'
+  E: '53'
+  DP: '36'
+  PCT: '.892'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Machado
+  nameClub1: Salt Lake City
+  nameClub2: Boise
+  Pos: SS
+  G: '38'
+  PO: '62'
+  A: '113'
+  E: '23'
+  DP: '21'
+  PCT: '.884'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Metro
+  nameClub1: Twin Falls
+  Pos: SS
+  G: '35'
+  PO: '61'
+  A: '92'
+  E: '22'
+  DP: '18'
+  PCT: '.874'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Koenig
+  nameClub1: Boise
+  Pos: SS
+  G: '38'
+  PO: '52'
+  A: '84'
+  E: '23'
+  DP: '13'
+  PCT: '.855'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Diesso
+  nameClub1: Boise
+  Pos: SS
+  G: '26'
+  PO: '41'
+  A: '51'
+  E: '18'
+  DP: '10'
+  PCT: '.836'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Noverini
+  nameClub1: Salt Lake City
+  Pos: SS
+  G: '12'
+  PO: '14'
+  A: '30'
+  E: '10'
+  DP: '6'
+  PCT: '.815'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Mendoza
+  nameClub1: Idaho Falls
+  Pos: SS
+  G: '11'
+  PO: '12'
+  A: '23'
+  E: '12'
+  DP: '6'
+  PCT: '.745'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Vitous
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '34'
+  PO: '62'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Slaughter
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '26'
+  PO: '54'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Metro
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '28'
+  PO: '44'
+  A: '6'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Tiesiera
+  nameClub1: Salt Lake City
+  Pos: OF
+  G: '14'
+  PO: '28'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Rhinehart
+  nameClub1: Pocatello
+  Pos: OF
+  G: '17'
+  PO: '25'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Santora
+  nameClub1: Ogden
+  Pos: OF
+  G: '14'
+  PO: '19'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Koerner
+  nameClub1: Great Falls
+  Pos: OF
+  G: '113'
+  PO: '342'
+  A: '15'
+  E: '4'
+  DP: '0'
+  PCT: '.989'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: O'Laughlin
+  nameClub1: Salt Lake City
+  Pos: OF
+  G: '126'
+  PO: '271'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.986'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Borch
+  nameClub1: Great Falls
+  Pos: OF
+  G: '121'
+  PO: '239'
+  A: '12'
+  E: '4'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Mullin
+  nameClub1: Idaho Falls
+  Pos: OF
+  G: '61'
+  PO: '117'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.984'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Pickett
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '34'
+  PO: '47'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Cunningham
+  nameClub1: Pocatello
+  throws: L
+  Pos: OF
+  G: '23'
+  PO: '48'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Sheehan
+  nameClub1: Boise
+  Pos: OF
+  G: '86'
+  PO: '133'
+  A: '9'
+  E: '3'
+  DP: '5'
+  PCT: '.979'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Valentine
+  nameClub1: Boise
+  Pos: OF
+  G: '118'
+  PO: '280'
+  A: '22'
+  E: '7'
+  DP: '4'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Daniels
+  nameClub1: Great Falls
+  Pos: OF
+  G: '90'
+  PO: '161'
+  A: '9'
+  E: '4'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Renna
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '74'
+  PO: '161'
+  A: '9'
+  E: '4'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Sabatini
+  nameClub1: Salt Lake City
+  Pos: OF
+  G: '73'
+  PO: '124'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Kelly
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '72'
+  PO: '122'
+  A: '8'
+  E: '3'
+  DP: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Zurcher
+  nameClub1: Boise
+  Pos: OF
+  G: '49'
+  PO: '81'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Packham
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '14'
+  PO: '38'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Duretto
+  nameClub1: Billings
+  Pos: OF
+  G: '108'
+  PO: '230'
+  A: '7'
+  E: '6'
+  DP: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Finnegan
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '56'
+  PO: '150'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Thompson
+  nameClub1: Salt Lake City
+  Pos: OF
+  G: '49'
+  PO: '65'
+  A: '3'
+  E: '2'
+  DP: '2'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lowe
+  nameClub1: Pocatello
+  Pos: OF
+  G: '21'
+  PO: '33'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Dunn
+  nameClub1: Billings
+  Pos: OF
+  G: '17'
+  PO: '32'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Napoli
+  nameClub1: Salt Lake City
+  Pos: OF
+  G: '94'
+  PO: '252'
+  A: '10'
+  E: '8'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Caloia
+  nameClub1: Billings
+  Pos: OF
+  G: '104'
+  PO: '276'
+  A: '16'
+  E: '10'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Czaplewski
+  nameClub1: Pocatello
+  throws: L
+  Pos: OF
+  G: '95'
+  PO: '213'
+  A: '17'
+  E: '9'
+  DP: '4'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Guth
+  nameClub1: Ogden
+  Pos: OF
+  G: '110'
+  PO: '298'
+  A: '15'
+  E: '13'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Moore
+  nameFirst: E.
+  nameClub1: Billings
+  Pos: OF
+  G: '121'
+  PO: '229'
+  A: '11'
+  E: '10'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Moore
+  nameFirst: J.
+  nameClub1: Ogden
+  Pos: OF
+  G: '119'
+  PO: '175'
+  A: '12'
+  E: '8'
+  DP: '2'
+  PCT: '.959'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Dean
+  nameClub1: Pocatello
+  Pos: OF
+  G: '112'
+  PO: '221'
+  A: '21'
+  E: '11'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Nenna
+  nameClub1: Pocatello
+  throws: L
+  Pos: OF
+  G: '116'
+  PO: '193'
+  A: '13'
+  E: '11'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bartholomew
+  nameClub1: Idaho Falls
+  Pos: OF
+  G: '123'
+  PO: '332'
+  A: '27'
+  E: '20'
+  DP: '4'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Cullimore
+  nameClub1: Salt Lake City
+  Pos: OF
+  G: '24'
+  PO: '34'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: LaMar
+  nameClub1: Boise
+  Pos: OF
+  G: '83'
+  PO: '159'
+  A: '27'
+  E: '12'
+  DP: '4'
+  PCT: '.939'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Neal
+  nameClub1: Idaho Falls
+  Pos: OF
+  G: '11'
+  PO: '13'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Wadsworth
+  nameClub1: Ogden
+  Pos: OF
+  G: '122'
+  PO: '196'
+  A: '7'
+  E: '15'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hill
+  nameClub1: Idaho Falls
+  Pos: OF
+  G: '18'
+  PO: '24'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lohbeck
+  nameClub1: Great Falls
+  Pos: OF
+  G: '12'
+  PO: '26'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Buck
+  nameClub1: Twin Falls
+  Pos: OF
+  G: '46'
+  PO: '80'
+  A: '7'
+  E: '7'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Williams
+  nameClub1: Idaho Falls
+  Pos: OF
+  G: '40'
+  PO: '56'
+  A: '5'
+  E: '7'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Johnson
+  nameClub1: Boise
+  Pos: OF
+  G: '13'
+  PO: '16'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Brown
+  nameFirst: G.
+  nameClub1: Idaho Falls
+  Pos: OF
+  G: '106'
+  PO: '167'
+  A: '16'
+  E: '22'
+  DP: '2'
+  PCT: '.893'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bowman
+  nameClub1: Great Falls
+  Pos: OF
+  G: '16'
+  PO: '14'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.824'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Cucchiarini
+  nameClub1: Billings
+  Pos: OF
+  G: '10'
+  PO: '7'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Anderson
+  nameClub1: Idaho Falls
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '1'
+  E: '7'
+  DP: '1'
+  PCT: '.667'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Mele
+  nameClub1: Billings
+  Pos: C
+  G: '25'
+  PO: '140'
+  A: '14'
+  E: '2'
+  DP: '3'
+  PB: '7'
+  PCT: '.987'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Tiesiera
+  nameClub1: Salt Lake City
+  Pos: C
+  G: '100'
+  PO: '518'
+  A: '60'
+  E: '8'
+  DP: '4'
+  PB: '8'
+  PCT: '.986'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Triandos
+  nameClub1: Twin Falls
+  Pos: C
+  G: '23'
+  PO: '163'
+  A: '12'
+  E: '3'
+  DP: '3'
+  PB: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stumpf
+  nameClub1: Great Falls
+  Pos: C
+  G: '118'
+  PO: '534'
+  A: '86'
+  E: '14'
+  DP: '9'
+  PB: '15'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Morgan
+  nameClub1: Pocatello
+  Pos: C
+  G: '119'
+  PO: '701'
+  A: '103'
+  E: '19'
+  DP: '11'
+  PB: '14'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Tapp
+  nameClub1: Idaho Falls
+  Pos: C
+  G: '88'
+  PO: '432'
+  A: '81'
+  E: '12'
+  DP: '8'
+  PB: '14'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Danielson
+  nameClub1: Twin Falls
+  Pos: C
+  G: '84'
+  PO: '530'
+  A: '37'
+  E: '14'
+  DP: '5'
+  PB: '14'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Spaziano
+  nameClub1: Boise
+  Pos: C
+  G: '47'
+  PO: '249'
+  A: '21'
+  E: '7'
+  DP: '5'
+  PB: '4'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: McConnell
+  nameClub1: Ogden
+  Pos: C
+  G: '70'
+  PO: '404'
+  A: '57'
+  E: '13'
+  DP: '5'
+  PB: '8'
+  PCT: '.973'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Rhoer
+  nameClub1: Twin Falls
+  Pos: C
+  G: '12'
+  PO: '63'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Sirota
+  nameClub1: Billings
+  Pos: C
+  G: '78'
+  PO: '443'
+  A: '65'
+  E: '16'
+  DP: '6'
+  PB: '14'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Constantino
+  nameClub1: Boise
+  Pos: C
+  G: '62'
+  PO: '348'
+  A: '47'
+  E: '13'
+  DP: '7'
+  PB: '6'
+  PCT: '.968'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Swedman
+  nameClub1: Salt Lake City
+  Pos: C
+  G: '14'
+  PO: '97'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PB: '6'
+  PCT: '.963'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: White
+  nameClub1: Salt Lake City
+  Pos: C
+  G: '10'
+  PO: '22'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PB: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Watson
+  nameClub1: Ogden
+  Pos: C
+  G: '61'
+  PO: '340'
+  A: '29'
+  E: '16'
+  DP: '3'
+  PB: '23'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Corey
+  nameClub1: Idaho Falls
+  Pos: C
+  G: '26'
+  PO: '112'
+  A: '23'
+  E: '6'
+  DP: '2'
+  PB: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Neal
+  nameClub1: Idaho Falls
+  Pos: C
+  G: '14'
+  PO: '75'
+  A: '16'
+  E: '6'
+  DP: '5'
+  PB: '0'
+  PCT: '.948'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Giorvas
+  nameClub1: Ogden
+  Pos: C
+  G: '23'
+  PO: '98'
+  A: '10'
+  E: '8'
+  DP: '2'
+  PB: '12'
+  PCT: '.931'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Gibson
+  nameClub1: Billings
+  Pos: C
+  G: '14'
+  PO: '47'
+  A: '4'
+  E: '5'
+  DP: '0'
+  PB: '4'
+  PCT: '.911'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Fazzio
+  nameClub1: Billings
+  Pos: P
+  G: '23'
+  PO: '7'
+  A: '33'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Woodbury
+  nameClub1: Salt Lake City
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '24'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Relyea
+  nameClub1: Twin Falls
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bowman
+  nameClub1: Great Falls
+  Pos: P
+  G: '11'
+  PO: '8'
+  A: '12'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Frisbee
+  nameClub1: Ogden
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '2'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Rial
+  nameClub1: Salt Lake City
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Gilmore
+  nameClub1: Boise
+  Pos: P
+  G: '22'
+  PO: '6'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Smith
+  nameFirst: T.
+  nameClub1: Pocatello
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '13'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Owens
+  nameClub1: Boise
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '9'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Asplund
+  nameClub1: Salt Lake City
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hartker
+  nameClub1: Ogden
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Ensley
+  nameClub1: Ogden
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Korhonen
+  nameClub1: Great Falls
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Nygard
+  nameClub1: Idaho Falls
+  Pos: P
+  G: '40'
+  PO: '15'
+  A: '66'
+  E: '2'
+  DP: '6'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Scott
+  nameClub1: Great Falls
+  Pos: P
+  G: '36'
+  PO: '3'
+  A: '35'
+  E: '1'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Shepard
+  nameClub1: Billings
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '29'
+  E: '1'
+  DP: '4'
+  PCT: '.974'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Clear
+  nameClub1: Pocatello
+  Pos: P
+  G: '24'
+  PO: '5'
+  A: '27'
+  E: '1'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Slack
+  nameClub1: Pocatello
+  Pos: P
+  G: '24'
+  PO: '7'
+  A: '24'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Zieser
+  nameClub1: Ogden
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '28'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Tufteland
+  nameClub1: Billings
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hisle
+  nameClub1: Ogden
+  Pos: P
+  G: '35'
+  PO: '5'
+  A: '46'
+  E: '2'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stilwell
+  nameClub1: Billings
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Buck
+  nameClub1: Pocatello
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '36'
+  E: '2'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Thurston
+  nameClub1: Idaho Falls
+  Pos: P
+  G: '34'
+  PO: '18'
+  A: '45'
+  E: '3'
+  DP: '5'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Erwin
+  nameClub1: Ogden
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Ali
+  nameClub1: Great Falls
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Guy
+  nameClub1: Ogden
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '46'
+  E: '3'
+  DP: '3'
+  PCT: '.945'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Bartholomew
+  nameClub1: Great Falls
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '4'
+  A: '30'
+  E: '2'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hittle
+  nameClub1: Twin Falls
+  Pos: P
+  G: '35'
+  PO: '6'
+  A: '25'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Morones
+  nameClub1: Salt Lake City
+  Pos: P
+  G: '32'
+  PO: '4'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Sperato
+  nameClub1: Billings
+  Pos: P
+  G: '21'
+  PO: '4'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Larner
+  nameClub1: Salt Lake City
+  Pos: P
+  G: '33'
+  PO: '11'
+  A: '43'
+  E: '4'
+  DP: '2'
+  PCT: '.931'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Conover
+  nameClub1: Boise
+  Pos: P
+  G: '32'
+  PO: '3'
+  A: '34'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Carroll
+  nameClub1: Pocatello
+  Pos: P
+  G: '31'
+  PO: '3'
+  A: '34'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Tierney
+  nameClub1: Salt Lake City
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '40'
+  E: '4'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hyatt
+  nameClub1: Idaho Falls
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '19'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Manier
+  nameClub1: Great Falls
+  Pos: P
+  G: '35'
+  PO: '11'
+  A: '32'
+  E: '4'
+  DP: '1'
+  PCT: '.915'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Stites
+  nameClub1: Boise
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '36'
+  E: '4'
+  DP: '3'
+  PCT: '.913'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hurley
+  nameClub1: Twin Falls
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '19'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Flinn
+  nameClub1: Ogden
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Greco
+  nameClub1: Idaho Falls
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '0'
+  A: '29'
+  E: '3'
+  DP: '1'
+  PCT: '.906'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Maruca
+  nameClub1: Twin Falls
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Kushner
+  nameClub1: Ogden
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Wallerstein
+  nameClub1: Billings
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '10'
+  A: '25'
+  E: '4'
+  DP: '2'
+  PCT: '.897'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Schroeder
+  nameClub1: Twin Falls
+  throws: L
+  Pos: P
+  G: '38'
+  PO: '9'
+  A: '41'
+  E: '6'
+  DP: '4'
+  PCT: '.893'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lloyd
+  nameClub1: Idaho Falls
+  Pos: P
+  G: '40'
+  PO: '3'
+  A: '22'
+  E: '3'
+  DP: '2'
+  PCT: '.893'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Noyes
+  nameClub1: Boise
+  Pos: P
+  G: '27'
+  PO: '12'
+  A: '29'
+  E: '5'
+  DP: '2'
+  PCT: '.891'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Clary
+  nameClub1: Idaho Falls
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Park
+  nameClub1: Great Falls
+  throws: L
+  Pos: P
+  G: '38'
+  PO: '5'
+  A: '33'
+  E: '5'
+  DP: '3'
+  PCT: '.884'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Vogel
+  nameClub1: Pocatello
+  Pos: P
+  G: '25'
+  PO: '11'
+  A: '33'
+  E: '6'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Neunswander
+  nameClub1: Boise
+  Pos: P
+  G: '41'
+  PO: '2'
+  A: '20'
+  E: '5'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lanning
+  nameClub1: Ogden
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Jones
+  nameFirst: R.
+  nameClub1: Twin Falls
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '16'
+  E: '3'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Manzer
+  nameClub1: Great Falls
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '11'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Yerkes
+  nameClub1: Boise
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '12'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Guy
+  nameFirst: R.
+  nameClub1: Billings
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '13'
+  E: '3'
+  DP: '1'
+  PCT: '.864'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Domenichelli
+  nameClub1: Salt Lake City
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '34'
+  E: '7'
+  DP: '4'
+  PCT: '.848'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Long
+  nameClub1: Ogden
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '9'
+  E: '2'
+  DP: '2'
+  PCT: '.833'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Gibson
+  nameClub1: Idaho Falls
+  Pos: P
+  G: '12'
+  PO: '5'
+  A: '11'
+  E: '4'
+  DP: '3'
+  PCT: '.800'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Gabler
+  nameClub1: Great Falls
+  nameClub2: Idaho Falls
+  Pos: P
+  G: '20'
+  PO: '0'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Eskenberry
+  nameClub1: Twin Falls
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '34'
+  E: '10'
+  DP: '2'
+  PCT: '.796'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Lee
+  nameClub1: Boise
+  Pos: P
+  G: '23'
+  PO: '0'
+  A: '14'
+  E: '4'
+  DP: '0'
+  PCT: '.778'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Maycock
+  nameClub1: Twin Falls
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PCT: '.769'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: White
+  nameClub1: Ogden
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1949'
+  nameLeague: Pioneer League
+  nameLast: Hanna
+  nameClub1: Pocatello
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.706'
+  TP: '0'

@@ -1,0 +1,118 @@
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '99'
+  L: '68'
+  T: '0'
+  PCT: '.593'
+  RANK: '1'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '93'
+  L: '74'
+  T: '0'
+  PCT: '.557'
+  RANK: '2'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '86'
+  L: '81'
+  T: '1'
+  PCT: '.515'
+  RANK: '3'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '83'
+  L: '85'
+  T: '1'
+  PCT: '.494'
+  RANK: '4'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '80'
+  L: '88'
+  T: '0'
+  PCT: '.476'
+  RANK: '5'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '79'
+  L: '88'
+  T: '0'
+  PCT: '.473'
+  RANK: '6'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '75'
+  L: '92'
+  T: '1'
+  PCT: '.449'
+  RANK: '7'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '74'
+  L: '93'
+  T: '1'
+  PCT: '.443'
+  RANK: '8'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1951'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

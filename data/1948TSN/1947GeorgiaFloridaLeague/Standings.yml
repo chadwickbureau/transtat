@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular
+  W: '85'
+  L: '53'
+  T: '0'
+  PCT: '.616'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular
+  W: '79'
+  L: '59'
+  T: '0'
+  PCT: '.572'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '2'
+  PCT: '.571'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.557'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '68'
+  L: '69'
+  T: '1'
+  PCT: '.496'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  phase: regular
+  W: '65'
+  L: '74'
+  T: '0'
+  PCT: '.468'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular
+  W: '54'
+  L: '84'
+  T: '1'
+  PCT: '.391'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: regular
+  W: '45'
+  L: '93'
+  T: '0'
+  PCT: '.326'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

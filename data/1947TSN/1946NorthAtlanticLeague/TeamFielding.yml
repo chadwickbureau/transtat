@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Stroudsburg
+  G: '121'
+  PO: '2977'
+  A: '1316'
+  E: '230'
+  DP: '81'
+  TP: '1'
+  PB: '15'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Peekskill
+  G: '115'
+  PO: '2911'
+  A: '1214'
+  E: '232'
+  DP: '64'
+  TP: '0'
+  PB: '16'
+  PCT: '.947'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Nyack
+  G: '120'
+  PO: '2986'
+  A: '1392'
+  E: '252'
+  DP: '79'
+  TP: '0'
+  PB: '31'
+  PCT: '.946'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Carbondale
+  G: '118'
+  PO: '2887'
+  A: '1175'
+  E: '238'
+  DP: '82'
+  TP: '0'
+  PB: '27'
+  PCT: '.945'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Nazareth
+  G: '118'
+  PO: '2848'
+  A: '1291'
+  E: '261'
+  DP: '80'
+  TP: '0'
+  PB: '28'
+  PCT: '.941'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Mahanoy City
+  G: '113'
+  PO: '2733'
+  A: '1141'
+  E: '292'
+  DP: '83'
+  TP: '1'
+  PB: '36'
+  PCT: '.930'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Bloomingdale
+  G: '122'
+  PO: '2960'
+  A: '1315'
+  E: '329'
+  DP: '82'
+  TP: '1'
+  PB: '33'
+  PCT: '.929'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Newburgh/Walden
+  G: '117'
+  PO: '2475'
+  A: '970'
+  E: '337'
+  DP: '45'
+  TP: '1'
+  PB: '32'
+  PCT: '.913'

@@ -1,0 +1,66 @@
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  G: '141'
+  DP: '156'
+  PB: '12'
+  PO: '3685'
+  A: '1473'
+  E: '171'
+  PCT: '.968'
+  TP: '2'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Reading
+  G: '140'
+  DP: '147'
+  PB: '20'
+  PO: '3636'
+  A: '1402'
+  E: '171'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Springfield
+  G: '139'
+  DP: '148'
+  PB: '22'
+  PO: '3620'
+  A: '1482'
+  E: '175'
+  PCT: '.967'
+  TP: '0'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  G: '141'
+  DP: '162'
+  PB: '20'
+  PO: '3651'
+  A: '1491'
+  E: '189'
+  PCT: '.965'
+  TP: '0'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  G: '140'
+  DP: '101'
+  PB: '12'
+  PO: '3546'
+  A: '1290'
+  E: '210'
+  PCT: '.958'
+  TP: '0'
+- year: '1957'
+  nameLeague: Eastern League
+  nameClub: Albany
+  G: '139'
+  DP: '133'
+  PB: '26'
+  PO: '3579'
+  A: '1352'
+  E: '224'
+  PCT: '.957'
+  TP: '0'

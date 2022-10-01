@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Havana
+  phase: regular
+  W: '97'
+  L: '57'
+  T: '0'
+  PCT: '.630'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  phase: regular
+  W: '84'
+  L: '67'
+  T: '1'
+  PCT: '.556'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Lakeland
+  phase: regular
+  W: '82'
+  L: '72'
+  T: '0'
+  PCT: '.532'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  phase: regular
+  W: '78'
+  L: '73'
+  T: '1'
+  PCT: '.517'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Miami
+  phase: regular
+  W: '75'
+  L: '78'
+  T: '1'
+  PCT: '.490'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: West Palm Beach
+  phase: regular
+  W: '70'
+  L: '83'
+  T: '2'
+  PCT: '.458'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Miami Beach
+  phase: regular
+  W: '69'
+  L: '82'
+  T: '1'
+  PCT: '.457'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Fort Lauderdale
+  phase: regular
+  W: '55'
+  L: '98'
+  T: '0'
+  PCT: '.359'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Havana
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Lakeland
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Havana
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,222 @@
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: regular/first
+  W: '40'
+  L: '24'
+  T: '0'
+  PCT: '.625'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular/first
+  W: '36'
+  L: '26'
+  T: '0'
+  PCT: '.581'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular/first
+  W: '36'
+  L: '27'
+  T: '0'
+  PCT: '.571'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: regular/first
+  W: '34'
+  L: '29'
+  T: '0'
+  PCT: '.540'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular/first
+  W: '31'
+  L: '31'
+  T: '1'
+  PCT: '.500'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Wausau
+  phase: regular/first
+  W: '24'
+  L: '35'
+  T: '0'
+  PCT: '.407'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular/first
+  W: '24'
+  L: '37'
+  T: '0'
+  PCT: '.393'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular/first
+  W: '23'
+  L: '39'
+  T: '1'
+  PCT: '.371'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: regular/second
+  W: '35'
+  L: '24'
+  T: '0'
+  PCT: '.593'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular/second
+  W: '34'
+  L: '28'
+  T: '0'
+  PCT: '.548'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: regular/second
+  W: '33'
+  L: '28'
+  T: '0'
+  PCT: '.541'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular/second
+  W: '29'
+  L: '31'
+  T: '0'
+  PCT: '.483'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular/second
+  W: '29'
+  L: '33'
+  T: '0'
+  PCT: '.468'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular/second
+  W: '28'
+  L: '32'
+  T: '0'
+  PCT: '.467'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Wausau
+  phase: regular/second
+  W: '28'
+  L: '34'
+  T: '0'
+  PCT: '.452'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular/second
+  W: '27'
+  L: '33'
+  T: '0'
+  PCT: '.450'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: regular
+  W: '73'
+  L: '52'
+  T: '0'
+  PCT: '.584'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: regular
+  W: '69'
+  L: '53'
+  T: '0'
+  PCT: '.566'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '70'
+  L: '55'
+  T: '0'
+  PCT: '.560'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '65'
+  L: '57'
+  T: '0'
+  PCT: '.533'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular
+  W: '59'
+  L: '63'
+  T: '1'
+  PCT: '.484'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Wausau
+  phase: regular
+  W: '52'
+  L: '69'
+  T: '0'
+  PCT: '.430'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular
+  W: '51'
+  L: '70'
+  T: '0'
+  PCT: '.421'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '52'
+  L: '72'
+  T: '1'
+  PCT: '.419'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: final
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: final
+  W: '1'
+  L: '2'
+  RANK: '2'

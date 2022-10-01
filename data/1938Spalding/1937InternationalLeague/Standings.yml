@@ -1,0 +1,64 @@
+- year: '1937'
+  nameLeague: International League
+  nameClub: Newark
+  W: '109'
+  L: '43'
+  T: '1'
+  PCT: '.717'
+  RANK: '1'
+- year: '1937'
+  nameLeague: International League
+  nameClub: Montreal
+  W: '82'
+  L: '67'
+  T: '0'
+  PCT: '.550'
+  RANK: '2'
+- year: '1937'
+  nameLeague: International League
+  nameClub: Syracuse
+  W: '78'
+  L: '74'
+  T: '0'
+  PCT: '.513'
+  RANK: '3'
+- year: '1937'
+  nameLeague: International League
+  nameClub: Baltimore
+  W: '76'
+  L: '75'
+  T: '0'
+  PCT: '.503'
+  RANK: '4'
+- year: '1937'
+  nameLeague: International League
+  nameClub: Buffalo
+  W: '74'
+  L: '79'
+  T: '1'
+  PCT: '.484'
+  RANK: '5'
+- year: '1937'
+  nameLeague: International League
+  nameClub: Rochester
+  W: '74'
+  L: '80'
+  T: '2'
+  PCT: '.481'
+  RANK: '6'
+- year: '1937'
+  nameLeague: International League
+  nameClub: Toronto
+  W: '63'
+  L: '88'
+  T: '0'
+  PCT: '.417'
+  RANK: '7'
+- year: '1937'
+  nameLeague: International League
+  nameClub: Jersey City
+  W: '50'
+  L: '100'
+  T: '0'
+  PCT: '.333'
+  RANK: '8'

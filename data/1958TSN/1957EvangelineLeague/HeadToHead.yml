@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  Crowley: '6'
+  Alexandria: '8'
+  Lake Charles: '8'
+  Baton Rouge: '6'
+  Thibodaux: '8'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  Lafayette: '6'
+  Alexandria: '14'
+  Lake Charles: '13'
+  Baton Rouge: '9'
+  Thibodaux: '21'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  Lafayette: '4'
+  Crowley: '12'
+  Lake Charles: '21'
+  Baton Rouge: '8'
+  Thibodaux: '23'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  Lafayette: '3'
+  Crowley: '16'
+  Alexandria: '10'
+  Baton Rouge: '4'
+  Thibodaux: '10'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  Lafayette: '4'
+  Crowley: '4'
+  Alexandria: '4'
+  Lake Charles: '8'
+  Thibodaux: '4'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  Lafayette: '4'
+  Crowley: '9'
+  Alexandria: '7'
+  Lake Charles: '17'
+  Baton Rouge: '8'

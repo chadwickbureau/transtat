@@ -1,0 +1,118 @@
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Centreville
+  phase: regular
+  W: '88'
+  L: '37'
+  T: '0'
+  PCT: '.704'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Milford
+  phase: regular
+  W: '77'
+  L: '49'
+  T: '2'
+  PCT: '.611'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Dover
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '1'
+  PCT: '.544'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: regular
+  W: '61'
+  L: '64'
+  T: '2'
+  PCT: '.488'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Easton
+  phase: regular
+  W: '59'
+  L: '66'
+  T: '1'
+  PCT: '.472'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Seaford
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: regular
+  W: '53'
+  L: '73'
+  T: '3'
+  PCT: '.421'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  phase: regular
+  W: '37'
+  L: '87'
+  T: '1'
+  PCT: '.208'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Centreville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Dover
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Milford
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Centreville
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Eastern Shore League
+  nameClub: Milford
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

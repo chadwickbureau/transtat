@@ -1,0 +1,2137 @@
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Muse
+  nameClub1: Wilson
+  Pos: 1B
+  G: '24'
+  PO: '155'
+  A: '3'
+  E: '2'
+  DP: '4'
+  PCT: '.988'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Leach
+  nameClub1: Goldsboro
+  Pos: 1B
+  G: '16'
+  PO: '142'
+  A: '14'
+  E: '2'
+  DP: '12'
+  PCT: '.987'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Soufas
+  nameClub1: New Bern
+  Pos: 1B
+  G: '137'
+  PO: '879'
+  A: '81'
+  E: '20'
+  DP: '68'
+  PCT: '.980'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Hussey
+  nameClub1: Goldsboro
+  Pos: 1B
+  G: '99'
+  PO: '886'
+  A: '50'
+  E: '23'
+  DP: '52'
+  PCT: '.976'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Deaton
+  nameClub1: Kinston
+  Pos: 1B
+  G: '106'
+  PO: '928'
+  A: '34'
+  E: '24'
+  DP: '63'
+  PCT: '.976'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Haynes
+  nameClub1: Wilson
+  Pos: 1B
+  G: '25'
+  PO: '223'
+  A: '19'
+  E: '6'
+  DP: '13'
+  PCT: '.976'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Gonzalez
+  nameClub1: Roanoke Rapids
+  Pos: 1B
+  G: '92'
+  PO: '709'
+  A: '41'
+  E: '21'
+  DP: '52'
+  PCT: '.973'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Parker
+  nameClub1: Tarboro
+  nameClub2: Roanoke Rapids
+  Pos: 1B
+  G: '103'
+  PO: '840'
+  A: '83'
+  E: '27'
+  DP: '49'
+  PCT: '.972'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Balentine
+  nameClub1: Rocky Mount
+  Pos: 1B
+  G: '138'
+  PO: '1143'
+  A: '72'
+  E: '37'
+  DP: '53'
+  PCT: '.970'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Bomar
+  nameFirst: J.
+  nameClub1: Greenville
+  Pos: 1B
+  G: '116'
+  PO: '862'
+  A: '50'
+  E: '32'
+  DP: '52'
+  PCT: '.966'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Daniel
+  nameClub1: New Bern
+  Pos: 1B
+  G: '15'
+  PO: '121'
+  A: '10'
+  E: '5'
+  DP: '8'
+  PCT: '.963'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Caldwell
+  nameClub1: Tarboro
+  Pos: 1B
+  G: '117'
+  PO: '466'
+  A: '265'
+  E: '31'
+  DP: '54'
+  PCT: '.959'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Montalvo
+  nameClub1: Wilson
+  Pos: 1B
+  G: '12'
+  PO: '115'
+  A: '3'
+  E: '5'
+  DP: '6'
+  PCT: '.959'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ranweiler
+  nameClub1: Greenville
+  Pos: 1B
+  G: '120'
+  PO: '287'
+  A: '48'
+  E: '15'
+  DP: '14'
+  PCT: '.957'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Sposa
+  nameClub1: Wilson
+  Pos: 1B
+  G: '19'
+  PO: '161'
+  A: '7'
+  E: '10'
+  DP: '4'
+  PCT: '.944'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Walsh
+  nameClub1: New Bern
+  Pos: 1B
+  G: '10'
+  PO: '63'
+  A: '4'
+  E: '6'
+  DP: '5'
+  PCT: '.918'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Rudden
+  nameClub1: Roanoke Rapids
+  Pos: 2B
+  G: '56'
+  PO: '143'
+  A: '154'
+  E: '11'
+  DP: '25'
+  PCT: '.964'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Evans
+  nameClub1: Goldsboro
+  Pos: 2B
+  G: '39'
+  PO: '34'
+  A: '99'
+  E: '5'
+  DP: '12'
+  PCT: '.964'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Skelton
+  nameClub1: Tarboro
+  nameClub2: Roanoke Rapids
+  Pos: 2B
+  G: '127'
+  PO: '315'
+  A: '375'
+  E: '30'
+  DP: '58'
+  PCT: '.958'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Dickens
+  nameClub1: Wilson
+  Pos: 2B
+  G: '118'
+  PO: '287'
+  A: '340'
+  E: '28'
+  DP: '50'
+  PCT: '.957'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Maloney
+  nameClub1: New Bern
+  nameClub2: Rocky Mount
+  Pos: 2B
+  G: '134'
+  PO: '362'
+  A: '380'
+  E: '35'
+  DP: '60'
+  PCT: '.955'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Collins
+  nameClub1: Kinston
+  Pos: 2B
+  G: '136'
+  PO: '413'
+  A: '391'
+  E: '39'
+  DP: '73'
+  PCT: '.954'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Riddle
+  nameClub1: Tarboro
+  Pos: 2B
+  G: '28'
+  PO: '70'
+  A: '77'
+  E: '8'
+  DP: '10'
+  PCT: '.948'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Sawyer
+  nameClub1: Wilson
+  Pos: 2B
+  G: '40'
+  PO: '135'
+  A: '63'
+  E: '12'
+  DP: '12'
+  PCT: '.943'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Payne
+  nameClub1: Goldsboro
+  Pos: 2B
+  G: '96'
+  PO: '229'
+  A: '247'
+  E: '35'
+  DP: '47'
+  PCT: '.932'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Lynch
+  nameClub1: Greenville
+  Pos: 2B
+  G: '105'
+  PO: '262'
+  A: '263'
+  E: '41'
+  DP: '30'
+  PCT: '.928'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Salyer
+  nameClub1: Goldsboro
+  Pos: 2B
+  G: '75'
+  PO: '170'
+  A: '179'
+  E: '30'
+  DP: '32'
+  PCT: '.921'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Thompson
+  nameClub1: Rocky Mount
+  Pos: 2B
+  G: '33'
+  PO: '78'
+  A: '61'
+  E: '12'
+  DP: '8'
+  PCT: '.921'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Bickel
+  nameClub1: Roanoke Rapids
+  Pos: 2B
+  G: '14'
+  PO: '27'
+  A: '31'
+  E: '5'
+  DP: '1'
+  PCT: '.921'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Jenkins
+  nameClub1: Greenville
+  Pos: 2B
+  G: '64'
+  PO: '140'
+  A: '160'
+  E: '26'
+  DP: '21'
+  PCT: '.920'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Andriach
+  nameClub1: New Bern
+  Pos: 2B
+  G: '120'
+  PO: '265'
+  A: '339'
+  E: '55'
+  DP: '63'
+  PCT: '.917'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Alusik
+  nameClub1: Rocky Mount
+  Pos: 2B
+  G: '14'
+  PO: '23'
+  A: '26'
+  E: '7'
+  DP: '2'
+  PCT: '.875'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Lowry
+  nameClub1: Goldsboro
+  Pos: 3B
+  G: '136'
+  PO: '159'
+  A: '283'
+  E: '26'
+  DP: '19'
+  PCT: '.944'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Martin
+  nameClub1: Roanoke Rapids
+  Pos: 3B
+  G: '119'
+  PO: '165'
+  A: '226'
+  E: '29'
+  DP: '15'
+  PCT: '.931'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Sanner
+  nameClub1: Wilson
+  Pos: 3B
+  G: '124'
+  PO: '152'
+  A: '254'
+  E: '31'
+  DP: '23'
+  PCT: '.929'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Peters
+  nameClub1: Kinston
+  Pos: 3B
+  G: '137'
+  PO: '137'
+  A: '303'
+  E: '36'
+  DP: '20'
+  PCT: '.924'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Hendershot
+  nameClub1: Rocky Mount
+  Pos: 3B
+  G: '47'
+  PO: '101'
+  A: '89'
+  E: '17'
+  DP: '12'
+  PCT: '.918'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Fowler
+  nameClub1: Rocky Mount
+  Pos: 3B
+  G: '117'
+  PO: '172'
+  A: '238'
+  E: '39'
+  DP: '16'
+  PCT: '.913'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Pare
+  nameFirst: R.
+  nameClub1: Greenville
+  Pos: 3B
+  G: '70'
+  PO: '83'
+  A: '146'
+  E: '23'
+  DP: '13'
+  PCT: '.909'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Baxter
+  nameClub1: Roanoke Rapids
+  Pos: 3B
+  G: '18'
+  PO: '36'
+  A: '17'
+  E: '6'
+  DP: '0'
+  PCT: '.898'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Faust
+  nameClub1: New Bern
+  Pos: 3B
+  G: '16'
+  PO: '18'
+  A: '31'
+  E: '6'
+  DP: '3'
+  PCT: '.891'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Urbanowicz
+  nameClub1: New Bern
+  Pos: 3B
+  G: '113'
+  PO: '192'
+  A: '162'
+  E: '45'
+  DP: '13'
+  PCT: '.887'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Jacobs
+  nameClub1: Greenville
+  Pos: 3B
+  G: '74'
+  PO: '99'
+  A: '116'
+  E: '28'
+  DP: '9'
+  PCT: '.885'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Kavanaugh
+  nameClub1: Tarboro
+  Pos: 3B
+  G: '129'
+  PO: '135'
+  A: '155'
+  E: '46'
+  DP: '11'
+  PCT: '.863'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Elkins
+  nameClub1: Tarboro
+  Pos: 3B
+  G: '24'
+  PO: '22'
+  A: '40'
+  E: '13'
+  DP: '1'
+  PCT: '.827'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Columbo
+  nameClub1: Rocky Mount
+  Pos: SS
+  G: '18'
+  PO: '33'
+  A: '28'
+  E: '3'
+  DP: '4'
+  PCT: '.953'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Stalls
+  nameClub1: Roanoke Rapids
+  Pos: SS
+  G: '34'
+  PO: '57'
+  A: '49'
+  E: '6'
+  DP: '4'
+  PCT: '.946'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Palmer
+  nameClub1: New Bern
+  Pos: SS
+  G: '92'
+  PO: '183'
+  A: '217'
+  E: '33'
+  DP: '29'
+  PCT: '.924'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Rehm
+  nameClub1: Wilson
+  Pos: SS
+  G: '137'
+  PO: '264'
+  A: '443'
+  E: '59'
+  DP: '63'
+  PCT: '.923'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Timm
+  nameClub1: Greenville
+  Pos: SS
+  G: '62'
+  PO: '106'
+  A: '101'
+  E: '18'
+  DP: '10'
+  PCT: '.920'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Webb
+  nameClub1: Rocky Mount
+  Pos: SS
+  G: '138'
+  PO: '261'
+  A: '404'
+  E: '75'
+  DP: '35'
+  PCT: '.899'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Andrewsh
+  nameClub1: Tarboro
+  Pos: SS
+  G: '135'
+  PO: '271'
+  A: '336'
+  E: '69'
+  DP: '59'
+  PCT: '.898'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Luke
+  nameClub1: Greenville
+  Pos: SS
+  G: '26'
+  PO: '98'
+  A: '50'
+  E: '17'
+  DP: '7'
+  PCT: '.897'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Pepio
+  nameClub1: Goldsboro
+  Pos: SS
+  G: '75'
+  PO: '152'
+  A: '261'
+  E: '51'
+  DP: '32'
+  PCT: '.890'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Tepedino
+  nameClub1: Kinston
+  Pos: SS
+  G: '135'
+  PO: '238'
+  A: '345'
+  E: '78'
+  DP: '54'
+  PCT: '.882'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Davis
+  nameClub1: Goldsboro
+  Pos: SS
+  G: '13'
+  PO: '14'
+  A: '23'
+  E: '5'
+  DP: '0'
+  PCT: '.881'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Trentalange
+  nameClub1: Roanoke Rapids
+  Pos: SS
+  G: '14'
+  PO: '23'
+  A: '39'
+  E: '9'
+  DP: '4'
+  PCT: '.873'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Cumby
+  nameClub1: Goldsboro
+  Pos: SS
+  G: '11'
+  PO: '10'
+  A: '10'
+  E: '3'
+  DP: '1'
+  PCT: '.870'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Barnes
+  nameClub1: Roanoke Rapids
+  Pos: SS
+  G: '14'
+  PO: '25'
+  A: '36'
+  E: '12'
+  DP: '3'
+  PCT: '.836'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Hobgood
+  nameClub1: New Bern
+  Pos: SS
+  G: '11'
+  PO: '21'
+  A: '22'
+  E: '9'
+  DP: '2'
+  PCT: '.827'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Bomar
+  nameFirst: W.
+  nameClub1: Greenville
+  Pos: SS
+  G: '12'
+  PO: '19'
+  A: '20'
+  E: '10'
+  DP: '2'
+  PCT: '.796'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Jarvis
+  nameClub1: Greenville
+  Pos: SS
+  G: '13'
+  PO: '15'
+  A: '28'
+  E: '12'
+  DP: '3'
+  PCT: '.782'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: McCall
+  nameClub1: Wilson
+  Pos: OF
+  G: '26'
+  PO: '14'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Meyer
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '128'
+  PO: '229'
+  A: '15'
+  E: '6'
+  DP: '2'
+  PCT: '.976'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Messina
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '16'
+  PO: '33'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Winkel
+  nameClub1: Kinston
+  Pos: OF
+  G: '127'
+  PO: '216'
+  A: '12'
+  E: '7'
+  DP: '0'
+  PCT: '.970'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Moss
+  nameClub1: Wilson
+  Pos: OF
+  G: '60'
+  PO: '146'
+  A: '14'
+  E: '5'
+  DP: '0'
+  PCT: '.970'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Leach
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '36'
+  PO: '233'
+  A: '15'
+  E: '8'
+  DP: '6'
+  PCT: '.969'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Earp
+  nameClub1: New Bern
+  Pos: OF
+  G: '30'
+  PO: '53'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.969'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Wolfe
+  nameClub1: Wilson
+  Pos: OF
+  G: '133'
+  PO: '317'
+  A: '18'
+  E: '11'
+  DP: '3'
+  PCT: '.968'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Fraker
+  nameClub1: Greenville
+  Pos: OF
+  G: '16'
+  PO: '29'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.968'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Cohen
+  nameClub1: Kinston
+  Pos: OF
+  G: '132'
+  PO: '237'
+  A: '29'
+  E: '9'
+  DP: '12'
+  PCT: '.967'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Musial
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '107'
+  PO: '170'
+  A: '5'
+  E: '6'
+  DP: '2'
+  PCT: '.967'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ciani
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '12'
+  PO: '26'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.967'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Lanier
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '26'
+  PO: '22'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Conwell
+  nameClub1: Kinston
+  Pos: OF
+  G: '72'
+  PO: '177'
+  A: '4'
+  E: '7'
+  DP: '2'
+  PCT: '.963'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Kennedy
+  nameClub1: Tarboro
+  Pos: OF
+  G: '109'
+  PO: '215'
+  A: '9'
+  E: '9'
+  DP: '0'
+  PCT: '.961'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Lingle
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '129'
+  PO: '250'
+  A: '36'
+  E: '12'
+  DP: '3'
+  PCT: '.960'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Latsko
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '65'
+  PO: '139'
+  A: '2'
+  E: '6'
+  DP: '1'
+  PCT: '.959'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Lee
+  nameClub1: Greenville
+  Pos: OF
+  G: '116'
+  PO: '276'
+  A: '21'
+  E: '14'
+  DP: '2'
+  PCT: '.955'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ellis
+  nameClub1: Kinston
+  Pos: OF
+  G: '31'
+  PO: '152'
+  A: '13'
+  E: '8'
+  DP: '12'
+  PCT: '.954'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Blackwell
+  nameFirst: V.
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '46'
+  PO: '72'
+  A: '6'
+  E: '4'
+  DP: '0'
+  PCT: '.951'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Schroeder
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '138'
+  PO: '243'
+  A: '15'
+  E: '14'
+  DP: '5'
+  PCT: '.949'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Jeffries
+  nameClub1: Tarboro
+  Pos: OF
+  G: '110'
+  PO: '263'
+  A: '18'
+  E: '16'
+  DP: '0'
+  PCT: '.946'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Whitener
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '102'
+  PO: '191'
+  A: '18'
+  E: '12'
+  DP: '2'
+  PCT: '.946'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Mauney
+  nameFirst: M.
+  nameClub1: Greenville
+  Pos: OF
+  G: '70'
+  PO: '178'
+  A: '18'
+  E: '12'
+  DP: '5'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Winstead
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '39'
+  PO: '98'
+  A: '12'
+  E: '7'
+  DP: '4'
+  PCT: '.940'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Zunno
+  nameClub1: New Bern
+  Pos: OF
+  G: '136'
+  PO: '256'
+  A: '19'
+  E: '19'
+  DP: '2'
+  PCT: '.935'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Mauney
+  nameFirst: W.
+  nameClub1: Greenville
+  Pos: OF
+  G: '125'
+  PO: '338'
+  A: '52'
+  E: '27'
+  DP: '4'
+  PCT: '.935'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: McNay
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '50'
+  PO: '166'
+  A: '11'
+  E: '13'
+  DP: '7'
+  PCT: '.932'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Holland
+  nameClub1: Roanoke Rapids
+  nameClub2: Goldsboro
+  Pos: OF
+  G: '23'
+  PO: '35'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.927'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Fabianich
+  nameClub1: Kinston
+  Pos: OF
+  G: '13'
+  PO: '20'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Outland
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '21'
+  PO: '40'
+  A: '7'
+  E: '4'
+  DP: '1'
+  PCT: '.922'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Stott
+  nameClub1: New Bern
+  Pos: OF
+  G: '80'
+  PO: '137'
+  A: '9'
+  E: '13'
+  DP: '0'
+  PCT: '.918'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Askew
+  nameClub1: Wilson
+  Pos: OF
+  G: '42'
+  PO: '65'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.918'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Hanley
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '54'
+  PO: '68'
+  A: '15'
+  E: '8'
+  DP: '3'
+  PCT: '.912'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: May
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '132'
+  PO: '180'
+  A: '70'
+  E: '25'
+  DP: '3'
+  PCT: '.909'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Rhabe
+  nameClub1: Tarboro
+  Pos: OF
+  G: '10'
+  PO: '10'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Blackwell
+  nameFirst: M.
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '135'
+  PO: '300'
+  A: '185'
+  E: '50'
+  DP: '9'
+  PCT: '.907'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Norwood
+  nameClub1: Kinston
+  Pos: OF
+  G: '57'
+  PO: '59'
+  A: '4'
+  E: '7'
+  DP: '0'
+  PCT: '.900'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Bangs
+  nameClub1: Wilson
+  Pos: OF
+  G: '101'
+  PO: '166'
+  A: '29'
+  E: '22'
+  DP: '14'
+  PCT: '.899'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Knowles
+  nameClub1: New Bern
+  Pos: OF
+  G: '74'
+  PO: '63'
+  A: '6'
+  E: '8'
+  DP: '1'
+  PCT: '.896'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Cupka
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '21'
+  PO: '16'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Coleman
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '16'
+  PO: '45'
+  A: '0'
+  E: '6'
+  DP: '0'
+  PCT: '.882'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Komanecky
+  nameClub1: Tarboro
+  Pos: OF
+  G: '108'
+  PO: '63'
+  A: '21'
+  E: '12'
+  DP: '2'
+  PCT: '.875'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Chute
+  nameClub1: Greenville
+  Pos: OF
+  G: '54'
+  PO: '79'
+  A: '8'
+  E: '13'
+  DP: '1'
+  PCT: '.870'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Kimmerle
+  nameClub1: Kinston
+  nameClub2: Roanoke Rapids
+  nameClub3: Wilson
+  Pos: OF
+  G: '52'
+  PO: '111'
+  A: '12'
+  E: '21'
+  DP: '1'
+  PCT: '.854'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Seawell
+  nameClub1: Kinston
+  Pos: OF
+  G: '18'
+  PO: '22'
+  A: '5'
+  E: '5'
+  DP: '0'
+  PCT: '.844'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Kreamcheck
+  nameClub1: Tarboro
+  nameClub2: Roanoke Rapids
+  Pos: OF
+  G: '35'
+  PO: '43'
+  A: '3'
+  E: '9'
+  DP: '0'
+  PCT: '.836'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Coyle
+  nameClub1: Wilson
+  Pos: OF
+  G: '13'
+  PO: '7'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Kreider
+  nameClub1: New Bern
+  Pos: C
+  G: '10'
+  PO: '12'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PB: '0'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Hand
+  nameClub1: Tarboro
+  Pos: C
+  G: '108'
+  PO: '649'
+  A: '61'
+  E: '10'
+  DP: '22'
+  PB: '3'
+  PCT: '.986'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ferguson
+  nameClub1: Tarboro
+  Pos: C
+  G: '90'
+  PO: '315'
+  A: '35'
+  E: '5'
+  DP: '2'
+  PB: '20'
+  PCT: '.986'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Collins
+  nameClub1: Goldsboro
+  Pos: C
+  G: '88'
+  PO: '501'
+  A: '32'
+  E: '8'
+  DP: '14'
+  PB: '10'
+  PCT: '.985'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Fentress
+  nameClub1: Goldsboro
+  Pos: C
+  G: '22'
+  PO: '119'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PB: '2'
+  PCT: '.985'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Pare
+  nameFirst: J.
+  nameClub1: Greenville
+  Pos: C
+  G: '47'
+  PO: '228'
+  A: '14'
+  E: '5'
+  DP: '1'
+  PB: '10'
+  PCT: '.980'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Hayward
+  nameClub1: Kinston
+  Pos: C
+  G: '13'
+  PO: '87'
+  A: '10'
+  E: '2'
+  DP: '1'
+  PB: '2'
+  PCT: '.980'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Munday
+  nameClub1: Rocky Mount
+  Pos: C
+  G: '112'
+  PO: '629'
+  A: '68'
+  E: '16'
+  DP: '7'
+  PB: '18'
+  PCT: '.978'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ruthko
+  nameClub1: Goldsboro
+  Pos: C
+  G: '38'
+  PO: '190'
+  A: '16'
+  E: '5'
+  DP: '4'
+  PB: '2'
+  PCT: '.976'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Sorgi
+  nameClub1: Wilson
+  Pos: C
+  G: '39'
+  PO: '181'
+  A: '24'
+  E: '5'
+  DP: '0'
+  PB: '6'
+  PCT: '.976'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Rowland
+  nameClub1: Goldsboro
+  Pos: C
+  G: '21'
+  PO: '111'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PB: '3'
+  PCT: '.975'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Pavlich
+  nameClub1: Roanoke Rapids
+  Pos: C
+  G: '104'
+  PO: '401'
+  A: '61'
+  E: '14'
+  DP: '4'
+  PB: '9'
+  PCT: '.971'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Sweel
+  nameClub1: Kinston
+  Pos: C
+  G: '94'
+  PO: '566'
+  A: '66'
+  E: '19'
+  DP: '6'
+  PB: '9'
+  PCT: '.971'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ehlman
+  nameClub1: Wilson
+  Pos: C
+  G: '65'
+  PO: '327'
+  A: '31'
+  E: '13'
+  DP: '1'
+  PB: '9'
+  PCT: '.965'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Pinner
+  nameClub1: New Bern
+  nameClub2: Wilson
+  Pos: C
+  G: '111'
+  PO: '609'
+  A: '59'
+  E: '24'
+  DP: '46'
+  PB: '11'
+  PCT: '.965'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Settle
+  nameClub1: New Bern
+  Pos: C
+  G: '88'
+  PO: '418'
+  A: '48'
+  E: '17'
+  DP: '4'
+  PB: '5'
+  PCT: '.965'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Croom
+  nameClub1: Kinston
+  Pos: C
+  G: '88'
+  PO: '273'
+  A: '23'
+  E: '11'
+  DP: '4'
+  PB: '14'
+  PCT: '.964'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: McLawhorn
+  nameFirst: J.
+  nameClub1: Goldsboro
+  Pos: C
+  G: '13'
+  PO: '37'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.955'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Brooks
+  nameClub1: New Bern
+  Pos: C
+  G: '58'
+  PO: '204'
+  A: '31'
+  E: '12'
+  DP: '7'
+  PB: '2'
+  PCT: '.951'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Yeagle
+  nameClub1: Greenville
+  Pos: C
+  G: '22'
+  PO: '48'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PB: '5'
+  PCT: '.946'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Rhodes
+  nameClub1: Rocky Mount
+  Pos: C
+  G: '68'
+  PO: '223'
+  A: '27'
+  E: '15'
+  DP: '1'
+  PB: '11'
+  PCT: '.943'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Toth
+  nameClub1: Roanoke Rapids
+  Pos: C
+  G: '31'
+  PO: '102'
+  A: '9'
+  E: '7'
+  DP: '0'
+  PB: '7'
+  PCT: '.941'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Simmons
+  nameClub1: Greenville
+  Pos: C
+  G: '57'
+  PO: '225'
+  A: '28'
+  E: '19'
+  DP: '3'
+  PB: '5'
+  PCT: '.930'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Wilson
+  nameClub1: Wilson
+  Pos: P
+  G: '35'
+  PO: '11'
+  A: '22'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Spitzer
+  nameClub1: New Bern
+  nameClub2: Rocky Mount
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '18'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Cooper
+  nameClub1: Goldsboro
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '30'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ellington
+  nameClub1: New Bern
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '19'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Lawson
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Lloyd
+  nameClub1: Wilson
+  Pos: P
+  G: '39'
+  PO: '2'
+  A: '26'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Nesbit
+  nameClub1: Wilson
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Russelavage
+  nameClub1: Tarboro
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Freed
+  nameClub1: New Bern
+  Pos: P
+  G: '15'
+  PO: '0'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Titus
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '51'
+  PO: '11'
+  A: '40'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Polink
+  nameClub1: Tarboro
+  Pos: P
+  G: '25'
+  PO: '13'
+  A: '38'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Taylor
+  nameClub1: Kinston
+  Pos: P
+  G: '32'
+  PO: '5'
+  A: '39'
+  E: '1'
+  DP: '3'
+  PCT: '.978'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Helmer
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '27'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Boseman
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '28'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: McLawhorn
+  nameFirst: S.
+  nameClub1: Kinston
+  Pos: P
+  G: '53'
+  PO: '14'
+  A: '67'
+  E: '3'
+  DP: '1'
+  PCT: '.964'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Carlton
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '30'
+  PO: '4'
+  A: '23'
+  E: '1'
+  DP: '0'
+  PCT: '.964'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Alamo
+  nameClub1: Greenville
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '46'
+  E: '2'
+  DP: '1'
+  PCT: '.962'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: John
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Jarlett
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '55'
+  PO: '16'
+  A: '68'
+  E: '4'
+  DP: '0'
+  PCT: '.955'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Spires
+  nameClub1: New Bern
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Bissette
+  nameClub1: Wilson
+  Pos: P
+  G: '39'
+  PO: '7'
+  A: '52'
+  E: '3'
+  DP: '2'
+  PCT: '.952'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Knorek
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Chitty
+  nameClub1: Greenville
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '40'
+  E: '3'
+  DP: '1'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Herring
+  nameClub1: Goldsboro
+  Pos: P
+  G: '51'
+  PO: '45'
+  A: '48'
+  E: '6'
+  DP: '5'
+  PCT: '.939'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Gauldin
+  nameClub1: Kinston
+  nameClub2: Goldsboro
+  Pos: P
+  G: '36'
+  PO: '5'
+  A: '26'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Kimmel
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '66'
+  PO: '27'
+  A: '34'
+  E: '4'
+  DP: '2'
+  PCT: '.938'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Milankovich
+  nameClub1: Goldsboro
+  Pos: P
+  G: '38'
+  PO: '11'
+  A: '48'
+  E: '4'
+  DP: '0'
+  PCT: '.937'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Little
+  nameClub1: Greenville
+  Pos: P
+  G: '25'
+  PO: '8'
+  A: '36'
+  E: '3'
+  DP: '1'
+  PCT: '.936'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Baldwin
+  nameClub1: Greenville
+  Pos: P
+  G: '50'
+  PO: '26'
+  A: '46'
+  E: '5'
+  DP: '1'
+  PCT: '.935'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Felton
+  nameClub1: Wilson
+  Pos: P
+  G: '52'
+  PO: '45'
+  A: '26'
+  E: '5'
+  DP: '1'
+  PCT: '.934'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Pate
+  nameClub1: Kinston
+  Pos: P
+  G: '43'
+  PO: '35'
+  A: '45'
+  E: '6'
+  DP: '3'
+  PCT: '.930'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Webb
+  nameClub1: Wilson
+  Pos: P
+  G: '42'
+  PO: '8'
+  A: '53'
+  E: '5'
+  DP: '1'
+  PCT: '.924'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Neville
+  nameClub1: Tarboro
+  Pos: P
+  G: '88'
+  PO: '99'
+  A: '88'
+  E: '16'
+  DP: '7'
+  PCT: '.921'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Garzarelli
+  nameClub1: Goldsboro
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.909'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Whiteheart
+  nameClub1: Goldsboro
+  Pos: P
+  G: '26'
+  PO: '2'
+  A: '28'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Ploszaj
+  nameClub1: Tarboro
+  Pos: P
+  G: '17'
+  PO: '5'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.909'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Foell
+  nameClub1: Greenville
+  nameClub2: New Bern
+  Pos: P
+  G: '48'
+  PO: '8'
+  A: '59'
+  E: '7'
+  DP: '1'
+  PCT: '.905'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Murray
+  nameClub1: New Bern
+  Pos: P
+  G: '29'
+  PO: '21'
+  A: '17'
+  E: '4'
+  DP: '2'
+  PCT: '.905'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Gudger
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '37'
+  PO: '7'
+  A: '40'
+  E: '5'
+  DP: '0'
+  PCT: '.904'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Benton
+  nameClub1: Greenville
+  nameClub2: Rocky Mount
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '29'
+  E: '4'
+  DP: '0'
+  PCT: '.900'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Dopkin
+  nameClub1: Goldsboro
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Rothe
+  nameClub1: Tarboro
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '22'
+  E: '3'
+  DP: '0'
+  PCT: '.897'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Karczewski
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Sheehan
+  nameClub1: New Bern
+  Pos: P
+  G: '50'
+  PO: '17'
+  A: '38'
+  E: '7'
+  DP: '2'
+  PCT: '.887'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Johnson
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '14'
+  PO: '32'
+  A: '15'
+  E: '6'
+  DP: '0'
+  PCT: '.887'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Pollock
+  nameClub1: Goldsboro
+  Pos: P
+  G: '35'
+  PO: '6'
+  A: '40'
+  E: '6'
+  DP: '3'
+  PCT: '.885'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Harrison
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '37'
+  PO: '10'
+  A: '35'
+  E: '6'
+  DP: '1'
+  PCT: '.882'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Krauss
+  nameClub1: Kinston
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Anderson
+  nameClub1: Greenville
+  Pos: P
+  G: '20'
+  PO: '8'
+  A: '33'
+  E: '6'
+  DP: '0'
+  PCT: '.872'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Motley
+  nameClub1: New Bern
+  Pos: P
+  G: '46'
+  PO: '6'
+  A: '31'
+  E: '6'
+  DP: '2'
+  PCT: '.860'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Barton
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '25'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Eoff
+  nameClub1: Kinston
+  Pos: P
+  G: '26'
+  PO: '9'
+  A: '24'
+  E: '6'
+  DP: '1'
+  PCT: '.846'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Solters
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '11'
+  E: '3'
+  DP: '0'
+  PCT: '.813'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Causey
+  nameClub1: Kinston
+  nameClub2: Wilson
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '14'
+  E: '4'
+  DP: '0'
+  PCT: '.810'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Schultz
+  nameClub1: Kinston
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '12'
+  E: '4'
+  DP: '0'
+  PCT: '.800'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Turnage
+  nameClub1: New Bern
+  nameClub2: Kinston
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameLast: Owles
+  nameClub1: New Bern
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '10'
+  E: '5'
+  DP: '0'
+  PCT: '.722'

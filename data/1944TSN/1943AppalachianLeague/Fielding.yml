@@ -1,0 +1,1481 @@
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Cain
+  nameClub1: Bristol
+  Pos: 1B
+  G: '11'
+  PO: '57'
+  A: '4'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Wood
+  nameClub1: Erwin
+  Pos: 1B
+  G: '25'
+  PO: '196'
+  A: '10'
+  E: '2'
+  DP: '7'
+  PCT: '.990'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Poole
+  nameFirst: James
+  nameClub1: Erwin
+  Pos: 1B
+  G: '78'
+  PO: '637'
+  A: '84'
+  E: '13'
+  DP: '44'
+  PCT: '.981'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Roberts
+  nameClub1: Kingsport
+  Pos: 1B
+  G: '88'
+  PO: '774'
+  A: '21'
+  E: '16'
+  DP: '48'
+  PCT: '.980'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Smawley
+  nameClub1: Kingsport
+  Pos: 1B
+  G: '13'
+  PO: '116'
+  A: '8'
+  E: '4'
+  DP: '6'
+  PCT: '.969'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Dodds
+  nameClub1: Bristol
+  Pos: 1B
+  G: '13'
+  PO: '118'
+  A: '3'
+  E: '4'
+  DP: '6'
+  PCT: '.968'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Jacobs
+  nameClub1: Johnson City
+  Pos: 1B
+  G: '10'
+  PO: '87'
+  A: '4'
+  E: '3'
+  DP: '9'
+  PCT: '.968'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Cox
+  nameClub1: Bristol
+  Pos: 1B
+  G: '90'
+  PO: '798'
+  A: '30'
+  E: '28'
+  DP: '81'
+  PCT: '.967'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Tyree
+  nameClub1: Johnson City
+  Pos: 1B
+  G: '42'
+  PO: '395'
+  A: '19'
+  E: '15'
+  DP: '26'
+  PCT: '.965'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Jowaiszas
+  nameClub1: Johnson City
+  Pos: 1B
+  G: '45'
+  PO: '321'
+  A: '17'
+  E: '16'
+  DP: '34'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hock
+  nameClub1: Johnson City
+  Pos: 1B
+  G: '12'
+  PO: '86'
+  A: '5'
+  E: '8'
+  DP: '6'
+  PCT: '.919'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: McClure
+  nameClub1: Bristol
+  Pos: 2B
+  G: '75'
+  PO: '229'
+  A: '257'
+  E: '17'
+  DP: '61'
+  PCT: '.966'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Speranza
+  nameClub1: Kingsport
+  Pos: 2B
+  G: '39'
+  PO: '87'
+  A: '112'
+  E: '8'
+  DP: '17'
+  PCT: '.961'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Kyes
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '34'
+  PO: '113'
+  A: '84'
+  E: '9'
+  DP: '13'
+  PCT: '.956'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Whalen
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '31'
+  PO: '74'
+  A: '122'
+  E: '9'
+  DP: '21'
+  PCT: '.956'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Crowley
+  nameClub1: Kingsport
+  Pos: 2B
+  G: '17'
+  PO: '37'
+  A: '44'
+  E: '4'
+  DP: '11'
+  PCT: '.953'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Grueter
+  nameClub1: Erwin
+  Pos: 2B
+  G: '23'
+  PO: '57'
+  A: '56'
+  E: '6'
+  DP: '5'
+  PCT: '.950'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Cochrane
+  nameClub1: Erwin
+  Pos: 2B
+  G: '17'
+  PO: '56'
+  A: '32'
+  E: '5'
+  DP: '11'
+  PCT: '.946'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: King
+  nameClub1: Kingsport
+  Pos: 2B
+  G: '10'
+  PO: '21'
+  A: '29'
+  E: '4'
+  DP: '7'
+  PCT: '.926'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Ricks
+  nameClub1: Erwin
+  Pos: 2B
+  G: '36'
+  PO: '91'
+  A: '91'
+  E: '16'
+  DP: '12'
+  PCT: '.919'
+  TP: '2'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Frumin
+  nameClub1: Erwin
+  Pos: 2B
+  G: '21'
+  PO: '53'
+  A: '58'
+  E: '10'
+  DP: '8'
+  PCT: '.917'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Chancellor
+  nameClub1: Johnson City
+  nameClub2: Bristol
+  Pos: 2B
+  G: '32'
+  PO: '68'
+  A: '73'
+  E: '13'
+  DP: '14'
+  PCT: '.916'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Fitzpatrick
+  nameClub1: Johnson City
+  nameClub2: Kingsport
+  Pos: 2B
+  G: '22'
+  PO: '68'
+  A: '67'
+  E: '13'
+  DP: '7'
+  PCT: '.912'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Pavlick
+  nameClub1: Bristol
+  Pos: 2B
+  G: '23'
+  PO: '51'
+  A: '48'
+  E: '11'
+  DP: '8'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Fauci
+  nameClub1: Kingsport
+  nameClub2: Erwin
+  Pos: 2B
+  G: '19'
+  PO: '53'
+  A: '46'
+  E: '12'
+  DP: '6'
+  PCT: '.892'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Ciempa
+  nameClub1: Johnson City
+  Pos: 2B
+  G: '10'
+  PO: '16'
+  A: '15'
+  E: '9'
+  DP: '4'
+  PCT: '.775'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Ricks
+  nameClub1: Erwin
+  Pos: 3B
+  G: '45'
+  PO: '85'
+  A: '69'
+  E: '7'
+  DP: '4'
+  PCT: '.937'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Seltz
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '14'
+  PO: '16'
+  A: '39'
+  E: '4'
+  DP: '5'
+  PCT: '.932'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Johnson
+  nameClub1: Bristol
+  Pos: 3B
+  G: '55'
+  PO: '55'
+  A: '131'
+  E: '14'
+  DP: '11'
+  PCT: '.930'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Cummins
+  nameClub1: Kingsport
+  Pos: 3B
+  G: '50'
+  PO: '61'
+  A: '109'
+  E: '17'
+  DP: '11'
+  PCT: '.909'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Anderson
+  nameFirst: Herbert
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '12'
+  PO: '14'
+  A: '24'
+  E: '4'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Heffner
+  nameClub1: Kingsport
+  Pos: 3B
+  G: '15'
+  PO: '19'
+  A: '41'
+  E: '7'
+  DP: '4'
+  PCT: '.896'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Vanek
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '23'
+  PO: '23'
+  A: '40'
+  E: '9'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Williams
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '39'
+  PO: '53'
+  A: '73'
+  E: '20'
+  DP: '10'
+  PCT: '.863'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Oliver
+  nameClub1: Bristol
+  Pos: 3B
+  G: '33'
+  PO: '41'
+  A: '61'
+  E: '17'
+  DP: '5'
+  PCT: '.857'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Fisher
+  nameClub1: Erwin
+  nameClub2: Kingsport
+  Pos: 3B
+  G: '55'
+  PO: '63'
+  A: '86'
+  E: '28'
+  DP: '7'
+  PCT: '.842'
+  TP: '2'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hutchinson
+  nameClub1: Johnson City
+  Pos: 3B
+  G: '12'
+  PO: '15'
+  A: '23'
+  E: '8'
+  DP: '4'
+  PCT: '.826'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Moir
+  nameClub1: Kingsport
+  Pos: 3B
+  G: '26'
+  PO: '19'
+  A: '51'
+  E: '15'
+  DP: '3'
+  PCT: '.824'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Kawa
+  nameClub1: Bristol
+  Pos: 3B
+  G: '17'
+  PO: '11'
+  A: '26'
+  E: '16'
+  DP: '0'
+  PCT: '.698'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Gruber
+  nameClub1: Bristol
+  Pos: SS
+  G: '88'
+  PO: '146'
+  A: '296'
+  E: '21'
+  DP: '50'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Johnson
+  nameClub1: Bristol
+  Pos: SS
+  G: '26'
+  PO: '33'
+  A: '66'
+  E: '6'
+  DP: '8'
+  PCT: '.943'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Sebastian
+  nameClub1: Erwin
+  Pos: SS
+  G: '24'
+  PO: '51'
+  A: '86'
+  E: '12'
+  DP: '6'
+  PCT: '.919'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Frumin
+  nameClub1: Erwin
+  Pos: SS
+  G: '64'
+  PO: '131'
+  A: '197'
+  E: '36'
+  DP: '27'
+  PCT: '.901'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Grueter
+  nameClub1: Erwin
+  Pos: SS
+  G: '12'
+  PO: '15'
+  A: '37'
+  E: '6'
+  DP: '2'
+  PCT: '.897'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Whalen
+  nameClub1: Johnson City
+  Pos: SS
+  G: '10'
+  PO: '13'
+  A: '33'
+  E: '6'
+  DP: '3'
+  PCT: '.885'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Erps
+  nameClub1: Johnson City
+  Pos: SS
+  G: '21'
+  PO: '39'
+  A: '49'
+  E: '12'
+  DP: '9'
+  PCT: '.880'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Feathers
+  nameClub1: Kingsport
+  Pos: SS
+  G: '11'
+  PO: '12'
+  A: '30'
+  E: '6'
+  DP: '3'
+  PCT: '.875'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Fazzio
+  nameClub1: Kingsport
+  Pos: SS
+  G: '63'
+  PO: '106'
+  A: '160'
+  E: '40'
+  DP: '22'
+  PCT: '.869'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Creger
+  nameClub1: Johnson City
+  Pos: SS
+  G: '66'
+  PO: '121'
+  A: '156'
+  E: '44'
+  DP: '27'
+  PCT: '.863'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Fauci
+  nameClub1: Kingsport
+  nameClub2: Erwin
+  Pos: SS
+  G: '30'
+  PO: '42'
+  A: '84'
+  E: '24'
+  DP: '14'
+  PCT: '.740'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hroncich
+  nameClub1: Bristol
+  Pos: OF
+  G: '22'
+  PO: '41'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Vanek
+  nameClub1: Johnson City
+  Pos: OF
+  G: '11'
+  PO: '15'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Morris
+  nameClub1: Bristol
+  Pos: OF
+  G: '19'
+  PO: '15'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Feathers
+  nameClub1: Kingsport
+  Pos: OF
+  G: '94'
+  PO: '186'
+  A: '5'
+  E: '3'
+  DP: '4'
+  PCT: '.985'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Porciau
+  nameClub1: Bristol
+  Pos: OF
+  G: '36'
+  PO: '58'
+  A: '5'
+  E: '1'
+  DP: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Harrington
+  nameClub1: Erwin
+  Pos: OF
+  G: '34'
+  PO: '80'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Johnson
+  nameClub1: Bristol
+  Pos: OF
+  G: '22'
+  PO: '37'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Sipek
+  nameClub1: Erwin
+  Pos: OF
+  G: '37'
+  PO: '67'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Yost
+  nameClub1: Bristol
+  Pos: OF
+  G: '44'
+  PO: '94'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Gowan
+  nameClub1: Erwin
+  Pos: OF
+  G: '22'
+  PO: '30'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Fitzpatrick
+  nameClub1: Johnson City
+  nameClub2: Kingsport
+  Pos: OF
+  G: '45'
+  PO: '56'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Rizzo
+  nameClub1: Bristol
+  Pos: OF
+  G: '97'
+  PO: '149'
+  A: '10'
+  E: '6'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Heffner
+  nameClub1: Kingsport
+  Pos: OF
+  G: '26'
+  PO: '50'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Lady
+  nameClub1: Erwin
+  Pos: OF
+  G: '15'
+  PO: '24'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Moore
+  nameClub1: Erwin
+  Pos: OF
+  G: '46'
+  PO: '61'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Schulte
+  nameClub1: Bristol
+  Pos: OF
+  G: '83'
+  PO: '117'
+  A: '11'
+  E: '6'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Frumin
+  nameClub1: Erwin
+  Pos: OF
+  G: '22'
+  PO: '40'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: King
+  nameClub1: Kingsport
+  Pos: OF
+  G: '44'
+  PO: '70'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Sobota
+  nameClub1: Johnson City
+  Pos: OF
+  G: '11'
+  PO: '14'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Layman
+  nameClub1: Erwin
+  Pos: OF
+  G: '16'
+  PO: '15'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Sinnott
+  nameClub1: Kingsport
+  Pos: OF
+  G: '48'
+  PO: '85'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Cain
+  nameClub1: Bristol
+  Pos: OF
+  G: '15'
+  PO: '15'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Rider
+  nameClub1: Johnson City
+  Pos: OF
+  G: '100'
+  PO: '165'
+  A: '15'
+  E: '13'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Lockman
+  nameClub1: Johnson City
+  Pos: OF
+  G: '48'
+  PO: '117'
+  A: '6'
+  E: '9'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Thompson
+  nameClub1: Erwin
+  Pos: OF
+  G: '24'
+  PO: '57'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.924'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Wood
+  nameClub1: Erwin
+  Pos: OF
+  G: '11'
+  PO: '11'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Schlickenrieder
+  nameClub1: Kingsport
+  Pos: OF
+  G: '26'
+  PO: '31'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Nelson
+  nameClub1: Johnson City
+  nameClub2: Kingsport
+  Pos: OF
+  G: '57'
+  PO: '93'
+  A: '7'
+  E: '9'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Kegley
+  nameClub1: Johnson City
+  Pos: OF
+  G: '23'
+  PO: '40'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.911'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hazen
+  nameClub1: Johnson City
+  Pos: OF
+  G: '57'
+  PO: '116'
+  A: '11'
+  E: '14'
+  DP: '5'
+  PCT: '.901'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Price
+  nameClub1: Kingsport
+  nameClub2: Johnson City
+  Pos: OF
+  G: '28'
+  PO: '36'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Langley
+  nameClub1: Erwin
+  Pos: OF
+  G: '12'
+  PO: '15'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Jaynes
+  nameClub1: Erwin
+  Pos: OF
+  G: '22'
+  PO: '29'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.868'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Scott
+  nameClub1: Erwin
+  Pos: OF
+  G: '26'
+  PO: '22'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Maxey
+  nameClub1: Johnson City
+  Pos: OF
+  G: '10'
+  PO: '19'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Jilton
+  nameClub1: Johnson City
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '27'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hoover
+  nameClub1: Bristol
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '21'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Woodall
+  nameClub1: Johnson City
+  Pos: P
+  G: '11'
+  PO: '6'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Damme
+  nameClub1: Kingsport
+  nameClub2: Johnson City
+  nameClub3: Kingsport
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Kahl
+  nameClub1: Johnson City
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Cain
+  nameClub1: Bristol
+  Pos: P
+  G: '18'
+  PO: '13'
+  A: '41'
+  E: '1'
+  DP: '1'
+  PCT: '.982'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Mote
+  nameClub1: Kingsport
+  nameClub2: Erwin
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '31'
+  E: '1'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Fitzpatrick
+  nameClub1: Johnson City
+  nameClub2: Kingsport
+  Pos: P
+  G: '13'
+  PO: '8'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Schlickenrieder
+  nameClub1: Kingsport
+  Pos: P
+  G: '15'
+  PO: '8'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Shipley
+  nameClub1: Kingsport
+  Pos: P
+  G: '19'
+  PO: '0'
+  A: '22'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Pelletier
+  nameClub1: Kingsport
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Price
+  nameClub1: Kingsport
+  nameClub2: Johnson City
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Roden
+  nameClub1: Bristol
+  Pos: P
+  G: '20'
+  PO: '3'
+  A: '34'
+  E: '2'
+  DP: '3'
+  PCT: '.949'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Murphy
+  nameFirst: W.
+  nameClub1: Erwin
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Lark
+  nameClub1: Kingsport
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Nee
+  nameClub1: Kingsport
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '31'
+  E: '2'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Gowan
+  nameClub1: Erwin
+  Pos: P
+  G: '14'
+  PO: '10'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Morris
+  nameClub1: Bristol
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '39'
+  E: '3'
+  DP: '2'
+  PCT: '.932'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Becker
+  nameClub1: Bristol
+  Pos: P
+  G: '21'
+  PO: '8'
+  A: '32'
+  E: '3'
+  DP: '1'
+  PCT: '.930'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Poole
+  nameFirst: Phil
+  nameClub1: Erwin
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '22'
+  E: '2'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hansen
+  nameClub1: Bristol
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '35'
+  E: '4'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Brennan
+  nameClub1: Johnson City
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '25'
+  E: '3'
+  DP: '1'
+  PCT: '.903'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hock
+  nameClub1: Johnson City
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '32'
+  E: '4'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Stroupe
+  nameClub1: Kingsport
+  nameClub2: Erwin
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Girard
+  nameClub1: Kingsport
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Lohr
+  nameClub1: Erwin
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.883'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Jaynes
+  nameClub1: Erwin
+  Pos: P
+  G: '16'
+  PO: '7'
+  A: '21'
+  E: '4'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Van Benthuysen
+  nameClub1: Johnson City
+  nameClub2: Kingsport
+  nameClub3: Erwin
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Kanavas
+  nameClub1: Erwin
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.700'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Blackman
+  nameClub1: Johnson City
+  Pos: C
+  G: '42'
+  PO: '177'
+  A: '42'
+  E: '1'
+  DP: '6'
+  PB: '2'
+  PCT: '.995'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Pramesa
+  nameClub1: Bristol
+  Pos: C
+  G: '97'
+  PO: '515'
+  A: '55'
+  E: '11'
+  DP: '5'
+  PB: '11'
+  PCT: '.981'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Hensley
+  nameClub1: Kingsport
+  Pos: C
+  G: '18'
+  PO: '111'
+  A: '7'
+  E: '4'
+  DP: '2'
+  PB: '1'
+  PCT: '.967'
+  TP: '1'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Anderson
+  nameFirst: R.
+  nameClub1: Johnson City
+  Pos: C
+  G: '37'
+  PO: '196'
+  A: '26'
+  E: '9'
+  DP: '3'
+  PB: '5'
+  PCT: '.960'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Njirich
+  nameClub1: Kingsport
+  Pos: C
+  G: '88'
+  PO: '436'
+  A: '67'
+  E: '22'
+  DP: '2'
+  PB: '16'
+  PCT: '.958'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Wentworth
+  nameClub1: Erwin
+  Pos: C
+  G: '97'
+  PO: '494'
+  A: '89'
+  E: '33'
+  DP: '6'
+  PB: '21'
+  PCT: '.946'
+  TP: '0'
+- year: '1943'
+  nameLeague: Appalachian League
+  nameLast: Anderson
+  nameFirst: Harold
+  nameClub1: Johnson City
+  Pos: C
+  G: '16'
+  PO: '69'
+  A: '8'
+  E: '6'
+  DP: '0'
+  PB: '3'
+  PCT: '.928'
+  TP: '0'

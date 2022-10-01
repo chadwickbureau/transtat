@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  Charlotte: '12'
+  Columbus: '12'
+  Augusta: '10'
+  Macon: '10'
+  Columbia: '15'
+  Savannah: '13'
+  Montgomery/Knoxville: '15'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  Jacksonville: '8'
+  Columbus: '8'
+  Augusta: '10'
+  Macon: '12'
+  Columbia: '11'
+  Savannah: '18'
+  Montgomery/Knoxville: '12'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  Jacksonville: '8'
+  Charlotte: '12'
+  Augusta: '12'
+  Macon: '9'
+  Columbia: '12'
+  Savannah: '10'
+  Montgomery/Knoxville: '16'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  Jacksonville: '10'
+  Charlotte: '10'
+  Columbus: '8'
+  Macon: '12'
+  Columbia: '11'
+  Savannah: '11'
+  Montgomery/Knoxville: '12'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  Jacksonville: '10'
+  Charlotte: '8'
+  Columbus: '11'
+  Augusta: '8'
+  Columbia: '8'
+  Savannah: '11'
+  Montgomery/Knoxville: '8'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  Jacksonville: '5'
+  Charlotte: '9'
+  Columbus: '8'
+  Augusta: '9'
+  Macon: '12'
+  Savannah: '9'
+  Montgomery/Knoxville: '12'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  Jacksonville: '7'
+  Charlotte: '2'
+  Columbus: '10'
+  Augusta: '9'
+  Macon: '9'
+  Columbia: '11'
+  Montgomery/Knoxville: '12'
+- year: '1956'
+  nameLeague: South Atlantic League
+  nameClub: Montgomery/Knoxville
+  Jacksonville: '5'
+  Charlotte: '8'
+  Columbus: '4'
+  Augusta: '8'
+  Macon: '12'
+  Columbia: '8'
+  Savannah: '8'

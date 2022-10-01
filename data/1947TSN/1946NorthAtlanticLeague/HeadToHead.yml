@@ -1,0 +1,80 @@
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Peekskill
+  Nazareth: '11'
+  Stroudsburg: '9'
+  Carbondale: '10'
+  Nyack: '12'
+  Bloomingdale: '15'
+  Mahanoy City: '11'
+  Walden: '14'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Nazareth
+  Peekskill: '7'
+  Stroudsburg: '13'
+  Carbondale: '8'
+  Nyack: '8'
+  Bloomingdale: '13'
+  Mahanoy City: '15'
+  Walden: '14'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Stroudsburg
+  Peekskill: '8'
+  Nazareth: '5'
+  Carbondale: '9'
+  Nyack: '10'
+  Bloomingdale: '12'
+  Mahanoy City: '10'
+  Walden: '18'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Carbondale
+  Peekskill: '4'
+  Nazareth: '9'
+  Stroudsburg: '7'
+  Nyack: '8'
+  Bloomingdale: '14'
+  Mahanoy City: '12'
+  Walden: '15'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Nyack
+  Peekskill: '6'
+  Nazareth: '9'
+  Stroudsburg: '7'
+  Carbondale: '9'
+  Bloomingdale: '11'
+  Mahanoy City: '12'
+  Walden: '13'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Bloomingdale
+  Peekskill: '3'
+  Nazareth: '2'
+  Stroudsburg: '5'
+  Carbondale: '4'
+  Nyack: '7'
+  Mahanoy City: '9'
+  Walden: '11'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Mahanoy City
+  Peekskill: '2'
+  Nazareth: '2'
+  Stroudsburg: '6'
+  Carbondale: '5'
+  Nyack: '5'
+  Bloomingdale: '6'
+  Walden: '4'
+- year: '1946'
+  nameLeague: North Atlantic League
+  nameClub: Walden
+  Peekskill: '2'
+  Nazareth: '2'
+  Stroudsburg: '0'
+  Carbondale: '3'
+  Nyack: '3'
+  Bloomingdale: '7'
+  Mahanoy City: '10'

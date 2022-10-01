@@ -1,0 +1,2838 @@
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameClub1: Orlando
+  nameClub2: St. Petersburg
+  Pos: 1B
+  G: '10'
+  PO: '89'
+  A: '3'
+  E: '0'
+  DP: '9'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Palatka
+  Pos: 1B
+  G: '69'
+  PO: '565'
+  A: '31'
+  E: '8'
+  DP: '47'
+  PCT: '.987'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Mathews
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: 1B
+  G: '136'
+  PO: '1119'
+  A: '55'
+  E: '18'
+  DP: '77'
+  PCT: '.985'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Stapp
+  nameClub1: Leesburg
+  Pos: 1B
+  G: '12'
+  PO: '105'
+  A: '13'
+  E: '2'
+  DP: '12'
+  PCT: '.983'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: 1B
+  G: '130'
+  PO: '1091'
+  A: '75'
+  E: '22'
+  DP: '89'
+  PCT: '.981'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Westbrook
+  nameClub1: Gainesville
+  throws: L
+  Pos: 1B
+  G: '40'
+  PO: '335'
+  A: '15'
+  E: '7'
+  DP: '39'
+  PCT: '.980'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Tulner
+  nameClub1: West Palm Beach
+  Pos: 1B
+  G: '66'
+  PO: '503'
+  A: '22'
+  E: '11'
+  DP: '40'
+  PCT: '.979'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Pizzarro
+  nameClub1: Gainesville
+  Pos: 1B
+  G: '96'
+  PO: '787'
+  A: '37'
+  E: '18'
+  DP: '68'
+  PCT: '.979'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Cockrell
+  nameClub1: Cocoa
+  Pos: 1B
+  G: '129'
+  PO: '1074'
+  A: '93'
+  E: '28'
+  DP: '100'
+  PCT: '.977'
+  TP: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Castro
+  nameClub1: Orlando
+  Pos: 1B
+  G: '33'
+  PO: '255'
+  A: '12'
+  E: '7'
+  DP: '12'
+  PCT: '.974'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Carswell
+  nameClub1: Leesburg
+  throws: L
+  Pos: 1B
+  G: '66'
+  PO: '451'
+  A: '23'
+  E: '13'
+  DP: '45'
+  PCT: '.973'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Husted
+  nameClub1: Orlando
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '103'
+  A: '4'
+  E: '4'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Loveland
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: 1B
+  G: '28'
+  PO: '177'
+  A: '6'
+  E: '7'
+  DP: '16'
+  PCT: '.963'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gatch
+  nameClub1: Orlando
+  nameClub2: West Palm Beach
+  Pos: 1B
+  G: '55'
+  PO: '454'
+  A: '30'
+  E: '19'
+  DP: '44'
+  PCT: '.962'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Payne
+  nameClub1: Palatka
+  throws: L
+  Pos: 1B
+  G: '70'
+  PO: '558'
+  A: '35'
+  E: '24'
+  DP: '46'
+  PCT: '.961'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Lowe
+  nameClub1: Leesburg
+  throws: L
+  Pos: 1B
+  G: '24'
+  PO: '160'
+  A: '5'
+  E: '7'
+  DP: '14'
+  PCT: '.959'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Caudle
+  nameClub1: West Palm Beach
+  Pos: 1B
+  G: '25'
+  PO: '194'
+  A: '8'
+  E: '9'
+  DP: '14'
+  PCT: '.957'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Belanger
+  nameClub1: Leesburg
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '88'
+  A: '2'
+  E: '5'
+  DP: '12'
+  PCT: '.947'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameClub1: Cocoa
+  Pos: 1B
+  G: '10'
+  PO: '81'
+  A: '5'
+  E: '6'
+  DP: '5'
+  PCT: '.935'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Nunez
+  nameClub1: Orlando
+  Pos: 1B
+  G: '16'
+  PO: '130'
+  A: '5'
+  E: '10'
+  DP: '4'
+  PCT: '.931'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Giordano
+  nameClub1: Leesburg
+  Pos: 2B
+  G: '85'
+  PO: '194'
+  A: '223'
+  E: '8'
+  DP: '52'
+  PCT: '.981'
+  TP: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Trautman
+  nameClub1: Orlando
+  Pos: 2B
+  G: '33'
+  PO: '72'
+  A: '102'
+  E: '6'
+  DP: '31'
+  PCT: '.967'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Paparella
+  nameClub1: Palatka
+  Pos: 2B
+  G: '102'
+  PO: '244'
+  A: '260'
+  E: '20'
+  DP: '55'
+  PCT: '.962'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameClub1: Gainesville
+  Pos: 2B
+  G: '128'
+  PO: '287'
+  A: '340'
+  E: '26'
+  DP: '80'
+  PCT: '.960'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameClub1: Cocoa
+  Pos: 2B
+  G: '23'
+  PO: '73'
+  A: '57'
+  E: '6'
+  DP: '12'
+  PCT: '.956'
+  TP: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Rojas
+  nameClub1: West Palm Beach
+  Pos: 2B
+  G: '128'
+  PO: '297'
+  A: '344'
+  E: '34'
+  DP: '58'
+  PCT: '.950'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Valley
+  nameClub1: Cocoa
+  Pos: 2B
+  G: '75'
+  PO: '192'
+  A: '190'
+  E: '21'
+  DP: '42'
+  PCT: '.948'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Zarza
+  nameClub1: Orlando
+  Pos: 2B
+  G: '87'
+  PO: '219'
+  A: '211'
+  E: '25'
+  DP: '24'
+  PCT: '.945'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Laschen
+  nameClub1: St. Petersburg
+  Pos: 2B
+  G: '126'
+  PO: '315'
+  A: '355'
+  E: '40'
+  DP: '65'
+  PCT: '.944'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Knoop
+  nameClub1: Leesburg
+  Pos: 2B
+  G: '41'
+  PO: '78'
+  A: '83'
+  E: '10'
+  DP: '11'
+  PCT: '.942'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Mirielli
+  nameClub1: Daytona Beach
+  Pos: 2B
+  G: '104'
+  PO: '233'
+  A: '276'
+  E: '32'
+  DP: '44'
+  PCT: '.941'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Linnell
+  nameClub1: Palatka
+  Pos: 2B
+  G: '11'
+  PO: '31'
+  A: '27'
+  E: '4'
+  DP: '4'
+  PCT: '.935'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Anderson
+  nameClub1: Cocoa
+  Pos: 2B
+  G: '42'
+  PO: '89'
+  A: '104'
+  E: '14'
+  DP: '24'
+  PCT: '.932'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Daytona Beach
+  Pos: 2B
+  G: '29'
+  PO: '65'
+  A: '77'
+  E: '14'
+  DP: '15'
+  PCT: '.910'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gurri
+  nameClub1: St. Petersburg
+  Pos: 2B
+  G: '10'
+  PO: '10'
+  A: '19'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Scinto
+  nameClub1: Palatka
+  Pos: 2B
+  G: '24'
+  PO: '43'
+  A: '53'
+  E: '11'
+  DP: '11'
+  PCT: '.897'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Close
+  nameClub1: West Palm Beach
+  Pos: 3B
+  G: '16'
+  PO: '22'
+  A: '28'
+  E: '3'
+  DP: '4'
+  PCT: '.943'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Anderson
+  nameClub1: Cocoa
+  Pos: 3B
+  G: '34'
+  PO: '27'
+  A: '54'
+  E: '6'
+  DP: '8'
+  PCT: '.931'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Myers
+  nameClub1: Leesburg
+  Pos: 3B
+  G: '133'
+  PO: '131'
+  A: '193'
+  E: '27'
+  DP: '19'
+  PCT: '.923'
+  TP: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gallego
+  nameClub1: Daytona Beach
+  Pos: 3B
+  G: '60'
+  PO: '74'
+  A: '108'
+  E: '16'
+  DP: '11'
+  PCT: '.919'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Bristol
+  nameClub1: West Palm Beach
+  Pos: 3B
+  G: '104'
+  PO: '127'
+  A: '188'
+  E: '32'
+  DP: '24'
+  PCT: '.908'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Marchegiano
+  nameClub1: Orlando
+  Pos: 3B
+  G: '138'
+  PO: '163'
+  A: '309'
+  E: '48'
+  DP: '25'
+  PCT: '.908'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameClub1: Cocoa
+  Pos: 3B
+  G: '80'
+  PO: '105'
+  A: '180'
+  E: '30'
+  DP: '22'
+  PCT: '.905'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Sadowski
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '43'
+  PO: '48'
+  A: '74'
+  E: '13'
+  DP: '22'
+  PCT: '.904'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Yarbrough
+  nameClub1: West Palm Beach
+  Pos: 3B
+  G: '11'
+  PO: '5'
+  A: '13'
+  E: '2'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: McKnight
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '91'
+  PO: '90'
+  A: '154'
+  E: '33'
+  DP: '41'
+  PCT: '.881'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: King
+  nameClub1: Palatka
+  Pos: 3B
+  G: '31'
+  PO: '26'
+  A: '48'
+  E: '11'
+  DP: '4'
+  PCT: '.871'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Alou
+  nameClub1: Cocoa
+  Pos: 3B
+  G: '24'
+  PO: '26'
+  A: '48'
+  E: '11'
+  DP: '2'
+  PCT: '.871'
+  TP: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Paul
+  nameClub1: St. Petersburg
+  Pos: 3B
+  G: '29'
+  PO: '37'
+  A: '41'
+  E: '12'
+  DP: '3'
+  PCT: '.867'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: O'Brien
+  nameClub1: Palatka
+  Pos: 3B
+  G: '22'
+  PO: '18'
+  A: '39'
+  E: '9'
+  DP: '5'
+  PCT: '.864'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Maxwell
+  nameClub1: Palatka
+  Pos: 3B
+  G: '39'
+  PO: '32'
+  A: '74'
+  E: '17'
+  DP: '5'
+  PCT: '.862'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Zeitler
+  nameClub1: Palatka
+  Pos: 3B
+  G: '22'
+  PO: '27'
+  A: '46'
+  E: '12'
+  DP: '2'
+  PCT: '.859'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Fiore
+  nameClub1: St. Petersburg
+  Pos: 3B
+  G: '76'
+  PO: '80'
+  A: '136'
+  E: '36'
+  DP: '15'
+  PCT: '.857'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Daytona Beach
+  Pos: 3B
+  G: '70'
+  PO: '47'
+  A: '134'
+  E: '31'
+  DP: '13'
+  PCT: '.854'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Boyette
+  nameClub1: St. Petersburg
+  Pos: 3B
+  G: '16'
+  PO: '20'
+  A: '20'
+  E: '7'
+  DP: '0'
+  PCT: '.851'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Horne
+  nameClub1: Palatka
+  Pos: 3B
+  G: '16'
+  PO: '20'
+  A: '17'
+  E: '11'
+  DP: '2'
+  PCT: '.771'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Mirielli
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '13'
+  PO: '23'
+  A: '45'
+  E: '3'
+  DP: '7'
+  PCT: '.958'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Oliver
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '12'
+  PO: '21'
+  A: '41'
+  E: '3'
+  DP: '4'
+  PCT: '.954'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Zarza
+  nameClub1: Orlando
+  Pos: SS
+  G: '28'
+  PO: '43'
+  A: '70'
+  E: '7'
+  DP: '11'
+  PCT: '.942'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wright
+  nameClub1: Cocoa
+  Pos: SS
+  G: '137'
+  PO: '265'
+  A: '401'
+  E: '48'
+  DP: '66'
+  PCT: '.933'
+  TP: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Padilla
+  nameClub1: West Palm Beach
+  Pos: SS
+  G: '131'
+  PO: '282'
+  A: '322'
+  E: '45'
+  DP: '63'
+  PCT: '.931'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Meadows
+  nameClub1: Palatka
+  Pos: SS
+  G: '90'
+  PO: '165'
+  A: '234'
+  E: '30'
+  DP: '47'
+  PCT: '.930'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Baller
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '56'
+  PO: '98'
+  A: '158'
+  E: '24'
+  DP: '21'
+  PCT: '.914'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Sadowski
+  nameClub1: Gainesville
+  Pos: SS
+  G: '91'
+  PO: '156'
+  A: '268'
+  E: '42'
+  DP: '30'
+  PCT: '.910'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Capps
+  nameClub1: Leesburg
+  Pos: SS
+  G: '73'
+  PO: '133'
+  A: '177'
+  E: '31'
+  DP: '37'
+  PCT: '.909'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Carter
+  nameFirst: D.
+  nameClub1: Leesburg
+  Pos: SS
+  G: '9'
+  PO: '114'
+  A: '144'
+  E: '26'
+  DP: '27'
+  PCT: '.908'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '94'
+  PO: '172'
+  A: '288'
+  E: '47'
+  DP: '53'
+  PCT: '.907'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Kiburis
+  nameClub1: Palatka
+  Pos: SS
+  G: '47'
+  PO: '82'
+  A: '112'
+  E: '21'
+  DP: '14'
+  PCT: '.902'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Scott
+  nameClub1: Orlando
+  Pos: SS
+  G: '22'
+  PO: '32'
+  A: '59'
+  E: '11'
+  DP: '5'
+  PCT: '.892'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: McKnight
+  nameClub1: Gainesville
+  Pos: SS
+  G: '46'
+  PO: '83'
+  A: '81'
+  E: '20'
+  DP: '19'
+  PCT: '.891'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Henderson
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '51'
+  PO: '81'
+  A: '127'
+  E: '27'
+  DP: '22'
+  PCT: '.885'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Morsberger
+  nameClub1: Orlando
+  Pos: SS
+  G: '80'
+  PO: '128'
+  A: '195'
+  E: '46'
+  DP: '18'
+  PCT: '.875'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Boyette
+  nameClub1: St. Petersburg
+  Pos: SS
+  G: '20'
+  PO: '38'
+  A: '45'
+  E: '12'
+  DP: '7'
+  PCT: '.874'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '16'
+  PO: '32'
+  A: '45'
+  E: '12'
+  DP: '4'
+  PCT: '.865'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameClub1: Orlando
+  nameClub2: St. Petersburg
+  Pos: SS
+  G: '12'
+  PO: '27'
+  A: '37'
+  E: '10'
+  DP: '10'
+  PCT: '.865'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: White
+  nameFirst: G.
+  nameClub1: Leesburg
+  throws: L
+  Pos: OF
+  G: '25'
+  PO: '41'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Jeffries
+  nameClub1: Orlando
+  Pos: OF
+  G: '12'
+  PO: '28'
+  A: '3'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Somerville
+  nameClub1: Orlando
+  throws: L
+  Pos: OF
+  G: '18'
+  PO: '14'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Boullon
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '11'
+  PO: '10'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Colon
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: OF
+  G: '14'
+  PO: '12'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: DeVincent
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '35'
+  PO: '50'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.982'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gallop
+  nameClub1: Gainesville
+  Pos: OF
+  G: '63'
+  PO: '98'
+  A: '6'
+  E: '3'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Yarbrough
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '90'
+  PO: '155'
+  A: '15'
+  E: '5'
+  DP: '2'
+  PCT: '.971'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Mathews
+  nameClub1: St. Petersburg
+  nameClub2: Orlando
+  Pos: OF
+  G: '72'
+  PO: '120'
+  A: '8'
+  E: '4'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Kassabian
+  nameClub1: Palatka
+  Pos: OF
+  G: '44'
+  PO: '63'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Bennett
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '136'
+  PO: '274'
+  A: '6'
+  E: '9'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Howser
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: OF
+  G: '95'
+  PO: '166'
+  A: '13'
+  E: '6'
+  DP: '5'
+  PCT: '.968'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameClub1: Orlando
+  nameClub2: St. Petersburg
+  Pos: OF
+  G: '74'
+  PO: '117'
+  A: '5'
+  E: '4'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Close
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '43'
+  PO: '54'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Franklin
+  nameClub1: Cocoa
+  throws: L
+  Pos: OF
+  G: '38'
+  PO: '47'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Briner
+  nameClub1: Palatka
+  throws: L
+  Pos: OF
+  G: '92'
+  PO: '190'
+  A: '9'
+  E: '8'
+  DP: '3'
+  PCT: '.961'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: DesMeules
+  nameClub1: Leesburg
+  Pos: OF
+  G: '70'
+  PO: '108'
+  A: '10'
+  E: '5'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Carter
+  nameFirst: D.
+  nameClub1: Leesburg
+  Pos: OF
+  G: '13'
+  PO: '18'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Stapp
+  nameClub1: Leesburg
+  Pos: OF
+  G: '20'
+  PO: '22'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Mortimer
+  nameClub1: Palatka
+  throws: L
+  Pos: OF
+  G: '16'
+  PO: '20'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Miller
+  nameClub1: Cocoa
+  Pos: OF
+  G: '15'
+  PO: '19'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Fehrenbach
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '40'
+  PO: '53'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Paul
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '78'
+  PO: '128'
+  A: '7'
+  E: '7'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Alfaro
+  nameClub1: Orlando
+  Pos: OF
+  G: '12'
+  PO: '18'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Harris
+  nameClub1: Gainesville
+  Pos: OF
+  G: '18'
+  PO: '32'
+  A: '3'
+  E: '2'
+  DP: '2'
+  PCT: '.946'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Williams
+  nameClub1: Leesburg
+  Pos: OF
+  G: '85'
+  PO: '154'
+  A: '13'
+  E: '10'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Riddle
+  nameClub1: Gainesville
+  throws: L
+  Pos: OF
+  G: '136'
+  PO: '278'
+  A: '20'
+  E: '18'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Rodriguez
+  nameClub1: Orlando
+  Pos: OF
+  G: '95'
+  PO: '215'
+  A: '16'
+  E: '14'
+  DP: '3'
+  PCT: '.943'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Dillard
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '128'
+  PO: '206'
+  A: '11'
+  E: '13'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Hebra
+  nameClub1: Orlando
+  Pos: OF
+  G: '48'
+  PO: '59'
+  A: '6'
+  E: '4'
+  DP: '0'
+  PCT: '.942'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Alou
+  nameClub1: Cocoa
+  Pos: OF
+  G: '95'
+  PO: '173'
+  A: '12'
+  E: '12'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Howard
+  nameClub1: Cocoa
+  throws: L
+  Pos: OF
+  G: '130'
+  PO: '232'
+  A: '11'
+  E: '16'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Westbrook
+  nameClub1: Gainesville
+  throws: L
+  Pos: OF
+  G: '94'
+  PO: '145'
+  A: '22'
+  E: '11'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: White
+  nameFirst: A.
+  nameClub1: Leesburg
+  Pos: OF
+  G: '40'
+  PO: '55'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Coleman
+  nameClub1: Cocoa
+  Pos: OF
+  G: '132'
+  PO: '170'
+  A: '13'
+  E: '13'
+  DP: '1'
+  PCT: '.934'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Peters
+  nameClub1: Leesburg
+  Pos: OF
+  G: '82'
+  PO: '151'
+  A: '6'
+  E: '12'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Dickey
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '35'
+  PO: '67'
+  A: '11'
+  E: '6'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Chilton
+  nameClub1: Gainesville
+  Pos: OF
+  G: '21'
+  PO: '24'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Bentley
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '36'
+  PO: '58'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.924'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: OF
+  G: '67'
+  PO: '109'
+  A: '11'
+  E: '10'
+  DP: '3'
+  PCT: '.923'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Hinton
+  nameClub1: Palatka
+  nameClub2: West Palm Beach
+  Pos: OF
+  G: '54'
+  PO: '67'
+  A: '5'
+  E: '6'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Syszmanski
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '116'
+  PO: '150'
+  A: '13'
+  E: '14'
+  DP: '2'
+  PCT: '.921'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Appello
+  nameClub1: Palatka
+  Pos: OF
+  G: '32'
+  PO: '52'
+  A: '6'
+  E: '5'
+  DP: '3'
+  PCT: '.921'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Linnell
+  nameClub1: Palatka
+  Pos: OF
+  G: '17'
+  PO: '20'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Hodgin
+  nameClub1: Palatka
+  Pos: OF
+  G: '37'
+  PO: '44'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.918'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Herrera
+  nameClub1: Gainesville
+  Pos: OF
+  G: '11'
+  PO: '20'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Thorrell
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '44'
+  PO: '46'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.914'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Fiore
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '64'
+  PO: '123'
+  A: '12'
+  E: '13'
+  DP: '0'
+  PCT: '.912'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wright
+  nameClub1: Orlando
+  Pos: OF
+  G: '61'
+  PO: '82'
+  A: '1'
+  E: '8'
+  DP: '0'
+  PCT: '.912'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: White
+  nameFirst: C.
+  nameClub1: Leesburg
+  Pos: OF
+  G: '47'
+  PO: '91'
+  A: '1'
+  E: '9'
+  DP: '0'
+  PCT: '.911'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gurri
+  nameClub1: St. Petersburg
+  Pos: OF
+  G: '72'
+  PO: '93'
+  A: '12'
+  E: '11'
+  DP: '7'
+  PCT: '.905'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Estermyer
+  nameClub1: Palatka
+  Pos: OF
+  G: '59'
+  PO: '88'
+  A: '12'
+  E: '11'
+  DP: '1'
+  PCT: '.901'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Beck
+  nameClub1: Palatka
+  Pos: OF
+  G: '55'
+  PO: '66'
+  A: '6'
+  E: '8'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Griffith
+  nameClub1: Orlando
+  Pos: OF
+  G: '37'
+  PO: '66'
+  A: '9'
+  E: '9'
+  DP: '3'
+  PCT: '.893'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Bergeron
+  nameClub1: Leesburg
+  Pos: OF
+  G: '11'
+  PO: '15'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Hayes
+  nameClub1: Palatka
+  Pos: OF
+  G: '21'
+  PO: '37'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.884'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Knezevich
+  nameClub1: West Palm Beach
+  Pos: OF
+  G: '40'
+  PO: '33'
+  A: '4'
+  E: '5'
+  DP: '2'
+  PCT: '.881'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Pizzaro
+  nameClub1: Gainesville
+  Pos: OF
+  G: '39'
+  PO: '33'
+  A: '1'
+  E: '5'
+  DP: '1'
+  PCT: '.872'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Nunez
+  nameClub1: Orlando
+  Pos: OF
+  G: '15'
+  PO: '18'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.870'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Brown
+  nameClub1: Gainesville
+  Pos: OF
+  G: '14'
+  PO: '21'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.852'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Banse
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '11'
+  PO: '11'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gabriel
+  nameClub1: Gainesville
+  Pos: OF
+  G: '23'
+  PO: '38'
+  A: '1'
+  E: '8'
+  DP: '0'
+  PCT: '.830'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gray
+  nameClub1: Daytona Beach
+  Pos: OF
+  G: '11'
+  PO: '12'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.824'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Silvestri
+  nameClub1: St. Petersburg
+  Pos: C
+  G: '23'
+  PO: '129'
+  A: '23'
+  E: '1'
+  DP: '0'
+  PB: '1'
+  PCT: '.993'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Tanner
+  nameClub1: Leesburg
+  Pos: C
+  G: '26'
+  PO: '227'
+  A: '14'
+  E: '2'
+  DP: '4'
+  PB: '3'
+  PCT: '.992'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wilson
+  nameClub1: Orlando
+  nameClub2: St. Petersburg
+  Pos: C
+  G: '39'
+  PO: '301'
+  A: '23'
+  E: '3'
+  DP: '5'
+  PB: '5'
+  PCT: '.991'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Novick
+  nameClub1: West Palm Beach
+  Pos: C
+  G: '25'
+  PO: '228'
+  A: '20'
+  E: '4'
+  DP: '3'
+  PB: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Kasper
+  nameClub1: Leesburg
+  Pos: C
+  G: '79'
+  PO: '655'
+  A: '64'
+  E: '14'
+  DP: '7'
+  PB: '7'
+  PCT: '.981'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Banse
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '58'
+  PO: '369'
+  A: '37'
+  E: '8'
+  DP: '20'
+  PB: '8'
+  PCT: '.981'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Pazienza
+  nameClub1: Cocoa
+  Pos: C
+  G: '44'
+  PO: '222'
+  A: '21'
+  E: '5'
+  DP: '13'
+  PB: '3'
+  PCT: '.980'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Forsyth
+  nameClub1: Leesburg
+  Pos: C
+  G: '24'
+  PO: '175'
+  A: '21'
+  E: '4'
+  DP: '9'
+  PB: '3'
+  PCT: '.980'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: DesMeules
+  nameClub1: Leesburg
+  Pos: C
+  G: '11'
+  PO: '84'
+  A: '6'
+  E: '2'
+  DP: '4'
+  PB: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Boullon
+  nameClub1: West Palm Beach
+  Pos: C
+  G: '95'
+  PO: '649'
+  A: '68'
+  E: '17'
+  DP: '21'
+  PB: '9'
+  PCT: '.977'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Dickey
+  nameClub1: West Palm Beach
+  Pos: C
+  G: '32'
+  PO: '224'
+  A: '20'
+  E: '6'
+  DP: '3'
+  PB: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Johnson
+  nameClub1: St. Petersburg
+  Pos: C
+  G: '95'
+  PO: '585'
+  A: '85'
+  E: '18'
+  DP: '14'
+  PB: '9'
+  PCT: '.974'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Beck
+  nameClub1: Palatka
+  Pos: C
+  G: '42'
+  PO: '293'
+  A: '27'
+  E: '9'
+  DP: '4'
+  PB: '2'
+  PCT: '.973'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Baker
+  nameClub1: Orlando
+  Pos: C
+  G: '90'
+  PO: '512'
+  A: '64'
+  E: '18'
+  DP: '13'
+  PB: '9'
+  PCT: '.970'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Pearson
+  nameClub1: Cocoa
+  Pos: C
+  G: '88'
+  PO: '576'
+  A: '71'
+  E: '20'
+  DP: '13'
+  PB: '9'
+  PCT: '.970'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Garner
+  nameClub1: St. Petersburg
+  Pos: C
+  G: '26'
+  PO: '209'
+  A: '10'
+  E: '7'
+  DP: '3'
+  PB: '3'
+  PCT: '.969'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Ra
+  nameClub1: Gainesville
+  Pos: C
+  G: '20'
+  PO: '114'
+  A: '10'
+  E: '4'
+  DP: '5'
+  PB: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Shelightner
+  nameClub1: Cocoa
+  Pos: C
+  G: '13'
+  PO: '82'
+  A: '4'
+  E: '3'
+  DP: '3'
+  PB: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Shedd
+  nameClub1: Palatka
+  Pos: C
+  G: '88'
+  PO: '619'
+  A: '43'
+  E: '27'
+  DP: '13'
+  PB: '7'
+  PCT: '.961'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Morlan
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '49'
+  PO: '337'
+  A: '29'
+  E: '16'
+  DP: '2'
+  PB: '4'
+  PCT: '.958'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Pardoski
+  nameClub1: Palatka
+  Pos: C
+  G: '14'
+  PO: '83'
+  A: '5'
+  E: '4'
+  DP: '4'
+  PB: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Weber
+  nameClub1: Gainesville
+  Pos: C
+  G: '61'
+  PO: '399'
+  A: '44'
+  E: '21'
+  DP: '6'
+  PB: '8'
+  PCT: '.955'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Mattox
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '28'
+  PO: '216'
+  A: '17'
+  E: '11'
+  DP: '13'
+  PB: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Harris
+  nameClub1: Gainesville
+  Pos: C
+  G: '30'
+  PO: '227'
+  A: '19'
+  E: '14'
+  DP: '2'
+  PB: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Herrera
+  nameClub1: Gainesville
+  Pos: C
+  G: '36'
+  PO: '223'
+  A: '16'
+  E: '14'
+  DP: '9'
+  PB: '3'
+  PCT: '.945'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Riska
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '32'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Donohue
+  nameClub1: Gainesville
+  Pos: P
+  G: '16'
+  PO: '5'
+  A: '17'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Cochran
+  nameClub1: Leesburg
+  Pos: P
+  G: '32'
+  PO: '3'
+  A: '19'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Conner
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '14'
+  PO: '6'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Richards
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '15'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Latham
+  nameClub1: Gainesville
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '14'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Reisener
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '17'
+  PO: '6'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Blanco
+  nameClub1: Orlando
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Mapes
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Brown
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Diamond
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Cockrell
+  nameClub1: Cocoa
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Pleis
+  nameClub1: Orlando
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '18'
+  A: '47'
+  E: '2'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Brophy
+  nameClub1: Orlando
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '10'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Riggs
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '42'
+  PO: '4'
+  A: '27'
+  E: '1'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Bridges
+  nameClub1: Palatka
+  Pos: P
+  G: '41'
+  PO: '9'
+  A: '47'
+  E: '2'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Calloway
+  nameClub1: Orlando
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Stead
+  nameClub1: Orlando
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '44'
+  E: '2'
+  DP: '5'
+  PCT: '.964'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Tagliaferro
+  nameClub1: Cocoa
+  Pos: P
+  G: '39'
+  PO: '11'
+  A: '42'
+  E: '2'
+  DP: '6'
+  PCT: '.964'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Carter
+  nameFirst: R.
+  nameClub1: Leesburg
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '25'
+  E: '1'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Rubenacker
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wheeler
+  nameClub1: Cocoa
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Hannom
+  nameClub1: Palatka
+  Pos: P
+  G: '30'
+  PO: '8'
+  A: '53'
+  E: '3'
+  DP: '2'
+  PCT: '.953'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wright
+  nameClub1: Gainesville
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '16'
+  E: '1'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Sheldon
+  nameClub1: Palatka
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Komisar
+  nameClub1: Leesburg
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '41'
+  E: '3'
+  DP: '2'
+  PCT: '.943'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Becraft
+  nameClub1: Daytona Beach
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '38'
+  E: '3'
+  DP: '4'
+  PCT: '.942'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: McCoy
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '29'
+  E: '2'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: O'Connell
+  nameClub1: Daytona Beach
+  nameClub2: Gainesville
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Navarro
+  nameClub1: Cocoa
+  Pos: P
+  G: '49'
+  PO: '13'
+  A: '32'
+  E: '3'
+  DP: '2'
+  PCT: '.938'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Jones
+  nameClub1: Cocoa
+  Pos: P
+  G: '30'
+  PO: '13'
+  A: '32'
+  E: '3'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Lindsey
+  nameClub1: Gainesville
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Cruz
+  nameClub1: Gainesville
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '29'
+  E: '3'
+  DP: '4'
+  PCT: '.929'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Byfuss
+  nameClub1: Gainesville
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Richards
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: P
+  G: '41'
+  PO: '7'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Gorrondona
+  nameClub1: Orlando
+  Pos: P
+  G: '16'
+  PO: '5'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Fetner
+  nameClub1: Orlando
+  Pos: P
+  G: '18'
+  PO: '4'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Hebra
+  nameClub1: Orlando
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Ciccarella
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '7'
+  A: '24'
+  E: '3'
+  DP: '4'
+  PCT: '.912'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Dunn
+  nameClub1: West Palm Beach
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '33'
+  E: '4'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: McGavock
+  nameClub1: Leesburg
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '22'
+  E: '3'
+  DP: '3'
+  PCT: '.909'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Garcia
+  nameClub1: Leesburg
+  Pos: P
+  G: '18'
+  PO: '7'
+  A: '21'
+  E: '3'
+  DP: '2'
+  PCT: '.903'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Taylor
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '32'
+  PO: '8'
+  A: '47'
+  E: '6'
+  DP: '1'
+  PCT: '.902'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Rovelto
+  nameClub1: St. Petersburg
+  Pos: P
+  G: '34'
+  PO: '12'
+  A: '61'
+  E: '8'
+  DP: '3'
+  PCT: '.901'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Bergstraesser
+  nameClub1: Leesburg
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '22'
+  E: '3'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Brinson
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '30'
+  PO: '10'
+  A: '25'
+  E: '4'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Meloche
+  nameClub1: Palatka
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '15'
+  E: '2'
+  DP: '2'
+  PCT: '.895'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Basilio
+  nameClub1: Gainesville
+  Pos: P
+  G: '31'
+  PO: '8'
+  A: '34'
+  E: '5'
+  DP: '3'
+  PCT: '.894'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Ainsworth
+  nameClub1: West Palm Beach
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '36'
+  E: '5'
+  DP: '2'
+  PCT: '.894'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Els
+  nameClub1: Cocoa
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '18'
+  A: '57'
+  E: '9'
+  DP: '2'
+  PCT: '.893'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Paffel
+  nameClub1: Palatka
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '21'
+  E: '3'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Trammel
+  nameClub1: Palatka
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '35'
+  E: '5'
+  DP: '0'
+  PCT: '.881'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Tyriver
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '32'
+  E: '5'
+  DP: '1'
+  PCT: '.878'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Giannecchini
+  nameClub1: Gainesville
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '59'
+  E: '11'
+  DP: '3'
+  PCT: '.857'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Fields
+  nameClub1: Palatka
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '41'
+  E: '8'
+  DP: '1'
+  PCT: '.855'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Wolfe
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '24'
+  PO: '7'
+  A: '20'
+  E: '5'
+  DP: '2'
+  PCT: '.844'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Hoffman
+  nameClub1: Leesburg
+  throws: L
+  Pos: P
+  G: '52'
+  PO: '7'
+  A: '25'
+  E: '6'
+  DP: '0'
+  PCT: '.842'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Frye
+  nameClub1: Gainesville
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '15'
+  E: '4'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Tegenkamp
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '8'
+  A: '29'
+  E: '8'
+  DP: '2'
+  PCT: '.822'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Marinko
+  nameClub1: Leesburg
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '19'
+  E: '5'
+  DP: '0'
+  PCT: '.821'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Jones
+  nameClub1: Palatka
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '19'
+  E: '5'
+  DP: '0'
+  PCT: '.815'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Moore
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Kormanik
+  nameClub1: Orlando
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '12'
+  E: '4'
+  DP: '1'
+  PCT: '.778'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Engelbrekt
+  nameClub1: Daytona Beach
+  Pos: P
+  G: '37'
+  PO: '5'
+  A: '26'
+  E: '9'
+  DP: '0'
+  PCT: '.775'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Renfroe
+  nameClub1: St. Petersburg
+  throws: L
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.727'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Bell
+  nameClub1: Gainesville
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '6'
+  E: '4'
+  DP: '0'
+  PCT: '.636'
+  TP: '0'
+- year: '1956'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Gainesville
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '7'
+  E: '5'
+  DP: '0'
+  PCT: '.615'
+  TP: '0'

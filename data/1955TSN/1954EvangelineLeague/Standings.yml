@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: regular
+  W: '85'
+  L: '55'
+  T: '0'
+  PCT: '.607'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Port Arthur
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '0'
+  PCT: '.593'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  phase: regular
+  W: '77'
+  L: '63'
+  T: '0'
+  PCT: '.550'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  phase: regular
+  W: '67'
+  L: '72'
+  T: '0'
+  PCT: '.482'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular
+  W: '65'
+  L: '74'
+  T: '0'
+  PCT: '.468'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: regular
+  W: '61'
+  L: '79'
+  T: '0'
+  PCT: '.436'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: regular
+  W: '55'
+  L: '85'
+  T: '0'
+  PCT: '.393'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Port Arthur
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,100 @@
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Perth
+  phase: regular
+  W: '50'
+  L: '30'
+  T: '3'
+  PCT: '.625'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Ottawa
+  phase: regular
+  W: '53'
+  L: '37'
+  T: '4'
+  PCT: '.589'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Brockville
+  phase: regular
+  W: '43'
+  L: '36'
+  T: '2'
+  PCT: '.544'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  phase: regular
+  W: '38'
+  L: '45'
+  T: '3'
+  PCT: '.458'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Watertown
+  phase: regular
+  W: '35'
+  L: '52'
+  T: '1'
+  PCT: '.402'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Oswego
+  phase: regular
+  W: '32'
+  L: '51'
+  T: '3'
+  PCT: '.386'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Brockville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Ottawa
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Perth
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Perth
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Canadian-American League
+  nameClub: Brockville
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

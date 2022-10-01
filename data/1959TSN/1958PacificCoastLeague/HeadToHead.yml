@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Phoenix
+  San Diego: '12'
+  Vancouver: '11'
+  Portland: '10'
+  Salt Lake City: '8'
+  Sacramento: '12'
+  Spokane: '13'
+  Seattle: '14'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  Phoenix: '10'
+  Vancouver: '12'
+  Portland: '9'
+  Salt Lake City: '11'
+  Sacramento: '14'
+  Spokane: '15'
+  Seattle: '13'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Vancouver
+  Phoenix: '11'
+  San Diego: '9'
+  Portland: '11'
+  Salt Lake City: '12'
+  Sacramento: '12'
+  Spokane: '10'
+  Seattle: '14'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  Phoenix: '3'
+  San Diego: '13'
+  Vancouver: '11'
+  Salt Lake City: '15'
+  Sacramento: '11'
+  Spokane: '14'
+  Seattle: '11'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Salt Lake City
+  Phoenix: '14'
+  San Diego: '11'
+  Vancouver: '10'
+  Portland: '7'
+  Sacramento: '11'
+  Spokane: '11'
+  Seattle: '13'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  Phoenix: '10'
+  San Diego: '8'
+  Vancouver: '10'
+  Portland: '11'
+  Salt Lake City: '11'
+  Spokane: '9'
+  Seattle: '12'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Spokane
+  Phoenix: '9'
+  San Diego: '7'
+  Vancouver: '11'
+  Portland: '8'
+  Salt Lake City: '11'
+  Sacramento: '13'
+  Seattle: '9'
+- year: '1958'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  Phoenix: '8'
+  San Diego: '9'
+  Vancouver: '8'
+  Portland: '11'
+  Salt Lake City: '9'
+  Sacramento: '10'
+  Spokane: '13'

@@ -1,0 +1,721 @@
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Schmithenner
+  nameClub1: Sydney Mines
+  Pos: 1B
+  PO: '72'
+  A: '9'
+  E: '0'
+  DP: '8'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Bissonette
+  nameClub1: Glace Bay
+  Pos: 1B
+  PO: '522'
+  A: '41'
+  E: '11'
+  DP: '28'
+  PCT: '.981'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Bellrose
+  nameClub1: Glace Bay
+  nameClub2: Dominion
+  Pos: 1B
+  PO: '140'
+  A: '21'
+  E: '3'
+  DP: '6'
+  PCT: '.981'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Panciera
+  nameClub1: Sydney
+  Pos: 1B
+  PO: '173'
+  A: '9'
+  E: '4'
+  DP: '9'
+  PCT: '.978'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Martowski
+  nameClub1: Sydney Mines
+  Pos: 1B
+  PO: '258'
+  A: '16'
+  E: '7'
+  DP: '17'
+  PCT: '.975'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Moose
+  nameClub1: Sydney
+  Pos: 1B
+  PO: '328'
+  A: '11'
+  E: '9'
+  DP: '26'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Morris
+  nameClub1: New Waterford
+  Pos: 1B
+  PO: '404'
+  A: '35'
+  E: '13'
+  DP: '24'
+  PCT: '.971'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Bouza
+  nameClub1: Sydney
+  Pos: 1B
+  PO: '44'
+  A: '4'
+  E: '1'
+  DP: '5'
+  PCT: '.969'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: DiGaetano
+  nameClub1: New Waterford
+  Pos: 1B
+  PO: '51'
+  A: '8'
+  E: '2'
+  DP: '7'
+  PCT: '.967'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Salters
+  nameClub1: Sydney Mines
+  Pos: 1B
+  PO: '63'
+  A: '5'
+  E: '4'
+  DP: '3'
+  PCT: '.944'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Loftus
+  nameClub1: Sydney Mines
+  Pos: 1B
+  PO: '50'
+  A: '1'
+  E: '3'
+  DP: '2'
+  PCT: '.944'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: McDonough
+  nameFirst: Joe
+  nameClub1: New Waterford
+  Pos: 1B
+  PO: '34'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.927'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Scanlon
+  nameClub1: Sydney Mines
+  Pos: 1B
+  PO: '13'
+  A: '0'
+  E: '2'
+  DP: '2'
+  PCT: '.867'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Maguire
+  nameClub1: Dominion
+  nameClub2: New Waterford
+  Pos: 2B
+  PO: '153'
+  A: '214'
+  E: '13'
+  DP: '30'
+  PCT: '.966'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: McQuarrie
+  nameClub1: New Waterford
+  Pos: 2B
+  PO: '24'
+  A: '13'
+  E: '2'
+  DP: '6'
+  PCT: '.949'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Bellrose
+  nameClub1: Glace Bay
+  nameClub2: Dominion
+  Pos: 2B
+  PO: '86'
+  A: '84'
+  E: '10'
+  DP: '18'
+  PCT: '.944'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Kennedy
+  nameClub1: New Waterford
+  Pos: 2B
+  PO: '27'
+  A: '36'
+  E: '5'
+  DP: '3'
+  PCT: '.926'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Mader
+  nameClub1: Sydney
+  Pos: 2B
+  PO: '134'
+  A: '157'
+  E: '25'
+  DP: '27'
+  PCT: '.921'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Romano
+  nameClub1: Dominion
+  nameClub2: Sydney Mines
+  Pos: 2B
+  PO: '129'
+  A: '147'
+  E: '26'
+  DP: '23'
+  PCT: '.911'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Noble
+  nameClub1: Glace Bay
+  Pos: 2B
+  PO: '30'
+  A: '45'
+  E: '9'
+  DP: '3'
+  PCT: '.893'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: LaBatte
+  nameClub1: Glace Bay
+  Pos: 2B
+  PO: '3'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Panciera
+  nameClub1: Sydney
+  Pos: 3B
+  PO: '56'
+  A: '76'
+  E: '8'
+  DP: '3'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Millette
+  nameClub1: New Waterford
+  Pos: 3B
+  PO: '78'
+  A: '104'
+  E: '12'
+  DP: '7'
+  PCT: '.938'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Ross
+  nameClub1: Glace Bay
+  Pos: 3B
+  PO: '64'
+  A: '61'
+  E: '14'
+  DP: '6'
+  PCT: '.893'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Huxtable
+  nameClub1: Sydney Mines
+  Pos: 3B
+  PO: '28'
+  A: '44'
+  E: '9'
+  DP: '2'
+  PCT: '.888'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Vann
+  nameClub1: Sydney
+  Pos: 3B
+  PO: '36'
+  A: '49'
+  E: '11'
+  DP: '3'
+  PCT: '.885'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Cullinane
+  nameClub1: Sydney Mines
+  Pos: 3B
+  PO: '22'
+  A: '33'
+  E: '8'
+  DP: '3'
+  PCT: '.873'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Cullinane
+  nameClub1: Sydney Mines
+  Pos: SS
+  PO: '63'
+  A: '76'
+  E: '8'
+  DP: '12'
+  PCT: '.946'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Baker
+  nameClub1: Sydney
+  Pos: SS
+  PO: '123'
+  A: '212'
+  E: '31'
+  DP: '25'
+  PCT: '.915'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Plausky
+  nameClub1: Sydney Mines
+  Pos: SS
+  PO: '12'
+  A: '24'
+  E: '4'
+  DP: '2'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Hopkins
+  nameClub1: Glace Bay
+  Pos: SS
+  PO: '21'
+  A: '40'
+  E: '7'
+  DP: '2'
+  PCT: '.897'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Bodio
+  nameClub1: New Waterford
+  Pos: SS
+  PO: '119'
+  A: '165'
+  E: '36'
+  DP: '21'
+  PCT: '.887'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Noble
+  nameClub1: Glace Bay
+  Pos: SS
+  PO: '60'
+  A: '121'
+  E: '26'
+  DP: '16'
+  PCT: '.874'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Lambert
+  nameClub1: Sydney Mines
+  Pos: SS
+  PO: '49'
+  A: '79'
+  E: '23'
+  DP: '9'
+  PCT: '.848'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Ponza
+  nameClub1: Sydney Mines
+  Pos: OF
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Skidgel
+  nameClub1: Sydney
+  Pos: OF
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: McEnro
+  nameClub1: Sydney Mines
+  Pos: OF
+  PO: '1'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Saffer
+  nameClub1: Sydney
+  Pos: OF
+  PO: '58'
+  A: '5'
+  E: '2'
+  DP: '2'
+  PCT: '.969'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Crabb
+  nameClub1: Glace Bay
+  Pos: OF
+  PO: '94'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PCT: '.961'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: DiGaetano
+  nameClub1: New Waterford
+  Pos: OF
+  PO: '91'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.951'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Kasso
+  nameClub1: Sydney
+  Pos: OF
+  PO: '89'
+  A: '5'
+  E: '6'
+  DP: '1'
+  PCT: '.940'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Kiley
+  nameClub1: New Waterford
+  Pos: OF
+  PO: '99'
+  A: '9'
+  E: '7'
+  DP: '1'
+  PCT: '.939'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Van Praett
+  nameClub1: New Waterford
+  Pos: OF
+  PO: '66'
+  A: '7'
+  E: '4'
+  DP: '2'
+  PCT: '.935'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Woodten
+  nameClub1: Sydney
+  Pos: OF
+  PO: '53'
+  A: '2'
+  E: '4'
+  DP: '1'
+  PCT: '.932'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Novello
+  nameClub1: Glace Bay
+  Pos: OF
+  PO: '65'
+  A: '11'
+  E: '6'
+  DP: '1'
+  PCT: '.929'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Jackson
+  nameClub1: Glace Bay
+  Pos: OF
+  PO: '17'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.905'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Macone
+  nameClub1: Sydney Mines
+  Pos: OF
+  PO: '137'
+  A: '4'
+  E: '5'
+  DP: '2'
+  PCT: '.904'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Scaramello
+  nameClub1: Glace Bay
+  Pos: OF
+  PO: '34'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.902'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Martowski
+  nameClub1: Sydney Mines
+  Pos: OF
+  PO: '31'
+  A: '3'
+  E: '4'
+  DP: '2'
+  PCT: '.895'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Towle
+  nameClub1: New Waterford
+  nameClub2: Sydney Mines
+  Pos: OF
+  PO: '65'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.890'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Dziergowski
+  nameClub1: Sydney
+  Pos: OF
+  PO: '38'
+  A: '2'
+  E: '5'
+  DP: '1'
+  PCT: '.889'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Hughes
+  nameClub1: Sydney Mines
+  Pos: OF
+  PO: '25'
+  A: '3'
+  E: '5'
+  DP: '0'
+  PCT: '.848'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Nazzaro
+  nameClub1: Sydney Mines
+  Pos: OF
+  PO: '5'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.700'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: DeCecco
+  nameClub1: Sydney
+  Pos: OF
+  PO: '6'
+  A: '1'
+  E: '4'
+  DP: '1'
+  PCT: '.636'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Lowe
+  nameClub1: Dominion
+  nameClub2: Glace Bay
+  Pos: UT
+  PO: '105'
+  A: '72'
+  E: '10'
+  DP: '12'
+  PCT: '.947'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Reinman
+  nameClub1: Sydney Mines
+  nameClub2: New Waterford
+  Pos: UT
+  PO: '46'
+  A: '82'
+  E: '11'
+  DP: '9'
+  PCT: '.914'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Kimball
+  nameClub1: Sydney Mines
+  Pos: UT
+  PO: '48'
+  A: '15'
+  E: '7'
+  DP: '4'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Seaward
+  nameClub1: Glace Bay
+  Pos: C
+  PO: '111'
+  A: '15'
+  E: '0'
+  DP: '3'
+  PB: '4'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Truesdale
+  nameClub1: Sydney Mines
+  Pos: C
+  PO: '48'
+  A: '7'
+  E: '0'
+  DP: '1'
+  PB: '2'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Schmithenner
+  nameClub1: Sydney Mines
+  Pos: C
+  PO: '21'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PB: '2'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Kelly
+  nameClub1: Sydney
+  Pos: C
+  PO: '20'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PB: '2'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Van Praett
+  nameClub1: New Waterford
+  Pos: C
+  PO: '10'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PB: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Strocchio
+  nameClub1: Sydney
+  Pos: C
+  PO: '56'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PB: '0'
+  PCT: '.985'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Catarius
+  nameClub1: Sydney Mines
+  Pos: C
+  PO: '237'
+  A: '26'
+  E: '7'
+  DP: '2'
+  PB: '6'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Linsalata
+  nameClub1: Sydney
+  Pos: C
+  PO: '93'
+  A: '15'
+  E: '3'
+  DP: '0'
+  PB: '2'
+  PCT: '.973'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Ryan
+  nameClub1: New Waterford
+  Pos: C
+  PO: '284'
+  A: '54'
+  E: '13'
+  DP: '4'
+  PB: '17'
+  PCT: '.963'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Jones
+  nameClub1: Glace Bay
+  Pos: C
+  PO: '216'
+  A: '28'
+  E: '10'
+  DP: '4'
+  PB: '6'
+  PCT: '.958'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: McKay
+  nameClub1: Sydney
+  Pos: C
+  PO: '46'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PB: '4'
+  PCT: '.953'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Blakeman
+  nameClub1: Glace Bay
+  Pos: C
+  PO: '12'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PB: '3'
+  PCT: '.929'
+- year: '1938'
+  nameLeague: Cape Breton Colliery League
+  nameLast: Stacey
+  nameClub1: Sydney
+  Pos: C
+  PO: '22'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.882'

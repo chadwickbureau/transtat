@@ -1,0 +1,80 @@
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Artesia
+  Roswell: '10'
+  Carlsbad: '12'
+  Midland: '12'
+  Big Spring: '13'
+  Odessa: '14'
+  San Angelo: '13'
+  Wichita Falls/Sweetwater: '18'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Roswell
+  Artesia: '10'
+  Carlsbad: '11'
+  Midland: '9'
+  Big Spring: '12'
+  Odessa: '12'
+  San Angelo: '15'
+  Wichita Falls/Sweetwater: '18'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Carlsbad
+  Artesia: '8'
+  Roswell: '9'
+  Midland: '12'
+  Big Spring: '14'
+  Odessa: '14'
+  San Angelo: '13'
+  Wichita Falls/Sweetwater: '17'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  Artesia: '8'
+  Roswell: '11'
+  Carlsbad: '8'
+  Big Spring: '8'
+  Odessa: '14'
+  San Angelo: '13'
+  Wichita Falls/Sweetwater: '18'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  Artesia: '6'
+  Roswell: '6'
+  Carlsbad: '6'
+  Midland: '11'
+  Odessa: '14'
+  San Angelo: '13'
+  Wichita Falls/Sweetwater: '14'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Odessa
+  Artesia: '6'
+  Roswell: '8'
+  Carlsbad: '5'
+  Midland: '6'
+  Big Spring: '5'
+  San Angelo: '10'
+  Wichita Falls/Sweetwater: '14'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: San Angelo
+  Artesia: '7'
+  Roswell: '5'
+  Carlsbad: '7'
+  Midland: '7'
+  Big Spring: '7'
+  Odessa: '10'
+  Wichita Falls/Sweetwater: '10'
+- year: '1954'
+  nameLeague: Longhorn League
+  nameClub: Wichita Falls/Sweetwater
+  Artesia: '1'
+  Roswell: '2'
+  Carlsbad: '3'
+  Midland: '2'
+  Big Spring: '6'
+  Odessa: '4'
+  San Angelo: '9'

@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Kingston
+  G: '130'
+  PO: '3271'
+  A: '1393'
+  E: '237'
+  PB: '101'
+  DP: '20'
+  PCT: '.952'
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Peekskill
+  G: '135'
+  PO: '3412'
+  A: '1541'
+  E: '254'
+  PB: '123'
+  DP: '28'
+  PCT: '.951'
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Carbondale
+  G: '130'
+  PO: '3277'
+  A: '1528'
+  E: '261'
+  PB: '129'
+  DP: '8'
+  PCT: '.948'
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Nyack
+  G: '135'
+  PO: '3345'
+  A: '1494'
+  E: '282'
+  PB: '89'
+  DP: '31'
+  PCT: '.945'
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Mahanoy City
+  G: '135'
+  PO: '3347'
+  A: '1294'
+  E: '286'
+  PB: '68'
+  DP: '33'
+  PCT: '.945'
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Stroudsburg
+  G: '130'
+  PO: '3312'
+  A: '1414'
+  E: '289'
+  PB: '91'
+  DP: '23'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Bloomingdale
+  G: '133'
+  PO: '3292'
+  A: '1389'
+  E: '323'
+  PB: '105'
+  DP: '28'
+  PCT: '.935'
+- year: '1947'
+  nameLeague: North Atlantic League
+  nameClub: Nazareth
+  G: '132'
+  PO: '3333'
+  A: '1347'
+  E: '343'
+  PB: '114'
+  DP: '19'
+  PCT: '.932'

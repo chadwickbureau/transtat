@@ -1,0 +1,32 @@
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Superior
+  W: '11'
+  L: '7'
+  PCT: '.611'
+  RANK: '1'
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Duluth Marine Iron
+  W: '9'
+  L: '7'
+  PCT: '.562'
+  RANK: '2'
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Duluth Dukes
+  W: '9'
+  L: '10'
+  PCT: '.474'
+  RANK: '3'
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Duluth Heralds
+  W: '5'
+  L: '10'
+  PCT: '.333'
+  RANK: '4'

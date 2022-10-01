@@ -1,0 +1,72 @@
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Green Bay
+  phase: regular
+  W: '76'
+  L: '36'
+  T: '1'
+  PCT: '.679'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Oshkosh
+  phase: regular
+  W: '66'
+  L: '42'
+  T: '1'
+  PCT: '.611'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Fond du Lac
+  phase: regular
+  W: '62'
+  L: '48'
+  T: '1'
+  PCT: '.564'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Wisconsin Rapids
+  phase: regular
+  W: '54'
+  L: '54'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Appleton
+  phase: regular
+  W: '47'
+  L: '60'
+  T: '4'
+  PCT: '.439'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Janesville
+  phase: regular
+  W: '44'
+  L: '64'
+  T: '1'
+  PCT: '.407'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Sheboygan
+  phase: regular
+  W: '44'
+  L: '66'
+  T: '0'
+  PCT: '.400'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Wisconsin State League
+  nameClub: Wausau
+  phase: regular
+  W: '43'
+  L: '66'
+  T: '0'
+  PCT: '.394'
+  RANK: '8'

@@ -1,0 +1,170 @@
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: regular/first
+  W: '40'
+  L: '19'
+  T: '1'
+  PCT: '.678'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular/first
+  W: '32'
+  L: '27'
+  T: '0'
+  PCT: '.542'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Green Bay
+  phase: regular/first
+  W: '29'
+  L: '29'
+  T: '1'
+  PCT: '.500'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular/first
+  W: '28'
+  L: '30'
+  T: '0'
+  PCT: '.483'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Fox Cities
+  phase: regular/first
+  W: '26'
+  L: '33'
+  T: '0'
+  PCT: '.441'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Rochester
+  phase: regular/first
+  W: '20'
+  L: '37'
+  T: '0'
+  PCT: '.351'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular/second
+  W: '49'
+  L: '23'
+  T: '0'
+  PCT: '.681'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Green Bay
+  phase: regular/second
+  W: '36'
+  L: '35'
+  T: '0'
+  PCT: '.507'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Winona
+  phase: regular/second
+  W: '37'
+  L: '36'
+  T: '0'
+  PCT: '.507'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: regular/second
+  W: '31'
+  L: '39'
+  T: '0'
+  PCT: '.443'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular/second
+  W: '30'
+  L: '40'
+  T: '0'
+  PCT: '.429'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Fox Cities
+  phase: regular/second
+  W: '30'
+  L: '40'
+  T: '0'
+  PCT: '.429'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular
+  W: '77'
+  L: '53'
+  T: '0'
+  PCT: '.592'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: regular
+  W: '71'
+  L: '58'
+  T: '1'
+  PCT: '.550'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Green Bay
+  phase: regular
+  W: '65'
+  L: '64'
+  T: '1'
+  PCT: '.504'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular
+  W: '62'
+  L: '67'
+  T: '0'
+  PCT: '.481'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Rochester/Winona
+  phase: regular
+  W: '57'
+  L: '73'
+  T: '0'
+  PCT: '.438'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Fox Cities
+  phase: regular
+  W: '56'
+  L: '73'
+  T: '0'
+  PCT: '.434'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

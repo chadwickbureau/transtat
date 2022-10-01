@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  G: '129'
+  DP: '114'
+  PB: '16'
+  PO: '3342'
+  A: '1272'
+  E: '188'
+  PCT: '.961'
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: Lancaster
+  G: '127'
+  DP: '121'
+  PB: '8'
+  PO: '3300'
+  A: '1450'
+  E: '195'
+  PCT: '.961'
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  G: '131'
+  DP: '128'
+  PB: '10'
+  PO: '3376'
+  A: '1298'
+  E: '194'
+  PCT: '.960'
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: Hagerstown
+  G: '124'
+  DP: '130'
+  PB: '17'
+  PO: '3159'
+  A: '1374'
+  E: '189'
+  PCT: '.960'
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  G: '72'
+  DP: '66'
+  PB: '18'
+  PO: '1880'
+  A: '761'
+  E: '114'
+  PCT: '.959'
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: Sunbury
+  G: '128'
+  DP: '127'
+  PB: '7'
+  PO: '3285'
+  A: '1397'
+  E: '219'
+  PCT: '.955'
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: York
+  G: '129'
+  DP: '110'
+  PB: '19'
+  PO: '3369'
+  A: '1340'
+  E: '237'
+  PCT: '.952'
+- year: '1955'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  G: '132'
+  DP: '119'
+  PB: '11'
+  PO: '3486'
+  A: '1468'
+  E: '265'
+  PCT: '.949'

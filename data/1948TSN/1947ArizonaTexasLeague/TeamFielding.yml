@@ -1,0 +1,77 @@
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  G: '61'
+  PO: '1563'
+  A: '689'
+  E: '96'
+  DP: '52'
+  TP: '0'
+  PB: '4'
+  PCT: '.959'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  G: '132'
+  PO: '3344'
+  A: '1465'
+  E: '250'
+  DP: '153'
+  TP: '1'
+  PB: '18'
+  PCT: '.951'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Mesa
+  G: '69'
+  PO: '1566'
+  A: '544'
+  E: '133'
+  DP: '61'
+  TP: '0'
+  PB: '17'
+  PCT: '.941'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  G: '133'
+  PO: '3386'
+  A: '1569'
+  E: '329'
+  DP: '179'
+  TP: '0'
+  PB: '43'
+  PCT: '.938'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  G: '133'
+  PO: '3329'
+  A: '1412'
+  E: '340'
+  DP: '115'
+  TP: '1'
+  PB: '27'
+  PCT: '.933'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  G: '130'
+  PO: '3217'
+  A: '1171'
+  E: '326'
+  DP: '82'
+  TP: '0'
+  PB: '29'
+  PCT: '.931'
+- year: '1947'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  G: '130'
+  PO: '3239'
+  A: '1353'
+  E: '366'
+  DP: '98'
+  TP: '1'
+  PB: '15'
+  PCT: '.926'

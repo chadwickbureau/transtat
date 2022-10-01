@@ -1,0 +1,66 @@
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  G: '130'
+  PO: '3306'
+  A: '1277'
+  E: '293'
+  DP: '100'
+  TP: '0'
+  PB: '25'
+  PCT: '.940'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Ballinger
+  G: '130'
+  PO: '3315'
+  A: '1312'
+  E: '339'
+  DP: '92'
+  TP: '0'
+  PB: '22'
+  PCT: '.932'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Vernon
+  G: '130'
+  PO: '3294'
+  A: '1366'
+  E: '364'
+  DP: '82'
+  TP: '0'
+  PB: '18'
+  PCT: '.928'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Sweetwater
+  G: '130'
+  PO: '3390'
+  A: '1274'
+  E: '393'
+  DP: '69'
+  TP: '0'
+  PB: '51'
+  PCT: '.922'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  G: '130'
+  PO: '3291'
+  A: '1220'
+  E: '389'
+  DP: '86'
+  TP: '0'
+  PB: '35'
+  PCT: '.921'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Odessa
+  G: '130'
+  PO: '3306'
+  A: '1380'
+  E: '469'
+  DP: '108'
+  TP: '1'
+  PB: '34'
+  PCT: '.909'

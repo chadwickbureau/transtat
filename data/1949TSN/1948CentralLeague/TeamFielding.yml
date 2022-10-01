@@ -1,0 +1,66 @@
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Dayton
+  G: '141'
+  DP: '148'
+  TP: '0'
+  PB: '13'
+  PO: '3627'
+  A: '1673'
+  E: '187'
+  PCT: '.966'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Flint
+  G: '139'
+  DP: '146'
+  TP: '1'
+  PB: '6'
+  PO: '3587'
+  A: '1452'
+  E: '189'
+  PCT: '.964'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Muskegon
+  G: '141'
+  DP: '140'
+  TP: '0'
+  PB: '6'
+  PO: '3515'
+  A: '1412'
+  E: '191'
+  PCT: '.963'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Saginaw
+  G: '142'
+  DP: '92'
+  TP: '0'
+  PB: '16'
+  PO: '3533'
+  A: '1505'
+  E: '234'
+  PCT: '.956'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Fort Wayne
+  G: '141'
+  DP: '129'
+  TP: '0'
+  PB: '5'
+  PO: '3516'
+  A: '1555'
+  E: '242'
+  PCT: '.954'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Grand Rapids
+  G: '140'
+  DP: '129'
+  TP: '1'
+  PB: '16'
+  PO: '3496'
+  A: '1551'
+  E: '263'
+  PCT: '.950'

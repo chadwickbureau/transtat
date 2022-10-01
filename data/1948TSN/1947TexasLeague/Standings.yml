@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: regular
+  W: '96'
+  L: '58'
+  T: '3'
+  PCT: '.623'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: regular
+  W: '95'
+  L: '58'
+  T: '2'
+  PCT: '.621'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: regular
+  W: '79'
+  L: '74'
+  T: '1'
+  PCT: '.516'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: regular
+  W: '79'
+  L: '75'
+  T: '0'
+  PCT: '.513'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: regular
+  W: '75'
+  L: '79'
+  T: '4'
+  PCT: '.487'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: regular
+  W: '71'
+  L: '83'
+  T: '1'
+  PCT: '.461'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  phase: regular
+  W: '60'
+  L: '94'
+  T: '1'
+  PCT: '.390'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  phase: regular
+  W: '60'
+  L: '94'
+  T: '0'
+  PCT: '.390'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

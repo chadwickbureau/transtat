@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Florence
+  phase: regular
+  W: '87'
+  L: '59'
+  T: '0'
+  PCT: '.596'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: regular
+  W: '81'
+  L: '60'
+  T: '2'
+  PCT: '.574'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  phase: regular
+  W: '76'
+  L: '71'
+  T: '2'
+  PCT: '.517'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  phase: regular
+  W: '71'
+  L: '70'
+  T: '0'
+  PCT: '.504'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  phase: regular
+  W: '72'
+  L: '73'
+  T: '0'
+  PCT: '.497'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Sumter
+  phase: regular
+  W: '65'
+  L: '80'
+  T: '4'
+  PCT: '.448'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Charlotte
+  phase: regular
+  W: '62'
+  L: '80'
+  T: '0'
+  PCT: '.437'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  phase: regular
+  W: '62'
+  L: '83'
+  T: '2'
+  PCT: '.428'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Florence
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Florence
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

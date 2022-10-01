@@ -1,0 +1,94 @@
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '84'
+  L: '42'
+  PCT: '.667'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '69'
+  L: '54'
+  PCT: '.561'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  phase: regular
+  W: '65'
+  L: '61'
+  PCT: '.516'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: regular
+  W: '56'
+  L: '69'
+  PCT: '.448'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: regular
+  W: '51'
+  L: '73'
+  PCT: '.411'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular
+  W: '49'
+  L: '75'
+  PCT: '.395'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Americus
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Tallahassee
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,160 @@
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Scranton
+  phase: regular/first
+  W: '42'
+  L: '27'
+  T: '0'
+  PCT: '.609'
+  RANK: '1'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Binghamton
+  phase: regular/first
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '2'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Williamsport
+  phase: regular/first
+  W: '37'
+  L: '33'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Hazleton
+  phase: regular/first
+  W: '36'
+  L: '34'
+  T: '0'
+  PCT: '.514'
+  RANK: '4'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Elmira
+  phase: regular/first
+  W: '35'
+  L: '35'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Allentown
+  phase: regular/first
+  W: '34'
+  L: '35'
+  T: '0'
+  PCT: '.493'
+  RANK: '6'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Wilkes-Barre
+  phase: regular/first
+  W: '32'
+  L: '37'
+  T: '0'
+  PCT: '.464'
+  RANK: '7'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: York/Trenton
+  phase: regular/first
+  W: '24'
+  L: '45'
+  T: '0'
+  PCT: '.348'
+  RANK: '8'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Elmira
+  phase: regular/second
+  W: '44'
+  L: '26'
+  T: '1'
+  PCT: '.629'
+  RANK: '1'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Binghamton
+  phase: regular/second
+  W: '43'
+  L: '26'
+  T: '2'
+  PCT: '.623'
+  RANK: '2'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Williamsport
+  phase: regular/second
+  W: '41'
+  L: '29'
+  T: '0'
+  PCT: '.586'
+  RANK: '3'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Allentown
+  phase: regular/second
+  W: '37'
+  L: '33'
+  T: '1'
+  PCT: '.529'
+  RANK: '4'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Scranton
+  phase: regular/second
+  W: '36'
+  L: '33'
+  T: '1'
+  PCT: '.522'
+  RANK: '5'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Wilkes-Barre
+  phase: regular/second
+  W: '30'
+  L: '38'
+  T: '2'
+  PCT: '.441'
+  RANK: '6'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Hazleton
+  phase: regular/second
+  W: '30'
+  L: '38'
+  T: '0'
+  PCT: '.441'
+  RANK: '6'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: York/Trenton
+  phase: regular/second
+  W: '16'
+  L: '54'
+  T: '1'
+  PCT: '.229'
+  RANK: '8'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Scranton
+  phase: final
+  W: '4'
+  L: '0'
+  T: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Elmira
+  phase: final
+  W: '0'
+  L: '4'
+  T: '1'
+  RANK: '2'

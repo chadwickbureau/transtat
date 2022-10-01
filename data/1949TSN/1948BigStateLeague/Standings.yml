@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Sherman-Denison
+  phase: regular
+  W: '94'
+  L: '51'
+  T: '1'
+  PCT: '.648'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: regular
+  W: '84'
+  L: '62'
+  T: '0'
+  PCT: '.575'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: regular
+  W: '82'
+  L: '64'
+  T: '0'
+  PCT: '.562'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: regular
+  W: '79'
+  L: '67'
+  T: '1'
+  PCT: '.541'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Gainesville
+  phase: regular
+  W: '69'
+  L: '77'
+  T: '0'
+  PCT: '.473'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Paris
+  phase: regular
+  W: '62'
+  L: '85'
+  T: '0'
+  PCT: '.422'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: regular
+  W: '60'
+  L: '83'
+  T: '0'
+  PCT: '.420'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Greenville
+  phase: regular
+  W: '52'
+  L: '93'
+  T: '0'
+  PCT: '.359'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Sherman-Denison
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Sherman-Denison
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

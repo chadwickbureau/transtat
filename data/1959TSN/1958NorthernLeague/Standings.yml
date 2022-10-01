@@ -1,0 +1,118 @@
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular
+  W: '72'
+  L: '50'
+  T: '2'
+  PCT: '.590'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '72'
+  L: '51'
+  T: '0'
+  PCT: '.585'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: regular
+  W: '65'
+  L: '53'
+  T: '0'
+  PCT: '.551'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Minot
+  phase: regular
+  W: '67'
+  L: '55'
+  T: '0'
+  PCT: '.549'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '65'
+  L: '56'
+  T: '0'
+  PCT: '.537'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  phase: regular
+  W: '55'
+  L: '67'
+  T: '1'
+  PCT: '.451'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '51'
+  L: '68'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular
+  W: '39'
+  L: '86'
+  T: '1'
+  PCT: '.312'
+  RANK: '8'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '0'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '1'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '0'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Minot
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '1'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: final
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: final
+  W: '1'
+  L: '2'
+  RANK: '2'

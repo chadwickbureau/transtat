@@ -1,0 +1,1451 @@
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Jiminez
+  nameClub1: Odessa
+  GP: '12'
+  GS: '10'
+  CG: '8'
+  SHO: '3'
+  W: '7'
+  L: '3'
+  PCT: '.700'
+  IP: '87'
+  H: '85'
+  HR: '7'
+  R: '35'
+  ER: '26'
+  BB: '18'
+  SO: '36'
+  HB: '0'
+  WP: '6'
+  ERA: '2.69'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Miskulin
+  nameClub1: Lamesa/Winters-Ballinger
+  GP: '16'
+  GS: '9'
+  CG: '6'
+  SHO: '0'
+  W: '4'
+  L: '10'
+  PCT: '.286'
+  IP: '87'
+  H: '89'
+  HR: '1'
+  R: '56'
+  ER: '32'
+  BB: '22'
+  SO: '45'
+  HB: '2'
+  WP: '7'
+  ERA: '3.31'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Saldana
+  nameClub1: San Angelo
+  GP: '32'
+  GS: '22'
+  CG: '16'
+  SHO: '0'
+  W: '13'
+  L: '10'
+  PCT: '.565'
+  IP: '254'
+  H: '240'
+  HR: '19'
+  R: '133'
+  ER: '98'
+  BB: '76'
+  SO: '87'
+  HB: '1'
+  WP: '8'
+  ERA: '3.46'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Guerra
+  nameClub1: San Angelo
+  GP: '37'
+  GS: '28'
+  CG: '21'
+  SHO: '2'
+  W: '18'
+  L: '12'
+  PCT: '.600'
+  IP: '240'
+  H: '228'
+  HR: '17'
+  R: '114'
+  ER: '97'
+  BB: '63'
+  SO: '89'
+  HB: '7'
+  WP: '6'
+  ERA: '3.63'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Gregg
+  nameClub1: San Angelo
+  GP: '32'
+  GS: '29'
+  CG: '17'
+  SHO: '3'
+  W: '18'
+  L: '10'
+  PCT: '.643'
+  IP: '200'
+  H: '181'
+  HR: '17'
+  R: '104'
+  ER: '81'
+  BB: '124'
+  SO: '172'
+  HB: '8'
+  WP: '11'
+  ERA: '3.64'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ruyle
+  nameClub1: Artesia
+  GP: '45'
+  GS: '32'
+  CG: '22'
+  SHO: '14'
+  W: '20'
+  L: '10'
+  PCT: '.667'
+  IP: '273'
+  H: '292'
+  HR: '14'
+  R: '136'
+  ER: '114'
+  BB: '105'
+  SO: '165'
+  HB: '4'
+  WP: '18'
+  ERA: '3.73'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Epperson
+  nameClub1: Carlsbad
+  GP: '40'
+  GS: '29'
+  CG: '22'
+  SHO: '16'
+  W: '15'
+  L: '10'
+  PCT: '.600'
+  IP: '248'
+  H: '217'
+  HR: '16'
+  R: '134'
+  ER: '106'
+  BB: '115'
+  SO: '214'
+  HB: '7'
+  WP: '7'
+  ERA: '3.75'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Malone
+  nameClub1: Carlsbad
+  GP: '50'
+  GS: '24'
+  CG: '15'
+  SHO: '36'
+  W: '25'
+  L: '6'
+  PCT: '.806'
+  IP: '281'
+  H: '286'
+  HR: '20'
+  R: '166'
+  ER: '123'
+  BB: '113'
+  SO: '162'
+  HB: '13'
+  WP: '7'
+  ERA: '3.94'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Bonine
+  nameClub1: San Angelo
+  GP: '40'
+  GS: '30'
+  CG: '25'
+  SHO: '2'
+  W: '18'
+  L: '12'
+  PCT: '.600'
+  IP: '261'
+  H: '281'
+  HR: '14'
+  R: '164'
+  ER: '115'
+  BB: '74'
+  SO: '137'
+  HB: '6'
+  WP: '11'
+  ERA: '3.96'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Parker
+  nameClub1: Artesia
+  GP: '13'
+  GS: '9'
+  CG: '3'
+  SHO: '0'
+  W: '4'
+  L: '6'
+  PCT: '.400'
+  IP: '68'
+  H: '76'
+  HR: '4'
+  R: '44'
+  ER: '36'
+  BB: '29'
+  SO: '40'
+  HB: '21'
+  WP: '1'
+  ERA: '4.00'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Williams
+  nameClub1: Carlsbad
+  GP: '33'
+  GS: '27'
+  CG: '18'
+  SHO: '0'
+  W: '19'
+  L: '10'
+  PCT: '.655'
+  IP: '209'
+  H: '215'
+  HR: '13'
+  R: '108'
+  ER: '93'
+  BB: '101'
+  SO: '129'
+  HB: '8'
+  WP: '7'
+  ERA: '4.01'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Rainey
+  nameClub1: Midland
+  GP: '17'
+  GS: '7'
+  CG: '5'
+  SHO: '0'
+  W: '6'
+  L: '5'
+  PCT: '.545'
+  IP: '76'
+  H: '85'
+  HR: '3'
+  R: '49'
+  ER: '34'
+  BB: '28'
+  SO: '35'
+  HB: '1'
+  WP: '0'
+  ERA: '4.03'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ortiz
+  nameFirst: W.
+  nameClub1: Odessa
+  GP: '41'
+  GS: '25'
+  CG: '12'
+  SHO: '1'
+  W: '14'
+  L: '16'
+  PCT: '.467'
+  IP: '240'
+  H: '242'
+  HR: '22'
+  R: '145'
+  ER: '108'
+  BB: '117'
+  SO: '103'
+  HB: '1'
+  WP: '15'
+  ERA: '4.05'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Schaening
+  nameClub1: Midland
+  GP: '22'
+  GS: '11'
+  CG: '7'
+  SHO: '0'
+  W: '10'
+  L: '4'
+  PCT: '.714'
+  IP: '108'
+  H: '105'
+  HR: '8'
+  R: '55'
+  ER: '50'
+  BB: '43'
+  SO: '47'
+  HB: '1'
+  WP: '5'
+  ERA: '4.18'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Soto
+  nameClub1: San Angelo
+  GP: '38'
+  GS: '4'
+  CG: '0'
+  SHO: '0'
+  W: '10'
+  L: '7'
+  PCT: '.588'
+  IP: '163'
+  H: '170'
+  HR: '5'
+  R: '95'
+  ER: '77'
+  BB: '55'
+  SO: '57'
+  HB: '4'
+  WP: '0'
+  ERA: '4.24'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Alvarez
+  nameClub1: Artesia
+  GP: '48'
+  GS: '24'
+  CG: '13'
+  SHO: '1'
+  W: '19'
+  L: '9'
+  PCT: '.679'
+  IP: '247'
+  H: '268'
+  HR: '17'
+  R: '141'
+  ER: '117'
+  BB: '62'
+  SO: '176'
+  HB: '4'
+  WP: '3'
+  ERA: '4.25'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Rodriguez
+  nameClub1: Midland
+  GP: '24'
+  GS: '19'
+  CG: '9'
+  SHO: '0'
+  W: '9'
+  L: '10'
+  PCT: '.474'
+  IP: '143'
+  H: '125'
+  HR: '10'
+  R: '81'
+  ER: '69'
+  BB: '86'
+  SO: '144'
+  HB: '15'
+  WP: '7'
+  ERA: '4.34'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Reguera
+  nameClub1: Big Spring
+  GP: '13'
+  GS: '11'
+  CG: '7'
+  SHO: '0'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '89'
+  H: '103'
+  HR: '15'
+  R: '68'
+  ER: '43'
+  BB: '34'
+  SO: '62'
+  HB: '1'
+  WP: '2'
+  ERA: '4.36'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ortiz
+  nameFirst: O.
+  nameClub1: Roswell
+  GP: '16'
+  GS: '8'
+  CG: '5'
+  SHO: '1'
+  W: '6'
+  L: '5'
+  PCT: '.545'
+  IP: '75'
+  H: '100'
+  HR: '5'
+  R: '49'
+  ER: '36'
+  BB: '21'
+  SO: '39'
+  HB: '3'
+  WP: '1'
+  ERA: '4.46'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Jacome
+  nameClub1: Midland
+  GP: '22'
+  GS: '11'
+  CG: '8'
+  SHO: '0'
+  W: '11'
+  L: '4'
+  PCT: '.733'
+  IP: '123'
+  H: '161'
+  HR: '9'
+  R: '78'
+  ER: '63'
+  BB: '36'
+  SO: '49'
+  HB: '2'
+  WP: '1'
+  ERA: '4.59'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Arencibia
+  nameClub1: Roswell
+  GP: '29'
+  GS: '23'
+  CG: '11'
+  SHO: '1'
+  W: '12'
+  L: '11'
+  PCT: '.522'
+  IP: '180'
+  H: '246'
+  HR: '16'
+  R: '121'
+  ER: '95'
+  BB: '49'
+  SO: '100'
+  HB: '2'
+  WP: '5'
+  ERA: '4.75'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Weaver
+  nameClub1: Roswell
+  GP: '32'
+  GS: '28'
+  CG: '19'
+  SHO: '3'
+  W: '14'
+  L: '10'
+  PCT: '.583'
+  IP: '222'
+  H: '275'
+  HR: '25'
+  R: '152'
+  ER: '119'
+  BB: '87'
+  SO: '156'
+  HB: '4'
+  WP: '15'
+  ERA: '4.83'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Presley
+  nameClub1: Artesia
+  GP: '12'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  IP: '48'
+  H: '57'
+  HR: '9'
+  R: '29'
+  ER: '26'
+  BB: '24'
+  SO: '24'
+  HB: '3'
+  WP: '1'
+  ERA: '4.84'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Perez
+  nameClub1: Big Spring
+  GP: '7'
+  GS: '7'
+  CG: '4'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '51'
+  H: '70'
+  HR: '11'
+  R: '40'
+  ER: '31'
+  BB: '14'
+  SO: '20'
+  HB: '1'
+  WP: '1'
+  ERA: '5.00'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Carson
+  nameClub1: Odessa
+  GP: '33'
+  GS: '23'
+  CG: '14'
+  SHO: '1'
+  W: '13'
+  L: '13'
+  PCT: '.500'
+  IP: '180'
+  H: '192'
+  HR: '14'
+  R: '123'
+  ER: '100'
+  BB: '96'
+  SO: '154'
+  HB: '3'
+  WP: '8'
+  ERA: '5.00'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Herrera
+  nameClub1: Big Spring
+  nameClub2: Lamesa/Winters-Ballinger
+  GP: '24'
+  GS: '15'
+  CG: '8'
+  SHO: '0'
+  W: '3'
+  L: '10'
+  PCT: '.231'
+  IP: '118'
+  H: '131'
+  HR: '9'
+  R: '90'
+  ER: '66'
+  BB: '95'
+  SO: '79'
+  HB: '5'
+  WP: '9'
+  ERA: '5.02'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Zgraggen
+  nameClub1: Odessa
+  GP: '29'
+  GS: '20'
+  CG: '13'
+  SHO: '0'
+  W: '7'
+  L: '10'
+  PCT: '.412'
+  IP: '171'
+  H: '197'
+  HR: '18'
+  R: '113'
+  ER: '96'
+  BB: '82'
+  SO: '72'
+  HB: '3'
+  WP: '3'
+  ERA: '5.04'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Torres
+  nameClub1: Roswell
+  GP: '33'
+  GS: '7'
+  CG: '5'
+  SHO: '0'
+  W: '10'
+  L: '3'
+  PCT: '.769'
+  IP: '123'
+  H: '145'
+  HR: '14'
+  R: '79'
+  ER: '70'
+  BB: '40'
+  SO: '50'
+  HB: '6'
+  WP: '5'
+  ERA: '5.12'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Wulf
+  nameClub1: Carlsbad
+  GP: '40'
+  GS: '22'
+  CG: '8'
+  SHO: '1'
+  W: '17'
+  L: '9'
+  PCT: '.654'
+  IP: '213'
+  H: '267'
+  HR: '23'
+  R: '148'
+  ER: '122'
+  BB: '70'
+  SO: '74'
+  HB: '5'
+  WP: '4'
+  ERA: '5.16'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Bacardi
+  nameClub1: Roswell
+  GP: '28'
+  GS: '23'
+  CG: '13'
+  SHO: '1'
+  W: '7'
+  L: '11'
+  PCT: '.389'
+  IP: '170'
+  H: '211'
+  HR: '21'
+  R: '121'
+  ER: '99'
+  BB: '63'
+  SO: '116'
+  HB: '2'
+  WP: '7'
+  ERA: '5.24'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Atkinson
+  nameClub1: Midland
+  nameClub2: Big Spring
+  GP: '28'
+  GS: '19'
+  CG: '9'
+  SHO: '0'
+  W: '8'
+  L: '8'
+  PCT: '.500'
+  IP: '136'
+  H: '155'
+  HR: '5'
+  R: '112'
+  ER: '82'
+  BB: '76'
+  SO: '87'
+  HB: '4'
+  WP: '11'
+  ERA: '5.43'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Blackburn
+  nameClub1: Odessa
+  GP: '7'
+  GS: '5'
+  CG: '2'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '48'
+  H: '47'
+  HR: '2'
+  R: '35'
+  ER: '29'
+  BB: '36'
+  SO: '29'
+  HB: '3'
+  WP: '5'
+  ERA: '5.44'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ruiz
+  nameClub1: Odessa
+  GP: '13'
+  GS: '3'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '46'
+  H: '46'
+  HR: '1'
+  R: '46'
+  ER: '38'
+  BB: '34'
+  SO: '19'
+  HB: '2'
+  WP: '3'
+  ERA: '5.47'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Martin
+  nameClub1: Artesia
+  GP: '11'
+  GS: '8'
+  CG: '6'
+  SHO: '0'
+  W: '7'
+  L: '3'
+  PCT: '.700'
+  IP: '70'
+  H: '80'
+  HR: '6'
+  R: '47'
+  ER: '42'
+  BB: '27'
+  SO: '42'
+  HB: '1'
+  WP: '1'
+  ERA: '5.48'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Blair
+  nameClub1: Midland
+  GP: '30'
+  GS: '20'
+  CG: '9'
+  SHO: '3'
+  W: '8'
+  L: '7'
+  PCT: '.533'
+  IP: '142'
+  H: '170'
+  HR: '14'
+  R: '109'
+  ER: '89'
+  BB: '81'
+  SO: '100'
+  HB: '13'
+  WP: '6'
+  ERA: '5.64'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Lozano
+  nameClub1: San Angelo
+  GP: '21'
+  GS: '8'
+  CG: '4'
+  SHO: '1'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '93'
+  H: '109'
+  HR: '4'
+  R: '65'
+  ER: '59'
+  BB: '38'
+  SO: '51'
+  HB: '5'
+  WP: '1'
+  ERA: '5.71'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Rogas
+  nameClub1: Carlsbad
+  GP: '18'
+  GS: '14'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '7'
+  PCT: '.222'
+  IP: '93'
+  H: '98'
+  HR: '8'
+  R: '72'
+  ER: '59'
+  BB: '52'
+  SO: '56'
+  HB: '2'
+  WP: '5'
+  ERA: '5.71'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Winn
+  nameClub1: San Angelo
+  nameClub2: Midland
+  GP: '17'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '63'
+  H: '84'
+  HR: '3'
+  R: '47'
+  ER: '40'
+  BB: '30'
+  SO: '25'
+  HB: '2'
+  WP: '0'
+  ERA: '5.71'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Newcom
+  nameClub1: Midland
+  GP: '25'
+  GS: '17'
+  CG: '10'
+  SHO: '0'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '126'
+  H: '187'
+  HR: '14'
+  R: '96'
+  ER: '80'
+  BB: '45'
+  SO: '61'
+  HB: '2'
+  WP: '3'
+  ERA: '5.72'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Groomes
+  nameClub1: Big Spring
+  GP: '26'
+  GS: '16'
+  CG: '9'
+  SHO: '1'
+  W: '8'
+  L: '11'
+  PCT: '.421'
+  IP: '153'
+  H: '207'
+  HR: '24'
+  R: '138'
+  ER: '98'
+  BB: '44'
+  SO: '70'
+  HB: '8'
+  WP: '3'
+  ERA: '5.76'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Reyes
+  nameClub1: Artesia
+  GP: '29'
+  GS: '21'
+  CG: '10'
+  SHO: '2'
+  W: '8'
+  L: '11'
+  PCT: '.421'
+  IP: '153'
+  H: '198'
+  HR: '14'
+  R: '115'
+  ER: '100'
+  BB: '81'
+  SO: '67'
+  HB: '10'
+  WP: '8'
+  ERA: '5.88'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ten
+  nameClub1: Lamesa/Winters-Ballinger
+  GP: '12'
+  GS: '8'
+  CG: '5'
+  SHO: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '61'
+  H: '90'
+  HR: '4'
+  R: '69'
+  ER: '40'
+  BB: '16'
+  SO: '28'
+  HB: '0'
+  WP: '3'
+  ERA: '5.98'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Alonso
+  nameClub1: Roswell
+  nameClub2: Big Spring
+  nameClub3: Artesia
+  GP: '35'
+  GS: '14'
+  CG: '18'
+  SHO: '0'
+  W: '8'
+  L: '19'
+  PCT: '.296'
+  IP: '212'
+  H: '288'
+  HR: '31'
+  R: '286'
+  ER: '154'
+  BB: '88'
+  SO: '110'
+  HB: '7'
+  WP: '9'
+  ERA: '6.54'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Del Toro
+  nameClub1: Roswell
+  GP: '38'
+  GS: '21'
+  CG: '10'
+  SHO: '0'
+  W: '9'
+  L: '12'
+  PCT: '.429'
+  IP: '180'
+  H: '196'
+  HR: '22'
+  R: '144'
+  ER: '132'
+  BB: '118'
+  SO: '115'
+  HB: '3'
+  WP: '12'
+  ERA: '6.61'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Monahan
+  nameClub1: Artesia
+  GP: '27'
+  GS: '17'
+  CG: '7'
+  SHO: '1'
+  W: '6'
+  L: '8'
+  PCT: '.429'
+  IP: '122'
+  H: '137'
+  HR: '11'
+  R: '133'
+  ER: '100'
+  BB: '102'
+  SO: '90'
+  HB: '9'
+  WP: '8'
+  ERA: '7.37'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Pena
+  nameClub1: Big Spring
+  GP: '16'
+  GS: '1'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '2'
+  PCT: '.333'
+  IP: '38'
+  H: '77'
+  HR: '2'
+  R: '52'
+  ER: '41'
+  BB: '34'
+  SO: '16'
+  HB: '2'
+  WP: '3'
+  ERA: '7.68'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Craig
+  nameClub1: Odessa
+  GP: '30'
+  GS: '15'
+  CG: '4'
+  SHO: '1'
+  W: '3'
+  L: '7'
+  PCT: '.300'
+  IP: '83'
+  H: '104'
+  HR: '8'
+  R: '89'
+  ER: '77'
+  BB: '74'
+  SO: '71'
+  HB: '2'
+  WP: '4'
+  ERA: '8.36'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Morganstern
+  nameClub1: Lamesa/Winters-Ballinger
+  nameClub2: Artesia
+  GP: '13'
+  GS: '8'
+  CG: '4'
+  SHO: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '53'
+  H: '86'
+  HR: '3'
+  R: '74'
+  ER: '55'
+  BB: '61'
+  SO: '27'
+  HB: '3'
+  WP: '2'
+  ERA: '9.34'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Lopez
+  nameClub1: Big Spring
+  GP: '20'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '69'
+  H: '109'
+  HR: '13'
+  R: '80'
+  ER: '72'
+  BB: '33'
+  SO: '29'
+  HB: '3'
+  WP: '3'
+  ERA: '9.40'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Bauman
+  nameClub1: Artesia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Cowger
+  nameClub1: Artesia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Estrada
+  nameClub1: Artesia
+  W: '0'
+  L: '5'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Fernandez
+  nameClub1: Artesia
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Foster
+  nameClub1: Artesia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Halter
+  nameClub1: Artesia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: King
+  nameClub1: Artesia
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Marrero
+  nameClub1: Artesia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Casanova
+  nameClub1: Midland
+  nameClub2: Big Spring
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Diaz
+  nameClub1: Midland
+  nameClub2: Big Spring
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Gonzalez
+  nameClub1: Big Spring
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Kurando
+  nameClub1: Big Spring
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Luna
+  nameClub1: Big Spring
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Machado
+  nameClub1: Big Spring
+  W: '2'
+  L: '3'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Neidson
+  nameClub1: Carlsbad
+  nameClub2: Big Spring
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ralat
+  nameClub1: Odessa
+  nameClub2: Big Spring
+  W: '1'
+  L: '4'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Reynolds
+  nameClub1: Big Spring
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Fornall
+  nameClub1: Carlsbad
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Heitner
+  nameClub1: Carlsbad
+  W: '2'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Owen
+  nameClub1: Carlsbad
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Richardson
+  nameClub1: Carlsbad
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Shaw
+  nameClub1: Carlsbad
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Singleton
+  nameClub1: Carlsbad
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Sosa
+  nameClub1: Carlsbad
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Blackwood
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Brooks
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Burza
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: McGoldrick
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Miller
+  nameClub1: San Angelo
+  nameClub2: Lamesa/Winters-Ballinger
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Nowell
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Peck
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Villarreal
+  nameClub1: Odessa
+  nameClub2: Lamesa/Winters-Ballinger
+  W: '0'
+  L: '4'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Webb
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Wright
+  nameClub1: Lamesa/Winters-Ballinger
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Basco
+  nameClub1: Midland
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Cockrell
+  nameClub1: Midland
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Dailey
+  nameClub1: Midland
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: De La Torre
+  nameClub1: Midland
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Harford
+  nameClub1: Midland
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Quintana
+  nameClub1: Midland
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Selbo
+  nameClub1: Midland
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Sisk
+  nameClub1: Midland
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Smith
+  nameClub1: Midland
+  W: '3'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Velardi
+  nameClub1: Midland
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Young
+  nameClub1: Midland
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ackers
+  nameClub1: Odessa
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Blumenthal
+  nameClub1: Odessa
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Childress
+  nameClub1: Odessa
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Christi
+  nameClub1: Odessa
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Colella
+  nameClub1: Odessa
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Gray
+  nameClub1: Odessa
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Martin
+  nameClub1: Odessa
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Mehal
+  nameClub1: Odessa
+  W: '2'
+  L: '4'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Rene
+  nameClub1: Odessa
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Rodriguez
+  nameClub1: Odessa
+  W: '2'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Sokolowski
+  nameClub1: Odessa
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Crawford
+  nameClub1: Roswell
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Leeder
+  nameClub1: Roswell
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Luces
+  nameClub1: Roswell
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Muniz
+  nameClub1: Roswell
+  W: '1'
+  L: '6'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Stroyer
+  nameClub1: Roswell
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Swanson
+  nameClub1: Roswell
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Agne
+  nameClub1: San Angelo
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Bateman
+  nameClub1: San Angelo
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Callaghan
+  nameClub1: San Angelo
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Ewen
+  nameClub1: San Angelo
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Jones
+  nameClub1: San Angelo
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Longhorn League
+  nameLast: Thomas
+  nameClub1: San Angelo
+  W: '1'
+  L: '1'

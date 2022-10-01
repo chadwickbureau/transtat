@@ -1,0 +1,72 @@
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: North Platte
+  phase: regular
+  W: '41'
+  L: '22'
+  T: '0'
+  PCT: '.651'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: McCook
+  phase: regular
+  W: '40'
+  L: '23'
+  T: '0'
+  PCT: '.635'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: Grand Island
+  phase: regular
+  W: '33'
+  L: '30'
+  T: '0'
+  PCT: '.524'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: Kearney
+  phase: regular
+  W: '33'
+  L: '30'
+  T: '0'
+  PCT: '.524'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: Lexington
+  phase: regular
+  W: '30'
+  L: '33'
+  T: '0'
+  PCT: '.476'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: Holdrege
+  phase: regular
+  W: '29'
+  L: '34'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: Hastings
+  phase: regular
+  W: '24'
+  L: '39'
+  T: '0'
+  PCT: '.381'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Nebraska State League
+  nameClub: Superior
+  phase: regular
+  W: '22'
+  L: '41'
+  T: '0'
+  PCT: '.349'
+  RANK: '8'

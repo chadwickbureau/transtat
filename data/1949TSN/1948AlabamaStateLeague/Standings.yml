@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Troy
+  phase: regular
+  W: '83'
+  L: '41'
+  T: '0'
+  PCT: '.669'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: regular
+  W: '80'
+  L: '46'
+  T: '0'
+  PCT: '.635'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Dothan
+  phase: regular
+  W: '64'
+  L: '62'
+  T: '0'
+  PCT: '.508'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Ozark
+  phase: regular
+  W: '61'
+  L: '65'
+  T: '0'
+  PCT: '.484'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Brewton
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '0'
+  PCT: '.460'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Enterprise
+  phase: regular
+  W: '57'
+  L: '67'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Geneva
+  phase: regular
+  W: '54'
+  L: '72'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Andalusia
+  phase: regular
+  W: '45'
+  L: '81'
+  T: '0'
+  PCT: '.357'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Dothan
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Troy
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Ozark
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Dothan
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: regular
+  W: '82'
+  L: '40'
+  T: '0'
+  PCT: '.672'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Cairo
+  phase: regular
+  W: '74'
+  L: '51'
+  T: '2'
+  PCT: '.592'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: regular
+  W: '68'
+  L: '56'
+  T: '0'
+  PCT: '.548'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  phase: regular
+  W: '67'
+  L: '57'
+  T: '1'
+  PCT: '.540'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: regular
+  W: '65'
+  L: '60'
+  T: '1'
+  PCT: '.520'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: regular
+  W: '62'
+  L: '61'
+  T: '0'
+  PCT: '.504'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Clarksville
+  phase: regular
+  W: '40'
+  L: '85'
+  T: '0'
+  PCT: '.320'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: regular
+  W: '38'
+  L: '86'
+  T: '0'
+  PCT: '.306'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Cairo
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  phase: final
+  W: '2'
+  L: '1'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Cairo
+  phase: final
+  W: '1'
+  L: '2'
+  PCT: '.333'
+  RANK: '2'

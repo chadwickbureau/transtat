@@ -1,0 +1,80 @@
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  Johnstown: '12'
+  Youngstown: '9'
+  Oil City: '13'
+  Butler: '11'
+  Vandergrift: '12'
+  Uniontown: '16'
+  New Castle: '12'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  Erie: '8'
+  Youngstown: '11'
+  Oil City: '13'
+  Butler: '14'
+  Vandergrift: '12'
+  Uniontown: '13'
+  New Castle: '13'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  Erie: '10'
+  Johnstown: '8'
+  Oil City: '14'
+  Butler: '9'
+  Vandergrift: '8'
+  Uniontown: '14'
+  New Castle: '11'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  Erie: '7'
+  Johnstown: '7'
+  Youngstown: '6'
+  Butler: '7'
+  Vandergrift: '13'
+  Uniontown: '14'
+  New Castle: '13'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  Erie: '9'
+  Johnstown: '6'
+  Youngstown: '11'
+  Oil City: '13'
+  Vandergrift: '8'
+  Uniontown: '9'
+  New Castle: '10'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  Erie: '7'
+  Johnstown: '8'
+  Youngstown: '12'
+  Oil City: '5'
+  Butler: '11'
+  Uniontown: '9'
+  New Castle: '11'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  Erie: '4'
+  Johnstown: '7'
+  Youngstown: '6'
+  Oil City: '4'
+  Butler: '11'
+  Vandergrift: '11'
+  New Castle: '12'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: New Castle
+  Erie: '8'
+  Johnstown: '7'
+  Youngstown: '7'
+  Oil City: '7'
+  Butler: '9'
+  Vandergrift: '8'
+  Uniontown: '8'

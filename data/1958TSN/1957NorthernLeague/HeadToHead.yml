@@ -1,0 +1,80 @@
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Duluth-Superior
+  Winnipeg: '11'
+  Eau Claire: '10'
+  Fargo-Moorhead: '12'
+  St. Cloud: '10'
+  Wausau: '7'
+  Aberdeen: '15'
+  Grand Forks: '8'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Winnipeg
+  Duluth-Superior: '7'
+  Eau Claire: '12'
+  Fargo-Moorhead: '7'
+  St. Cloud: '10'
+  Wausau: '9'
+  Aberdeen: '12'
+  Grand Forks: '12'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  Duluth-Superior: '8'
+  Winnipeg: '6'
+  Fargo-Moorhead: '9'
+  St. Cloud: '8'
+  Wausau: '14'
+  Aberdeen: '12'
+  Grand Forks: '13'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  Duluth-Superior: '6'
+  Winnipeg: '9'
+  Eau Claire: '8'
+  St. Cloud: '9'
+  Wausau: '13'
+  Aberdeen: '10'
+  Grand Forks: '10'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  Duluth-Superior: '7'
+  Winnipeg: '8'
+  Eau Claire: '10'
+  Fargo-Moorhead: '9'
+  Wausau: '9'
+  Aberdeen: '7'
+  Grand Forks: '9'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Wausau
+  Duluth-Superior: '11'
+  Winnipeg: '7'
+  Eau Claire: '4'
+  Fargo-Moorhead: '5'
+  St. Cloud: '7'
+  Aberdeen: '7'
+  Grand Forks: '11'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  Duluth-Superior: '3'
+  Winnipeg: '6'
+  Eau Claire: '6'
+  Fargo-Moorhead: '7'
+  St. Cloud: '10'
+  Wausau: '10'
+  Grand Forks: '9'
+- year: '1957'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  Duluth-Superior: '10'
+  Winnipeg: '6'
+  Eau Claire: '5'
+  Fargo-Moorhead: '8'
+  St. Cloud: '9'
+  Wausau: '7'
+  Aberdeen: '7'

@@ -1,0 +1,118 @@
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: regular
+  W: '90'
+  L: '64'
+  T: '3'
+  PCT: '.584'
+  RANK: '1'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '84'
+  L: '68'
+  T: '0'
+  PCT: '.553'
+  RANK: '2'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '84'
+  L: '69'
+  T: '4'
+  PCT: '.549'
+  RANK: '3'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '79'
+  L: '75'
+  T: '4'
+  PCT: '.513'
+  RANK: '4'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '78'
+  L: '76'
+  T: '4'
+  PCT: '.506'
+  RANK: '5'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '76'
+  L: '78'
+  T: '0'
+  PCT: '.494'
+  RANK: '6'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '63'
+  L: '91'
+  T: '1'
+  PCT: '.409'
+  RANK: '7'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '59'
+  L: '92'
+  T: '2'
+  PCT: '.391'
+  RANK: '8'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

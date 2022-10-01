@@ -1,0 +1,965 @@
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Tucker
+  nameClub1: Sioux Falls
+  Pos: 1B
+  G: '105'
+  PO: '865'
+  A: '42'
+  E: '12'
+  DP: '42'
+  PCT: '.987'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Monahan
+  nameClub1: Sioux City
+  Pos: 1B
+  G: '118'
+  PO: '1011'
+  A: '50'
+  E: '16'
+  DP: '39'
+  PCT: '.985'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Cardner
+  nameClub1: Lincoln
+  Pos: 1B
+  G: '100'
+  PO: '914'
+  A: '37'
+  E: '16'
+  DP: '43'
+  PCT: '.983'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Riley
+  nameClub1: Beatrice
+  Pos: 1B
+  G: '20'
+  PO: '188'
+  A: '4'
+  E: '3'
+  DP: '11'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Conners
+  nameClub1: Sioux Falls
+  Pos: 1B
+  G: '16'
+  PO: '142'
+  A: '1'
+  E: '4'
+  DP: '12'
+  PCT: '.973'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: McCain
+  nameClub1: Beatrice
+  Pos: 1B
+  G: '94'
+  PO: '742'
+  A: '38'
+  E: '23'
+  DP: '38'
+  PCT: '.971'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Petrick
+  nameClub1: Grand Island
+  Pos: 1B
+  G: '26'
+  PO: '210'
+  A: '4'
+  E: '9'
+  DP: '16'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Boyd
+  nameClub1: Norfolk
+  Pos: 1B
+  G: '99'
+  PO: '749'
+  A: '32'
+  E: '33'
+  DP: '52'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Svaldsen
+  nameClub1: Grand Island
+  Pos: 1B
+  G: '50'
+  PO: '454'
+  A: '5'
+  E: '21'
+  DP: '28'
+  PCT: '.956'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Rice
+  nameClub1: Lincoln
+  Pos: 1B
+  G: '15'
+  PO: '136'
+  A: '5'
+  E: '7'
+  DP: '11'
+  PCT: '.953'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Sonderman
+  nameClub1: Grand Island
+  Pos: 1B
+  G: '37'
+  PO: '302'
+  A: '12'
+  E: '17'
+  DP: '13'
+  PCT: '.949'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Tighe
+  nameClub1: Norfolk
+  Pos: 1B
+  G: '20'
+  PO: '186'
+  A: '10'
+  E: '12'
+  DP: '10'
+  PCT: '.942'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Wernett
+  nameClub1: Norfolk
+  Pos: 2B
+  G: '74'
+  PO: '125'
+  A: '148'
+  E: '15'
+  DP: '20'
+  PCT: '.948'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Marchi
+  nameClub1: Lincoln
+  Pos: 2B
+  G: '63'
+  PO: '116'
+  A: '135'
+  E: '15'
+  DP: '15'
+  PCT: '.944'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Mahacek
+  nameClub1: Sioux Falls
+  Pos: 2B
+  G: '115'
+  PO: '315'
+  A: '283'
+  E: '40'
+  DP: '42'
+  PCT: '.937'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Lucky
+  nameClub1: Lincoln
+  Pos: 2B
+  G: '18'
+  PO: '41'
+  A: '46'
+  E: '6'
+  DP: '6'
+  PCT: '.935'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Russell
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '109'
+  PO: '232'
+  A: '311'
+  E: '45'
+  DP: '32'
+  PCT: '.923'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Hassler
+  nameClub1: Grand Island
+  Pos: 2B
+  G: '73'
+  PO: '151'
+  A: '219'
+  E: '33'
+  DP: '34'
+  PCT: '.918'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Kodell
+  nameClub1: Lincoln
+  Pos: 2B
+  G: '35'
+  PO: '70'
+  A: '92'
+  E: '16'
+  DP: '15'
+  PCT: '.910'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Fenders
+  nameClub1: Norfolk
+  Pos: 2B
+  G: '36'
+  PO: '74'
+  A: '105'
+  E: '21'
+  DP: '20'
+  PCT: '.895'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Jones
+  nameClub1: Beatrice
+  Pos: 2B
+  G: '83'
+  PO: '133'
+  A: '191'
+  E: '48'
+  DP: '27'
+  PCT: '.892'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Silby
+  nameClub1: Norfolk
+  Pos: 2B
+  G: '16'
+  PO: '25'
+  A: '32'
+  E: '7'
+  DP: '4'
+  PCT: '.891'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Hancks
+  nameClub1: Grand Island
+  Pos: 2B
+  G: '19'
+  PO: '41'
+  A: '30'
+  E: '13'
+  DP: '4'
+  PCT: '.846'
+  apparatus: E=31
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Thompson
+  nameClub1: Grand Island
+  Pos: 2B
+  G: '10'
+  PO: '31'
+  A: '24'
+  E: '12'
+  DP: '4'
+  PCT: '.821'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Sandrin
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '92'
+  PO: '98'
+  A: '170'
+  E: '14'
+  DP: '9'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Earle
+  nameClub1: Norfolk
+  Pos: 3B
+  G: '10'
+  PO: '8'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: McCarron
+  nameClub1: Sioux City
+  Pos: 3B
+  G: '118'
+  PO: '152'
+  A: '218'
+  E: '37'
+  DP: '21'
+  PCT: '.909'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Schmidt
+  nameClub1: Grand Island
+  Pos: 3B
+  G: '15'
+  PO: '15'
+  A: '26'
+  E: '5'
+  DP: '1'
+  PCT: '.891'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Novak
+  nameClub1: Beatrice
+  Pos: 3B
+  G: '114'
+  PO: '118'
+  A: '225'
+  E: '44'
+  DP: '14'
+  PCT: '.886'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Coletta
+  nameClub1: Grand Island
+  Pos: 3B
+  G: '48'
+  PO: '54'
+  A: '96'
+  E: '22'
+  DP: '4'
+  PCT: '.872'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: White
+  nameFirst: Jack
+  nameClub1: Grand Island
+  Pos: 3B
+  G: '15'
+  PO: '16'
+  A: '27'
+  E: '7'
+  DP: '3'
+  PCT: '.860'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Kakoloris
+  nameClub1: Lincoln
+  Pos: 3B
+  G: '115'
+  PO: '147'
+  A: '197'
+  E: '57'
+  DP: '17'
+  PCT: '.858'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Morgan
+  nameClub1: Norfolk
+  Pos: 3B
+  G: '51'
+  PO: '40'
+  A: '51'
+  E: '17'
+  DP: '2'
+  PCT: '.843'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Stickny
+  nameClub1: Grand Island
+  Pos: 3B
+  G: '15'
+  PO: '8'
+  A: '22'
+  E: '6'
+  DP: '2'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Thompson
+  nameClub1: Grand Island
+  Pos: 3B
+  G: '19'
+  PO: '12'
+  A: '27'
+  E: '8'
+  DP: '3'
+  PCT: '.830'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Fingers
+  nameClub1: Norfolk
+  Pos: 3B
+  G: '26'
+  PO: '30'
+  A: '35'
+  E: '16'
+  DP: '0'
+  PCT: '.802'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Valentine
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '17'
+  PO: '8'
+  A: '19'
+  E: '7'
+  DP: '0'
+  PCT: '.794'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: White
+  nameFirst: Jack
+  nameClub1: Grand Island
+  Pos: SS
+  G: '13'
+  PO: '26'
+  A: '43'
+  E: '8'
+  DP: '4'
+  PCT: '.896'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Hennessy
+  nameClub1: Sioux Falls
+  Pos: SS
+  G: '118'
+  PO: '246'
+  A: '351'
+  E: '73'
+  DP: '47'
+  PCT: '.891'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Eaton
+  nameClub1: Lincoln
+  Pos: SS
+  G: '104'
+  PO: '177'
+  A: '285'
+  E: '59'
+  DP: '38'
+  PCT: '.887'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Hoffacker
+  nameClub1: Lincoln
+  Pos: SS
+  G: '21'
+  PO: '23'
+  A: '46'
+  E: '9'
+  DP: '4'
+  PCT: '.885'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Sams
+  nameClub1: Norfolk
+  Pos: SS
+  G: '107'
+  PO: '228'
+  A: '290'
+  E: '68'
+  DP: '45'
+  PCT: '.884'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Haas
+  nameClub1: Beatrice
+  Pos: SS
+  G: '19'
+  PO: '37'
+  A: '45'
+  E: '12'
+  DP: '7'
+  PCT: '.872'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Myers
+  nameClub1: Sioux City
+  Pos: SS
+  G: '118'
+  PO: '193'
+  A: '285'
+  E: '73'
+  DP: '33'
+  PCT: '.868'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Anderson
+  nameClub1: Grand Island
+  Pos: SS
+  G: '72'
+  PO: '134'
+  A: '159'
+  E: '50'
+  DP: '33'
+  PCT: '.854'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Hancks
+  nameClub1: Grand Island
+  Pos: SS
+  G: '10'
+  PO: '11'
+  A: '36'
+  E: '12'
+  DP: '0'
+  PCT: '.797'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Jones
+  nameClub1: Beatrice
+  Pos: SS
+  G: '26'
+  PO: '48'
+  A: '62'
+  E: '31'
+  DP: '0'
+  PCT: '.779'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Adams
+  nameClub1: Norfolk
+  Pos: SS
+  G: '12'
+  PO: '21'
+  A: '23'
+  E: '15'
+  DP: '2'
+  PCT: '.746'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Twibell
+  nameClub1: Lincoln
+  Pos: C
+  G: '11'
+  PO: '55'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PB: '4'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Koenig
+  nameClub1: Grand Island
+  Pos: C
+  G: '78'
+  PO: '536'
+  A: '73'
+  E: '10'
+  DP: '4'
+  PB: '19'
+  PCT: '.983'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Branden
+  nameClub1: Sioux Falls
+  Pos: C
+  G: '112'
+  PO: '715'
+  A: '100'
+  E: '15'
+  DP: '8'
+  PB: '6'
+  PCT: '.982'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Anderson
+  nameClub1: Sioux Falls
+  Pos: C
+  G: '24'
+  PO: '148'
+  A: '9'
+  E: '3'
+  DP: '1'
+  PB: '8'
+  PCT: '.981'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Radulovich
+  nameClub1: Lincoln
+  Pos: C
+  G: '104'
+  PO: '542'
+  A: '99'
+  E: '14'
+  DP: '7'
+  PB: '15'
+  PCT: '.978'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Schimling
+  nameClub1: Sioux City
+  Pos: C
+  G: '55'
+  PO: '379'
+  A: '34'
+  E: '10'
+  DP: '4'
+  PB: '13'
+  PCT: '.976'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Gibb
+  nameClub1: Norfolk
+  Pos: C
+  G: '102'
+  PO: '764'
+  A: '86'
+  E: '23'
+  DP: '0'
+  PB: '23'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Graves
+  nameClub1: Beatrice
+  Pos: C
+  G: '114'
+  PO: '739'
+  A: '80'
+  E: '22'
+  DP: '4'
+  PB: '42'
+  PCT: '.974'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Kominisky
+  nameClub1: Sioux City
+  Pos: C
+  G: '57'
+  PO: '343'
+  A: '55'
+  E: '11'
+  DP: '4'
+  PB: '6'
+  PCT: '.973'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Hoyt
+  nameClub1: Grand Island
+  Pos: C
+  G: '33'
+  PO: '235'
+  A: '22'
+  E: '11'
+  DP: '1'
+  PB: '2'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Morgan
+  nameClub1: Norfolk
+  Pos: C
+  G: '14'
+  PO: '67'
+  A: '10'
+  E: '6'
+  DP: '0'
+  PB: '7'
+  PCT: '.928'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Morgan
+  nameClub1: Norfolk
+  Pos: OF
+  G: '50'
+  PO: '53'
+  A: '5'
+  E: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: White
+  nameFirst: D.
+  nameClub1: Sioux City
+  Pos: OF
+  G: '81'
+  PO: '125'
+  A: '7'
+  E: '4'
+  PCT: '.971'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Verbeck
+  nameClub1: Norfolk
+  Pos: OF
+  G: '32'
+  PO: '65'
+  A: '12'
+  E: '3'
+  PCT: '.962'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Ross
+  nameClub1: Norfolk
+  Pos: OF
+  G: '15'
+  PO: '25'
+  A: '1'
+  E: '1'
+  PCT: '.962'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Riley
+  nameClub1: Beatrice
+  Pos: OF
+  G: '95'
+  PO: '185'
+  A: '4'
+  E: '9'
+  PCT: '.955'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Carp
+  nameClub1: Sioux City
+  Pos: OF
+  G: '36'
+  PO: '56'
+  A: '3'
+  E: '3'
+  PCT: '.951'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Wright
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '99'
+  PO: '167'
+  A: '9'
+  E: '9'
+  PCT: '.951'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Long
+  nameClub1: Beatrice
+  Pos: OF
+  G: '115'
+  PO: '134'
+  A: '18'
+  E: '8'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Petrick
+  nameClub1: Grand Island
+  Pos: OF
+  G: '44'
+  PO: '50'
+  A: '3'
+  E: '3'
+  PCT: '.946'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Bond
+  nameClub1: Grand Island
+  Pos: OF
+  G: '106'
+  PO: '145'
+  A: '14'
+  E: '9'
+  PCT: '.946'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Launer
+  nameClub1: Grand Island
+  Pos: OF
+  G: '58'
+  PO: '107'
+  A: '12'
+  E: '7'
+  PCT: '.944'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Krevitch
+  nameClub1: Norfolk
+  Pos: OF
+  G: '105'
+  PO: '143'
+  A: '7'
+  E: '9'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Lepeid
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '82'
+  PO: '153'
+  A: '11'
+  E: '10'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Schinsky
+  nameClub1: Sioux City
+  Pos: OF
+  G: '104'
+  PO: '90'
+  A: '3'
+  E: '6'
+  PCT: '.939'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Zimmer
+  nameClub1: Beatrice
+  Pos: OF
+  G: '116'
+  PO: '174'
+  A: '10'
+  E: '13'
+  PCT: '.934'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Fellon
+  nameClub1: Sioux City
+  Pos: OF
+  G: '118'
+  PO: '163'
+  A: '3'
+  E: '12'
+  PCT: '.933'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Marusch
+  nameClub1: Lincoln
+  Pos: OF
+  G: '12'
+  PO: '12'
+  A: '1'
+  E: '1'
+  PCT: '.929'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Tighe
+  nameClub1: Norfolk
+  Pos: OF
+  G: '95'
+  PO: '97'
+  A: '5'
+  E: '9'
+  PCT: '.919'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Cookson
+  nameClub1: Grand Island
+  Pos: OF
+  G: '64'
+  PO: '119'
+  A: '7'
+  E: '11'
+  PCT: '.919'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Gibbons
+  nameClub1: Lincoln
+  Pos: OF
+  G: '56'
+  PO: '100'
+  A: '7'
+  E: '10'
+  PCT: '.910'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: DeJarnett
+  nameClub1: Lincoln
+  Pos: OF
+  G: '115'
+  PO: '194'
+  A: '14'
+  E: '21'
+  PCT: '.909'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Gregory
+  nameClub1: Lincoln
+  Pos: OF
+  G: '115'
+  PO: '155'
+  A: '12'
+  E: '17'
+  PCT: '.908'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Kujath
+  nameClub1: Grand Island
+  Pos: OF
+  G: '35'
+  PO: '44'
+  A: '1'
+  E: '5'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Koenig
+  nameClub1: Grand Island
+  Pos: OF
+  G: '19'
+  PO: '27'
+  A: '2'
+  E: '4'
+  PCT: '.879'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Haire
+  nameClub1: Lincoln
+  nameClub2: Norfolk
+  Pos: OF
+  G: '40'
+  PO: '46'
+  A: '4'
+  E: '7'
+  PCT: '.879'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Kodell
+  nameClub1: Lincoln
+  Pos: OF
+  G: '12'
+  PO: '18'
+  A: '2'
+  E: '3'
+  PCT: '.869'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Valentine
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '19'
+  PO: '21'
+  A: '3'
+  E: '4'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Pugh
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '24'
+  PO: '38'
+  A: '0'
+  E: '7'
+  PCT: '.844'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Conners
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '78'
+  PO: '87'
+  A: '1'
+  E: '21'
+  PCT: '.807'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameLast: Spence
+  nameClub1: Lincoln
+  Pos: OF
+  G: '12'
+  PO: '14'
+  A: '2'
+  E: '4'
+  PCT: '.800'

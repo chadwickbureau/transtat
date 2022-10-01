@@ -1,0 +1,100 @@
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Hyacinthe
+  phase: regular
+  W: '79'
+  L: '49'
+  T: '0'
+  PCT: '.617'
+  RANK: '1'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: regular
+  W: '78'
+  L: '51'
+  T: '1'
+  PCT: '.605'
+  RANK: '2'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  phase: regular
+  W: '63'
+  L: '66'
+  T: '0'
+  PCT: '.488'
+  RANK: '3'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  phase: regular
+  W: '59'
+  L: '68'
+  T: '1'
+  PCT: '.465'
+  RANK: '4'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  phase: regular
+  W: '57'
+  L: '68'
+  T: '0'
+  PCT: '.456'
+  RANK: '5'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Granby
+  phase: regular
+  W: '45'
+  L: '79'
+  T: '0'
+  PCT: '.363'
+  RANK: '6'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Hyacinthe
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Hyacinthe
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

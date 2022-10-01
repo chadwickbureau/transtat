@@ -1,0 +1,106 @@
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  phase: regular
+  W: '68'
+  L: '52'
+  T: '2'
+  PCT: '.567'
+  GB: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  phase: regular
+  W: '66'
+  L: '54'
+  T: '2'
+  PCT: '.550'
+  GB: '2'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  phase: regular
+  W: '63'
+  L: '57'
+  T: '2'
+  PCT: '.525'
+  GB: '5'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  phase: regular
+  W: '60'
+  L: '60'
+  T: '2'
+  PCT: '.500'
+  GB: '8'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  phase: regular
+  W: '56'
+  L: '64'
+  T: '1'
+  PCT: '.467'
+  GB: '12'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Veracruz
+  phase: regular
+  W: '47'
+  L: '73'
+  T: '1'
+  PCT: '.392'
+  GB: '21'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

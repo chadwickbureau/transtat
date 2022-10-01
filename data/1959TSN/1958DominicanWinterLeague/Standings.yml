@@ -1,0 +1,32 @@
+- year: '1958'
+  nameLeague: Dominican Winter League
+  nameClub: Escogido
+  phase: regular
+  W: '38'
+  L: '21'
+  PCT: '.644'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Dominican Winter League
+  nameClub: Licey
+  phase: regular
+  W: '30'
+  L: '29'
+  PCT: '.508'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Dominican Winter League
+  nameClub: Aguilas Cibaenas
+  phase: regular
+  W: '26'
+  L: '34'
+  PCT: '.433'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Dominican Winter League
+  nameClub: Estrellas Orientales
+  phase: regular
+  W: '25'
+  L: '35'
+  PCT: '.417'
+  RANK: '4'

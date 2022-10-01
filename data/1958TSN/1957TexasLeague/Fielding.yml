@@ -1,0 +1,2966 @@
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '17'
+  PO: '121'
+  A: '8'
+  E: '0'
+  DP: '10'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Marolewski
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '56'
+  PO: '471'
+  A: '35'
+  E: '1'
+  DP: '41'
+  PCT: '.998'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Roberts
+  nameClub1: San Antonio
+  nameClub2: Austin
+  throws: L
+  Pos: 1B
+  G: '78'
+  PO: '425'
+  A: '41'
+  E: '2'
+  DP: '60'
+  PCT: '.996'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: York
+  nameClub1: Austin
+  throws: L
+  Pos: 1B
+  G: '27'
+  PO: '228'
+  A: '16'
+  E: '1'
+  DP: '23'
+  PCT: '.996'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: DiPippo
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: 1B
+  G: '95'
+  PO: '753'
+  A: '52'
+  E: '4'
+  DP: '49'
+  PCT: '.995'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Solt
+  nameClub1: Austin
+  Pos: 1B
+  G: '42'
+  PO: '356'
+  A: '16'
+  E: '2'
+  DP: '47'
+  PCT: '.995'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mierkowicz
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '50'
+  PO: '415'
+  A: '37'
+  E: '3'
+  DP: '31'
+  PCT: '.993'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameClub1: Dallas
+  Pos: 1B
+  G: '57'
+  PO: '493'
+  A: '50'
+  E: '4'
+  DP: '47'
+  PCT: '.993'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Fort Worth
+  Pos: 1B
+  G: '17'
+  PO: '129'
+  A: '9'
+  E: '1'
+  DP: '10'
+  PCT: '.993'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hawes
+  nameClub1: Austin
+  throws: L
+  Pos: 1B
+  G: '43'
+  PO: '385'
+  A: '30'
+  E: '3'
+  DP: '38'
+  PCT: '.993'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Sisti
+  nameClub1: Austin
+  Pos: 1B
+  G: '15'
+  PO: '102'
+  A: '8'
+  E: '1'
+  DP: '14'
+  PCT: '.991'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McCovey
+  nameClub1: Dallas
+  throws: L
+  Pos: 1B
+  G: '110'
+  PO: '960'
+  A: '80'
+  E: '10'
+  DP: '107'
+  PCT: '.991'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Stankey
+  nameClub1: Fort Worth
+  throws: L
+  Pos: 1B
+  G: '129'
+  PO: '1155'
+  A: '93'
+  E: '12'
+  DP: '110'
+  PCT: '.990'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Browne
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '103'
+  PO: '934'
+  A: '37'
+  E: '10'
+  DP: '76'
+  PCT: '.990'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Jenney
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '146'
+  PO: '1267'
+  A: '77'
+  E: '16'
+  DP: '102'
+  PCT: '.989'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Little
+  nameClub1: Oklahoma City
+  nameClub2: Houston
+  Pos: 1B
+  G: '118'
+  PO: '986'
+  A: '80'
+  E: '13'
+  DP: '102'
+  PCT: '.988'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Pascal
+  nameClub1: Fort Worth
+  throws: L
+  Pos: 1B
+  G: '10'
+  PO: '75'
+  A: '9'
+  E: '1'
+  DP: '6'
+  PCT: '.988'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Coogan
+  nameClub1: Shreveport
+  throws: L
+  Pos: 1B
+  G: '151'
+  PO: '1290'
+  A: '95'
+  E: '26'
+  DP: '140'
+  PCT: '.982'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Queen
+  nameClub1: Austin
+  nameClub2: Houston
+  Pos: 1B
+  G: '12'
+  PO: '94'
+  A: '12'
+  E: '2'
+  DP: '16'
+  PCT: '.981'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Ayers
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '15'
+  PO: '41'
+  A: '27'
+  E: '0'
+  DP: '6'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bernard
+  nameClub1: Austin
+  Pos: 2B
+  G: '14'
+  PO: '37'
+  A: '27'
+  E: '0'
+  DP: '6'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McAlister
+  nameClub1: Houston
+  Pos: 2B
+  G: '21'
+  PO: '48'
+  A: '59'
+  E: '1'
+  DP: '17'
+  PCT: '.991'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Cosmidis
+  nameClub1: Dallas
+  Pos: 2B
+  G: '148'
+  PO: '398'
+  A: '506'
+  E: '9'
+  DP: '114'
+  PCT: '.990'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Derucki
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '39'
+  PO: '105'
+  A: '99'
+  E: '7'
+  DP: '27'
+  PCT: '.990'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Devlin
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '151'
+  PO: '435'
+  A: '424'
+  E: '10'
+  DP: '105'
+  PCT: '.988'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Shannon
+  nameClub1: Houston
+  Pos: 2B
+  G: '143'
+  PO: '307'
+  A: '380'
+  E: '13'
+  DP: '78'
+  PCT: '.981'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Coughtry
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '29'
+  PO: '71'
+  A: '74'
+  E: '3'
+  DP: '34'
+  PCT: '.980'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Caffery
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '78'
+  PO: '161'
+  A: '165'
+  E: '7'
+  DP: '34'
+  PCT: '.979'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bloomfield
+  nameClub1: Austin
+  Pos: 2B
+  G: '118'
+  PO: '277'
+  A: '346'
+  E: '14'
+  DP: '95'
+  PCT: '.978'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Lavene
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '39'
+  PO: '84'
+  A: '85'
+  E: '4'
+  DP: '20'
+  PCT: '.977'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McHugh
+  nameClub1: Austin
+  Pos: 2B
+  G: '16'
+  PO: '36'
+  A: '43'
+  E: '2'
+  DP: '8'
+  PCT: '.975'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Green
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '54'
+  PO: '130'
+  A: '139'
+  E: '8'
+  DP: '38'
+  PCT: '.971'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Prentice
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '123'
+  PO: '293'
+  A: '312'
+  E: '18'
+  DP: '74'
+  PCT: '.971'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Richardson
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '116'
+  PO: '262'
+  A: '299'
+  E: '23'
+  DP: '95'
+  PCT: '.961'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Robbins
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '26'
+  PO: '48'
+  A: '54'
+  E: '4'
+  DP: '10'
+  PCT: '.957'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Moreno
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '65'
+  PO: '153'
+  A: '137'
+  E: '16'
+  DP: '44'
+  PCT: '.948'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '24'
+  PO: '48'
+  A: '42'
+  E: '5'
+  DP: '5'
+  PCT: '.947'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '19'
+  PO: '42'
+  A: '25'
+  E: '4'
+  DP: '8'
+  PCT: '.944'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Amalfitano
+  nameClub1: Dallas
+  Pos: 2B
+  G: '11'
+  PO: '19'
+  A: '9'
+  E: '3'
+  DP: '3'
+  PCT: '.903'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Sisti
+  nameClub1: Austin
+  Pos: 2B
+  G: '12'
+  PO: '14'
+  A: '32'
+  E: '7'
+  DP: '7'
+  PCT: '.868'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McAlister
+  nameClub1: Houston
+  Pos: 3B
+  G: '16'
+  PO: '10'
+  A: '28'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Marolewski
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '17'
+  PO: '15'
+  A: '28'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Ayers
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '112'
+  PO: '81'
+  A: '225'
+  E: '11'
+  DP: '22'
+  PCT: '.965'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Robinson
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '28'
+  PO: '30'
+  A: '49'
+  E: '3'
+  DP: '4'
+  PCT: '.963'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Valenzuela
+  nameClub1: Houston
+  Pos: 3B
+  G: '146'
+  PO: '129'
+  A: '306'
+  E: '18'
+  DP: '25'
+  PCT: '.960'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Rambone
+  nameClub1: Austin
+  Pos: 3B
+  G: '130'
+  PO: '120'
+  A: '239'
+  E: '16'
+  DP: '38'
+  PCT: '.957'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Robbins
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '52'
+  PO: '55'
+  A: '97'
+  E: '7'
+  DP: '8'
+  PCT: '.956'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '11'
+  PO: '5'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.953'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Taylor
+  nameClub1: Dallas
+  Pos: 3B
+  G: '88'
+  PO: '90'
+  A: '189'
+  E: '17'
+  DP: '20'
+  PCT: '.943'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Lavene
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '78'
+  PO: '85'
+  A: '165'
+  E: '15'
+  DP: '18'
+  PCT: '.943'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Derucki
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '18'
+  PO: '25'
+  A: '48'
+  E: '5'
+  DP: '5'
+  PCT: '.936'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Moreno
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '78'
+  PO: '74'
+  A: '185'
+  E: '18'
+  DP: '16'
+  PCT: '.935'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Russell
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '153'
+  PO: '125'
+  A: '305'
+  E: '34'
+  DP: '32'
+  PCT: '.927'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Amalfitano
+  nameClub1: Dallas
+  Pos: 3B
+  G: '67'
+  PO: '60'
+  A: '142'
+  E: '16'
+  DP: '19'
+  PCT: '.927'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hubacek
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '16'
+  PO: '20'
+  A: '33'
+  E: '5'
+  DP: '5'
+  PCT: '.914'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Ackeret
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '113'
+  PO: '117'
+  A: '344'
+  E: '47'
+  DP: '35'
+  PCT: '.907'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '58'
+  PO: '48'
+  A: '110'
+  E: '17'
+  DP: '20'
+  PCT: '.903'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bernard
+  nameClub1: Austin
+  Pos: 3B
+  G: '13'
+  PO: '7'
+  A: '16'
+  E: '3'
+  DP: '5'
+  PCT: '.885'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Glaviano
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '12'
+  PO: '11'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PCT: '.864'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '10'
+  PO: '8'
+  A: '21'
+  E: '5'
+  DP: '3'
+  PCT: '.853'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '11'
+  PO: '14'
+  A: '29'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Amalfitano
+  nameClub1: Dallas
+  Pos: SS
+  G: '12'
+  PO: '14'
+  A: '32'
+  E: '1'
+  DP: '3'
+  PCT: '.979'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Causey
+  nameClub1: San Antonio
+  Pos: SS
+  G: '68'
+  PO: '110'
+  A: '205'
+  E: '7'
+  DP: '30'
+  PCT: '.978'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McAlister
+  nameClub1: Houston
+  Pos: SS
+  G: '18'
+  PO: '39'
+  A: '46'
+  E: '2'
+  DP: '6'
+  PCT: '.977'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Tate
+  nameClub1: Dallas
+  Pos: SS
+  G: '110'
+  PO: '186'
+  A: '341'
+  E: '15'
+  DP: '72'
+  PCT: '.972'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Willis
+  nameClub1: Austin
+  Pos: SS
+  G: '148'
+  PO: '249'
+  A: '495'
+  E: '34'
+  DP: '113'
+  PCT: '.969'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Pfeiffer
+  nameClub1: Shreveport
+  Pos: SS
+  G: '81'
+  PO: '117'
+  A: '171'
+  E: '31'
+  DP: '50'
+  PCT: '.957'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Marsh
+  nameClub1: San Antonio
+  Pos: SS
+  G: '63'
+  PO: '116'
+  A: '162'
+  E: '14'
+  DP: '39'
+  PCT: '.952'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Winkles
+  nameClub1: Tulsa
+  Pos: SS
+  G: '154'
+  PO: '303'
+  A: '513'
+  E: '42'
+  DP: '85'
+  PCT: '.951'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Holtzapple
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '143'
+  PO: '269'
+  A: '496'
+  E: '39'
+  DP: '85'
+  PCT: '.951'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Amaro
+  nameClub1: Houston
+  Pos: SS
+  G: '141'
+  PO: '243'
+  A: '430'
+  E: '75'
+  DP: '84'
+  PCT: '.950'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Collins
+  nameClub1: Dallas
+  Pos: SS
+  G: '36'
+  PO: '77'
+  A: '112'
+  E: '11'
+  DP: '22'
+  PCT: '.945'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McGaha
+  nameClub1: Shreveport
+  Pos: SS
+  G: '30'
+  PO: '55'
+  A: '87'
+  E: '9'
+  DP: '18'
+  PCT: '.940'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Jensen
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '61'
+  PO: '124'
+  A: '171'
+  E: '19'
+  DP: '37'
+  PCT: '.939'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Caffery
+  nameClub1: San Antonio
+  Pos: SS
+  G: '23'
+  PO: '42'
+  A: '60'
+  E: '7'
+  DP: '12'
+  PCT: '.936'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Derucki
+  nameClub1: Shreveport
+  Pos: SS
+  G: '32'
+  PO: '43'
+  A: '87'
+  E: '9'
+  DP: '18'
+  PCT: '.935'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hanta
+  nameClub1: Austin
+  Pos: SS
+  G: '12'
+  PO: '18'
+  A: '18'
+  E: '3'
+  DP: '3'
+  PCT: '.923'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Green
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '87'
+  PO: '172'
+  A: '270'
+  E: '40'
+  DP: '57'
+  PCT: '.917'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mueller
+  nameClub1: Shreveport
+  Pos: SS
+  G: '10'
+  PO: '17'
+  A: '29'
+  E: '5'
+  DP: '7'
+  PCT: '.902'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '24'
+  PO: '33'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Walker
+  nameClub1: Houston
+  Pos: LF
+  G: '19'
+  PO: '23'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Irons
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '15'
+  PO: '21'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bennett
+  nameClub1: Houston
+  Pos: LF
+  G: '14'
+  PO: '22'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Queen
+  nameClub1: Austin
+  nameClub2: Houston
+  Pos: LF
+  G: '12'
+  PO: '16'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Garcia
+  nameClub1: Houston
+  Pos: LF
+  G: '11'
+  PO: '15'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Robbins
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '47'
+  PO: '86'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.989'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Getter
+  nameClub1: Dallas
+  Pos: LF
+  G: '33'
+  PO: '51'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.982'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Crawford
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '41'
+  PO: '53'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Moore
+  nameClub1: Dallas
+  Pos: LF
+  G: '123'
+  PO: '275'
+  A: '10'
+  E: '6'
+  DP: '1'
+  PCT: '.979'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Torres
+  nameClub1: San Antonio
+  throws: L
+  Pos: LF
+  G: '25'
+  PO: '42'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Cuitti
+  nameClub1: Tulsa
+  Pos: LF
+  G: '37'
+  PO: '82'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.977'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mierkowicz
+  nameClub1: San Antonio
+  Pos: LF
+  G: '41'
+  PO: '80'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.977'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Christian
+  nameClub1: Austin
+  Pos: LF
+  G: '101'
+  PO: '180'
+  A: '15'
+  E: '5'
+  DP: '2'
+  PCT: '.975'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: DiPippo
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: LF
+  G: '49'
+  PO: '74'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.974'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Baro
+  nameClub1: Houston
+  Pos: LF
+  G: '97'
+  PO: '178'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.973'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Roberts
+  nameClub1: San Antonio
+  throws: L
+  Pos: LF
+  G: '15'
+  PO: '30'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Elliott
+  nameClub1: San Antonio
+  Pos: LF
+  G: '40'
+  PO: '63'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.970'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Burke
+  nameClub1: San Antonio
+  Pos: LF
+  G: '19'
+  PO: '31'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Lundquist
+  nameClub1: Tulsa
+  Pos: LF
+  G: '29'
+  PO: '71'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.962'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Moreno
+  nameClub1: San Antonio
+  Pos: LF
+  G: '18'
+  PO: '17'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hawes
+  nameClub1: Austin
+  throws: L
+  Pos: LF
+  G: '15'
+  PO: '21'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Nerad
+  nameClub1: Fort Worth
+  throws: L
+  Pos: LF
+  G: '42'
+  PO: '78'
+  A: '3'
+  E: '4'
+  DP: '2'
+  PCT: '.953'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Marchio
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '67'
+  PO: '110'
+  A: '12'
+  E: '6'
+  DP: '0'
+  PCT: '.953'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Daehn
+  nameClub1: Shreveport
+  Pos: LF
+  G: '60'
+  PO: '95'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.952'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Antonello
+  nameClub1: Shreveport
+  Pos: LF
+  G: '67'
+  PO: '140'
+  A: '7'
+  E: '8'
+  DP: '2'
+  PCT: '.948'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McGaha
+  nameClub1: Shreveport
+  Pos: LF
+  G: '19'
+  PO: '33'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.947'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Frey
+  nameClub1: Tulsa
+  throws: L
+  Pos: LF
+  G: '93'
+  PO: '188'
+  A: '10'
+  E: '11'
+  DP: '3'
+  PCT: '.947'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Keister
+  nameClub1: Houston
+  throws: L
+  Pos: LF
+  G: '14'
+  PO: '14'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Thollander
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '17'
+  PO: '32'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Dye
+  nameClub1: Shreveport
+  Pos: LF
+  G: '11'
+  PO: '19'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Nelson
+  nameClub1: San Antonio
+  throws: L
+  Pos: LF
+  G: '28'
+  PO: '32'
+  A: '2'
+  E: '6'
+  DP: '1'
+  PCT: '.850'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Adams
+  nameClub1: Houston
+  Pos: CF
+  G: '135'
+  PO: '340'
+  A: '13'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Ernaga
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '14'
+  PO: '24'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Frey
+  nameClub1: Tulsa
+  throws: L
+  Pos: CF
+  G: '13'
+  PO: '37'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Gragg
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '11'
+  PO: '24'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Will
+  nameClub1: Fort Worth
+  throws: L
+  Pos: CF
+  G: '46'
+  PO: '117'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.992'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Oertel
+  nameClub1: San Antonio
+  Pos: CF
+  G: '93'
+  PO: '254'
+  A: '8'
+  E: '2'
+  DP: '2'
+  PCT: '.992'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Taussig
+  nameClub1: Dallas
+  Pos: CF
+  G: '152'
+  PO: '445'
+  A: '14'
+  E: '4'
+  DP: '3'
+  PCT: '.991'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Durham
+  nameClub1: San Antonio
+  Pos: CF
+  G: '50'
+  PO: '117'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.983'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Christian
+  nameClub1: Austin
+  Pos: CF
+  G: '47'
+  PO: '100'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.981'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mallett
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '71'
+  PO: '188'
+  A: '5'
+  E: '4'
+  DP: '0'
+  PCT: '.980'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Keane
+  nameClub1: Tulsa
+  Pos: CF
+  G: '31'
+  PO: '90'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.979'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Grote
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '61'
+  PO: '147'
+  A: '3'
+  E: '4'
+  DP: '2'
+  PCT: '.975'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bullard
+  nameClub1: Austin
+  Pos: CF
+  G: '117'
+  PO: '287'
+  A: '12'
+  E: '8'
+  DP: '2'
+  PCT: '.974'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Lundquist
+  nameClub1: Tulsa
+  Pos: CF
+  G: '80'
+  PO: '213'
+  A: '11'
+  E: '7'
+  DP: '3'
+  PCT: '.970'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Daehn
+  nameClub1: Shreveport
+  Pos: CF
+  G: '16'
+  PO: '29'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Haas
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '77'
+  PO: '215'
+  A: '4'
+  E: '8'
+  DP: '0'
+  PCT: '.965'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Pyburn
+  nameClub1: San Antonio
+  Pos: CF
+  G: '11'
+  PO: '17'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Parsons
+  nameClub1: Shreveport
+  Pos: CF
+  G: '129'
+  PO: '320'
+  A: '14'
+  E: '15'
+  DP: '2'
+  PCT: '.957'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Means
+  nameClub1: Tulsa
+  throws: L
+  Pos: CF
+  G: '43'
+  PO: '103'
+  A: '9'
+  E: '5'
+  DP: '0'
+  PCT: '.957'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McCarthy
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: CF
+  G: '24'
+  PO: '47'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.943'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Walker
+  nameClub1: Houston
+  Pos: CF
+  G: '13'
+  PO: '24'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.893'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Daehn
+  nameClub1: Shreveport
+  Pos: RF
+  G: '44'
+  PO: '78'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Fisher
+  nameClub1: Tulsa
+  Pos: RF
+  G: '31'
+  PO: '33'
+  A: '3'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Irons
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '29'
+  PO: '28'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Crawford
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '17'
+  PO: '31'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Davis
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '16'
+  PO: '11'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Wilner
+  nameClub1: Houston
+  Pos: RF
+  G: '12'
+  PO: '12'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hutzler
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '11'
+  PO: '25'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Garcia
+  nameClub1: Houston
+  Pos: RF
+  G: '11'
+  PO: '19'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Keister
+  nameClub1: Houston
+  throws: L
+  Pos: RF
+  G: '81'
+  PO: '153'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.994'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Grote
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '58'
+  PO: '92'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.990'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Frey
+  nameClub1: Tulsa
+  throws: L
+  Pos: RF
+  G: '56'
+  PO: '85'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.989'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Dye
+  nameClub1: Shreveport
+  Pos: RF
+  G: '52'
+  PO: '61'
+  A: '3'
+  E: '1'
+  DP: '2'
+  PCT: '.985'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Sinovic
+  nameClub1: Austin
+  Pos: RF
+  G: '135'
+  PO: '255'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.985'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Getter
+  nameClub1: Dallas
+  Pos: RF
+  G: '74'
+  PO: '110'
+  A: '9'
+  E: '2'
+  DP: '2'
+  PCT: '.983'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Ernaga
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '74'
+  PO: '112'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.983'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Lutz
+  nameClub1: Shreveport
+  nameClub2: Tulsa
+  nameClub3: San Antonio
+  Pos: RF
+  G: '142'
+  PO: '241'
+  A: '13'
+  E: '5'
+  DP: '4'
+  PCT: '.981'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Oertel
+  nameClub1: San Antonio
+  Pos: RF
+  G: '54'
+  PO: '92'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.980'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Queen
+  nameClub1: Austin
+  nameClub2: Houston
+  Pos: RF
+  G: '30'
+  PO: '37'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.977'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '41'
+  PO: '68'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.973'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Tulsa
+  Pos: RF
+  G: '38'
+  PO: '60'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.968'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Haas
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '51'
+  PO: '92'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PCT: '.961'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Browne
+  nameClub1: Houston
+  throws: L
+  Pos: RF
+  G: '22'
+  PO: '20'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: DuTusa
+  nameClub1: Tulsa
+  Pos: RF
+  G: '23'
+  PO: '39'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.952'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Jenkins
+  nameClub1: Dallas
+  Pos: RF
+  G: '17'
+  PO: '18'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McGaha
+  nameClub1: Shreveport
+  Pos: RF
+  G: '15'
+  PO: '24'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.943'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Melton
+  nameClub1: Dallas
+  Pos: RF
+  G: '33'
+  PO: '37'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Sullivan
+  nameClub1: Dallas
+  Pos: RF
+  G: '36'
+  PO: '49'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.925'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Robbins
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '24'
+  PO: '22'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Torres
+  nameClub1: San Antonio
+  throws: L
+  Pos: RF
+  G: '17'
+  PO: '17'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.875'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Lundquist
+  nameClub1: Tulsa
+  Pos: RF
+  G: '15'
+  PO: '12'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.863'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Jones
+  nameClub1: Shreveport
+  Pos: C
+  G: '104'
+  PO: '443'
+  A: '53'
+  E: '4'
+  DP: '10'
+  PB: '3'
+  PCT: '.992'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Dabek
+  nameClub1: Houston
+  Pos: C
+  G: '50'
+  PO: '232'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PB: '0'
+  PCT: '.992'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Testa
+  nameClub1: Dallas
+  Pos: C
+  G: '121'
+  PO: '489'
+  A: '50'
+  E: '5'
+  DP: '13'
+  PB: '8'
+  PCT: '.991'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Burbrink
+  nameClub1: Houston
+  Pos: C
+  G: '114'
+  PO: '624'
+  A: '58'
+  E: '7'
+  DP: '6'
+  PB: '6'
+  PCT: '.990'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Irons
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '50'
+  PO: '244'
+  A: '33'
+  E: '3'
+  DP: '7'
+  PB: '3'
+  PCT: '.989'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bowland
+  nameClub1: Shreveport
+  Pos: C
+  G: '51'
+  PO: '218'
+  A: '37'
+  E: '3'
+  DP: '12'
+  PB: '1'
+  PCT: '.988'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hannah
+  nameClub1: Fort Worth
+  Pos: C
+  G: '50'
+  PO: '244'
+  A: '30'
+  E: '4'
+  DP: '3'
+  PB: '2'
+  PCT: '.986'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Batts
+  nameClub1: San Antonio
+  Pos: C
+  G: '36'
+  PO: '175'
+  A: '21'
+  E: '3'
+  DP: '4'
+  PB: '2'
+  PCT: '.985'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Murray
+  nameClub1: Dallas
+  Pos: C
+  G: '30'
+  PO: '105'
+  A: '17'
+  E: '2'
+  DP: '4'
+  PB: '1'
+  PCT: '.984'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bottler
+  nameClub1: Fort Worth
+  Pos: C
+  G: '60'
+  PO: '256'
+  A: '19'
+  E: '5'
+  DP: '7'
+  PB: '2'
+  PCT: '.982'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Solt
+  nameClub1: Austin
+  Pos: C
+  G: '53'
+  PO: '189'
+  A: '24'
+  E: '4'
+  DP: '1'
+  PB: '2'
+  PCT: '.982'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Zimmerman
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '111'
+  PO: '604'
+  A: '54'
+  E: '13'
+  DP: '9'
+  PB: '8'
+  PCT: '.982'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McNamara
+  nameClub1: Tulsa
+  Pos: C
+  G: '17'
+  PO: '92'
+  A: '9'
+  E: '2'
+  DP: '2'
+  PB: '0'
+  PCT: '.981'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Coker
+  nameClub1: Tulsa
+  Pos: C
+  G: '145'
+  PO: '621'
+  A: '59'
+  E: '14'
+  DP: '12'
+  PB: '6'
+  PCT: '.980'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Gaspar
+  nameClub1: San Antonio
+  Pos: C
+  G: '72'
+  PO: '392'
+  A: '31'
+  E: '10'
+  DP: '3'
+  PB: '3'
+  PCT: '.977'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Patton
+  nameClub1: San Antonio
+  Pos: C
+  G: '62'
+  PO: '324'
+  A: '29'
+  E: '9'
+  DP: '3'
+  PB: '5'
+  PCT: '.975'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Worley
+  nameClub1: Fort Worth
+  Pos: C
+  G: '28'
+  PO: '94'
+  A: '16'
+  E: '3'
+  DP: '4'
+  PB: '0'
+  PCT: '.973'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Leppert
+  nameClub1: Austin
+  Pos: C
+  G: '107'
+  PO: '521'
+  A: '45'
+  E: '17'
+  DP: '5'
+  PB: '7'
+  PCT: '.971'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Napoli
+  nameClub1: Fort Worth
+  Pos: C
+  G: '19'
+  PO: '69'
+  A: '10'
+  E: '3'
+  DP: '1'
+  PB: '1'
+  PCT: '.963'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Jenkins
+  nameClub1: Dallas
+  Pos: C
+  G: '12'
+  PO: '61'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PB: '1'
+  PCT: '.955'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Dye
+  nameClub1: Shreveport
+  Pos: C
+  G: '21'
+  PO: '77'
+  A: '12'
+  E: '5'
+  DP: '1'
+  PB: '4'
+  PCT: '.947'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Austin
+  Pos: P
+  G: '55'
+  PO: '4'
+  A: '22'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Aldridge
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '49'
+  PO: '12'
+  A: '33'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Nishita
+  nameClub1: Fort Worth
+  Pos: P
+  G: '43'
+  PO: '8'
+  A: '32'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Garmon
+  nameClub1: Shreveport
+  Pos: P
+  G: '39'
+  PO: '6'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mrozinski
+  nameClub1: Tulsa
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '5'
+  A: '43'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Widmar
+  nameClub1: Tulsa
+  Pos: P
+  G: '35'
+  PO: '14'
+  A: '29'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Wieand
+  nameClub1: Houston
+  Pos: P
+  G: '34'
+  PO: '14'
+  A: '31'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Harrison
+  nameClub1: San Antonio
+  Pos: P
+  G: '31'
+  PO: '4'
+  A: '20'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Camp
+  nameClub1: Tulsa
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '60'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Benedict
+  nameClub1: Shreveport
+  Pos: P
+  G: '30'
+  PO: '3'
+  A: '16'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hughes
+  nameClub1: Houston
+  Pos: P
+  G: '30'
+  PO: '11'
+  A: '34'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Connelly
+  nameClub1: Austin
+  Pos: P
+  G: '28'
+  PO: '1'
+  A: '15'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Luna
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '20'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Willis
+  nameClub1: Shreveport
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Thollander
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '24'
+  PO: '0'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Johnson
+  nameClub1: Austin
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Nichols
+  nameClub1: Austin
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '10'
+  A: '18'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Scheib
+  nameClub1: San Antonio
+  Pos: P
+  G: '21'
+  PO: '10'
+  A: '23'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Roberts
+  nameClub1: Dallas
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hunsinger
+  nameClub1: Tulsa
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Tosheff
+  nameClub1: Austin
+  nameClub2: Tulsa
+  Pos: P
+  G: '20'
+  PO: '1'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Fisher
+  nameClub1: Tulsa
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Voiselle
+  nameClub1: Tulsa
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Fodge
+  nameClub1: Fort Worth
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Hagen
+  nameClub1: Tulsa
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McClain
+  nameClub1: Houston
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '8'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Clark
+  nameFirst: M.
+  nameClub1: Austin
+  Pos: P
+  G: '39'
+  PO: '20'
+  A: '47'
+  E: '1'
+  DP: '8'
+  PCT: '.985'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Lemish
+  nameClub1: Austin
+  Pos: P
+  G: '40'
+  PO: '14'
+  A: '49'
+  E: '1'
+  DP: '4'
+  PCT: '.984'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Beringer
+  nameClub1: Fort Worth
+  Pos: P
+  G: '36'
+  PO: '12'
+  A: '43'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Fox
+  nameClub1: Austin
+  Pos: P
+  G: '35'
+  PO: '3'
+  A: '50'
+  E: '1'
+  DP: '3'
+  PCT: '.981'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Fowler
+  nameClub1: Dallas
+  Pos: P
+  G: '29'
+  PO: '16'
+  A: '33'
+  E: '1'
+  DP: '3'
+  PCT: '.980'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Moeller
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '14'
+  A: '36'
+  E: '1'
+  DP: '2'
+  PCT: '.980'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Maibauer
+  nameClub1: Dallas
+  Pos: P
+  G: '36'
+  PO: '10'
+  A: '32'
+  E: '1'
+  DP: '3'
+  PCT: '.977'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mossor
+  nameClub1: Tulsa
+  Pos: P
+  G: '29'
+  PO: '11'
+  A: '23'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Thomas
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '59'
+  PO: '9'
+  A: '24'
+  E: '1'
+  DP: '3'
+  PCT: '.971'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Clark
+  nameFirst: P.
+  nameClub1: Houston
+  Pos: P
+  G: '63'
+  PO: '7'
+  A: '25'
+  E: '1'
+  DP: '2'
+  PCT: '.970'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Kotrany
+  nameClub1: Dallas
+  Pos: P
+  G: '38'
+  PO: '6'
+  A: '25'
+  E: '1'
+  DP: '1'
+  PCT: '.969'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Earley
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '40'
+  PO: '8'
+  A: '22'
+  E: '1'
+  DP: '0'
+  PCT: '.968'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Briggs
+  nameClub1: Fort Worth
+  Pos: P
+  G: '21'
+  PO: '10'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.967'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Robertson
+  nameClub1: Tulsa
+  Pos: P
+  G: '51'
+  PO: '6'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.964'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bowers
+  nameClub1: Dallas
+  Pos: P
+  G: '35'
+  PO: '19'
+  A: '61'
+  E: '3'
+  DP: '4'
+  PCT: '.964'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Fitzgerald
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '5'
+  A: '21'
+  E: '1'
+  DP: '3'
+  PCT: '.963'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mumm
+  nameClub1: Houston
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '8'
+  A: '17'
+  E: '1'
+  DP: '3'
+  PCT: '.962'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Baczewski
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '15'
+  A: '28'
+  E: '2'
+  DP: '3'
+  PCT: '.956'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Tremel
+  nameClub1: Shreveport
+  Pos: P
+  G: '61'
+  PO: '7'
+  A: '14'
+  E: '1'
+  DP: '2'
+  PCT: '.955'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Wall
+  nameClub1: Dallas
+  Pos: P
+  G: '24'
+  PO: '19'
+  A: '35'
+  E: '3'
+  DP: '5'
+  PCT: '.947'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Baumann
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '12'
+  E: '1'
+  DP: '2'
+  PCT: '.944'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Luebke
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '63'
+  PO: '8'
+  A: '25'
+  E: '2'
+  DP: '3'
+  PCT: '.943'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Schroll
+  nameClub1: Oklahoma City
+  nameClub2: Dallas
+  Pos: P
+  G: '34'
+  PO: '12'
+  A: '21'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Muffett
+  nameClub1: Houston
+  Pos: P
+  G: '28'
+  PO: '7'
+  A: '26'
+  E: '2'
+  DP: '4'
+  PCT: '.943'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Grimm
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '45'
+  PO: '9'
+  A: '40'
+  E: '3'
+  DP: '3'
+  PCT: '.942'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Broglio
+  nameClub1: Dallas
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '37'
+  E: '3'
+  DP: '5'
+  PCT: '.941'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Chittum
+  nameClub1: Houston
+  Pos: P
+  G: '37'
+  PO: '11'
+  A: '69'
+  E: '5'
+  DP: '2'
+  PCT: '.941'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Patrick
+  nameFirst: H.
+  nameClub1: Dallas
+  Pos: P
+  G: '46'
+  PO: '7'
+  A: '24'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bowsfield
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '10'
+  A: '21'
+  E: '2'
+  DP: '1'
+  PCT: '.939'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Mayer
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '9'
+  A: '34'
+  E: '3'
+  DP: '2'
+  PCT: '.935'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Sherry
+  nameClub1: Fort Worth
+  Pos: P
+  G: '27'
+  PO: '10'
+  A: '18'
+  E: '2'
+  DP: '2'
+  PCT: '.935'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Nunn
+  nameClub1: Houston
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '51'
+  E: '4'
+  DP: '4'
+  PCT: '.935'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Swanson
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '30'
+  E: '3'
+  DP: '3'
+  PCT: '.929'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Anderson
+  nameClub1: Tulsa
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Conley
+  nameClub1: Tulsa
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '10'
+  E: '1'
+  DP: '2'
+  PCT: '.929'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Newkirk
+  nameClub1: Shreveport
+  Pos: P
+  G: '37'
+  PO: '14'
+  A: '22'
+  E: '3'
+  DP: '4'
+  PCT: '.923'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: DiMaggio
+  nameClub1: Shreveport
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '7'
+  E: '1'
+  DP: '2'
+  PCT: '.917'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Ehrke
+  nameClub1: San Antonio
+  Pos: P
+  G: '48'
+  PO: '6'
+  A: '26'
+  E: '3'
+  DP: '1'
+  PCT: '.914'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Wills
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '41'
+  PO: '6'
+  A: '24'
+  E: '3'
+  DP: '2'
+  PCT: '.909'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Maranda
+  nameClub1: Austin
+  Pos: P
+  G: '33'
+  PO: '13'
+  A: '37'
+  E: '5'
+  DP: '2'
+  PCT: '.909'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Jack
+  nameClub1: Shreveport
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '8'
+  E: '1'
+  DP: '2'
+  PCT: '.909'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Coleman
+  nameClub1: San Antonio
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '27'
+  E: '4'
+  DP: '0'
+  PCT: '.905'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: McBride
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Monahan
+  nameClub1: Shreveport
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '23'
+  E: '3'
+  DP: '2'
+  PCT: '.903'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Ceplo
+  nameClub1: Fort Worth
+  Pos: P
+  G: '44'
+  PO: '7'
+  A: '19'
+  E: '3'
+  DP: '0'
+  PCT: '.897'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Payne
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PCT: '.889'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Schultz
+  nameClub1: San Antonio
+  Pos: P
+  G: '41'
+  PO: '2'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.875'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Grabowski
+  nameClub1: Austin
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '11'
+  E: '2'
+  DP: '2'
+  PCT: '.875'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Paynich
+  nameClub1: Fort Worth
+  Pos: P
+  G: '19'
+  PO: '8'
+  A: '29'
+  E: '6'
+  DP: '1'
+  PCT: '.860'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Kellner
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PCT: '.857'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Matthewson
+  nameClub1: Tulsa
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '13'
+  E: '4'
+  DP: '0'
+  PCT: '.833'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Bolinda
+  nameClub1: Tulsa
+  Pos: P
+  G: '11'
+  PO: '5'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Locke
+  nameClub1: San Antonio
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+- year: '1957'
+  nameLeague: Texas League
+  nameLast: Phillips
+  nameClub1: Fort Worth
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.750'

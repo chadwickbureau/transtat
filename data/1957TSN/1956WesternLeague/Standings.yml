@@ -1,0 +1,222 @@
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular/first
+  W: '45'
+  L: '27'
+  T: '2'
+  PCT: '.625'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Topeka
+  phase: regular/first
+  W: '44'
+  L: '28'
+  T: '0'
+  PCT: '.611'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular/first
+  W: '39'
+  L: '32'
+  T: '0'
+  PCT: '.549'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Amarillo
+  phase: regular/first
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular/first
+  W: '35'
+  L: '36'
+  T: '0'
+  PCT: '.493'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: regular/first
+  W: '34'
+  L: '36'
+  T: '1'
+  PCT: '.486'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Albuquerque
+  phase: regular/first
+  W: '26'
+  L: '44'
+  T: '1'
+  PCT: '.371'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular/first
+  W: '22'
+  L: '48'
+  T: '0'
+  PCT: '.314'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Amarillo
+  phase: regular/second
+  W: '49'
+  L: '20'
+  T: '0'
+  PCT: '.710'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular/second
+  W: '39'
+  L: '27'
+  T: '1'
+  PCT: '.591'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular/second
+  W: '37'
+  L: '31'
+  T: '0'
+  PCT: '.544'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Albuquerque
+  phase: regular/second
+  W: '33'
+  L: '37'
+  T: '1'
+  PCT: '.471'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: regular/second
+  W: '32'
+  L: '36'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular/second
+  W: '29'
+  L: '38'
+  T: '0'
+  PCT: '.433'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Topeka
+  phase: regular/second
+  W: '26'
+  L: '40'
+  T: '0'
+  PCT: '.394'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular/second
+  W: '27'
+  L: '43'
+  T: '0'
+  PCT: '.386'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Amarillo
+  phase: regular
+  W: '87'
+  L: '52'
+  T: '0'
+  PCT: '.626'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular
+  W: '84'
+  L: '54'
+  T: '3'
+  PCT: '.609'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular
+  W: '72'
+  L: '67'
+  T: '0'
+  PCT: '.518'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Topeka
+  phase: regular
+  W: '70'
+  L: '68'
+  T: '0'
+  PCT: '.507'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular
+  W: '68'
+  L: '70'
+  T: '0'
+  PCT: '.493'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: regular
+  W: '66'
+  L: '72'
+  T: '1'
+  PCT: '.478'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Albuquerque
+  phase: regular
+  W: '59'
+  L: '81'
+  T: '2'
+  PCT: '.421'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular
+  W: '49'
+  L: '91'
+  T: '0'
+  PCT: '.350'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Western League
+  nameClub: Amarillo
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

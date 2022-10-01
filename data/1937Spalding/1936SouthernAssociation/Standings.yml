@@ -1,0 +1,120 @@
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: regular
+  W: '94'
+  L: '59'
+  T: '2'
+  PCT: '.614'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: regular
+  W: '86'
+  L: '65'
+  T: '4'
+  PCT: '.579'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: regular
+  W: '82'
+  L: '70'
+  T: '1'
+  PCT: '.539'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: regular
+  W: '81'
+  L: '71'
+  T: '5'
+  PCT: '.533'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Little Rock
+  phase: regular
+  W: '77'
+  L: '76'
+  T: '1'
+  PCT: '.503'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Knoxville
+  phase: regular
+  W: '63'
+  L: '87'
+  T: '3'
+  PCT: '.420'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  phase: regular
+  W: '64'
+  L: '89'
+  T: '5'
+  PCT: '.418'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  phase: regular
+  W: '60'
+  L: '90'
+  T: '1'
+  PCT: '.400'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  phase: final
+  W: '3'
+  L: '0'
+  T: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  phase: final
+  W: '0'
+  L: '3'
+  T: '1'
+  RANK: '2'

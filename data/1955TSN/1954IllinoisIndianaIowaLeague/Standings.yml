@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '81'
+  L: '54'
+  T: '0'
+  PCT: '.600'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  phase: regular
+  W: '78'
+  L: '58'
+  T: '0'
+  PCT: '.574'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: regular
+  W: '73'
+  L: '63'
+  T: '0'
+  PCT: '.537'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular
+  W: '71'
+  L: '64'
+  T: '0'
+  PCT: '.526'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular
+  W: '66'
+  L: '69'
+  T: '0'
+  PCT: '.489'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular
+  W: '63'
+  L: '72'
+  T: '0'
+  PCT: '.467'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: regular
+  W: '60'
+  L: '76'
+  T: '0'
+  PCT: '.441'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular
+  W: '50'
+  L: '86'
+  T: '0'
+  PCT: '.368'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

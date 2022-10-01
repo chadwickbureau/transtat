@@ -1,0 +1,118 @@
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Utica
+  phase: regular
+  W: '83'
+  L: '52'
+  T: '0'
+  PCT: '.615'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: regular
+  W: '78'
+  L: '59'
+  T: '0'
+  PCT: '.569'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '3'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  phase: regular
+  W: '68'
+  L: '67'
+  T: '0'
+  PCT: '.504'
+  RANK: '4'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: regular
+  W: '67'
+  L: '69'
+  T: '1'
+  PCT: '.493'
+  RANK: '5'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  phase: regular
+  W: '64'
+  L: '73'
+  T: '0'
+  PCT: '.467'
+  RANK: '6'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '56'
+  L: '81'
+  T: '1'
+  PCT: '.409'
+  RANK: '7'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  W: '52'
+  L: '85'
+  T: '0'
+  PCT: '.380'
+  RANK: '8'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Utica
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

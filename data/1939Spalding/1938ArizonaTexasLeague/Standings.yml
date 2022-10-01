@@ -1,0 +1,78 @@
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: regular/first
+  W: '39'
+  L: '25'
+  PCT: '.609'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  phase: regular/first
+  W: '33'
+  L: '32'
+  PCT: '.508'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Albuquerque
+  phase: regular/first
+  W: '31'
+  L: '34'
+  PCT: '.477'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: regular/first
+  W: '26'
+  L: '38'
+  PCT: '.406'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  phase: regular/second
+  W: '39'
+  L: '26'
+  PCT: '.600'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Albuquerque
+  phase: regular/second
+  W: '36'
+  L: '31'
+  PCT: '.537'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: regular/second
+  W: '29'
+  L: '37'
+  PCT: '.439'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: regular/second
+  W: '29'
+  L: '39'
+  PCT: '.426'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

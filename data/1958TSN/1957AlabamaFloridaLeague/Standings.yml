@@ -1,0 +1,100 @@
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Montgomery
+  phase: regular
+  W: '68'
+  L: '52'
+  T: '0'
+  PCT: '.567'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  phase: regular
+  W: '66'
+  L: '54'
+  T: '0'
+  PCT: '.550'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  phase: regular
+  W: '59'
+  L: '61'
+  T: '0'
+  PCT: '.492'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  phase: regular
+  W: '56'
+  L: '64'
+  T: '0'
+  PCT: '.467'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Pensacola
+  phase: regular
+  W: '56'
+  L: '64'
+  T: '0'
+  PCT: '.467'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Selma
+  phase: regular
+  W: '55'
+  L: '65'
+  T: '0'
+  PCT: '.458'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Montgomery
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  phase: final
+  W: '3'
+  L: '3'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  phase: final
+  W: '3'
+  L: '3'
+  RANK: '1'

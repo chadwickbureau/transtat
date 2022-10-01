@@ -1,0 +1,100 @@
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: regular
+  W: '80'
+  L: '48'
+  T: '1'
+  PCT: '.625'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Sherbrooke
+  phase: regular
+  W: '76'
+  L: '53'
+  T: '1'
+  PCT: '.589'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  phase: regular
+  W: '73'
+  L: '57'
+  T: '0'
+  PCT: '.562'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  phase: regular
+  W: '60'
+  L: '69'
+  T: '2'
+  PCT: '.465'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  phase: regular
+  W: '53'
+  L: '73'
+  T: '0'
+  PCT: '.421'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Thetford Mines
+  phase: regular
+  W: '43'
+  L: '85'
+  T: '0'
+  PCT: '.336'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Sherbrooke
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

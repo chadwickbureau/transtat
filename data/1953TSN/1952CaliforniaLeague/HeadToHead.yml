@@ -1,0 +1,80 @@
+- year: '1952'
+  nameLeague: California League
+  nameClub: Fresno
+  Santa Barbara: '13'
+  San Jose: '11'
+  Visalia: '12'
+  Bakersfield: '10'
+  Modesto: '16'
+  Stockton: '13'
+  Ventura: '13'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  Fresno: '9'
+  Santa Barbara: '7'
+  Visalia: '11'
+  Bakersfield: '11'
+  Modesto: '10'
+  Stockton: '13'
+  Ventura: '13'
+- year: '1952'
+  nameLeague: California League
+  nameClub: San Jose
+  Fresno: '7'
+  San Jose: '13'
+  Visalia: '10'
+  Bakersfield: '8'
+  Modesto: '15'
+  Stockton: '11'
+  Ventura: '10'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Visalia
+  Fresno: '8'
+  Santa Barbara: '10'
+  San Jose: '9'
+  Bakersfield: '11'
+  Modesto: '8'
+  Stockton: '12'
+  Ventura: '14'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Bakersfield
+  Fresno: '10'
+  Santa Barbara: '12'
+  San Jose: '9'
+  Visalia: '9'
+  Modesto: '12'
+  Stockton: '9'
+  Ventura: '9'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Modesto
+  Fresno: '4'
+  Santa Barbara: '5'
+  San Jose: '10'
+  Visalia: '12'
+  Bakersfield: '8'
+  Stockton: '14'
+  Ventura: '14'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Stockton
+  Fresno: '7'
+  Santa Barbara: '9'
+  San Jose: '7'
+  Visalia: '8'
+  Bakersfield: '11'
+  Modesto: '6'
+  Ventura: '11'
+- year: '1952'
+  nameLeague: California League
+  nameClub: Ventura
+  Fresno: '7'
+  Santa Barbara: '10'
+  San Jose: '7'
+  Visalia: '6'
+  Bakersfield: '11'
+  Modesto: '6'
+  Stockton: '9'

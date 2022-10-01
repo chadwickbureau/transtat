@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: regular
+  W: '83'
+  L: '56'
+  T: '0'
+  PCT: '.597'
+  RANK: '1'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: regular
+  W: '73'
+  L: '66'
+  T: '0'
+  PCT: '.527'
+  RANK: '2'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: regular
+  W: '73'
+  L: '66'
+  T: '0'
+  PCT: '.527'
+  RANK: '3'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lamesa
+  phase: regular
+  W: '72'
+  L: '66'
+  T: '0'
+  PCT: '.522'
+  RANK: '4'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '0'
+  PCT: '.500'
+  RANK: '6'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  phase: regular
+  W: '63'
+  L: '85'
+  T: '0'
+  PCT: '.457'
+  RANK: '7'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: regular
+  W: '52'
+  L: '87'
+  T: '0'
+  PCT: '.374'
+  RANK: '8'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lamesa
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

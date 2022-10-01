@@ -1,0 +1,118 @@
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: regular
+  W: '95'
+  L: '53'
+  T: '1'
+  PCT: '.642'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  phase: regular
+  W: '83'
+  L: '62'
+  T: '2'
+  PCT: '.572'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: regular
+  W: '75'
+  L: '68'
+  T: '0'
+  PCT: '.524'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Mobile
+  phase: regular
+  W: '75'
+  L: '73'
+  T: '1'
+  PCT: '.507'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Meridian
+  phase: regular
+  W: '69'
+  L: '78'
+  T: '1'
+  PCT: '.469'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Gadsden
+  phase: regular
+  W: '69'
+  L: '80'
+  T: '2'
+  PCT: '.463'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Anniston
+  phase: regular
+  W: '62'
+  L: '86'
+  T: '2'
+  PCT: '.419'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  phase: regular
+  W: '60'
+  L: '88'
+  T: '3'
+  PCT: '.405'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Mobile
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Mobile
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

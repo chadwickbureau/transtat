@@ -1,0 +1,126 @@
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  phase: regular/first
+  W: '47'
+  L: '21'
+  T: '0'
+  PCT: '.691'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  phase: regular/first
+  W: '35'
+  L: '28'
+  T: '0'
+  PCT: '.556'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  phase: regular/first
+  W: '37'
+  L: '30'
+  T: '0'
+  PCT: '.552'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: regular/first
+  W: '34'
+  L: '28'
+  T: '0'
+  PCT: '.548'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: regular/first
+  W: '27'
+  L: '39'
+  T: '0'
+  PCT: '.409'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: regular/first
+  W: '25'
+  L: '39'
+  T: '0'
+  PCT: '.391'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Spokane
+  phase: regular/first
+  W: '23'
+  L: '43'
+  T: '0'
+  PCT: '.348'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  phase: regular/second
+  W: '39'
+  L: '24'
+  T: '0'
+  PCT: '.619'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Salem
+  phase: regular/second
+  W: '39'
+  L: '29'
+  T: '0'
+  PCT: '.574'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  phase: regular/second
+  W: '37'
+  L: '31'
+  T: '0'
+  PCT: '.544'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  phase: regular/second
+  W: '33'
+  L: '33'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Spokane
+  phase: regular/second
+  W: '33'
+  L: '34'
+  T: '0'
+  PCT: '.493'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  phase: regular/second
+  W: '29'
+  L: '30'
+  T: '0'
+  PCT: '.426'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  phase: regular/second
+  W: '22'
+  L: '42'
+  T: '0'
+  PCT: '.344'
+  RANK: '7'

@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular
+  W: '96'
+  L: '58'
+  T: '0'
+  PCT: '.623'
+  RANK: '1'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular
+  W: '84'
+  L: '68'
+  T: '1'
+  PCT: '.553'
+  RANK: '2'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Greenville
+  phase: regular
+  W: '82'
+  L: '72'
+  T: '1'
+  PCT: '.532'
+  RANK: '3'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular
+  W: '80'
+  L: '73'
+  T: '1'
+  PCT: '.523'
+  RANK: '4'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular
+  W: '73'
+  L: '81'
+  T: '0'
+  PCT: '.474'
+  RANK: '5'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular
+  W: '69'
+  L: '83'
+  T: '0'
+  PCT: '.454'
+  RANK: '6'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Charleston
+  phase: regular
+  W: '68'
+  L: '83'
+  T: '1'
+  PCT: '.450'
+  RANK: '7'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular
+  W: '59'
+  L: '93'
+  T: '2'
+  PCT: '.388'
+  RANK: '8'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Greenville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: South Atlantic League
+  nameClub: Greenville
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Newton-Conover
+  phase: regular
+  W: '72'
+  L: '36'
+  T: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Lincolnton
+  phase: regular
+  W: '69'
+  L: '41'
+  T: '1'
+  PCT: '.627'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Rutherford County
+  phase: regular
+  W: '64'
+  L: '45'
+  T: '0'
+  PCT: '.587'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Morganton
+  phase: regular
+  W: '58'
+  L: '49'
+  T: '1'
+  PCT: '.542'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Lenoir
+  phase: regular
+  W: '57'
+  L: '50'
+  T: '0'
+  PCT: '.533'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Marion
+  phase: regular
+  W: '40'
+  L: '62'
+  T: '0'
+  PCT: '.392'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Shelby
+  phase: regular
+  W: '40'
+  L: '68'
+  T: '1'
+  PCT: '.370'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Hendersonville
+  phase: regular
+  W: '29'
+  L: '78'
+  T: '1'
+  PCT: '.269'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Rutherford County
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Newton-Conover
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Morganton
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Lincolnton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Rutherford County
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Western Carolina League
+  nameClub: Morganton
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

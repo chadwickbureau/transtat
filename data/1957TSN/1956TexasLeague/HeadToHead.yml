@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Houston
+  Dallas: '11'
+  Fort Worth: '13'
+  Tulsa: '15'
+  San Antonio: '12'
+  Austin: '15'
+  Shreveport: '14'
+  Oklahoma City: '16'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Dallas
+  Houston: '11'
+  Fort Worth: '10'
+  Tulsa: '19'
+  San Antonio: '14'
+  Austin: '11'
+  Shreveport: '11'
+  Oklahoma City: '18'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  Houston: '9'
+  Dallas: '12'
+  Tulsa: '12'
+  San Antonio: '12'
+  Austin: '11'
+  Shreveport: '12'
+  Oklahoma City: '16'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  Houston: '7'
+  Dallas: '3'
+  Fort Worth: '10'
+  San Antonio: '14'
+  Austin: '10'
+  Shreveport: '16'
+  Oklahoma City: '17'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  Houston: '10'
+  Dallas: '8'
+  Fort Worth: '10'
+  Tulsa: '8'
+  Austin: '12'
+  Shreveport: '14'
+  Oklahoma City: '14'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Austin
+  Houston: '7'
+  Dallas: '11'
+  Fort Worth: '11'
+  Tulsa: '12'
+  San Antonio: '10'
+  Shreveport: '11'
+  Oklahoma City: '10'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  Houston: '8'
+  Dallas: '11'
+  Fort Worth: '10'
+  Tulsa: '6'
+  San Antonio: '8'
+  Austin: '11'
+  Oklahoma City: '15'
+- year: '1956'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  Houston: '6'
+  Dallas: '4'
+  Fort Worth: '6'
+  Tulsa: '5'
+  San Antonio: '8'
+  Austin: '12'
+  Shreveport: '7'

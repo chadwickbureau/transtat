@@ -1,0 +1,1715 @@
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bithorn
+  nameFirst: Hiram
+  nameClub1: Norfolk
+  GP: '11'
+  CG: '10'
+  SHO: '3'
+  W: '10'
+  L: '1'
+  PCT: '.909'
+  IP: '93'
+  H: '57'
+  R: '21'
+  BB: '42'
+  SO: '55'
+  HP: '1'
+  WP: '1'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Brecheen
+  nameFirst: Harry
+  nameClub1: Portsmouth
+  GP: '39'
+  CG: '20'
+  SHO: '1'
+  W: '21'
+  L: '6'
+  PCT: '.778'
+  IP: '249'
+  H: '230'
+  R: '112'
+  BB: '69'
+  SO: '185'
+  HP: '6'
+  WP: '2'
+  F_P_PCT: '.912'
+  T: '1'
+  BK: '2'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Branch
+  nameFirst: Norman
+  nameClub1: Norfolk
+  GP: '22'
+  CG: '15'
+  SHO: '5'
+  W: '14'
+  L: '4'
+  PCT: '.778'
+  IP: '163'
+  H: '143'
+  R: '60'
+  BB: '55'
+  SO: '144'
+  HP: '3'
+  WP: '2'
+  F_P_PCT: '.893'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Sherer
+  nameFirst: Alfred D.
+  nameClub1: Asheville
+  GP: '46'
+  CG: '16'
+  SHO: '0'
+  W: '23'
+  L: '7'
+  PCT: '.767'
+  IP: '261'
+  H: '276'
+  R: '108'
+  BB: '90'
+  SO: '121'
+  HP: '6'
+  WP: '7'
+  F_P_PCT: '.960'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Belcher
+  nameFirst: Ben M.
+  nameClub1: Asheville
+  GP: '33'
+  CG: '17'
+  SHO: '2'
+  W: '20'
+  L: '8'
+  PCT: '.714'
+  IP: '238'
+  H: '265'
+  R: '130'
+  BB: '79'
+  SO: '101'
+  HP: '2'
+  WP: '10'
+  F_P_PCT: '.957'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Riddle
+  nameFirst: Elmer
+  nameClub1: Charlotte
+  GP: '25'
+  CG: '10'
+  SHO: '2'
+  W: '13'
+  L: '6'
+  PCT: '.684'
+  IP: '155'
+  H: '141'
+  R: '88'
+  BB: '79'
+  SO: '128'
+  HP: '3'
+  WP: '4'
+  F_P_PCT: '.967'
+  T: '1'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Leonardo
+  nameFirst: John
+  nameClub1: Richmond
+  GP: '29'
+  CG: '15'
+  SHO: '0'
+  W: '15'
+  L: '7'
+  PCT: '.682'
+  IP: '174'
+  H: '176'
+  R: '102'
+  BB: '71'
+  SO: '99'
+  HP: '6'
+  WP: '2'
+  F_P_PCT: '.894'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Todd
+  nameFirst: Stanley
+  nameClub1: Asheville
+  GP: '42'
+  CG: '24'
+  SHO: '3'
+  W: '18'
+  L: '9'
+  PCT: '.667'
+  IP: '260'
+  H: '255'
+  R: '104'
+  BB: '57'
+  SO: '109'
+  HP: '7'
+  WP: '14'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: McColl
+  nameFirst: Alex B.
+  nameClub1: Charlotte
+  GP: '11'
+  CG: '4'
+  SHO: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '61'
+  H: '65'
+  R: '34'
+  BB: '11'
+  SO: '24'
+  HP: '0'
+  WP: '1'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Crutchfield
+  nameFirst: Thurston
+  nameClub1: Norfolk
+  GP: '32'
+  CG: '15'
+  SHO: '1'
+  W: '13'
+  L: '7'
+  PCT: '.650'
+  IP: '194'
+  H: '186'
+  R: '91'
+  BB: '55'
+  SO: '89'
+  HP: '3'
+  WP: '6'
+  F_P_PCT: '.921'
+  T: '1'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Davey
+  nameFirst: Ellsworth
+  nameClub1: Norfolk
+  GP: '28'
+  CG: '13'
+  SHO: '0'
+  W: '12'
+  L: '7'
+  PCT: '.632'
+  IP: '166'
+  H: '172'
+  R: '87'
+  BB: '91'
+  SO: '88'
+  HP: '13'
+  WP: '4'
+  F_P_PCT: '.938'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Ferrick
+  nameFirst: Thomas
+  nameClub1: Richmond
+  GP: '38'
+  CG: '25'
+  SHO: '4'
+  W: '20'
+  L: '12'
+  PCT: '.625'
+  IP: '279'
+  H: '288'
+  R: '133'
+  BB: '99'
+  SO: '142'
+  HP: '2'
+  WP: '6'
+  F_P_PCT: '.974'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bratton
+  nameFirst: James
+  nameClub1: Charlotte
+  GP: '13'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '78'
+  H: '86'
+  R: '40'
+  BB: '31'
+  SO: '57'
+  HP: '0'
+  WP: '1'
+  F_P_PCT: '.955'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bridgens
+  nameFirst: Warren
+  nameClub1: Portsmouth
+  GP: '25'
+  CG: '16'
+  SHO: '3'
+  W: '13'
+  L: '8'
+  PCT: '.619'
+  IP: '188'
+  H: '166'
+  R: '72'
+  BB: '62'
+  SO: '83'
+  HP: '3'
+  WP: '2'
+  F_P_PCT: '.892'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Gehrman
+  nameFirst: Paul
+  nameClub1: Durham
+  GP: '42'
+  CG: '27'
+  SHO: '3'
+  W: '21'
+  L: '13'
+  PCT: '.618'
+  IP: '279'
+  H: '251'
+  R: '110'
+  BB: '112'
+  SO: '171'
+  HP: '4'
+  WP: '10'
+  F_P_PCT: '.938'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Kadis
+  nameFirst: George
+  nameClub1: Durham
+  GP: '19'
+  CG: '11'
+  SHO: '0'
+  W: '9'
+  L: '6'
+  PCT: '.600'
+  IP: '129'
+  H: '96'
+  R: '60'
+  BB: '90'
+  SO: '84'
+  HP: '9'
+  WP: '5'
+  F_P_PCT: '.895'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Strincevich
+  nameFirst: Nick
+  nameClub1: Norfolk
+  GP: '34'
+  CG: '6'
+  SHO: '0'
+  W: '11'
+  L: '8'
+  PCT: '.579'
+  IP: '177'
+  H: '170'
+  R: '100'
+  BB: '92'
+  SO: '90'
+  HP: '2'
+  WP: '6'
+  F_P_PCT: '.949'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Karl
+  nameFirst: Anton A.
+  nameClub1: Rocky Mount
+  GP: '34'
+  CG: '12'
+  SHO: '1'
+  W: '12'
+  L: '9'
+  PCT: '.571'
+  IP: '181'
+  H: '182'
+  R: '103'
+  BB: '79'
+  SO: '76'
+  HP: '6'
+  WP: '8'
+  F_P_PCT: '.970'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Anderson
+  nameFirst: Michael
+  nameClub1: Charlotte
+  GP: '25'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  IP: '107'
+  H: '123'
+  R: '73'
+  BB: '46'
+  SO: '58'
+  HP: '2'
+  WP: '2'
+  F_P_PCT: '.957'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Andrews
+  nameFirst: Jack G.
+  nameClub1: Norfolk
+  GP: '13'
+  CG: '4'
+  SHO: '0'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  IP: '60'
+  H: '79'
+  R: '45'
+  BB: '20'
+  SO: '23'
+  HP: '4'
+  WP: '4'
+  F_P_PCT: '.938'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bingham
+  nameFirst: Ernest
+  nameClub1: Asheville
+  GP: '25'
+  CG: '13'
+  SHO: '1'
+  W: '11'
+  L: '9'
+  PCT: '.550'
+  IP: '148'
+  H: '169'
+  R: '67'
+  BB: '42'
+  SO: '92'
+  HP: '0'
+  WP: '7'
+  F_P_PCT: '.923'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Torres
+  nameFirst: Gilberto
+  nameClub1: Charlotte
+  GP: '20'
+  CG: '8'
+  SHO: '0'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  IP: '111'
+  H: '157'
+  R: '82'
+  BB: '31'
+  SO: '51'
+  HP: '1'
+  WP: '2'
+  F_P_PCT: '.949'
+  T: '1'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Murray
+  nameFirst: John
+  nameClub1: Durham
+  GP: '21'
+  CG: '5'
+  SHO: '0'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  IP: '105'
+  H: '107'
+  R: '63'
+  BB: '58'
+  SO: '57'
+  HP: '5'
+  WP: '0'
+  F_P_PCT: '.889'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Phillips
+  nameFirst: Henry
+  nameClub1: Winston-Salem
+  GP: '26'
+  CG: '10'
+  SHO: '0'
+  W: '8'
+  L: '7'
+  PCT: '.533'
+  IP: '159'
+  H: '196'
+  R: '106'
+  BB: '75'
+  SO: '50'
+  HP: '9'
+  WP: '3'
+  F_P_PCT: '.973'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Donovan
+  nameFirst: Willard
+  nameClub1: Portsmouth
+  GP: '34'
+  CG: '8'
+  SHO: '1'
+  W: '9'
+  L: '8'
+  PCT: '.529'
+  IP: '155'
+  H: '169'
+  R: '107'
+  BB: '69'
+  SO: '62'
+  HP: '0'
+  WP: '8'
+  F_P_PCT: '.898'
+  T: '1'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Ulrich
+  nameFirst: Marvin
+  nameClub1: Rocky Mount
+  GP: '37'
+  CG: '13'
+  SHO: '3'
+  W: '12'
+  L: '11'
+  PCT: '.522'
+  IP: '225'
+  H: '244'
+  R: '125'
+  BB: '85'
+  SO: '91'
+  HP: '7'
+  WP: '3'
+  F_P_PCT: '.938'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Allen
+  nameFirst: Earl
+  nameClub1: Portsmouth
+  GP: '42'
+  CG: '13'
+  SHO: '3'
+  W: '13'
+  L: '12'
+  PCT: '.520'
+  IP: '224'
+  H: '212'
+  R: '106'
+  BB: '120'
+  SO: '169'
+  HP: '8'
+  WP: '6'
+  F_P_PCT: '.949'
+  T: '3'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Dreisewerd
+  nameFirst: Clem
+  nameClub1: Richmond
+  GP: '33'
+  CG: '15'
+  SHO: '3'
+  W: '13'
+  L: '12'
+  PCT: '.520'
+  IP: '219'
+  H: '205'
+  R: '102'
+  BB: '63'
+  SO: '195'
+  HP: '4'
+  WP: '0'
+  F_P_PCT: '.900'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: O'Flynn
+  nameFirst: J. Murray
+  nameClub1: Durham
+  GP: '46'
+  CG: '23'
+  SHO: '1'
+  W: '18'
+  L: '17'
+  PCT: '.514'
+  IP: '306'
+  H: '280'
+  R: '137'
+  BB: '126'
+  SO: '141'
+  HP: '11'
+  WP: '4'
+  F_P_PCT: '.924'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Jarlett
+  nameFirst: Alfred
+  nameClub1: Rocky Mount
+  GP: '22'
+  CG: '7'
+  SHO: '0'
+  W: '7'
+  L: '7'
+  PCT: '.500'
+  IP: '113'
+  H: '108'
+  R: '63'
+  BB: '49'
+  SO: '74'
+  HP: '0'
+  WP: '8'
+  F_P_PCT: '.972'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Yarewick
+  nameFirst: William
+  nameClub1: Richmond
+  GP: '22'
+  CG: '6'
+  SHO: '0'
+  W: '5'
+  L: '5'
+  PCT: '.500'
+  IP: '103'
+  H: '110'
+  R: '96'
+  BB: '95'
+  SO: '78'
+  HP: '6'
+  WP: '8'
+  F_P_PCT: '.867'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Wahonick
+  nameFirst: John
+  nameClub1: Asheville
+  GP: '14'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '74'
+  H: '74'
+  R: '53'
+  BB: '55'
+  SO: '28'
+  HP: '3'
+  WP: '10'
+  F_P_PCT: '.733'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Campbell
+  nameFirst: Don
+  nameClub1: Asheville
+  GP: '28'
+  CG: '5'
+  SHO: '0'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  IP: '121'
+  H: '164'
+  R: '111'
+  BB: '83'
+  SO: '46'
+  HP: '8'
+  WP: '3'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Herring
+  nameFirst: William
+  nameClub1: Portsmouth
+  GP: '39'
+  CG: '15'
+  SHO: '2'
+  W: '13'
+  L: '15'
+  PCT: '.464'
+  IP: '217'
+  H: '234'
+  R: '127'
+  BB: '71'
+  SO: '130'
+  HP: '9'
+  WP: '6'
+  F_P_PCT: '.947'
+  T: '0'
+  BK: '2'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Dasso
+  nameFirst: Frank
+  nameClub1: Rocky Mount
+  GP: '40'
+  CG: '11'
+  SHO: '0'
+  W: '10'
+  L: '12'
+  PCT: '.455'
+  IP: '197'
+  H: '187'
+  R: '122'
+  BB: '120'
+  SO: '126'
+  HP: '3'
+  WP: '7'
+  F_P_PCT: '.902'
+  T: '0'
+  BK: '2'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Pritchett
+  nameFirst: Leroy
+  nameClub1: Charlotte
+  GP: '24'
+  CG: '12'
+  SHO: '0'
+  W: '8'
+  L: '10'
+  PCT: '.444'
+  IP: '175'
+  H: '162'
+  R: '83'
+  BB: '80'
+  SO: '83'
+  HP: '4'
+  WP: '7'
+  F_P_PCT: '.927'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Lamb
+  nameFirst: Jack Hale
+  nameClub1: Portsmouth
+  GP: '12'
+  CG: '5'
+  SHO: '0'
+  W: '4'
+  L: '5'
+  PCT: '.444'
+  IP: '76'
+  H: '93'
+  R: '61'
+  BB: '29'
+  SO: '22'
+  HP: '3'
+  WP: '5'
+  F_P_PCT: '1.000'
+  T: '2'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Harris
+  nameFirst: C. Luman
+  nameClub1: Charlotte
+  GP: '12'
+  CG: '4'
+  SHO: '1'
+  W: '4'
+  L: '5'
+  PCT: '.444'
+  IP: '64'
+  H: '68'
+  R: '38'
+  BB: '26'
+  SO: '24'
+  HP: '2'
+  WP: '0'
+  F_P_PCT: '1.000'
+  T: '2'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Hash
+  nameFirst: Herbert H.
+  nameClub1: Rocky Mount
+  GP: '36'
+  CG: '13'
+  SHO: '0'
+  W: '11'
+  L: '14'
+  PCT: '.440'
+  IP: '203'
+  H: '238'
+  R: '138'
+  BB: '75'
+  SO: '81'
+  HP: '9'
+  WP: '6'
+  F_P_PCT: '.945'
+  T: '0'
+  BK: '2'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Lemmer
+  nameFirst: Clarence
+  nameClub1: Rocky Mount
+  GP: '13'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  IP: '57'
+  H: '55'
+  R: '42'
+  BB: '42'
+  SO: '23'
+  HP: '10'
+  WP: '3'
+  F_P_PCT: '.867'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bowers
+  nameFirst: Stewart
+  nameClub1: Rocky Mount
+  GP: '21'
+  CG: '10'
+  SHO: '0'
+  W: '7'
+  L: '10'
+  PCT: '.412'
+  IP: '141'
+  H: '142'
+  R: '73'
+  BB: '61'
+  SO: '79'
+  HP: '3'
+  WP: '7'
+  F_P_PCT: '.913'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Benne
+  nameFirst: William
+  nameClub1: Richmond
+  GP: '32'
+  CG: '19'
+  SHO: '0'
+  W: '10'
+  L: '15'
+  PCT: '.400'
+  IP: '204'
+  H: '207'
+  R: '115'
+  BB: '81'
+  SO: '106'
+  HP: '11'
+  WP: '3'
+  F_P_PCT: '.950'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bokina
+  nameFirst: Joseph
+  nameClub1: Charlotte
+  GP: '16'
+  CG: '8'
+  SHO: '1'
+  W: '6'
+  L: '9'
+  PCT: '.400'
+  IP: '96'
+  H: '107'
+  R: '68'
+  BB: '49'
+  SO: '37'
+  HP: '4'
+  WP: '2'
+  F_P_PCT: '.929'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Orrell
+  nameFirst: Forrest
+  nameClub1: Durham
+  GP: '17'
+  CG: '6'
+  SHO: '0'
+  W: '4'
+  L: '6'
+  PCT: '.400'
+  IP: '93'
+  H: '95'
+  R: '80'
+  BB: '88'
+  SO: '64'
+  HP: '8'
+  WP: '10'
+  F_P_PCT: '.889'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Green
+  nameFirst: Harvey
+  nameClub1: Winston-Salem
+  GP: '11'
+  CG: '7'
+  SHO: '0'
+  W: '4'
+  L: '6'
+  PCT: '.400'
+  IP: '84'
+  H: '101'
+  R: '61'
+  BB: '39'
+  SO: '23'
+  HP: '0'
+  WP: '4'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Duffy
+  nameFirst: Robert
+  nameClub1: Winston-Salem
+  GP: '14'
+  CG: '11'
+  SHO: '0'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '104'
+  H: '108'
+  R: '65'
+  BB: '48'
+  SO: '67'
+  HP: '4'
+  WP: '13'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Hall
+  nameFirst: Louis
+  nameClub1: Norfolk
+  GP: '31'
+  CG: '15'
+  SHO: '2'
+  W: '8'
+  L: '13'
+  PCT: '.381'
+  IP: '175'
+  H: '164'
+  R: '107'
+  BB: '83'
+  SO: '104'
+  HP: '10'
+  WP: '12'
+  F_P_PCT: '.946'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Shuman
+  nameFirst: Harry
+  nameClub1: Richmond
+  GP: '32'
+  CG: '2'
+  SHO: '1'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  IP: '119'
+  H: '136'
+  R: '76'
+  BB: '50'
+  SO: '74'
+  HP: '3'
+  WP: '7'
+  F_P_PCT: '.893'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Pitman
+  nameFirst: Dot
+  nameClub1: Charlotte
+  GP: '34'
+  CG: '11'
+  SHO: '0'
+  W: '8'
+  L: '15'
+  PCT: '.348'
+  IP: '178'
+  H: '191'
+  R: '114'
+  BB: '71'
+  SO: '72'
+  HP: '4'
+  WP: '2'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Hamilton
+  nameFirst: Elton H.
+  nameClub1: Durham
+  GP: '10'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '53'
+  H: '63'
+  R: '32'
+  BB: '26'
+  SO: '27'
+  HP: '2'
+  WP: '1'
+  F_P_PCT: '.867'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Terhune
+  nameFirst: Leland S.
+  nameClub1: Winston-Salem
+  GP: '28'
+  CG: '17'
+  SHO: '0'
+  W: '7'
+  L: '16'
+  PCT: '.304'
+  IP: '168'
+  H: '165'
+  R: '101'
+  BB: '57'
+  SO: '86'
+  HP: '3'
+  WP: '10'
+  F_P_PCT: '.939'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Campbell
+  nameFirst: J. Millard
+  nameClub1: Charlotte
+  GP: '10'
+  CG: '4'
+  SHO: '0'
+  W: '2'
+  L: '5'
+  PCT: '.286'
+  IP: '56'
+  H: '69'
+  R: '40'
+  BB: '24'
+  SO: '25'
+  HP: '3'
+  WP: '3'
+  F_P_PCT: '.667'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Barley
+  nameFirst: George W.
+  nameClub1: Norfolk
+  GP: '9'
+  CG: '5'
+  SHO: '0'
+  W: '2'
+  L: '5'
+  PCT: '.286'
+  IP: '53'
+  H: '73'
+  R: '50'
+  BB: '23'
+  SO: '30'
+  HP: '1'
+  WP: '1'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Houtekamer
+  nameFirst: Jake
+  nameClub1: Winston-Salem
+  GP: '12'
+  CG: '10'
+  SHO: '1'
+  W: '3'
+  L: '8'
+  PCT: '.273'
+  IP: '84'
+  H: '121'
+  R: '65'
+  BB: '32'
+  SO: '49'
+  HP: '2'
+  WP: '8'
+  F_P_PCT: '.929'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Cole
+  nameFirst: Jesse Thomas
+  nameClub1: Durham
+  GP: '21'
+  CG: '6'
+  SHO: '0'
+  W: '3'
+  L: '9'
+  PCT: '.250'
+  IP: '92'
+  H: '100'
+  R: '61'
+  BB: '44'
+  SO: '49'
+  HP: '2'
+  WP: '2'
+  F_P_PCT: '.941'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Ruemmele
+  nameFirst: Henry
+  nameClub1: Rocky Mount
+  GP: '10'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '42'
+  H: '48'
+  R: '28'
+  BB: '26'
+  SO: '27'
+  HP: '2'
+  WP: '2'
+  F_P_PCT: '.889'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Zampell
+  nameFirst: William
+  nameClub1: Winston-Salem
+  GP: '14'
+  CG: '8'
+  SHO: '0'
+  W: '2'
+  L: '8'
+  PCT: '.200'
+  IP: '88'
+  H: '110'
+  R: '76'
+  BB: '43'
+  SO: '41'
+  HP: '6'
+  WP: '2'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Shoffner
+  nameFirst: Ed (Danny)
+  nameClub1: Durham
+  GP: '10'
+  CG: '2'
+  SHO: '1'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '45'
+  H: '41'
+  R: '31'
+  BB: '55'
+  SO: '11'
+  HP: '1'
+  WP: '2'
+  F_P_PCT: '1.000'
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Butcher
+  nameFirst: Leslie W.
+  nameClub1: Winston-Salem
+  GP: '16'
+  CG: '3'
+  SHO: '0'
+  W: '1'
+  L: '6'
+  PCT: '.143'
+  IP: '61'
+  H: '66'
+  R: '57'
+  BB: '41'
+  SO: '43'
+  HP: '5'
+  WP: '5'
+  F_P_PCT: '.923'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: West
+  nameFirst: Weldon E.
+  nameClub1: Winston-Salem
+  GP: '25'
+  CG: '3'
+  SHO: '0'
+  W: '1'
+  L: '9'
+  PCT: '.100'
+  IP: '120'
+  H: '128'
+  R: '106'
+  BB: '62'
+  SO: '56'
+  HP: '8'
+  WP: '17'
+  F_P_PCT: '.865'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Newsome
+  nameFirst: Wilburn A.
+  nameClub1: Winston-Salem
+  GP: '19'
+  CG: '4'
+  SHO: '0'
+  W: '1'
+  L: '13'
+  PCT: '.071'
+  IP: '86'
+  H: '126'
+  R: '93'
+  BB: '37'
+  SO: '44'
+  HP: '6'
+  WP: '4'
+  F_P_PCT: '.905'
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Gornicki
+  nameFirst: Henry
+  nameClub1: Asheville
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Melton
+  nameFirst: Frank
+  nameClub1: Asheville
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Sekeres
+  nameFirst: William
+  nameClub1: Asheville
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Templeton
+  nameFirst: Archie
+  nameClub1: Asheville
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: White
+  nameFirst: Ernest
+  nameClub1: Asheville
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bloom
+  nameFirst: Arthur C.
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Crisfield
+  nameFirst: Alex
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Crompton
+  nameFirst: Herbert
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Fieber
+  nameFirst: Clarence
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Gillespie
+  nameFirst: R. J.
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Heise
+  nameFirst: Clarence
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Isbell
+  nameFirst: Maurice
+  nameClub1: Charlotte
+  T: '1'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Kelly
+  nameFirst: Harry
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Lanier
+  nameFirst: William
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Larsen
+  nameFirst: Glen C.
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Mote
+  nameFirst: Eugene
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Nix
+  nameFirst: George
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Peticolas
+  nameFirst: Frank
+  nameClub1: Charlotte
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Purcey
+  nameFirst: Walter
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Simons
+  nameFirst: George
+  nameClub1: Charlotte
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Ginn
+  nameFirst: Harold
+  nameClub1: Durham
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Holmes
+  nameFirst: Earl
+  nameClub1: Durham
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Johnson
+  nameFirst: Walter, Jr.
+  nameClub1: Winston-Salem
+  nameClub2: Durham
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: McGloin
+  nameFirst: James L.
+  nameClub1: Durham
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Roberts
+  nameFirst: Verbele
+  nameClub1: Durham
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Usdavin
+  nameFirst: John
+  nameClub1: Durham
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Dejan
+  nameFirst: Mike
+  nameClub1: Norfolk
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Haley
+  nameFirst: John
+  nameClub1: Norfolk
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Mitchell
+  nameFirst: Joe Bob
+  nameClub1: Norfolk
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Rescigno
+  nameFirst: Xavier F.
+  nameClub1: Norfolk
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Schamp
+  nameFirst: Earl
+  nameClub1: Norfolk
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Zerblis
+  nameFirst: John
+  nameClub1: Norfolk
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Beddingfield
+  nameFirst: Marcus
+  nameClub1: Portsmouth
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bullock
+  nameFirst: Malton
+  nameClub1: Portsmouth
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Byrd
+  nameFirst: Carl
+  nameClub1: Portsmouth
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Cummings
+  nameFirst: Charles
+  nameClub1: Portsmouth
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Flythe
+  nameFirst: Stuart M.
+  nameClub1: Portsmouth
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Murchison
+  nameClub1: Portsmouth
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Wittig
+  nameFirst: John
+  nameClub1: Portsmouth
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Carey
+  nameFirst: John Patrick
+  nameClub1: Richmond
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Elliott
+  nameFirst: Owen
+  nameClub1: Richmond
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Fuchs
+  nameFirst: Charlie
+  nameClub1: Richmond
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Pezzullo
+  nameFirst: John
+  nameClub1: Richmond
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Walsh
+  nameFirst: Robert E.
+  nameClub1: Richmond
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Bueter
+  nameFirst: Warren
+  nameClub1: Rocky Mount
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Kneece
+  nameFirst: James
+  nameClub1: Rocky Mount
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Mackey
+  nameFirst: Roy
+  nameClub1: Rocky Mount
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Triplett
+  nameFirst: Wayne
+  nameClub1: Rocky Mount
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Albee
+  nameFirst: Harold E.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Brooks
+  nameFirst: Burton Charles
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Cole
+  nameFirst: Joseph
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Crowder
+  nameFirst: Alvin F.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Culler
+  nameFirst: Harold L.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Cunningham
+  nameFirst: Robert J.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Dixon
+  nameFirst: Paul H.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Grancio
+  nameFirst: Anthony J.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Mackie
+  nameFirst: George
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Morales
+  nameFirst: Ismael
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Norris
+  nameFirst: Mauel C.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Panian
+  nameFirst: Gerald
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: West
+  nameFirst: Ralph E.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '1'
+- year: '1937'
+  nameLeague: Piedmont League
+  nameLast: Zima
+  nameFirst: Stanley J.
+  nameClub1: Winston-Salem
+  T: '0'
+  BK: '0'

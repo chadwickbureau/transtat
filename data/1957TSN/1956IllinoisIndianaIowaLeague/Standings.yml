@@ -1,0 +1,199 @@
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular/first
+  W: '47'
+  L: '19'
+  T: '0'
+  PCT: '.712'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: regular/first
+  W: '40'
+  L: '26'
+  T: '0'
+  PCT: '.606'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  phase: regular/first
+  W: '36'
+  L: '29'
+  T: '0'
+  PCT: '.554'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: regular/first
+  W: '33'
+  L: '29'
+  T: '0'
+  PCT: '.532'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular/first
+  W: '32'
+  L: '34'
+  T: '0'
+  PCT: '.485'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular/first
+  W: '26'
+  L: '38'
+  T: '0'
+  PCT: '.406'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular/first
+  W: '24'
+  L: '42'
+  T: '0'
+  PCT: '.364'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular/first
+  W: '23'
+  L: '44'
+  T: '0'
+  PCT: '.343'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular/second
+  W: '37'
+  L: '17'
+  T: '0'
+  PCT: '.685'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular/second
+  W: '36'
+  L: '18'
+  T: '0'
+  PCT: '.667'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: regular/second
+  W: '25'
+  L: '29'
+  T: '0'
+  PCT: '.463'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  phase: regular/second
+  W: '24'
+  L: '30'
+  T: '0'
+  PCT: '.444'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular/second
+  W: '24'
+  L: '30'
+  T: '0'
+  PCT: '.444'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular/second
+  W: '23'
+  L: '31'
+  T: '0'
+  PCT: '.426'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular/second
+  W: '20'
+  L: '34'
+  T: '0'
+  PCT: '.370'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '84'
+  L: '36'
+  T: '0'
+  PCT: '.700'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: regular
+  W: '40'
+  L: '26'
+  T: '0'
+  PCT: '.606'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular
+  W: '62'
+  L: '56'
+  T: '0'
+  PCT: '.525'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  phase: regular
+  W: '60'
+  L: '59'
+  T: '0'
+  PCT: '.504'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: regular
+  W: '58'
+  L: '58'
+  T: '0'
+  PCT: '.500'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular
+  W: '56'
+  L: '64'
+  T: '0'
+  PCT: '.467'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular
+  W: '46'
+  L: '75'
+  T: '0'
+  PCT: '.380'
+- year: '1956'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular
+  W: '44'
+  L: '76'
+  T: '0'
+  PCT: '.367'

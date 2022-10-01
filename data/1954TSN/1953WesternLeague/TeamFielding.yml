@@ -1,0 +1,88 @@
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Denver
+  G: '154'
+  DP: '152'
+  PB: '16'
+  PO: '3963'
+  A: '1756'
+  E: '200'
+  PCT: '.966'
+  TP: '0'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  G: '155'
+  DP: '162'
+  PB: '20'
+  PO: '4018'
+  A: '1748'
+  E: '208'
+  PCT: '.965'
+  TP: '0'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Lincoln
+  G: '154'
+  DP: '146'
+  PB: '24'
+  PO: '4018'
+  A: '1682'
+  E: '227'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Omaha
+  G: '154'
+  DP: '184'
+  PB: '22'
+  PO: '4025'
+  A: '1763'
+  E: '244'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Des Moines
+  G: '156'
+  DP: '147'
+  PB: '4'
+  PO: '4001'
+  A: '1748'
+  E: '241'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Wichita
+  G: '155'
+  DP: '168'
+  PB: '21'
+  PO: '3980'
+  A: '1686'
+  E: '248'
+  PCT: '.958'
+  TP: '1'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Sioux City
+  G: '154'
+  DP: '158'
+  PB: '20'
+  PO: '3958'
+  A: '1718'
+  E: '274'
+  PCT: '.954'
+  TP: '0'
+- year: '1953'
+  nameLeague: Western League
+  nameClub: Pueblo
+  G: '156'
+  DP: '154'
+  PB: '14'
+  PO: '3972'
+  A: '1586'
+  E: '267'
+  PCT: '.954'
+  TP: '0'

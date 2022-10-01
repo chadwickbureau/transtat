@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: regular
+  W: '90'
+  L: '58'
+  T: '0'
+  PCT: '.608'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: regular
+  W: '86'
+  L: '61'
+  T: '0'
+  PCT: '.585'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: regular
+  W: '86'
+  L: '62'
+  T: '0'
+  PCT: '.581'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: regular
+  W: '76'
+  L: '72'
+  T: '0'
+  PCT: '.514'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Sherman-Denison
+  phase: regular
+  W: '70'
+  L: '78'
+  T: '0'
+  PCT: '.473'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Greenville
+  phase: regular
+  W: '66'
+  L: '82'
+  T: '1'
+  PCT: '.446'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Gainesville
+  phase: regular
+  W: '59'
+  L: '89'
+  T: '1'
+  PCT: '.399'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Temple
+  phase: regular
+  W: '58'
+  L: '89'
+  T: '0'
+  PCT: '.395'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

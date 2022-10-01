@@ -1,0 +1,110 @@
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: regular
+  W: '91'
+  L: '34'
+  PCT: '.728'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Seaford
+  phase: regular
+  W: '74'
+  L: '49'
+  PCT: '.602'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Dover
+  phase: regular
+  W: '68'
+  L: '56'
+  PCT: '.548'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  phase: regular
+  W: '62'
+  L: '63'
+  PCT: '.496'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Milford
+  phase: regular
+  W: '62'
+  L: '64'
+  PCT: '.492'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Rehoboth Beach
+  phase: regular
+  W: '49'
+  L: '75'
+  PCT: '.395'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Easton
+  phase: regular
+  W: '48'
+  L: '78'
+  PCT: '.381'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: regular
+  W: '45'
+  L: '80'
+  PCT: '.360'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Dover
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Seaford
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Seaford
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

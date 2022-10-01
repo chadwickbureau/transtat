@@ -1,0 +1,100 @@
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Decatur
+  phase: regular
+  W: '68'
+  L: '50'
+  T: '0'
+  PCT: '.576'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paris
+  phase: regular
+  W: '66'
+  L: '53'
+  T: '1'
+  PCT: '.555'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: regular
+  W: '64'
+  L: '56'
+  T: '0'
+  PCT: '.533'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Hannibal
+  phase: regular
+  W: '55'
+  L: '62'
+  T: '0'
+  PCT: '.470'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mount Vernon
+  phase: regular
+  W: '55'
+  L: '64'
+  T: '0'
+  PCT: '.462'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Danville
+  phase: regular
+  W: '48'
+  L: '71'
+  T: '1'
+  PCT: '.403'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Decatur
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Hannibal
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paris
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Decatur
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paris
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

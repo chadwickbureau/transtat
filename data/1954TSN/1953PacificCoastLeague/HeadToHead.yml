@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  Seattle: '10'
+  Los Angeles: '18'
+  Portland: '15'
+  San Francisco: '16'
+  San Diego: '14'
+  Oakland: '16'
+  Sacramento: '17'
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  Hollywood: '12'
+  Los Angeles: '9'
+  Portland: '18'
+  San Francisco: '14'
+  San Diego: '16'
+  Oakland: '14'
+  Sacramento: '15'
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  Hollywood: '15'
+  Seattle: '14'
+  Portland: '13'
+  San Francisco: '17'
+  San Diego: '11'
+  Oakland: '15'
+  Sacramento: '8'
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  Hollywood: '5'
+  Seattle: '14'
+  Los Angeles: '11'
+  San Francisco: '10'
+  San Diego: '16'
+  Oakland: '15'
+  Sacramento: '21'
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  Hollywood: '12'
+  Seattle: '8'
+  Los Angeles: '13'
+  Portland: '12'
+  San Diego: '10'
+  Oakland: '23'
+  Sacramento: '13'
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  Hollywood: '10'
+  Seattle: '12'
+  Los Angeles: '9'
+  Portland: '15'
+  San Francisco: '13'
+  Oakland: '9'
+  Sacramento: '20'
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  Hollywood: '14'
+  Seattle: '8'
+  Los Angeles: '13'
+  Portland: '8'
+  San Francisco: '10'
+  San Diego: '13'
+  Sacramento: '11'
+- year: '1953'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  Hollywood: '6'
+  Seattle: '16'
+  Los Angeles: '14'
+  Portland: '7'
+  San Francisco: '9'
+  San Diego: '12'
+  Oakland: '11'

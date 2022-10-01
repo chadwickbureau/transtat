@@ -1,0 +1,161 @@
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  phase: regular/first
+  W: '39'
+  L: '26'
+  T: '1'
+  PCT: '.600'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Abilene
+  phase: regular/first
+  W: '35'
+  L: '26'
+  T: '0'
+  PCT: '.574'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Port Arthur/Temple
+  phase: regular/first
+  W: '33'
+  L: '28'
+  T: '0'
+  PCT: '.541'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Beaumont
+  phase: regular/first
+  W: '31'
+  L: '33'
+  T: '1'
+  PCT: '.484'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Victoria
+  phase: regular/first
+  W: '28'
+  L: '31'
+  T: '0'
+  PCT: '.475'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: regular/first
+  W: '4'
+  L: '26'
+  T: '0'
+  PCT: '.133'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Victoria
+  phase: regular/second
+  W: '47'
+  L: '18'
+  T: '0'
+  PCT: '.723'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Beaumont
+  phase: regular/second
+  W: '30'
+  L: '30'
+  T: '0'
+  PCT: '.500'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  phase: regular/second
+  W: '30'
+  L: '32'
+  T: '0'
+  PCT: '.484'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Abilene
+  phase: regular/second
+  W: '26'
+  L: '40'
+  T: '0'
+  PCT: '.394'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Temple
+  phase: regular/second
+  W: '15'
+  L: '28'
+  T: '0'
+  PCT: '.349'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Victoria
+  phase: regular
+  W: '75'
+  L: '49'
+  T: '0'
+  PCT: '.605'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  phase: regular
+  W: '69'
+  L: '58'
+  T: '1'
+  PCT: '.543'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Beaumont
+  phase: regular
+  W: '61'
+  L: '63'
+  T: '1'
+  PCT: '.492'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Abilene
+  phase: regular
+  W: '61'
+  L: '66'
+  T: '0'
+  PCT: '.480'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Port Arthur/Temple
+  phase: regular
+  W: '48'
+  L: '56'
+  T: '0'
+  PCT: '.462'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  phase: regular
+  W: '4'
+  L: '26'
+  T: '0'
+  PCT: '.133'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Victoria
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

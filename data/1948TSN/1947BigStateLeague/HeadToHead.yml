@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Texarkana
+  Greenville: '1'
+  Wichita Falls: '11'
+  Paris: '15'
+  Sherman-Denison: '15'
+  Gainesville: '15'
+  Austin: '16'
+  Waco: '18'
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Greenville
+  Texarkana: '12'
+  Wichita Falls: '17'
+  Paris: '12'
+  Sherman-Denison: '16'
+  Gainesville: '12'
+  Austin: '17'
+  Waco: '14'
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  Texarkana: '11'
+  Greenville: '5'
+  Paris: '12'
+  Sherman-Denison: '14'
+  Gainesville: '18'
+  Austin: '14'
+  Waco: '18'
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Paris
+  Texarkana: '7'
+  Greenville: '10'
+  Wichita Falls: '10'
+  Sherman-Denison: '16'
+  Gainesville: '13'
+  Austin: '10'
+  Waco: '14'
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Sherman-Denison
+  Texarkana: '7'
+  Greenville: '6'
+  Wichita Falls: '8'
+  Paris: '6'
+  Gainesville: '13'
+  Austin: '15'
+  Waco: '14'
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Gainesville
+  Texarkana: '6'
+  Greenville: '10'
+  Wichita Falls: '3'
+  Paris: '9'
+  Sherman-Denison: '9'
+  Austin: '17'
+  Waco: '11'
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Austin
+  Texarkana: '6'
+  Greenville: '5'
+  Wichita Falls: '8'
+  Paris: '12'
+  Sherman-Denison: '7'
+  Gainesville: '5'
+  Waco: '12'
+- year: '1947'
+  nameLeague: Big State League
+  nameClub: Waco
+  Texarkana: '4'
+  Greenville: '7'
+  Wichita Falls: '4'
+  Paris: '8'
+  Sherman-Denison: '8'
+  Gainesville: '11'
+  Austin: '10'

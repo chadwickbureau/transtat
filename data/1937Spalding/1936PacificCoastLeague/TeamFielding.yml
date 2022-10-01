@@ -1,0 +1,64 @@
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Mission
+  G: '176'
+  PO: '4579'
+  A: '2085'
+  E: '183'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  G: '175'
+  PO: '4614'
+  A: '2200'
+  E: '220'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  G: '176'
+  PO: '4599'
+  A: '2017'
+  E: '217'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  G: '176'
+  PO: '4528'
+  A: '2087'
+  E: '233'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  G: '175'
+  PO: '4563'
+  A: '2105'
+  E: '240'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  G: '176'
+  PO: '4518'
+  A: '2145'
+  E: '253'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  G: '176'
+  PO: '4450'
+  A: '2121'
+  E: '262'
+  PCT: '.962'
+- year: '1936'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  G: '176'
+  PO: '4556'
+  A: '2021'
+  E: '266'
+  PCT: '.961'

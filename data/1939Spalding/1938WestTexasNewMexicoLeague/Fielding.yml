@@ -1,0 +1,1619 @@
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: White
+  nameClub1: Wink
+  Pos: 1B
+  G: '9'
+  PO: '79'
+  A: '2'
+  E: '1'
+  DP: '2'
+  PCT: '.988'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: McDonald
+  nameClub1: Clovis
+  Pos: 1B
+  G: '128'
+  PO: '1141'
+  A: '41'
+  E: '21'
+  DP: '57'
+  PCT: '.983'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Siegbert
+  nameClub1: Big Spring
+  Pos: 1B
+  G: '125'
+  PO: '1169'
+  A: '57'
+  E: '27'
+  DP: '74'
+  PCT: '.979'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Mosel
+  nameClub1: Lubbock
+  Pos: 1B
+  G: '117'
+  PO: '963'
+  A: '48'
+  E: '19'
+  DP: '74'
+  PCT: '.972'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Jubela
+  nameClub1: Wink
+  Pos: 1B
+  G: '116'
+  PO: '1026'
+  A: '23'
+  E: '35'
+  DP: '31'
+  PCT: '.968'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Hargrove
+  nameClub1: Hobbs
+  Pos: 1B
+  G: '122'
+  PO: '956'
+  A: '44'
+  E: '34'
+  DP: '59'
+  PCT: '.967'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Suytar
+  nameClub1: Midland
+  Pos: 1B
+  G: '125'
+  PO: '1052'
+  A: '55'
+  E: '47'
+  DP: '52'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Barnabe
+  nameClub1: Big Spring
+  Pos: 1B
+  G: '7'
+  PO: '52'
+  A: '3'
+  E: '3'
+  DP: '2'
+  PCT: '.948'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Beals
+  nameClub1: Clovis
+  Pos: 2B
+  G: '97'
+  PO: '226'
+  A: '230'
+  E: '36'
+  DP: '31'
+  PCT: '.977'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Greer
+  nameClub1: Big Spring
+  Pos: 2B
+  G: '6'
+  PO: '22'
+  A: '13'
+  E: '2'
+  DP: '2'
+  PCT: '.946'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Qualls
+  nameClub1: Clovis
+  Pos: 2B
+  G: '8'
+  PO: '33'
+  A: '24'
+  E: '4'
+  DP: '6'
+  PCT: '.934'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Barnhill
+  nameClub1: Midland
+  Pos: 2B
+  G: '120'
+  PO: '297'
+  A: '346'
+  E: '50'
+  DP: '57'
+  PCT: '.928'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Loken
+  nameClub1: Hobbs
+  Pos: 2B
+  G: '105'
+  PO: '200'
+  A: '244'
+  E: '36'
+  DP: '37'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Decker
+  nameClub1: Big Spring
+  Pos: 2B
+  G: '114'
+  PO: '292'
+  A: '321'
+  E: '57'
+  DP: '48'
+  PCT: '.915'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Byrd
+  nameClub1: Midland
+  Pos: 2B
+  G: '6'
+  PO: '10'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.906'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Griffith
+  nameClub1: Clovis
+  Pos: 2B
+  G: '15'
+  PO: '33'
+  A: '57'
+  E: '9'
+  DP: '7'
+  PCT: '.902'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stevens
+  nameClub1: Lubbock
+  Pos: 2B
+  G: '126'
+  PO: '249'
+  A: '239'
+  E: '61'
+  DP: '51'
+  PCT: '.889'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Rey
+  nameClub1: Wink
+  Pos: 2B
+  G: '21'
+  PO: '67'
+  A: '59'
+  E: '17'
+  DP: '5'
+  PCT: '.881'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Kaerwer
+  nameClub1: Wink
+  Pos: 2B
+  G: '29'
+  PO: '80'
+  A: '69'
+  E: '19'
+  DP: '5'
+  PCT: '.881'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Sweet
+  nameClub1: Wink
+  Pos: 2B
+  G: '5'
+  PO: '13'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PCT: '.881'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Dosdoorian
+  nameClub1: Midland
+  Pos: 2B
+  G: '40'
+  PO: '74'
+  A: '73'
+  E: '26'
+  DP: '3'
+  PCT: '.850'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Wano
+  nameClub1: Wink
+  Pos: 2B
+  G: '25'
+  PO: '32'
+  A: '59'
+  E: '17'
+  DP: '2'
+  PCT: '.843'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Raines
+  nameClub1: Wink
+  Pos: 2B
+  G: '7'
+  PO: '11'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PCT: '.818'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: LeBarron
+  nameClub1: Wink
+  Pos: 2B
+  G: '6'
+  PO: '11'
+  A: '19'
+  E: '8'
+  DP: '0'
+  PCT: '.789'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Guinn
+  nameClub1: Midland
+  Pos: 3B
+  G: '70'
+  PO: '69'
+  A: '94'
+  E: '16'
+  DP: '16'
+  PCT: '.911'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Jordan
+  nameClub1: Hobbs
+  Pos: 3B
+  G: '120'
+  PO: '161'
+  A: '244'
+  E: '51'
+  DP: '19'
+  PCT: '.889'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Harrison
+  nameClub1: Clovis
+  Pos: 3B
+  G: '36'
+  PO: '34'
+  A: '82'
+  E: '15'
+  DP: '3'
+  PCT: '.884'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Spangler
+  nameClub1: Wink
+  Pos: 3B
+  G: '123'
+  PO: '111'
+  A: '243'
+  E: '49'
+  DP: '12'
+  PCT: '.872'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Taylor
+  nameClub1: Lubbock
+  Pos: 3B
+  G: '121'
+  PO: '147'
+  A: '194'
+  E: '52'
+  DP: '18'
+  PCT: '.868'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Smyly
+  nameClub1: Hobbs
+  Pos: 3B
+  G: '37'
+  PO: '40'
+  A: '68'
+  E: '18'
+  DP: '7'
+  PCT: '.855'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Capps
+  nameClub1: Big Spring
+  Pos: 3B
+  G: '76'
+  PO: '79'
+  A: '141'
+  E: '35'
+  DP: '6'
+  PCT: '.863'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: White
+  nameClub1: Hobbs
+  Pos: 3B
+  G: '11'
+  PO: '13'
+  A: '21'
+  E: '6'
+  DP: '2'
+  PCT: '.850'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Jaffee
+  nameClub1: Wink
+  Pos: 3B
+  G: '10'
+  PO: '8'
+  A: '14'
+  E: '4'
+  DP: '0'
+  PCT: '.846'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Williams
+  nameFirst: J.
+  nameClub1: Clovis
+  Pos: 3B
+  G: '9'
+  PO: '11'
+  A: '15'
+  E: '9'
+  DP: '0'
+  PCT: '.843'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Henderson
+  nameClub1: Big Spring
+  Pos: 3B
+  G: '51'
+  PO: '47'
+  A: '87'
+  E: '25'
+  DP: '4'
+  PCT: '.843'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Wyss
+  nameClub1: Clovis
+  Pos: 3B
+  G: '5'
+  PO: '3'
+  A: '12'
+  E: '3'
+  DP: '0'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Nutt
+  nameClub1: Midland
+  Pos: 3B
+  G: '37'
+  PO: '66'
+  A: '86'
+  E: '34'
+  DP: '14'
+  PCT: '.815'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Byrd
+  nameClub1: Midland
+  Pos: 3B
+  G: '25'
+  PO: '24'
+  A: '35'
+  E: '15'
+  DP: '2'
+  PCT: '.797'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Quick
+  nameClub1: Wink
+  Pos: 3B
+  G: '5'
+  PO: '4'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.769'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Larrieu
+  nameClub1: Midland
+  Pos: 3B
+  G: '11'
+  PO: '11'
+  A: '19'
+  E: '9'
+  DP: '1'
+  PCT: '.769'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Rey
+  nameClub1: Wink
+  Pos: 3B
+  G: '37'
+  PO: '35'
+  A: '59'
+  E: '35'
+  DP: '9'
+  PCT: '.729'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Barnett
+  nameClub1: Big Spring
+  Pos: 3B
+  G: '5'
+  PO: '6'
+  A: '7'
+  E: '5'
+  DP: '0'
+  PCT: '.722'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Harrison
+  nameClub1: Clovis
+  Pos: SS
+  G: '61'
+  PO: '34'
+  A: '82'
+  E: '15'
+  DP: '12'
+  PCT: '.961'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Watkins
+  nameClub1: Lubbock
+  Pos: SS
+  G: '12'
+  PO: '32'
+  A: '32'
+  E: '5'
+  DP: '0'
+  PCT: '.928'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Hobson
+  nameClub1: Big Spring
+  Pos: SS
+  G: '120'
+  PO: '206'
+  A: '381'
+  E: '60'
+  DP: '45'
+  PCT: '.911'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Spangler
+  nameClub1: Wink
+  Pos: SS
+  G: '11'
+  PO: '19'
+  A: '41'
+  E: '7'
+  DP: '1'
+  PCT: '.896'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Crockett
+  nameClub1: Wink
+  Pos: SS
+  G: '22'
+  PO: '25'
+  A: '54'
+  E: '10'
+  DP: '3'
+  PCT: '.888'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Gedzius
+  nameClub1: Lubbock
+  Pos: SS
+  G: '120'
+  PO: '218'
+  A: '307'
+  E: '68'
+  DP: '54'
+  PCT: '.885'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Adkins
+  nameClub1: Wink
+  Pos: SS
+  G: '37'
+  PO: '67'
+  A: '93'
+  E: '22'
+  DP: '13'
+  PCT: '.879'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Rey
+  nameClub1: Wink
+  Pos: SS
+  G: '9'
+  PO: '16'
+  A: '12'
+  E: '4'
+  DP: '0'
+  PCT: '.875'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Davis
+  nameClub1: Hobbs
+  Pos: SS
+  G: '118'
+  PO: '197'
+  A: '248'
+  E: '74'
+  DP: '49'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Allen
+  nameClub1: Wink
+  Pos: SS
+  G: '16'
+  PO: '30'
+  A: '42'
+  E: '13'
+  DP: '0'
+  PCT: '.847'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Battle
+  nameClub1: Midland
+  Pos: SS
+  G: '85'
+  PO: '143'
+  A: '187'
+  E: '46'
+  DP: '25'
+  PCT: '.843'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Zemek
+  nameClub1: Midland
+  Pos: SS
+  G: '13'
+  PO: '20'
+  A: '41'
+  E: '12'
+  DP: '3'
+  PCT: '.836'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Decker
+  nameClub1: Big Spring
+  Pos: SS
+  G: '5'
+  PO: '6'
+  A: '24'
+  E: '6'
+  DP: '0'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Watson
+  nameClub1: Clovis
+  Pos: SS
+  G: '41'
+  PO: '58'
+  A: '91'
+  E: '31'
+  DP: '6'
+  PCT: '.828'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Simpson
+  nameClub1: Wink
+  Pos: SS
+  G: '28'
+  PO: '25'
+  A: '56'
+  E: '18'
+  DP: '0'
+  PCT: '.818'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Donaldson
+  nameClub1: Hobbs
+  Pos: SS
+  G: '6'
+  PO: '12'
+  A: '15'
+  E: '6'
+  DP: '5'
+  PCT: '.818'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Nelson
+  nameClub1: Midland
+  Pos: SS
+  G: '11'
+  PO: '12'
+  A: '36'
+  E: '13'
+  DP: '3'
+  PCT: '.787'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Guinn
+  nameClub1: Midland
+  Pos: SS
+  G: '6'
+  PO: '6'
+  A: '8'
+  E: '4'
+  DP: '0'
+  PCT: '.778'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Raines
+  nameClub1: Wink
+  Pos: SS
+  G: '6'
+  PO: '8'
+  A: '8'
+  E: '8'
+  DP: '3'
+  PCT: '.667'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Quick
+  nameClub1: Wink
+  Pos: LF
+  G: '17'
+  PO: '18'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Miller
+  nameClub1: Lubbock
+  Pos: LF
+  G: '5'
+  PO: '7'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stuart
+  nameClub1: Clovis
+  Pos: LF
+  G: '6'
+  PO: '4'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ramsdell
+  nameClub1: Big Spring
+  Pos: LF
+  G: '5'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Greer
+  nameClub1: Big Spring
+  Pos: LF
+  G: '5'
+  PO: '5'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Morris
+  nameClub1: Midland
+  Pos: LF
+  G: '125'
+  PO: '217'
+  A: '10'
+  E: '11'
+  DP: '5'
+  PCT: '.979'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Reeves
+  nameClub1: Wink
+  Pos: LF
+  G: '88'
+  PO: '106'
+  A: '9'
+  E: '7'
+  DP: '1'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Saporito
+  nameClub1: Big Spring
+  Pos: LF
+  G: '99'
+  PO: '165'
+  A: '12'
+  E: '14'
+  DP: '4'
+  PCT: '.926'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Padgett
+  nameClub1: Hobbs
+  Pos: LF
+  G: '95'
+  PO: '135'
+  A: '8'
+  E: '14'
+  DP: '1'
+  PCT: '.911'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: White
+  nameClub1: Hobbs
+  Pos: LF
+  G: '37'
+  PO: '57'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.910'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Boyce
+  nameClub1: Clovis
+  Pos: LF
+  G: '82'
+  PO: '113'
+  A: '7'
+  E: '12'
+  DP: '0'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Jacot
+  nameClub1: Wink
+  Pos: LF
+  G: '18'
+  PO: '32'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.897'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: LeMuiller
+  nameClub1: Wink
+  Pos: LF
+  G: '27'
+  PO: '34'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.882'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Carr
+  nameClub1: Lubbock
+  Pos: LF
+  G: '115'
+  PO: '196'
+  A: '14'
+  E: '27'
+  DP: '5'
+  PCT: '.881'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Hillin
+  nameClub1: Lubbock
+  Pos: LF
+  G: '25'
+  PO: '20'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Gore
+  nameClub1: Clovis
+  Pos: LF
+  G: '9'
+  PO: '11'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Tominski
+  nameClub1: Wink
+  Pos: LF
+  G: '9'
+  PO: '6'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Rey
+  nameClub1: Wink
+  Pos: LF
+  G: '5'
+  PO: '3'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Sherry
+  nameClub1: Lubbock
+  Pos: LF
+  G: '6'
+  PO: '5'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.714'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Robinson
+  nameClub1: Wink
+  Pos: CF
+  G: '8'
+  PO: '12'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ballinger
+  nameClub1: Midland
+  Pos: CF
+  G: '12'
+  PO: '19'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ramsdell
+  nameClub1: Big Spring
+  Pos: CF
+  G: '6'
+  PO: '12'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Greer
+  nameClub1: Big Spring
+  Pos: CF
+  G: '5'
+  PO: '8'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Sweet
+  nameClub1: Wink
+  Pos: CF
+  G: '31'
+  PO: '51'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.982'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Miller
+  nameClub1: Lubbock
+  Pos: CF
+  G: '16'
+  PO: '30'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Spangler
+  nameClub1: Wink
+  Pos: CF
+  G: '25'
+  PO: '85'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.968'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Haynes
+  nameClub1: Hobbs
+  Pos: CF
+  G: '17'
+  PO: '25'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Evans
+  nameClub1: Midland
+  Pos: CF
+  G: '23'
+  PO: '45'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: White
+  nameClub1: Hobbs
+  Pos: CF
+  G: '13'
+  PO: '22'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Watkins
+  nameClub1: Lubbock
+  Pos: CF
+  G: '111'
+  PO: '190'
+  A: '9'
+  E: '11'
+  DP: '1'
+  PCT: '.948'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Beers
+  nameClub1: Midland
+  Pos: CF
+  G: '12'
+  PO: '14'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Harkey
+  nameClub1: Big Spring
+  Pos: CF
+  G: '52'
+  PO: '92'
+  A: '7'
+  E: '8'
+  PCT: '.925'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Wyss
+  nameClub1: Clovis
+  Pos: CF
+  G: '123'
+  PO: '242'
+  A: '26'
+  E: '22'
+  DP: '3'
+  PCT: '.924'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Fullenwider
+  nameClub1: Wink
+  Pos: CF
+  G: '56'
+  PO: '122'
+  A: '5'
+  E: '11'
+  DP: '3'
+  PCT: '.920'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Smyly
+  nameClub1: Hobbs
+  Pos: CF
+  G: '81'
+  PO: '149'
+  A: '12'
+  E: '16'
+  DP: '2'
+  PCT: '.909'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stasey
+  nameClub1: Big Spring
+  Pos: CF
+  G: '25'
+  PO: '42'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.904'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Brown
+  nameFirst: R.
+  nameClub1: Wink
+  Pos: CF
+  G: '27'
+  PO: '41'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.882'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stone
+  nameClub1: Wink
+  Pos: CF
+  G: '17'
+  PO: '25'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.839'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Hillin
+  nameClub1: Lubbock
+  Pos: CF
+  G: '7'
+  PO: '8'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stone
+  nameClub1: Wink
+  Pos: RF
+  G: '23'
+  PO: '33'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Needham
+  nameClub1: Hobbs
+  Pos: RF
+  G: '9'
+  PO: '14'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Franklin
+  nameClub1: Midland
+  Pos: RF
+  G: '5'
+  PO: '2'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Gedzius
+  nameClub1: Lubbock
+  Pos: RF
+  G: '5'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Carr
+  nameClub1: Lubbock
+  Pos: RF
+  G: '6'
+  PO: '9'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Pitts
+  nameClub1: Clovis
+  Pos: RF
+  G: '7'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Greer
+  nameClub1: Big Spring
+  Pos: RF
+  G: '10'
+  PO: '8'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Donaldson
+  nameClub1: Hobbs
+  Pos: RF
+  G: '67'
+  PO: '92'
+  A: '9'
+  E: '3'
+  DP: '1'
+  PCT: '.971'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ratliff
+  nameClub1: Clovis
+  Pos: RF
+  G: '93'
+  PO: '183'
+  A: '27'
+  E: '9'
+  DP: '3'
+  PCT: '.970'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Hillin
+  nameClub1: Lubbock
+  Pos: RF
+  G: '77'
+  PO: '88'
+  A: '9'
+  E: '3'
+  DP: '1'
+  PCT: '.961'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Beers
+  nameClub1: Midland
+  Pos: RF
+  G: '20'
+  PO: '17'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stasey
+  nameClub1: Big Spring
+  Pos: RF
+  G: '14'
+  PO: '19'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Harlow
+  nameClub1: Big Spring
+  Pos: RF
+  G: '12'
+  PO: '14'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stuart
+  nameClub1: Clovis
+  Pos: RF
+  G: '20'
+  PO: '28'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.935'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ballinger
+  nameClub1: Midland
+  Pos: RF
+  G: '28'
+  PO: '45'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.922'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Monago
+  nameClub1: Wink
+  Pos: RF
+  G: '27'
+  PO: '35'
+  A: '6'
+  E: '4'
+  DP: '2'
+  PCT: '.918'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Bonk
+  nameClub1: Hobbs
+  Pos: RF
+  G: '43'
+  PO: '43'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.918'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Robinson
+  nameClub1: Wink
+  Pos: RF
+  G: '9'
+  PO: '8'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Cheeves
+  nameClub1: Wink
+  Pos: RF
+  G: '27'
+  PO: '60'
+  A: '14'
+  E: '7'
+  DP: '2'
+  PCT: '.914'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Riddle
+  nameClub1: Midland
+  Pos: RF
+  G: '21'
+  PO: '31'
+  A: '5'
+  E: '4'
+  DP: '2'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Nelson
+  nameClub1: Midland
+  Pos: RF
+  G: '24'
+  PO: '26'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Evans
+  nameClub1: Midland
+  Pos: RF
+  G: '13'
+  PO: '9'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Jacot
+  nameClub1: Wink
+  Pos: RF
+  G: '25'
+  PO: '25'
+  A: '5'
+  E: '5'
+  DP: '0'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ringer
+  nameClub1: Midland
+  Pos: RF
+  G: '6'
+  PO: '6'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Falls
+  nameClub1: Hobbs
+  Pos: RF
+  G: '9'
+  PO: '5'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ramsey
+  nameClub1: Wink
+  Pos: RF
+  G: '28'
+  PO: '27'
+  A: '3'
+  E: '5'
+  DP: '0'
+  PCT: '.857'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Hodges
+  nameClub1: Big Spring
+  Pos: RF
+  G: '10'
+  PO: '17'
+  A: '4'
+  E: '4'
+  DP: '2'
+  PCT: '.840'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Mize
+  nameClub1: Lubbock
+  Pos: RF
+  G: '32'
+  PO: '32'
+  A: '3'
+  E: '7'
+  DP: '0'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Brown
+  nameFirst: R.
+  nameClub1: Wink
+  Pos: RF
+  G: '10'
+  PO: '10'
+  A: '0'
+  E: '2'
+  DP: '2'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Rabe
+  nameClub1: Hobbs
+  Pos: RF
+  G: '5'
+  PO: '4'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Quigley
+  nameClub1: Big Spring
+  Pos: RF
+  G: '21'
+  PO: '21'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.793'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Gramly
+  nameClub1: Lubbock
+  Pos: RF
+  G: '5'
+  PO: '3'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Varrelman
+  nameClub1: Big Spring
+  Pos: C
+  G: '8'
+  PO: '29'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ratliff
+  nameClub1: Clovis
+  Pos: C
+  G: '29'
+  PO: '209'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.995'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Pepper
+  nameClub1: Hobbs
+  Pos: C
+  G: '12'
+  PO: '104'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.991'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Berndt
+  nameClub1: Big Spring
+  Pos: C
+  G: '114'
+  PO: '658'
+  A: '91'
+  E: '13'
+  DP: '8'
+  PCT: '.989'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Melito
+  nameClub1: Lubbock
+  Pos: C
+  G: '55'
+  PO: '403'
+  A: '41'
+  E: '6'
+  DP: '5'
+  PCT: '.987'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Bates
+  nameClub1: Wink
+  Pos: C
+  G: '114'
+  PO: '711'
+  A: '75'
+  E: '13'
+  DP: '0'
+  PCT: '.984'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Beers
+  nameClub1: Midland
+  Pos: C
+  G: '61'
+  PO: '483'
+  A: '70'
+  E: '10'
+  DP: '6'
+  PCT: '.982'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Miller
+  nameClub1: Lubbock
+  Pos: C
+  G: '98'
+  PO: '660'
+  A: '56'
+  E: '25'
+  DP: '3'
+  PCT: '.981'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Rabe
+  nameClub1: Hobbs
+  Pos: C
+  G: '105'
+  PO: '738'
+  A: '98'
+  E: '23'
+  DP: '4'
+  PCT: '.973'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Ballinger
+  nameClub1: Midland
+  Pos: C
+  G: '78'
+  PO: '477'
+  A: '33'
+  E: '17'
+  DP: '6'
+  PCT: '.968'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Stuart
+  nameClub1: Clovis
+  Pos: C
+  G: '83'
+  PO: '356'
+  A: '62'
+  E: '22'
+  DP: '6'
+  PCT: '.966'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Gagliardi
+  nameClub1: Clovis
+  Pos: C
+  G: '22'
+  PO: '88'
+  A: '20'
+  E: '4'
+  DP: '1'
+  PCT: '.964'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Tate
+  nameClub1: Wink
+  Pos: C
+  G: '6'
+  PO: '47'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.943'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Harlow
+  nameClub1: Big Spring
+  Pos: C
+  G: '9'
+  PO: '32'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PCT: '.933'
+- year: '1938'
+  nameLeague: West Texas-New Mexico League
+  nameLast: Williams
+  nameClub1: Big Spring
+  Pos: C
+  G: '7'
+  PO: '52'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.924'

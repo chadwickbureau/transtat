@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: International League
+  nameClub: Jersey City
+  phase: regular
+  W: '94'
+  L: '60'
+  T: '1'
+  PCT: '.610'
+  RANK: '1'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '93'
+  L: '60'
+  T: '2'
+  PCT: '.608'
+  RANK: '2'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '88'
+  L: '65'
+  T: '0'
+  PCT: '.575'
+  RANK: '3'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '77'
+  L: '75'
+  T: '2'
+  PCT: '.507'
+  RANK: '4'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '68'
+  L: '86'
+  T: '0'
+  PCT: '.442'
+  RANK: '5'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Newark
+  phase: regular
+  W: '65'
+  L: '89'
+  T: '1'
+  PCT: '.422'
+  RANK: '6'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: regular
+  W: '65'
+  L: '89'
+  T: '0'
+  PCT: '.422'
+  RANK: '6'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '64'
+  L: '90'
+  T: '0'
+  PCT: '.416'
+  RANK: '8'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Jersey City
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

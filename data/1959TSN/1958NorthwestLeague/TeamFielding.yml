@@ -1,0 +1,66 @@
+- year: '1958'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  G: '136'
+  DP: '107'
+  PB: '12'
+  PO: '3352'
+  A: '1398'
+  E: '189'
+  TP: '0'
+  PCT: '.962'
+- year: '1958'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  G: '136'
+  DP: '103'
+  PB: '9'
+  PO: '3379'
+  A: '1314'
+  E: '203'
+  TP: '0'
+  PCT: '.959'
+- year: '1958'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  G: '135'
+  DP: '90'
+  PB: '26'
+  PO: '3298'
+  A: '1287'
+  E: '197'
+  TP: '0'
+  PCT: '.959'
+- year: '1958'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  G: '135'
+  DP: '120'
+  PB: '48'
+  PO: '3288'
+  A: '1393'
+  E: '229'
+  TP: '0'
+  PCT: '.953'
+- year: '1958'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  G: '136'
+  DP: '114'
+  PB: '41'
+  PO: '3344'
+  A: '1315'
+  E: '247'
+  TP: '1'
+  PCT: '.950'
+- year: '1958'
+  nameLeague: Northwest League
+  nameClub: Salem
+  G: '136'
+  DP: '92'
+  PB: '28'
+  PO: '3336'
+  A: '1387'
+  E: '271'
+  TP: '0'
+  PCT: '.946'

@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Mexicali
+  G: '123'
+  DP: '97'
+  PB: '12'
+  PO: '3219'
+  A: '1217'
+  E: '237'
+  PCT: '.949'
+  TP: '1'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: San Bernardino
+  G: '122'
+  DP: '104'
+  PB: '30'
+  PO: '3151'
+  A: '1350'
+  E: '249'
+  PCT: '.948'
+  TP: '0'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Porterville
+  G: '123'
+  DP: '122'
+  PB: '32'
+  PO: '3211'
+  A: '1318'
+  E: '260'
+  PCT: '.946'
+  TP: '0'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: El Centro
+  G: '125'
+  DP: '101'
+  PB: '28'
+  PO: '3273'
+  A: '1304'
+  E: '281'
+  PCT: '.942'
+  TP: '0'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Riverside
+  G: '125'
+  DP: '109'
+  PB: '43'
+  PO: '3217'
+  A: '1305'
+  E: '307'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Las Vegas
+  G: '126'
+  DP: '95'
+  PB: '17'
+  PO: '3233'
+  A: '1153'
+  E: '311'
+  PCT: '.934'
+  TP: '0'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Reno
+  G: '121'
+  DP: '91'
+  PB: '49'
+  PO: '3102'
+  A: '1265'
+  E: '330'
+  PCT: '.930'
+  TP: '0'
+- year: '1949'
+  nameLeague: Sunset League
+  nameClub: Salinas/Tijuana
+  G: '110'
+  DP: '68'
+  PB: '32'
+  PO: '2863'
+  A: '1069'
+  E: '294'
+  PCT: '.930'
+  TP: '0'

@@ -1,0 +1,48 @@
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Hyacinthe
+  Quebec: '12'
+  St. Jean: '14'
+  Trois-Rivieres: '17'
+  Drummondville: '14'
+  Granby: '22'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  St. Hyacinthe: '14'
+  St. Jean: '14'
+  Trois-Rivieres: '17'
+  Drummondville: '16'
+  Granby: '17'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  St. Hyacinthe: '12'
+  Quebec: '11'
+  Trois-Rivieres: '14'
+  Drummondville: '14'
+  Granby: '12'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  St. Hyacinthe: '8'
+  Quebec: '9'
+  St. Jean: '12'
+  Drummondville: '14'
+  Granby: '16'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  St. Hyacinthe: '11'
+  Quebec: '10'
+  St. Jean: '12'
+  Trois-Rivieres: '12'
+  Granby: '12'
+- year: '1952'
+  nameLeague: Provincial League
+  nameClub: Granby
+  St. Hyacinthe: '4'
+  Quebec: '9'
+  St. Jean: '14'
+  Trois-Rivieres: '8'
+  Drummondville: '10'

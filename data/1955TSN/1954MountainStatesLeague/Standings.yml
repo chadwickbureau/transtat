@@ -1,0 +1,98 @@
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Middlesboro
+  phase: regular/first
+  W: '43'
+  L: '33'
+  T: '0'
+  PCT: '.566'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Harlan
+  phase: regular/first
+  W: '37'
+  L: '31'
+  T: '0'
+  PCT: '.544'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Morristown
+  phase: regular/first
+  W: '7'
+  L: '7'
+  T: '0'
+  PCT: '.500'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Kingsport
+  phase: regular/first
+  W: '37'
+  L: '38'
+  T: '0'
+  PCT: '.493'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Oak Ridge
+  phase: regular/first
+  W: '34'
+  L: '36'
+  T: '0'
+  PCT: '.486'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Lexington
+  phase: regular/first
+  W: '30'
+  L: '36'
+  T: '0'
+  PCT: '.455'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Maryville-Alcoa/Morristown
+  phase: regular/first
+  W: '29'
+  L: '36'
+  T: '0'
+  PCT: '.446'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Middlesboro
+  phase: regular/second
+  W: '5'
+  L: '1'
+  T: '0'
+  PCT: '.833'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Kingsport
+  phase: regular/second
+  W: '4'
+  L: '2'
+  T: '0'
+  PCT: '.667'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Harlan
+  phase: regular/second
+  W: '2'
+  L: '2'
+  T: '0'
+  PCT: '.500'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Mountain States League
+  nameClub: Oak Ridge
+  phase: regular/second
+  W: '1'
+  L: '7'
+  T: '0'
+  PCT: '.125'
+  RANK: '4'

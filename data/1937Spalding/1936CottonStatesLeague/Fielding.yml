@@ -1,0 +1,1482 @@
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: McGee
+  nameClub1: Clarksdale
+  Pos: 1B
+  G: '10'
+  PO: '92'
+  A: '5'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Williams
+  nameClub1: Greenville
+  Pos: 1B
+  G: '88'
+  PO: '731'
+  A: '37'
+  E: '6'
+  DP: '42'
+  PCT: '.992'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: O'Neill
+  nameFirst: J.
+  nameClub1: Jackson
+  Pos: 1B
+  G: '79'
+  PO: '606'
+  A: '25'
+  E: '7'
+  DP: '31'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Bickham
+  nameClub1: Helena
+  Pos: 1B
+  G: '25'
+  PO: '125'
+  A: '28'
+  E: '2'
+  DP: '16'
+  PCT: '.987'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Besse
+  nameClub1: Jackson
+  Pos: 1B
+  G: '19'
+  PO: '131'
+  A: '17'
+  E: '2'
+  DP: '10'
+  PCT: '.987'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Stroner
+  nameClub1: El Dorado
+  Pos: 1B
+  G: '134'
+  PO: '1068'
+  A: '69'
+  E: '21'
+  DP: '81'
+  PCT: '.982'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Robello
+  nameClub1: Pine Bluff
+  Pos: 1B
+  G: '21'
+  PO: '208'
+  A: '11'
+  E: '4'
+  DP: '19'
+  PCT: '.982'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Miller
+  nameClub1: Greenwood
+  Pos: 1B
+  G: '139'
+  PO: '1244'
+  A: '73'
+  E: '25'
+  DP: '84'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Puttman
+  nameClub1: Cleveland
+  Pos: 1B
+  G: '70'
+  PO: '717'
+  A: '23'
+  E: '15'
+  DP: '54'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Baker
+  nameClub1: Helena
+  Pos: 1B
+  G: '133'
+  PO: '868'
+  A: '73'
+  E: '20'
+  DP: '95'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Burgess
+  nameClub1: Clarksdale
+  Pos: 1B
+  G: '28'
+  PO: '259'
+  A: '9'
+  E: '6'
+  DP: '23'
+  PCT: '.978'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Bolton
+  nameFirst: G.
+  nameClub1: Greenville
+  nameClub2: Cleveland
+  Pos: 1B
+  G: '107'
+  PO: '879'
+  A: '52'
+  E: '23'
+  DP: '54'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Lacy
+  nameFirst: Guy
+  nameClub1: Jackson
+  Pos: 1B
+  G: '32'
+  PO: '184'
+  A: '18'
+  E: '5'
+  DP: '6'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Saviori
+  nameClub1: Pine Bluff
+  Pos: 1B
+  G: '132'
+  PO: '1124'
+  A: '51'
+  E: '31'
+  DP: '78'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Holliday
+  nameClub1: Jackson
+  Pos: 1B
+  G: '10'
+  PO: '66'
+  A: '2'
+  E: '2'
+  DP: '7'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Strohm
+  nameClub1: Clarksdale
+  nameClub2: Helena
+  Pos: 1B
+  G: '20'
+  PO: '176'
+  A: '7'
+  E: '6'
+  DP: '18'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Pintarell
+  nameClub1: Pine Bluff
+  Pos: 1B
+  G: '16'
+  PO: '135'
+  A: '20'
+  E: '6'
+  DP: '17'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Nagel
+  nameClub1: Clarksdale
+  Pos: 1B
+  G: '31'
+  PO: '252'
+  A: '26'
+  E: '13'
+  DP: '25'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Stefurak
+  nameClub1: Clarksdale
+  Pos: 1B
+  G: '29'
+  PO: '222'
+  A: '18'
+  E: '16'
+  DP: '17'
+  PCT: '.938'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Pintarell
+  nameClub1: Pine Bluff
+  Pos: 2B
+  G: '101'
+  PO: '310'
+  A: '301'
+  E: '23'
+  DP: '73'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Brazill
+  nameClub1: Greenwood
+  Pos: 2B
+  G: '138'
+  PO: '294'
+  A: '357'
+  E: '25'
+  DP: '67'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Roussarie
+  nameClub1: Jackson
+  Pos: 2B
+  G: '101'
+  PO: '243'
+  A: '265'
+  E: '26'
+  DP: '35'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Walls
+  nameClub1: Clarksdale
+  Pos: 2B
+  G: '135'
+  PO: '363'
+  A: '360'
+  E: '39'
+  DP: '69'
+  PCT: '.949'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Lacy
+  nameFirst: Guy
+  nameClub1: Jackson
+  Pos: 2B
+  G: '19'
+  PO: '23'
+  A: '33'
+  E: '3'
+  DP: '9'
+  PCT: '.949'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Kahle
+  nameClub1: Greenville
+  Pos: 2B
+  G: '52'
+  PO: '134'
+  A: '140'
+  E: '15'
+  DP: '21'
+  PCT: '.948'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Vitter
+  nameClub1: Cleveland
+  Pos: 2B
+  G: '135'
+  PO: '331'
+  A: '360'
+  E: '42'
+  DP: '32'
+  PCT: '.943'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Sonnier
+  nameClub1: Greenville
+  Pos: 2B
+  G: '47'
+  PO: '132'
+  A: '144'
+  E: '19'
+  DP: '23'
+  PCT: '.936'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Fairley
+  nameClub1: Helena
+  Pos: 2B
+  G: '104'
+  PO: '278'
+  A: '293'
+  E: '41'
+  DP: '66'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Sikes
+  nameClub1: Greenville
+  Pos: 2B
+  G: '30'
+  PO: '64'
+  A: '60'
+  E: '9'
+  DP: '9'
+  PCT: '.932'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Geer
+  nameClub1: El Dorado
+  Pos: 2B
+  G: '140'
+  PO: '375'
+  A: '351'
+  E: '55'
+  DP: '62'
+  PCT: '.930'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Robello
+  nameClub1: Pine Bluff
+  Pos: 2B
+  G: '36'
+  PO: '82'
+  A: '123'
+  E: '16'
+  DP: '21'
+  PCT: '.928'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Signaigo
+  nameClub1: Helena
+  Pos: 2B
+  G: '31'
+  PO: '58'
+  A: '76'
+  E: '14'
+  DP: '9'
+  PCT: '.905'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Rushing
+  nameClub1: El Dorado
+  Pos: 3B
+  G: '137'
+  PO: '144'
+  A: '206'
+  E: '11'
+  DP: '21'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Copeland
+  nameClub1: Cleveland
+  Pos: 3B
+  G: '28'
+  PO: '40'
+  A: '62'
+  E: '6'
+  DP: '7'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Yazell
+  nameClub1: Pine Bluff
+  Pos: 3B
+  G: '138'
+  PO: '147'
+  A: '280'
+  E: '26'
+  DP: '20'
+  PCT: '.943'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Nagel
+  nameClub1: Clarksdale
+  Pos: 3B
+  G: '55'
+  PO: '61'
+  A: '63'
+  E: '9'
+  DP: '12'
+  PCT: '.932'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Nolen
+  nameClub1: Clarksdale
+  Pos: 3B
+  G: '76'
+  PO: '94'
+  A: '159'
+  E: '19'
+  DP: '17'
+  PCT: '.930'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Bobo
+  nameClub1: Jackson
+  Pos: 3B
+  G: '138'
+  PO: '182'
+  A: '247'
+  E: '38'
+  DP: '19'
+  PCT: '.919'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Strohm
+  nameClub1: Clarksdale
+  nameClub2: Helena
+  Pos: 3B
+  G: '53'
+  PO: '77'
+  A: '85'
+  E: '15'
+  DP: '9'
+  PCT: '.915'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Kuk
+  nameClub1: Greenwood
+  Pos: 3B
+  G: '25'
+  PO: '41'
+  A: '78'
+  E: '12'
+  DP: '11'
+  PCT: '.908'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Sonnier
+  nameClub1: Greenville
+  Pos: 3B
+  G: '24'
+  PO: '43'
+  A: '75'
+  E: '12'
+  DP: '5'
+  PCT: '.908'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Kahle
+  nameClub1: Greenville
+  Pos: 3B
+  G: '41'
+  PO: '45'
+  A: '78'
+  E: '13'
+  DP: '6'
+  PCT: '.904'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Ostenberg
+  nameClub1: Helena
+  Pos: 3B
+  G: '140'
+  PO: '161'
+  A: '236'
+  E: '43'
+  DP: '15'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Ligon
+  nameClub1: Greenville
+  Pos: 3B
+  G: '50'
+  PO: '42'
+  A: '71'
+  E: '14'
+  DP: '3'
+  PCT: '.890'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Moss
+  nameClub1: Greenwood
+  Pos: 3B
+  G: '110'
+  PO: '125'
+  A: '197'
+  E: '46'
+  DP: '15'
+  PCT: '.875'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Franey
+  nameClub1: Greenville
+  Pos: 3B
+  G: '17'
+  PO: '14'
+  A: '17'
+  E: '5'
+  DP: '3'
+  PCT: '.861'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Rodgers
+  nameClub1: Clarksdale
+  Pos: 3B
+  G: '66'
+  PO: '71'
+  A: '101'
+  E: '30'
+  DP: '8'
+  PCT: '.851'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Davis
+  nameClub1: Cleveland
+  Pos: 3B
+  G: '11'
+  PO: '11'
+  A: '16'
+  E: '7'
+  DP: '1'
+  PCT: '.794'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Masucci
+  nameClub1: El Dorado
+  Pos: SS
+  G: '73'
+  PO: '116'
+  A: '168'
+  E: '16'
+  DP: '29'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Borom
+  nameClub1: Cleveland
+  Pos: SS
+  G: '102'
+  PO: '185'
+  A: '290'
+  E: '35'
+  DP: '45'
+  PCT: '.931'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Adair
+  nameClub1: Jackson
+  Pos: SS
+  G: '124'
+  PO: '260'
+  A: '310'
+  E: '42'
+  DP: '51'
+  PCT: '.931'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Black
+  nameClub1: Greenwood
+  Pos: SS
+  G: '87'
+  PO: '190'
+  A: '251'
+  E: '34'
+  DP: '37'
+  PCT: '.928'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Wiesler
+  nameClub1: Helena
+  Pos: SS
+  G: '142'
+  PO: '283'
+  A: '424'
+  E: '60'
+  DP: '77'
+  PCT: '.922'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Nagel
+  nameClub1: Clarksdale
+  Pos: SS
+  G: '28'
+  PO: '58'
+  A: '65'
+  E: '11'
+  DP: '9'
+  PCT: '.918'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Schultz
+  nameClub1: Greenwood
+  Pos: SS
+  G: '142'
+  PO: '257'
+  A: '363'
+  E: '59'
+  DP: '51'
+  PCT: '.913'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Chiozza
+  nameClub1: Greenwood
+  Pos: SS
+  G: '40'
+  PO: '70'
+  A: '104'
+  E: '17'
+  DP: '15'
+  PCT: '.911'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Vaughn
+  nameClub1: Jackson
+  nameClub2: Clarksdale
+  Pos: SS
+  G: '95'
+  PO: '155'
+  A: '269'
+  E: '44'
+  DP: '41'
+  PCT: '.906'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Pintarell
+  nameClub1: Pine Bluff
+  Pos: SS
+  G: '25'
+  PO: '44'
+  A: '94'
+  E: '15'
+  DP: '19'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Welch
+  nameClub1: El Dorado
+  Pos: SS
+  G: '66'
+  PO: '121'
+  A: '178'
+  E: '33'
+  DP: '32'
+  PCT: '.901'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Mabry
+  nameClub1: Pine Bluff
+  Pos: SS
+  G: '117'
+  PO: '186'
+  A: '393'
+  E: '66'
+  DP: '78'
+  PCT: '.898'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Meyers
+  nameClub1: Cleveland
+  Pos: SS
+  G: '37'
+  PO: '67'
+  A: '99'
+  E: '23'
+  DP: '20'
+  PCT: '.878'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Foth
+  nameClub1: Clarksdale
+  Pos: SS
+  G: '24'
+  PO: '31'
+  A: '63'
+  E: '15'
+  DP: '6'
+  PCT: '.862'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Williams
+  nameFirst: F.
+  nameClub1: Greenville
+  Pos: OF
+  G: '12'
+  PO: '24'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Anderson
+  nameClub1: Greenwood
+  Pos: OF
+  G: '22'
+  PO: '37'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Mihalic
+  nameClub1: Greenville
+  Pos: OF
+  G: '19'
+  PO: '25'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Williams
+  nameClub1: Greenville
+  Pos: OF
+  G: '15'
+  PO: '24'
+  A: '3'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Brown
+  nameFirst: R.
+  nameClub1: Greenville
+  Pos: OF
+  G: '31'
+  PO: '64'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Harper
+  nameFirst: F.
+  nameClub1: Helena
+  Pos: OF
+  G: '132'
+  PO: '304'
+  A: '31'
+  E: '5'
+  DP: '0'
+  PCT: '.985'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Mack
+  nameClub1: El Dorado
+  Pos: OF
+  G: '29'
+  PO: '62'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Carpenter
+  nameFirst: P.
+  nameClub1: Greenwood
+  Pos: OF
+  G: '137'
+  PO: '266'
+  A: '10'
+  E: '5'
+  DP: '1'
+  PCT: '.982'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Trent
+  nameFirst: C.
+  nameClub1: Jackson
+  Pos: OF
+  G: '36'
+  PO: '94'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: McElreath
+  nameClub1: Greenville
+  Pos: OF
+  G: '99'
+  PO: '253'
+  A: '8'
+  E: '6'
+  DP: '1'
+  PCT: '.978'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Kuk
+  nameFirst: S.
+  nameClub1: Greenwood
+  Pos: OF
+  G: '58'
+  PO: '120'
+  A: '9'
+  E: '3'
+  DP: '2'
+  PCT: '.977'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: O'Neil
+  nameFirst: J.
+  nameClub1: Jackson
+  Pos: OF
+  G: '36'
+  PO: '119'
+  A: '6'
+  E: '3'
+  DP: '2'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Beach
+  nameClub1: Jackson
+  Pos: OF
+  G: '21'
+  PO: '36'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Dean
+  nameClub1: Jackson
+  Pos: OF
+  G: '22'
+  PO: '35'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Parks
+  nameFirst: A.
+  nameClub1: Jackson
+  Pos: OF
+  G: '33'
+  PO: '74'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Greenwald
+  nameClub1: Clarksdale
+  nameClub2: Greenwood
+  Pos: OF
+  G: '126'
+  PO: '241'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Craft
+  nameFirst: H.
+  nameClub1: El Dorado
+  Pos: OF
+  G: '133'
+  PO: '318'
+  A: '25'
+  E: '10'
+  DP: '7'
+  PCT: '.972'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Hunt
+  nameClub1: El Dorado
+  Pos: OF
+  G: '110'
+  PO: '220'
+  A: '8'
+  E: '7'
+  DP: '2'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Riley
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '23'
+  PO: '54'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.967'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Stotts
+  nameClub1: Helena
+  Pos: OF
+  G: '121'
+  PO: '207'
+  A: '16'
+  E: '8'
+  DP: '2'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Rikard
+  nameFirst: C.
+  nameClub1: Cleveland
+  Pos: OF
+  G: '141'
+  PO: '231'
+  A: '16'
+  E: '9'
+  DP: '2'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Myers
+  nameFirst: F.
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '23'
+  PO: '63'
+  A: '11'
+  E: '3'
+  DP: '0'
+  PCT: '.961'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameFirst: L. L.
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '139'
+  PO: '185'
+  A: '13'
+  E: '8'
+  DP: '2'
+  PCT: '.961'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Haynes
+  nameClub1: Greenville
+  nameClub2: Clarksdale
+  Pos: OF
+  G: '131'
+  PO: '223'
+  A: '8'
+  E: '10'
+  DP: '6'
+  PCT: '.959'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Wilson
+  nameClub1: Clarksdale
+  Pos: OF
+  G: '25'
+  PO: '44'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Horn
+  nameFirst: L.
+  nameClub1: Greenwood
+  Pos: OF
+  G: '137'
+  PO: '259'
+  A: '13'
+  E: '12'
+  DP: '5'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Bray
+  nameClub1: Jackson
+  Pos: OF
+  G: '10'
+  PO: '18'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Hutson
+  nameFirst: D.
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '132'
+  PO: '252'
+  A: '15'
+  E: '14'
+  DP: '2'
+  PCT: '.954'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Holliday
+  nameFirst: H.
+  nameClub1: Jackson
+  Pos: OF
+  G: '44'
+  PO: '98'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.954'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Escobar
+  nameClub1: El Dorado
+  Pos: OF
+  G: '139'
+  PO: '238'
+  A: '16'
+  E: '13'
+  DP: '4'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Robello
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '56'
+  PO: '68'
+  A: '4'
+  E: '4'
+  DP: '2'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Harper
+  nameFirst: G. W.
+  nameClub1: Jackson
+  Pos: OF
+  G: '67'
+  PO: '130'
+  A: '8'
+  E: '8'
+  DP: '2'
+  PCT: '.945'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Hancock
+  nameClub1: Jackson
+  nameClub2: Clarksdale
+  Pos: OF
+  G: '14'
+  PO: '16'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Strohm
+  nameClub1: Clarksdale
+  nameClub2: Helena
+  Pos: OF
+  G: '42'
+  PO: '64'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.943'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Long
+  nameClub1: Greenville
+  Pos: OF
+  G: '42'
+  PO: '72'
+  A: '5'
+  E: '5'
+  DP: '1'
+  PCT: '.939'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Bolton
+  nameFirst: S.
+  nameClub1: Cleveland
+  nameClub2: Clarksdale
+  Pos: OF
+  G: '134'
+  PO: '296'
+  A: '11'
+  E: '20'
+  DP: '7'
+  PCT: '.939'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: McDaniel
+  nameClub1: Greenville
+  nameClub2: Jackson
+  Pos: OF
+  G: '99'
+  PO: '152'
+  A: '14'
+  E: '11'
+  DP: '2'
+  PCT: '.938'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Greek
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '15'
+  PO: '13'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Hancock
+  nameFirst: S.
+  nameClub1: Clarksdale
+  Pos: OF
+  G: '120'
+  PO: '268'
+  A: '14'
+  E: '20'
+  DP: '0'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Sutherlin
+  nameClub1: Clarksdale
+  Pos: OF
+  G: '46'
+  PO: '63'
+  A: '5'
+  E: '5'
+  DP: '2'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Nelson
+  nameClub1: Greenville
+  Pos: OF
+  G: '60'
+  PO: '74'
+  A: '8'
+  E: '6'
+  DP: '1'
+  PCT: '.932'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Rhea
+  nameClub1: Helena
+  Pos: OF
+  G: '142'
+  PO: '256'
+  A: '18'
+  E: '21'
+  DP: '3'
+  PCT: '.929'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Harper
+  nameFirst: G. W.
+  nameClub1: Jackson
+  Pos: OF
+  G: '25'
+  PO: '35'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.929'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Sutherlin
+  nameClub1: Clarksdale
+  Pos: OF
+  G: '81'
+  PO: '160'
+  A: '12'
+  E: '14'
+  DP: '3'
+  PCT: '.925'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Bunyard
+  nameClub1: Cleveland
+  Pos: OF
+  G: '34'
+  PO: '60'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.924'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Kelly
+  nameClub1: Clarksdale
+  Pos: OF
+  G: '22'
+  PO: '40'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.915'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Oliver
+  nameClub1: Pine Bluff
+  Pos: OF
+  G: '42'
+  PO: '73'
+  A: '8'
+  E: '8'
+  DP: '2'
+  PCT: '.910'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Jones
+  nameFirst: L. B.
+  nameClub1: Clarksdale
+  Pos: OF
+  G: '20'
+  PO: '33'
+  A: '5'
+  E: '4'
+  DP: '0'
+  PCT: '.905'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Williams
+  nameClub1: Greenville
+  Pos: OF
+  G: '21'
+  PO: '28'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.903'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Long
+  nameClub1: Greenville
+  Pos: OF
+  G: '74'
+  PO: '87'
+  A: '4'
+  E: '10'
+  DP: '0'
+  PCT: '.901'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Ligon
+  nameClub1: Greenville
+  Pos: OF
+  G: '16'
+  PO: '34'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Kelly
+  nameFirst: E.
+  nameClub1: Clarksdale
+  Pos: OF
+  G: '16'
+  PO: '26'
+  A: '6'
+  E: '6'
+  DP: '1'
+  PCT: '.868'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Harris
+  nameClub1: Greenville
+  Pos: OF
+  G: '21'
+  PO: '23'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.857'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Greek
+  nameFirst: W.
+  nameClub1: Pine Bluff
+  Pos: C
+  G: '11'
+  PO: '26'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Anderson
+  nameFirst: C.
+  nameClub1: Greenwood
+  Pos: C
+  G: '88'
+  PO: '328'
+  A: '66'
+  E: '4'
+  DP: '9'
+  PB: '5'
+  PCT: '.990'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Powers
+  nameFirst: O.
+  nameClub1: Greenville
+  Pos: C
+  G: '137'
+  PO: '748'
+  A: '113'
+  E: '12'
+  DP: '12'
+  PB: '3'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Chozen
+  nameFirst: H.
+  nameClub1: El Dorado
+  Pos: C
+  G: '139'
+  PO: '811'
+  A: '87'
+  E: '18'
+  DP: '19'
+  PB: '4'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Whitney
+  nameFirst: R.
+  nameClub1: Helena
+  Pos: C
+  G: '104'
+  PO: '448'
+  A: '60'
+  E: '10'
+  DP: '8'
+  PB: '3'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Simmons
+  nameFirst: J.
+  nameClub1: Pine Bluff
+  Pos: C
+  G: '120'
+  PO: '570'
+  A: '98'
+  E: '18'
+  DP: '13'
+  PB: '7'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: O'Neil
+  nameFirst: G.
+  nameClub1: Jackson
+  Pos: C
+  G: '137'
+  PO: '339'
+  A: '103'
+  E: '12'
+  DP: '11'
+  PB: '11'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Duay
+  nameFirst: T.
+  nameClub1: Greenwood
+  Pos: C
+  G: '91'
+  PO: '350'
+  A: '50'
+  E: '10'
+  DP: '7'
+  PB: '10'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Hayes
+  nameFirst: A.
+  nameClub1: Clarksdale
+  Pos: C
+  G: '24'
+  PO: '66'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PB: '4'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Davis
+  nameFirst: D.
+  nameClub1: Cleveland
+  Pos: C
+  G: '74'
+  PO: '245'
+  A: '57'
+  E: '10'
+  DP: '6'
+  PB: '1'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Lacy
+  nameFirst: George
+  nameClub1: Cleveland
+  Pos: C
+  G: '43'
+  PO: '180'
+  A: '26'
+  E: '7'
+  DP: '3'
+  PB: '6'
+  PCT: '.967'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Griswold
+  nameFirst: H.
+  nameClub1: Clarksdale
+  Pos: C
+  G: '127'
+  PO: '521'
+  A: '101'
+  E: '13'
+  DP: '12'
+  PB: '10'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Clawitter
+  nameFirst: T.
+  nameClub1: Helena
+  Pos: C
+  G: '35'
+  PO: '130'
+  A: '19'
+  E: '7'
+  DP: '1'
+  PB: '6'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Cotton States League
+  nameLast: Copeland
+  nameFirst: H.
+  nameClub1: Cleveland
+  Pos: C
+  G: '61'
+  PO: '138'
+  A: '18'
+  E: '11'
+  DP: '8'
+  PB: '1'
+  PCT: '.934'

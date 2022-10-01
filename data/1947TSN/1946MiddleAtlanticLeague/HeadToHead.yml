@@ -1,0 +1,48 @@
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  Butler: '16'
+  Youngstown: '14'
+  Niagara Falls: '20'
+  Johnstown: '17'
+  Oil City: '24'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  Erie: '10'
+  Youngstown: '18'
+  Niagara Falls: '12'
+  Johnstown: '18'
+  Oil City: '20'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  Erie: '12'
+  Butler: '8'
+  Niagara Falls: '16'
+  Johnstown: '17'
+  Oil City: '14'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Niagara Falls
+  Erie: '6'
+  Butler: '14'
+  Youngstown: '10'
+  Johnstown: '16'
+  Oil City: '18'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  Erie: '9'
+  Butler: '8'
+  Youngstown: '8'
+  Niagara Falls: '10'
+  Oil City: '14'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  Erie: '2'
+  Butler: '6'
+  Youngstown: '12'
+  Niagara Falls: '8'
+  Johnstown: '12'

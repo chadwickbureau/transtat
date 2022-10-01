@@ -1,0 +1,94 @@
+- year: '1946'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '78'
+  L: '52'
+  PCT: '.600'
+  RANK: '1'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: regular
+  W: '74'
+  L: '56'
+  PCT: '.569'
+  RANK: '2'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '72'
+  L: '58'
+  PCT: '.534'
+  RANK: '3'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '69'
+  L: '61'
+  PCT: '.531'
+  RANK: '4'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '58'
+  L: '72'
+  PCT: '.446'
+  RANK: '5'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '39'
+  L: '91'
+  PCT: '.300'
+  RANK: '6'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,64 @@
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  W: '107'
+  L: '61'
+  T: '0'
+  PCT: '.637'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  W: '91'
+  L: '77'
+  T: '0'
+  PCT: '.542'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  W: '86'
+  L: '82'
+  T: '0'
+  PCT: '.512'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  W: '85'
+  L: '83'
+  T: '0'
+  PCT: '.506'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  W: '84'
+  L: '84'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  W: '77'
+  L: '88'
+  T: '1'
+  PCT: '.467'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  W: '72'
+  L: '96'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Pacific Coast League
+  nameClub: Vancouver
+  W: '67'
+  L: '98'
+  T: '1'
+  PCT: '.406'
+  RANK: '8'

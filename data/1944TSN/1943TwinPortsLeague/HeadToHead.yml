@@ -1,0 +1,28 @@
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Superior
+  Duluth Marine Iron: '4'
+  Duluth Dukes: '3'
+  Duluth Heralds: '4'
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Duluth Marine Iron
+  Superior: '2'
+  Duluth Dukes: '4'
+  Duluth Heralds: '3'
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Duluth Dukes
+  Superior: '3'
+  Duluth Marine Iron: '3'
+  Duluth Heralds: '3'
+- year: '1943'
+  nameLeague: Twin Ports League
+  phase: regular
+  nameClub: Duluth Heralds
+  Superior: '2'
+  Duluth Marine Iron: '0'
+  Duluth Dukes: '3'

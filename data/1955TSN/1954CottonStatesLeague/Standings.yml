@@ -1,0 +1,100 @@
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: regular
+  W: '80'
+  L: '39'
+  T: '1'
+  PCT: '.672'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: regular
+  W: '79'
+  L: '39'
+  T: '1'
+  PCT: '.669'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Meridian
+  phase: regular
+  W: '62'
+  L: '56'
+  T: '0'
+  PCT: '.525'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Monroe
+  phase: regular
+  W: '53'
+  L: '67'
+  T: '0'
+  PCT: '.442'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  phase: regular
+  W: '47'
+  L: '71'
+  T: '1'
+  PCT: '.398'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: regular
+  W: '35'
+  L: '84'
+  T: '1'
+  PCT: '.294'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Monroe
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Meridian
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

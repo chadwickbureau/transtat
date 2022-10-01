@@ -1,0 +1,80 @@
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  Toledo: '7'
+  Louisville: '12'
+  St. Paul: '14'
+  Columbus: '13'
+  Indianapolis: '20'
+  Minneapolis: '17'
+  Kansas City: '19'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Toledo
+  Milwaukee: '15'
+  Louisville: '10'
+  St. Paul: '11'
+  Columbus: '12'
+  Indianapolis: '14'
+  Minneapolis: '16'
+  Kansas City: '17'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Louisville
+  Milwaukee: '10'
+  Toledo: '12'
+  St. Paul: '14'
+  Columbus: '9'
+  Indianapolis: '11'
+  Minneapolis: '14'
+  Kansas City: '15'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: St. Paul
+  Milwaukee: '8'
+  Toledo: '11'
+  Louisville: '6'
+  Columbus: '12'
+  Indianapolis: '16'
+  Minneapolis: '15'
+  Kansas City: '17'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Columbus
+  Milwaukee: '9'
+  Toledo: '10'
+  Louisville: '13'
+  St. Paul: '10'
+  Indianapolis: '17'
+  Minneapolis: '13'
+  Kansas City: '14'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  Milwaukee: '1'
+  Toledo: '8'
+  Louisville: '8'
+  St. Paul: '6'
+  Columbus: '5'
+  Minneapolis: '13'
+  Kansas City: '16'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  Milwaukee: '5'
+  Toledo: '5'
+  Louisville: '8'
+  St. Paul: '7'
+  Columbus: '8'
+  Indianapolis: '9'
+  Kansas City: '12'
+- year: '1944'
+  nameLeague: American Association
+  nameClub: Kansas City
+  Milwaukee: '3'
+  Toledo: '5'
+  Louisville: '6'
+  St. Paul: '4'
+  Columbus: '8'
+  Indianapolis: '6'
+  Minneapolis: '9'

@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: regular
+  W: '105'
+  L: '42'
+  T: '0'
+  PCT: '.714'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Tyler
+  phase: regular
+  W: '92'
+  L: '55'
+  T: '0'
+  PCT: '.626'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  phase: regular
+  W: '87'
+  L: '60'
+  T: '0'
+  PCT: '.592'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: regular
+  W: '79'
+  L: '67'
+  T: '0'
+  PCT: '.541'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Galveston
+  phase: regular
+  W: '73'
+  L: '73'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Bryan/Del Rio
+  phase: regular
+  W: '53'
+  L: '93'
+  T: '0'
+  PCT: '.363'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Harlingen
+  phase: regular
+  W: '53'
+  L: '94'
+  T: '0'
+  PCT: '.361'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Temple
+  phase: regular
+  W: '44'
+  L: '102'
+  T: '0'
+  PCT: '.301'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Austin
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Tyler
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Waco
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,66 @@
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Charlotte
+  G: '146'
+  DP: '129'
+  PB: '20'
+  PO: '3801'
+  A: '1453'
+  E: '215'
+  PCT: '.961'
+  TP: '0'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  G: '150'
+  DP: '126'
+  PB: '16'
+  PO: '3921'
+  A: '1573'
+  E: '251'
+  PCT: '.956'
+  TP: '1'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Gastonia
+  G: '148'
+  DP: '147'
+  PB: '21'
+  PO: '3859'
+  A: '1459'
+  E: '262'
+  PCT: '.953'
+  TP: '1'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  G: '149'
+  DP: '117'
+  PB: '18'
+  PO: '3818'
+  A: '1520'
+  E: '275'
+  PCT: '.951'
+  TP: '0'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  G: '150'
+  DP: '141'
+  PB: '16'
+  PO: '3898'
+  A: '1735'
+  E: '309'
+  PCT: '.948'
+  TP: '0'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  G: '149'
+  DP: '120'
+  PB: '13'
+  PO: '3775'
+  A: '1525'
+  E: '302'
+  PCT: '.946'
+  TP: '1'

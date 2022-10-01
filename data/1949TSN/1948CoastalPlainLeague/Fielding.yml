@@ -1,0 +1,2556 @@
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Carpenter
+  nameClub1: Wilson
+  Pos: 1B
+  G: '41'
+  PO: '356'
+  A: '19'
+  E: '2'
+  DP: '32'
+  PCT: '.995'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Soufas
+  nameClub1: New Bern
+  Pos: 1B
+  G: '92'
+  PO: '819'
+  A: '39'
+  E: '6'
+  DP: '78'
+  PCT: '.993'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Williams
+  nameFirst: F.
+  nameClub1: Kinston
+  nameClub2: Rocky Mount
+  Pos: 1B
+  G: '74'
+  PO: '636'
+  A: '60'
+  E: '7'
+  DP: '61'
+  PCT: '.990'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Latshaw
+  nameClub1: Wilson
+  throws: L
+  Pos: 1B
+  G: '44'
+  PO: '376'
+  A: '21'
+  E: '4'
+  DP: '48'
+  PCT: '.990'
+  TP: '2'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Turk
+  nameClub1: Kinston
+  Pos: 1B
+  G: '12'
+  PO: '89'
+  A: '8'
+  E: '1'
+  DP: '13'
+  PCT: '.990'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Havird
+  nameClub1: New Bern
+  Pos: 1B
+  G: '41'
+  PO: '328'
+  A: '20'
+  E: '4'
+  DP: '43'
+  PCT: '.989'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Tyson
+  nameClub1: Rocky Mount
+  throws: L
+  Pos: 1B
+  G: '123'
+  PO: '1112'
+  A: '77'
+  E: '16'
+  DP: '79'
+  PCT: '.987'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: King
+  nameClub1: Roanoke Rapids
+  throws: L
+  Pos: 1B
+  G: '11'
+  PO: '139'
+  A: '2'
+  E: '2'
+  DP: '10'
+  PCT: '.986'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Dickens
+  nameClub1: Wilson
+  Pos: 1B
+  G: '17'
+  PO: '132'
+  A: '6'
+  E: '2'
+  DP: '18'
+  PCT: '.986'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Deaton
+  nameClub1: Kinston
+  throws: L
+  Pos: 1B
+  G: '75'
+  PO: '690'
+  A: '43'
+  E: '11'
+  DP: '69'
+  PCT: '.985'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Gonzalez
+  nameClub1: Roanoke Rapids
+  throws: L
+  Pos: 1B
+  G: '126'
+  PO: '1116'
+  A: '51'
+  E: '20'
+  DP: '93'
+  PCT: '.983'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Sposa
+  nameClub1: Wilson
+  nameClub2: Greenville
+  throws: L
+  Pos: 1B
+  G: '131'
+  PO: '1169'
+  A: '49'
+  E: '28'
+  DP: '109'
+  PCT: '.978'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Hussey
+  nameClub1: Goldsboro
+  Pos: 1B
+  G: '125'
+  PO: '1009'
+  A: '63'
+  E: '24'
+  DP: '81'
+  PCT: '.978'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Daniel
+  nameClub1: Tarboro
+  throws: L
+  Pos: 1B
+  G: '111'
+  PO: '938'
+  A: '64'
+  E: '24'
+  DP: '98'
+  PCT: '.977'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Caldwell
+  nameClub1: Tarboro
+  Pos: 1B
+  G: '10'
+  PO: '75'
+  A: '6'
+  E: '2'
+  DP: '9'
+  PCT: '.976'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Ramos
+  nameClub1: Greenville
+  Pos: 1B
+  G: '22'
+  PO: '168'
+  A: '3'
+  E: '5'
+  DP: '16'
+  PCT: '.972'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Neville
+  nameClub1: Tarboro
+  throws: L
+  Pos: 1B
+  G: '21'
+  PO: '164'
+  A: '10'
+  E: '7'
+  DP: '20'
+  PCT: '.961'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Salyer
+  nameClub1: Goldsboro
+  Pos: 2B
+  G: '18'
+  PO: '40'
+  A: '49'
+  E: '2'
+  DP: '12'
+  PCT: '.978'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Dickens
+  nameClub1: Wilson
+  Pos: 2B
+  G: '124'
+  PO: '342'
+  A: '369'
+  E: '20'
+  DP: '84'
+  PCT: '.973'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: St. Germaine
+  nameClub1: Tarboro
+  Pos: 2B
+  G: '34'
+  PO: '84'
+  A: '99'
+  E: '5'
+  DP: '15'
+  PCT: '.973'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Gay
+  nameClub1: Wilson
+  Pos: 2B
+  G: '12'
+  PO: '29'
+  A: '28'
+  E: '2'
+  DP: '6'
+  PCT: '.966'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Bengoechea
+  nameClub1: Goldsboro
+  Pos: 2B
+  G: '55'
+  PO: '121'
+  A: '156'
+  E: '10'
+  DP: '30'
+  PCT: '.965'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Sullivan
+  nameClub1: New Bern
+  Pos: 2B
+  G: '138'
+  PO: '374'
+  A: '410'
+  E: '37'
+  DP: '108'
+  PCT: '.955'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Webb
+  nameClub1: Rocky Mount
+  Pos: 2B
+  G: '52'
+  PO: '156'
+  A: '141'
+  E: '14'
+  DP: '32'
+  PCT: '.955'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Bolick
+  nameClub1: Roanoke Rapids
+  Pos: 2B
+  G: '118'
+  PO: '355'
+  A: '276'
+  E: '36'
+  DP: '73'
+  PCT: '.953'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Hammack
+  nameClub1: Roanoke Rapids
+  Pos: 2B
+  G: '19'
+  PO: '78'
+  A: '58'
+  E: '7'
+  DP: '14'
+  PCT: '.951'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Andrews
+  nameClub1: Tarboro
+  Pos: 2B
+  G: '83'
+  PO: '232'
+  A: '245'
+  E: '25'
+  DP: '42'
+  PCT: '.950'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Denson
+  nameClub1: Rocky Mount
+  Pos: 2B
+  G: '48'
+  PO: '146'
+  A: '130'
+  E: '15'
+  DP: '28'
+  PCT: '.948'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Maloney
+  nameClub1: Rocky Mount
+  Pos: 2B
+  G: '31'
+  PO: '101'
+  A: '100'
+  E: '11'
+  DP: '21'
+  PCT: '.948'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Collins
+  nameClub1: Kinston
+  Pos: 2B
+  G: '132'
+  PO: '416'
+  A: '422'
+  E: '49'
+  DP: '102'
+  PCT: '.945'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Carter
+  nameClub1: Greenville
+  Pos: 2B
+  G: '126'
+  PO: '352'
+  A: '337'
+  E: '41'
+  DP: '78'
+  PCT: '.944'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Mills
+  nameClub1: Goldsboro
+  Pos: 2B
+  G: '29'
+  PO: '58'
+  A: '77'
+  E: '8'
+  DP: '9'
+  PCT: '.944'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Caldwell
+  nameClub1: Tarboro
+  Pos: 2B
+  G: '31'
+  PO: '84'
+  A: '84'
+  E: '15'
+  DP: '23'
+  PCT: '.918'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Palmer
+  nameClub1: New Bern
+  Pos: 3B
+  G: '57'
+  PO: '69'
+  A: '118'
+  E: '10'
+  DP: '16'
+  PCT: '.949'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Peters
+  nameClub1: Kinston
+  Pos: 3B
+  G: '140'
+  PO: '151'
+  A: '309'
+  E: '26'
+  DP: '35'
+  PCT: '.947'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Martin
+  nameFirst: S.
+  nameClub1: Roanoke Rapids
+  Pos: 3B
+  G: '67'
+  PO: '47'
+  A: '138'
+  E: '12'
+  DP: '7'
+  PCT: '.969'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Sanner
+  nameClub1: Wilson
+  Pos: 3B
+  G: '136'
+  PO: '187'
+  A: '251'
+  E: '30'
+  DP: '35'
+  PCT: '.936'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Nessing
+  nameClub1: Greenville
+  nameClub2: Goldsboro
+  Pos: 3B
+  G: '115'
+  PO: '158'
+  A: '208'
+  E: '26'
+  DP: '22'
+  PCT: '.934'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Jefferson
+  nameClub1: Rocky Mount
+  Pos: 3B
+  G: '17'
+  PO: '17'
+  A: '34'
+  E: '4'
+  DP: '2'
+  PCT: '.927'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Andrews
+  nameClub1: Tarboro
+  Pos: 3B
+  G: '18'
+  PO: '28'
+  A: '44'
+  E: '6'
+  DP: '6'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Urban
+  nameClub1: Tarboro
+  Pos: 3B
+  G: '73'
+  PO: '172'
+  A: '176'
+  E: '22'
+  DP: '16'
+  PCT: '.919'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Smith
+  nameFirst: L.
+  nameClub1: Rocky Mount
+  Pos: 3B
+  G: '125'
+  PO: '120'
+  A: '253'
+  E: '34'
+  DP: '15'
+  PCT: '.916'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Blackwell
+  nameFirst: M.
+  nameClub1: Goldsboro
+  Pos: 3B
+  G: '110'
+  PO: '123'
+  A: '218'
+  E: '36'
+  DP: '16'
+  PCT: '.905'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Juliano
+  nameClub1: New Bern
+  Pos: 3B
+  G: '91'
+  PO: '100'
+  A: '143'
+  E: '26'
+  DP: '11'
+  PCT: '.903'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Nash
+  nameClub1: Greenville
+  Pos: 3B
+  G: '44'
+  PO: '72'
+  A: '99'
+  E: '21'
+  DP: '19'
+  PCT: '.891'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: May
+  nameClub1: Roanoke Rapids
+  Pos: 3B
+  G: '18'
+  PO: '19'
+  A: '38'
+  E: '7'
+  DP: '2'
+  PCT: '.891'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Bolick
+  nameClub1: Roanoke Rapids
+  Pos: 3B
+  G: '10'
+  PO: '11'
+  A: '27'
+  E: '5'
+  DP: '2'
+  PCT: '.884'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Meitzler
+  nameClub1: Roanoke Rapids
+  Pos: 3B
+  G: '14'
+  PO: '19'
+  A: '25'
+  E: '6'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Johnson
+  nameClub1: Tarboro
+  Pos: 3B
+  G: '51'
+  PO: '66'
+  A: '78'
+  E: '23'
+  DP: '10'
+  PCT: '.862'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Durkin
+  nameClub1: Roanoke Rapids
+  Pos: 3B
+  G: '11'
+  PO: '8'
+  A: '20'
+  E: '8'
+  DP: '1'
+  PCT: '.778'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Towns
+  nameClub1: Tarboro
+  Pos: SS
+  G: '31'
+  PO: '59'
+  A: '127'
+  E: '9'
+  DP: '20'
+  PCT: '.954'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Andrews
+  nameClub1: Tarboro
+  Pos: SS
+  G: '41'
+  PO: '76'
+  A: '127'
+  E: '11'
+  DP: '27'
+  PCT: '.949'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Rehm
+  nameClub1: Wilson
+  Pos: SS
+  G: '135'
+  PO: '291'
+  A: '346'
+  E: '42'
+  DP: '81'
+  PCT: '.938'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Wood
+  nameFirst: W.
+  nameClub1: Greenville
+  Pos: SS
+  G: '60'
+  PO: '124'
+  A: '176'
+  E: '20'
+  DP: '27'
+  PCT: '.938'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Sloboda
+  nameClub1: Goldsboro
+  Pos: SS
+  G: '58'
+  PO: '90'
+  A: '195'
+  E: '19'
+  DP: '33'
+  PCT: '.938'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Webb
+  nameClub1: Rocky Mount
+  Pos: SS
+  G: '87'
+  PO: '149'
+  A: '273'
+  E: '31'
+  DP: '38'
+  PCT: '.932'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Salyer
+  nameClub1: Goldsboro
+  Pos: SS
+  G: '27'
+  PO: '50'
+  A: '92'
+  E: '11'
+  DP: '15'
+  PCT: '.928'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Gay
+  nameClub1: Wilson
+  Pos: SS
+  G: '13'
+  PO: '30'
+  A: '33'
+  E: '5'
+  DP: '8'
+  PCT: '.926'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kolback
+  nameClub1: New Bern
+  Pos: SS
+  G: '74'
+  PO: '113'
+  A: '256'
+  E: '32'
+  DP: '51'
+  PCT: '.920'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Jackson
+  nameClub1: Goldsboro
+  Pos: SS
+  G: '10'
+  PO: '16'
+  A: '28'
+  E: '4'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Hammack
+  nameClub1: Roanoke Rapids
+  Pos: SS
+  G: '69'
+  PO: '150'
+  A: '212'
+  E: '33'
+  DP: '39'
+  PCT: '.916'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Lastres
+  nameClub1: Greenville
+  Pos: SS
+  G: '66'
+  PO: '104'
+  A: '242'
+  E: '32'
+  DP: '39'
+  PCT: '.915'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Tepedino
+  nameClub1: Kinston
+  Pos: SS
+  G: '137'
+  PO: '240'
+  A: '441'
+  E: '65'
+  DP: '74'
+  PCT: '.913'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Stalls
+  nameClub1: Roanoke Rapids
+  Pos: SS
+  G: '50'
+  PO: '104'
+  A: '148'
+  E: '24'
+  DP: '22'
+  PCT: '.913'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Palmer
+  nameClub1: New Bern
+  Pos: SS
+  G: '24'
+  PO: '52'
+  A: '84'
+  E: '14'
+  DP: '18'
+  PCT: '.907'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Carter
+  nameClub1: Greenville
+  Pos: SS
+  G: '11'
+  PO: '21'
+  A: '40'
+  E: '7'
+  DP: '6'
+  PCT: '.897'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Urban
+  nameClub1: Tarboro
+  Pos: SS
+  G: '52'
+  PO: '97'
+  A: '137'
+  E: '28'
+  DP: '24'
+  PCT: '.893'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Hobgood
+  nameClub1: New Bern
+  Pos: SS
+  G: '35'
+  PO: '63'
+  A: '98'
+  E: '20'
+  DP: '19'
+  PCT: '.890'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Denson
+  nameClub1: Rocky Mount
+  Pos: SS
+  G: '55'
+  PO: '85'
+  A: '182'
+  E: '36'
+  DP: '28'
+  PCT: '.881'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Smith
+  nameFirst: E.
+  nameClub1: Goldsboro
+  Pos: SS
+  G: '45'
+  PO: '69'
+  A: '114'
+  E: '27'
+  DP: '15'
+  PCT: '.871'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Majeski
+  nameClub1: Roanoke Rapids
+  Pos: SS
+  G: '22'
+  PO: '40'
+  A: '33'
+  E: '12'
+  DP: '12'
+  PCT: '.859'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: St. Germaine
+  nameClub1: Tarboro
+  Pos: SS
+  G: '22'
+  PO: '40'
+  A: '44'
+  E: '14'
+  DP: '9'
+  PCT: '.857'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Bernandini
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '10'
+  PO: '4'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Meyer
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '111'
+  PO: '181'
+  A: '17'
+  E: '3'
+  DP: '0'
+  PCT: '.985'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Komanecky
+  nameClub1: Tarboro
+  Pos: OF
+  G: '138'
+  PO: '308'
+  A: '13'
+  E: '7'
+  DP: '4'
+  PCT: '.979'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Caldwell
+  nameClub1: Tarboro
+  Pos: OF
+  G: '22'
+  PO: '41'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: May
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '88'
+  PO: '187'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.975'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Richkus
+  nameClub1: Kinston
+  Pos: OF
+  G: '71'
+  PO: '103'
+  A: '12'
+  E: '3'
+  DP: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Gay
+  nameClub1: Wilson
+  Pos: OF
+  G: '65'
+  PO: '147'
+  A: '8'
+  E: '4'
+  DP: '4'
+  PCT: '.975'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Schroeder
+  nameClub1: Goldsboro
+  throws: L
+  Pos: OF
+  G: '109'
+  PO: '242'
+  A: '7'
+  E: '7'
+  DP: '2'
+  PCT: '.973'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: McJunkin
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '120'
+  PO: '190'
+  A: '17'
+  E: '6'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Coleman
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '35'
+  PO: '98'
+  A: '5'
+  E: '3'
+  DP: '3'
+  PCT: '.972'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Moss
+  nameClub1: Wilson
+  Pos: OF
+  G: '113'
+  PO: '237'
+  A: '14'
+  E: '8'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Spaine
+  nameClub1: New Bern
+  Pos: OF
+  G: '34'
+  PO: '60'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Hanley
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '129'
+  PO: '341'
+  A: '20'
+  E: '12'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Mauney
+  nameClub1: Greenville
+  Pos: OF
+  G: '38'
+  PO: '105'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Blackwell
+  nameFirst: M.
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '24'
+  PO: '54'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Whitener
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '119'
+  PO: '226'
+  A: '18'
+  E: '9'
+  DP: '4'
+  PCT: '.964'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Richards
+  nameClub1: Tarboro
+  Pos: OF
+  G: '75'
+  PO: '146'
+  A: '8'
+  E: '6'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Abernathy
+  nameFirst: J.
+  nameClub1: New Bern
+  Pos: OF
+  G: '18'
+  PO: '24'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Zunno
+  nameClub1: New Bern
+  throws: L
+  Pos: OF
+  G: '69'
+  PO: '187'
+  A: '7'
+  E: '9'
+  DP: '1'
+  PCT: '.956'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Jeffries
+  nameClub1: Tarboro
+  nameClub2: Kinston
+  Pos: OF
+  G: '100'
+  PO: '264'
+  A: '10'
+  E: '13'
+  DP: '4'
+  PCT: '.955'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Winstead
+  nameClub1: Wilson
+  Pos: OF
+  G: '101'
+  PO: '256'
+  A: '17'
+  E: '13'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Stutts
+  nameClub1: New Bern
+  Pos: OF
+  G: '42'
+  PO: '136'
+  A: '2'
+  E: '7'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: McQuillen
+  nameClub1: Greenville
+  Pos: OF
+  G: '33'
+  PO: '57'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Martin
+  nameFirst: Q.
+  nameClub1: Rocky Mount
+  Pos: OF
+  G: '131'
+  PO: '205'
+  A: '8'
+  E: '11'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Gray
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '30'
+  PO: '74'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Turk
+  nameClub1: Kinston
+  Pos: OF
+  G: '119'
+  PO: '210'
+  A: '16'
+  E: '12'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Blackwell
+  nameFirst: V.
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '70'
+  PO: '127'
+  A: '5'
+  E: '7'
+  DP: '4'
+  PCT: '.950'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Bernal
+  nameClub1: Wilson
+  Pos: OF
+  G: '21'
+  PO: '54'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Phillips
+  nameClub1: Greenville
+  Pos: OF
+  G: '67'
+  PO: '157'
+  A: '11'
+  E: '9'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: King
+  nameClub1: Roanoke Rapids
+  throws: L
+  Pos: OF
+  G: '21'
+  PO: '34'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.949'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Soufas
+  nameClub1: New Bern
+  Pos: OF
+  G: '43'
+  PO: '96'
+  A: '9'
+  E: '6'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Andrus
+  nameClub1: Roanoke Rapids
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Fabianich
+  nameClub1: Kinston
+  Pos: OF
+  G: '117'
+  PO: '240'
+  A: '20'
+  E: '17'
+  DP: '6'
+  PCT: '.939'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Cohen
+  nameClub1: Greenville
+  throws: L
+  Pos: OF
+  G: '130'
+  PO: '227'
+  A: '14'
+  E: '17'
+  DP: '3'
+  PCT: '.934'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Nash
+  nameClub1: Greenville
+  Pos: OF
+  G: '73'
+  PO: '146'
+  A: '6'
+  E: '11'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Ramsey
+  nameClub1: Wilson
+  Pos: OF
+  G: '12'
+  PO: '14'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Beeson
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '41'
+  PO: '68'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Palmer
+  nameClub1: New Bern
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Ferra
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '70'
+  PO: '171'
+  A: '7'
+  E: '14'
+  DP: '3'
+  PCT: '.927'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Luszcynski
+  nameClub1: Tarboro
+  Pos: OF
+  G: '41'
+  PO: '68'
+  A: '6'
+  E: '6'
+  DP: '2'
+  PCT: '.925'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Cox
+  nameClub1: Tarboro
+  Pos: OF
+  G: '93'
+  PO: '162'
+  A: '7'
+  E: '14'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kee
+  nameClub1: Greenville
+  Pos: OF
+  G: '24'
+  PO: '34'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Markel
+  nameClub1: New Bern
+  Pos: OF
+  G: '20'
+  PO: '23'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Wolfe
+  nameClub1: Wilson
+  throws: L
+  Pos: OF
+  G: '94'
+  PO: '152'
+  A: '13'
+  E: '14'
+  DP: '4'
+  PCT: '.922'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Pasteris
+  nameClub1: Greenville
+  Pos: OF
+  G: '19'
+  PO: '34'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.921'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Cochran
+  nameClub1: Goldsboro
+  Pos: OF
+  G: '31'
+  PO: '77'
+  A: '4'
+  E: '7'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Ashley
+  nameClub1: Wilson
+  throws: L
+  Pos: OF
+  G: '11'
+  PO: '21'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Parker
+  nameClub1: Roanoke Rapids
+  Pos: OF
+  G: '19'
+  PO: '29'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Williams
+  nameFirst: E.
+  nameClub1: Kinston
+  nameClub2: Rocky Mount
+  Pos: OF
+  G: '62'
+  PO: '71'
+  A: '10'
+  E: '9'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Stott
+  nameClub1: New Bern
+  nameClub2: Greenville
+  Pos: OF
+  G: '68'
+  PO: '116'
+  A: '1'
+  E: '14'
+  DP: '0'
+  PCT: '.893'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Chute
+  nameClub1: Greenville
+  nameClub2: New Bern
+  Pos: OF
+  G: '82'
+  PO: '121'
+  A: '14'
+  E: '18'
+  DP: '3'
+  PCT: '.882'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Lee
+  nameClub1: Roanoke Rapids
+  throws: L
+  Pos: OF
+  G: '17'
+  PO: '21'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Tyson
+  nameClub1: Rocky Mount
+  throws: L
+  Pos: OF
+  G: '13'
+  PO: '14'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Santiago
+  nameClub1: New Bern
+  throws: L
+  Pos: OF
+  G: '34'
+  PO: '52'
+  A: '3'
+  E: '9'
+  DP: '0'
+  PCT: '.859'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Caldwell
+  nameClub1: Tarboro
+  Pos: C
+  G: '86'
+  PO: '397'
+  A: '48'
+  E: '7'
+  DP: '3'
+  PB: '7'
+  PCT: '.985'
+  TP: '1'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Marko
+  nameClub1: Tarboro
+  Pos: C
+  G: '61'
+  PO: '245'
+  A: '22'
+  E: '4'
+  DP: '4'
+  PB: '11'
+  PCT: '.985'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Fowler
+  nameClub1: Rocky Mount
+  Pos: C
+  G: '127'
+  PO: '745'
+  A: '63'
+  E: '13'
+  DP: '7'
+  PB: '21'
+  PCT: '.984'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Lee
+  nameClub1: New Bern
+  Pos: C
+  G: '10'
+  PO: '59'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PB: '3'
+  PCT: '.984'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Sweel
+  nameClub1: Greenville
+  Pos: C
+  G: '28'
+  PO: '154'
+  A: '20'
+  E: '3'
+  DP: '0'
+  PB: '8'
+  PCT: '.983'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Giordanengo
+  nameClub1: Goldsboro
+  Pos: C
+  G: '13'
+  PO: '48'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PB: '3'
+  PCT: '.981'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Riggs
+  nameClub1: Greenville
+  Pos: C
+  G: '89'
+  PO: '466'
+  A: '43'
+  E: '11'
+  DP: '4'
+  PB: '16'
+  PCT: '.979'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Ehlman
+  nameClub1: Wilson
+  Pos: C
+  G: '117'
+  PO: '479'
+  A: '64'
+  E: '13'
+  DP: '9'
+  PB: '13'
+  PCT: '.977'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: McKinney
+  nameClub1: New Bern
+  Pos: C
+  G: '24'
+  PO: '114'
+  A: '14'
+  E: '3'
+  DP: '1'
+  PB: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Brooks
+  nameClub1: New Bern
+  Pos: C
+  G: '93'
+  PO: '483'
+  A: '54'
+  E: '13'
+  DP: '3'
+  PB: '10'
+  PCT: '.976'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Moss
+  nameClub1: Wilson
+  Pos: C
+  G: '18'
+  PO: '68'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PB: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Jones
+  nameClub1: Goldsboro
+  Pos: C
+  G: '84'
+  PO: '534'
+  A: '52'
+  E: '17'
+  DP: '7'
+  PB: '12'
+  PCT: '.972'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Pavlich
+  nameClub1: Roanoke Rapids
+  Pos: C
+  G: '120'
+  PO: '478'
+  A: '59'
+  E: '17'
+  DP: '6'
+  PB: '5'
+  PCT: '.969'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Pliska
+  nameClub1: Kinston
+  Pos: C
+  G: '130'
+  PO: '697'
+  A: '104'
+  E: '32'
+  DP: '14'
+  PB: '14'
+  PCT: '.962'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Smith
+  nameFirst: H.
+  nameClub1: Goldsboro
+  Pos: C
+  G: '35'
+  PO: '163'
+  A: '12'
+  E: '8'
+  DP: '2'
+  PB: '5'
+  PCT: '.956'
+  TP: '0'
+  apparatus: club=Kinston; G=135
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Sheehan
+  nameClub1: New Bern
+  nameClub2: Roanoke Rapids
+  Pos: C
+  G: '43'
+  PO: '201'
+  A: '22'
+  E: '12'
+  DP: '5'
+  PB: '13'
+  PCT: '.949'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Irvin
+  nameClub1: Tarboro
+  nameClub2: Roanoke Rapids
+  Pos: C
+  G: '22'
+  PO: '60'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PB: '3'
+  PCT: '.940'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Bernandini
+  nameClub1: Rocky Mount
+  Pos: C
+  G: '18'
+  PO: '66'
+  A: '7'
+  E: '6'
+  DP: '1'
+  PB: '1'
+  PCT: '.924'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Mauney
+  nameClub1: Greenville
+  Pos: C
+  G: '11'
+  PO: '42'
+  A: '11'
+  E: '7'
+  DP: '2'
+  PB: '5'
+  PCT: '.883'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Yohn
+  nameClub1: Greenville
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '11'
+  A: '30'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Thompson
+  nameClub1: New Bern
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kramer
+  nameFirst: N.
+  nameClub1: Rocky Mount
+  nameClub2: New Bern
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Taylor
+  nameClub1: Roanoke Rapids
+  nameClub2: Kinston
+  Pos: P
+  G: '15'
+  PO: '6'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Peeler
+  nameClub1: Wilson
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Saladna
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Wilson
+  nameClub1: Wilson
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Harrison
+  nameClub1: Greenville
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Burnette
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Gudger
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '12'
+  PO: '8'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Alexander
+  nameClub1: Kinston
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '8'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Smith
+  nameClub1: Roanoke Rapids
+  nameClub2: Tarboro
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Russell
+  nameClub1: Tarboro
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '27'
+  E: '1'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Faircloth
+  nameClub1: Goldsboro
+  Pos: P
+  G: '39'
+  PO: '11'
+  A: '68'
+  E: '3'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Titus
+  nameClub1: Roanoke Rapids
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '19'
+  A: '56'
+  E: '3'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Herrington
+  nameClub1: Kinston
+  Pos: P
+  G: '19'
+  PO: '7'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Arroyo
+  nameClub1: Greenville
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '2'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kee
+  nameClub1: Greenville
+  Pos: P
+  G: '12'
+  PO: '5'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Simpson
+  nameClub1: Goldsboro
+  Pos: P
+  G: '30'
+  PO: '1'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kramer
+  nameFirst: B.
+  nameClub1: Wilson
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kunis
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Gaskins
+  nameClub1: New Bern
+  Pos: P
+  G: '41'
+  PO: '19'
+  A: '39'
+  E: '3'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Herring
+  nameClub1: Goldsboro
+  Pos: P
+  G: '38'
+  PO: '14'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Price
+  nameClub1: Tarboro
+  nameClub2: New Bern
+  Pos: P
+  G: '35'
+  PO: '18'
+  A: '38'
+  E: '3'
+  DP: '0'
+  PCT: '.949'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Baldwin
+  nameClub1: New Bern
+  Pos: P
+  G: '43'
+  PO: '18'
+  A: '53'
+  E: '4'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Sawyer
+  nameClub1: New Bern
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '30'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Pritchard
+  nameClub1: Roanoke Rapids
+  nameClub2: Tarboro
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '32'
+  E: '2'
+  DP: '2'
+  PCT: '.946'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Van Hoose
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Pittman
+  nameClub1: Wilson
+  Pos: P
+  G: '38'
+  PO: '7'
+  A: '43'
+  E: '3'
+  DP: '4'
+  PCT: '.943'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: See
+  nameClub1: Tarboro
+  Pos: P
+  G: '43'
+  PO: '17'
+  A: '48'
+  E: '4'
+  DP: '3'
+  PCT: '.942'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Cronin
+  nameClub1: Kinston
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '5'
+  A: '27'
+  E: '2'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Williams
+  nameClub1: Greenville
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Brown
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '36'
+  PO: '10'
+  A: '48'
+  E: '4'
+  DP: '4'
+  PCT: '.935'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Currin
+  nameClub1: Tarboro
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Whiteheart
+  nameClub1: Goldsboro
+  Pos: P
+  G: '40'
+  PO: '8'
+  A: '33'
+  E: '3'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kaires
+  nameClub1: Goldsboro
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '33'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Nordmeyer
+  nameClub1: Wilson
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '32'
+  E: '3'
+  DP: '3'
+  PCT: '.929'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Lefler
+  nameClub1: Wilson
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '32'
+  E: '3'
+  DP: '1'
+  PCT: '.927'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Benton
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '41'
+  PO: '11'
+  A: '62'
+  E: '6'
+  DP: '1'
+  PCT: '.924'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kimmel
+  nameClub1: Roanoke Rapids
+  nameClub2: Rocky Mount
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Polick
+  nameClub1: Goldsboro
+  nameClub2: Wilson
+  Pos: P
+  G: '37'
+  PO: '12'
+  A: '47'
+  E: '5'
+  DP: '4'
+  PCT: '.922'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Pawlowski
+  nameClub1: Kinston
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '15'
+  A: '32'
+  E: '4'
+  DP: '1'
+  PCT: '.922'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Helmer
+  nameClub1: Rocky Mount
+  throws: L
+  Pos: P
+  G: '46'
+  PO: '19'
+  A: '63'
+  E: '7'
+  DP: '0'
+  PCT: '.921'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Carlton
+  nameClub1: Roanoke Rapids
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '21'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Brooks
+  nameClub1: Greenville
+  Pos: P
+  G: '37'
+  PO: '5'
+  A: '25'
+  E: '3'
+  DP: '2'
+  PCT: '.909'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Neville
+  nameClub1: Tarboro
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '8'
+  A: '31'
+  E: '4'
+  DP: '2'
+  PCT: '.907'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Kovalchick
+  nameClub1: Greenville
+  Pos: P
+  G: '32'
+  PO: '12'
+  A: '34'
+  E: '5'
+  DP: '1'
+  PCT: '.902'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Motley
+  nameClub1: New Bern
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '32'
+  E: '4'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Hamons
+  nameClub1: Tarboro
+  Pos: P
+  G: '12'
+  PO: '5'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Dietrich
+  nameClub1: Tarboro
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '11'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Baston
+  nameClub1: Kinston
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Page
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Barton
+  nameClub1: Rocky Mount
+  Pos: P
+  G: '27'
+  PO: '4'
+  A: '18'
+  E: '3'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Porell
+  nameClub1: Kinston
+  Pos: P
+  G: '19'
+  PO: '9'
+  A: '19'
+  E: '4'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: O'Brien
+  nameClub1: Kinston
+  Pos: P
+  G: '14'
+  PO: '6'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Chitty
+  nameClub1: Greenville
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Tate
+  nameClub1: Greenville
+  Pos: P
+  G: '27'
+  PO: '3'
+  A: '29'
+  E: '5'
+  DP: '4'
+  PCT: '.865'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Robinson
+  nameClub1: Goldsboro
+  Pos: P
+  G: '17'
+  PO: '0'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: McLawhorn
+  nameClub1: Kinston
+  Pos: P
+  G: '28'
+  PO: '9'
+  A: '36'
+  E: '8'
+  DP: '4'
+  PCT: '.849'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: Causey
+  nameClub1: Kinston
+  nameClub2: Goldsboro
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '17'
+  E: '4'
+  DP: '4'
+  PCT: '.833'
+  TP: '0'
+- year: '1948'
+  nameLeague: Coastal Plain League
+  nameLast: King
+  nameClub1: Roanoke Rapids
+  throws: L
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '15'
+  E: '4'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'

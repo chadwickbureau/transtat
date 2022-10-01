@@ -1,0 +1,118 @@
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Perth-Cornwall
+  phase: regular
+  W: '69'
+  L: '37'
+  T: '2'
+  PCT: '.651'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Oswego
+  phase: regular
+  W: '67'
+  L: '40'
+  T: '1'
+  PCT: '.626'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville
+  phase: regular
+  W: '68'
+  L: '42'
+  T: '1'
+  PCT: '.618'
+  RANK: '3'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  phase: regular
+  W: '55'
+  L: '47'
+  T: '3'
+  PCT: '.539'
+  RANK: '4'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Smiths Falls
+  phase: regular
+  W: '57'
+  L: '49'
+  T: '0'
+  PCT: '.538'
+  RANK: '5'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  phase: regular
+  W: '40'
+  L: '59'
+  T: '3'
+  PCT: '.404'
+  RANK: '6'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Brockville
+  phase: regular
+  W: '30'
+  L: '69'
+  T: '1'
+  PCT: '.303'
+  RANK: '7'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Ottawa
+  phase: regular
+  W: '32'
+  L: '75'
+  T: '3'
+  PCT: '.299'
+  RANK: '8'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Perth-Cornwall
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Oswego
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

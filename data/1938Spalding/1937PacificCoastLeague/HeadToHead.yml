@@ -1,0 +1,80 @@
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  San Francisco: '17'
+  San Diego: '13'
+  Portland: '13'
+  Los Angeles: '12'
+  Seattle: '12'
+  Oakland: '17'
+  Mission: '18'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  Sacramento: '8'
+  San Diego: '13'
+  Portland: '12'
+  Los Angeles: '16'
+  Seattle: '16'
+  Oakland: '17'
+  Mission: '16'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  Sacramento: '12'
+  San Francisco: '10'
+  Portland: '17'
+  Los Angeles: '14'
+  Seattle: '16'
+  Oakland: '10'
+  Mission: '18'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  Sacramento: '14'
+  San Francisco: '12'
+  San Diego: '11'
+  Los Angeles: '9'
+  Seattle: '11'
+  Oakland: '17'
+  Mission: '16'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  Sacramento: '18'
+  San Francisco: '8'
+  San Diego: '13'
+  Portland: '13'
+  Seattle: '12'
+  Oakland: '15'
+  Mission: '11'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  Sacramento: '12'
+  San Francisco: '9'
+  San Diego: '10'
+  Portland: '11'
+  Los Angeles: '12'
+  Oakland: '13'
+  Mission: '14'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  Sacramento: '6'
+  San Francisco: '13'
+  San Diego: '11'
+  Portland: '6'
+  Los Angeles: '13'
+  Seattle: '18'
+  Mission: '12'
+- year: '1937'
+  nameLeague: Pacific Coast League
+  nameClub: Mission
+  Sacramento: '6'
+  San Francisco: '11'
+  San Diego: '10'
+  Portland: '14'
+  Los Angeles: '12'
+  Seattle: '11'
+  Oakland: '9'

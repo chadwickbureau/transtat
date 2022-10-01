@@ -1,0 +1,100 @@
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Hernandez
+  nameFirst: Rudy
+  nameClub: Escogido
+  IP: '45'
+  SO: '18'
+  W: '5'
+  L: '1'
+  ERA: '0.79'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Rehm
+  nameFirst: Vic
+  nameClub: Estrellas
+  IP: '135'
+  SO: '78'
+  W: '10'
+  L: '3'
+  ERA: '1.53'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Kipp
+  nameFirst: Fred
+  nameClub: Escogido
+  IP: '125'
+  SO: '82'
+  W: '11'
+  L: '3'
+  ERA: '1.58'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: O'Donnell
+  nameFirst: George
+  nameClub: Aguilas
+  IP: '55'
+  SO: '23'
+  W: '2'
+  L: '1'
+  ERA: '1.64'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Sackie
+  nameFirst: Jorge
+  nameClub: Escogido
+  IP: '55'
+  SO: '31'
+  W: '3'
+  L: '2'
+  ERA: '1.96'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: DuFour
+  nameFirst: Bill
+  nameClub: Aguilas
+  IP: '67'
+  SO: '42'
+  W: '6'
+  L: '2'
+  ERA: '2.01'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Williams
+  nameFirst: Stan
+  nameClub: Escogido
+  IP: '112'
+  SO: '90'
+  W: '6'
+  L: '9'
+  ERA: '2.33'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Smith
+  nameFirst: R. G.
+  nameClub: Aguilas
+  IP: '104'
+  SO: '63'
+  W: '6'
+  L: '8'
+  ERA: '2.60'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Kutyna
+  nameFirst: Marty
+  nameClub: Licey
+  IP: '104'
+  SO: '59'
+  W: '6'
+  L: '6'
+  ERA: '2.77'
+- year: '1957'
+  nameLeague: Dominican Winter League
+  nameLast: Willey
+  nameFirst: Carlton
+  nameClub: Estrellas
+  IP: '112'
+  SO: '76'
+  W: '4'
+  L: '8'
+  ERA: '3.00'

@@ -1,0 +1,44 @@
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee
+  G: '131'
+  PO: '3363'
+  A: '1458'
+  E: '262'
+  DP: '106'
+  PB: '52'
+  PCT: '.949'
+  TP: '0'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  G: '132'
+  PO: '3413'
+  A: '1415'
+  E: '294'
+  DP: '87'
+  PB: '37'
+  PCT: '.943'
+  TP: '1'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Albuquerque
+  G: '133'
+  PO: '3391'
+  A: '1522'
+  E: '337'
+  DP: '99'
+  PB: '40'
+  PCT: '.940'
+  TP: '0'
+- year: '1938'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  G: '130'
+  PO: '3318'
+  A: '1484'
+  E: '351'
+  DP: '110'
+  PB: '37'
+  PCT: '.932'
+  TP: '1'

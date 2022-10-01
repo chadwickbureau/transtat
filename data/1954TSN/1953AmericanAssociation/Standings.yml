@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '90'
+  L: '64'
+  T: '0'
+  PCT: '.584'
+  RANK: '1'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '88'
+  L: '66'
+  T: '0'
+  PCT: '.571'
+  RANK: '2'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '84'
+  L: '70'
+  T: '1'
+  PCT: '.545'
+  RANK: '3'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '82'
+  L: '72'
+  T: '1'
+  PCT: '.532'
+  RANK: '4'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '76'
+  L: '78'
+  T: '0'
+  PCT: '.494'
+  RANK: '5'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '72'
+  L: '82'
+  T: '1'
+  PCT: '.468'
+  RANK: '6'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '64'
+  L: '90'
+  T: '1'
+  PCT: '.416'
+  RANK: '7'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Charleston
+  phase: regular
+  W: '60'
+  L: '94'
+  T: '0'
+  PCT: '.390'
+  RANK: '8'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

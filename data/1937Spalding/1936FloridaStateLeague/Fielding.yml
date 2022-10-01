@@ -1,0 +1,833 @@
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Bolling
+  nameClub1: DeLand
+  Pos: 1B
+  G: '116'
+  PO: '1151'
+  A: '48'
+  E: '11'
+  PCT: '.991'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Andersen
+  nameClub1: Daytona Beach
+  Pos: 1B
+  G: '111'
+  PO: '1017'
+  A: '41'
+  E: '13'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: McCrone
+  nameClub1: Sanford
+  Pos: 1B
+  G: '41'
+  PO: '358'
+  A: '19'
+  E: '5'
+  PCT: '.987'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: McMullen
+  nameClub1: Gainesville
+  Pos: 1B
+  G: '73'
+  PO: '685'
+  A: '52'
+  E: '12'
+  PCT: '.984'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Zupanic
+  nameClub1: St. Augustine
+  Pos: 1B
+  G: '89'
+  PO: '842'
+  A: '35'
+  E: '17'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Smith
+  nameClub1: Gainesville
+  nameClub2: Palatka
+  Pos: 1B
+  G: '114'
+  PO: '1103'
+  A: '80'
+  E: '25'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameFirst: E.
+  nameClub1: Sanford
+  Pos: 1B
+  G: '40'
+  PO: '396'
+  A: '28'
+  E: '9'
+  PCT: '.979'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Boris
+  nameClub1: Palatka
+  nameClub2: Daytona Beach
+  nameClub3: Sanford
+  Pos: 1B
+  G: '47'
+  PO: '251'
+  A: '8'
+  E: '7'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Parker
+  nameClub1: St. Augustine
+  Pos: 1B
+  G: '21'
+  PO: '204'
+  A: '8'
+  E: '8'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: McNally
+  nameClub1: Palatka
+  nameClub2: Daytona Beach
+  nameClub3: Sanford
+  Pos: 1B
+  G: '43'
+  PO: '275'
+  A: '16'
+  E: '12'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Rocky
+  nameClub1: Palatka
+  Pos: 1B
+  G: '19'
+  PO: '154'
+  A: '3'
+  E: '8'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Baker
+  nameClub1: St. Augustine
+  Pos: 2B
+  G: '20'
+  PO: '49'
+  A: '68'
+  E: '1'
+  PCT: '.992'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Parks
+  nameClub1: St. Augustine
+  Pos: 2B
+  G: '14'
+  PO: '30'
+  A: '39'
+  E: '2'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Buck
+  nameClub1: Gainesville
+  Pos: 2B
+  G: '120'
+  PO: '375'
+  A: '312'
+  E: '24'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Letchas
+  nameClub1: St. Augustine
+  Pos: 2B
+  G: '13'
+  PO: '26'
+  A: '29'
+  E: '2'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Maltby
+  nameClub1: Sanford
+  Pos: 2B
+  G: '103'
+  PO: '278'
+  A: '303'
+  E: '29'
+  PCT: '.953'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Didrikson
+  nameClub1: DeLand
+  Pos: 2B
+  G: '109'
+  PO: '263'
+  A: '330'
+  E: '34'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Hosinski
+  nameClub1: Daytona Beach
+  Pos: 2B
+  G: '117'
+  PO: '323'
+  A: '322'
+  E: '38'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: McGowan
+  nameClub1: St. Augustine
+  Pos: 2B
+  G: '109'
+  PO: '227'
+  A: '281'
+  E: '39'
+  PCT: '.926'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Causier
+  nameClub1: Palatka
+  nameClub2: St. Augustine
+  Pos: 2B
+  G: '90'
+  PO: '164'
+  A: '254'
+  E: '41'
+  PCT: '.911'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Roberson
+  nameClub1: DeLand
+  Pos: 3B
+  G: '95'
+  PO: '137'
+  A: '184'
+  E: '24'
+  PCT: '.930'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameFirst: W.
+  nameClub1: St. Augustine
+  Pos: 3B
+  G: '21'
+  PO: '38'
+  A: '51'
+  E: '7'
+  PCT: '.927'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Guerra
+  nameClub1: Daytona Beach
+  nameClub2: Palatka
+  Pos: 3B
+  G: '101'
+  PO: '138'
+  A: '193'
+  E: '27'
+  PCT: '.924'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Cates
+  nameClub1: Sanford
+  Pos: 3B
+  G: '119'
+  PO: '205'
+  A: '300'
+  E: '42'
+  PCT: '.923'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Pitman
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '71'
+  PO: '107'
+  A: '181'
+  E: '26'
+  PCT: '.917'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Hines
+  nameClub1: Palatka
+  Pos: 3B
+  G: '31'
+  PO: '51'
+  A: '69'
+  E: '15'
+  PCT: '.888'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Deemon
+  nameClub1: Palatka
+  Pos: 3B
+  G: '17'
+  PO: '23'
+  A: '41'
+  E: '8'
+  PCT: '.888'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Dillingham
+  nameClub1: Daytona Beach
+  Pos: 3B
+  G: '102'
+  PO: '102'
+  A: '205'
+  E: '41'
+  PCT: '.882'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Kunes
+  nameClub1: St. Augustine
+  Pos: 3B
+  G: '21'
+  PO: '28'
+  A: '52'
+  E: '11'
+  PCT: '.879'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Ferrando
+  nameClub1: Gainesville
+  Pos: 3B
+  G: '22'
+  PO: '39'
+  A: '78'
+  E: '18'
+  PCT: '.867'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Crittenden
+  nameClub1: Palatka
+  Pos: 3B
+  G: '13'
+  PO: '18'
+  A: '40'
+  E: '15'
+  PCT: '.794'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Welch
+  nameClub1: DeLand
+  Pos: SS
+  G: '48'
+  PO: '90'
+  A: '146'
+  E: '15'
+  PCT: '.940'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Clary
+  nameClub1: Sanford
+  Pos: SS
+  G: '94'
+  PO: '189'
+  A: '287'
+  E: '38'
+  PCT: '.926'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Romano
+  nameClub1: Gainesville
+  Pos: SS
+  G: '31'
+  PO: '72'
+  A: '81'
+  E: '13'
+  PCT: '.922'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Bonner
+  nameClub1: Sanford
+  nameClub2: St. Augustine
+  Pos: SS
+  G: '90'
+  PO: '167'
+  A: '306'
+  E: '41'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameFirst: B.
+  nameClub1: Daytona Beach
+  Pos: SS
+  G: '97'
+  PO: '176'
+  A: '306'
+  E: '44'
+  PCT: '.916'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: MacFarlane
+  nameClub1: DeLand
+  Pos: SS
+  G: '74'
+  PO: '144'
+  A: '204'
+  E: '36'
+  PCT: '.906'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Bevell
+  nameClub1: Gainesville
+  Pos: SS
+  G: '78'
+  PO: '146'
+  A: '211'
+  E: '33'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Jumonville
+  nameClub1: DeLand
+  nameClub2: Palatka
+  Pos: SS
+  G: '80'
+  PO: '145'
+  A: '224'
+  E: '47'
+  PCT: '.887'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Adair
+  nameClub1: Gainesville
+  Pos: LF
+  G: '117'
+  PO: '231'
+  A: '10'
+  E: '7'
+  PCT: '.972'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Kinard
+  nameClub1: DeLand
+  nameClub2: St. Augustine
+  nameClub3: Palatka
+  Pos: LF
+  G: '105'
+  PO: '197'
+  A: '22'
+  E: '8'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Morton
+  nameClub1: Daytona Beach
+  Pos: LF
+  G: '117'
+  PO: '224'
+  A: '18'
+  E: '10'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Chiado
+  nameClub1: DeLand
+  Pos: LF
+  G: '28'
+  PO: '44'
+  A: '2'
+  E: '2'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Overstreet
+  nameClub1: DeLand
+  nameClub2: Sanford
+  Pos: LF
+  G: '99'
+  PO: '127'
+  A: '32'
+  E: '9'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Barnes
+  nameClub1: Sanford
+  Pos: LF
+  G: '46'
+  PO: '107'
+  A: '3'
+  E: '7'
+  PCT: '.940'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Gibson
+  nameClub1: St. Augustine
+  Pos: LF
+  G: '50'
+  PO: '85'
+  A: '6'
+  E: '7'
+  PCT: '.929'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Gallegos
+  nameClub1: DeLand
+  nameClub2: Palatka
+  Pos: LF
+  G: '52'
+  PO: '95'
+  A: '19'
+  E: '9'
+  PCT: '.927'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Whire
+  nameClub1: Palatka
+  Pos: LF
+  G: '86'
+  PO: '163'
+  A: '16'
+  E: '12'
+  PCT: '.926'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Turnblom
+  nameClub1: St. Augustine
+  Pos: LF
+  G: '72'
+  PO: '162'
+  A: '67'
+  E: '20'
+  PCT: '.919'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Krenzel
+  nameClub1: Palatka
+  Pos: LF
+  G: '27'
+  PO: '35'
+  A: '2'
+  E: '4'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Holland
+  nameClub1: Palatka
+  Pos: RF
+  G: '19'
+  PO: '30'
+  A: '4'
+  E: '1'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Langston
+  nameClub1: St. Augustine
+  nameClub2: Sanford
+  Pos: RF
+  G: '114'
+  PO: '181'
+  A: '12'
+  E: '8'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Bartosch
+  nameClub1: Daytona Beach
+  Pos: RF
+  G: '37'
+  PO: '42'
+  A: '4'
+  E: '2'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Rubeling
+  nameClub1: DeLand
+  Pos: RF
+  G: '26'
+  PO: '32'
+  A: '44'
+  E: '5'
+  PCT: '.938'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Simon
+  nameClub1: Palatka
+  Pos: RF
+  G: '23'
+  PO: '42'
+  A: '1'
+  E: '3'
+  PCT: '.935'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Pfeifer
+  nameClub1: Gainesville
+  Pos: RF
+  G: '111'
+  PO: '184'
+  A: '17'
+  E: '15'
+  PCT: '.931'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Evans
+  nameClub1: Daytona Beach
+  Pos: RF
+  G: '17'
+  PO: '23'
+  A: '3'
+  E: '2'
+  PCT: '.929'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Massie
+  nameClub1: Palatka
+  Pos: RF
+  G: '88'
+  PO: '178'
+  A: '33'
+  E: '19'
+  PCT: '.917'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameFirst: E.
+  nameClub1: DeLand
+  Pos: RF
+  G: '23'
+  PO: '26'
+  A: '0'
+  E: '3'
+  PCT: '.897'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Hooten
+  nameClub1: DeLand
+  nameClub2: Daytona Beach
+  Pos: RF
+  G: '19'
+  PO: '35'
+  A: '5'
+  E: '7'
+  PCT: '.851'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Swindell
+  nameClub1: Sanford
+  nameClub2: St. Augustine
+  Pos: CF
+  G: '110'
+  PO: '176'
+  A: '9'
+  E: '3'
+  PCT: '.984'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Fitzgerald
+  nameClub1: St. Augustine
+  Pos: CF
+  G: '116'
+  PO: '233'
+  A: '14'
+  E: '6'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Holdstock
+  nameClub1: DeLand
+  Pos: CF
+  G: '95'
+  PO: '180'
+  A: '17'
+  E: '5'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Andrews
+  nameClub1: Palatka
+  nameClub2: St. Augustine
+  Pos: CF
+  G: '107'
+  PO: '354'
+  A: '24'
+  E: '10'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Duncan
+  nameClub1: Sanford
+  Pos: CF
+  G: '39'
+  PO: '77'
+  A: '5'
+  E: '3'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Beach
+  nameClub1: Gainesville
+  Pos: CF
+  G: '36'
+  PO: '94'
+  A: '4'
+  E: '4'
+  PCT: '.961'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Falconi
+  nameClub1: DeLand
+  Pos: CF
+  G: '38'
+  PO: '61'
+  A: '7'
+  E: '3'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Bray
+  nameClub1: Gainesville
+  Pos: CF
+  G: '44'
+  PO: '97'
+  A: '8'
+  E: '6'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Duggan
+  nameClub1: Daytona Beach
+  Pos: CF
+  G: '33'
+  PO: '82'
+  A: '5'
+  E: '5'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Mittelman
+  nameClub1: DeLand
+  Pos: CF
+  G: '76'
+  PO: '125'
+  A: '53'
+  E: '11'
+  PCT: '.942'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Bradley
+  nameClub1: Gainesville
+  Pos: CF
+  G: '42'
+  PO: '68'
+  A: '23'
+  E: '9'
+  PCT: '.910'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Patterson
+  nameClub1: DeLand
+  Pos: C
+  G: '73'
+  PO: '324'
+  A: '36'
+  E: '3'
+  PCT: '.992'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Swift
+  nameClub1: Palatka
+  Pos: C
+  G: '26'
+  PO: '111'
+  A: '42'
+  E: '3'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Martin
+  nameFirst: C.
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '95'
+  PO: '403'
+  A: '48'
+  E: '12'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Owens
+  nameClub1: St. Augustine
+  Pos: C
+  G: '104'
+  PO: '479'
+  A: '119'
+  E: '18'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: McDougal
+  nameClub1: Gainesville
+  Pos: C
+  G: '118'
+  PO: '502'
+  A: '88'
+  E: '18'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Balicki
+  nameClub1: Daytona Beach
+  Pos: C
+  G: '70'
+  PO: '359'
+  A: '41'
+  E: '14'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Emerson
+  nameClub1: Palatka
+  nameClub2: St. Augustine
+  Pos: C
+  G: '94'
+  PO: '360'
+  A: '89'
+  E: '17'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Purcell
+  nameClub1: DeLand
+  Pos: C
+  G: '40'
+  PO: '167'
+  A: '22'
+  E: '8'
+  PCT: '.959'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Fisher
+  nameClub1: Palatka
+  Pos: C
+  G: '31'
+  PO: '72'
+  A: '17'
+  E: '4'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Florida State League
+  nameLast: Bistruf
+  nameClub1: Sanford
+  Pos: C
+  G: '112'
+  PO: '497'
+  A: '88'
+  E: '33'
+  PCT: '.947'

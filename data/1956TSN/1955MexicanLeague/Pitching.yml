@@ -1,0 +1,1480 @@
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Waters
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '28'
+  GS: '17'
+  CG: '14'
+  SHO: '6'
+  W: '18'
+  L: '3'
+  PCT: '.857'
+  IP: '170'
+  H: '135'
+  R: '48'
+  ER: '39'
+  BB: '68'
+  SO: '126'
+  WP: '4'
+  HB: '2'
+  ERA: '2.06'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ortiz
+  nameClub1: Yucatan
+  GP: '20'
+  GS: '13'
+  CG: '6'
+  SHO: '0'
+  W: '5'
+  L: '4'
+  PCT: '.556'
+  IP: '103'
+  H: '111'
+  R: '49'
+  ER: '42'
+  BB: '46'
+  SO: '45'
+  WP: '4'
+  HB: '3'
+  ERA: '3.67'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Contreras
+  nameClub1: Monterrey
+  GP: '19'
+  GS: '10'
+  CG: '7'
+  SHO: '1'
+  W: '9'
+  L: '3'
+  PCT: '.750'
+  IP: '102'
+  H: '97'
+  R: '50'
+  ER: '42'
+  BB: '45'
+  SO: '36'
+  WP: '0'
+  HB: '2'
+  ERA: '3.71'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Galata
+  nameClub1: Veracruz
+  throws: L
+  GP: '27'
+  GS: '22'
+  CG: '10'
+  SHO: '2'
+  W: '14'
+  L: '8'
+  PCT: '.636'
+  IP: '162'
+  H: '167'
+  R: '81'
+  ER: '67'
+  BB: '85'
+  SO: '98'
+  WP: '9'
+  HB: '5'
+  ERA: '3.72'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Moreno
+  nameClub1: Nuevo Laredo
+  GP: '18'
+  GS: '16'
+  CG: '10'
+  SHO: '0'
+  W: '6'
+  L: '9'
+  PCT: '.400'
+  IP: '124'
+  H: '139'
+  R: '74'
+  ER: '54'
+  BB: '36'
+  SO: '47'
+  WP: '2'
+  HB: '4'
+  ERA: '3.92'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Suarez
+  nameClub1: Monterrey
+  throws: L
+  GP: '25'
+  GS: '15'
+  CG: '9'
+  SHO: '1'
+  W: '10'
+  L: '8'
+  PCT: '.556'
+  IP: '133'
+  H: '144'
+  R: '69'
+  ER: '59'
+  BB: '43'
+  SO: '70'
+  WP: '1'
+  HB: '0'
+  ERA: '3.99'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameClub1: Mexico City Reds
+  GP: '36'
+  GS: '25'
+  CG: '10'
+  SHO: '2'
+  W: '13'
+  L: '10'
+  PCT: '.565'
+  IP: '195'
+  H: '227'
+  R: '107'
+  ER: '89'
+  BB: '75'
+  SO: '101'
+  WP: '5'
+  HB: '1'
+  ERA: '4.11'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Peraza
+  nameClub1: Yucatan
+  nameClub2: Mexico City Reds
+  GP: '27'
+  GS: '21'
+  CG: '11'
+  SHO: '2'
+  W: '9'
+  L: '8'
+  PCT: '.529'
+  IP: '164'
+  H: '158'
+  R: '87'
+  ER: '75'
+  BB: '70'
+  SO: '44'
+  WP: '2'
+  HB: '7'
+  ERA: '4.12'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Cuevas
+  nameClub1: Nuevo Laredo
+  GP: '28'
+  GS: '22'
+  CG: '11'
+  SHO: '1'
+  W: '14'
+  L: '8'
+  PCT: '.636'
+  IP: '173'
+  H: '210'
+  R: '112'
+  ER: '86'
+  BB: '51'
+  SO: '64'
+  WP: '0'
+  HB: '1'
+  ERA: '4.47'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ramos
+  nameClub1: Veracruz
+  GP: '26'
+  GS: '20'
+  CG: '9'
+  SHO: '1'
+  W: '8'
+  L: '7'
+  PCT: '.533'
+  IP: '140'
+  H: '149'
+  R: '79'
+  ER: '70'
+  BB: '67'
+  SO: '77'
+  WP: '2'
+  HB: '11'
+  ERA: '4.50'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Collins
+  nameClub1: Veracruz
+  throws: L
+  GP: '26'
+  GS: '13'
+  CG: '4'
+  SHO: '1'
+  W: '7'
+  L: '5'
+  PCT: '.583'
+  IP: '111'
+  H: '121'
+  R: '76'
+  ER: '57'
+  BB: '104'
+  SO: '82'
+  WP: '12'
+  HB: '6'
+  ERA: '4.62'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Arroyo
+  nameClub1: Nuevo Laredo
+  GP: '32'
+  GS: '25'
+  CG: '10'
+  SHO: '0'
+  W: '10'
+  L: '14'
+  PCT: '.417'
+  IP: '189'
+  H: '235'
+  R: '132'
+  ER: '98'
+  BB: '74'
+  SO: '79'
+  WP: '3'
+  HB: '5'
+  ERA: '4.67'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Herrera
+  nameFirst: P.
+  nameClub1: Nuevo Laredo
+  GP: '29'
+  GS: '23'
+  CG: '11'
+  SHO: '2'
+  W: '13'
+  L: '7'
+  PCT: '.650'
+  IP: '186'
+  H: '209'
+  R: '115'
+  ER: '97'
+  BB: '64'
+  SO: '87'
+  WP: '2'
+  HB: '4'
+  ERA: '4.69'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Cadena
+  nameClub1: Nuevo Laredo
+  GP: '36'
+  GS: '13'
+  CG: '3'
+  SHO: '0'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '138'
+  H: '149'
+  R: '105'
+  ER: '72'
+  BB: '52'
+  SO: '48'
+  WP: '4'
+  HB: '6'
+  ERA: '4.70'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Reyna
+  nameClub1: Monterrey
+  GP: '37'
+  GS: '18'
+  CG: '4'
+  SHO: '1'
+  W: '6'
+  L: '13'
+  PCT: '.316'
+  IP: '160'
+  H: '176'
+  R: '101'
+  ER: '84'
+  BB: '110'
+  SO: '109'
+  WP: '7'
+  HB: '2'
+  ERA: '4.73'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Olivo
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '28'
+  GS: '14'
+  CG: '7'
+  SHO: '1'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '141'
+  H: '151'
+  R: '91'
+  ER: '77'
+  BB: '39'
+  SO: '120'
+  WP: '5'
+  HB: '2'
+  ERA: '4.91'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameClub1: Yucatan
+  GP: '28'
+  GS: '14'
+  CG: '7'
+  SHO: '0'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '136'
+  H: '178'
+  R: '83'
+  ER: '75'
+  BB: '40'
+  SO: '32'
+  WP: '1'
+  HB: '3'
+  ERA: '4.96'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Mosley
+  nameClub1: Monterrey
+  GP: '31'
+  GS: '21'
+  CG: '7'
+  SHO: '1'
+  W: '11'
+  L: '9'
+  PCT: '.550'
+  IP: '150'
+  H: '179'
+  R: '97'
+  ER: '83'
+  BB: '86'
+  SO: '97'
+  WP: '4'
+  HB: '1'
+  ERA: '4.98'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Jimenez
+  nameClub1: Mexico City Tigers
+  GP: '27'
+  GS: '19'
+  CG: '5'
+  SHO: '1'
+  W: '7'
+  L: '10'
+  PCT: '.412'
+  IP: '138'
+  H: '130'
+  R: '98'
+  ER: '80'
+  BB: '113'
+  SO: '116'
+  WP: '12'
+  HB: '7'
+  ERA: '5.22'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Suarez
+  nameClub1: Yucatan
+  GP: '31'
+  GS: '15'
+  CG: '5'
+  SHO: '0'
+  W: '8'
+  L: '9'
+  PCT: '.471'
+  IP: '114'
+  H: '126'
+  R: '78'
+  ER: '68'
+  BB: '80'
+  SO: '34'
+  WP: '4'
+  HB: '6'
+  ERA: '5.37'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Guzman
+  nameClub1: Mexico City Reds
+  GP: '32'
+  GS: '17'
+  CG: '3'
+  SHO: '0'
+  W: '10'
+  L: '8'
+  PCT: '.556'
+  IP: '145'
+  H: '190'
+  R: '114'
+  ER: '95'
+  BB: '44'
+  SO: '49'
+  WP: '0'
+  HB: '2'
+  ERA: '5.90'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Gilbert
+  nameClub1: Mexico City Tigers
+  GP: '22'
+  GS: '22'
+  CG: '5'
+  SHO: '0'
+  W: '6'
+  L: '11'
+  PCT: '.353'
+  IP: '128'
+  H: '148'
+  R: '100'
+  ER: '85'
+  BB: '92'
+  SO: '65'
+  WP: '6'
+  HB: '6'
+  ERA: '5.98'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Grunwald
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '18'
+  GS: '17'
+  CG: '7'
+  SHO: '1'
+  W: '10'
+  L: '4'
+  PCT: '.714'
+  IP: '111'
+  H: '106'
+  R: '84'
+  ER: '76'
+  BB: '79'
+  SO: '71'
+  WP: '6'
+  HB: '0'
+  ERA: '6.16'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Morillas
+  nameClub1: Veracruz
+  GP: '24'
+  GS: '19'
+  CG: '5'
+  SHO: '0'
+  W: '3'
+  L: '9'
+  PCT: '.250'
+  IP: '106'
+  H: '143'
+  R: '84'
+  ER: '78'
+  BB: '43'
+  SO: '37'
+  WP: '1'
+  HB: '1'
+  ERA: '6.62'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Perez
+  nameClub1: Yucatan
+  throws: L
+  GP: '14'
+  GS: '10'
+  CG: '6'
+  SHO: '0'
+  W: '6'
+  L: '5'
+  PCT: '.545'
+  IP: '88'
+  H: '69'
+  R: '39'
+  ER: '33'
+  BB: '36'
+  SO: '63'
+  WP: '2'
+  HB: '3'
+  ERA: '3.38'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Salas
+  nameClub1: Veracruz
+  GP: '10'
+  GS: '6'
+  CG: '3'
+  SHO: '1'
+  W: '5'
+  L: '2'
+  PCT: '.714'
+  IP: '46'
+  H: '37'
+  R: '25'
+  ER: '19'
+  BB: '17'
+  SO: '32'
+  WP: '0'
+  HB: '2'
+  ERA: '3.72'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Rotblatt
+  nameClub1: Monterrey
+  throws: L
+  GP: '11'
+  GS: '7'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  IP: '40'
+  H: '41'
+  R: '22'
+  ER: '18'
+  BB: '27'
+  SO: '37'
+  WP: '4'
+  HB: '2'
+  ERA: '4.05'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Pascual
+  nameClub1: Yucatan
+  GP: '12'
+  GS: '11'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '5'
+  PCT: '.500'
+  IP: '71'
+  H: '66'
+  R: '43'
+  ER: '32'
+  BB: '45'
+  SO: '56'
+  WP: '2'
+  HB: '3'
+  ERA: '4.06'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Rayle
+  nameClub1: Mexico City Tigers
+  GP: '22'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '1'
+  PCT: '.500'
+  IP: '45'
+  H: '52'
+  R: '29'
+  ER: '21'
+  BB: '26'
+  SO: '18'
+  WP: '1'
+  HB: '0'
+  ERA: '4.20'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Rivera
+  nameClub1: Mexico City Reds
+  GP: '22'
+  GS: '3'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  IP: '65'
+  H: '82'
+  R: '42'
+  ER: '31'
+  BB: '16'
+  SO: '122'
+  WP: '1'
+  HB: '0'
+  ERA: '4.29'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ochoa
+  nameClub1: Mexico City Tigers
+  GP: '15'
+  GS: '12'
+  CG: '8'
+  SHO: '1'
+  W: '7'
+  L: '4'
+  PCT: '.636'
+  IP: '93'
+  H: '106'
+  R: '55'
+  ER: '47'
+  BB: '21'
+  SO: '24'
+  WP: '0'
+  HB: '0'
+  ERA: '4.55'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Bragana
+  nameClub1: Yucatan
+  GP: '26'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '5'
+  PCT: '.286'
+  IP: '91'
+  H: '103'
+  R: '57'
+  ER: '47'
+  BB: '41'
+  SO: '38'
+  WP: '1'
+  HB: '2'
+  ERA: '4.65'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Qui
+  nameClub1: Mexico City Reds
+  GP: '32'
+  GS: '8'
+  CG: '1'
+  SHO: '0'
+  W: '6'
+  L: '4'
+  PCT: '.600'
+  IP: '90'
+  H: '107'
+  R: '57'
+  ER: '47'
+  BB: '53'
+  SO: '29'
+  WP: '7'
+  HB: '1'
+  ERA: '4.70'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Genesta
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '27'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '61'
+  H: '76'
+  R: '46'
+  ER: '33'
+  BB: '36'
+  SO: '31'
+  WP: '1'
+  HB: '0'
+  ERA: '4.87'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameFirst: Ray
+  nameClub1: Monterrey
+  GP: '11'
+  GS: '6'
+  CG: '4'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '56'
+  H: '72'
+  R: '36'
+  ER: '32'
+  BB: '23'
+  SO: '19'
+  WP: '1'
+  HB: '1'
+  ERA: '5.14'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Gonzales
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '13'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '62'
+  H: '79'
+  R: '44'
+  ER: '39'
+  BB: '27'
+  SO: '50'
+  WP: '4'
+  HB: '3'
+  ERA: '5.66'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Bermea
+  nameClub1: Nuevo Laredo
+  GP: '20'
+  GS: '0'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '2'
+  PCT: '.333'
+  IP: '41'
+  H: '57'
+  R: '36'
+  ER: '26'
+  BB: '24'
+  SO: '10'
+  WP: '1'
+  HB: '3'
+  ERA: '5.71'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Delgado
+  nameClub1: Veracruz
+  GP: '24'
+  GS: '3'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '64'
+  H: '89'
+  R: '51'
+  ER: '41'
+  BB: '22'
+  SO: '30'
+  WP: '2'
+  HB: '0'
+  ERA: '5.77'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameClub1: Nuevo Laredo
+  throws: L
+  GP: '12'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '0'
+  PCT: '1.000'
+  IP: '46'
+  H: '72'
+  R: '39'
+  ER: '30'
+  BB: '12'
+  SO: '17'
+  WP: '1'
+  HB: '0'
+  ERA: '5.87'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Zavala
+  nameClub1: Monterrey
+  GP: '20'
+  GS: '0'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '0'
+  PCT: '1.000'
+  IP: '30'
+  H: '51'
+  R: '26'
+  ER: '21'
+  BB: '16'
+  SO: '3'
+  WP: '2'
+  HB: '0'
+  ERA: '6.30'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Puehl
+  nameClub1: Monterrey
+  GP: '10'
+  GS: '6'
+  CG: '2'
+  SHO: '0'
+  W: '1'
+  L: '5'
+  PCT: '.167'
+  IP: '54'
+  H: '70'
+  R: '43'
+  ER: '38'
+  BB: '22'
+  SO: '23'
+  WP: '4'
+  HB: '4'
+  ERA: '6.33'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Camacho
+  nameClub1: Mexico City Tigers
+  nameClub2: Veracruz
+  throws: L
+  GP: '23'
+  GS: '2'
+  CG: '1'
+  SHO: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '51'
+  H: '66'
+  R: '43'
+  ER: '36'
+  BB: '24'
+  SO: '20'
+  WP: '1'
+  HB: '1'
+  ERA: '6.35'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Lopez
+  nameClub1: Mexico City Reds
+  nameClub2: Yucatan
+  GP: '31'
+  GS: '8'
+  CG: '1'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '86'
+  H: '110'
+  R: '68'
+  ER: '61'
+  BB: '42'
+  SO: '40'
+  WP: '2'
+  HB: '2'
+  ERA: '6.38'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Gonzalez
+  nameClub1: Veracruz
+  GP: '29'
+  GS: '4'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '61'
+  H: '96'
+  R: '54'
+  ER: '49'
+  BB: '27'
+  SO: '32'
+  WP: '4'
+  HB: '1'
+  ERA: '7.23'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ferrer
+  nameClub1: Mexico City Tigers
+  GP: '17'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '37'
+  H: '37'
+  R: '32'
+  ER: '30'
+  BB: '24'
+  SO: '20'
+  WP: '4'
+  HB: '2'
+  ERA: '7.30'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Escalona
+  nameClub1: Veracruz
+  GP: '26'
+  GS: '4'
+  CG: '0'
+  SHO: '0'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  IP: '64'
+  H: '72'
+  R: '60'
+  ER: '52'
+  BB: '51'
+  SO: '16'
+  WP: '0'
+  HB: '3'
+  ERA: '7.31'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Avila
+  nameClub1: Yucatan
+  throws: L
+  GP: '12'
+  GS: '0'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '0'
+  PCT: '1.000'
+  IP: '20'
+  H: '27'
+  R: '19'
+  ER: '17'
+  BB: '17'
+  SO: '11'
+  WP: '4'
+  HB: '0'
+  ERA: '7.65'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Pena
+  nameClub1: Veracruz
+  GP: '26'
+  GS: '4'
+  CG: '1'
+  SHO: '0'
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  IP: '59'
+  H: '76'
+  R: '62'
+  ER: '55'
+  BB: '53'
+  SO: '32'
+  WP: '1'
+  HB: '4'
+  ERA: '8.39'
+  BK: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameFirst: M.
+  nameClub1: Yucatan
+  throws: L
+  GP: '12'
+  GS: '8'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '7'
+  PCT: '.125'
+  IP: '24'
+  H: '42'
+  R: '34'
+  ER: '28'
+  BB: '19'
+  SO: '7'
+  WP: '1'
+  HB: '3'
+  ERA: '10.50'
+  BK: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Armenta
+  nameClub1: Mexico City Reds
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Diaz
+  nameClub1: Mexico City Reds
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ibanez
+  nameClub1: Mexico City Reds
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Moreno
+  nameClub1: Mexico City Reds
+  GP: '5'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Parker
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '6'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Rivas
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '5'
+  W: '2'
+  L: '2'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ross
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '8'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ruiz
+  nameClub1: Mexico City Reds
+  GP: '6'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Searcy
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Striegel
+  nameClub1: Mexico City Reds
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Torres
+  nameFirst: A.
+  nameClub1: Mexico City Reds
+  GP: '4'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Torres
+  nameFirst: G.
+  nameClub1: Mexico City Reds
+  GP: '5'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Alfonso
+  nameClub1: Mexico City Tigers
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Carrasquel
+  nameClub1: Mexico City Tigers
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: DeLeon
+  nameClub1: Mexico City Tigers
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Genovese
+  nameClub1: Mexico City Tigers
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Luna
+  nameClub1: Mexico City Tigers
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Martinez
+  nameFirst: Rogello
+  nameClub1: Mexico City Tigers
+  GP: '8'
+  W: '2'
+  L: '4'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Medina
+  nameClub1: Mexico City Tigers
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Pettit
+  nameClub1: Mexico City Tigers
+  throws: L
+  GP: '5'
+  W: '1'
+  L: '2'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Saldana
+  nameClub1: Mexico City Tigers
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Bankhead
+  nameClub1: Veracruz
+  nameClub2: Monterrey
+  GP: '5'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Correoso
+  nameClub1: Yucatan
+  nameClub2: Monterrey
+  GP: '5'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Estrada
+  nameClub1: Yucatan
+  nameClub2: Monterrey
+  GP: '6'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Garza
+  nameFirst: Regino
+  nameClub1: Monterrey
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Jacobs
+  nameClub1: Monterrey
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Jarvis
+  nameClub1: Monterrey
+  throws: L
+  GP: '8'
+  W: '1'
+  L: '4'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Martinez
+  nameFirst: Roberto
+  nameClub1: Monterrey
+  GP: '4'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Moctezuma
+  nameClub1: Monterrey
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Perez
+  nameClub1: Monterrey
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Prieto
+  nameClub1: Monterrey
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Reyes
+  nameClub1: Monterrey
+  GP: '4'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Rubert
+  nameClub1: Monterrey
+  GP: '7'
+  W: '0'
+  L: '4'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Sanner
+  nameClub1: Monterrey
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Serrano
+  nameClub1: Nuevo Laredo
+  nameClub2: Monterrey
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Solis
+  nameClub1: Monterrey
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Torres
+  nameFirst: E.
+  nameClub1: Monterrey
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Torres
+  nameFirst: P.
+  nameClub1: Monterrey
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Botello
+  nameClub1: Nuevo Laredo
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Castro
+  nameClub1: Nuevo Laredo
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Masengill
+  nameClub1: Nuevo Laredo
+  throws: L
+  GP: '9'
+  W: '0'
+  L: '2'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: McCoy
+  nameClub1: Nuevo Laredo
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ramirez
+  nameClub1: Nuevo Laredo
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Soler
+  nameClub1: Nuevo Laredo
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Amaro
+  nameFirst: M.
+  nameClub1: Veracruz
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ovando
+  nameClub1: Veracruz
+  GP: '3'
+  W: '1'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Perez
+  nameClub1: Veracruz
+  GP: '5'
+  W: '1'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Puig
+  nameClub1: Veracruz
+  GP: '5'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Berbesia
+  nameClub1: Yucatan
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Ceballos
+  nameClub1: Yucatan
+  GP: '8'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Comas
+  nameClub1: Yucatan
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: DelRio
+  nameClub1: Yucatan
+  throws: L
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Gamboa
+  nameClub1: Yucatan
+  GP: '3'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Garcia
+  nameFirst: H.
+  nameClub1: Yucatan
+  GP: '4'
+  W: '2'
+  L: '1'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Rojo
+  nameClub1: Yucatan
+  GP: '2'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Toledo
+  nameClub1: Yucatan
+  GP: '1'
+  W: '0'
+  L: '0'
+- year: '1955'
+  nameLeague: Mexican League
+  nameLast: Valdez
+  nameClub1: Yucatan
+  throws: L
+  GP: '7'
+  W: '0'
+  L: '1'

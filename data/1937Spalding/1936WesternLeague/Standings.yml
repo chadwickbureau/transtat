@@ -1,0 +1,96 @@
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Davenport
+  phase: regular/first
+  W: '39'
+  L: '26'
+  PCT: '.600'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular/first
+  W: '35'
+  L: '30'
+  PCT: '.538'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Omaha/Rock Island
+  phase: regular/first
+  W: '33'
+  L: '29'
+  PCT: '.532'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Cedar Rapids
+  phase: regular/first
+  W: '35'
+  L: '31'
+  PCT: '.530'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular/first
+  W: '33'
+  L: '33'
+  PCT: '.500'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Waterloo
+  phase: regular/first
+  W: '25'
+  L: '41'
+  PCT: '.379'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Davenport
+  phase: regular/second
+  W: '35'
+  L: '26'
+  PCT: '.574'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Cedar Rapids
+  phase: regular/second
+  W: '35'
+  L: '27'
+  PCT: '.565'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular/second
+  W: '31'
+  L: '31'
+  PCT: '.500'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Omaha/Rock Island
+  phase: regular/second
+  W: '29'
+  L: '35'
+  PCT: '.453'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular/second
+  W: '26'
+  L: '34'
+  PCT: '.433'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Waterloo
+  phase: regular/second
+  W: '25'
+  L: '38'
+  PCT: '.397'
+  RANK: '6'

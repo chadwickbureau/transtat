@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Reading
+  Allentown: '7'
+  Binghamton: '13'
+  Schenectady: '12'
+  Williamsport: '10'
+  Wilkes-Barre/Johnstown: '14'
+  Elmira: '11'
+  Albany: '17'
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  Reading: '13'
+  Binghamton: '9'
+  Schenectady: '11'
+  Williamsport: '8'
+  Wilkes-Barre/Johnstown: '12'
+  Elmira: '12'
+  Albany: '13'
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  Reading: '7'
+  Allentown: '11'
+  Schenectady: '14'
+  Williamsport: '9'
+  Wilkes-Barre/Johnstown: '11'
+  Elmira: '13'
+  Albany: '10'
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  Reading: '8'
+  Allentown: '9'
+  Binghamton: '6'
+  Williamsport: '13'
+  Wilkes-Barre/Johnstown: '10'
+  Elmira: '15'
+  Albany: '13'
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  Reading: '7'
+  Allentown: '12'
+  Binghamton: '11'
+  Schenectady: '7'
+  Wilkes-Barre/Johnstown: '10'
+  Elmira: '10'
+  Albany: '14'
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre/Johnstown
+  Reading: '6'
+  Allentown: '7'
+  Binghamton: '9'
+  Schenectady: '8'
+  Williamsport: '10'
+  Elmira: '10'
+  Albany: '9'
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  Reading: '9'
+  Allentown: '7'
+  Binghamton: '7'
+  Schenectady: '5'
+  Williamsport: '10'
+  Wilkes-Barre/Johnstown: '10'
+  Albany: '8'
+- year: '1955'
+  nameLeague: Eastern League
+  nameClub: Albany
+  Reading: '3'
+  Allentown: '7'
+  Binghamton: '7'
+  Schenectady: '7'
+  Williamsport: '6'
+  Wilkes-Barre/Johnstown: '11'
+  Elmira: '12'

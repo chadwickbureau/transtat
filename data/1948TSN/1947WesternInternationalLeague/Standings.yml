@@ -1,0 +1,72 @@
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular
+  W: '86'
+  L: '66'
+  T: '0'
+  PCT: '.566'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: regular
+  W: '87'
+  L: '67'
+  T: '2'
+  PCT: '.565'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Bremerton
+  phase: regular
+  W: '86'
+  L: '68'
+  T: '0'
+  PCT: '.558'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: regular
+  W: '80'
+  L: '68'
+  T: '0'
+  PCT: '.541'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Victoria
+  phase: regular
+  W: '80'
+  L: '72'
+  T: '0'
+  PCT: '.526'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Tacoma
+  phase: regular
+  W: '72'
+  L: '81'
+  T: '0'
+  PCT: '.471'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular
+  W: '59'
+  L: '92'
+  T: '0'
+  PCT: '.391'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular
+  W: '59'
+  L: '95'
+  T: '2'
+  PCT: '.383'
+  RANK: '8'

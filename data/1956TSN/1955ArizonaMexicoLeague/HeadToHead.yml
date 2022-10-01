@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  Yuma: '12'
+  Phoenix: '12'
+  Mexicali: '12'
+  Tucson: '15'
+  Bisbee-Douglas: '10'
+  Globe-Miami: '13'
+  Nogales: '12'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Yuma
+  Cananea: '8'
+  Phoenix: '8'
+  Mexicali: '14'
+  Tucson: '12'
+  Bisbee-Douglas: '12'
+  Globe-Miami: '14'
+  Nogales: '15'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  Cananea: '8'
+  Yuma: '12'
+  Mexicali: '8'
+  Tucson: '13'
+  Bisbee-Douglas: '12'
+  Globe-Miami: '15'
+  Nogales: '12'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  Cananea: '8'
+  Yuma: '6'
+  Phoenix: '12'
+  Tucson: '10'
+  Bisbee-Douglas: '14'
+  Globe-Miami: '13'
+  Nogales: '15'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  Cananea: '5'
+  Yuma: '8'
+  Phoenix: '7'
+  Mexicali: '10'
+  Bisbee-Douglas: '10'
+  Globe-Miami: '11'
+  Nogales: '15'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Bisbee-Douglas
+  Cananea: '10'
+  Yuma: '8'
+  Phoenix: '8'
+  Mexicali: '6'
+  Tucson: '10'
+  Globe-Miami: '10'
+  Nogales: '11'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Globe-Miami
+  Cananea: '7'
+  Yuma: '6'
+  Phoenix: '5'
+  Mexicali: '7'
+  Tucson: '9'
+  Bisbee-Douglas: '10'
+  Nogales: '7'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Nogales
+  Cananea: '7'
+  Yuma: '5'
+  Phoenix: '7'
+  Mexicali: '5'
+  Tucson: '5'
+  Bisbee-Douglas: '9'
+  Globe-Miami: '11'

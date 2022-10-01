@@ -1,0 +1,44 @@
+- year: '1944'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  G: '107'
+  DP: '79'
+  TP: '0'
+  PB: '29'
+  PO: '2735'
+  A: '1147'
+  E: '235'
+  PCT: '.943'
+- year: '1944'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  G: '112'
+  DP: '79'
+  TP: '0'
+  PB: '35'
+  PO: '2903'
+  A: '1272'
+  E: '278'
+  PCT: '.938'
+- year: '1944'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  G: '113'
+  DP: '73'
+  TP: '0'
+  PB: '56'
+  PO: '2862'
+  A: '1310'
+  E: '305'
+  PCT: '.932'
+- year: '1944'
+  nameLeague: Appalachian League
+  nameClub: Erwin
+  G: '108'
+  DP: '51'
+  TP: '0'
+  PB: '42'
+  PO: '2711'
+  A: '1125'
+  E: '318'
+  PCT: '.923'

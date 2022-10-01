@@ -1,0 +1,80 @@
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Akron
+  G: '128'
+  PO: '3234'
+  A: '1499'
+  E: '179'
+  DP: '126'
+  PB: '32'
+  PCT: '.963'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Portsmouth
+  G: '129'
+  PO: '3303'
+  A: '1390'
+  E: '195'
+  DP: '112'
+  PB: '24'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Springfield
+  G: '131'
+  PO: '3272'
+  A: '1342'
+  E: '197'
+  DP: '96'
+  PB: '24'
+  PCT: '.960'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Charleston
+  G: '126'
+  PO: '3155'
+  A: '1462'
+  E: '196'
+  DP: '90'
+  PB: '12'
+  PCT: '.959'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  G: '129'
+  PO: '3327'
+  A: '1311'
+  E: '210'
+  DP: '114'
+  PB: '49'
+  PCT: '.957'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  G: '129'
+  PO: '3324'
+  A: '1402'
+  E: '210'
+  DP: '88'
+  PB: '35'
+  PCT: '.956'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Canton
+  G: '130'
+  PO: '3319'
+  A: '1303'
+  E: '226'
+  DP: '96'
+  PB: '44'
+  PCT: '.951'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Dayton
+  G: '130'
+  PO: '3121'
+  A: '1364'
+  E: '243'
+  DP: '96'
+  PB: '26'
+  PCT: '.949'

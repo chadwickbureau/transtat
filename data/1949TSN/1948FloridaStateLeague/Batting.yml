@@ -1,0 +1,3721 @@
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Morton
+  nameFirst: E. Glenn
+  nameClub1: Daytona Beach
+  bats: L
+  G: '11'
+  AB: '18'
+  R: '1'
+  H: '7'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  AVG: '.389'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Server
+  nameFirst: Donald R.
+  nameClub1: Palatka
+  G: '28'
+  AB: '113'
+  R: '28'
+  H: '43'
+  TB: '60'
+  H2B: '13'
+  H3B: '2'
+  HR: '0'
+  SH: '5'
+  SB: '6'
+  BB: '15'
+  HP: '1'
+  RBI: '19'
+  SO: '10'
+  AVG: '.381'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bevil (acqua)
+  nameFirst: Louis
+  nameClub1: Orlando
+  bats: B
+  G: '85'
+  AB: '192'
+  R: '43'
+  H: '70'
+  TB: '104'
+  H2B: '15'
+  H3B: '2'
+  HR: '5'
+  SH: '3'
+  SB: '9'
+  BB: '24'
+  HP: '0'
+  RBI: '38'
+  SO: '33'
+  AVG: '.365'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Lapinsky
+  nameFirst: Adam
+  nameClub1: Daytona Beach
+  G: '17'
+  AB: '39'
+  R: '3'
+  H: '14'
+  TB: '16'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '3'
+  SO: '5'
+  AVG: '.359'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Heinbaugh
+  nameFirst: Charles E.
+  nameClub1: Orlando
+  G: '132'
+  AB: '539'
+  R: '129'
+  H: '182'
+  TB: '231'
+  H2B: '29'
+  H3B: '10'
+  HR: '0'
+  SH: '8'
+  SB: '43'
+  BB: '64'
+  HP: '4'
+  RBI: '66'
+  SO: '37'
+  AVG: '.338'
+  AVG_RANK: '1'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Theobold
+  nameFirst: John
+  nameClub1: Gainesville
+  G: '30'
+  AB: '86'
+  R: '11'
+  H: '29'
+  TB: '37'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '9'
+  SO: '1'
+  AVG: '.337'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Ivey
+  nameFirst: Wylie C.
+  nameClub1: Daytona Beach
+  G: '134'
+  AB: '541'
+  R: '98'
+  H: '181'
+  TB: '245'
+  H2B: '29'
+  H3B: '10'
+  HR: '5'
+  SH: '8'
+  SB: '19'
+  BB: '40'
+  HP: '0'
+  RBI: '89'
+  SO: '30'
+  AVG: '.335'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Duncan
+  nameFirst: Ramos H.
+  nameClub1: St. Augustine
+  bats: L
+  G: '13'
+  AB: '36'
+  R: '6'
+  H: '12'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '7'
+  SO: '8'
+  AVG: '.333'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Hoag
+  nameFirst: Myril O.
+  nameClub1: Gainesville
+  G: '59'
+  AB: '135'
+  R: '27'
+  H: '44'
+  TB: '62'
+  H2B: '8'
+  H3B: '2'
+  HR: '2'
+  SH: '2'
+  SB: '7'
+  BB: '24'
+  HP: '0'
+  RBI: '21'
+  SO: '8'
+  AVG: '.326'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Baird
+  nameFirst: Charles R.
+  nameClub1: Palatka
+  bats: L
+  G: '48'
+  AB: '123'
+  R: '17'
+  H: '40'
+  TB: '44'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '3'
+  BB: '15'
+  HP: '0'
+  RBI: '13'
+  SO: '13'
+  AVG: '.325'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Braziel
+  nameFirst: Dennis E.
+  nameClub1: Orlando
+  bats: L
+  G: '134'
+  AB: '543'
+  R: '102'
+  H: '176'
+  TB: '232'
+  H2B: '21'
+  H3B: '16'
+  HR: '1'
+  SH: '11'
+  SB: '18'
+  BB: '51'
+  HP: '0'
+  RBI: '88'
+  SO: '61'
+  AVG: '.324'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Singer
+  nameFirst: Walter J.
+  nameClub1: Palatka
+  G: '91'
+  AB: '349'
+  R: '44'
+  H: '113'
+  TB: '138'
+  H2B: '12'
+  H3B: '2'
+  HR: '3'
+  SH: '3'
+  SB: '7'
+  BB: '33'
+  HP: '1'
+  RBI: '35'
+  SO: '27'
+  AVG: '.324'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Sterling
+  nameFirst: Clayton
+  nameClub1: Palatka
+  G: '53'
+  AB: '220'
+  R: '23'
+  H: '70'
+  TB: '100'
+  H2B: '9'
+  H3B: '0'
+  HR: '7'
+  SH: '1'
+  SB: '1'
+  BB: '22'
+  HP: '0'
+  RBI: '43'
+  SO: '21'
+  AVG: '.318'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Pirtle
+  nameFirst: Vernon A.
+  nameClub1: Palatka
+  nameClub2: Gainesville
+  bats: L
+  G: '129'
+  AB: '506'
+  R: '75'
+  H: '159'
+  TB: '237'
+  H2B: '37'
+  H3B: '7'
+  HR: '9'
+  SH: '1'
+  SB: '5'
+  BB: '53'
+  HP: '0'
+  RBI: '89'
+  SO: '46'
+  AVG: '.314'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Waldrip
+  nameFirst: Guilbert M.
+  nameClub1: Gainesville
+  G: '16'
+  AB: '35'
+  R: '3'
+  H: '11'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '7'
+  SO: '2'
+  AVG: '.314'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Rosenkranz
+  nameFirst: Ramon E.
+  nameClub1: Sanford
+  bats: L
+  G: '138'
+  AB: '539'
+  R: '108'
+  H: '168'
+  TB: '260'
+  H2B: '22'
+  H3B: '11'
+  HR: '16'
+  SH: '6'
+  SB: '10'
+  BB: '91'
+  HP: '3'
+  RBI: '100'
+  SO: '79'
+  AVG: '.312'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Vitter
+  nameFirst: Joseph A.
+  nameClub1: DeLand
+  nameClub2: Daytona Beach
+  bats: B
+  G: '91'
+  AB: '304'
+  R: '60'
+  H: '94'
+  TB: '127'
+  H2B: '13'
+  H3B: '4'
+  HR: '4'
+  SH: '3'
+  SB: '15'
+  BB: '64'
+  HP: '1'
+  RBI: '49'
+  SO: '20'
+  AVG: '.309'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Cuyler
+  nameFirst: Harold S.
+  nameClub1: Gainesville
+  G: '40'
+  AB: '94'
+  R: '15'
+  H: '29'
+  TB: '30'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '17'
+  HP: '1'
+  RBI: '13'
+  SO: '6'
+  AVG: '.309'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Garrison
+  nameFirst: John
+  nameClub1: Orlando
+  G: '135'
+  AB: '559'
+  R: '88'
+  H: '172'
+  TB: '244'
+  H2B: '33'
+  H3B: '6'
+  HR: '9'
+  SH: '2'
+  SB: '6'
+  BB: '47'
+  HP: '2'
+  RBI: '133'
+  SO: '33'
+  AVG: '.308'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Burke
+  nameFirst: David L.
+  nameClub1: Gainesville
+  G: '129'
+  AB: '522'
+  R: '86'
+  H: '161'
+  TB: '189'
+  H2B: '16'
+  H3B: '3'
+  HR: '2'
+  SH: '4'
+  SB: '24'
+  BB: '40'
+  HP: '2'
+  RBI: '64'
+  SO: '29'
+  AVG: '.308'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Dunham
+  nameFirst: Arthur H.
+  nameClub1: Sanford
+  bats: L
+  G: '50'
+  AB: '78'
+  R: '14'
+  H: '24'
+  TB: '37'
+  H2B: '5'
+  H3B: '4'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '9'
+  SO: '20'
+  AVG: '.308'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Cataldo
+  nameFirst: Joseph T.
+  nameClub1: Sanford
+  G: '106'
+  AB: '453'
+  R: '70'
+  H: '139'
+  TB: '182'
+  H2B: '24'
+  H3B: '5'
+  HR: '3'
+  SH: '8'
+  SB: '17'
+  BB: '30'
+  HP: '5'
+  RBI: '89'
+  SO: '40'
+  AVG: '.307'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Long
+  nameFirst: Samuel
+  nameClub1: Palatka
+  bats: L
+  G: '19'
+  AB: '82'
+  R: '9'
+  H: '25'
+  TB: '36'
+  H2B: '5'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '17'
+  SO: '17'
+  AVG: '.305'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Roberts
+  nameFirst: L. Perry
+  nameClub1: Daytona Beach
+  nameClub2: DeLand
+  bats: L
+  G: '139'
+  AB: '572'
+  R: '101'
+  H: '173'
+  TB: '238'
+  H2B: '38'
+  H3B: '12'
+  HR: '1'
+  SH: '7'
+  SB: '21'
+  BB: '24'
+  HP: '5'
+  RBI: '88'
+  SO: '33'
+  AVG: '.302'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Perez
+  nameFirst: Juan
+  nameClub1: DeLand
+  bats: L
+  G: '17'
+  AB: '40'
+  R: '7'
+  H: '12'
+  TB: '14'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '2'
+  HP: '0'
+  RBI: '10'
+  SO: '8'
+  AVG: '.300'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Rucker
+  nameFirst: Robert W.
+  nameClub1: Daytona Beach
+  G: '129'
+  AB: '522'
+  R: '95'
+  H: '154'
+  TB: '226'
+  H2B: '23'
+  H3B: '11'
+  HR: '9'
+  SH: '4'
+  SB: '24'
+  BB: '28'
+  HP: '8'
+  RBI: '76'
+  SO: '84'
+  AVG: '.295'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Leip
+  nameFirst: Edgar E.
+  nameClub1: Leesburg
+  G: '106'
+  AB: '353'
+  R: '69'
+  H: '104'
+  TB: '131'
+  H2B: '18'
+  H3B: '3'
+  HR: '1'
+  SH: '10'
+  SB: '15'
+  BB: '68'
+  HP: '4'
+  RBI: '48'
+  SO: '18'
+  AVG: '.295'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Gaddis
+  nameFirst: Walley L.
+  nameClub1: Daytona Beach
+  G: '63'
+  AB: '153'
+  R: '23'
+  H: '45'
+  TB: '58'
+  H2B: '9'
+  H3B: '2'
+  HR: '0'
+  SH: '3'
+  SB: '5'
+  BB: '6'
+  HP: '1'
+  RBI: '28'
+  SO: '17'
+  AVG: '.294'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Eaton
+  nameFirst: Joe O.
+  nameClub1: Orlando
+  G: '114'
+  AB: '425'
+  R: '63'
+  H: '124'
+  TB: '143'
+  H2B: '11'
+  H3B: '4'
+  HR: '0'
+  SH: '9'
+  SB: '7'
+  BB: '53'
+  HP: '4'
+  RBI: '58'
+  SO: '49'
+  AVG: '.292'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Dunkovich
+  nameFirst: W. J.
+  nameClub1: St. Augustine
+  G: '102'
+  AB: '394'
+  R: '87'
+  H: '115'
+  TB: '153'
+  H2B: '22'
+  H3B: '5'
+  HR: '2'
+  SH: '2'
+  SB: '20'
+  BB: '53'
+  HP: '2'
+  RBI: '58'
+  SO: '54'
+  AVG: '.292'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Ralat
+  nameFirst: Milton
+  nameClub1: Palatka
+  G: '11'
+  AB: '24'
+  R: '2'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.292'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Jeannette
+  nameFirst: James H.
+  nameClub1: DeLand
+  G: '11'
+  AB: '31'
+  R: '3'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.290'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Judy
+  nameFirst: Lyle L.
+  nameClub1: St. Augustine
+  G: '138'
+  AB: '506'
+  R: '99'
+  H: '146'
+  TB: '183'
+  H2B: '24'
+  H3B: '2'
+  HR: '3'
+  SH: '7'
+  SB: '24'
+  BB: '88'
+  HP: '4'
+  RBI: '87'
+  SO: '34'
+  AVG: '.289'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Demma
+  nameFirst: Salvatore
+  nameClub1: Daytona Beach
+  G: '95'
+  AB: '318'
+  R: '52'
+  H: '92'
+  TB: '132'
+  H2B: '18'
+  H3B: '2'
+  HR: '6'
+  SH: '1'
+  SB: '6'
+  BB: '58'
+  HP: '3'
+  RBI: '72'
+  SO: '27'
+  AVG: '.289'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Anderson
+  nameFirst: Donald E.
+  nameClub1: St. Augustine
+  G: '56'
+  AB: '233'
+  R: '39'
+  H: '67'
+  TB: '81'
+  H2B: '12'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '14'
+  BB: '23'
+  HP: '3'
+  RBI: '23'
+  SO: '14'
+  AVG: '.288'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Filipski
+  nameFirst: Henry R.
+  nameClub1: Daytona Beach
+  bats: L
+  G: '135'
+  AB: '537'
+  R: '87'
+  H: '154'
+  TB: '188'
+  H2B: '19'
+  H3B: '6'
+  HR: '1'
+  SH: '11'
+  SB: '26'
+  BB: '60'
+  HP: '1'
+  RBI: '70'
+  SO: '31'
+  AVG: '.287'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Perez
+  nameFirst: Mario
+  nameClub1: DeLand
+  G: '132'
+  AB: '499'
+  R: '68'
+  H: '143'
+  TB: '177'
+  H2B: '23'
+  H3B: '4'
+  HR: '1'
+  SH: '4'
+  SB: '6'
+  BB: '63'
+  HP: '3'
+  RBI: '59'
+  SO: '49'
+  AVG: '.287'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Ketcher
+  nameFirst: James
+  nameClub1: St. Augustine
+  G: '36'
+  AB: '91'
+  R: '16'
+  H: '26'
+  TB: '35'
+  H2B: '6'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '14'
+  SO: '14'
+  AVG: '.286'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Balais
+  nameFirst: Alex J.
+  nameClub1: Palatka
+  nameClub2: DeLand
+  G: '19'
+  AB: '35'
+  R: '2'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '2'
+  SO: '2'
+  AVG: '.286'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Plum
+  nameFirst: Jerry Jr.
+  nameClub1: St. Augustine
+  G: '15'
+  AB: '28'
+  R: '5'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '11'
+  SO: '2'
+  AVG: '.286'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Karpinski
+  nameFirst: Stanley P.
+  nameClub1: St. Augustine
+  G: '29'
+  AB: '81'
+  R: '12'
+  H: '23'
+  TB: '30'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '14'
+  SO: '6'
+  AVG: '.284'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Butler
+  nameFirst: Carl Basil
+  nameClub1: St. Augustine
+  bats: L
+  G: '71'
+  AB: '272'
+  R: '27'
+  H: '77'
+  TB: '97'
+  H2B: '12'
+  H3B: '4'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '21'
+  HP: '1'
+  RBI: '38'
+  SO: '33'
+  AVG: '.283'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Hall
+  nameFirst: William L.
+  nameClub1: Leesburg
+  bats: L
+  G: '111'
+  AB: '372'
+  R: '44'
+  H: '105'
+  TB: '140'
+  H2B: '27'
+  H3B: '4'
+  HR: '0'
+  SH: '4'
+  SB: '8'
+  BB: '33'
+  HP: '1'
+  RBI: '56'
+  SO: '26'
+  AVG: '.282'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Zander
+  nameFirst: Joseph H.
+  nameClub1: Daytona Beach
+  bats: L
+  G: '138'
+  AB: '547'
+  R: '93'
+  H: '154'
+  TB: '196'
+  H2B: '20'
+  H3B: '8'
+  HR: '2'
+  SH: '4'
+  SB: '18'
+  BB: '74'
+  HP: '0'
+  RBI: '54'
+  SO: '72'
+  AVG: '.282'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Vega
+  nameFirst: Guillermo
+  nameClub1: DeLand
+  G: '129'
+  AB: '530'
+  R: '63'
+  H: '149'
+  TB: '196'
+  H2B: '22'
+  H3B: '11'
+  HR: '1'
+  SH: '6'
+  SB: '14'
+  BB: '16'
+  HP: '0'
+  RBI: '72'
+  SO: '23'
+  AVG: '.281'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Sloan
+  nameFirst: Melton
+  nameClub1: DeLand
+  bats: L
+  G: '116'
+  AB: '397'
+  R: '46'
+  H: '111'
+  TB: '138'
+  H2B: '15'
+  H3B: '6'
+  HR: '0'
+  SH: '9'
+  SB: '5'
+  BB: '38'
+  HP: '2'
+  RBI: '49'
+  SO: '40'
+  AVG: '.280'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: McLarin
+  nameFirst: William T.
+  nameClub1: Leesburg
+  G: '101'
+  AB: '383'
+  R: '54'
+  H: '107'
+  TB: '163'
+  H2B: '10'
+  H3B: '5'
+  HR: '12'
+  SH: '4'
+  SB: '12'
+  BB: '43'
+  HP: '0'
+  RBI: '58'
+  SO: '66'
+  AVG: '.279'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Throop
+  nameFirst: Rex E.
+  nameClub1: Orlando
+  bats: L
+  G: '140'
+  AB: '543'
+  R: '125'
+  H: '151'
+  TB: '220'
+  H2B: '30'
+  H3B: '6'
+  HR: '9'
+  SH: '8'
+  SB: '42'
+  BB: '99'
+  HP: '7'
+  RBI: '68'
+  SO: '70'
+  AVG: '.278'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Tabb
+  nameFirst: Thomas E.
+  nameClub1: Palatka
+  bats: L
+  G: '88'
+  AB: '338'
+  R: '56'
+  H: '94'
+  TB: '108'
+  H2B: '12'
+  H3B: '1'
+  HR: '0'
+  SH: '6'
+  SB: '10'
+  BB: '57'
+  HP: '4'
+  RBI: '26'
+  SO: '52'
+  AVG: '.278'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Matte
+  nameFirst: Leonard
+  nameClub1: Sanford
+  G: '94'
+  AB: '314'
+  R: '61'
+  H: '87'
+  TB: '139'
+  H2B: '11'
+  H3B: '10'
+  HR: '7'
+  SH: '4'
+  SB: '15'
+  BB: '56'
+  HP: '7'
+  RBI: '54'
+  SO: '72'
+  AVG: '.277'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Harrison
+  nameFirst: Robert R.
+  nameClub1: Palatka
+  bats: L
+  G: '65'
+  AB: '233'
+  R: '25'
+  H: '64'
+  TB: '85'
+  H2B: '10'
+  H3B: '1'
+  HR: '3'
+  SH: '3'
+  SB: '3'
+  BB: '40'
+  HP: '6'
+  RBI: '23'
+  SO: '39'
+  AVG: '.275'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bartolozzi
+  nameFirst: Ralph R.
+  nameClub1: Leesburg
+  bats: L
+  G: '120'
+  AB: '415'
+  R: '75'
+  H: '113'
+  TB: '183'
+  H2B: '15'
+  H3B: '2'
+  HR: '17'
+  SH: '2'
+  SB: '12'
+  BB: '97'
+  HP: '2'
+  RBI: '76'
+  SO: '45'
+  AVG: '.272'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Allen
+  nameFirst: Charles G. Jr.
+  nameClub1: Orlando
+  bats: L
+  G: '114'
+  AB: '394'
+  R: '76'
+  H: '107'
+  TB: '158'
+  H2B: '14'
+  H3B: '11'
+  HR: '5'
+  SH: '3'
+  SB: '2'
+  BB: '58'
+  HP: '2'
+  RBI: '69'
+  SO: '47'
+  AVG: '.272'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Tyler
+  nameFirst: Earl Q.
+  nameClub1: Sanford
+  G: '123'
+  AB: '435'
+  R: '78'
+  H: '118'
+  TB: '145'
+  H2B: '17'
+  H3B: '2'
+  HR: '2'
+  SH: '8'
+  SB: '12'
+  BB: '73'
+  HP: '7'
+  RBI: '65'
+  SO: '59'
+  AVG: '.271'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Ivy
+  nameFirst: Harold T.
+  nameClub1: Gainesville
+  bats: L
+  G: '134'
+  AB: '508'
+  R: '82'
+  H: '137'
+  TB: '193'
+  H2B: '22'
+  H3B: '11'
+  HR: '4'
+  SH: '5'
+  SB: '11'
+  BB: '68'
+  HP: '4'
+  RBI: '60'
+  SO: '86'
+  AVG: '.270'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Cleary
+  nameFirst: Joseph C.
+  nameClub1: Gainesville
+  G: '35'
+  AB: '89'
+  R: '5'
+  H: '24'
+  TB: '25'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '9'
+  SO: '4'
+  AVG: '.270'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Shiles
+  nameFirst: Harold E.
+  nameClub1: Daytona Beach
+  nameClub2: Gainesville
+  G: '137'
+  AB: '502'
+  R: '106'
+  H: '135'
+  TB: '187'
+  H2B: '10'
+  H3B: '12'
+  HR: '6'
+  SH: '4'
+  SB: '81'
+  BB: '92'
+  HP: '7'
+  RBI: '69'
+  SO: '78'
+  AVG: '.269'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: McManus
+  nameFirst: John J.
+  nameClub1: Sanford
+  G: '133'
+  AB: '551'
+  R: '109'
+  H: '147'
+  TB: '186'
+  H2B: '23'
+  H3B: '5'
+  HR: '2'
+  SH: '11'
+  SB: '16'
+  BB: '110'
+  HP: '2'
+  RBI: '61'
+  SO: '58'
+  AVG: '.267'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Perada
+  nameFirst: Orestes
+  nameClub1: Palatka
+  G: '105'
+  AB: '419'
+  R: '56'
+  H: '112'
+  TB: '128'
+  H2B: '12'
+  H3B: '2'
+  HR: '0'
+  SH: '7'
+  SB: '8'
+  BB: '33'
+  HP: '6'
+  RBI: '24'
+  SO: '31'
+  AVG: '.267'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Rose
+  nameFirst: Charles
+  nameClub1: Sanford
+  G: '11'
+  AB: '15'
+  R: '2'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  AVG: '.267'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Toncoff
+  nameFirst: John
+  nameClub1: Palatka
+  nameClub2: Daytona Beach
+  G: '113'
+  AB: '402'
+  R: '49'
+  H: '107'
+  TB: '136'
+  H2B: '12'
+  H3B: '1'
+  HR: '5'
+  SH: '1'
+  SB: '1'
+  BB: '60'
+  HP: '0'
+  RBI: '57'
+  SO: '36'
+  AVG: '.266'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Danson
+  nameFirst: Elwyn P.
+  nameClub1: Palatka
+  G: '138'
+  AB: '541'
+  R: '72'
+  H: '141'
+  TB: '178'
+  H2B: '14'
+  H3B: '4'
+  HR: '5'
+  SH: '12'
+  SB: '9'
+  BB: '57'
+  HP: '2'
+  RBI: '54'
+  SO: '44'
+  AVG: '.261'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Kittrell
+  nameFirst: Julian U.
+  nameClub1: Gainesville
+  bats: L
+  G: '121'
+  AB: '415'
+  R: '72'
+  H: '108'
+  TB: '135'
+  H2B: '21'
+  H3B: '3'
+  HR: '0'
+  SH: '4'
+  SB: '7'
+  BB: '76'
+  HP: '7'
+  RBI: '57'
+  SO: '61'
+  AVG: '.260'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: McCord
+  nameFirst: Norman J.
+  nameClub1: Leesburg
+  G: '24'
+  AB: '77'
+  R: '4'
+  H: '20'
+  TB: '25'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '12'
+  HP: '1'
+  RBI: '11'
+  SO: '15'
+  AVG: '.260'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Kondracki
+  nameFirst: Robert E.
+  nameClub1: St. Augustine
+  bats: L
+  G: '85'
+  AB: '329'
+  R: '47'
+  H: '85'
+  TB: '104'
+  H2B: '11'
+  H3B: '2'
+  HR: '2'
+  SH: '0'
+  SB: '2'
+  BB: '17'
+  HP: '2'
+  RBI: '48'
+  SO: '56'
+  AVG: '.258'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Salter
+  nameFirst: Desmond E.
+  nameClub1: Leesburg
+  G: '87'
+  AB: '347'
+  R: '63'
+  H: '89'
+  TB: '137'
+  H2B: '14'
+  H3B: '2'
+  HR: '10'
+  SH: '0'
+  SB: '7'
+  BB: '41'
+  HP: '3'
+  RBI: '61'
+  SO: '26'
+  AVG: '.256'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Johnson
+  nameFirst: Sidney L.
+  nameClub1: Gainesville
+  G: '62'
+  AB: '259'
+  R: '56'
+  H: '66'
+  TB: '94'
+  H2B: '16'
+  H3B: '6'
+  HR: '0'
+  SH: '0'
+  SB: '13'
+  BB: '33'
+  HP: '3'
+  RBI: '23'
+  SO: '32'
+  AVG: '.255'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Brasington
+  nameFirst: J. Bryan
+  nameClub1: DeLand
+  G: '87'
+  AB: '332'
+  R: '51'
+  H: '84'
+  TB: '102'
+  H2B: '16'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '17'
+  BB: '35'
+  HP: '5'
+  RBI: '28'
+  SO: '43'
+  AVG: '.253'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameFirst: Henry C. Jr.
+  nameClub1: St. Augustine
+  bats: L
+  G: '87'
+  AB: '317'
+  R: '41'
+  H: '80'
+  TB: '102'
+  H2B: '14'
+  H3B: '4'
+  HR: '0'
+  SH: '5'
+  SB: '5'
+  BB: '41'
+  HP: '6'
+  RBI: '40'
+  SO: '38'
+  AVG: '.252'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Paszek
+  nameFirst: John J.
+  nameClub1: Leesburg
+  G: '134'
+  AB: '468'
+  R: '76'
+  H: '118'
+  TB: '182'
+  H2B: '17'
+  H3B: '7'
+  HR: '11'
+  SH: '3'
+  SB: '12'
+  BB: '73'
+  HP: '20'
+  RBI: '73'
+  SO: '121'
+  AVG: '.252'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Mayer
+  nameFirst: Laverne
+  nameClub1: DeLand
+  bats: L
+  G: '130'
+  AB: '455'
+  R: '84'
+  H: '114'
+  TB: '153'
+  H2B: '25'
+  H3B: '7'
+  HR: '0'
+  SH: '5'
+  SB: '4'
+  BB: '89'
+  HP: '7'
+  RBI: '43'
+  SO: '86'
+  AVG: '.251'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Stabelfeld
+  nameFirst: Elvin F.
+  nameClub1: Daytona Beach
+  G: '42'
+  AB: '112'
+  R: '11'
+  H: '28'
+  TB: '35'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '15'
+  SO: '14'
+  AVG: '.250'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Barhorst
+  nameFirst: Harold J.
+  nameClub1: Palatka
+  G: '22'
+  AB: '24'
+  R: '4'
+  H: '6'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '2'
+  HP: '1'
+  RBI: '4'
+  SO: '6'
+  AVG: '.250'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Booher
+  nameFirst: Lester J.
+  nameClub1: Sanford
+  G: '20'
+  AB: '64'
+  R: '15'
+  H: '16'
+  TB: '19'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '4'
+  HP: '0'
+  RBI: '10'
+  SO: '10'
+  AVG: '.250'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Lake
+  nameFirst: Bernard A.
+  nameClub1: Sanford
+  bats: B
+  G: '95'
+  AB: '230'
+  R: '40'
+  H: '57'
+  TB: '81'
+  H2B: '9'
+  H3B: '3'
+  HR: '3'
+  SH: '6'
+  SB: '9'
+  BB: '48'
+  HP: '5'
+  RBI: '37'
+  SO: '20'
+  AVG: '.248'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Sebastian
+  nameFirst: John
+  nameClub1: St. Augustine
+  G: '82'
+  AB: '282'
+  R: '48'
+  H: '70'
+  TB: '92'
+  H2B: '8'
+  H3B: '1'
+  HR: '4'
+  SH: '6'
+  SB: '7'
+  BB: '52'
+  HP: '4'
+  RBI: '37'
+  SO: '48'
+  AVG: '.248'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Romanello
+  nameFirst: Alex J.
+  nameClub1: Leesburg
+  nameClub2: Daytona Beach
+  nameClub3: St. Augustine
+  nameClub4: Sanford
+  G: '55'
+  AB: '133'
+  R: '21'
+  H: '33'
+  TB: '54'
+  H2B: '12'
+  H3B: '0'
+  HR: '3'
+  SH: '3'
+  SB: '2'
+  BB: '41'
+  HP: '2'
+  RBI: '19'
+  SO: '22'
+  AVG: '.248'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Butler
+  nameFirst: Chester S.
+  nameClub1: Leesburg
+  G: '24'
+  AB: '85'
+  R: '10'
+  H: '21'
+  TB: '28'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '6'
+  SO: '12'
+  AVG: '.247'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Connelly
+  nameFirst: Anthony F.
+  nameClub1: Palatka
+  G: '29'
+  AB: '86'
+  R: '10'
+  H: '21'
+  TB: '36'
+  H2B: '6'
+  H3B: '0'
+  HR: '3'
+  SH: '0'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '17'
+  SO: '17'
+  AVG: '.244'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bride
+  nameFirst: David W.
+  nameClub1: DeLand
+  G: '123'
+  AB: '452'
+  R: '57'
+  H: '110'
+  TB: '150'
+  H2B: '9'
+  H3B: '8'
+  HR: '5'
+  SH: '5'
+  SB: '15'
+  BB: '54'
+  HP: '3'
+  RBI: '53'
+  SO: '63'
+  AVG: '.243'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Roman
+  nameFirst: Robert A.
+  nameClub1: Daytona Beach
+  G: '108'
+  AB: '350'
+  R: '46'
+  H: '85'
+  TB: '124'
+  H2B: '10'
+  H3B: '4'
+  HR: '7'
+  SH: '0'
+  SB: '8'
+  BB: '45'
+  HP: '1'
+  RBI: '52'
+  SO: '74'
+  AVG: '.243'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Montalbano
+  nameFirst: Gus J.
+  nameClub1: Daytona Beach
+  G: '31'
+  AB: '115'
+  R: '21'
+  H: '28'
+  TB: '41'
+  H2B: '3'
+  H3B: '2'
+  HR: '2'
+  SH: '2'
+  SB: '6'
+  BB: '15'
+  HP: '0'
+  RBI: '16'
+  SO: '19'
+  AVG: '.243'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Petty
+  nameFirst: Fred K.
+  nameClub1: Sanford
+  G: '21'
+  AB: '50'
+  R: '4'
+  H: '12'
+  TB: '15'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '5'
+  SO: '14'
+  AVG: '.240'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Brocato
+  nameFirst: James A.
+  nameClub1: DeLand
+  G: '20'
+  AB: '71'
+  R: '14'
+  H: '17'
+  TB: '21'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '15'
+  HP: '0'
+  RBI: '3'
+  SO: '12'
+  AVG: '.239'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Pepio
+  nameFirst: Charles
+  nameClub1: Sanford
+  G: '107'
+  AB: '384'
+  R: '62'
+  H: '91'
+  TB: '121'
+  H2B: '17'
+  H3B: '5'
+  HR: '1'
+  SH: '14'
+  SB: '8'
+  BB: '73'
+  HP: '6'
+  RBI: '55'
+  SO: '64'
+  AVG: '.237'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Fetner
+  nameFirst: John E.
+  nameClub1: DeLand
+  G: '27'
+  AB: '55'
+  R: '5'
+  H: '13'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '8'
+  SO: '11'
+  AVG: '.236'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Seaone
+  nameFirst: Isaac
+  nameClub1: Orlando
+  G: '130'
+  AB: '451'
+  R: '64'
+  H: '106'
+  TB: '145'
+  H2B: '14'
+  H3B: '8'
+  HR: '3'
+  SH: '1'
+  SB: '7'
+  BB: '77'
+  HP: '4'
+  RBI: '66'
+  SO: '51'
+  AVG: '.235'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Lichens (tein)
+  nameFirst: Edw. W.
+  nameClub1: DeLand
+  nameClub2: Daytona Beach
+  G: '113'
+  AB: '383'
+  R: '64'
+  H: '90'
+  TB: '109'
+  H2B: '10'
+  H3B: '3'
+  HR: '1'
+  SH: '8'
+  SB: '5'
+  BB: '56'
+  HP: '10'
+  RBI: '43'
+  SO: '70'
+  AVG: '.235'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Coker
+  nameFirst: Jack D.
+  nameClub1: Gainesville
+  G: '16'
+  AB: '34'
+  R: '1'
+  H: '8'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '4'
+  SO: '1'
+  AVG: '.235'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Coker
+  nameFirst: Don J.
+  nameClub1: Gainesville
+  G: '54'
+  AB: '137'
+  R: '17'
+  H: '32'
+  TB: '41'
+  H2B: '6'
+  H3B: '0'
+  HR: '1'
+  SH: '5'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '21'
+  SO: '21'
+  AVG: '.234'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: LaPorta
+  nameFirst: John J.
+  nameClub1: St. Augustine
+  G: '132'
+  AB: '519'
+  R: '65'
+  H: '121'
+  TB: '156'
+  H2B: '21'
+  H3B: '7'
+  HR: '0'
+  SH: '3'
+  SB: '15'
+  BB: '66'
+  HP: '2'
+  RBI: '31'
+  SO: '58'
+  AVG: '.233'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Story
+  nameFirst: William E.
+  nameClub1: St. Augustine
+  G: '21'
+  AB: '43'
+  R: '5'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '15'
+  AVG: '.233'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Patterson
+  nameFirst: William E.
+  nameClub1: DeLand
+  G: '55'
+  AB: '164'
+  R: '20'
+  H: '38'
+  TB: '45'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '27'
+  HP: '1'
+  RBI: '26'
+  SO: '18'
+  AVG: '.232'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Smeraglia
+  nameFirst: Anthony
+  nameClub1: Leesburg
+  bats: L
+  G: '136'
+  AB: '520'
+  R: '71'
+  H: '120'
+  TB: '156'
+  H2B: '24'
+  H3B: '3'
+  HR: '2'
+  SH: '16'
+  SB: '13'
+  BB: '73'
+  HP: '11'
+  RBI: '46'
+  SO: '65'
+  AVG: '.231'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Karson
+  nameFirst: Rudolph A.
+  nameClub1: Sanford
+  G: '82'
+  AB: '255'
+  R: '24'
+  H: '59'
+  TB: '76'
+  H2B: '11'
+  H3B: '3'
+  HR: '0'
+  SH: '7'
+  SB: '1'
+  BB: '41'
+  HP: '3'
+  RBI: '32'
+  SO: '28'
+  AVG: '.231'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Synan
+  nameFirst: Robert A.
+  nameClub1: Palatka
+  bats: L
+  G: '31'
+  AB: '121'
+  R: '18'
+  H: '28'
+  TB: '31'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '3'
+  RBI: '9'
+  SO: '14'
+  AVG: '.231'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: O'Callaghan
+  nameFirst: Thomas C.
+  nameClub1: Gainesville
+  G: '30'
+  AB: '78'
+  R: '9'
+  H: '18'
+  TB: '23'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '8'
+  SO: '28'
+  AVG: '.231'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Gonzales
+  nameFirst: Rigoberto
+  nameClub1: Palatka
+  G: '21'
+  AB: '65'
+  R: '4'
+  H: '15'
+  TB: '15'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '2'
+  RBI: '5'
+  SO: '11'
+  AVG: '.231'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Clifton
+  nameFirst: Lloyd M.
+  nameClub1: Sanford
+  G: '129'
+  AB: '521'
+  R: '94'
+  H: '120'
+  TB: '157'
+  H2B: '18'
+  H3B: '8'
+  HR: '1'
+  SH: '21'
+  SB: '7'
+  BB: '62'
+  HP: '5'
+  RBI: '47'
+  SO: '81'
+  AVG: '.230'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Kupina
+  nameFirst: Robert F.
+  nameClub1: St. Augustine
+  nameClub2: Palatka
+  G: '78'
+  AB: '265'
+  R: '41'
+  H: '61'
+  TB: '84'
+  H2B: '9'
+  H3B: '1'
+  HR: '4'
+  SH: '1'
+  SB: '9'
+  BB: '31'
+  HP: '3'
+  RBI: '26'
+  SO: '57'
+  AVG: '.230'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Ridenour
+  nameFirst: Roy S.
+  nameClub1: Palatka
+  G: '26'
+  AB: '75'
+  R: '10'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '8'
+  SO: '15'
+  AVG: '.227'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Woolford
+  nameFirst: Ralph C.
+  nameClub1: Leesburg
+  G: '21'
+  AB: '44'
+  R: '3'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '17'
+  AVG: '.227'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Goding
+  nameFirst: William S.
+  nameClub1: DeLand
+  G: '52'
+  AB: '169'
+  R: '17'
+  H: '38'
+  TB: '45'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '21'
+  HP: '1'
+  RBI: '13'
+  SO: '28'
+  AVG: '.225'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Rosa
+  nameFirst: Ted E.
+  nameClub1: DeLand
+  G: '49'
+  AB: '178'
+  R: '20'
+  H: '40'
+  TB: '41'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '6'
+  BB: '22'
+  HP: '7'
+  RBI: '9'
+  SO: '5'
+  AVG: '.225'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Wiles
+  nameFirst: Charles B.
+  nameClub1: St. Augustine
+  G: '82'
+  AB: '291'
+  R: '22'
+  H: '65'
+  TB: '76'
+  H2B: '9'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '24'
+  HP: '1'
+  RBI: '31'
+  SO: '32'
+  AVG: '.223'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Fish
+  nameFirst: John H.
+  nameClub1: St. Augustine
+  G: '14'
+  AB: '36'
+  R: '3'
+  H: '8'
+  TB: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '1'
+  SO: '6'
+  AVG: '.222'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Kavakis
+  nameFirst: Connie
+  nameClub1: Sanford
+  G: '117'
+  AB: '371'
+  R: '60'
+  H: '82'
+  TB: '122'
+  H2B: '7'
+  H3B: '6'
+  HR: '7'
+  SH: '11'
+  SB: '14'
+  BB: '78'
+  HP: '3'
+  RBI: '62'
+  SO: '123'
+  AVG: '.221'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Powell
+  nameFirst: Alvin Jacob
+  nameClub1: Gainesville
+  G: '31'
+  AB: '109'
+  R: '14'
+  H: '24'
+  TB: '27'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '10'
+  HP: '2'
+  RBI: '13'
+  SO: '12'
+  AVG: '.220'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Anthony
+  nameFirst: John F.
+  nameClub1: Leesburg
+  G: '91'
+  AB: '319'
+  R: '43'
+  H: '70'
+  TB: '82'
+  H2B: '10'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '10'
+  BB: '35'
+  HP: '0'
+  RBI: '26'
+  SO: '75'
+  AVG: '.219'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Mirande
+  nameFirst: Anthony
+  nameClub1: Orlando
+  G: '120'
+  AB: '413'
+  R: '62'
+  H: '90'
+  TB: '106'
+  H2B: '7'
+  H3B: '3'
+  HR: '1'
+  SH: '9'
+  SB: '9'
+  BB: '96'
+  HP: '1'
+  RBI: '47'
+  SO: '70'
+  AVG: '.218'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Rickard
+  nameFirst: Charles R.
+  nameClub1: St. Augustine
+  G: '72'
+  AB: '216'
+  R: '33'
+  H: '47'
+  TB: '55'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '9'
+  BB: '38'
+  HP: '4'
+  RBI: '25'
+  SO: '33'
+  AVG: '.218'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Davis
+  nameFirst: Edwin
+  nameClub1: Orlando
+  G: '32'
+  AB: '87'
+  R: '11'
+  H: '19'
+  TB: '25'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '16'
+  SO: '13'
+  AVG: '.218'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Spinks
+  nameFirst: Charles W.
+  nameClub1: Sanford
+  bats: L
+  G: '33'
+  AB: '46'
+  R: '2'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '12'
+  AVG: '.217'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Mullin
+  nameFirst: Vincent
+  nameClub1: Sanford
+  G: '50'
+  AB: '176'
+  R: '26'
+  H: '38'
+  TB: '60'
+  H2B: '5'
+  H3B: '4'
+  HR: '3'
+  SH: '3'
+  SB: '2'
+  BB: '12'
+  HP: '0'
+  RBI: '27'
+  SO: '33'
+  AVG: '.216'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Dulaney
+  nameFirst: Ralph L.
+  nameClub1: Gainesville
+  bats: L
+  G: '119'
+  AB: '402'
+  R: '54'
+  H: '86'
+  TB: '122'
+  H2B: '13'
+  H3B: '4'
+  HR: '5'
+  SH: '3'
+  SB: '4'
+  BB: '60'
+  HP: '4'
+  RBI: '56'
+  SO: '51'
+  AVG: '.214'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Purcell
+  nameFirst: George D.
+  nameClub1: Palatka
+  bats: L
+  G: '15'
+  AB: '42'
+  R: '2'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  AVG: '.214'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Nelson
+  nameFirst: Warren A.
+  nameClub1: DeLand
+  G: '12'
+  AB: '14'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.214'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Gillispie
+  nameFirst: Fred D.
+  nameClub1: St. Augustine
+  G: '30'
+  AB: '80'
+  R: '8'
+  H: '17'
+  TB: '18'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '2'
+  HP: '0'
+  RBI: '6'
+  SO: '10'
+  AVG: '.213'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Collins
+  nameFirst: Fleet M.
+  nameClub1: Gainesville
+  G: '140'
+  AB: '525'
+  R: '73'
+  H: '110'
+  TB: '138'
+  H2B: '15'
+  H3B: '5'
+  HR: '1'
+  SH: '8'
+  SB: '11'
+  BB: '50'
+  HP: '0'
+  RBI: '48'
+  SO: '69'
+  AVG: '.210'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Pawlick
+  nameFirst: John M.
+  nameClub1: St. Augustine
+  G: '86'
+  AB: '334'
+  R: '36'
+  H: '70'
+  TB: '86'
+  H2B: '9'
+  H3B: '2'
+  HR: '1'
+  SH: '6'
+  SB: '11'
+  BB: '38'
+  HP: '3'
+  RBI: '37'
+  SO: '48'
+  AVG: '.210'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Yarbrough
+  nameFirst: Mack D.
+  nameClub1: Daytona Beach
+  G: '100'
+  AB: '316'
+  R: '47'
+  H: '66'
+  TB: '80'
+  H2B: '10'
+  H3B: '2'
+  HR: '0'
+  SH: '16'
+  SB: '5'
+  BB: '63'
+  HP: '2'
+  RBI: '18'
+  SO: '82'
+  AVG: '.209'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Zedalis
+  nameFirst: Stanley
+  nameClub1: Orlando
+  G: '41'
+  AB: '106'
+  R: '16'
+  H: '22'
+  TB: '33'
+  H2B: '3'
+  H3B: '4'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '15'
+  SO: '43'
+  AVG: '.208'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Lisiewski
+  nameFirst: Edward J.
+  nameClub1: Sanford
+  G: '22'
+  AB: '48'
+  R: '5'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '6'
+  SO: '16'
+  AVG: '.208'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Fortuna
+  nameFirst: Justin J.
+  nameClub1: Gainesville
+  G: '124'
+  AB: '434'
+  R: '49'
+  H: '90'
+  TB: '115'
+  H2B: '9'
+  H3B: '5'
+  HR: '2'
+  SH: '5'
+  SB: '4'
+  BB: '47'
+  HP: '2'
+  RBI: '43'
+  SO: '72'
+  AVG: '.207'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: McMahon
+  nameFirst: James M.
+  nameClub1: St. Augustine
+  bats: L
+  G: '22'
+  AB: '82'
+  R: '11'
+  H: '17'
+  TB: '20'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '18'
+  HP: '0'
+  RBI: '11'
+  SO: '20'
+  AVG: '.207'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Benes
+  nameFirst: James J.
+  nameClub1: St. Augustine
+  G: '37'
+  AB: '64'
+  R: '2'
+  H: '13'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '5'
+  SO: '17'
+  AVG: '.203'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Dobkins
+  nameFirst: Tom
+  nameClub1: Leesburg
+  bats: L
+  G: '25'
+  AB: '80'
+  R: '8'
+  H: '16'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '9'
+  HP: '0'
+  RBI: '5'
+  SO: '9'
+  AVG: '.200'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Zuromski
+  nameFirst: Walter A.
+  nameClub1: Orlando
+  G: '24'
+  AB: '45'
+  R: '5'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '4'
+  HP: '1'
+  RBI: '1'
+  SO: '14'
+  AVG: '.200'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Ziarko
+  nameFirst: Casimir J.
+  nameClub1: Gainesville
+  G: '11'
+  AB: '25'
+  R: '4'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '3'
+  SO: '3'
+  AVG: '.200'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Mongiello
+  nameFirst: Anthony J.
+  nameClub1: Leesburg
+  G: '102'
+  AB: '356'
+  R: '56'
+  H: '70'
+  TB: '77'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  SH: '6'
+  SB: '9'
+  BB: '69'
+  HP: '1'
+  RBI: '20'
+  SO: '51'
+  AVG: '.197'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Mendoza
+  nameFirst: Ray
+  nameClub1: Palatka
+  bats: L
+  G: '44'
+  AB: '155'
+  R: '15'
+  H: '30'
+  TB: '33'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '6'
+  BB: '12'
+  HP: '1'
+  RBI: '10'
+  SO: '23'
+  AVG: '.194'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Jacome
+  nameFirst: Jesus
+  nameClub1: DeLand
+  G: '49'
+  AB: '167'
+  R: '15'
+  H: '32'
+  TB: '48'
+  H2B: '6'
+  H3B: '5'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '11'
+  HP: '4'
+  RBI: '12'
+  SO: '33'
+  AVG: '.192'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Knisley
+  nameFirst: Gordon L.
+  nameClub1: St. Augustine
+  G: '35'
+  AB: '120'
+  R: '18'
+  H: '23'
+  TB: '30'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '17'
+  HP: '2'
+  RBI: '15'
+  SO: '20'
+  AVG: '.192'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: DiMinico
+  nameFirst: Charles
+  nameClub1: St. Augustine
+  nameClub2: Palatka
+  bats: L
+  G: '26'
+  AB: '52'
+  R: '5'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '6'
+  SO: '6'
+  AVG: '.192'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Worsham
+  nameFirst: Lonnie
+  nameClub1: Sanford
+  G: '24'
+  AB: '47'
+  R: '3'
+  H: '9'
+  TB: '12'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.191'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Orlando
+  nameFirst: Ronald P.
+  nameClub1: Orlando
+  G: '17'
+  AB: '47'
+  R: '13'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '5'
+  SO: '11'
+  AVG: '.191'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Koellmer
+  nameFirst: William E.
+  nameClub1: Palatka
+  G: '14'
+  AB: '47'
+  R: '10'
+  H: '9'
+  TB: '12'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '12'
+  HP: '2'
+  RBI: '3'
+  SO: '25'
+  AVG: '.191'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bjorklund
+  nameFirst: Howard A.
+  nameClub1: St. Augustine
+  bats: L
+  G: '12'
+  AB: '47'
+  R: '9'
+  H: '9'
+  TB: '16'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '2'
+  BB: '8'
+  HP: '1'
+  RBI: '6'
+  SO: '8'
+  AVG: '.191'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Mills
+  nameFirst: Ray Edwin
+  nameClub1: Orlando
+  G: '53'
+  AB: '163'
+  R: '20'
+  H: '31'
+  TB: '36'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '18'
+  HP: '0'
+  RBI: '21'
+  SO: '35'
+  AVG: '.190'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bodine
+  nameFirst: Charles W.
+  nameClub1: Daytona Beach
+  G: '39'
+  AB: '69'
+  R: '7'
+  H: '13'
+  TB: '16'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '3'
+  SO: '25'
+  AVG: '.188'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Katauskas
+  nameFirst: Leonard M.
+  nameClub1: Palatka
+  G: '15'
+  AB: '43'
+  R: '9'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '1'
+  SO: '10'
+  AVG: '.186'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Tarolli
+  nameFirst: Louis J.
+  nameClub1: Leesburg
+  G: '40'
+  AB: '99'
+  R: '4'
+  H: '18'
+  TB: '25'
+  H2B: '0'
+  H3B: '2'
+  HR: '1'
+  SH: '8'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '3'
+  SO: '29'
+  AVG: '.182'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Schultz
+  nameFirst: Joseph F.
+  nameClub1: Sanford
+  G: '39'
+  AB: '78'
+  R: '6'
+  H: '14'
+  TB: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '3'
+  SO: '29'
+  AVG: '.179'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Amoriello
+  nameFirst: Clarence
+  nameClub1: Leesburg
+  G: '36'
+  AB: '97'
+  R: '5'
+  H: '17'
+  TB: '18'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '1'
+  BB: '1'
+  HP: '1'
+  RBI: '7'
+  SO: '16'
+  AVG: '.175'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Griggs
+  nameFirst: Melvin J.
+  nameClub1: Gainesville
+  nameClub2: Palatka
+  G: '60'
+  AB: '167'
+  R: '14'
+  H: '29'
+  TB: '35'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '15'
+  HP: '3'
+  RBI: '18'
+  SO: '56'
+  AVG: '.174'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Stewart
+  nameFirst: Harold J.
+  nameClub1: DeLand
+  G: '23'
+  AB: '52'
+  R: '7'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '3'
+  SO: '13'
+  AVG: '.173'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Green
+  nameFirst: William
+  nameClub1: Leesburg
+  bats: L
+  G: '19'
+  AB: '64'
+  R: '10'
+  H: '11'
+  TB: '16'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '17'
+  HP: '0'
+  RBI: '9'
+  SO: '15'
+  AVG: '.171'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bazzani
+  nameFirst: Attilio J.
+  nameClub1: St. Augustine
+  bats: L
+  G: '13'
+  AB: '35'
+  R: '6'
+  H: '6'
+  TB: '18'
+  H2B: '0'
+  H3B: '0'
+  HR: '4'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '9'
+  SO: '9'
+  AVG: '.171'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Passannante
+  nameFirst: Anthony A.
+  nameClub1: Leesburg
+  G: '11'
+  AB: '41'
+  R: '4'
+  H: '7'
+  TB: '9'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '7'
+  HP: '0'
+  RBI: '3'
+  SO: '19'
+  AVG: '.171'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Pettit
+  nameFirst: Dane E.
+  nameClub1: Palatka
+  G: '11'
+  AB: '41'
+  R: '1'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '13'
+  AVG: '.171'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Hyde
+  nameFirst: James A.
+  nameClub1: Daytona Beach
+  nameClub2: DeLand
+  G: '47'
+  AB: '177'
+  R: '23'
+  H: '30'
+  TB: '37'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '13'
+  HP: '3'
+  RBI: '13'
+  SO: '38'
+  AVG: '.169'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Haynes
+  nameFirst: James W.
+  nameClub1: DeLand
+  G: '18'
+  AB: '60'
+  R: '8'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  RBI: '3'
+  SO: '2'
+  AVG: '.167'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: DiNicola
+  nameFirst: John
+  nameClub1: Orlando
+  G: '13'
+  AB: '36'
+  R: '5'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '6'
+  HP: '1'
+  RBI: '3'
+  SO: '1'
+  AVG: '.167'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bailey
+  nameFirst: Howard E.
+  nameClub1: Leesburg
+  bats: L
+  G: '33'
+  AB: '79'
+  R: '6'
+  H: '13'
+  TB: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '3'
+  SO: '26'
+  AVG: '.165'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Alonzo
+  nameFirst: Guillermo
+  nameClub1: DeLand
+  G: '36'
+  AB: '93'
+  R: '11'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '1'
+  BB: '7'
+  HP: '1'
+  RBI: '9'
+  SO: '19'
+  AVG: '.161'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Craig
+  nameFirst: Steven M.
+  nameClub1: Leesburg
+  G: '16'
+  AB: '44'
+  R: '6'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '3'
+  SO: '4'
+  AVG: '.159'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bowles
+  nameFirst: Charles J.
+  nameClub1: Palatka
+  G: '24'
+  AB: '64'
+  R: '7'
+  H: '10'
+  TB: '20'
+  H2B: '2'
+  H3B: '1'
+  HR: '2'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '10'
+  SO: '10'
+  AVG: '.156'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Meadows
+  nameFirst: Herman V.
+  nameClub1: Daytona Beach
+  G: '30'
+  AB: '58'
+  R: '4'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '1'
+  SO: '20'
+  AVG: '.155'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Seijas
+  nameFirst: Arturo
+  nameClub1: Palatka
+  G: '11'
+  AB: '26'
+  R: '4'
+  H: '4'
+  TB: '6'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  RBI: '2'
+  SO: '5'
+  AVG: '.154'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Hardy
+  nameFirst: William E.
+  nameClub1: DeLand
+  G: '61'
+  AB: '193'
+  R: '7'
+  H: '29'
+  TB: '31'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '13'
+  HP: '1'
+  RBI: '15'
+  SO: '19'
+  AVG: '.150'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Moore
+  nameFirst: Paul F.
+  nameClub1: DeLand
+  G: '10'
+  AB: '7'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.143'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Regan
+  nameFirst: Martin M.
+  nameClub1: Leesburg
+  G: '38'
+  AB: '57'
+  R: '2'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '20'
+  AVG: '.140'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Riota
+  nameFirst: John P.
+  nameClub1: Palatka
+  G: '27'
+  AB: '79'
+  R: '6'
+  H: '11'
+  TB: '14'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '2'
+  BB: '11'
+  HP: '3'
+  RBI: '9'
+  SO: '12'
+  AVG: '.139'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Murnahan
+  nameFirst: Doyle
+  nameClub1: Palatka
+  G: '12'
+  AB: '15'
+  R: '3'
+  H: '2'
+  TB: '4'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '1'
+  SO: '7'
+  AVG: '.133'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Spevak
+  nameFirst: Otto M.
+  nameClub1: Orlando
+  bats: L
+  G: '16'
+  AB: '59'
+  R: '6'
+  H: '7'
+  TB: '11'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '5'
+  SO: '15'
+  AVG: '.119'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Hyde
+  nameFirst: Thomas Duane
+  nameClub1: Orlando
+  bats: L
+  G: '34'
+  AB: '76'
+  R: '7'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '5'
+  SO: '14'
+  AVG: '.118'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Umscheid
+  nameFirst: Donald A.
+  nameClub1: Sanford
+  G: '22'
+  AB: '26'
+  R: '6'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '5'
+  SO: '6'
+  AVG: '.115'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Caruso
+  nameFirst: Anthony
+  nameClub1: Orlando
+  G: '26'
+  AB: '35'
+  R: '4'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '6'
+  SO: '10'
+  AVG: '.114'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Vitola
+  nameFirst: John
+  nameClub1: DeLand
+  G: '37'
+  AB: '50'
+  R: '1'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '12'
+  HP: '1'
+  RBI: '3'
+  SO: '25'
+  AVG: '.100'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Norka
+  nameFirst: Stanley
+  nameClub1: St. Augustine
+  G: '13'
+  AB: '40'
+  R: '11'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '17'
+  HP: '0'
+  RBI: '2'
+  SO: '13'
+  AVG: '.100'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Tutka
+  nameFirst: William
+  nameClub1: Palatka
+  G: '14'
+  AB: '21'
+  R: '5'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.095'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Reber
+  nameFirst: Donald E.
+  nameClub1: Palatka
+  G: '23'
+  AB: '46'
+  R: '3'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '4'
+  SO: '26'
+  AVG: '.087'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Sheppard
+  nameFirst: William D.
+  nameClub1: Daytona Beach
+  nameClub2: Palatka
+  nameClub3: Daytona Beach
+  G: '18'
+  AB: '47'
+  R: '4'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '1'
+  SO: '18'
+  AVG: '.085'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Mostak
+  nameFirst: John A.
+  nameClub1: Daytona Beach
+  G: '10'
+  AB: '12'
+  R: '2'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.083'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Marcello
+  nameFirst: Paul P.
+  nameClub1: Palatka
+  G: '10'
+  AB: '12'
+  R: '1'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.083'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Harrison
+  nameFirst: William J.
+  nameClub1: Palatka
+  G: '16'
+  AB: '39'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '4'
+  SO: '8'
+  AVG: '.077'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Johnson
+  nameFirst: Cecil
+  nameClub1: Palatka
+  G: '44'
+  AB: '80'
+  R: '6'
+  H: '6'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '14'
+  HP: '0'
+  RBI: '7'
+  SO: '41'
+  AVG: '.075'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Branham
+  nameFirst: Ballard
+  nameClub1: Leesburg
+  G: '41'
+  AB: '82'
+  R: '5'
+  H: '6'
+  TB: '8'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '4'
+  SO: '35'
+  AVG: '.073'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Small
+  nameFirst: Frank L.
+  nameClub1: St. Augustine
+  G: '10'
+  AB: '30'
+  R: '2'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '2'
+  SO: '12'
+  AVG: '.067'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Rotunno
+  nameFirst: Rocco
+  nameClub1: Palatka
+  G: '12'
+  AB: '32'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '18'
+  AVG: '.063'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Bird
+  nameFirst: Glenn
+  nameClub1: DeLand
+  bats: B
+  G: '17'
+  AB: '35'
+  R: '3'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '13'
+  AVG: '.057'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: McDonald
+  nameFirst: Henry R.
+  nameClub1: St. Augustine
+  G: '14'
+  AB: '35'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '3'
+  AVG: '.057'
+- year: '1948'
+  nameLeague: Florida State League
+  nameLast: Noriega
+  nameFirst: Eduardo
+  nameClub1: Orlando
+  G: '31'
+  AB: '39'
+  R: '3'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.051'

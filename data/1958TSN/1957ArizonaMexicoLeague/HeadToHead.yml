@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  Cananea: '16'
+  Douglas: '19'
+  Las Vegas: '15'
+  Tucson: '21'
+  Mexicali: '18'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  Phoenix: '11'
+  Douglas: '13'
+  Las Vegas: '16'
+  Tucson: '18'
+  Mexicali: '18'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  Phoenix: '9'
+  Cananea: '13'
+  Las Vegas: '17'
+  Tucson: '15'
+  Mexicali: '14'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Las Vegas
+  Phoenix: '13'
+  Cananea: '10'
+  Douglas: '10'
+  Tucson: '13'
+  Mexicali: '16'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  Phoenix: '7'
+  Cananea: '9'
+  Douglas: '13'
+  Las Vegas: '15'
+  Mexicali: '18'
+- year: '1957'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  Phoenix: '8'
+  Cananea: '8'
+  Douglas: '14'
+  Las Vegas: '11'
+  Tucson: '10'

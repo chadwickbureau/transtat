@@ -1,0 +1,1114 @@
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Potter
+  nameClub1: Cedar Rapids
+  GP: '29'
+  CG: '15'
+  W: '18'
+  L: '6'
+  PCT: '.750'
+  IP: '197'
+  AB: '749'
+  H: '165'
+  R: '65'
+  ER: '50'
+  SH: '5'
+  BB: '68'
+  SO: '138'
+  HP: '2'
+  WP: '2'
+  ERA: '2.28'
+  F_P_PCT: '.966'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Swigart
+  nameClub1: Davenport
+  GP: '28'
+  CG: '22'
+  W: '14'
+  L: '12'
+  PCT: '.538'
+  IP: '226'
+  AB: '848'
+  H: '207'
+  R: '86'
+  ER: '67'
+  SH: '15'
+  BB: '90'
+  SO: '129'
+  HP: '4'
+  WP: '5'
+  ERA: '2.67'
+  F_P_PCT: '.919'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: VanFleet
+  nameClub1: Cedar Rapids
+  GP: '32'
+  CG: '19'
+  W: '22'
+  L: '7'
+  PCT: '.759'
+  IP: '226'
+  AB: '894'
+  H: '235'
+  R: '90'
+  ER: '71'
+  SH: '12'
+  BB: '47'
+  SO: '125'
+  HP: '2'
+  WP: '1'
+  ERA: '2.83'
+  F_P_PCT: '.862'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Ehrensberger
+  nameClub1: Sioux City
+  GP: '9'
+  CG: '7'
+  W: '5'
+  L: '2'
+  PCT: '.714'
+  IP: '70'
+  AB: '271'
+  H: '75'
+  R: '28'
+  ER: '22'
+  SH: '1'
+  BB: '11'
+  SO: '30'
+  HP: '2'
+  WP: '5'
+  ERA: '2.83'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Prince
+  nameClub1: Davenport
+  GP: '26'
+  CG: '18'
+  W: '14'
+  L: '9'
+  PCT: '.609'
+  IP: '199'
+  AB: '771'
+  H: '198'
+  R: '83'
+  ER: '64'
+  SH: '7'
+  BB: '56'
+  SO: '108'
+  HP: '5'
+  WP: '5'
+  ERA: '2.89'
+  F_P_PCT: '.953'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Schmidt
+  nameClub1: Waterloo
+  GP: '24'
+  CG: '15'
+  W: '12'
+  L: '8'
+  PCT: '.600'
+  IP: '171'
+  AB: '629'
+  H: '150'
+  R: '89'
+  ER: '56'
+  SH: '11'
+  BB: '94'
+  SO: '63'
+  HP: '5'
+  WP: '4'
+  ERA: '2.95'
+  F_P_PCT: '.957'
+  BK: '4'
+  F_P_TP: '1'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Krupski
+  nameClub1: Cedar Rapids
+  GP: '27'
+  CG: '12'
+  W: '13'
+  L: '6'
+  PCT: '.684'
+  IP: '160'
+  AB: '612'
+  H: '137'
+  R: '71'
+  ER: '56'
+  SH: '3'
+  BB: '73'
+  SO: '130'
+  HP: '4'
+  WP: '3'
+  ERA: '3.15'
+  F_P_PCT: '.931'
+  BK: '2'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: LeGault
+  nameClub1: Waterloo
+  GP: '28'
+  CG: '13'
+  W: '8'
+  L: '13'
+  PCT: '.381'
+  IP: '179'
+  AB: '682'
+  H: '174'
+  R: '95'
+  ER: '64'
+  SH: '11'
+  BB: '92'
+  SO: '99'
+  HP: '1'
+  WP: '4'
+  ERA: '3.22'
+  F_P_PCT: '.952'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: King
+  nameClub1: Waterloo
+  GP: '14'
+  CG: '7'
+  W: '7'
+  L: '4'
+  PCT: '.636'
+  IP: '103'
+  AB: '390'
+  H: '92'
+  R: '56'
+  ER: '37'
+  SH: '1'
+  BB: '51'
+  SO: '62'
+  HP: '1'
+  WP: '2'
+  ERA: '3.23'
+  F_P_PCT: '.949'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Burwell
+  nameClub1: Rock Island
+  GP: '13'
+  CG: '3'
+  W: '5'
+  L: '2'
+  PCT: '.714'
+  IP: '64'
+  AB: '262'
+  H: '72'
+  R: '35'
+  ER: '23'
+  SH: '3'
+  BB: '21'
+  SO: '41'
+  HP: '1'
+  WP: '1'
+  ERA: '3.23'
+  F_P_PCT: '.939'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Long
+  nameClub1: Davenport
+  GP: '7'
+  CG: '5'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '47'
+  AB: '184'
+  H: '47'
+  R: '26'
+  ER: '17'
+  SH: '5'
+  BB: '19'
+  SO: '31'
+  HP: '2'
+  WP: '2'
+  ERA: '3.26'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Cauble
+  nameClub1: Rock Island
+  nameClub2: Sioux City
+  GP: '26'
+  CG: '13'
+  W: '6'
+  L: '13'
+  PCT: '.316'
+  IP: '170'
+  AB: '638'
+  H: '163'
+  R: '91'
+  ER: '64'
+  SH: '9'
+  BB: '104'
+  SO: '95'
+  HP: '4'
+  WP: '11'
+  ERA: '3.39'
+  F_P_PCT: '.881'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Willoughby
+  nameClub1: Davenport
+  GP: '11'
+  CG: '5'
+  W: '5'
+  L: '1'
+  PCT: '.833'
+  IP: '71'
+  AB: '277'
+  H: '73'
+  R: '33'
+  ER: '27'
+  SH: '1'
+  BB: '15'
+  SO: '30'
+  HP: '0'
+  WP: '0'
+  ERA: '3.42'
+  F_P_PCT: '.957'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Thesenga
+  nameClub1: Sioux City
+  GP: '31'
+  CG: '16'
+  W: '14'
+  L: '12'
+  PCT: '.538'
+  IP: '187'
+  AB: '727'
+  H: '183'
+  R: '106'
+  ER: '72'
+  SH: '11'
+  BB: '78'
+  SO: '71'
+  HP: '4'
+  WP: '8'
+  ERA: '3.47'
+  F_P_PCT: '.932'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hemenway
+  nameClub1: Waterloo
+  GP: '34'
+  CG: '12'
+  W: '12'
+  L: '11'
+  PCT: '.522'
+  IP: '182'
+  AB: '704'
+  H: '177'
+  R: '92'
+  ER: '73'
+  SH: '7'
+  BB: '78'
+  SO: '111'
+  HP: '1'
+  WP: '3'
+  ERA: '3.61'
+  F_P_PCT: '.922'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Weiland
+  nameClub1: Sioux City
+  GP: '21'
+  CG: '8'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  IP: '136'
+  AB: '523'
+  H: '118'
+  R: '72'
+  ER: '55'
+  SH: '5'
+  BB: '64'
+  SO: '61'
+  HP: '3'
+  WP: '2'
+  ERA: '3.64'
+  F_P_PCT: '.840'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Bastien
+  nameClub1: Waterloo
+  GP: '27'
+  CG: '15'
+  W: '13'
+  L: '9'
+  PCT: '.591'
+  IP: '180'
+  AB: '698'
+  H: '174'
+  R: '91'
+  ER: '75'
+  SH: '7'
+  BB: '107'
+  SO: '62'
+  HP: '2'
+  WP: '0'
+  ERA: '3.75'
+  F_P_PCT: '.950'
+  BK: '3'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Taylor
+  nameClub1: Cedar Rapids
+  GP: '19'
+  CG: '12'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  IP: '129'
+  AB: '505'
+  H: '130'
+  R: '70'
+  ER: '54'
+  SH: '8'
+  BB: '48'
+  SO: '44'
+  HP: '3'
+  WP: '3'
+  ERA: '3.77'
+  F_P_PCT: '.982'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Radon(ovich)
+  nameClub1: Rock Island
+  GP: '10'
+  CG: '5'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '69'
+  AB: '265'
+  H: '62'
+  R: '37'
+  ER: '29'
+  SH: '2'
+  BB: '28'
+  SO: '45'
+  HP: '1'
+  WP: '2'
+  ERA: '3.78'
+  F_P_PCT: '1.000'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Pyle
+  nameClub1: Des Moines
+  GP: '22'
+  CG: '18'
+  W: '7'
+  L: '12'
+  PCT: '.368'
+  IP: '170'
+  AB: '667'
+  H: '174'
+  R: '104'
+  ER: '72'
+  SH: '8'
+  BB: '86'
+  SO: '105'
+  HP: '4'
+  WP: '12'
+  ERA: '3.81'
+  F_P_PCT: '.913'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: McDougall
+  nameClub1: Des Moines
+  GP: '30'
+  CG: '24'
+  W: '16'
+  L: '11'
+  PCT: '.593'
+  IP: '233'
+  AB: '936'
+  H: '266'
+  R: '120'
+  ER: '104'
+  SH: '5'
+  BB: '67'
+  SO: '111'
+  HP: '1'
+  WP: '14'
+  ERA: '4.02'
+  F_P_PCT: '.950'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Lotz
+  nameClub1: Sioux City
+  GP: '20'
+  CG: '6'
+  W: '4'
+  L: '8'
+  PCT: '.333'
+  IP: '101'
+  AB: '392'
+  H: '100'
+  R: '70'
+  ER: '48'
+  SH: '6'
+  BB: '63'
+  SO: '43'
+  HP: '1'
+  WP: '6'
+  ERA: '4.28'
+  F_P_PCT: '.783'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Wolff
+  nameClub1: Sioux City
+  GP: '11'
+  CG: '5'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '77'
+  AB: '310'
+  H: '87'
+  R: '47'
+  ER: '37'
+  SH: '8'
+  BB: '25'
+  SO: '40'
+  HP: '4'
+  WP: '4'
+  ERA: '4.32'
+  F_P_PCT: '.958'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hayes
+  nameClub1: Cedar Rapids
+  GP: '23'
+  CG: '8'
+  W: '9'
+  L: '6'
+  PCT: '.600'
+  IP: '158'
+  AB: '602'
+  H: '166'
+  R: '95'
+  ER: '77'
+  SH: '12'
+  BB: '126'
+  SO: '104'
+  HP: '2'
+  WP: '6'
+  ERA: '4.39'
+  F_P_PCT: '.976'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Helser
+  nameClub1: Waterloo
+  GP: '18'
+  CG: '5'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '98'
+  AB: '346'
+  H: '73'
+  R: '69'
+  ER: '48'
+  SH: '8'
+  BB: '115'
+  SO: '72'
+  HP: '5'
+  WP: '5'
+  ERA: '4.41'
+  F_P_PCT: '1.000'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Schroeder
+  nameClub1: Davenport
+  GP: '20'
+  CG: '6'
+  W: '7'
+  L: '7'
+  PCT: '.500'
+  IP: '114'
+  AB: '447'
+  H: '117'
+  R: '65'
+  ER: '56'
+  SH: '3'
+  BB: '68'
+  SO: '67'
+  HP: '2'
+  WP: '3'
+  ERA: '4.42'
+  F_P_PCT: '.949'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Zahn
+  nameClub1: Sioux City
+  nameClub2: Waterloo
+  GP: '29'
+  CG: '11'
+  W: '8'
+  L: '12'
+  PCT: '.400'
+  IP: '154'
+  AB: '616'
+  H: '180'
+  R: '111'
+  ER: '77'
+  SH: '8'
+  BB: '67'
+  SO: '66'
+  HP: '2'
+  WP: '5'
+  ERA: '4.50'
+  F_P_PCT: '.922'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Timm
+  nameClub1: Sioux City
+  GP: '17'
+  CG: '5'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '92'
+  AB: '388'
+  H: '113'
+  R: '74'
+  ER: '47'
+  SH: '6'
+  BB: '27'
+  SO: '33'
+  HP: '1'
+  WP: '1'
+  ERA: '4.60'
+  F_P_PCT: '.886'
+  BK: '2'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Gebo
+  nameClub1: Des Moines
+  GP: '36'
+  CG: '16'
+  W: '11'
+  L: '15'
+  PCT: '.423'
+  IP: '216'
+  AB: '817'
+  H: '234'
+  R: '138'
+  ER: '111'
+  SH: '16'
+  BB: '81'
+  SO: '96'
+  HP: '8'
+  WP: '12'
+  ERA: '4.63'
+  F_P_PCT: '.958'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Rossbach
+  nameClub1: Cedar Rapids
+  GP: '8'
+  CG: '3'
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  IP: '56'
+  AB: '234'
+  H: '67'
+  R: '38'
+  ER: '30'
+  SH: '1'
+  BB: '21'
+  SO: '28'
+  HP: '0'
+  WP: '0'
+  ERA: '4.82'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Douglas
+  nameClub1: Rock Island
+  nameClub2: Davenport
+  GP: '22'
+  CG: '7'
+  W: '5'
+  L: '9'
+  PCT: '.357'
+  IP: '125'
+  AB: '489'
+  H: '136'
+  R: '77'
+  ER: '69'
+  SH: '10'
+  BB: '51'
+  SO: '52'
+  HP: '3'
+  WP: '3'
+  ERA: '4.97'
+  F_P_PCT: '.971'
+  BK: '2'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Mortrude
+  nameClub1: Des Moines
+  GP: '28'
+  CG: '14'
+  W: '7'
+  L: '12'
+  PCT: '.368'
+  IP: '170'
+  AB: '678'
+  H: '178'
+  R: '113'
+  ER: '94'
+  SH: '9'
+  BB: '97'
+  SO: '91'
+  HP: '5'
+  WP: '8'
+  ERA: '4.98'
+  F_P_PCT: '.977'
+  BK: '2'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Larson
+  nameClub1: Davenport
+  GP: '20'
+  CG: '6'
+  W: '4'
+  L: '10'
+  PCT: '.286'
+  IP: '144'
+  AB: '585'
+  H: '171'
+  R: '104'
+  ER: '85'
+  SH: '9'
+  BB: '86'
+  SO: '76'
+  HP: '3'
+  WP: '9'
+  ERA: '5.31'
+  F_P_PCT: '1.000'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Zahniser
+  nameClub1: Rock Island
+  GP: '14'
+  CG: '8'
+  W: '2'
+  L: '9'
+  PCT: '.182'
+  IP: '93'
+  AB: '386'
+  H: '111'
+  R: '82'
+  ER: '57'
+  SH: '10'
+  BB: '47'
+  SO: '33'
+  HP: '9'
+  WP: '1'
+  ERA: '5.52'
+  F_P_PCT: '.917'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Bolsenga
+  nameClub1: Rock Island
+  GP: '19'
+  CG: '6'
+  W: '2'
+  L: '11'
+  PCT: '.154'
+  IP: '96'
+  AB: '391'
+  H: '122'
+  R: '76'
+  ER: '61'
+  SH: '3'
+  BB: '54'
+  SO: '46'
+  HP: '4'
+  WP: '3'
+  ERA: '5.72'
+  F_P_PCT: '.895'
+  BK: '1'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Finck
+  nameClub1: Des Moines
+  GP: '25'
+  CG: '9'
+  W: '8'
+  L: '8'
+  PCT: '.500'
+  IP: '148'
+  AB: '597'
+  H: '173'
+  R: '112'
+  ER: '95'
+  SH: '7'
+  BB: '101'
+  SO: '74'
+  HP: '2'
+  WP: '10'
+  ERA: '5.78'
+  F_P_PCT: '.949'
+  BK: '2'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Wolfe
+  nameClub1: Sioux City
+  GP: '9'
+  CG: '4'
+  W: '2'
+  L: '5'
+  PCT: '.286'
+  IP: '47'
+  AB: '209'
+  H: '71'
+  R: '46'
+  ER: '34'
+  SH: '6'
+  BB: '28'
+  SO: '17'
+  HP: '1'
+  WP: '8'
+  ERA: '6.51'
+  F_P_PCT: '.958'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Anderson
+  nameClub1: Waterloo
+  GP: '15'
+  CG: '1'
+  W: '1'
+  L: '2'
+  PCT: '.333'
+  IP: '49'
+  AB: '201'
+  H: '65'
+  R: '49'
+  ER: '37'
+  SH: '5'
+  BB: '45'
+  SO: '31'
+  HP: '1'
+  WP: '0'
+  ERA: '6.80'
+  F_P_PCT: '.905'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Goff
+  nameClub1: Davenport
+  GP: '15'
+  CG: '5'
+  W: '2'
+  L: '10'
+  PCT: '.167'
+  IP: '75'
+  AB: '310'
+  H: '91'
+  R: '74'
+  ER: '58'
+  SH: '3'
+  BB: '44'
+  SO: '46'
+  HP: '2'
+  WP: '5'
+  ERA: '6.96'
+  F_P_PCT: '1.000'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Kennedy
+  nameClub1: Rock Island
+  GP: '8'
+  CG: '3'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '54'
+  AB: '220'
+  H: '63'
+  R: '53'
+  ER: '45'
+  SH: '3'
+  BB: '48'
+  SO: '30'
+  HP: '1'
+  WP: '5'
+  ERA: '7.50'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Elston
+  nameClub1: Cedar Rapids
+  GP: '16'
+  CG: '3'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '76'
+  AB: '325'
+  H: '112'
+  R: '81'
+  ER: '69'
+  SH: '2'
+  BB: '60'
+  SO: '47'
+  HP: '2'
+  WP: '16'
+  ERA: '8.17'
+  F_P_PCT: '.920'
+  BK: '0'
+  F_P_TP: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Olson
+  nameFirst: Robert
+  nameClub1: Cedar Rapids
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Waldo
+  nameFirst: Ralph
+  nameClub1: Cedar Rapids
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Marleau
+  nameFirst: Eddie
+  nameClub1: Davenport
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Schaefer
+  nameFirst: George
+  nameClub1: Davenport
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Schroeder
+  nameFirst: Walter H.
+  nameClub1: Davenport
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Kramer
+  nameFirst: Jack
+  nameClub1: Des Moines
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Nelson
+  nameFirst: William E.
+  nameClub1: Des Moines
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Phillips
+  nameFirst: Elmer S.
+  nameClub1: Des Moines
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Ryan
+  nameFirst: Fabian
+  nameClub1: Des Moines
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Traweek
+  nameFirst: Terrell
+  nameClub1: Des Moines
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Hoover
+  nameFirst: Joe
+  nameClub1: Rock Island
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Reynolds
+  nameClub1: Rock Island
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Wolfe
+  nameFirst: Charles Gale
+  nameClub1: Rock Island
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Fischer
+  nameFirst: Reuben
+  nameClub1: Sioux City
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Swan
+  nameFirst: Robert
+  nameClub1: Sioux City
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Gosser
+  nameFirst: Lowell
+  nameClub1: Waterloo
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Ludsick
+  nameFirst: John
+  nameClub1: Waterloo
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Nelson
+  nameClub1: Waterloo
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Masters
+  nameFirst: Joe
+  nameClub1: Cedar Rapids
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Crawford
+  nameFirst: Forrest L.
+  nameClub1: Davenport
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Fletcher
+  nameFirst: Ralph R.
+  nameClub1: Davenport
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Long
+  nameFirst: Chester
+  nameClub1: Davenport
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Koob
+  nameFirst: Clarence
+  nameClub1: Rock Island
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Niebrugge
+  nameFirst: Jack
+  nameClub1: Rock Island
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Schinski
+  nameFirst: John
+  nameClub1: Rock Island
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Anderson
+  nameFirst: Charles
+  nameClub1: Sioux City
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Conklin
+  nameFirst: Keith
+  nameClub1: Sioux City
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Newlin
+  nameFirst: Maurice
+  nameClub1: Sioux City
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Rachunok
+  nameFirst: Stev
+  nameClub1: Sioux City
+  W: '0'
+  L: '0'
+- year: '1937'
+  nameLeague: Western League
+  nameLast: Thompson
+  nameFirst: Junior E.
+  nameClub1: Waterloo
+  W: '0'
+  L: '0'

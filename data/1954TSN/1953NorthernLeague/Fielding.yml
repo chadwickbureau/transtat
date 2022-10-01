@@ -1,0 +1,2340 @@
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Latshaw
+  nameClub1: Superior
+  throws: L
+  Pos: 1B
+  G: '77'
+  PO: '639'
+  A: '34'
+  E: '2'
+  DP: '64'
+  PCT: '.997'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Mendoza
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: 1B
+  G: '126'
+  PO: '1107'
+  A: '37'
+  E: '10'
+  DP: '118'
+  PCT: '.991'
+  TP: '1'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Haering
+  nameClub1: Duluth
+  throws: L
+  Pos: 1B
+  G: '126'
+  PO: '1144'
+  A: '52'
+  E: '12'
+  DP: '97'
+  PCT: '.990'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Barry
+  nameClub1: St. Cloud
+  throws: L
+  Pos: 1B
+  G: '106'
+  PO: '922'
+  A: '54'
+  E: '10'
+  DP: '75'
+  PCT: '.990'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Anderson
+  nameClub1: Superior
+  Pos: 1B
+  G: '37'
+  PO: '281'
+  A: '12'
+  E: '3'
+  DP: '27'
+  PCT: '.990'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Harbaugh
+  nameClub1: Eau Claire
+  throws: L
+  Pos: 1B
+  G: '119'
+  PO: '1049'
+  A: '62'
+  E: '15'
+  DP: '103'
+  PCT: '.987'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Rosenkranz
+  nameClub1: St. Cloud
+  throws: L
+  Pos: 1B
+  G: '17'
+  PO: '142'
+  A: '14'
+  E: '2'
+  DP: '13'
+  PCT: '.987'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Lynch
+  nameClub1: Sioux Falls
+  Pos: 1B
+  G: '69'
+  PO: '576'
+  A: '18'
+  E: '9'
+  DP: '50'
+  PCT: '.985'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Francona
+  nameClub1: Aberdeen
+  throws: L
+  Pos: 1B
+  G: '123'
+  PO: '1139'
+  A: '51'
+  E: '25'
+  DP: '91'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Williams
+  nameClub1: Superior
+  Pos: 1B
+  G: '17'
+  PO: '117'
+  A: '12'
+  E: '3'
+  DP: '9'
+  PCT: '.977'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sondermeyer
+  nameClub1: Sioux Falls
+  Pos: 1B
+  G: '56'
+  PO: '487'
+  A: '17'
+  E: '12'
+  DP: '39'
+  PCT: '.976'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Roberts
+  nameClub1: Grand Forks
+  throws: L
+  Pos: 1B
+  G: '65'
+  PO: '537'
+  A: '20'
+  E: '18'
+  DP: '60'
+  PCT: '.969'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Hosler
+  nameClub1: Grand Forks
+  Pos: 1B
+  G: '42'
+  PO: '354'
+  A: '30'
+  E: '14'
+  DP: '41'
+  PCT: '.965'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Maupin
+  nameClub1: Grand Forks
+  Pos: 1B
+  G: '20'
+  PO: '136'
+  A: '9'
+  E: '6'
+  DP: '11'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Luberto
+  nameClub1: Fargo-Moorhead
+  Pos: 2B
+  G: '126'
+  PO: '350'
+  A: '334'
+  E: '13'
+  DP: '110'
+  PCT: '.981'
+  TP: '1'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Belardi
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '11'
+  PO: '19'
+  A: '29'
+  E: '1'
+  DP: '12'
+  PCT: '.980'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wise
+  nameClub1: Sioux Falls
+  Pos: 2B
+  G: '84'
+  PO: '271'
+  A: '281'
+  E: '12'
+  DP: '57'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Lynch
+  nameClub1: Sioux Falls
+  Pos: 2B
+  G: '36'
+  PO: '92'
+  A: '108'
+  E: '6'
+  DP: '27'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Williams
+  nameClub1: Superior
+  Pos: 2B
+  G: '109'
+  PO: '298'
+  A: '272'
+  E: '21'
+  DP: '67'
+  PCT: '.964'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Newberry
+  nameClub1: Duluth
+  Pos: 2B
+  G: '124'
+  PO: '347'
+  A: '333'
+  E: '31'
+  DP: '67'
+  PCT: '.956'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Cusack
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '29'
+  PO: '40'
+  A: '65'
+  E: '5'
+  DP: '11'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Kennedy
+  nameClub1: St. Cloud
+  Pos: 2B
+  G: '125'
+  PO: '327'
+  A: '333'
+  E: '33'
+  DP: '68'
+  PCT: '.952'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Gates
+  nameClub1: Aberdeen
+  Pos: 2B
+  G: '101'
+  PO: '266'
+  A: '275'
+  E: '29'
+  DP: '66'
+  PCT: '.949'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Major
+  nameClub1: Grand Forks
+  Pos: 2B
+  G: '123'
+  PO: '360'
+  A: '336'
+  E: '39'
+  DP: '107'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Stopa
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '25'
+  PO: '84'
+  A: '63'
+  E: '10'
+  DP: '25'
+  PCT: '.936'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Lutz
+  nameClub1: Aberdeen
+  Pos: 2B
+  G: '10'
+  PO: '20'
+  A: '22'
+  E: '3'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sell
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '62'
+  PO: '146'
+  A: '134'
+  E: '21'
+  DP: '29'
+  PCT: '.930'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Brown
+  nameClub1: Aberdeen
+  nameClub2: Duluth
+  Pos: 2B
+  G: '15'
+  PO: '45'
+  A: '34'
+  E: '8'
+  DP: '4'
+  PCT: '.907'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Piscopo
+  nameClub1: Superior
+  Pos: 2B
+  G: '10'
+  PO: '17'
+  A: '18'
+  E: '4'
+  DP: '5'
+  PCT: '.897'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: McDonald
+  nameClub1: Superior
+  Pos: 3B
+  G: '11'
+  PO: '6'
+  A: '18'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Bowers
+  nameClub1: Eau Claire
+  Pos: 3B
+  G: '75'
+  PO: '74'
+  A: '185'
+  E: '13'
+  DP: '13'
+  PCT: '.952'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Redmond
+  nameClub1: Eau Claire
+  Pos: 3B
+  G: '25'
+  PO: '29'
+  A: '45'
+  E: '4'
+  DP: '7'
+  PCT: '.949'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Morse
+  nameClub1: Fargo-Moorhead
+  Pos: 3B
+  G: '104'
+  PO: '120'
+  A: '238'
+  E: '25'
+  DP: '30'
+  PCT: '.935'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Davis
+  nameClub1: Eau Claire
+  Pos: 3B
+  G: '13'
+  PO: '10'
+  A: '32'
+  E: '3'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Dugger
+  nameClub1: Superior
+  Pos: 3B
+  G: '18'
+  PO: '11'
+  A: '30'
+  E: '3'
+  DP: '4'
+  PCT: '.932'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Melton
+  nameClub1: Fargo-Moorhead
+  Pos: 3B
+  G: '17'
+  PO: '20'
+  A: '46'
+  E: '5'
+  DP: '8'
+  PCT: '.930'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Morris
+  nameClub1: Aberdeen
+  Pos: 3B
+  G: '121'
+  PO: '140'
+  A: '239'
+  E: '30'
+  DP: '32'
+  PCT: '.927'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Peregud
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '48'
+  PO: '49'
+  A: '86'
+  E: '12'
+  DP: '9'
+  PCT: '.918'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Stumpus
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '29'
+  PO: '24'
+  A: '64'
+  E: '8'
+  DP: '6'
+  PCT: '.917'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Stopa
+  nameClub1: Eau Claire
+  Pos: 3B
+  G: '21'
+  PO: '37'
+  A: '49'
+  E: '6'
+  DP: '8'
+  PCT: '.915'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sondermeyer
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '57'
+  PO: '67'
+  A: '107'
+  E: '18'
+  DP: '11'
+  PCT: '.906'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Tanzillo
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '65'
+  PO: '66'
+  A: '127'
+  E: '20'
+  DP: '14'
+  PCT: '.906'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Virgil
+  nameClub1: St. Cloud
+  Pos: 3B
+  G: '118'
+  PO: '117'
+  A: '258'
+  E: '41'
+  DP: '23'
+  PCT: '.901'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Anderson
+  nameClub1: Superior
+  Pos: 3B
+  G: '18'
+  PO: '21'
+  A: '33'
+  E: '6'
+  DP: '6'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Piscopo
+  nameClub1: Superior
+  Pos: 3B
+  G: '84'
+  PO: '84'
+  A: '190'
+  E: '32'
+  DP: '24'
+  PCT: '.895'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Gierek
+  nameClub1: Duluth
+  Pos: 3B
+  G: '87'
+  PO: '80'
+  A: '172'
+  E: '37'
+  DP: '18'
+  PCT: '.872'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Lynch
+  nameClub1: Sioux Falls
+  Pos: 3B
+  G: '16'
+  PO: '20'
+  A: '31'
+  E: '8'
+  DP: '6'
+  PCT: '.864'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Engstrom
+  nameClub1: Duluth
+  Pos: 3B
+  G: '10'
+  PO: '8'
+  A: '20'
+  E: '5'
+  DP: '2'
+  PCT: '.848'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Franczak
+  nameClub1: Duluth
+  Pos: 3B
+  G: '27'
+  PO: '21'
+  A: '50'
+  E: '16'
+  DP: '5'
+  PCT: '.816'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Watkins
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '18'
+  PO: '27'
+  A: '37'
+  E: '16'
+  DP: '8'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sondermeyer
+  nameClub1: Sioux Falls
+  Pos: SS
+  G: '13'
+  PO: '16'
+  A: '34'
+  E: '2'
+  DP: '3'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Engstrom
+  nameClub1: Duluth
+  Pos: SS
+  G: '106'
+  PO: '176'
+  A: '332'
+  E: '33'
+  DP: '50'
+  PCT: '.939'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Stopa
+  nameClub1: Eau Claire
+  Pos: SS
+  G: '73'
+  PO: '132'
+  A: '194'
+  E: '23'
+  DP: '47'
+  PCT: '.934'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Camacho
+  nameClub1: Fargo-Moorhead
+  Pos: SS
+  G: '126'
+  PO: '228'
+  A: '372'
+  E: '50'
+  DP: '78'
+  PCT: '.923'
+  TP: '1'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Beier
+  nameClub1: St. Cloud
+  Pos: SS
+  G: '125'
+  PO: '204'
+  A: '363'
+  E: '49'
+  DP: '67'
+  PCT: '.920'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fernandez
+  nameClub1: Sioux Falls
+  Pos: SS
+  G: '115'
+  PO: '199'
+  A: '405'
+  E: '55'
+  DP: '86'
+  PCT: '.917'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Kijak
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '13'
+  PO: '20'
+  A: '43'
+  E: '6'
+  DP: '3'
+  PCT: '.913'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Forrest
+  nameClub1: Superior
+  nameClub2: Grand Forks
+  Pos: SS
+  G: '125'
+  PO: '224'
+  A: '382'
+  E: '59'
+  DP: '83'
+  PCT: '.911'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Brown
+  nameClub1: Aberdeen
+  nameClub2: Duluth
+  Pos: SS
+  G: '30'
+  PO: '52'
+  A: '92'
+  E: '14'
+  DP: '15'
+  PCT: '.911'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Esposito
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '90'
+  PO: '119'
+  A: '307'
+  E: '42'
+  DP: '43'
+  PCT: '.910'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Zimmer
+  nameClub1: Duluth
+  Pos: SS
+  G: '10'
+  PO: '22'
+  A: '27'
+  E: '5'
+  DP: '2'
+  PCT: '.907'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Belardi
+  nameClub1: Eau Claire
+  Pos: SS
+  G: '40'
+  PO: '62'
+  A: '112'
+  E: '19'
+  DP: '20'
+  PCT: '.902'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Piscopo
+  nameClub1: Superior
+  Pos: SS
+  G: '12'
+  PO: '21'
+  A: '31'
+  E: '6'
+  DP: '5'
+  PCT: '.897'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Morgan
+  nameClub1: Superior
+  Pos: SS
+  G: '67'
+  PO: '117'
+  A: '174'
+  E: '35'
+  DP: '33'
+  PCT: '.893'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Stumpus
+  nameClub1: Grand Forks
+  Pos: SS
+  G: '24'
+  PO: '48'
+  A: '77'
+  E: '15'
+  DP: '23'
+  PCT: '.893'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Dugger
+  nameClub1: Superior
+  Pos: SS
+  G: '19'
+  PO: '23'
+  A: '50'
+  E: '9'
+  DP: '5'
+  PCT: '.890'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fortin
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '31'
+  PO: '43'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Piscopo
+  nameClub1: Superior
+  Pos: OF
+  G: '21'
+  PO: '25'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Collins
+  nameClub1: Superior
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '11'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Maurer
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '119'
+  PO: '280'
+  A: '22'
+  E: '5'
+  DP: '4'
+  PCT: '.984'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Schultz
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '117'
+  PO: '189'
+  A: '15'
+  E: '4'
+  DP: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Anderson
+  nameClub1: Superior
+  Pos: OF
+  G: '59'
+  PO: '99'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Davis
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '25'
+  PO: '48'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Roberts
+  nameClub1: Grand Forks
+  throws: L
+  Pos: OF
+  G: '63'
+  PO: '115'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Greenwood
+  nameClub1: Duluth
+  Pos: OF
+  G: '121'
+  PO: '319'
+  A: '13'
+  E: '9'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fowler
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '121'
+  PO: '191'
+  A: '15'
+  E: '6'
+  DP: '4'
+  PCT: '.972'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Bohlender
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '86'
+  PO: '174'
+  A: '22'
+  E: '6'
+  DP: '4'
+  PCT: '.970'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Blaney
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '126'
+  PO: '176'
+  A: '13'
+  E: '6'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Tondora
+  nameClub1: Superior
+  Pos: OF
+  G: '118'
+  PO: '278'
+  A: '24'
+  E: '10'
+  DP: '8'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Strange
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '106'
+  PO: '234'
+  A: '10'
+  E: '8'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Braeseke
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '100'
+  PO: '246'
+  A: '14'
+  E: '9'
+  DP: '5'
+  PCT: '.967'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fiss
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '27'
+  PO: '27'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Maras
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '114'
+  PO: '166'
+  A: '18'
+  E: '7'
+  DP: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Puchinski
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '13'
+  PO: '23'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Hastings
+  nameClub1: Aberdeen
+  throws: L
+  Pos: OF
+  G: '123'
+  PO: '208'
+  A: '13'
+  E: '9'
+  DP: '4'
+  PCT: '.961'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: MacKay
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '124'
+  PO: '225'
+  A: '8'
+  E: '10'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Maupin
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '48'
+  PO: '88'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Walenga
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '91'
+  PO: '131'
+  A: '4'
+  E: '6'
+  DP: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: DeLucia
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '99'
+  PO: '233'
+  A: '9'
+  E: '12'
+  DP: '2'
+  PCT: '.953'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Long
+  nameClub1: Eau Claire
+  throws: L
+  Pos: OF
+  G: '66'
+  PO: '167'
+  A: '7'
+  E: '9'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Gravino
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '125'
+  PO: '194'
+  A: '17'
+  E: '11'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Lutz
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '12'
+  PO: '18'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Hale
+  nameClub1: Aberdeen
+  throws: L
+  Pos: OF
+  G: '119'
+  PO: '180'
+  A: '17'
+  E: '11'
+  DP: '4'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fuscoe
+  nameClub1: Eau Claire
+  throws: L
+  Pos: OF
+  G: '12'
+  PO: '17'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Veal
+  nameClub1: Superior
+  Pos: OF
+  G: '33'
+  PO: '50'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Hanny
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '124'
+  PO: '202'
+  A: '20'
+  E: '13'
+  DP: '1'
+  PCT: '.945'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Kousagan
+  nameClub1: Duluth
+  Pos: OF
+  G: '123'
+  PO: '228'
+  A: '10'
+  E: '15'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Cummings
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '13'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Alsop
+  nameClub1: Superior
+  throws: L
+  Pos: OF
+  G: '12'
+  PO: '13'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Ballinger
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '44'
+  PO: '107'
+  A: '3'
+  E: '8'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: McLaughlin
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '52'
+  PO: '78'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.932'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Howard
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '27'
+  PO: '49'
+  A: '5'
+  E: '4'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Golobic
+  nameClub1: Superior
+  Pos: OF
+  G: '64'
+  PO: '100'
+  A: '7'
+  E: '8'
+  DP: '2'
+  PCT: '.930'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Dorow
+  nameClub1: Superior
+  Pos: OF
+  G: '41'
+  PO: '75'
+  A: '10'
+  E: '7'
+  DP: '3'
+  PCT: '.924'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Cozza
+  nameClub1: Superior
+  Pos: OF
+  G: '17'
+  PO: '30'
+  A: '4'
+  E: '3'
+  DP: '2'
+  PCT: '.919'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Cross
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '11'
+  PO: '21'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Jackson
+  nameClub1: Duluth
+  Pos: OF
+  G: '99'
+  PO: '120'
+  A: '16'
+  E: '16'
+  DP: '1'
+  PCT: '.895'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Gierek
+  nameClub1: Duluth
+  Pos: OF
+  G: '35'
+  PO: '51'
+  A: '6'
+  E: '7'
+  DP: '3'
+  PCT: '.891'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wise
+  nameClub1: Sioux Falls
+  Pos: OF
+  G: '15'
+  PO: '16'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Samela
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '12'
+  PO: '13'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Gerl
+  nameClub1: Duluth
+  Pos: C
+  G: '121'
+  PO: '632'
+  A: '48'
+  E: '12'
+  DP: '8'
+  PB: '10'
+  PCT: '.983'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Tieken
+  nameClub1: Eau Claire
+  Pos: C
+  G: '19'
+  PO: '76'
+  A: '12'
+  E: '2'
+  DP: '2'
+  PB: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Calo
+  nameClub1: Grand Forks
+  Pos: C
+  G: '105'
+  PO: '523'
+  A: '76'
+  E: '15'
+  DP: '8'
+  PB: '13'
+  PCT: '.976'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fox
+  nameClub1: St. Cloud
+  Pos: C
+  G: '100'
+  PO: '542'
+  A: '73'
+  E: '15'
+  DP: '8'
+  PB: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Melton
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '67'
+  PO: '380'
+  A: '42'
+  E: '11'
+  DP: '4'
+  PB: '7'
+  PCT: '.975'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Cummings
+  nameClub1: Sioux Falls
+  Pos: C
+  G: '59'
+  PO: '254'
+  A: '35'
+  E: '9'
+  DP: '7'
+  PB: '8'
+  PCT: '.970'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Mehlisch
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '36'
+  PO: '193'
+  A: '27'
+  E: '7'
+  DP: '2'
+  PB: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Bowers
+  nameClub1: Eau Claire
+  Pos: C
+  G: '31'
+  PO: '150'
+  A: '33'
+  E: '6'
+  DP: '2'
+  PB: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: St. George
+  nameClub1: Grand Forks
+  Pos: C
+  G: '13'
+  PO: '52'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PB: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Leafgren
+  nameClub1: Aberdeen
+  Pos: C
+  G: '80'
+  PO: '361'
+  A: '38'
+  E: '15'
+  DP: '12'
+  PB: '7'
+  PCT: '.964'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Manns
+  nameClub1: Sioux Falls
+  Pos: C
+  G: '72'
+  PO: '348'
+  A: '59'
+  E: '15'
+  DP: '8'
+  PB: '5'
+  PCT: '.964'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sclafani
+  nameClub1: St. Cloud
+  Pos: C
+  G: '29'
+  PO: '135'
+  A: '20'
+  E: '6'
+  DP: '4'
+  PB: '3'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Roedel
+  nameClub1: Superior
+  Pos: C
+  G: '83'
+  PO: '387'
+  A: '65'
+  E: '18'
+  DP: '10'
+  PB: '4'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fiss
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '20'
+  PO: '107'
+  A: '9'
+  E: '5'
+  DP: '2'
+  PB: '4'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Orlandi
+  nameClub1: Superior
+  Pos: C
+  G: '46'
+  PO: '208'
+  A: '28'
+  E: '11'
+  DP: '3'
+  PB: '5'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Mills
+  nameClub1: Eau Claire
+  nameClub2: Grand Forks
+  Pos: C
+  G: '11'
+  PO: '40'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Moody
+  nameClub1: Aberdeen
+  Pos: C
+  G: '49'
+  PO: '235'
+  A: '34'
+  E: '15'
+  DP: '3'
+  PB: '6'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: McKeon
+  nameClub1: Eau Claire
+  Pos: C
+  G: '68'
+  PO: '324'
+  A: '39'
+  E: '25'
+  DP: '6'
+  PB: '12'
+  PCT: '.936'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Maupin
+  nameClub1: Grand Forks
+  Pos: C
+  G: '23'
+  PO: '108'
+  A: '16'
+  E: '9'
+  DP: '1'
+  PB: '3'
+  PCT: '.932'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Heughens
+  nameClub1: Duluth
+  Pos: C
+  G: '14'
+  PO: '66'
+  A: '6'
+  E: '8'
+  DP: '1'
+  PB: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Seif
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '32'
+  PO: '2'
+  A: '44'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Scheidt
+  nameClub1: St. Cloud
+  Pos: P
+  G: '26'
+  PO: '6'
+  A: '26'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Ostby
+  nameClub1: Grand Forks
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '26'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Pelz
+  nameClub1: St. Cloud
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '21'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Dorow
+  nameClub1: Superior
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '15'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Joyce
+  nameClub1: Duluth
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '19'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Franczak
+  nameClub1: Duluth
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wisneski
+  nameClub1: Duluth
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Whitfield
+  nameClub1: Duluth
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Beck
+  nameClub1: Grand Forks
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Marrero
+  nameClub1: Grand Forks
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '9'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Roberts
+  nameClub1: Duluth
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Bryant
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '26'
+  PO: '7'
+  A: '28'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Alsop
+  nameClub1: Superior
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '28'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Pohlman
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '2'
+  A: '26'
+  E: '1'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Dutter
+  nameClub1: Grand Forks
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Mazzola
+  nameClub1: St. Cloud
+  Pos: P
+  G: '37'
+  PO: '12'
+  A: '53'
+  E: '3'
+  DP: '4'
+  PCT: '.956'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Novak
+  nameFirst: L.
+  nameClub1: Aberdeen
+  Pos: P
+  G: '22'
+  PO: '6'
+  A: '32'
+  E: '2'
+  DP: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Rea
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Brickey
+  nameClub1: Superior
+  Pos: P
+  G: '37'
+  PO: '20'
+  A: '66'
+  E: '5'
+  DP: '2'
+  PCT: '.945'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Belt
+  nameClub1: Duluth
+  nameClub2: Grand Forks
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '26'
+  E: '2'
+  DP: '5'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Lutz
+  nameClub1: Eau Claire
+  Pos: P
+  G: '18'
+  PO: '9'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Gerkin
+  nameClub1: Duluth
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '28'
+  E: '2'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Borovicka
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Lloyd
+  nameClub1: St. Cloud
+  Pos: P
+  G: '28'
+  PO: '2'
+  A: '42'
+  E: '3'
+  DP: '1'
+  PCT: '.936'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wozniak
+  nameClub1: Aberdeen
+  Pos: P
+  G: '40'
+  PO: '10'
+  A: '62'
+  E: '5'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Coombs
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '36'
+  E: '3'
+  DP: '3'
+  PCT: '.935'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: McGonagle
+  nameClub1: Duluth
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '24'
+  E: '2'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wrinn
+  nameClub1: Eau Claire
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.935'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Del Piano
+  nameClub1: Eau Claire
+  Pos: P
+  G: '37'
+  PO: '16'
+  A: '41'
+  E: '4'
+  DP: '2'
+  PCT: '.934'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Kudoba
+  nameClub1: St. Cloud
+  Pos: P
+  G: '26'
+  PO: '12'
+  A: '43'
+  E: '4'
+  DP: '3'
+  PCT: '.932'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Meyer
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '32'
+  PO: '3'
+  A: '49'
+  E: '4'
+  DP: '3'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Palcek
+  nameClub1: Eau Claire
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wenger
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wood
+  nameClub1: Duluth
+  Pos: P
+  G: '32'
+  PO: '4'
+  A: '46'
+  E: '4'
+  DP: '2'
+  PCT: '.926'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Cannon
+  nameClub1: Superior
+  Pos: P
+  G: '26'
+  PO: '7'
+  A: '42'
+  E: '4'
+  DP: '3'
+  PCT: '.925'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Nelson
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '31'
+  PO: '8'
+  A: '29'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Norris
+  nameClub1: Grand Forks
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '21'
+  E: '2'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Dickey
+  nameClub1: Grand Forks
+  Pos: P
+  G: '35'
+  PO: '2'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Applegate
+  nameClub1: Superior
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Whipple
+  nameClub1: Duluth
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '25'
+  E: '3'
+  DP: '0'
+  PCT: '.903'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Weglarz
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '3'
+  A: '42'
+  E: '5'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Williams
+  nameClub1: Aberdeen
+  Pos: P
+  G: '31'
+  PO: '7'
+  A: '45'
+  E: '5'
+  DP: '4'
+  PCT: '.894'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sandy
+  nameClub1: Grand Forks
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '37'
+  E: '5'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Nance
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '30'
+  PO: '3'
+  A: '41'
+  E: '6'
+  DP: '3'
+  PCT: '.880'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sullivan
+  nameClub1: St. Cloud
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '19'
+  E: '3'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Wolf
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '22'
+  E: '4'
+  DP: '0'
+  PCT: '.879'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Green
+  nameClub1: Aberdeen
+  Pos: P
+  G: '28'
+  PO: '4'
+  A: '32'
+  E: '5'
+  DP: '1'
+  PCT: '.878'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Alivojvodic
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '27'
+  PO: '2'
+  A: '26'
+  E: '4'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Isley
+  nameClub1: Aberdeen
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '10'
+  E: '2'
+  DP: '2'
+  PCT: '.867'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Swan
+  nameClub1: Grand Forks
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '11'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Colby
+  nameClub1: Eau Claire
+  Pos: P
+  G: '31'
+  PO: '1'
+  A: '31'
+  E: '5'
+  DP: '1'
+  PCT: '.865'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fernandez
+  nameClub1: Grand Forks
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Frazier
+  nameClub1: Sioux Falls
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Youngcourt
+  nameClub1: Superior
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '23'
+  E: '5'
+  DP: '1'
+  PCT: '.853'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Edwards
+  nameFirst: G.
+  nameClub1: Eau Claire
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '17'
+  E: '4'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Fitzgerald
+  nameClub1: St. Cloud
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '35'
+  E: '8'
+  DP: '1'
+  PCT: '.822'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Orlandi
+  nameClub1: Superior
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Sirois
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '13'
+  E: '4'
+  DP: '1'
+  PCT: '.789'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Crocker
+  nameClub1: Aberdeen
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '11'
+  E: '4'
+  DP: '1'
+  PCT: '.765'
+  TP: '0'
+- year: '1953'
+  nameLeague: Northern League
+  nameLast: Elliott
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'

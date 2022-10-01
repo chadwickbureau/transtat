@@ -1,0 +1,54 @@
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  G: '130'
+  PO: '3303'
+  A: '1424'
+  E: '190'
+  DP: '82'
+  PCT: '.961'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  G: '131'
+  PO: '3307'
+  A: '1439'
+  E: '265'
+  DP: '89'
+  PCT: '.947'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  G: '130'
+  PO: '3226'
+  A: '1438'
+  E: '271'
+  DP: '99'
+  PCT: '.945'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Niagara Falls
+  G: '131'
+  PO: '3337'
+  A: '1476'
+  E: '315'
+  DP: '91'
+  PCT: '.939'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  G: '130'
+  PO: '3295'
+  A: '1465'
+  E: '320'
+  DP: '98'
+  PCT: '.937'
+- year: '1946'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  G: '132'
+  PO: '3306'
+  A: '1483'
+  E: '382'
+  DP: '81'
+  PCT: '.927'

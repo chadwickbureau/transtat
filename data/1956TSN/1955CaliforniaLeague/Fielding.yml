@@ -1,0 +1,2804 @@
+- year: '1955'
+  nameLeague: California League
+  nameLast: Ananias
+  nameClub1: Channel Cities/Reno
+  Pos: 1B
+  G: '14'
+  PO: '119'
+  A: '5'
+  E: '0'
+  DP: '11'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: J.
+  nameClub1: Visalia
+  nameClub2: Fresno
+  Pos: 1B
+  G: '40'
+  PO: '350'
+  A: '15'
+  E: '3'
+  DP: '20'
+  PCT: '.992'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Snow
+  nameClub1: San Jose
+  Pos: 1B
+  G: '70'
+  PO: '546'
+  A: '33'
+  E: '5'
+  DP: '51'
+  PCT: '.991'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Milley
+  nameClub1: San Jose
+  Pos: 1B
+  G: '40'
+  PO: '305'
+  A: '10'
+  E: '3'
+  DP: '32'
+  PCT: '.991'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Crosby
+  nameClub1: Modesto
+  Pos: 1B
+  G: '39'
+  PO: '329'
+  A: '18'
+  E: '4'
+  DP: '29'
+  PCT: '.989'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Van der Velde
+  nameClub1: Bakersfield
+  throws: L
+  Pos: 1B
+  G: '53'
+  PO: '418'
+  A: '33'
+  E: '6'
+  DP: '37'
+  PCT: '.987'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Rosburg
+  nameClub1: Modesto
+  throws: L
+  Pos: 1B
+  G: '74'
+  PO: '635'
+  A: '30'
+  E: '10'
+  DP: '54'
+  PCT: '.985'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Munoz
+  nameClub1: Stockton
+  throws: L
+  Pos: 1B
+  G: '141'
+  PO: '1211'
+  A: '69'
+  E: '21'
+  DP: '101'
+  PCT: '.984'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Noren
+  nameClub1: Channel Cities/Reno
+  Pos: 1B
+  G: '132'
+  PO: '1166'
+  A: '94'
+  E: '21'
+  DP: '102'
+  PCT: '.984'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Stack
+  nameClub1: Visalia
+  Pos: 1B
+  G: '74'
+  PO: '513'
+  A: '52'
+  E: '10'
+  DP: '49'
+  PCT: '.983'
+- year: '1955'
+  nameLeague: California League
+  nameLast: White
+  nameClub1: Fresno
+  Pos: 1B
+  G: '144'
+  PO: '1147'
+  A: '65'
+  E: '22'
+  DP: '113'
+  PCT: '.982'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Arenivar
+  nameClub1: Modesto
+  throws: L
+  Pos: 1B
+  G: '37'
+  PO: '291'
+  A: '16'
+  E: '6'
+  DP: '35'
+  PCT: '.981'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Giles
+  nameClub1: Visalia
+  Pos: 1B
+  G: '18'
+  PO: '147'
+  A: '6'
+  E: '3'
+  DP: '13'
+  PCT: '.981'
+- year: '1955'
+  nameLeague: California League
+  nameLast: George
+  nameClub1: Salinas
+  throws: L
+  Pos: 1B
+  G: '68'
+  PO: '526'
+  A: '27'
+  E: '11'
+  DP: '68'
+  PCT: '.980'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Alexson
+  nameClub1: Bakersfield
+  throws: L
+  Pos: 1B
+  G: '81'
+  PO: '584'
+  A: '40'
+  E: '17'
+  DP: '63'
+  PCT: '.973'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lowenthal
+  nameClub1: Salinas
+  throws: L
+  Pos: 1B
+  G: '20'
+  PO: '152'
+  A: '12'
+  E: '5'
+  DP: '20'
+  PCT: '.970'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Jacobsen
+  nameFirst: E.
+  nameClub1: Salinas
+  Pos: 1B
+  G: '56'
+  PO: '419'
+  A: '22'
+  E: '14'
+  DP: '43'
+  PCT: '.969'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Greene
+  nameClub1: San Jose
+  throws: L
+  Pos: 1B
+  G: '32'
+  PO: '218'
+  A: '19'
+  E: '9'
+  DP: '15'
+  PCT: '.963'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Monge
+  nameClub1: Visalia
+  Pos: 2B
+  G: '10'
+  PO: '34'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Crosby
+  nameClub1: Modesto
+  Pos: 2B
+  G: '99'
+  PO: '168'
+  A: '267'
+  E: '10'
+  DP: '74'
+  PCT: '.978'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Reasonover
+  nameClub1: Bakersfield
+  Pos: 2B
+  G: '74'
+  PO: '189'
+  A: '204'
+  E: '13'
+  DP: '46'
+  PCT: '.968'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Saiza
+  nameClub1: Visalia
+  Pos: 2B
+  G: '60'
+  PO: '153'
+  A: '147'
+  E: '10'
+  DP: '40'
+  PCT: '.968'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cadinha
+  nameClub1: Stockton
+  Pos: 2B
+  G: '136'
+  PO: '381'
+  A: '322'
+  E: '25'
+  DP: '73'
+  PCT: '.966'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Coughtry
+  nameClub1: San Jose
+  Pos: 2B
+  G: '140'
+  PO: '362'
+  A: '363'
+  E: '28'
+  DP: '82'
+  PCT: '.963'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Falter
+  nameClub1: Bakersfield
+  Pos: 2B
+  G: '16'
+  PO: '51'
+  A: '44'
+  E: '4'
+  DP: '11'
+  PCT: '.960'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Salinas
+  Pos: 2B
+  G: '56'
+  PO: '163'
+  A: '119'
+  E: '12'
+  DP: '45'
+  PCT: '.959'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Ananias
+  nameClub1: Channel Cities/Reno
+  Pos: 2B
+  G: '98'
+  PO: '263'
+  A: '245'
+  E: '23'
+  DP: '68'
+  PCT: '.957'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Killingsworth
+  nameClub1: San Jose
+  Pos: 2B
+  G: '10'
+  PO: '23'
+  A: '18'
+  E: '2'
+  DP: '3'
+  PCT: '.953'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Camacho
+  nameClub1: Fresno
+  Pos: 2B
+  G: '54'
+  PO: '117'
+  A: '135'
+  E: '14'
+  DP: '27'
+  PCT: '.947'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Gigli
+  nameClub1: Bakersfield
+  Pos: 2B
+  G: '27'
+  PO: '67'
+  A: '69'
+  E: '8'
+  DP: '23'
+  PCT: '.944'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Piver
+  nameClub1: Salinas
+  Pos: 2B
+  G: '18'
+  PO: '39'
+  A: '42'
+  E: '5'
+  DP: '10'
+  PCT: '.942'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Coughlin
+  nameClub1: Salinas
+  Pos: 2B
+  G: '35'
+  PO: '96'
+  A: '80'
+  E: '11'
+  DP: '24'
+  PCT: '.941'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Powell
+  nameClub1: Visalia
+  Pos: 2B
+  G: '38'
+  PO: '98'
+  A: '85'
+  E: '12'
+  DP: '17'
+  PCT: '.938'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Duenas
+  nameClub1: Bakersfield
+  Pos: 2B
+  G: '11'
+  PO: '26'
+  A: '19'
+  E: '3'
+  DP: '4'
+  PCT: '.938'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Delfino
+  nameClub1: Modesto
+  Pos: 2B
+  G: '46'
+  PO: '124'
+  A: '124'
+  E: '17'
+  DP: '32'
+  PCT: '.936'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lopeman
+  nameClub1: Salinas
+  Pos: 2B
+  G: '37'
+  PO: '101'
+  A: '93'
+  E: '15'
+  DP: '24'
+  PCT: '.928'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Laursen
+  nameClub1: Modesto
+  Pos: 2B
+  G: '13'
+  PO: '10'
+  A: '15'
+  E: '2'
+  DP: '2'
+  PCT: '.926'
+- year: '1955'
+  nameLeague: California League
+  nameLast: DeFazio
+  nameClub1: Visalia
+  Pos: 2B
+  G: '14'
+  PO: '25'
+  A: '36'
+  E: '5'
+  DP: '6'
+  PCT: '.924'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Conte
+  nameClub1: Fresno
+  Pos: 2B
+  G: '87'
+  PO: '196'
+  A: '209'
+  E: '35'
+  DP: '68'
+  PCT: '.920'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cronin
+  nameClub1: Channel Cities/Reno
+  Pos: 2B
+  G: '24'
+  PO: '63'
+  A: '58'
+  E: '14'
+  DP: '12'
+  PCT: '.896'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Denison
+  nameClub1: Bakersfield
+  Pos: 2B
+  G: '18'
+  PO: '54'
+  A: '32'
+  E: '10'
+  DP: '9'
+  PCT: '.896'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Wheeler
+  nameClub1: Channel Cities/Reno
+  Pos: 2B
+  G: '16'
+  PO: '41'
+  A: '42'
+  E: '11'
+  DP: '6'
+  PCT: '.883'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lovrich
+  nameClub1: Visalia
+  Pos: 3B
+  G: '11'
+  PO: '10'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Delfino
+  nameClub1: Modesto
+  Pos: 3B
+  G: '75'
+  PO: '58'
+  A: '163'
+  E: '11'
+  DP: '13'
+  PCT: '.953'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Enos
+  nameClub1: Bakersfield
+  Pos: 3B
+  G: '94'
+  PO: '102'
+  A: '185'
+  E: '15'
+  DP: '15'
+  PCT: '.950'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Smith
+  nameFirst: J.
+  nameClub1: San Jose
+  Pos: 3B
+  G: '55'
+  PO: '46'
+  A: '100'
+  E: '8'
+  DP: '9'
+  PCT: '.948'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Holmquist
+  nameClub1: Modesto
+  Pos: 3B
+  G: '30'
+  PO: '28'
+  A: '99'
+  E: '9'
+  DP: '7'
+  PCT: '.934'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cannuli
+  nameClub1: Stockton
+  Pos: 3B
+  G: '52'
+  PO: '50'
+  A: '132'
+  E: '13'
+  DP: '7'
+  PCT: '.933'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Scramaglia
+  nameClub1: Stockton
+  Pos: 3B
+  G: '87'
+  PO: '86'
+  A: '200'
+  E: '25'
+  DP: '22'
+  PCT: '.920'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bradley
+  nameClub1: San Jose
+  nameClub2: Stockton
+  Pos: 3B
+  G: '71'
+  PO: '99'
+  A: '108'
+  E: '18'
+  DP: '12'
+  PCT: '.920'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Killingsworth
+  nameClub1: San Jose
+  Pos: 3B
+  G: '29'
+  PO: '28'
+  A: '55'
+  E: '8'
+  DP: '9'
+  PCT: '.912'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Valenzuela
+  nameClub1: Fresno
+  Pos: 3B
+  G: '146'
+  PO: '154'
+  A: '293'
+  E: '44'
+  DP: '30'
+  PCT: '.910'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Piver
+  nameClub1: Salinas
+  Pos: 3B
+  G: '57'
+  PO: '63'
+  A: '99'
+  E: '16'
+  DP: '15'
+  PCT: '.910'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Galli
+  nameClub1: Channel Cities/Reno
+  Pos: 3B
+  G: '127'
+  PO: '124'
+  A: '289'
+  E: '43'
+  DP: '28'
+  PCT: '.906'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Campbell
+  nameClub1: Salinas
+  Pos: 3B
+  G: '52'
+  PO: '51'
+  A: '111'
+  E: '18'
+  DP: '19'
+  PCT: '.900'
+- year: '1955'
+  nameLeague: California League
+  nameLast: DeFazio
+  nameClub1: Visalia
+  Pos: 3B
+  G: '15'
+  PO: '14'
+  A: '39'
+  E: '7'
+  DP: '3'
+  PCT: '.883'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Stack
+  nameClub1: Visalia
+  Pos: 3B
+  G: '25'
+  PO: '16'
+  A: '59'
+  E: '10'
+  DP: '4'
+  PCT: '.882'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Giles
+  nameClub1: Visalia
+  Pos: 3B
+  G: '62'
+  PO: '52'
+  A: '110'
+  E: '22'
+  DP: '5'
+  PCT: '.880'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Duenas
+  nameClub1: Bakersfield
+  Pos: 3B
+  G: '14'
+  PO: '16'
+  A: '32'
+  E: '7'
+  DP: '0'
+  PCT: '.873'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Gigli
+  nameClub1: Bakersfield
+  Pos: 3B
+  G: '17'
+  PO: '20'
+  A: '19'
+  E: '6'
+  DP: '3'
+  PCT: '.867'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lopeman
+  nameClub1: Salinas
+  Pos: 3B
+  G: '36'
+  PO: '38'
+  A: '60'
+  E: '16'
+  DP: '11'
+  PCT: '.860'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Ananias
+  nameClub1: Channel Cities/Reno
+  Pos: 3B
+  G: '10'
+  PO: '13'
+  A: '21'
+  E: '6'
+  DP: '3'
+  PCT: '.850'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Laursen
+  nameClub1: Modesto
+  Pos: 3B
+  G: '28'
+  PO: '27'
+  A: '41'
+  E: '13'
+  DP: '7'
+  PCT: '.840'
+- year: '1955'
+  nameLeague: California League
+  nameLast: McKeegan
+  nameClub1: Modesto
+  Pos: 3B
+  G: '14'
+  PO: '13'
+  A: '23'
+  E: '9'
+  DP: '5'
+  PCT: '.800'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Davis
+  nameFirst: J. D.
+  nameClub1: Bakersfield
+  Pos: 3B
+  G: '23'
+  PO: '15'
+  A: '28'
+  E: '12'
+  DP: '4'
+  PCT: '.782'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Mahoney
+  nameClub1: San Jose
+  Pos: SS
+  G: '142'
+  PO: '232'
+  A: '397'
+  E: '31'
+  DP: '68'
+  PCT: '.953'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Saiza
+  nameClub1: Visalia
+  Pos: SS
+  G: '14'
+  PO: '26'
+  A: '48'
+  E: '4'
+  DP: '3'
+  PCT: '.949'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Reasonover
+  nameClub1: Bakersfield
+  Pos: SS
+  G: '67'
+  PO: '122'
+  A: '214'
+  E: '20'
+  DP: '40'
+  PCT: '.944'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bell
+  nameClub1: Modesto
+  Pos: 3B
+  G: '146'
+  PO: '264'
+  A: '416'
+  E: '41'
+  DP: '79'
+  PCT: '.943'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Green
+  nameFirst: E.
+  nameClub1: Stockton
+  Pos: SS
+  G: '143'
+  PO: '268'
+  A: '426'
+  E: '46'
+  DP: '71'
+  PCT: '.938'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Monge
+  nameClub1: Visalia
+  Pos: SS
+  G: '116'
+  PO: '216'
+  A: '335'
+  E: '41'
+  DP: '54'
+  PCT: '.931'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Krall
+  nameClub1: Fresno
+  Pos: SS
+  G: '143'
+  PO: '205'
+  A: '398'
+  E: '52'
+  DP: '75'
+  PCT: '.921'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Salinas
+  Pos: SS
+  G: '75'
+  PO: '120'
+  A: '212'
+  E: '31'
+  DP: '37'
+  PCT: '.915'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Giles
+  nameClub1: Visalia
+  Pos: SS
+  G: '20'
+  PO: '33'
+  A: '40'
+  E: '7'
+  DP: '7'
+  PCT: '.913'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Duenas
+  nameClub1: Bakersfield
+  Pos: SS
+  G: '75'
+  PO: '148'
+  A: '191'
+  E: '33'
+  DP: '42'
+  PCT: '.911'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Piver
+  nameClub1: Salinas
+  Pos: SS
+  G: '70'
+  PO: '97'
+  A: '167'
+  E: '27'
+  DP: '28'
+  PCT: '.907'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cronin
+  nameClub1: Channel Cities
+  Pos: SS
+  G: '23'
+  PO: '36'
+  A: '71'
+  E: '13'
+  DP: '12'
+  PCT: '.892'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Chiappini
+  nameClub1: Channel Cities/Reno
+  Pos: SS
+  G: '12'
+  PO: '20'
+  A: '27'
+  E: '6'
+  DP: '6'
+  PCT: '.887'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Marineau
+  nameClub1: Channel Cities
+  Pos: SS
+  G: '20'
+  PO: '35'
+  A: '54'
+  E: '13'
+  DP: '7'
+  PCT: '.873'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Meyer
+  nameClub1: Reno
+  Pos: SS
+  G: '52'
+  PO: '107'
+  A: '155'
+  E: '39'
+  DP: '26'
+  PCT: '.870'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Henry
+  nameClub1: Channel Cities
+  Pos: SS
+  G: '10'
+  PO: '13'
+  A: '26'
+  E: '6'
+  DP: '4'
+  PCT: '.867'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Walker
+  nameClub1: Channel Cities
+  Pos: SS
+  G: '24'
+  PO: '29'
+  A: '63'
+  E: '16'
+  DP: '7'
+  PCT: '.852'
+- year: '1955'
+  nameLeague: California League
+  nameLast: McGuckin
+  nameClub1: Modesto
+  throws: L
+  Pos: OF
+  G: '22'
+  PO: '59'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Wilson
+  nameClub1: Channel Cities
+  Pos: OF
+  G: '18'
+  PO: '33'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hernandez
+  nameClub1: Visalia
+  Pos: OF
+  G: '14'
+  PO: '17'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Denison
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '49'
+  PO: '110'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.991'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Garza
+  nameClub1: Fresno
+  Pos: OF
+  G: '95'
+  PO: '162'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.988'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Greene
+  nameClub1: San Jose
+  Pos: OF
+  G: '103'
+  PO: '201'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PCT: '.986'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Preston
+  nameClub1: San Jose
+  Pos: OF
+  G: '36'
+  PO: '62'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Smith
+  nameFirst: B.
+  nameClub1: Fresno
+  Pos: OF
+  G: '138'
+  PO: '269'
+  A: '18'
+  E: '5'
+  DP: '2'
+  PCT: '.983'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: J.
+  nameClub1: Visalia
+  nameClub2: Fresno
+  Pos: OF
+  G: '27'
+  PO: '45'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.979'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Wheeler
+  nameClub1: Channel Cities/Reno
+  Pos: OF
+  G: '17'
+  PO: '33'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Simons
+  nameClub1: Visalia
+  Pos: OF
+  G: '72'
+  PO: '196'
+  A: '10'
+  E: '6'
+  DP: '2'
+  PCT: '.972'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Killingsworth
+  nameClub1: San Jose
+  Pos: OF
+  G: '57'
+  PO: '96'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PCT: '.972'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Kattus
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '30'
+  PO: '66'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.972'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Werry
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '29'
+  PO: '34'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Moitoza
+  nameClub1: Stockton
+  Pos: OF
+  G: '94'
+  PO: '245'
+  A: '12'
+  E: '8'
+  DP: '0'
+  PCT: '.970'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Rosburg
+  nameClub1: Modesto
+  throws: L
+  Pos: OF
+  G: '61'
+  PO: '157'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.970'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Duenas
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '18'
+  PO: '28'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Wise
+  nameClub1: Channel Cities/Reno
+  Pos: OF
+  G: '74'
+  PO: '142'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.967'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Conquy
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '42'
+  PO: '81'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.966'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Davis
+  nameFirst: R.
+  nameClub1: Channel Cities/Reno
+  Pos: OF
+  G: '11'
+  PO: '27'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.966'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Mitchell
+  nameClub1: Modesto
+  throws: L
+  Pos: OF
+  G: '138'
+  PO: '255'
+  A: '11'
+  E: '10'
+  DP: '1'
+  PCT: '.964'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Gionfriddo
+  nameClub1: Visalia
+  throws: L
+  Pos: OF
+  G: '141'
+  PO: '248'
+  A: '11'
+  E: '10'
+  DP: '0'
+  PCT: '.963'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Pisciotta
+  nameClub1: Channel Cities
+  Pos: OF
+  G: '15'
+  PO: '23'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hague
+  nameClub1: Visalia
+  Pos: OF
+  G: '51'
+  PO: '141'
+  A: '9'
+  E: '6'
+  DP: '1'
+  PCT: '.962'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Essegian
+  nameClub1: Visalia
+  Pos: OF
+  G: '89'
+  PO: '179'
+  A: '19'
+  E: '8'
+  DP: '3'
+  PCT: '.961'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hitcher
+  nameClub1: Stockton
+  Pos: OF
+  G: '74'
+  PO: '167'
+  A: '5'
+  E: '7'
+  DP: '1'
+  PCT: '.961'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Vinyard
+  nameClub1: Salinas
+  Pos: OF
+  G: '115'
+  PO: '280'
+  A: '9'
+  E: '12'
+  DP: '3'
+  PCT: '.960'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Willis
+  nameFirst: R.
+  nameClub1: Visalia
+  nameClub2: Reno
+  throws: L
+  Pos: OF
+  G: '128'
+  PO: '269'
+  A: '14'
+  E: '12'
+  DP: '1'
+  PCT: '.959'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cronin
+  nameClub1: Channel Cities/Reno
+  Pos: OF
+  G: '60'
+  PO: '121'
+  A: '10'
+  E: '6'
+  DP: '4'
+  PCT: '.956'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lindborg
+  nameClub1: Salinas
+  Pos: OF
+  G: '74'
+  PO: '113'
+  A: '13'
+  E: '6'
+  DP: '2'
+  PCT: '.955'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Sullivan
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '28'
+  PO: '39'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.955'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Garbe
+  nameClub1: Bakersfield
+  throws: L
+  Pos: OF
+  G: '35'
+  PO: '58'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.953'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Spence
+  nameClub1: Salinas
+  Pos: OF
+  G: '69'
+  PO: '152'
+  A: '7'
+  E: '8'
+  DP: '3'
+  PCT: '.952'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Galli
+  nameClub1: Channel Cities/Reno
+  Pos: OF
+  G: '13'
+  PO: '19'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Spatafore
+  nameClub1: San Jose
+  Pos: OF
+  G: '52'
+  PO: '108'
+  A: '7'
+  E: '6'
+  DP: '1'
+  PCT: '.950'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Arenivar
+  nameClub1: Modesto
+  Pos: OF
+  G: '59'
+  PO: '153'
+  A: '8'
+  E: '9'
+  DP: '2'
+  PCT: '.947'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bonaparte
+  nameClub1: Reno
+  Pos: OF
+  G: '50'
+  PO: '99'
+  A: '6'
+  E: '6'
+  DP: '3'
+  PCT: '.946'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Tarantino
+  nameClub1: Modesto
+  Pos: OF
+  G: '41'
+  PO: '64'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.944'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Herrera
+  nameFirst: S.
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '11'
+  PO: '15'
+  A: '2'
+  E: '1'
+  DP: '2'
+  PCT: '.944'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Keating
+  nameClub1: Stockton
+  Pos: OF
+  G: '80'
+  PO: '114'
+  A: '11'
+  E: '8'
+  DP: '1'
+  PCT: '.940'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bellone
+  nameClub1: Modesto
+  Pos: OF
+  G: '17'
+  PO: '45'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.940'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hutzler
+  nameClub1: San Jose
+  Pos: OF
+  G: '128'
+  PO: '208'
+  A: '27'
+  E: '16'
+  DP: '6'
+  PCT: '.936'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Baldwin
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '102'
+  PO: '194'
+  A: '10'
+  E: '14'
+  DP: '1'
+  PCT: '.936'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Nelson
+  nameClub1: Fresno
+  Pos: OF
+  G: '144'
+  PO: '318'
+  A: '20'
+  E: '24'
+  DP: '2'
+  PCT: '.934'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bradley
+  nameClub1: San Jose
+  nameClub2: Stockton
+  Pos: OF
+  G: '59'
+  PO: '97'
+  A: '2'
+  E: '7'
+  DP: '0'
+  PCT: '.934'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hertel
+  nameClub1: Modesto
+  Pos: OF
+  G: '94'
+  PO: '151'
+  A: '5'
+  E: '12'
+  DP: '3'
+  PCT: '.929'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Speer
+  nameClub1: San Jose
+  Pos: OF
+  G: '63'
+  PO: '119'
+  A: '7'
+  E: '10'
+  DP: '0'
+  PCT: '.926'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Taylor
+  nameClub1: Channel Cities
+  Pos: OF
+  G: '29'
+  PO: '35'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.929'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Boniar
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '41'
+  PO: '93'
+  A: '4'
+  E: '8'
+  DP: '1'
+  PCT: '.924'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Salisbury
+  nameClub1: Stockton
+  Pos: OF
+  G: '26'
+  PO: '23'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.923'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Howard
+  nameClub1: Stockton
+  throws: L
+  Pos: OF
+  G: '65'
+  PO: '110'
+  A: '6'
+  E: '10'
+  DP: '0'
+  PCT: '.921'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Murphy
+  nameFirst: J.
+  nameClub1: Stockton
+  Pos: OF
+  G: '32'
+  PO: '50'
+  A: '3'
+  E: '5'
+  DP: '0'
+  PCT: '.914'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Goss
+  nameClub1: Salinas
+  Pos: OF
+  G: '125'
+  PO: '220'
+  A: '14'
+  E: '25'
+  DP: '5'
+  PCT: '.903'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Campbell
+  nameClub1: Salinas
+  Pos: OF
+  G: '17'
+  PO: '24'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.903'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Jones
+  nameClub1: Fresno
+  Pos: OF
+  G: '56'
+  PO: '72'
+  A: '4'
+  E: '9'
+  DP: '0'
+  PCT: '.894'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Murray
+  nameClub1: Salinas
+  Pos: OF
+  G: '12'
+  PO: '15'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cheso
+  nameClub1: Salinas
+  Pos: OF
+  G: '10'
+  PO: '7'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hurych
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '64'
+  PO: '100'
+  A: '6'
+  E: '14'
+  DP: '1'
+  PCT: '.883'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Neeley
+  nameClub1: Salinas
+  Pos: OF
+  G: '11'
+  PO: '16'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.857'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Jordan
+  nameClub1: Stockton
+  throws: L
+  Pos: OF
+  G: '16'
+  PO: '23'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.852'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Stowell
+  nameClub1: Reno
+  Pos: OF
+  G: '16'
+  PO: '20'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.840'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Partee
+  nameClub1: Stockton
+  Pos: C
+  G: '102'
+  PO: '652'
+  A: '50'
+  E: '5'
+  DP: '7'
+  PB: '10'
+  PCT: '.993'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: J.
+  nameClub1: Visalia
+  nameClub2: Fresno
+  Pos: C
+  G: '22'
+  PO: '103'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PB: '4'
+  PCT: '.991'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lachemann
+  nameClub1: Bakersfield
+  Pos: C
+  G: '23'
+  PO: '113'
+  A: '18'
+  E: '2'
+  DP: '2'
+  PB: '4'
+  PCT: '.985'
+- year: '1955'
+  nameLeague: California League
+  nameLast: McKeegan
+  nameClub1: Modesto
+  Pos: C
+  G: '91'
+  PO: '525'
+  A: '45'
+  E: '9'
+  DP: '8'
+  PB: '8'
+  PCT: '.984'
+- year: '1955'
+  nameLeague: California League
+  nameLast: LeBlanc
+  nameClub1: Fresno
+  Pos: C
+  G: '132'
+  PO: '839'
+  A: '87'
+  E: '16'
+  DP: '10'
+  PB: '7'
+  PCT: '.983'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Atkinson
+  nameClub1: San Jose
+  Pos: C
+  G: '87'
+  PO: '552'
+  A: '39'
+  E: '10'
+  DP: '10'
+  PB: '12'
+  PCT: '.983'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Potts
+  nameClub1: Bakersfield
+  Pos: C
+  G: '46'
+  PO: '263'
+  A: '29'
+  E: '5'
+  DP: '5'
+  PB: '8'
+  PCT: '.983'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Moore
+  nameClub1: Visalia
+  Pos: C
+  G: '110'
+  PO: '575'
+  A: '86'
+  E: '13'
+  DP: '12'
+  PB: '9'
+  PCT: '.981'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Stackpole
+  nameClub1: San Jose
+  Pos: C
+  G: '28'
+  PO: '185'
+  A: '19'
+  E: '4'
+  DP: '1'
+  PB: '2'
+  PCT: '.981'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Leavitt
+  nameClub1: Channel Cities/Reno
+  Pos: C
+  G: '138'
+  PO: '600'
+  A: '106'
+  E: '17'
+  DP: '12'
+  PB: '11'
+  PCT: '.976'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Werry
+  nameClub1: Bakersfield
+  Pos: C
+  G: '70'
+  PO: '375'
+  A: '39'
+  E: '10'
+  DP: '8'
+  PB: '10'
+  PCT: '.976'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Meyers
+  nameClub1: Salinas
+  Pos: C
+  G: '18'
+  PO: '106'
+  A: '15'
+  E: '3'
+  DP: '0'
+  PB: '5'
+  PCT: '.976'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Salisbury
+  nameClub1: Stockton
+  Pos: C
+  G: '53'
+  PO: '250'
+  A: '24'
+  E: '7'
+  DP: '4'
+  PB: '6'
+  PCT: '.975'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Ott
+  nameClub1: Fresno
+  Pos: C
+  G: '16'
+  PO: '70'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PB: '3'
+  PCT: '.975'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Rivers
+  nameClub1: Fresno
+  Pos: C
+  G: '20'
+  PO: '101'
+  A: '10'
+  E: '3'
+  DP: '1'
+  PB: '3'
+  PCT: '.974'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Weller
+  nameClub1: Modesto
+  Pos: C
+  G: '40'
+  PO: '196'
+  A: '23'
+  E: '6'
+  DP: '5'
+  PB: '12'
+  PCT: '.973'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Westerfield
+  nameClub1: Salinas
+  Pos: C
+  G: '80'
+  PO: '480'
+  A: '49'
+  E: '15'
+  DP: '12'
+  PB: '15'
+  PCT: '.972'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Schneider
+  nameClub1: Salinas
+  Pos: C
+  G: '34'
+  PO: '217'
+  A: '23'
+  E: '7'
+  DP: '3'
+  PB: '5'
+  PCT: '.972'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Dziedzic
+  nameClub1: Bakersfield
+  Pos: C
+  G: '19'
+  PO: '122'
+  A: '11'
+  E: '4'
+  DP: '1'
+  PB: '1'
+  PCT: '.971'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Barnes
+  nameClub1: Visalia
+  Pos: C
+  G: '11'
+  PO: '53'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PB: '3'
+  PCT: '.969'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Gile
+  nameClub1: San Jose
+  Pos: C
+  G: '26'
+  PO: '159'
+  A: '10'
+  E: '6'
+  DP: '0'
+  PB: '7'
+  PCT: '.966'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Laursen
+  nameClub1: Modesto
+  Pos: C
+  G: '14'
+  PO: '60'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PB: '4'
+  PCT: '.956'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Arrigo
+  nameClub1: San Jose
+  Pos: C
+  G: '22'
+  PO: '105'
+  A: '11'
+  E: '6'
+  DP: '0'
+  PB: '4'
+  PCT: '.951'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Simons
+  nameClub1: Visalia
+  Pos: C
+  G: '16'
+  PO: '74'
+  A: '9'
+  E: '10'
+  DP: '0'
+  PB: '4'
+  PCT: '.892'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Thomas
+  nameClub1: Bakersfield
+  Pos: P
+  G: '36'
+  PO: '9'
+  A: '29'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Stabelfeld
+  nameClub1: Fresno
+  Pos: P
+  G: '34'
+  PO: '13'
+  A: '24'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: McCall
+  nameClub1: Bakersfield
+  Pos: P
+  G: '21'
+  PO: '7'
+  A: '22'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Donley
+  nameClub1: Channel Cities
+  nameClub2: Salinas
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hooper
+  nameClub1: Bakersfield
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '0'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: McKinney
+  nameClub1: Modesto
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Amaya
+  nameClub1: Stockton
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Demery
+  nameClub1: Visalia
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Wendt
+  nameClub1: Bakersfield
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Ludtke
+  nameClub1: Bakersfield
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Pisciotta
+  nameClub1: Channel Cities
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bryan
+  nameClub1: Channel Cities
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Davolio
+  nameClub1: Modesto
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Pickart
+  nameClub1: Modesto
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lawrence
+  nameClub1: Modesto
+  Pos: P
+  G: '24'
+  PO: '7'
+  A: '47'
+  E: '1'
+  DP: '3'
+  PCT: '.982'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lovrich
+  nameClub1: Visalia
+  Pos: P
+  G: '32'
+  PO: '15'
+  A: '36'
+  E: '1'
+  DP: '2'
+  PCT: '.981'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Sneed
+  nameClub1: Bakersfield
+  Pos: P
+  G: '37'
+  PO: '8'
+  A: '39'
+  E: '1'
+  DP: '4'
+  PCT: '.979'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Beamon
+  nameClub1: Stockton
+  Pos: P
+  G: '16'
+  PO: '6'
+  A: '36'
+  E: '1'
+  DP: '4'
+  PCT: '.977'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Grba
+  nameClub1: San Jose
+  Pos: P
+  G: '34'
+  PO: '8'
+  A: '31'
+  E: '1'
+  DP: '2'
+  PCT: '.975'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Murphy
+  nameFirst: R.
+  nameClub1: Stockton
+  Pos: P
+  G: '20'
+  PO: '6'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.970'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Belt
+  nameClub1: Channel Cities
+  Pos: P
+  G: '19'
+  PO: '9'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.967'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Willis
+  nameFirst: S.
+  nameClub1: San Jose
+  Pos: P
+  G: '31'
+  PO: '13'
+  A: '38'
+  E: '2'
+  DP: '2'
+  PCT: '.962'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Broglio
+  nameClub1: Stockton
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '42'
+  E: '2'
+  DP: '3'
+  PCT: '.961'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Dial
+  nameClub1: Salinas
+  throws: L
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Miller
+  nameClub1: Bakersfield
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Gaggero
+  nameClub1: Modesto
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Wills
+  nameClub1: San Jose
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '10'
+  A: '33'
+  E: '2'
+  DP: '2'
+  PCT: '.956'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Perez
+  nameFirst: M.
+  nameClub1: Fresno
+  Pos: P
+  G: '32'
+  PO: '8'
+  A: '32'
+  E: '2'
+  DP: '1'
+  PCT: '.952'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Faszholz
+  nameClub1: Channel Cities/Reno
+  Pos: P
+  G: '23'
+  PO: '9'
+  A: '27'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Haysom
+  nameClub1: Salinas
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Watts
+  nameClub1: Visalia
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Jordan
+  nameClub1: Stockton
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Knox
+  nameClub1: Fresno
+  Pos: P
+  G: '26'
+  PO: '10'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.946'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cesena
+  nameClub1: Stockton
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '11'
+  A: '24'
+  E: '2'
+  DP: '1'
+  PCT: '.946'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Kenway
+  nameClub1: Bakersfield
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Sheridan
+  nameClub1: Bakersfield
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Herman
+  nameClub1: Visalia
+  Pos: P
+  G: '21'
+  PO: '11'
+  A: '18'
+  E: '2'
+  DP: '2'
+  PCT: '.935'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Mehrmann
+  nameClub1: Modesto
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '7'
+  A: '35'
+  E: '3'
+  DP: '2'
+  PCT: '.933'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Davis
+  nameFirst: J.
+  nameClub1: Bakersfield
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '8'
+  A: '20'
+  E: '2'
+  DP: '4'
+  PCT: '.933'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Gray
+  nameClub1: Reno
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hernandez
+  nameClub1: Visalia
+  Pos: P
+  G: '19'
+  PO: '7'
+  A: '19'
+  E: '2'
+  DP: '3'
+  PCT: '.929'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Rosello
+  nameClub1: Salinas
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '23'
+  E: '2'
+  DP: '3'
+  PCT: '.929'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Zimmerlink
+  nameClub1: Salinas
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hughes
+  nameClub1: Fresno
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '32'
+  E: '3'
+  DP: '6'
+  PCT: '.927'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Osborn
+  nameClub1: San Jose
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '27'
+  E: '3'
+  DP: '3'
+  PCT: '.925'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bowsfield
+  nameClub1: San Jose
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '9'
+  A: '28'
+  E: '3'
+  DP: '2'
+  PCT: '.925'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Tucker
+  nameClub1: Channel Cities/Reno
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '4'
+  A: '43'
+  E: '4'
+  DP: '4'
+  PCT: '.922'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Rounds
+  nameClub1: Modesto
+  Pos: P
+  G: '32'
+  PO: '5'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bielefeld
+  nameClub1: Stockton
+  Pos: P
+  G: '25'
+  PO: '9'
+  A: '26'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+- year: '1955'
+  nameLeague: California League
+  nameLast: May
+  nameClub1: Salinas
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '10'
+  A: '35'
+  E: '4'
+  DP: '3'
+  PCT: '.918'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Leister
+  nameClub1: Visalia
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.913'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Blacksher
+  nameClub1: Stockton
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Williams
+  nameClub1: Visalia
+  Pos: P
+  G: '33'
+  PO: '14'
+  A: '26'
+  E: '4'
+  DP: '2'
+  PCT: '.909'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Albini
+  nameClub1: Stockton
+  Pos: P
+  G: '13'
+  PO: '8'
+  A: '12'
+  E: '2'
+  DP: '2'
+  PCT: '.909'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Moton
+  nameClub1: Fresno
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Bithell
+  nameClub1: Fresno
+  Pos: P
+  G: '35'
+  PO: '2'
+  A: '18'
+  E: '2'
+  DP: '1'
+  PCT: '.909'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Herrera
+  nameFirst: T.
+  nameClub1: Stockton
+  Pos: P
+  G: '27'
+  PO: '3'
+  A: '26'
+  E: '3'
+  DP: '1'
+  PCT: '.906'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Childers
+  nameClub1: Channel Cities/Reno
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '37'
+  E: '5'
+  DP: '1'
+  PCT: '.902'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Shortlidge
+  nameClub1: Modesto
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.900'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Van Zanten
+  nameClub1: Channel Cities/Reno
+  Pos: P
+  G: '27'
+  PO: '3'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.895'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Thompson
+  nameClub1: Fresno
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '18'
+  E: '3'
+  DP: '1'
+  PCT: '.889'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Feldstein
+  nameClub1: Visalia
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Berdrow
+  nameClub1: Stockton
+  nameClub2: Reno
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+- year: '1955'
+  nameLeague: California League
+  nameLast: King
+  nameClub1: Salinas
+  Pos: P
+  G: '33'
+  PO: '10'
+  A: '29'
+  E: '5'
+  DP: '0'
+  PCT: '.886'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Dunn
+  nameClub1: Modesto
+  Pos: P
+  G: '33'
+  PO: '3'
+  A: '36'
+  E: '5'
+  DP: '3'
+  PCT: '.886'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Simoni
+  nameClub1: San Jose
+  Pos: P
+  G: '21'
+  PO: '5'
+  A: '17'
+  E: '3'
+  DP: '2'
+  PCT: '.880'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Corella
+  nameClub1: Salinas
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '36'
+  E: '6'
+  DP: '4'
+  PCT: '.870'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Franco
+  nameClub1: Modesto
+  nameClub2: Reno
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '37'
+  E: '7'
+  DP: '3'
+  PCT: '.868'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Silver
+  nameClub1: Visalia
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '4'
+  A: '21'
+  E: '5'
+  DP: '1'
+  PCT: '.833'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Flores
+  nameClub1: Modesto
+  Pos: P
+  G: '18'
+  PO: '0'
+  A: '10'
+  E: '2'
+  DP: '3'
+  PCT: '.833'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Dick
+  nameClub1: Reno
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '10'
+  E: '3'
+  DP: '2'
+  PCT: '.824'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Allmon
+  nameClub1: San Jose
+  Pos: P
+  G: '22'
+  PO: '6'
+  A: '12'
+  E: '4'
+  DP: '3'
+  PCT: '.818'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Pitts
+  nameClub1: Salinas
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '16'
+  E: '4'
+  DP: '3'
+  PCT: '.818'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Cammel
+  nameClub1: Salinas
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Page
+  nameClub1: Bakersfield
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '9'
+  E: '3'
+  DP: '3'
+  PCT: '.800'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Lee
+  nameClub1: San Jose
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Stanek
+  nameClub1: Bakersfield
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '6'
+  E: '2'
+  DP: '2'
+  PCT: '.778'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Guzman
+  nameClub1: Bakersfield
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PCT: '.769'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Mecham
+  nameClub1: San Jose
+  Pos: P
+  G: '24'
+  PO: '3'
+  A: '10'
+  E: '4'
+  DP: '0'
+  PCT: '.765'
+- year: '1955'
+  nameLeague: California League
+  nameLast: Hiland
+  nameClub1: Fresno
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.750'

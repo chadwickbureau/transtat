@@ -1,0 +1,100 @@
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: regular
+  W: '92'
+  L: '38'
+  T: '2'
+  PCT: '.708'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: regular
+  W: '84'
+  L: '46'
+  T: '1'
+  PCT: '.646'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: regular
+  W: '61'
+  L: '69'
+  T: '1'
+  PCT: '.469'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Clarksdale
+  phase: regular
+  W: '59'
+  L: '71'
+  T: '2'
+  PCT: '.454'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: regular
+  W: '49'
+  L: '81'
+  T: '1'
+  PCT: '.377'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Helena
+  phase: regular
+  W: '45'
+  L: '85'
+  T: '1'
+  PCT: '.346'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Clarksdale
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

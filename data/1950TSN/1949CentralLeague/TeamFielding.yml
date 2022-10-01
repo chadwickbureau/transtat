@@ -1,0 +1,66 @@
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Dayton
+  G: '138'
+  DP: '123'
+  PB: '12'
+  PO: '3554'
+  A: '1400'
+  E: '167'
+  TP: '0'
+  PCT: '.967'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Flint
+  G: '140'
+  DP: '128'
+  PB: '13'
+  PO: '3636'
+  A: '1494'
+  E: '179'
+  TP: '0'
+  PCT: '.966'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Charleston
+  G: '135'
+  DP: '131'
+  PB: '20'
+  PO: '3442'
+  A: '1413'
+  E: '170'
+  TP: '0'
+  PCT: '.966'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Grand Rapids
+  G: '138'
+  DP: '123'
+  PB: '14'
+  PO: '3515'
+  A: '1410'
+  E: '186'
+  TP: '0'
+  PCT: '.964'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Muskegon
+  G: '139'
+  DP: '118'
+  PB: '13'
+  PO: '3553'
+  A: '1559'
+  E: '207'
+  TP: '0'
+  PCT: '.961'
+- year: '1949'
+  nameLeague: Central League
+  nameClub: Saginaw
+  G: '138'
+  DP: '100'
+  PB: '12'
+  PO: '3587'
+  A: '1360'
+  E: '217'
+  TP: '1'
+  PCT: '.958'

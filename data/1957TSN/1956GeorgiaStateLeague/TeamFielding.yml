@@ -1,0 +1,66 @@
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  G: '120'
+  DP: '82'
+  PB: '17'
+  PO: '3046'
+  A: '1132'
+  E: '235'
+  PCT: '.947'
+  TP: '0'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  G: '121'
+  DP: '82'
+  PB: '9'
+  PO: '3116'
+  A: '1238'
+  E: '252'
+  PCT: '.945'
+  TP: '0'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  G: '120'
+  DP: '118'
+  PB: '16'
+  PO: '3074'
+  A: '1249'
+  E: '262'
+  PCT: '.943'
+  TP: '0'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  G: '121'
+  DP: '96'
+  PB: '17'
+  PO: '3069'
+  A: '1283'
+  E: '283'
+  PCT: '.939'
+  TP: '1'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Thomson
+  G: '120'
+  DP: '95'
+  PB: '32'
+  PO: '3179'
+  A: '1228'
+  E: '297'
+  PCT: '.937'
+  TP: '0'
+- year: '1956'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  G: '120'
+  DP: '79'
+  PB: '25'
+  PO: '3108'
+  A: '1225'
+  E: '330'
+  PCT: '.929'
+  TP: '0'

@@ -1,0 +1,66 @@
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  G: '140'
+  DP: '176'
+  PB: '23'
+  PO: '3662'
+  A: '1554'
+  E: '254'
+  PCT: '.954'
+  TP: '0'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  G: '139'
+  DP: '102'
+  PB: '32'
+  PO: '3642'
+  A: '1460'
+  E: '254'
+  PCT: '.953'
+  TP: '1'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  G: '139'
+  DP: '117'
+  PB: '32'
+  PO: '3680'
+  A: '1471'
+  E: '282'
+  PCT: '.948'
+  TP: '0'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee-Douglas
+  G: '139'
+  DP: '145'
+  PB: '35'
+  PO: '3596'
+  A: '1530'
+  E: '284'
+  PCT: '.948'
+  TP: '0'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Mexicali
+  G: '139'
+  DP: '151'
+  PB: '19'
+  PO: '3604'
+  A: '1589'
+  E: '314'
+  PCT: '.943'
+  TP: '0'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  G: '140'
+  DP: '132'
+  PB: '33'
+  PO: '3655'
+  A: '1490'
+  E: '347'
+  PCT: '.937'
+  TP: '0'

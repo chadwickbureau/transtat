@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  G: '138'
+  PO: '3617'
+  A: '1348'
+  E: '244'
+  DP: '82'
+  TP: '0'
+  PB: '13'
+  PCT: '.953'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  G: '138'
+  PO: '3552'
+  A: '1485'
+  E: '255'
+  DP: '109'
+  TP: '1'
+  PB: '15'
+  PCT: '.952'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  G: '140'
+  PO: '3675'
+  A: '1691'
+  E: '289'
+  DP: '111'
+  TP: '1'
+  PB: '16'
+  PCT: '.949'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  G: '140'
+  PO: '3698'
+  A: '1675'
+  E: '296'
+  DP: '107'
+  TP: '0'
+  PB: '22'
+  PCT: '.948'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  G: '140'
+  PO: '3615'
+  A: '1521'
+  E: '301'
+  DP: '133'
+  TP: '0'
+  PB: '38'
+  PCT: '.945'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  G: '138'
+  PO: '3645'
+  A: '1453'
+  E: '301'
+  DP: '84'
+  TP: '0'
+  PB: '22'
+  PCT: '.944'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  G: '138'
+  PO: '3573'
+  A: '1635'
+  E: '325'
+  DP: '118'
+  TP: '0'
+  PB: '36'
+  PCT: '.941'
+- year: '1948'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  G: '140'
+  PO: '3641'
+  A: '1567'
+  E: '327'
+  DP: '101'
+  TP: '0'
+  PB: '34'
+  PCT: '.941'

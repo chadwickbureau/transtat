@@ -1,0 +1,40 @@
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameClub: Duluth Marine Iron
+  G: '16'
+  PO: '406'
+  A: '164'
+  E: '41'
+  DP: '11'
+  PB: '2'
+  PCT: '.933'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameClub: Duluth Dukes
+  G: '19'
+  PO: '482'
+  A: '214'
+  E: '59'
+  DP: '11'
+  PB: '3'
+  PCT: '.922'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameClub: Superior
+  G: '19'
+  PO: '453'
+  A: '178'
+  E: '59'
+  DP: '9'
+  PB: '2'
+  PCT: '.915'
+- year: '1943'
+  nameLeague: Twin Ports League
+  nameClub: Duluth Heralds
+  G: '16'
+  PO: '377'
+  A: '147'
+  E: '54'
+  DP: '8'
+  PB: '4'
+  PCT: '.901'

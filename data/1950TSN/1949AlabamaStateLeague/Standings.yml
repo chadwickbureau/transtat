@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: regular
+  W: '83'
+  L: '44'
+  T: '0'
+  PCT: '.654'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Ozark
+  phase: regular
+  W: '82'
+  L: '45'
+  T: '0'
+  PCT: '.646'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Enterprise
+  phase: regular
+  W: '63'
+  L: '61'
+  T: '0'
+  PCT: '.508'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Andalusia
+  phase: regular
+  W: '59'
+  L: '65'
+  T: '1'
+  PCT: '.476'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Dothan
+  phase: regular
+  W: '57'
+  L: '68'
+  T: '1'
+  PCT: '.456'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Geneva
+  phase: regular
+  W: '56'
+  L: '69'
+  T: '1'
+  PCT: '.448'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Brewton
+  phase: regular
+  W: '51'
+  L: '73'
+  T: '1'
+  PCT: '.411'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Troy
+  phase: regular
+  W: '49'
+  L: '75'
+  T: '0'
+  PCT: '.395'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Enterprise
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Andalusia
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Ozark
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Andalusia
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

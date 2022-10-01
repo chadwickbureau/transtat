@@ -1,0 +1,100 @@
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: regular
+  W: '77'
+  L: '62'
+  T: '1'
+  PCT: '.554'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '2'
+  PCT: '.529'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '71'
+  L: '68'
+  T: '1'
+  PCT: '.511'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: regular
+  W: '71'
+  L: '69'
+  T: '1'
+  PCT: '.507'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '68'
+  L: '72'
+  T: '1'
+  PCT: '.486'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: regular
+  W: '58'
+  L: '82'
+  T: '2'
+  PCT: '.414'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

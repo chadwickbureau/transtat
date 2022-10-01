@@ -1,0 +1,118 @@
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: regular
+  W: '93'
+  L: '61'
+  T: '0'
+  PCT: '.604'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: regular
+  W: '83'
+  L: '69'
+  T: '0'
+  PCT: '.547'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: regular
+  W: '80'
+  L: '74'
+  T: '0'
+  PCT: '.519'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: regular
+  W: '79'
+  L: '75'
+  T: '1'
+  PCT: '.513'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: regular
+  W: '76'
+  L: '78'
+  T: '1'
+  PCT: '.494'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  phase: regular
+  W: '73'
+  L: '77'
+  T: '0'
+  PCT: '.487'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  phase: regular
+  W: '69'
+  L: '80'
+  T: '1'
+  PCT: '.463'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Galveston
+  phase: regular
+  W: '57'
+  L: '96'
+  T: '1'
+  PCT: '.373'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

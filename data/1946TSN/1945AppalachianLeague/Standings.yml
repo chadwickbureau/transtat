@@ -1,0 +1,82 @@
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: regular
+  W: '73'
+  L: '36'
+  T: '2'
+  PCT: '.670'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular
+  W: '63'
+  L: '45'
+  T: '1'
+  PCT: '.583'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular
+  W: '40'
+  L: '65'
+  T: '3'
+  PCT: '.381'
+  RANK: '3'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: regular
+  W: '38'
+  L: '68'
+  T: '0'
+  PCT: '.358'
+  RANK: '4'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

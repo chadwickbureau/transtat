@@ -1,0 +1,3082 @@
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Trower
+  nameFirst: Donald
+  nameClub1: Phoenix
+  G: '39'
+  AB: '161'
+  R: '44'
+  H: '64'
+  TB: '87'
+  H2B: '14'
+  H3B: '3'
+  HR: '1'
+  SH: '6'
+  SB: '2'
+  BB: '34'
+  HP: '2'
+  RBI: '33'
+  SO: '9'
+  AVG: '.398'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Roberts
+  nameFirst: Edwin E.
+  nameClub1: Tucson
+  G: '93'
+  AB: '355'
+  R: '95'
+  H: '139'
+  TB: '208'
+  H2B: '29'
+  H3B: '5'
+  HR: '10'
+  SH: '4'
+  SB: '20'
+  BB: '48'
+  HP: '2'
+  RBI: '65'
+  SO: '14'
+  AVG: '.392'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Magallon
+  nameFirst: Manuel
+  nameClub1: Bisbee-Douglas
+  G: '132'
+  AB: '544'
+  R: '120'
+  H: '200'
+  TB: '308'
+  H2B: '40'
+  H3B: '4'
+  HR: '20'
+  SH: '2'
+  SB: '3'
+  BB: '59'
+  HP: '1'
+  RBI: '116'
+  SO: '46'
+  AVG: '.368'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Jenney
+  nameFirst: Lloyd P.
+  nameClub1: Tucson
+  bats: L
+  G: '139'
+  AB: '539'
+  R: '140'
+  H: '198'
+  TB: '343'
+  H2B: '47'
+  H3B: '13'
+  HR: '24'
+  SH: '2'
+  SB: '12'
+  BB: '115'
+  HP: '4'
+  RBI: '152'
+  SO: '62'
+  AVG: '.367'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Joshua
+  nameFirst: Joe
+  nameClub1: Tucson
+  G: '135'
+  AB: '540'
+  R: '164'
+  H: '194'
+  TB: '331'
+  H2B: '32'
+  H3B: '9'
+  HR: '29'
+  SH: '7'
+  SB: '39'
+  BB: '87'
+  HP: '12'
+  RBI: '128'
+  SO: '93'
+  AVG: '.359'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Canales
+  nameFirst: Roberto
+  nameClub1: Juarez
+  G: '137'
+  AB: '582'
+  R: '97'
+  H: '208'
+  TB: '311'
+  H2B: '50'
+  H3B: '10'
+  HR: '11'
+  SH: '5'
+  SB: '8'
+  BB: '15'
+  HP: '13'
+  RBI: '129'
+  SO: '58'
+  AVG: '.357'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Medina
+  nameFirst: Victor
+  nameClub1: El Paso
+  G: '12'
+  AB: '45'
+  R: '8'
+  H: '16'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '5'
+  SO: '6'
+  AVG: '.356'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Valenzuela
+  nameFirst: Benjamin
+  nameClub1: Bisbee-Douglas
+  G: '44'
+  AB: '176'
+  R: '41'
+  H: '61'
+  TB: '99'
+  H2B: '10'
+  H3B: '5'
+  HR: '6'
+  SH: '0'
+  SB: '6'
+  BB: '31'
+  HP: '0'
+  RBI: '48'
+  SO: '3'
+  AVG: '.347'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Choukalos
+  nameFirst: Ernest W.
+  nameClub1: Tucson
+  bats: L
+  G: '106'
+  AB: '403'
+  R: '74'
+  H: '138'
+  TB: '227'
+  H2B: '23'
+  H3B: '6'
+  HR: '18'
+  SH: '3'
+  SB: '4'
+  BB: '30'
+  HP: '7'
+  RBI: '87'
+  SO: '46'
+  AVG: '.342'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Camacho
+  nameFirst: Moises
+  nameClub1: Mexicali
+  G: '139'
+  AB: '589'
+  R: '128'
+  H: '201'
+  TB: '293'
+  H2B: '35'
+  H3B: '9'
+  HR: '13'
+  SH: '2'
+  SB: '10'
+  BB: '57'
+  HP: '4'
+  RBI: '105'
+  SO: '56'
+  AVG: '.341'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Lilly
+  nameFirst: Arthur M.
+  nameClub1: Mexicali
+  bats: L
+  G: '137'
+  AB: '476'
+  R: '122'
+  H: '162'
+  TB: '284'
+  H2B: '30'
+  H3B: '13'
+  HR: '22'
+  SH: '2'
+  SB: '8'
+  BB: '94'
+  HP: '24'
+  RBI: '107'
+  SO: '48'
+  AVG: '.340'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Grenald
+  nameFirst: Reginald
+  nameClub1: Phoenix
+  G: '68'
+  AB: '268'
+  R: '58'
+  H: '91'
+  TB: '148'
+  H2B: '18'
+  H3B: '6'
+  HR: '9'
+  SH: '0'
+  SB: '12'
+  BB: '30'
+  HP: '2'
+  RBI: '61'
+  SO: '26'
+  AVG: '.340'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Garcia
+  nameFirst: Gonzalo M.
+  nameClub1: El Paso
+  G: '134'
+  AB: '549'
+  R: '106'
+  H: '185'
+  TB: '256'
+  H2B: '20'
+  H3B: '15'
+  HR: '7'
+  SH: '7'
+  SB: '7'
+  BB: '58'
+  HP: '1'
+  RBI: '88'
+  SO: '88'
+  AVG: '.337'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Brown
+  nameFirst: Robert M.
+  nameClub1: Phoenix
+  bats: L
+  G: '140'
+  AB: '555'
+  R: '128'
+  H: '186'
+  TB: '311'
+  H2B: '32'
+  H3B: '6'
+  HR: '27'
+  SH: '3'
+  SB: '22'
+  BB: '90'
+  HP: '3'
+  RBI: '129'
+  SO: '70'
+  AVG: '.335'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cecil
+  nameFirst: Diamond D.
+  nameClub1: El Paso
+  bats: L
+  G: '131'
+  AB: '440'
+  R: '71'
+  H: '147'
+  TB: '193'
+  H2B: '29'
+  H3B: '4'
+  HR: '3'
+  SH: '6'
+  SB: '0'
+  BB: '109'
+  HP: '1'
+  RBI: '64'
+  SO: '50'
+  AVG: '.334'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Yoke
+  nameFirst: Kenneth D.
+  nameClub1: El Paso
+  bats: L
+  G: '23'
+  AB: '45'
+  R: '6'
+  H: '15'
+  TB: '18'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '10'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Karr
+  nameFirst: Lawrence E.
+  nameClub1: Tucson
+  G: '13'
+  AB: '15'
+  R: '5'
+  H: '5'
+  TB: '7'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '8'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Canales
+  nameFirst: Victor M.
+  nameClub1: Juarez
+  G: '132'
+  AB: '562'
+  R: '79'
+  H: '186'
+  TB: '222'
+  H2B: '21'
+  H3B: '6'
+  HR: '1'
+  SH: '1'
+  SB: '7'
+  BB: '24'
+  HP: '6'
+  RBI: '104'
+  SO: '19'
+  AVG: '.331'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Jameson
+  nameFirst: Donald
+  nameClub1: Tucson
+  G: '91'
+  AB: '382'
+  R: '71'
+  H: '126'
+  TB: '153'
+  H2B: '11'
+  H3B: '8'
+  HR: '0'
+  SH: '1'
+  SB: '12'
+  BB: '35'
+  HP: '4'
+  RBI: '89'
+  SO: '6'
+  AVG: '.330'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Elliott
+  nameFirst: Albert W.
+  nameClub1: Phoenix
+  bats: L
+  G: '131'
+  AB: '457'
+  R: '99'
+  H: '150'
+  TB: '243'
+  H2B: '36'
+  H3B: '3'
+  HR: '17'
+  SH: '4'
+  SB: '24'
+  BB: '103'
+  HP: '0'
+  RBI: '101'
+  SO: '42'
+  AVG: '.328'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cruz
+  nameFirst: Eduardo S.
+  nameClub1: Juarez
+  G: '139'
+  AB: '565'
+  R: '143'
+  H: '185'
+  TB: '305'
+  H2B: '24'
+  H3B: '24'
+  HR: '16'
+  SH: '10'
+  SB: '17'
+  BB: '79'
+  HP: '1'
+  RBI: '88'
+  SO: '57'
+  AVG: '.327'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Highfield
+  nameFirst: Vernon
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '94'
+  AB: '370'
+  R: '72'
+  H: '121'
+  TB: '151'
+  H2B: '16'
+  H3B: '4'
+  HR: '2'
+  SH: '2'
+  SB: '6'
+  BB: '34'
+  HP: '3'
+  RBI: '55'
+  SO: '32'
+  AVG: '.327'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Estrada
+  nameFirst: James
+  nameClub1: Tucson
+  G: '124'
+  AB: '543'
+  R: '108'
+  H: '175'
+  TB: '250'
+  H2B: '29'
+  H3B: '14'
+  HR: '6'
+  SH: '14'
+  SB: '7'
+  BB: '52'
+  HP: '1'
+  RBI: '87'
+  SO: '33'
+  AVG: '.322'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Brien
+  nameFirst: David L.
+  nameClub1: El Paso
+  G: '112'
+  AB: '451'
+  R: '72'
+  H: '145'
+  TB: '164'
+  H2B: '19'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '11'
+  BB: '29'
+  HP: '1'
+  RBI: '61'
+  SO: '31'
+  AVG: '.322'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Steinhauer
+  nameFirst: Richard C.
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '64'
+  AB: '255'
+  R: '36'
+  H: '82'
+  TB: '106'
+  H2B: '14'
+  H3B: '2'
+  HR: '2'
+  SH: '0'
+  SB: '0'
+  BB: '16'
+  HP: '3'
+  RBI: '50'
+  SO: '8'
+  AVG: '.322'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Windhorn
+  nameFirst: Gordan R.
+  nameClub1: Phoenix
+  G: '121'
+  AB: '528'
+  R: '116'
+  H: '168'
+  TB: '239'
+  H2B: '18'
+  H3B: '4'
+  HR: '15'
+  SH: '4'
+  SB: '31'
+  BB: '45'
+  HP: '4'
+  RBI: '66'
+  SO: '64'
+  AVG: '.318'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Lundgren
+  nameFirst: Charles M.
+  nameClub1: Tucson
+  G: '116'
+  AB: '431'
+  R: '148'
+  H: '137'
+  TB: '272'
+  H2B: '27'
+  H3B: '3'
+  HR: '34'
+  SH: '4'
+  SB: '12'
+  BB: '133'
+  HP: '6'
+  RBI: '81'
+  SO: '116'
+  AVG: '.318'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Buckingham
+  nameFirst: Ralph J.
+  nameClub1: Tucson
+  bats: L
+  G: '61'
+  AB: '202'
+  R: '30'
+  H: '64'
+  TB: '88'
+  H2B: '12'
+  H3B: '6'
+  HR: '0'
+  SH: '6'
+  SB: '1'
+  BB: '11'
+  HP: '3'
+  RBI: '34'
+  SO: '16'
+  AVG: '.317'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Urias
+  nameFirst: Romualdo
+  nameClub1: El Paso
+  G: '119'
+  AB: '484'
+  R: '65'
+  H: '153'
+  TB: '185'
+  H2B: '25'
+  H3B: '2'
+  HR: '1'
+  SH: '8'
+  SB: '10'
+  BB: '11'
+  HP: '10'
+  RBI: '55'
+  SO: '49'
+  AVG: '.316'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Grecius
+  nameFirst: Edmund
+  nameClub1: Phoenix
+  G: '65'
+  AB: '212'
+  R: '34'
+  H: '67'
+  TB: '116'
+  H2B: '17'
+  H3B: '7'
+  HR: '6'
+  SH: '1'
+  SB: '3'
+  BB: '7'
+  HP: '0'
+  RBI: '43'
+  SO: '44'
+  AVG: '.316'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Benson
+  nameFirst: John
+  nameClub1: Phoenix
+  G: '26'
+  AB: '89'
+  R: '9'
+  H: '28'
+  TB: '35'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '4'
+  HP: '1'
+  RBI: '16'
+  SO: '18'
+  AVG: '.315'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Aldama
+  nameFirst: Leonel
+  nameClub1: 78@Juarez
+  nameClub2: 56@El Paso
+  G: '134'
+  AB: '521'
+  R: '109'
+  H: '163'
+  TB: '217'
+  H2B: '20'
+  H3B: '11'
+  HR: '4'
+  SH: '6'
+  SB: '14'
+  BB: '64'
+  HP: '4'
+  RBI: '62'
+  SO: '70'
+  AVG: '.313'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cisneros
+  nameFirst: Alfredo
+  nameClub1: Juarez
+  G: '92'
+  AB: '253'
+  R: '58'
+  H: '79'
+  TB: '100'
+  H2B: '9'
+  H3B: '3'
+  HR: '2'
+  SH: '5'
+  SB: '4'
+  BB: '38'
+  HP: '1'
+  RBI: '27'
+  SO: '57'
+  AVG: '.312'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Morales
+  nameFirst: Ventura
+  nameClub1: El Paso
+  G: '137'
+  AB: '562'
+  R: '89'
+  H: '173'
+  TB: '280'
+  H2B: '27'
+  H3B: '10'
+  HR: '20'
+  SH: '2'
+  SB: '23'
+  BB: '54'
+  HP: '2'
+  RBI: '122'
+  SO: '55'
+  AVG: '.308'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Gemberling
+  nameFirst: Melvin L.
+  nameClub1: Bisbee-Douglas
+  G: '94'
+  AB: '357'
+  R: '60'
+  H: '110'
+  TB: '138'
+  H2B: '9'
+  H3B: '5'
+  HR: '3'
+  SH: '1'
+  SB: '3'
+  BB: '55'
+  HP: '4'
+  RBI: '63'
+  SO: '31'
+  AVG: '.308'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Fernandez
+  nameFirst: Enrique J.
+  nameClub1: Juarez
+  G: '114'
+  AB: '422'
+  R: '70'
+  H: '129'
+  TB: '187'
+  H2B: '22'
+  H3B: '9'
+  HR: '6'
+  SH: '4'
+  SB: '9'
+  BB: '38'
+  HP: '0'
+  RBI: '54'
+  SO: '28'
+  AVG: '.306'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bernal
+  nameFirst: Gustavo
+  nameClub1: Juarez
+  G: '32'
+  AB: '36'
+  R: '8'
+  H: '11'
+  TB: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '9'
+  AVG: '.306'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cantrell
+  nameFirst: Donald
+  nameClub1: Phoenix
+  G: '35'
+  AB: '118'
+  R: '21'
+  H: '36'
+  TB: '41'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '21'
+  SO: '11'
+  AVG: '.305'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Murphy
+  nameFirst: John C.
+  nameClub1: Tucson
+  G: '111'
+  AB: '434'
+  R: '92'
+  H: '131'
+  TB: '179'
+  H2B: '15'
+  H3B: '9'
+  HR: '5'
+  SH: '2'
+  SB: '16'
+  BB: '59'
+  HP: '2'
+  RBI: '53'
+  SO: '61'
+  AVG: '.302'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Jordan
+  nameFirst: Donald W.
+  nameClub1: Tucson
+  G: '139'
+  AB: '551'
+  R: '96'
+  H: '166'
+  TB: '265'
+  H2B: '26'
+  H3B: '5'
+  HR: '21'
+  SH: '7'
+  SB: '3'
+  BB: '72'
+  HP: '0'
+  RBI: '109'
+  SO: '73'
+  AVG: '.301'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cantu
+  nameFirst: James G.
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '131'
+  AB: '544'
+  R: '113'
+  H: '161'
+  TB: '207'
+  H2B: '18'
+  H3B: '14'
+  HR: '0'
+  SH: '14'
+  SB: '13'
+  BB: '58'
+  HP: '3'
+  RBI: '67'
+  SO: '24'
+  AVG: '.296'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Zarate
+  nameFirst: Alfonso
+  nameClub1: Juarez
+  G: '111'
+  AB: '365'
+  R: '53'
+  H: '108'
+  TB: '134'
+  H2B: '11'
+  H3B: '6'
+  HR: '1'
+  SH: '4'
+  SB: '6'
+  BB: '38'
+  HP: '4'
+  RBI: '72'
+  SO: '41'
+  AVG: '.296'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Fernandez
+  nameFirst: Gustavo
+  nameClub1: Mexicali
+  G: '116'
+  AB: '469'
+  R: '83'
+  H: '138'
+  TB: '208'
+  H2B: '16'
+  H3B: '12'
+  HR: '10'
+  SH: '2'
+  SB: '7'
+  BB: '44'
+  HP: '4'
+  RBI: '75'
+  SO: '76'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cortez
+  nameFirst: Gerardo
+  nameClub1: Mexicali
+  G: '123'
+  AB: '452'
+  R: '67'
+  H: '133'
+  TB: '174'
+  H2B: '16'
+  H3B: '2'
+  HR: '7'
+  SH: '7'
+  SB: '12'
+  BB: '32'
+  HP: '8'
+  RBI: '80'
+  SO: '67'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Escalante
+  nameFirst: Eduardo
+  nameClub1: Mexicali
+  bats: S
+  G: '121'
+  AB: '472'
+  R: '86'
+  H: '138'
+  TB: '209'
+  H2B: '19'
+  H3B: '8'
+  HR: '12'
+  SH: '6'
+  SB: '8'
+  BB: '42'
+  HP: '4'
+  RBI: '62'
+  SO: '64'
+  AVG: '.292'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Mendez
+  nameFirst: Froylan L.
+  nameClub1: Mexicali
+  G: '42'
+  AB: '185'
+  R: '43'
+  H: '54'
+  TB: '77'
+  H2B: '7'
+  H3B: '5'
+  HR: '2'
+  SH: '3'
+  SB: '7'
+  BB: '21'
+  HP: '1'
+  RBI: '21'
+  SO: '14'
+  AVG: '.292'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Sepulveda
+  nameFirst: Domingo
+  nameClub1: Bisbee-Douglas
+  G: '17'
+  AB: '65'
+  R: '21'
+  H: '19'
+  TB: '30'
+  H2B: '3'
+  H3B: '1'
+  HR: '2'
+  SH: '0'
+  SB: '1'
+  BB: '20'
+  HP: '2'
+  RBI: '14'
+  SO: '9'
+  AVG: '.292'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Casino
+  nameFirst: Albert A.
+  nameClub1: Phoenix
+  bats: L
+  G: '54'
+  AB: '193'
+  R: '31'
+  H: '56'
+  TB: '77'
+  H2B: '13'
+  H3B: '1'
+  HR: '2'
+  SH: '4'
+  SB: '4'
+  BB: '23'
+  HP: '2'
+  RBI: '31'
+  SO: '34'
+  AVG: '.290'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Garcia
+  nameFirst: Mario
+  nameClub1: Juarez
+  G: '117'
+  AB: '388'
+  R: '79'
+  H: '111'
+  TB: '177'
+  H2B: '19'
+  H3B: '13'
+  HR: '7'
+  SH: '3'
+  SB: '16'
+  BB: '66'
+  HP: '11'
+  RBI: '66'
+  SO: '56'
+  AVG: '.286'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Solis
+  nameFirst: Marcelino
+  nameClub1: El Paso
+  bats: L
+  G: '61'
+  AB: '116'
+  R: '19'
+  H: '33'
+  TB: '46'
+  H2B: '6'
+  H3B: '2'
+  HR: '1'
+  SH: '3'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '17'
+  SO: '24'
+  AVG: '.284'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Zonta
+  nameFirst: Raymundo
+  nameClub1: Mexicali
+  G: '103'
+  AB: '391'
+  R: '91'
+  H: '110'
+  TB: '195'
+  H2B: '34'
+  H3B: '0'
+  HR: '17'
+  SH: '3'
+  SB: '5'
+  BB: '60'
+  HP: '14'
+  RBI: '76'
+  SO: '57'
+  AVG: '.281'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Popovich
+  nameFirst: John
+  nameClub1: Phoenix
+  G: '57'
+  AB: '219'
+  R: '45'
+  H: '61'
+  TB: '78'
+  H2B: '8'
+  H3B: '3'
+  HR: '1'
+  SH: '3'
+  SB: '13'
+  BB: '23'
+  HP: '2'
+  RBI: '36'
+  SO: '46'
+  AVG: '.279'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Land
+  nameFirst: Donnie P.
+  nameClub1: Phoenix
+  G: '14'
+  AB: '40'
+  R: '5'
+  H: '11'
+  TB: '17'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '17'
+  AVG: '.275'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Armenta
+  nameFirst: Jesus
+  nameClub1: Mexicali
+  G: '35'
+  AB: '84'
+  R: '14'
+  H: '23'
+  TB: '32'
+  H2B: '6'
+  H3B: '0'
+  HR: '1'
+  SH: '11'
+  SB: '1'
+  BB: '12'
+  HP: '0'
+  RBI: '11'
+  SO: '23'
+  AVG: '.274'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bernal
+  nameFirst: J. Refugio
+  nameClub1: Mexicali
+  G: '120'
+  AB: '432'
+  R: '66'
+  H: '117'
+  TB: '184'
+  H2B: '22'
+  H3B: '6'
+  HR: '11'
+  SH: '5'
+  SB: '8'
+  BB: '49'
+  HP: '5'
+  RBI: '87'
+  SO: '74'
+  AVG: '.271'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Serrano
+  nameFirst: Manuel
+  nameClub1: Mexicali
+  G: '54'
+  AB: '203'
+  R: '35'
+  H: '55'
+  TB: '77'
+  H2B: '11'
+  H3B: '1'
+  HR: '3'
+  SH: '2'
+  SB: '0'
+  BB: '28'
+  HP: '2'
+  RBI: '37'
+  SO: '28'
+  AVG: '.271'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Smith
+  nameFirst: Ronald V.
+  nameClub1: Bisbee-Douglas
+  G: '52'
+  AB: '126'
+  R: '17'
+  H: '34'
+  TB: '39'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '15'
+  HP: '2'
+  RBI: '11'
+  SO: '17'
+  AVG: '.270'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Castillo
+  nameFirst: Jose A.
+  nameClub1: Bisbee-Douglas
+  G: '100'
+  AB: '394'
+  R: '56'
+  H: '106'
+  TB: '144'
+  H2B: '12'
+  H3B: '7'
+  HR: '4'
+  SH: '7'
+  SB: '3'
+  BB: '36'
+  HP: '4'
+  RBI: '39'
+  SO: '78'
+  AVG: '.269'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Mendoza
+  nameFirst: Ramon
+  nameClub1: El Paso
+  G: '70'
+  AB: '279'
+  R: '54'
+  H: '75'
+  TB: '93'
+  H2B: '8'
+  H3B: '5'
+  HR: '0'
+  SH: '5'
+  SB: '13'
+  BB: '47'
+  HP: '2'
+  RBI: '34'
+  SO: '21'
+  AVG: '.269'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Smith
+  nameFirst: J. Ford
+  nameClub1: Phoenix
+  bats: L
+  G: '56'
+  AB: '114'
+  R: '17'
+  H: '30'
+  TB: '41'
+  H2B: '6'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '22'
+  HP: '1'
+  RBI: '20'
+  SO: '16'
+  AVG: '.263'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Manzo
+  nameFirst: Arnulfo
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '82'
+  AB: '237'
+  R: '34'
+  H: '62'
+  TB: '75'
+  H2B: '5'
+  H3B: '4'
+  HR: '0'
+  SH: '1'
+  SB: '4'
+  BB: '16'
+  HP: '0'
+  RBI: '40'
+  SO: '21'
+  AVG: '.262'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cecil
+  nameFirst: Rex R.
+  nameClub1: 13@Mexicali
+  nameClub2: 25@El Paso
+  G: '38'
+  AB: '84'
+  R: '11'
+  H: '22'
+  TB: '22'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '27'
+  HP: '0'
+  RBI: '10'
+  SO: '13'
+  AVG: '.262'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Garza
+  nameFirst: Ricardo
+  nameClub1: Mexicali
+  bats: L
+  G: '123'
+  AB: '426'
+  R: '103'
+  H: '111'
+  TB: '197'
+  H2B: '21'
+  H3B: '7'
+  HR: '17'
+  SH: '0'
+  SB: '14'
+  BB: '119'
+  HP: '8'
+  RBI: '95'
+  SO: '78'
+  AVG: '.261'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Fraide
+  nameFirst: Guillermo
+  nameClub1: Bisbee-Douglas
+  G: '77'
+  AB: '231'
+  R: '32'
+  H: '60'
+  TB: '74'
+  H2B: '8'
+  H3B: '0'
+  HR: '2'
+  SH: '2'
+  SB: '1'
+  BB: '38'
+  HP: '5'
+  RBI: '30'
+  SO: '32'
+  AVG: '.260'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Gutierrez
+  nameFirst: Rene
+  nameClub1: Juarez
+  G: '48'
+  AB: '108'
+  R: '13'
+  H: '28'
+  TB: '32'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '3'
+  BB: '8'
+  HP: '0'
+  RBI: '15'
+  SO: '31'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Schnabel
+  nameFirst: Robert A.
+  nameClub1: El Paso
+  bats: L
+  G: '68'
+  AB: '245'
+  R: '49'
+  H: '63'
+  TB: '84'
+  H2B: '8'
+  H3B: '5'
+  HR: '1'
+  SH: '4'
+  SB: '3'
+  BB: '50'
+  HP: '4'
+  RBI: '35'
+  SO: '31'
+  AVG: '.257'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Ochoa
+  nameFirst: James
+  nameClub1: El Paso
+  G: '82'
+  AB: '171'
+  R: '26'
+  H: '44'
+  TB: '71'
+  H2B: '6'
+  H3B: '0'
+  HR: '7'
+  SH: '2'
+  SB: '0'
+  BB: '12'
+  HP: '1'
+  RBI: '38'
+  SO: '26'
+  AVG: '.257'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Ayres
+  nameFirst: Robert W.
+  nameClub1: Phoenix
+  G: '123'
+  AB: '477'
+  R: '75'
+  H: '122'
+  TB: '174'
+  H2B: '14'
+  H3B: '10'
+  HR: '6'
+  SH: '5'
+  SB: '7'
+  BB: '58'
+  HP: '6'
+  RBI: '49'
+  SO: '107'
+  AVG: '.256'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Perez
+  nameFirst: Modesto
+  nameClub1: El Paso
+  G: '35'
+  AB: '114'
+  R: '13'
+  H: '29'
+  TB: '34'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '10'
+  HP: '2'
+  RBI: '21'
+  SO: '13'
+  AVG: '.254'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Juarez
+  nameFirst: Manuel
+  nameClub1: 62@Juarez
+  nameClub2: 67@El Paso
+  G: '129'
+  AB: '511'
+  R: '104'
+  H: '129'
+  TB: '181'
+  H2B: '21'
+  H3B: '5'
+  HR: '7'
+  SH: '8'
+  SB: '7'
+  BB: '105'
+  HP: '4'
+  RBI: '56'
+  SO: '63'
+  AVG: '.252'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Morales
+  nameFirst: Manuel V.
+  nameClub1: Bisbee-Douglas
+  G: '69'
+  AB: '135'
+  R: '25'
+  H: '34'
+  TB: '43'
+  H2B: '7'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '23'
+  HP: '0'
+  RBI: '18'
+  SO: '25'
+  AVG: '.252'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Moreland
+  nameFirst: Nathaniel E.
+  nameClub1: Mexicali
+  G: '56'
+  AB: '119'
+  R: '13'
+  H: '30'
+  TB: '34'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '11'
+  HP: '4'
+  RBI: '15'
+  SO: '22'
+  AVG: '.252'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Dean
+  nameFirst: James T.
+  nameClub1: Bisbee-Douglas
+  G: '92'
+  AB: '356'
+  R: '56'
+  H: '89'
+  TB: '117'
+  H2B: '18'
+  H3B: '2'
+  HR: '2'
+  SH: '6'
+  SB: '23'
+  BB: '33'
+  HP: '1'
+  RBI: '41'
+  SO: '54'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Ayala
+  nameFirst: Santiago
+  nameClub1: El Paso
+  bats: L
+  G: '50'
+  AB: '165'
+  R: '36'
+  H: '41'
+  TB: '59'
+  H2B: '7'
+  H3B: '1'
+  HR: '3'
+  SH: '0'
+  SB: '1'
+  BB: '33'
+  HP: '0'
+  RBI: '30'
+  SO: '16'
+  AVG: '.248'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bogdanovich
+  nameFirst: Louis
+  nameClub1: Bisbee-Douglas
+  G: '35'
+  AB: '113'
+  R: '17'
+  H: '28'
+  TB: '39'
+  H2B: '7'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '19'
+  HP: '3'
+  RBI: '23'
+  SO: '26'
+  AVG: '.248'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Eastburn
+  nameFirst: William E.
+  nameClub1: Bisbee-Douglas
+  G: '58'
+  AB: '219'
+  R: '40'
+  H: '54'
+  TB: '84'
+  H2B: '8'
+  H3B: '2'
+  HR: '6'
+  SH: '3'
+  SB: '1'
+  BB: '34'
+  HP: '0'
+  RBI: '37'
+  SO: '44'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Fortes
+  nameFirst: Manuel
+  nameClub1: 7@Juarez
+  nameClub2: 23@El Paso
+  bats: S
+  G: '30'
+  AB: '81'
+  R: '15'
+  H: '20'
+  TB: '25'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '10'
+  HP: '0'
+  RBI: '14'
+  SO: '17'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: King
+  nameFirst: R. B.
+  nameClub1: 16@El Paso
+  nameClub2: 17@Bisbee-Douglas
+  G: '33'
+  AB: '77'
+  R: '15'
+  H: '19'
+  TB: '36'
+  H2B: '11'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '18'
+  SO: '33'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Torres
+  nameFirst: Armando B.
+  nameClub1: Juarez
+  G: '54'
+  AB: '123'
+  R: '16'
+  H: '30'
+  TB: '39'
+  H2B: '4'
+  H3B: '1'
+  HR: '1'
+  SH: '5'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '21'
+  SO: '21'
+  AVG: '.244'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Vizcaino
+  nameFirst: Abundio
+  nameClub1: Juarez
+  G: '101'
+  AB: '333'
+  R: '66'
+  H: '81'
+  TB: '112'
+  H2B: '13'
+  H3B: '3'
+  HR: '4'
+  SH: '2'
+  SB: '8'
+  BB: '50'
+  HP: '7'
+  RBI: '28'
+  SO: '56'
+  AVG: '.243'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Smith
+  nameFirst: Richard R.
+  nameClub1: Phoenix
+  G: '19'
+  AB: '37'
+  R: '5'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '7'
+  SO: '7'
+  AVG: '.243'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Hill
+  nameFirst: Stephen H.
+  nameClub1: Bisbee-Douglas
+  G: '74'
+  AB: '277'
+  R: '43'
+  H: '67'
+  TB: '83'
+  H2B: '6'
+  H3B: '5'
+  HR: '0'
+  SH: '5'
+  SB: '4'
+  BB: '19'
+  HP: '0'
+  RBI: '29'
+  SO: '48'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Evert
+  nameFirst: Robert L.
+  nameClub1: Tucson
+  G: '39'
+  AB: '124'
+  R: '19'
+  H: '30'
+  TB: '45'
+  H2B: '7'
+  H3B: '1'
+  HR: '2'
+  SH: '1'
+  SB: '2'
+  BB: '14'
+  HP: '2'
+  RBI: '13'
+  SO: '27'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Torres
+  nameFirst: Eddie P.
+  nameClub1: Tucson
+  bats: L
+  G: '17'
+  AB: '62'
+  R: '8'
+  H: '15'
+  TB: '21'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '6'
+  SO: '12'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Guzman
+  nameFirst: Blas
+  nameClub1: Juarez
+  G: '59'
+  AB: '232'
+  R: '31'
+  H: '56'
+  TB: '86'
+  H2B: '13'
+  H3B: '4'
+  HR: '3'
+  SH: '2'
+  SB: '9'
+  BB: '18'
+  HP: '0'
+  RBI: '34'
+  SO: '32'
+  AVG: '.241'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bay
+  nameFirst: German
+  nameClub1: Bisbee-Douglas
+  G: '37'
+  AB: '105'
+  R: '15'
+  H: '25'
+  TB: '33'
+  H2B: '1'
+  H3B: '2'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '25'
+  HP: '2'
+  RBI: '21'
+  SO: '9'
+  AVG: '.238'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Wilson
+  nameFirst: Earl L.
+  nameClub1: Bisbee-Douglas
+  G: '33'
+  AB: '76'
+  R: '11'
+  H: '18'
+  TB: '25'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '8'
+  SO: '11'
+  AVG: '.237'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Hairabedian
+  nameFirst: Martin
+  nameClub1: Phoenix
+  G: '31'
+  AB: '110'
+  R: '15'
+  H: '26'
+  TB: '35'
+  H2B: '4'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '14'
+  HP: '1'
+  RBI: '14'
+  SO: '27'
+  AVG: '.236'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Jones
+  nameFirst: Lloyd R.
+  nameClub1: 23@Phoenix
+  nameClub2: 17@Bisbee-Douglas
+  G: '40'
+  AB: '47'
+  R: '3'
+  H: '11'
+  TB: '15'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  AVG: '.234'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bolen
+  nameFirst: Allan R.
+  nameClub1: Phoenix
+  G: '49'
+  AB: '180'
+  R: '31'
+  H: '42'
+  TB: '65'
+  H2B: '12'
+  H3B: '1'
+  HR: '3'
+  SH: '0'
+  SB: '11'
+  BB: '29'
+  HP: '1'
+  RBI: '29'
+  SO: '47'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Estrada
+  nameFirst: Humberto
+  nameClub1: El Paso
+  G: '11'
+  AB: '13'
+  R: '2'
+  H: '3'
+  TB: '4'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.231'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Johnston
+  nameFirst: Delbert L.
+  nameClub1: Phoenix
+  G: '49'
+  AB: '184'
+  R: '36'
+  H: '42'
+  TB: '63'
+  H2B: '8'
+  H3B: '2'
+  HR: '3'
+  SH: '3'
+  SB: '11'
+  BB: '30'
+  HP: '0'
+  RBI: '22'
+  SO: '43'
+  AVG: '.228'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Humphreys
+  nameFirst: Calvin S. H.
+  nameClub1: Tucson
+  G: '39'
+  AB: '112'
+  R: '19'
+  H: '25'
+  TB: '35'
+  H2B: '2'
+  H3B: '1'
+  HR: '2'
+  SH: '3'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '11'
+  SO: '32'
+  AVG: '.223'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Gonzalez
+  nameFirst: Wensceslao O.
+  nameClub1: Juarez
+  bats: L
+  G: '49'
+  AB: '99'
+  R: '15'
+  H: '22'
+  TB: '32'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '3'
+  BB: '18'
+  HP: '1'
+  RBI: '11'
+  SO: '22'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Paine
+  nameFirst: William I.
+  nameClub1: Tucson
+  bats: L
+  G: '23'
+  AB: '63'
+  R: '9'
+  H: '14'
+  TB: '22'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '10'
+  SO: '8'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Sandoval
+  nameFirst: Ramon
+  nameClub1: Mexicali
+  G: '16'
+  AB: '50'
+  R: '4'
+  H: '11'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '4'
+  SO: '4'
+  AVG: '.220'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Lindberg
+  nameFirst: Charles V.
+  nameClub1: Phoenix
+  G: '74'
+  AB: '274'
+  R: '31'
+  H: '59'
+  TB: '96'
+  H2B: '8'
+  H3B: '4'
+  HR: '7'
+  SH: '2'
+  SB: '5'
+  BB: '22'
+  HP: '1'
+  RBI: '38'
+  SO: '50'
+  AVG: '.215'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Provencio
+  nameFirst: Raul
+  nameClub1: Juarez
+  G: '30'
+  AB: '81'
+  R: '11'
+  H: '17'
+  TB: '19'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '8'
+  SO: '15'
+  AVG: '.210'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Dicochea
+  nameFirst: A. Antonio
+  nameClub1: Juarez
+  G: '41'
+  AB: '87'
+  R: '13'
+  H: '18'
+  TB: '23'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '10'
+  SO: '16'
+  AVG: '.207'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Carlin
+  nameFirst: Patrick J.
+  nameClub1: Phoenix
+  G: '14'
+  AB: '20'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '9'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Guzman
+  nameFirst: Amador
+  nameClub1: Mexicali
+  G: '47'
+  AB: '112'
+  R: '15'
+  H: '22'
+  TB: '29'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '10'
+  SO: '33'
+  AVG: '.196'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Dominguez
+  nameFirst: Jose
+  nameClub1: 18@Bisbee-Douglas
+  nameClub2: 13@El Paso
+  G: '31'
+  AB: '99'
+  R: '14'
+  H: '19'
+  TB: '27'
+  H2B: '4'
+  H3B: '2'
+  HR: '0'
+  SH: '3'
+  SB: '2'
+  BB: '21'
+  HP: '0'
+  RBI: '10'
+  SO: '28'
+  AVG: '.192'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Aguilar
+  nameFirst: Jorge
+  nameClub1: El Paso
+  G: '44'
+  AB: '89'
+  R: '10'
+  H: '17'
+  TB: '22'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '10'
+  SO: '13'
+  AVG: '.191'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Morales
+  nameFirst: Napoleon
+  nameClub1: El Paso
+  G: '27'
+  AB: '54'
+  R: '6'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '3'
+  HP: '1'
+  RBI: '5'
+  SO: '19'
+  AVG: '.185'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: McElrath
+  nameFirst: Orval E.
+  nameClub1: Phoenix
+  bats: L
+  G: '15'
+  AB: '22'
+  R: '5'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '6'
+  AVG: '.182'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Kulka
+  nameFirst: Stanley P.
+  nameClub1: Phoenix
+  bats: L
+  G: '39'
+  AB: '78'
+  R: '7'
+  H: '14'
+  TB: '20'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '13'
+  HP: '3'
+  RBI: '11'
+  SO: '29'
+  AVG: '.179'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Wright
+  nameFirst: Jay
+  nameClub1: Mexicali
+  G: '73'
+  AB: '208'
+  R: '20'
+  H: '37'
+  TB: '49'
+  H2B: '3'
+  H3B: '3'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '30'
+  HP: '0'
+  RBI: '17'
+  SO: '59'
+  AVG: '.178'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Rhoer
+  nameFirst: Claire A.
+  nameClub1: El Paso
+  G: '98'
+  AB: '316'
+  R: '32'
+  H: '56'
+  TB: '80'
+  H2B: '13'
+  H3B: '4'
+  HR: '1'
+  SH: '7'
+  SB: '3'
+  BB: '25'
+  HP: '4'
+  RBI: '33'
+  SO: '80'
+  AVG: '.177'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Barnwell
+  nameFirst: Clarence A.
+  nameClub1: Tucson
+  bats: S
+  G: '38'
+  AB: '85'
+  R: '11'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '19'
+  HP: '0'
+  RBI: '7'
+  SO: '39'
+  AVG: '.176'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Jones
+  nameFirst: Donald D.
+  nameClub1: Phoenix
+  G: '40'
+  AB: '74'
+  R: '12'
+  H: '13'
+  TB: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '12'
+  HP: '1'
+  RBI: '3'
+  SO: '35'
+  AVG: '.176'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Howard
+  nameFirst: Robert R.
+  nameClub1: Phoenix
+  G: '126'
+  AB: '394'
+  R: '63'
+  H: '69'
+  TB: '121'
+  H2B: '19'
+  H3B: '3'
+  HR: '9'
+  SH: '10'
+  SB: '2'
+  BB: '61'
+  HP: '2'
+  RBI: '53'
+  SO: '106'
+  AVG: '.175'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Reddell
+  nameFirst: Le Roy E.
+  nameClub1: Tucson
+  G: '42'
+  AB: '116'
+  R: '15'
+  H: '20'
+  TB: '24'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '11'
+  HP: '1'
+  RBI: '15'
+  SO: '22'
+  AVG: '.172'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bradbury
+  nameFirst: Chadwick J.
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '10'
+  AB: '35'
+  R: '5'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  AVG: '.171'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Blackburn
+  nameFirst: William K.
+  nameClub1: El Paso
+  G: '12'
+  AB: '6'
+  R: '1'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '2'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Kenway
+  nameFirst: Donald B.
+  nameClub1: Bisbee-Douglas
+  G: '23'
+  AB: '19'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.158'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Hagler
+  nameFirst: Ronald E.
+  nameClub1: Phoenix
+  G: '18'
+  AB: '34'
+  R: '1'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '8'
+  AVG: '.147'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Aitken
+  nameFirst: George
+  nameClub1: Tucson
+  G: '26'
+  AB: '58'
+  R: '9'
+  H: '8'
+  TB: '10'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '5'
+  SO: '20'
+  AVG: '.138'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Peters
+  nameFirst: Duane M.
+  nameClub1: El Paso
+  G: '15'
+  AB: '15'
+  R: '3'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.133'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Morales
+  nameFirst: Humberto V.
+  nameClub1: Phoenix
+  G: '12'
+  AB: '8'
+  R: '2'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '6'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Galindo
+  nameFirst: Guillermo
+  nameClub1: 17@Bisbee-Douglas
+  nameClub2: 2@Mexicali
+  G: '19'
+  AB: '17'
+  R: '2'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.118'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Alvarez
+  nameFirst: Rodolfo
+  nameClub1: Juarez
+  G: '23'
+  AB: '43'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '5'
+  SO: '13'
+  AVG: '.116'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Alvarado
+  nameFirst: Rodolfo
+  nameClub1: Juarez
+  G: '13'
+  AB: '18'
+  R: '3'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '3'
+  SO: '5'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Ramirez
+  nameFirst: Francisco
+  nameClub1: Mexicali
+  G: '12'
+  AB: '38'
+  R: '3'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '15'
+  AVG: '.105'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Seamans
+  nameFirst: Donald R.
+  nameClub1: Bisbee-Douglas
+  G: '19'
+  AB: '29'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '4'
+  SO: '10'
+  AVG: '.103'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Mathews
+  nameFirst: Norman
+  nameClub1: Mexicali
+  G: '28'
+  AB: '35'
+  R: '4'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '2'
+  SO: '12'
+  AVG: '.086'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Petersen
+  nameFirst: John C.
+  nameClub1: Tucson
+  G: '13'
+  AB: '14'
+  R: '1'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '7'
+  AVG: '.071'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Sotelo
+  nameFirst: Miguel
+  nameClub1: Mexicali
+  G: '26'
+  AB: '21'
+  R: '3'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.048'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Camacho
+  nameFirst: Frederico G.
+  nameClub1: El Paso
+  G: '16'
+  AB: '22'
+  R: '4'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.045'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Terry
+  nameFirst: Donald P.
+  nameClub1: Bisbee-Douglas
+  bats: S
+  G: '24'
+  AB: '46'
+  R: '2'
+  H: '2'
+  TB: '4'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '3'
+  SO: '20'
+  AVG: '.043'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Ibarra
+  nameFirst: Jose
+  nameClub1: Mexicali
+  G: '15'
+  AB: '16'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '9'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bandelier
+  nameFirst: Robert L.
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Blanco
+  nameFirst: Gilbert
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '7'
+  AVG: '.348'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cohen
+  nameFirst: Sydney H.
+  nameClub1: Bisbee-Douglas
+  G: '7'
+  AVG: '.083'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Hubbard
+  nameFirst: James
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '4'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Loepp
+  nameFirst: James A.
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Muche
+  nameFirst: Arthur T.
+  nameClub1: 1@Tucson
+  nameClub2: 1@Bisbee-Douglas
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Serrano
+  nameFirst: Eduardo A.
+  nameClub1: Bisbee-Douglas
+  G: '5'
+  AVG: '.353'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Vucurevich
+  nameFirst: Daniel
+  nameClub1: Bisbee-Douglas
+  bats: L
+  G: '5'
+  AVG: '.313'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Brown
+  nameFirst: Joseph
+  nameClub1: El Paso
+  bats: L
+  G: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cochran
+  nameFirst: Joseph H.
+  nameClub1: El Paso
+  G: '9'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Gonzalez
+  nameClub1: El Paso
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Heitner
+  nameFirst: Bernard W.
+  nameClub1: El Paso
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Kime
+  nameFirst: O. Dean
+  nameClub1: El Paso
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Lee
+  nameFirst: Alton C.
+  nameClub1: El Paso
+  G: '3'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Marquez
+  nameFirst: Edward
+  nameClub1: El Paso
+  G: '4'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Marroquin
+  nameFirst: Francisco
+  nameClub1: El Paso
+  G: '6'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Martinez
+  nameFirst: Leopoldo S.
+  nameClub1: El Paso
+  G: '3'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Nebron
+  nameFirst: A. Gerald
+  nameClub1: El Paso
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Reguera
+  nameFirst: Oscar E.
+  nameClub1: El Paso
+  G: '3'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Sosa
+  nameFirst: Jesus R.
+  nameClub1: El Paso
+  G: '5'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Way
+  nameFirst: Charles W.
+  nameClub1: El Paso
+  G: '8'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Williams
+  nameFirst: Douglas
+  nameClub1: El Paso
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Woods
+  nameFirst: Raymond J.
+  nameClub1: El Paso
+  G: '5'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Arrieta
+  nameFirst: Fernando
+  nameClub1: Juarez
+  G: '9'
+  AVG: '.417'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bernal
+  nameFirst: Octavio
+  nameClub1: Juarez
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Canales
+  nameFirst: Leonel
+  nameClub1: Juarez
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Domingo
+  nameFirst: Mario
+  nameClub1: Juarez
+  G: '2'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Montes
+  nameFirst: Fernando
+  nameClub1: Juarez
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Perez
+  nameFirst: Pedro Americo
+  nameClub1: Juarez
+  G: '6'
+  AVG: '.056'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Alcantar
+  nameFirst: Jesus
+  nameClub1: Mexicali
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bravo
+  nameFirst: Philip
+  nameClub1: Mexicali
+  G: '6'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Camacho
+  nameFirst: Ronaldo
+  nameClub1: Mexicali
+  G: '5'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Corella
+  nameFirst: Rodolfo
+  nameClub1: Mexicali
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Cortes
+  nameFirst: Jose R.
+  nameClub1: Mexicali
+  G: '8'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Diaz
+  nameFirst: Francisco
+  nameClub1: Mexicali
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Figueroa
+  nameFirst: Gregorio
+  nameClub1: Mexicali
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Garcia
+  nameFirst: David
+  nameClub1: Mexicali
+  G: '5'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Grajeda
+  nameFirst: Humberto
+  nameClub1: Mexicali
+  G: '4'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Ponce
+  nameFirst: Catarino
+  nameClub1: Mexicali
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Sandoval
+  nameFirst: Rodolfo
+  nameClub1: Mexicali
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Santana
+  nameFirst: Cecilo A.
+  nameClub1: Mexicali
+  G: '7'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Tankersley
+  nameFirst: Earl
+  nameClub1: Mexicali
+  G: '5'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Vasquez
+  nameFirst: Regino
+  nameClub1: Mexicali
+  G: '2'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Barnes
+  nameFirst: Alfred C.
+  nameClub1: Phoenix
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Caruso
+  nameFirst: John L.
+  nameClub1: Phoenix
+  G: '7'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Garcia
+  nameFirst: Olallo J.
+  nameClub1: Phoenix
+  G: '4'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Gorrie
+  nameFirst: David F.
+  nameClub1: Phoenix
+  bats: L
+  G: '4'
+  AVG: '.059'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Jacobs
+  nameFirst: Jack E.
+  nameClub1: Phoenix
+  G: '9'
+  AVG: '.133'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Meyers
+  nameFirst: Joseph F.
+  nameClub1: Phoenix
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Roberts
+  nameFirst: Jack A.
+  nameClub1: Phoenix
+  G: '5'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Theodosis
+  nameFirst: Harry L.
+  nameClub1: Phoenix
+  G: '9'
+  AVG: '.235'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Tucker
+  nameFirst: R. Earl
+  nameClub1: Phoenix
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Vickers
+  nameFirst: Garner F.
+  nameClub1: Phoenix
+  G: '3'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Younger
+  nameFirst: James P.
+  nameClub1: Phoenix
+  G: '2'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Bachelier
+  nameFirst: Arnold J.
+  nameClub1: Tucson
+  G: '7'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Casanega
+  nameFirst: David G.
+  nameClub1: Tucson
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Martinez
+  nameFirst: Carlos
+  nameClub1: Tucson
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Myers
+  nameFirst: James G.
+  nameClub1: Tucson
+  bats: L
+  G: '8'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: McNew
+  nameFirst: Donald
+  nameClub1: Tucson
+  G: '2'
+  AVG: '.444'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Simons
+  nameFirst: Joseph
+  nameClub1: Tucson
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Tolson
+  nameFirst: Bradley
+  nameClub1: Tucson
+  G: '2'
+  AVG: '.333'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameLast: Valenzuela
+  nameFirst: Joseph C.
+  nameClub1: Tucson
+  G: '2'
+  AVG: '.000'

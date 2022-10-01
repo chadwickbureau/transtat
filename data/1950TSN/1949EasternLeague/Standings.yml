@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '93'
+  L: '47'
+  T: '0'
+  PCT: '.664'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: regular
+  W: '77'
+  L: '63'
+  T: '0'
+  PCT: '.550'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  phase: regular
+  W: '58'
+  L: '82'
+  T: '0'
+  PCT: '.414'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Utica
+  phase: regular
+  W: '51'
+  L: '89'
+  T: '0'
+  PCT: '.364'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

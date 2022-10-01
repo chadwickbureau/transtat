@@ -1,0 +1,100 @@
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '1'
+  PCT: '.593'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '1'
+  PCT: '.571'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '1'
+  PCT: '.557'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: regular
+  W: '71'
+  L: '68'
+  T: '1'
+  PCT: '.511'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Muskogee
+  phase: regular
+  W: '57'
+  L: '81'
+  T: '2'
+  PCT: '.413'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Fort Smith/Van Buren
+  phase: regular
+  W: '49'
+  L: '90'
+  T: '4'
+  PCT: '.353'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Joplin
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Topeka
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: Hutchinson
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western Association
+  nameClub: St. Joseph
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

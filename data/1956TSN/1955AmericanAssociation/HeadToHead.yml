@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  Omaha: '12'
+  Denver: '13'
+  Louisville: '13'
+  Toledo: '16'
+  St. Paul: '10'
+  Indianapolis: '11'
+  Charleston: '17'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Omaha
+  Minneapolis: '10'
+  Denver: '11'
+  Louisville: '11'
+  Toledo: '10'
+  St. Paul: '10'
+  Indianapolis: '16'
+  Charleston: '16'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Denver
+  Minneapolis: '9'
+  Omaha: '11'
+  Louisville: '9'
+  Toledo: '10'
+  St. Paul: '13'
+  Indianapolis: '13'
+  Charleston: '18'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Louisville
+  Minneapolis: '9'
+  Omaha: '11'
+  Denver: '13'
+  Toledo: '7'
+  St. Paul: '13'
+  Indianapolis: '15'
+  Charleston: '15'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Toledo
+  Minneapolis: '6'
+  Omaha: '12'
+  Denver: '12'
+  Louisville: '15'
+  St. Paul: '13'
+  Indianapolis: '10'
+  Charleston: '13'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: St. Paul
+  Minneapolis: '12'
+  Omaha: '12'
+  Denver: '9'
+  Louisville: '9'
+  Toledo: '9'
+  Indianapolis: '12'
+  Charleston: '12'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  Minneapolis: '11'
+  Omaha: '6'
+  Denver: '9'
+  Louisville: '7'
+  Toledo: '12'
+  St. Paul: '9'
+  Charleston: '13'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Charleston
+  Minneapolis: '5'
+  Omaha: '6'
+  Denver: '4'
+  Louisville: '7'
+  Toledo: '9'
+  St. Paul: '10'
+  Indianapolis: '9'

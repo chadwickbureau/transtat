@@ -1,0 +1,64 @@
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  W: '86'
+  L: '53'
+  T: '1'
+  PCT: '.619'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Yuma
+  W: '83'
+  L: '57'
+  T: '0'
+  PCT: '.593'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  W: '80'
+  L: '59'
+  T: '1'
+  PCT: '.576'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.557'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  W: '66'
+  L: '74'
+  T: '1'
+  PCT: '.471'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Bisbee-Douglas
+  W: '63'
+  L: '77'
+  T: '0'
+  PCT: '.450'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Globe-Miami
+  W: '51'
+  L: '87'
+  T: '0'
+  PCT: '.370'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Arizona-Mexico League
+  nameClub: Nogales
+  W: '49'
+  L: '87'
+  T: '1'
+  PCT: '.360'
+  RANK: '8'

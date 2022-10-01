@@ -1,0 +1,84 @@
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  phase: regular/first
+  W: '32'
+  L: '22'
+  T: '0'
+  PCT: '.593'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: regular/first
+  W: '31'
+  L: '23'
+  T: '1'
+  PCT: '.574'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  phase: regular/first
+  W: '24'
+  L: '30'
+  T: '1'
+  PCT: '.444'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  phase: regular/first
+  W: '22'
+  L: '34'
+  T: '0'
+  PCT: '.393'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: regular/second
+  W: '43'
+  L: '21'
+  T: '1'
+  PCT: '.672'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  phase: regular/second
+  W: '31'
+  L: '29'
+  T: '2'
+  PCT: '.517'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  phase: regular/second
+  W: '28'
+  L: '33'
+  T: '1'
+  PCT: '.459'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  phase: regular/second
+  W: '21'
+  L: '40'
+  T: '0'
+  PCT: '.344'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  phase: finals
+  W: '3'
+  L: '0'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  phase: finals
+  W: '0'
+  L: '3'

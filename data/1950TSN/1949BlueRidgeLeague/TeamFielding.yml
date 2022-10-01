@@ -1,0 +1,66 @@
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  G: '124'
+  DP: '117'
+  PB: '38'
+  PO: '3208'
+  A: '1427'
+  E: '220'
+  TP: '0'
+  PCT: '.955'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: North Wilkesboro
+  G: '123'
+  DP: '121'
+  PB: '22'
+  PO: '3182'
+  A: '1423'
+  E: '228'
+  TP: '1'
+  PCT: '.953'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Elkin
+  G: '128'
+  DP: '91'
+  PB: '25'
+  PO: '3374'
+  A: '1410'
+  E: '245'
+  TP: '2'
+  PCT: '.951'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Wytheville
+  G: '125'
+  DP: '104'
+  PB: '43'
+  PO: '3196'
+  A: '1332'
+  E: '259'
+  TP: '1'
+  PCT: '.946'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Radford
+  G: '125'
+  DP: '63'
+  PB: '20'
+  PO: '3175'
+  A: '1258'
+  E: '305'
+  TP: '0'
+  PCT: '.936'
+- year: '1949'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  G: '117'
+  DP: '81'
+  PB: '36'
+  PO: '3026'
+  A: '1238'
+  E: '293'
+  TP: '0'
+  PCT: '.936'

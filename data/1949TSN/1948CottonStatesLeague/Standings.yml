@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: regular
+  W: '92'
+  L: '44'
+  T: '2'
+  PCT: '.676'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Clarksdale
+  phase: regular
+  W: '85'
+  L: '53'
+  T: '3'
+  PCT: '.616'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: regular
+  W: '82'
+  L: '56'
+  T: '0'
+  PCT: '.594'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  phase: regular
+  W: '74'
+  L: '64'
+  T: '2'
+  PCT: '.536'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: regular
+  W: '65'
+  L: '73'
+  T: '1'
+  PCT: '.471'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Helena
+  phase: regular
+  W: '54'
+  L: '82'
+  T: '0'
+  PCT: '.397'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  phase: regular
+  W: '50'
+  L: '87'
+  T: '3'
+  PCT: '.365'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: regular
+  W: '48'
+  L: '91'
+  T: '1'
+  PCT: '.345'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Clarksdale
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

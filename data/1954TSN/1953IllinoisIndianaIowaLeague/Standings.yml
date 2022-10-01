@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: regular
+  W: '76'
+  L: '52'
+  T: '0'
+  PCT: '.594'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: regular
+  W: '70'
+  L: '58'
+  T: '0'
+  PCT: '.547'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: regular
+  W: '70'
+  L: '59'
+  T: '2'
+  PCT: '.543'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: regular
+  W: '69'
+  L: '60'
+  T: '1'
+  PCT: '.535'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  phase: regular
+  W: '63'
+  L: '65'
+  T: '1'
+  PCT: '.492'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  phase: regular
+  W: '63'
+  L: '65'
+  T: '0'
+  PCT: '.492'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  phase: regular
+  W: '53'
+  L: '75'
+  T: '0'
+  PCT: '.414'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  phase: regular
+  W: '49'
+  L: '79'
+  T: '0'
+  PCT: '.383'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Terre Haute
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Waterloo
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Quincy
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

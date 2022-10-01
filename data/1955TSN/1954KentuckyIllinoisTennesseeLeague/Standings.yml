@@ -1,0 +1,158 @@
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: regular/first
+  W: '42'
+  L: '17'
+  T: '0'
+  PCT: '.712'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: regular/first
+  W: '37'
+  L: '22'
+  T: '0'
+  PCT: '.627'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: regular/first
+  W: '35'
+  L: '24'
+  T: '0'
+  PCT: '.593'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: regular/first
+  W: '31'
+  L: '29'
+  T: '0'
+  PCT: '.517'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: regular/first
+  W: '29'
+  L: '28'
+  T: '0'
+  PCT: '.509'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  phase: regular/first
+  W: '26'
+  L: '32'
+  T: '0'
+  PCT: '.448'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Paducah
+  phase: regular/first
+  W: '24'
+  L: '32'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Jackson
+  phase: regular/first
+  W: '1'
+  L: '41'
+  T: '0'
+  PCT: '.024'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  phase: regular/second
+  W: '35'
+  L: '20'
+  T: '0'
+  PCT: '.636'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: regular/second
+  W: '36'
+  L: '21'
+  T: '0'
+  PCT: '.632'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: regular/second
+  W: '34'
+  L: '23'
+  T: '0'
+  PCT: '.596'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: regular/second
+  W: '34'
+  L: '23'
+  T: '0'
+  PCT: '.596'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: regular/second
+  W: '27'
+  L: '30'
+  T: '0'
+  PCT: '.474'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: regular/second
+  W: '27'
+  L: '30'
+  T: '0'
+  PCT: '.474'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Paducah
+  phase: regular/second
+  W: '21'
+  L: '35'
+  T: '0'
+  PCT: '.375'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Central City
+  phase: regular/second
+  W: '12'
+  L: '44'
+  T: '0'
+  PCT: '.214'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Madisonville
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

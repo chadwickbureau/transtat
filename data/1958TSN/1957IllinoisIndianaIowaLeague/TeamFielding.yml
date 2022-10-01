@@ -1,0 +1,66 @@
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Burlington
+  G: '128'
+  DP: '119'
+  PB: '22'
+  PO: '3390'
+  A: '1300'
+  E: '193'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Davenport
+  G: '130'
+  DP: '99'
+  PB: '24'
+  PO: '3496'
+  A: '1353'
+  E: '216'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Peoria
+  G: '129'
+  DP: '143'
+  PB: '21'
+  PO: '3426'
+  A: '1464'
+  E: '227'
+  PCT: '.956'
+  TP: '1'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Evansville
+  G: '130'
+  DP: '106'
+  PB: '23'
+  PO: '3466'
+  A: '1386'
+  E: '231'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Cedar Rapids
+  G: '128'
+  DP: '120'
+  PB: '26'
+  PO: '3334'
+  A: '1330'
+  E: '285'
+  PCT: '.942'
+  TP: '1'
+- year: '1957'
+  nameLeague: Illinois-Indiana-Iowa League
+  nameClub: Keokuk
+  G: '129'
+  DP: '92'
+  PB: '30'
+  PO: '3333'
+  A: '1248'
+  E: '284'
+  PCT: '.942'
+  TP: '0'

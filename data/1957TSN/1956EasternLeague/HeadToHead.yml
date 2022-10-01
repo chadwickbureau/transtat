@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  Binghamton: '10'
+  Reading: '10'
+  Allentown: '11'
+  Syracuse: '14'
+  Albany: '13'
+  Williamsport: '11'
+  Johnstown: '15'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  Schenectady: '10'
+  Reading: '12'
+  Allentown: '9'
+  Syracuse: '13'
+  Albany: '10'
+  Williamsport: '13'
+  Johnstown: '14'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Reading
+  Schenectady: '10'
+  Binghamton: '8'
+  Allentown: '12'
+  Syracuse: '16'
+  Albany: '12'
+  Williamsport: '9'
+  Johnstown: '13'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  Schenectady: '8'
+  Binghamton: '11'
+  Reading: '8'
+  Syracuse: '12'
+  Albany: '10'
+  Williamsport: '7'
+  Johnstown: '14'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Syracuse
+  Schenectady: '6'
+  Binghamton: '7'
+  Reading: '4'
+  Allentown: '7'
+  Albany: '13'
+  Williamsport: '14'
+  Johnstown: '11'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Albany
+  Schenectady: '7'
+  Binghamton: '10'
+  Reading: '7'
+  Allentown: '10'
+  Syracuse: '7'
+  Williamsport: '11'
+  Johnstown: '9'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  Schenectady: '9'
+  Binghamton: '6'
+  Reading: '11'
+  Allentown: '13'
+  Syracuse: '6'
+  Albany: '8'
+  Johnstown: '7'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Johnstown
+  Schenectady: '4'
+  Binghamton: '6'
+  Reading: '7'
+  Allentown: '5'
+  Syracuse: '9'
+  Albany: '11'
+  Williamsport: '13'

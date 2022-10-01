@@ -1,0 +1,110 @@
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: regular
+  W: '87'
+  L: '39'
+  PCT: '.690'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: regular
+  W: '69'
+  L: '55'
+  PCT: '.556'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: regular
+  W: '66'
+  L: '58'
+  PCT: '.532'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: regular
+  W: '64'
+  L: '59'
+  PCT: '.520'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Lockport
+  phase: regular
+  W: '61'
+  L: '62'
+  PCT: '.496'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  phase: regular
+  W: '60'
+  L: '63'
+  PCT: '.488'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: regular
+  W: '49'
+  L: '76'
+  PCT: '.392'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: regular
+  W: '40'
+  L: '84'
+  PCT: '.323'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

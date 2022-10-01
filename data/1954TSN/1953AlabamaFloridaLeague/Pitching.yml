@@ -1,0 +1,1576 @@
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: S.
+  nameClub1: Dothan
+  throws: L
+  GP: '32'
+  GS: '22'
+  CG: '20'
+  SHO: '4'
+  W: '22'
+  L: '4'
+  PCT: '.846'
+  IP: '231'
+  H: '151'
+  HR: '3'
+  R: '65'
+  ER: '31'
+  BB: '94'
+  SO: '196'
+  HB: '6'
+  WP: '13'
+  ERA: '1.21'
+  BK: '1'
+  T: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Brill
+  nameClub1: Panama City
+  GP: '9'
+  GS: '6'
+  CG: '5'
+  SHO: '0'
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  IP: '53'
+  H: '39'
+  HR: '0'
+  R: '16'
+  ER: '11'
+  BB: '25'
+  SO: '45'
+  HB: '2'
+  WP: '2'
+  ERA: '1.87'
+  BK: '3'
+  T: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sinquefield
+  nameClub1: Andalusia
+  throws: L
+  GP: '24'
+  GS: '17'
+  CG: '13'
+  SHO: '2'
+  W: '14'
+  L: '4'
+  PCT: '.778'
+  IP: '152'
+  H: '126'
+  HR: '3'
+  R: '47'
+  ER: '32'
+  BB: '25'
+  SO: '121'
+  HB: '2'
+  WP: '2'
+  ERA: '1.89'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Whitfield
+  nameClub1: Graceville
+  GP: '7'
+  GS: '6'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  IP: '51'
+  H: '47'
+  HR: '1'
+  R: '24'
+  ER: '14'
+  BB: '27'
+  SO: '49'
+  HB: '0'
+  WP: '3'
+  ERA: '2.47'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Archer
+  nameClub1: Fort Walton Beach
+  GP: '9'
+  GS: '6'
+  CG: '3'
+  SHO: '1'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '54'
+  H: '38'
+  HR: '2'
+  R: '21'
+  ER: '15'
+  BB: '41'
+  SO: '27'
+  HB: '1'
+  WP: '4'
+  ERA: '2.50'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Leandri
+  nameClub1: Dothan
+  GP: '19'
+  GS: '11'
+  CG: '9'
+  SHO: '1'
+  W: '9'
+  L: '4'
+  PCT: '.692'
+  IP: '114'
+  H: '102'
+  HR: '4'
+  R: '48'
+  ER: '34'
+  BB: '53'
+  SO: '65'
+  HB: '4'
+  WP: '6'
+  ERA: '2.68'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Keith
+  nameClub1: Panama City
+  GP: '27'
+  GS: '21'
+  CG: '11'
+  SHO: '1'
+  W: '14'
+  L: '4'
+  PCT: '.778'
+  IP: '161'
+  H: '151'
+  HR: '4'
+  R: '85'
+  ER: '63'
+  BB: '87'
+  SO: '96'
+  HB: '4'
+  WP: '5'
+  ERA: '3.52'
+  BK: '1'
+  T: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Houck
+  nameClub1: Eufaula
+  GP: '22'
+  GS: '5'
+  CG: '3'
+  SHO: '0'
+  W: '5'
+  L: '5'
+  PCT: '.500'
+  IP: '81'
+  H: '65'
+  HR: '4'
+  R: '48'
+  ER: '32'
+  BB: '49'
+  SO: '23'
+  HB: '2'
+  WP: '5'
+  ERA: '3.56'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: McCluskey
+  nameClub1: Fort Walton Beach
+  GP: '22'
+  GS: '16'
+  CG: '7'
+  SHO: '3'
+  W: '10'
+  L: '3'
+  PCT: '.769'
+  IP: '108'
+  H: '87'
+  HR: '8'
+  R: '58'
+  ER: '43'
+  BB: '77'
+  SO: '126'
+  HB: '13'
+  WP: '5'
+  ERA: '3.58'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ruiz
+  nameClub1: Eufaula
+  throws: L
+  GP: '19'
+  GS: '14'
+  CG: '11'
+  SHO: '2'
+  W: '10'
+  L: '4'
+  PCT: '.714'
+  IP: '112'
+  H: '97'
+  HR: '1'
+  R: '50'
+  ER: '45'
+  BB: '86'
+  SO: '103'
+  HB: '6'
+  WP: '3'
+  ERA: '3.62'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Berg
+  nameClub1: Graceville
+  GP: '32'
+  GS: '20'
+  CG: '15'
+  SHO: '1'
+  W: '12'
+  L: '12'
+  PCT: '.500'
+  IP: '203'
+  H: '195'
+  HR: '4'
+  R: '128'
+  ER: '83'
+  BB: '101'
+  SO: '146'
+  HB: '12'
+  WP: '5'
+  ERA: '3.68'
+  BK: '2'
+  T: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Worlinsky
+  nameClub1: Fort Walton Beach
+  GP: '35'
+  GS: '20'
+  CG: '11'
+  SHO: '0'
+  W: '13'
+  L: '11'
+  PCT: '.542'
+  IP: '190'
+  H: '213'
+  HR: '2'
+  R: '108'
+  ER: '78'
+  BB: '78'
+  SO: '92'
+  HB: '5'
+  WP: '10'
+  ERA: '3.69'
+  BK: '4'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sanders
+  nameClub1: Dothan
+  throws: L
+  GP: '22'
+  GS: '16'
+  CG: '8'
+  SHO: '1'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '127'
+  H: '119'
+  HR: '4'
+  R: '73'
+  ER: '52'
+  BB: '67'
+  SO: '92'
+  HB: '7'
+  WP: '8'
+  ERA: '3.69'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: White
+  nameClub1: Andalusia
+  GP: '11'
+  GS: '10'
+  CG: '9'
+  SHO: '2'
+  W: '6'
+  L: '4'
+  PCT: '.600'
+  IP: '83'
+  H: '62'
+  HR: '3'
+  R: '42'
+  ER: '38'
+  BB: '66'
+  SO: '79'
+  HB: '5'
+  WP: '6'
+  ERA: '4.12'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Fowler
+  nameClub1: Eufaula
+  GP: '15'
+  GS: '14'
+  CG: '4'
+  SHO: '0'
+  W: '1'
+  L: '9'
+  PCT: '.100'
+  IP: '84'
+  H: '86'
+  HR: '10'
+  R: '61'
+  ER: '39'
+  BB: '58'
+  SO: '46'
+  HB: '2'
+  WP: '5'
+  ERA: '4.18'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Allen
+  nameClub1: Dothan
+  GP: '17'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '7'
+  L: '2'
+  PCT: '.778'
+  IP: '66'
+  H: '61'
+  HR: '4'
+  R: '41'
+  ER: '31'
+  BB: '58'
+  SO: '28'
+  HB: '4'
+  WP: '7'
+  ERA: '4.23'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Henson
+  nameClub1: Graceville
+  GP: '24'
+  GS: '18'
+  CG: '9'
+  SHO: '0'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  IP: '131'
+  H: '133'
+  HR: '5'
+  R: '85'
+  ER: '62'
+  BB: '96'
+  SO: '107'
+  HB: '7'
+  WP: '11'
+  ERA: '4.26'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Tidwell
+  nameClub1: Andalusia
+  throws: L
+  GP: '13'
+  GS: '11'
+  CG: '7'
+  SHO: '1'
+  W: '5'
+  L: '5'
+  PCT: '.500'
+  IP: '94'
+  H: '106'
+  HR: '7'
+  R: '58'
+  ER: '45'
+  BB: '39'
+  SO: '36'
+  HB: '1'
+  WP: '1'
+  ERA: '4.31'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Springer
+  nameClub1: Panama City
+  GP: '36'
+  GS: '31'
+  CG: '18'
+  SHO: '3'
+  W: '18'
+  L: '12'
+  PCT: '.600'
+  IP: '235'
+  H: '225'
+  HR: '6'
+  R: '137'
+  ER: '117'
+  BB: '94'
+  SO: '141'
+  HB: '12'
+  WP: '13'
+  ERA: '4.48'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Berbesia
+  nameClub1: Graceville
+  GP: '36'
+  GS: '17'
+  CG: '14'
+  SHO: '0'
+  W: '15'
+  L: '6'
+  PCT: '.714'
+  IP: '213'
+  H: '254'
+  HR: '13'
+  R: '130'
+  ER: '106'
+  BB: '55'
+  SO: '140'
+  HB: '3'
+  WP: '6'
+  ERA: '4.48'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Dyer
+  nameClub1: Andalusia
+  GP: '14'
+  GS: '5'
+  CG: '3'
+  SHO: '0'
+  W: '4'
+  L: '5'
+  PCT: '.444'
+  IP: '73'
+  H: '71'
+  HR: '3'
+  R: '49'
+  ER: '39'
+  BB: '58'
+  SO: '51'
+  HB: '5'
+  WP: '9'
+  ERA: '4.81'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Green
+  nameClub1: Eufaula
+  throws: L
+  GP: '34'
+  GS: '11'
+  CG: '4'
+  SHO: '1'
+  W: '9'
+  L: '6'
+  PCT: '.600'
+  IP: '156'
+  H: '196'
+  HR: '8'
+  R: '111'
+  ER: '85'
+  BB: '60'
+  SO: '73'
+  HB: '3'
+  WP: '6'
+  ERA: '4.90'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Wolfe
+  nameClub1: Fort Walton Beach
+  GP: '32'
+  GS: '24'
+  CG: '9'
+  SHO: '3'
+  W: '10'
+  L: '9'
+  PCT: '.526'
+  IP: '163'
+  H: '157'
+  HR: '3'
+  R: '107'
+  ER: '89'
+  BB: '132'
+  SO: '109'
+  HB: '13'
+  WP: '20'
+  ERA: '4.91'
+  BK: '4'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnes
+  nameClub1: 22@Andalusia
+  nameClub2: 9@Panama City
+  GP: '31'
+  GS: '3'
+  CG: '2'
+  SHO: '0'
+  W: '12'
+  L: '0'
+  PCT: '1.000'
+  IP: '99'
+  H: '122'
+  HR: '4'
+  R: '74'
+  ER: '55'
+  BB: '34'
+  SO: '41'
+  HB: '6'
+  WP: '3'
+  ERA: '5.00'
+  BK: '3'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Moss
+  nameClub1: Eufaula
+  GP: '9'
+  GS: '5'
+  CG: '2'
+  SHO: '0'
+  W: '0'
+  L: '5'
+  PCT: '.000'
+  IP: '49'
+  H: '59'
+  HR: '3'
+  R: '33'
+  ER: '28'
+  BB: '24'
+  SO: '12'
+  HB: '0'
+  WP: '1'
+  ERA: '5.14'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Kirkland
+  nameClub1: Eufaula
+  throws: L
+  GP: '16'
+  GS: '12'
+  CG: '8'
+  SHO: '0'
+  W: '7'
+  L: '6'
+  PCT: '.538'
+  IP: '103'
+  H: '141'
+  HR: '8'
+  R: '74'
+  ER: '60'
+  BB: '16'
+  SO: '52'
+  HB: '0'
+  WP: '9'
+  ERA: '5.24'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Welch
+  nameClub1: 2@Panama City
+  nameClub2: 4@Andalusia
+  nameClub3: 24@Eufaula
+  GP: '30'
+  GS: '19'
+  CG: '9'
+  SHO: '0'
+  W: '8'
+  L: '10'
+  PCT: '.444'
+  IP: '160'
+  H: '196'
+  HR: '3'
+  R: '121'
+  ER: '95'
+  BB: '78'
+  SO: '78'
+  HB: '6'
+  WP: '6'
+  ERA: '5.34'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Weeks
+  nameClub1: Graceville
+  throws: L
+  GP: '33'
+  GS: '27'
+  CG: '13'
+  SHO: '1'
+  W: '10'
+  L: '13'
+  PCT: '.435'
+  IP: '198'
+  H: '210'
+  HR: '8'
+  R: '147'
+  ER: '118'
+  BB: '128'
+  SO: '172'
+  HB: '10'
+  WP: '13'
+  ERA: '5.36'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Brown
+  nameFirst: J.
+  nameClub1: Andalusia
+  GP: '10'
+  GS: '8'
+  CG: '3'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '52'
+  H: '59'
+  HR: '6'
+  R: '44'
+  ER: '31'
+  BB: '31'
+  SO: '16'
+  HB: '5'
+  WP: '2'
+  ERA: '5.37'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: L.
+  nameClub1: 20@Dothan
+  nameClub2: 8@Graceville
+  GP: '28'
+  GS: '10'
+  CG: '4'
+  SHO: '0'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '109'
+  H: '147'
+  HR: '3'
+  R: '79'
+  ER: '66'
+  BB: '35'
+  SO: '43'
+  HB: '6'
+  WP: '4'
+  ERA: '5.45'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: 13@Panama City
+  nameClub2: 10@Dothan
+  GP: '23'
+  GS: '9'
+  CG: '1'
+  SHO: '0'
+  W: '6'
+  L: '3'
+  PCT: '.667'
+  IP: '97'
+  H: '128'
+  HR: '9'
+  R: '72'
+  ER: '59'
+  BB: '50'
+  SO: '54'
+  HB: '2'
+  WP: '2'
+  ERA: '5.47'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cooper
+  nameClub1: Fort Walton Beach
+  GP: '34'
+  GS: '13'
+  CG: '5'
+  SHO: '0'
+  W: '5'
+  L: '14'
+  PCT: '.263'
+  IP: '151'
+  H: '182'
+  HR: '7'
+  R: '120'
+  ER: '95'
+  BB: '102'
+  SO: '67'
+  HB: '5'
+  WP: '9'
+  ERA: '5.66'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Tyler
+  nameClub1: Andalusia
+  GP: '30'
+  GS: '26'
+  CG: '15'
+  SHO: '2'
+  W: '10'
+  L: '16'
+  PCT: '.385'
+  IP: '188'
+  H: '162'
+  HR: '4'
+  R: '140'
+  ER: '119'
+  BB: '195'
+  SO: '153'
+  HB: '5'
+  WP: '13'
+  ERA: '5.70'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hutchinson
+  nameClub1: Panama City
+  GP: '20'
+  GS: '20'
+  CG: '9'
+  SHO: '0'
+  W: '9'
+  L: '9'
+  PCT: '.500'
+  IP: '140'
+  H: '142'
+  HR: '9'
+  R: '113'
+  ER: '89'
+  BB: '131'
+  SO: '85'
+  HB: '8'
+  WP: '13'
+  ERA: '5.72'
+  BK: '5'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Saunders
+  nameClub1: Panama City
+  GP: '30'
+  GS: '5'
+  CG: '1'
+  SHO: '0'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '87'
+  H: '96'
+  HR: '7'
+  R: '64'
+  ER: '56'
+  BB: '55'
+  SO: '48'
+  HB: '5'
+  WP: '7'
+  ERA: '5.79'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Bethea
+  nameClub1: 6@Panama City
+  nameClub2: 7@Andalusia
+  GP: '13'
+  GS: '10'
+  CG: '4'
+  SHO: '0'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '70'
+  H: '84'
+  HR: '5'
+  R: '56'
+  ER: '46'
+  BB: '29'
+  SO: '44'
+  HB: '2'
+  WP: '7'
+  ERA: '5.91'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Geeslin
+  nameClub1: Eufaula
+  GP: '13'
+  GS: '7'
+  CG: '1'
+  SHO: '0'
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  IP: '61'
+  H: '91'
+  HR: '2'
+  R: '60'
+  ER: '42'
+  BB: '19'
+  SO: '24'
+  HB: '7'
+  WP: '7'
+  ERA: '5.91'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Garland
+  nameClub1: Dothan
+  GP: '11'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '48'
+  H: '52'
+  HR: '4'
+  R: '41'
+  ER: '32'
+  BB: '33'
+  SO: '21'
+  HB: '0'
+  WP: '0'
+  ERA: '6.00'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Riddle
+  nameClub1: Panama City
+  GP: '14'
+  GS: '1'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '47'
+  H: '63'
+  HR: '4'
+  R: '37'
+  ER: '33'
+  BB: '28'
+  SO: '24'
+  HB: '2'
+  WP: '9'
+  ERA: '6.32'
+  BK: '1'
+  T: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Paulson
+  nameClub1: Fort Walton Beach
+  GP: '26'
+  GS: '12'
+  CG: '4'
+  SHO: '0'
+  W: '5'
+  L: '9'
+  PCT: '.357'
+  IP: '106'
+  H: '134'
+  HR: '11'
+  R: '99'
+  ER: '77'
+  BB: '43'
+  SO: '49'
+  HB: '4'
+  WP: '4'
+  ERA: '6.54'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Millican
+  nameClub1: Eufaula
+  GP: '18'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '53'
+  H: '76'
+  HR: '3'
+  R: '46'
+  ER: '39'
+  BB: '23'
+  SO: '23'
+  HB: '1'
+  WP: '3'
+  ERA: '6.62'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Pouncey
+  nameClub1: Graceville
+  GP: '12'
+  GS: '7'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '5'
+  PCT: '.286'
+  IP: '48'
+  H: '73'
+  HR: '4'
+  R: '45'
+  ER: '36'
+  BB: '22'
+  SO: '21'
+  HB: '4'
+  WP: '2'
+  ERA: '6.75'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Loew
+  nameClub1: 11@Andalusia
+  nameClub2: 1@Panama City
+  nameClub3: 4@Eufaula
+  GP: '16'
+  GS: '14'
+  CG: '4'
+  SHO: '1'
+  W: '3'
+  L: '9'
+  PCT: '.250'
+  IP: '83'
+  H: '115'
+  HR: '6'
+  R: '79'
+  ER: '68'
+  BB: '60'
+  SO: '35'
+  HB: '2'
+  WP: '2'
+  ERA: '7.37'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameClub1: Fort Walton Beach
+  GP: '26'
+  GS: '0'
+  CG: '0'
+  SHO: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '67'
+  H: '86'
+  HR: '7'
+  R: '66'
+  ER: '62'
+  BB: '54'
+  SO: '38'
+  HB: '5'
+  WP: '5'
+  ERA: '8.33'
+  BK: '3'
+  T: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Alsop
+  nameClub1: Andalusia
+  throws: L
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Callaghan
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Castaldo
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hay
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Kirkpatrick
+  nameClub1: Andalusia
+  W: '0'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Langro
+  nameClub1: Andalusia
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: McDougald
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Michael
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sheridan
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Smith
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Stanford
+  nameClub1: Andalusia
+  throws: L
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sullivan
+  nameClub1: Andalusia
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Swingle
+  nameClub1: Andalusia
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Thomasson
+  nameClub1: Andalusia
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Zerda
+  nameClub1: Andalusia
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ash
+  nameClub1: Dothan
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barreras
+  nameClub1: Dothan
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Bixler
+  nameClub1: Dothan
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Blackburn
+  nameClub1: Dothan
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Brunswick
+  nameClub1: Dothan
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Bryan
+  nameClub1: Dothan
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cezar
+  nameClub1: Dothan
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Clark
+  nameClub1: Dothan
+  W: '2'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Day
+  nameClub1: Dothan
+  W: '0'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Graves
+  nameClub1: Dothan
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Heisler
+  nameClub1: Dothan
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hughes
+  nameClub1: Dothan
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Lampley
+  nameClub1: Dothan
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Leslie
+  nameClub1: Dothan
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: McClaney
+  nameClub1: Dothan
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rego
+  nameClub1: Dothan
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Riddle
+  nameClub1: Dothan
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Schieffer
+  nameClub1: Dothan
+  W: '3'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Shockley
+  nameClub1: Dothan
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Vasquez
+  nameClub1: Dothan
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: William
+  nameClub1: Dothan
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Yance
+  nameClub1: Dothan
+  W: '0'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Becker
+  nameClub1: Eufaula
+  throws: L
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hannah
+  nameClub1: Eufaula
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Henry
+  nameClub1: Eufaula
+  W: '1'
+  L: '4'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hughes
+  nameClub1: Eufaula
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameClub1: Eufaula
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: O'Neal
+  nameClub1: Eufaula
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sparks
+  nameClub1: Eufaula
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Streetman
+  nameClub1: Eufaula
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Whiddon
+  nameClub1: Eufaula
+  W: '0'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Borrero
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Bruno
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: DeChant
+  nameClub1: Fort Walton Beach
+  throws: L
+  W: '3'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Duncan
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Fillingim
+  nameClub1: Eufaula
+  nameClub2: Fort Walton Beach
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Fogal
+  nameClub1: Fort Walton Beach
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hammer
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hendrix
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Jones
+  nameClub1: Fort Walton Beach
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: McGhay
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Mena
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rice
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rinaldo
+  nameClub1: Andalusia
+  nameClub2: Fort Walton Beach
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Schultz
+  nameClub1: Fort Walton Beach
+  W: '4'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Serbin
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Streza
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Warsaw
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: White
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Willis
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Young
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Youngcourt
+  nameClub1: Fort Walton Beach
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Burger
+  nameClub1: Graceville
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Crutchfield
+  nameClub1: Graceville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Fullerton
+  nameClub1: Graceville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Harris
+  nameClub1: Graceville
+  throws: L
+  W: '3'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Krupa
+  nameClub1: Graceville
+  throws: L
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Quimby
+  nameClub1: Fort Walton Beach
+  nameClub2: Graceville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Schneider
+  nameClub1: Graceville
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Bruns
+  nameClub1: Panama City
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Farrar
+  nameClub1: Panama City
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Fink
+  nameClub1: Panama City
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Gilbreath
+  nameClub1: Panama City
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hutchins
+  nameClub1: Panama City
+  throws: L
+  W: '2'
+  L: '3'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Jones
+  nameClub1: Panama City
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Knight
+  nameClub1: Panama City
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Moore
+  nameClub1: Dothan
+  nameClub2: Panama City
+  throws: L
+  W: '2'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Paul
+  nameClub1: Panama City
+  throws: L
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Pearce
+  nameClub1: Panama City
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Smith
+  nameClub1: Panama City
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Steadman
+  nameClub1: Panama City
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Tucker
+  nameClub1: Panama City
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Woodley
+  nameClub1: Panama City
+  W: '0'
+  L: '0'

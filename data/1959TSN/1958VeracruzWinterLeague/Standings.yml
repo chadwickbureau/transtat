@@ -1,0 +1,32 @@
+- year: '1958'
+  nameLeague: Veracruz Winter League
+  nameClub: Puebla
+  phase: regular
+  W: '38'
+  L: '22'
+  PCT: '.633'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Veracruz Winter League
+  nameClub: Cordoba
+  phase: regular
+  W: '34'
+  L: '26'
+  PCT: '.567'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Veracruz Winter League
+  nameClub: Jalapa
+  phase: regular
+  W: '30'
+  L: '30'
+  PCT: '.500'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Veracruz Winter League
+  nameClub: Veracruz
+  phase: regular
+  W: '18'
+  L: '42'
+  PCT: '.300'
+  RANK: '4'

@@ -1,0 +1,66 @@
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Seaford
+  G: '120'
+  DP: '121'
+  PB: '26'
+  PO: '3126'
+  A: '1369'
+  E: '209'
+  TP: '1'
+  PCT: '.955'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Rehoboth Beach
+  G: '119'
+  DP: '103'
+  PB: '7'
+  PO: '3085'
+  A: '1409'
+  E: '226'
+  TP: '0'
+  PCT: '.952'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  G: '120'
+  DP: '99'
+  PB: '21'
+  PO: '3135'
+  A: '1320'
+  E: '238'
+  TP: '1'
+  PCT: '.949'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Easton
+  G: '120'
+  DP: '103'
+  PB: '16'
+  PO: '3119'
+  A: '1303'
+  E: '246'
+  TP: '0'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  G: '119'
+  DP: '113'
+  PB: '28'
+  PO: '3089'
+  A: '1150'
+  E: '239'
+  TP: '0'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  G: '120'
+  DP: '102'
+  PB: '12'
+  PO: '3143'
+  A: '1290'
+  E: '284'
+  TP: '0'
+  PCT: '.940'

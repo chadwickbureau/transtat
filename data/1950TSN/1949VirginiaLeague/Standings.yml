@@ -1,0 +1,100 @@
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Franklin
+  phase: regular
+  W: '80'
+  L: '48'
+  T: '1'
+  PCT: '.625'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Petersburg
+  phase: regular
+  W: '72'
+  L: '54'
+  T: '1'
+  PCT: '.571'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Emporia
+  phase: regular
+  W: '67'
+  L: '55'
+  T: '0'
+  PCT: '.549'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Suffolk
+  phase: regular
+  W: '57'
+  L: '65'
+  T: '0'
+  PCT: '.467'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Hopewell
+  phase: regular
+  W: '52'
+  L: '75'
+  T: '0'
+  PCT: '.409'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Lawrenceville
+  phase: regular
+  W: '45'
+  L: '76'
+  T: '0'
+  PCT: '.372'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Franklin
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Suffolk
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Petersburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Emporia
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Petersburg
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Virginia League
+  nameClub: Franklin
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

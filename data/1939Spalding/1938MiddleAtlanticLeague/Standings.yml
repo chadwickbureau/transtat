@@ -1,0 +1,110 @@
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Portsmouth
+  phase: regular
+  W: '79'
+  L: '50'
+  PCT: '.612'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Canton
+  phase: regular
+  W: '79'
+  L: '51'
+  PCT: '.608'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Springfield
+  phase: regular
+  W: '71'
+  L: '59'
+  PCT: '.546'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Akron
+  phase: regular
+  W: '66'
+  L: '62'
+  PCT: '.516'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Charleston
+  phase: regular
+  W: '59'
+  L: '67'
+  PCT: '.468'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Dayton
+  phase: regular
+  W: '58'
+  L: '72'
+  PCT: '.446'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: regular
+  W: '52'
+  L: '75'
+  PCT: '.409'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular
+  W: '50'
+  L: '78'
+  PCT: '.391'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Akron
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Canton
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Springfield
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Portsmouth
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Middle Atlantic League
+  nameClub: Akron
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

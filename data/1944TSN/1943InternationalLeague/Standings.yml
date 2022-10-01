@@ -1,0 +1,124 @@
+- year: '1943'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '95'
+  L: '57'
+  PCT: '.625'
+  T: '2'
+  RANK: '1'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Newark
+  phase: regular
+  W: '85'
+  L: '68'
+  PCT: '.556'
+  T: '1'
+  RANK: '2'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '82'
+  L: '71'
+  PCT: '.536'
+  T: '1'
+  RANK: '3'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '76'
+  L: '76'
+  PCT: '.500'
+  T: '1'
+  RANK: '4'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '74'
+  L: '78'
+  PCT: '.487'
+  T: '1'
+  RANK: '5'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Baltimore
+  phase: regular
+  W: '73'
+  L: '81'
+  PCT: '.474'
+  T: '3'
+  RANK: '6'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '66'
+  L: '87'
+  PCT: '.431'
+  T: '0'
+  RANK: '7'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Jersey City
+  phase: regular
+  W: '60'
+  L: '93'
+  PCT: '.392'
+  T: '1'
+  RANK: '8'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Newark
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1943'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

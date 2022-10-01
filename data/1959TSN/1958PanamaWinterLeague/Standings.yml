@@ -1,0 +1,32 @@
+- year: '1958'
+  nameLeague: Panama Winter League
+  nameClub: Azucareros
+  phase: regular
+  W: '23'
+  L: '13'
+  PCT: '.639'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Panama Winter League
+  nameClub: Marlboro
+  phase: regular
+  W: '19'
+  L: '17'
+  PCT: '.528'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Panama Winter League
+  nameClub: Carta Vieja
+  phase: regular
+  W: '16'
+  L: '20'
+  PCT: '.444'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Panama Winter League
+  nameClub: Cerveza Balboa
+  phase: regular
+  W: '14'
+  L: '22'
+  PCT: '.389'
+  RANK: '4'

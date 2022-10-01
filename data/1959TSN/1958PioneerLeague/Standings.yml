@@ -1,0 +1,196 @@
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular/first
+  W: '39'
+  L: '28'
+  T: '1'
+  PCT: '.582'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/first
+  W: '38'
+  L: '29'
+  T: '2'
+  PCT: '.567'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/first
+  W: '36'
+  L: '29'
+  T: '0'
+  PCT: '.554'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Missoula
+  phase: regular/first
+  W: '34'
+  L: '29'
+  T: '0'
+  PCT: '.540'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular/first
+  W: '31'
+  L: '35'
+  T: '0'
+  PCT: '.470'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/first
+  W: '26'
+  L: '39'
+  T: '0'
+  PCT: '.400'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular/first
+  W: '24'
+  L: '39'
+  T: '1'
+  PCT: '.381'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/second
+  W: '40'
+  L: '25'
+  T: '0'
+  PCT: '.615'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/second
+  W: '39'
+  L: '27'
+  T: '0'
+  PCT: '.591'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Missoula
+  phase: regular/second
+  W: '36'
+  L: '30'
+  T: '0'
+  PCT: '.545'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular/second
+  W: '32'
+  L: '33'
+  T: '0'
+  PCT: '.492'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/second
+  W: '32'
+  L: '34'
+  T: '0'
+  PCT: '.485'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular/second
+  W: '27'
+  L: '39'
+  T: '0'
+  PCT: '.409'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular/second
+  W: '24'
+  L: '42'
+  T: '0'
+  PCT: '.364'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular
+  W: '76'
+  L: '54'
+  T: '0'
+  PCT: '.585'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Missoula
+  phase: regular
+  W: '70'
+  L: '59'
+  T: '0'
+  PCT: '.543'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular
+  W: '70'
+  L: '63'
+  T: '2'
+  PCT: '.526'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular
+  W: '65'
+  L: '66'
+  T: '0'
+  PCT: '.496'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular
+  W: '63'
+  L: '70'
+  T: '1'
+  PCT: '.474'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular
+  W: '58'
+  L: '74'
+  T: '0'
+  PCT: '.439'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular
+  W: '56'
+  L: '72'
+  T: '1'
+  PCT: '.438'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

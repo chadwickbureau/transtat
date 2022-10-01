@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  Lawton: '11'
+  Seminole: '10'
+  Paris: '9'
+  Ponca City: '12'
+  Muskogee: '14'
+  McAlester: '16'
+  Shawnee: '11'
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  Ardmore: '9'
+  Seminole: '7'
+  Paris: '12'
+  Ponca City: '13'
+  Muskogee: '12'
+  McAlester: '12'
+  Shawnee: '15'
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: Seminole
+  Ardmore: '10'
+  Lawton: '13'
+  Paris: '11'
+  Ponca City: '11'
+  Muskogee: '10'
+  McAlester: '10'
+  Shawnee: '9'
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: Paris
+  Ardmore: '11'
+  Lawton: '8'
+  Seminole: '9'
+  Ponca City: '8'
+  Muskogee: '13'
+  McAlester: '10'
+  Shawnee: '13'
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: Ponca City
+  Ardmore: '8'
+  Lawton: '7'
+  Seminole: '9'
+  Paris: '12'
+  Muskogee: '9'
+  McAlester: '13'
+  Shawnee: '12'
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: Muskogee
+  Ardmore: '6'
+  Lawton: '8'
+  Seminole: '10'
+  Paris: '6'
+  Ponca City: '11'
+  McAlester: '11'
+  Shawnee: '11'
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: McAlester
+  Ardmore: '3'
+  Lawton: '8'
+  Seminole: '10'
+  Paris: '10'
+  Ponca City: '7'
+  Muskogee: '9'
+  Shawnee: '13'
+- year: '1956'
+  nameLeague: Sooner State League
+  nameClub: Shawnee
+  Ardmore: '9'
+  Lawton: '5'
+  Seminole: '11'
+  Paris: '7'
+  Ponca City: '8'
+  Muskogee: '9'
+  McAlester: '7'

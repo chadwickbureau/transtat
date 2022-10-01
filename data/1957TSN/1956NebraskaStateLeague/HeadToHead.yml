@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: Lexington
+  Grand Island: '5'
+  Kearney: '5'
+  McCook: '6'
+  Superior: '6'
+  Holdrege: '6'
+  North Platte: '7'
+  Hastings: '6'
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: Grand Island
+  Lexington: '4'
+  Kearney: '5'
+  McCook: '3'
+  Superior: '5'
+  Holdrege: '5'
+  North Platte: '5'
+  Hastings: '8'
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: Kearney
+  Lexington: '4'
+  Grand Island: '4'
+  McCook: '6'
+  Superior: '3'
+  Holdrege: '6'
+  North Platte: '5'
+  Hastings: '7'
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: McCook
+  Lexington: '3'
+  Grand Island: '6'
+  Kearney: '3'
+  Superior: '5'
+  Holdrege: '5'
+  North Platte: '7'
+  Hastings: '6'
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: Superior
+  Lexington: '3'
+  Grand Island: '4'
+  Kearney: '6'
+  McCook: '4'
+  Holdrege: '3'
+  North Platte: '6'
+  Hastings: '8'
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: Holdrege
+  Lexington: '3'
+  Grand Island: '4'
+  Kearney: '3'
+  McCook: '4'
+  Superior: '6'
+  North Platte: '7'
+  Hastings: '6'
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: North Platte
+  Lexington: '2'
+  Grand Island: '4'
+  Kearney: '4'
+  McCook: '2'
+  Superior: '3'
+  Holdrege: '2'
+  Hastings: '7'
+- year: '1956'
+  nameLeague: Nebraska State League
+  nameClub: Hastings
+  Lexington: '3'
+  Grand Island: '1'
+  Kearney: '2'
+  McCook: '3'
+  Superior: '1'
+  Holdrege: '3'
+  North Platte: '2'

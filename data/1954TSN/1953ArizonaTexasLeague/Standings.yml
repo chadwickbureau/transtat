@@ -1,0 +1,48 @@
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: regular
+  W: '90'
+  L: '49'
+  PCT: '.647'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Mexicali
+  phase: regular
+  W: '77'
+  L: '62'
+  PCT: '.554'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  phase: regular
+  W: '74'
+  L: '65'
+  PCT: '.532'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: regular
+  W: '60'
+  L: '80'
+  PCT: '.429'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee-Douglas
+  phase: regular
+  W: '59'
+  L: '80'
+  PCT: '.424'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: regular
+  W: '58'
+  L: '82'
+  PCT: '.414'
+  RANK: '6'

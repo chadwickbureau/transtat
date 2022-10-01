@@ -1,0 +1,100 @@
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Middletown
+  phase: regular
+  W: '89'
+  L: '50'
+  PCT: '.640'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Zanesville
+  phase: regular
+  W: '74'
+  L: '66'
+  PCT: '.529'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Lima
+  phase: regular
+  W: '72'
+  L: '68'
+  PCT: '.514'
+  RANK: '3'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Springfield
+  phase: regular
+  W: '64'
+  L: '75'
+  PCT: '.460'
+  RANK: '4'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Marion
+  phase: regular
+  W: '62'
+  L: '77'
+  PCT: '.446'
+  RANK: '5'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Newark
+  phase: regular
+  W: '57'
+  L: '82'
+  PCT: '.410'
+  RANK: '6'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Middletown
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Springfield
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Zanesville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Lima
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Zanesville
+  phase: final
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1945'
+  nameLeague: Ohio State League
+  nameClub: Middletown
+  phase: final
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'

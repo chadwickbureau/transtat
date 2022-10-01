@@ -1,0 +1,254 @@
+- year: '1958'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular/first
+  W: '46'
+  L: '26'
+  T: '0'
+  PCT: '.639'
+  RANK: '1'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular/first
+  W: '43'
+  L: '30'
+  T: '0'
+  PCT: '.589'
+  RANK: '2'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular/first
+  W: '39'
+  L: '33'
+  T: '0'
+  PCT: '.542'
+  RANK: '3'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular/first
+  W: '37'
+  L: '35'
+  T: '0'
+  PCT: '.514'
+  RANK: '4'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular/first
+  W: '34'
+  L: '38'
+  T: '0'
+  PCT: '.472'
+  RANK: '5'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular/first
+  W: '31'
+  L: '40'
+  T: '0'
+  PCT: '.437'
+  RANK: '6'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular/first
+  W: '30'
+  L: '40'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1958'
+  nameLeague: California League
+  nameClub: San Jose/Las Vegas
+  phase: regular/first
+  W: '26'
+  L: '44'
+  T: '0'
+  PCT: '.371'
+  RANK: '8'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular/second
+  W: '45'
+  L: '22'
+  T: '0'
+  PCT: '.672'
+  RANK: '1'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular/second
+  W: '39'
+  L: '29'
+  T: '0'
+  PCT: '.574'
+  RANK: '2'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular/second
+  W: '38'
+  L: '29'
+  T: '0'
+  PCT: '.567'
+  RANK: '3'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular/second
+  W: '35'
+  L: '32'
+  T: '0'
+  PCT: '.522'
+  RANK: '4'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular/second
+  W: '33'
+  L: '33'
+  T: '0'
+  PCT: '.506'
+  RANK: '5'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Las Vegas
+  phase: regular/second
+  W: '28'
+  L: '37'
+  T: '0'
+  PCT: '.431'
+  RANK: '6'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular/second
+  W: '26'
+  L: '39'
+  T: '0'
+  PCT: '.400'
+  RANK: '7'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular/second
+  W: '22'
+  L: '45'
+  T: '0'
+  PCT: '.328'
+  RANK: '8'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '85'
+  L: '55'
+  T: '0'
+  PCT: '.607'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '84'
+  L: '55'
+  T: '0'
+  PCT: '.604'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '70'
+  L: '68'
+  T: '0'
+  PCT: '.507'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '69'
+  L: '69'
+  T: '0'
+  PCT: '.500'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '69'
+  L: '70'
+  T: '0'
+  PCT: '.497'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular
+  W: '68'
+  L: '69'
+  T: '0'
+  PCT: '.497'
+- year: '1958'
+  nameLeague: California League
+  nameClub: San Jose/Las Vegas
+  phase: regular
+  W: '54'
+  L: '81'
+  T: '0'
+  PCT: '.400'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular
+  W: '53'
+  L: '85'
+  T: '0'
+  PCT: '.384'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1958'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

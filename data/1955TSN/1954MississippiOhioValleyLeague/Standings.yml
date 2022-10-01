@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Decatur
+  phase: regular
+  W: '74'
+  L: '52'
+  T: '0'
+  PCT: '.587'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Danville
+  phase: regular
+  W: '66'
+  L: '59'
+  T: '0'
+  PCT: '.528'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Clinton
+  phase: regular
+  W: '63'
+  L: '59'
+  T: '0'
+  PCT: '.516'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Dubuque
+  phase: regular
+  W: '62'
+  L: '61'
+  T: '0'
+  PCT: '.504'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: regular
+  W: '62'
+  L: '64'
+  T: '0'
+  PCT: '.492'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paris
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Hannibal
+  phase: regular
+  W: '58'
+  L: '68'
+  T: '0'
+  PCT: '.460'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mount Vernon
+  phase: regular
+  W: '57'
+  L: '69'
+  T: '0'
+  PCT: '.452'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Clinton
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Decatur
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Danville
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Dubuque
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Danville
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Clinton
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

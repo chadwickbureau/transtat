@@ -1,0 +1,66 @@
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  G: '124'
+  DP: '131'
+  PB: '21'
+  PO: '3227'
+  A: '1226'
+  E: '141'
+  TP: '0'
+  PCT: '.969'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  G: '122'
+  DP: '98'
+  PB: '10'
+  PO: '3193'
+  A: '1263'
+  E: '153'
+  TP: '0'
+  PCT: '.967'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  G: '122'
+  DP: '116'
+  PB: '10'
+  PO: '3161'
+  A: '1309'
+  E: '159'
+  TP: '1'
+  PCT: '.966'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Veracruz
+  G: '121'
+  DP: '114'
+  PB: '30'
+  PO: '3129'
+  A: '1272'
+  E: '223'
+  TP: '0'
+  PCT: '.952'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  G: '123'
+  DP: '134'
+  PB: '10'
+  PO: '3190'
+  A: '1264'
+  E: '229'
+  TP: '0'
+  PCT: '.951'
+- year: '1957'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  G: '122'
+  DP: '147'
+  PB: '39'
+  PO: '3151'
+  A: '1338'
+  E: '229'
+  TP: '0'
+  PCT: '.951'

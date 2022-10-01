@@ -1,0 +1,118 @@
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: regular
+  W: '65'
+  L: '47'
+  T: '2'
+  PCT: '.580'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: regular
+  W: '61'
+  L: '51'
+  T: '0'
+  PCT: '.545'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Milford
+  phase: regular
+  W: '60'
+  L: '52'
+  T: '0'
+  PCT: '.536'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Dover
+  phase: regular
+  W: '58'
+  L: '54'
+  T: '1'
+  PCT: '.518'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Federalsburg
+  phase: regular
+  W: '56'
+  L: '56'
+  T: '1'
+  PCT: '.500'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Easton
+  phase: regular
+  W: '55'
+  L: '56'
+  T: '0'
+  PCT: '.495'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Centreville
+  phase: regular
+  W: '51'
+  L: '60'
+  T: '1'
+  PCT: '.459'
+  RANK: '7'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Pocomoke City
+  phase: regular
+  W: '41'
+  L: '71'
+  T: '1'
+  PCT: '.366'
+  RANK: '8'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Milford
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Dover
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Salisbury
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Eastern Shore League
+  nameClub: Cambridge
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

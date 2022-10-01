@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '85'
+  L: '55'
+  T: '0'
+  PCT: '.607'
+  RANK: '1'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '1'
+  PCT: '.571'
+  RANK: '2'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '0'
+  PCT: '.529'
+  RANK: '3'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '72'
+  L: '68'
+  T: '0'
+  PCT: '.514'
+  RANK: '4'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '1'
+  PCT: '.500'
+  RANK: '5'
+- year: '1948'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular
+  W: '64'
+  L: '76'
+  T: '0'
+  PCT: '.457'
+  RANK: '7'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '45'
+  L: '95'
+  T: '0'
+  PCT: '.321'
+  RANK: '8'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

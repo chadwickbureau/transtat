@@ -1,0 +1,144 @@
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/first
+  W: '43'
+  L: '27'
+  T: '0'
+  PCT: '.614'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/first
+  W: '42'
+  L: '27'
+  T: '0'
+  PCT: '.609'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: West Palm Beach
+  phase: regular/first
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/first
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/first
+  W: '36'
+  L: '32'
+  T: '0'
+  PCT: '.529'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/first
+  W: '31'
+  L: '39'
+  T: '0'
+  PCT: '.443'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular/first
+  W: '26'
+  L: '44'
+  T: '0'
+  PCT: '.371'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular/first
+  W: '24'
+  L: '45'
+  T: '0'
+  PCT: '.348'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/second
+  W: '47'
+  L: '23'
+  T: '0'
+  PCT: '.671'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular/second
+  W: '45'
+  L: '24'
+  T: '0'
+  PCT: '.652'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: West Palm Beach
+  phase: regular/second
+  W: '43'
+  L: '26'
+  T: '0'
+  PCT: '.623'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular/second
+  W: '35'
+  L: '35'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular/second
+  W: '32'
+  L: '38'
+  T: '0'
+  PCT: '.457'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/second
+  W: '30'
+  L: '38'
+  T: '0'
+  PCT: '.441'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  phase: regular/second
+  W: '28'
+  L: '42'
+  T: '0'
+  PCT: '.400'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/second
+  W: '17'
+  L: '51'
+  T: '0'
+  PCT: '.250'
+  RANK: '8'

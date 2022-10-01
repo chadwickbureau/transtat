@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: regular
+  W: '80'
+  L: '39'
+  T: '1'
+  PCT: '.672'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: regular
+  W: '78'
+  L: '40'
+  T: '2'
+  PCT: '.661'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: regular
+  W: '66'
+  L: '55'
+  T: '1'
+  PCT: '.545'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: regular
+  W: '64'
+  L: '59'
+  T: '0'
+  PCT: '.520'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Duluth
+  phase: regular
+  W: '53'
+  L: '61'
+  T: '0'
+  PCT: '.465'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Superior
+  phase: regular
+  W: '54'
+  L: '67'
+  T: '0'
+  PCT: '.446'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Sioux Falls
+  phase: regular
+  W: '45'
+  L: '75'
+  T: '0'
+  PCT: '.375'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Fargo-Moorhead
+  phase: regular
+  W: '41'
+  L: '85'
+  T: '0'
+  PCT: '.325'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Eau Claire
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: St. Cloud
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Grand Forks
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Northern League
+  nameClub: Aberdeen
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,194 @@
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: regular/first
+  W: '40'
+  L: '23'
+  T: '0'
+  PCT: '.635'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Edmonton
+  phase: regular/first
+  W: '41'
+  L: '27'
+  T: '0'
+  PCT: '.603'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Lewiston
+  phase: regular/first
+  W: '36'
+  L: '25'
+  T: '0'
+  PCT: '.590'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular/first
+  W: '33'
+  L: '29'
+  T: '0'
+  PCT: '.532'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular/first
+  W: '30'
+  L: '35'
+  T: '0'
+  PCT: '.462'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: regular/first
+  W: '29'
+  L: '35'
+  T: '0'
+  PCT: '.453'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Victoria
+  phase: regular/first
+  W: '28'
+  L: '35'
+  T: '0'
+  PCT: '.444'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Tri-City
+  phase: regular/first
+  W: '27'
+  L: '35'
+  T: '0'
+  PCT: '.435'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular/first
+  W: '30'
+  L: '40'
+  T: '0'
+  PCT: '.429'
+  RANK: '9'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Calgary
+  phase: regular/first
+  W: '26'
+  L: '36'
+  T: '0'
+  PCT: '.419'
+  RANK: '10'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: regular/second
+  W: '46'
+  L: '32'
+  T: '0'
+  PCT: '.590'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Lewiston
+  phase: regular/second
+  W: '42'
+  L: '30'
+  T: '0'
+  PCT: '.583'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  phase: regular/second
+  W: '44'
+  L: '35'
+  T: '0'
+  PCT: '.557'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Yakima
+  phase: regular/second
+  W: '40'
+  L: '34'
+  T: '0'
+  PCT: '.541'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Edmonton
+  phase: regular/second
+  W: '38'
+  L: '34'
+  T: '0'
+  PCT: '.528'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: regular/second
+  W: '39'
+  L: '35'
+  T: '0'
+  PCT: '.527'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Calgary
+  phase: regular/second
+  W: '33'
+  L: '39'
+  T: '0'
+  PCT: '.458'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Tri-City
+  phase: regular/second
+  W: '32'
+  L: '42'
+  T: '0'
+  PCT: '.432'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  phase: regular/second
+  W: '29'
+  L: '45'
+  T: '0'
+  PCT: '.392'
+  RANK: '9'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Victoria
+  phase: regular/second
+  W: '29'
+  L: '46'
+  T: '0'
+  PCT: '.387'
+  RANK: '10'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Spokane
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Western International League
+  nameClub: Salem
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

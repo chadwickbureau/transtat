@@ -1,0 +1,224 @@
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular/first
+  W: '41'
+  L: '29'
+  T: '0'
+  PCT: '.586'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  phase: regular/first
+  W: '40'
+  L: '29'
+  T: '0'
+  PCT: '.580'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: regular/first
+  W: '37'
+  L: '32'
+  T: '0'
+  PCT: '.536'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: regular/first
+  W: '37'
+  L: '32'
+  T: '0'
+  PCT: '.536'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: regular/first
+  W: '32'
+  L: '38'
+  T: '0'
+  PCT: '.457'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  phase: regular/first
+  W: '31'
+  L: '38'
+  T: '0'
+  PCT: '.449'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  phase: regular/first
+  W: '30'
+  L: '40'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: New Castle
+  phase: regular/first
+  W: '30'
+  L: '40'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: regular/second
+  W: '48'
+  L: '21'
+  T: '0'
+  PCT: '.696'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular/second
+  W: '43'
+  L: '26'
+  T: '1'
+  PCT: '.623'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  phase: regular/second
+  W: '36'
+  L: '31'
+  T: '1'
+  PCT: '.537'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  phase: regular/second
+  W: '34'
+  L: '33'
+  T: '1'
+  PCT: '.507'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: regular/second
+  W: '34'
+  L: '34'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: regular/second
+  W: '26'
+  L: '40'
+  T: '1'
+  PCT: '.394'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  phase: regular/second
+  W: '25'
+  L: '43'
+  T: '0'
+  PCT: '.369'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: New Castle
+  phase: regular/second
+  W: '24'
+  L: '42'
+  T: '0'
+  PCT: '.364'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: regular
+  W: '85'
+  L: '53'
+  T: '0'
+  PCT: '.616'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular
+  W: '84'
+  L: '55'
+  T: '1'
+  PCT: '.604'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  phase: regular
+  W: '74'
+  L: '62'
+  T: '1'
+  PCT: '.544'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  phase: regular
+  W: '67'
+  L: '69'
+  T: '1'
+  PCT: '.493'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: regular
+  W: '66'
+  L: '72'
+  T: '0'
+  PCT: '.478'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: regular
+  W: '63'
+  L: '72'
+  T: '1'
+  PCT: '.467'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  phase: regular
+  W: '55'
+  L: '83'
+  T: '0'
+  PCT: '.398'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: New Castle
+  phase: regular
+  W: '54'
+  L: '82'
+  T: '0'
+  PCT: '.397'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

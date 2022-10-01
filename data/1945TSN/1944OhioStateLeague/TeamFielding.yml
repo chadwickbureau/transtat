@@ -1,0 +1,66 @@
+- year: '1944'
+  nameLeague: Ohio State League
+  nameClub: Zanesville
+  G: '131'
+  DP: '119'
+  TP: '0'
+  PB: '29'
+  PO: '3284'
+  A: '1452'
+  E: '304'
+  PCT: '.940'
+- year: '1944'
+  nameLeague: Ohio State League
+  nameClub: Middletown
+  G: '127'
+  DP: '112'
+  TP: '0'
+  PB: '17'
+  PO: '3139'
+  A: '1455'
+  E: '291'
+  PCT: '.940'
+- year: '1944'
+  nameLeague: Ohio State League
+  nameClub: Marion
+  G: '131'
+  DP: '104'
+  TP: '0'
+  PB: '26'
+  PO: '3170'
+  A: '1401'
+  E: '341'
+  PCT: '.931'
+- year: '1944'
+  nameLeague: Ohio State League
+  nameClub: Newark
+  G: '129'
+  DP: '105'
+  TP: '0'
+  PB: '13'
+  PO: '3250'
+  A: '1330'
+  E: '355'
+  PCT: '.928'
+- year: '1944'
+  nameLeague: Ohio State League
+  nameClub: Springfield
+  G: '130'
+  DP: '79'
+  TP: '0'
+  PB: '37'
+  PO: '3300'
+  A: '1266'
+  E: '356'
+  PCT: '.928'
+- year: '1944'
+  nameLeague: Ohio State League
+  nameClub: Lima
+  G: '128'
+  DP: '78'
+  TP: '0'
+  PB: '38'
+  PO: '3204'
+  A: '1338'
+  E: '374'
+  PCT: '.924'

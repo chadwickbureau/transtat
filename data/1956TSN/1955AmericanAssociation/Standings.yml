@@ -1,0 +1,118 @@
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '92'
+  L: '62'
+  T: '2'
+  PCT: '.597'
+  RANK: '1'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Omaha
+  phase: regular
+  W: '84'
+  L: '70'
+  T: '0'
+  PCT: '.545'
+  RANK: '2'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: regular
+  W: '83'
+  L: '71'
+  T: '2'
+  PCT: '.539'
+  RANK: '3'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '83'
+  L: '71'
+  T: '0'
+  PCT: '.539'
+  RANK: '3'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '81'
+  L: '73'
+  T: '1'
+  PCT: '.526'
+  RANK: '5'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '75'
+  L: '78'
+  T: '2'
+  PCT: '.490'
+  RANK: '6'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '67'
+  L: '86'
+  T: '1'
+  PCT: '.438'
+  RANK: '7'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Charleston
+  phase: regular
+  W: '50'
+  L: '104'
+  T: '0'
+  PCT: '.325'
+  RANK: '8'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Omaha
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1955'
+  nameLeague: American Association
+  nameClub: Omaha
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

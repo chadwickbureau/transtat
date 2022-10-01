@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  Savannah: '14'
+  Charleston: '8'
+  Augusta: '15'
+  Greenville: '14'
+  Macon: '11'
+  Jacksonville: '13'
+  Columbia: '13'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  Columbus: '8'
+  Charleston: '11'
+  Augusta: '9'
+  Greenville: '12'
+  Macon: '13'
+  Jacksonville: '15'
+  Columbia: '17'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Charleston
+  Columbus: '14'
+  Savannah: '11'
+  Augusta: '8'
+  Greenville: '15'
+  Macon: '9'
+  Jacksonville: '11'
+  Columbia: '15'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  Columbus: '7'
+  Savannah: '11'
+  Charleston: '13'
+  Greenville: '8'
+  Macon: '10'
+  Jacksonville: '16'
+  Columbia: '16'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Greenville
+  Columbus: '8'
+  Savannah: '10'
+  Charleston: '7'
+  Augusta: '14'
+  Macon: '13'
+  Jacksonville: '11'
+  Columbia: '14'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  Columbus: '11'
+  Savannah: '9'
+  Charleston: '12'
+  Augusta: '11'
+  Greenville: '9'
+  Jacksonville: '12'
+  Columbia: '6'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  Columbus: '9'
+  Savannah: '6'
+  Charleston: '11'
+  Augusta: '6'
+  Greenville: '11'
+  Macon: '10'
+  Columbia: '13'
+- year: '1947'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  Columbus: '8'
+  Savannah: '5'
+  Charleston: '7'
+  Augusta: '6'
+  Greenville: '8'
+  Macon: '16'
+  Jacksonville: '9'

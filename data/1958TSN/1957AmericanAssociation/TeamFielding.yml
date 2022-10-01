@@ -1,0 +1,88 @@
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  G: '156'
+  DP: '130'
+  PB: '14'
+  PO: '4027'
+  A: '1589'
+  E: '126'
+  PCT: '.978'
+  TP: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Denver
+  G: '154'
+  DP: '177'
+  PB: '15'
+  PO: '3993'
+  A: '1797'
+  E: '136'
+  PCT: '.977'
+  TP: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: St. Paul
+  G: '154'
+  DP: '148'
+  PB: '22'
+  PO: '4007'
+  A: '1537'
+  E: '145'
+  PCT: '.975'
+  TP: '0'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Wichita
+  G: '155'
+  DP: '159'
+  PB: '22'
+  PO: '4053'
+  A: '1628'
+  E: '149'
+  PCT: '.974'
+  TP: '0'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Charleston
+  G: '154'
+  DP: '162'
+  PB: '30'
+  PO: '4038'
+  A: '1702'
+  E: '159'
+  PCT: '.973'
+  TP: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Omaha
+  G: '154'
+  DP: '143'
+  PB: '20'
+  PO: '4053'
+  A: '1563'
+  E: '156'
+  PCT: '.973'
+  TP: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  G: '155'
+  DP: '128'
+  PB: '21'
+  PO: '3927'
+  A: '1593'
+  E: '155'
+  PCT: '.973'
+  TP: '0'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Louisville
+  G: '154'
+  DP: '130'
+  PB: '7'
+  PO: '3983'
+  A: '1563'
+  E: '214'
+  PCT: '.963'
+  TP: '1'

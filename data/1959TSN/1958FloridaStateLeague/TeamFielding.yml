@@ -1,0 +1,77 @@
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  G: '143'
+  DP: '138'
+  PB: '14'
+  PO: '3419'
+  A: '1474'
+  E: '203'
+  PCT: '.960'
+  TP: '1'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  G: '143'
+  DP: '120'
+  PB: '25'
+  PO: '3326'
+  A: '1369'
+  E: '241'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  G: '144'
+  DP: '100'
+  PB: '31'
+  PO: '3357'
+  A: '1295'
+  E: '234'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  G: '137'
+  DP: '105'
+  PB: '25'
+  PO: '3212'
+  A: '1246'
+  E: '246'
+  PCT: '.949'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  G: '142'
+  DP: '80'
+  PB: '20'
+  PO: '3380'
+  A: '1265'
+  E: '245'
+  PCT: '.948'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  G: '140'
+  DP: '115'
+  PB: '15'
+  PO: '3267'
+  A: '1420'
+  E: '318'
+  PCT: '.937'
+  TP: '0'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  G: '139'
+  DP: '86'
+  PB: '38'
+  PO: '3236'
+  A: '1316'
+  E: '324'
+  PCT: '.933'
+  TP: '0'

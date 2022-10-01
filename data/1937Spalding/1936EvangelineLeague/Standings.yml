@@ -1,0 +1,110 @@
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular
+  W: '96'
+  L: '42'
+  PCT: '.696'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Opelousas
+  phase: regular
+  W: '89'
+  L: '48'
+  PCT: '.650'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Rayne
+  phase: regular
+  W: '83'
+  L: '55'
+  PCT: '.601'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Jeanerette
+  phase: regular
+  W: '76'
+  L: '63'
+  PCT: '.547'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: regular
+  W: '68'
+  L: '69'
+  PCT: '.496'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: regular
+  W: '58'
+  L: '81'
+  PCT: '.417'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  phase: regular
+  W: '48'
+  L: '89'
+  PCT: '.350'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  phase: regular
+  W: '34'
+  L: '105'
+  PCT: '.245'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Jeanerette
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Opelousas
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Rayne
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Evangeline League
+  nameClub: Opelousas
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

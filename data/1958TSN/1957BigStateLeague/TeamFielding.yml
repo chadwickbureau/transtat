@@ -1,0 +1,66 @@
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  G: '128'
+  DP: '132'
+  PB: '21'
+  PO: '3334'
+  A: '1270'
+  E: '175'
+  PCT: '.963'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Port Arthur/Temple
+  G: '104'
+  DP: '111'
+  PB: '17'
+  PO: '2715'
+  A: '1108'
+  E: '160'
+  PCT: '.960'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Victoria
+  G: '124'
+  DP: '111'
+  PB: '23'
+  PO: '3234'
+  A: '1136'
+  E: '187'
+  PCT: '.959'
+  TP: '1'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Abilene
+  G: '127'
+  DP: '109'
+  PB: '32'
+  PO: '3289'
+  A: '1324'
+  E: '206'
+  PCT: '.957'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Wichita Falls
+  G: '30'
+  DP: '29'
+  PB: '7'
+  PO: '755'
+  A: '314'
+  E: '52'
+  PCT: '.953'
+  TP: '0'
+- year: '1957'
+  nameLeague: Big State League
+  nameClub: Beaumont
+  G: '125'
+  DP: '107'
+  PB: '19'
+  PO: '3296'
+  A: '1352'
+  E: '242'
+  PCT: '.951'
+  TP: '0'

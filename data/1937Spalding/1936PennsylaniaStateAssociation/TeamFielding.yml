@@ -1,0 +1,54 @@
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Charleroi
+  G: '111'
+  PO: '2771'
+  A: '1270'
+  E: '185'
+  DP: '114'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Greensburg
+  G: '111'
+  PO: '2786'
+  A: '1210'
+  E: '197'
+  DP: '96'
+  PCT: '.953'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Jeannette
+  G: '115'
+  PO: '2903'
+  A: '1295'
+  E: '210'
+  DP: '77'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: McKeesport
+  G: '112'
+  PO: '2656'
+  A: '1013'
+  E: '201'
+  DP: '98'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Butler
+  G: '112'
+  PO: '2749'
+  A: '1315'
+  E: '223'
+  DP: '97'
+  PCT: '.948'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Monessen
+  G: '111'
+  PO: '2694'
+  A: '1107'
+  E: '210'
+  DP: '73'
+  PCT: '.948'

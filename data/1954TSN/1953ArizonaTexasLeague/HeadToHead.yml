@@ -1,0 +1,48 @@
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  Mexicali: '16'
+  Juarez: '15'
+  El Paso: '19'
+  Bisbee-Douglas: '21'
+  Phoenix: '19'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Mexicali
+  Tucson: '12'
+  Juarez: '14'
+  El Paso: '17'
+  Bisbee-Douglas: '18'
+  Phoenix: '16'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  Tucson: '13'
+  Mexicali: '13'
+  El Paso: '17'
+  Bisbee-Douglas: '13'
+  Phoenix: '18'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  Tucson: '9'
+  Mexicali: '11'
+  Juarez: '11'
+  Bisbee-Douglas: '14'
+  Phoenix: '15'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee-Douglas
+  Tucson: '6'
+  Mexicali: '10'
+  Juarez: '15'
+  El Paso: '14'
+  Phoenix: '14'
+- year: '1953'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  Tucson: '9'
+  Mexicali: '12'
+  Juarez: '10'
+  El Paso: '13'
+  Bisbee-Douglas: '14'

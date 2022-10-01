@@ -1,0 +1,3048 @@
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Garrison
+  nameClub1: Beaumont
+  Pos: 1B
+  G: '14'
+  PO: '109'
+  A: '8'
+  E: '0'
+  DP: '9'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Boyd
+  nameClub1: Houston
+  throws: L
+  Pos: 1B
+  G: '88'
+  PO: '765'
+  A: '51'
+  E: '3'
+  DP: '86'
+  PCT: '.996'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kellert
+  nameClub1: San Antonio
+  Pos: 1B
+  G: '161'
+  PO: '1237'
+  A: '84'
+  E: '7'
+  DP: '120'
+  PCT: '.995'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marolewski
+  nameClub1: Houston
+  Pos: 1B
+  G: '71'
+  PO: '625'
+  A: '45'
+  E: '4'
+  DP: '57'
+  PCT: '.994'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Fleming
+  nameClub1: Beaumont
+  nameClub2: Dallas
+  throws: L
+  Pos: 1B
+  G: '157'
+  PO: '1351'
+  A: '118'
+  E: '9'
+  DP: '120'
+  PCT: '.994'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Dunlap
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '30'
+  PO: '262'
+  A: '18'
+  E: '2'
+  DP: '26'
+  PCT: '.993'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McGaha
+  nameClub1: Shreveport
+  Pos: 1B
+  G: '21'
+  PO: '143'
+  A: '7'
+  E: '1'
+  DP: '15'
+  PCT: '.993'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tappe
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '35'
+  PO: '335'
+  A: '15'
+  E: '3'
+  DP: '46'
+  PCT: '.992'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: York
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: 1B
+  G: '158'
+  PO: '1388'
+  A: '67'
+  E: '13'
+  DP: '127'
+  PCT: '.991'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Macko
+  nameClub1: Tulsa
+  Pos: 1B
+  G: '107'
+  PO: '918'
+  A: '76'
+  E: '9'
+  DP: '94'
+  PCT: '.991'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Mickelson
+  nameClub1: Shreveport
+  Pos: 1B
+  G: '146'
+  PO: '1368'
+  A: '94'
+  E: '16'
+  DP: '146'
+  PCT: '.989'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Ozark
+  nameClub1: Fort Worth
+  Pos: 1B
+  G: '74'
+  PO: '571'
+  A: '46'
+  E: '7'
+  DP: '57'
+  PCT: '.989'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Beeler
+  nameClub1: Dallas
+  Pos: 1B
+  G: '11'
+  PO: '75'
+  A: '9'
+  E: '1'
+  DP: '9'
+  PCT: '.988'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Taylor
+  nameClub1: Dallas
+  nameClub2: Beaumont
+  throws: L
+  Pos: 1B
+  G: '134'
+  PO: '1125'
+  A: '96'
+  E: '15'
+  DP: '100'
+  PCT: '.988'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Weaver
+  nameClub1: Fort Worth
+  throws: L
+  Pos: 1B
+  G: '69'
+  PO: '527'
+  A: '34'
+  E: '10'
+  DP: '61'
+  PCT: '.982'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gabler
+  nameClub1: Fort Worth
+  Pos: 1B
+  G: '15'
+  PO: '101'
+  A: '6'
+  E: '2'
+  DP: '17'
+  PCT: '.982'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Macko
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '10'
+  PO: '34'
+  A: '32'
+  E: '0'
+  DP: '12'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hunt
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '10'
+  PO: '24'
+  A: '14'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tornay
+  nameClub1: Dallas
+  Pos: 2B
+  G: '60'
+  PO: '145'
+  A: '182'
+  E: '4'
+  DP: '28'
+  PCT: '.988'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gallardo
+  nameClub1: Dallas
+  Pos: 2B
+  G: '26'
+  PO: '69'
+  A: '56'
+  E: '2'
+  DP: '16'
+  PCT: '.984'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Bragan
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '63'
+  PO: '151'
+  A: '143'
+  E: '6'
+  DP: '51'
+  PCT: '.980'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Murray
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '138'
+  PO: '361'
+  A: '299'
+  E: '15'
+  DP: '86'
+  PCT: '.978'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Snyder
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '108'
+  PO: '235'
+  A: '203'
+  E: '10'
+  DP: '63'
+  PCT: '.978'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Damato
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '16'
+  PO: '41'
+  A: '39'
+  E: '2'
+  DP: '13'
+  PCT: '.976'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Stallcup
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '10'
+  PO: '41'
+  A: '36'
+  E: '2'
+  DP: '13'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Phillips
+  nameFirst: H.
+  nameClub1: Houston
+  Pos: 2B
+  G: '161'
+  PO: '463'
+  A: '442'
+  E: '23'
+  DP: '116'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Schwegman
+  nameClub1: San Antonio
+  Pos: 2B
+  G: '78'
+  PO: '161'
+  A: '156'
+  E: '8'
+  DP: '36'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hollis
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '147'
+  PO: '434'
+  A: '362'
+  E: '22'
+  DP: '109'
+  PCT: '.973'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lynch
+  nameClub1: Oklahoma City
+  nameClub2: Tulsa
+  Pos: 2B
+  G: '56'
+  PO: '132'
+  A: '169'
+  E: '9'
+  DP: '41'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hatton
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '18'
+  PO: '29'
+  A: '39'
+  E: '2'
+  DP: '6'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Fiala
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '33'
+  PO: '70'
+  A: '85'
+  E: '5'
+  DP: '23'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Prentice
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '44'
+  PO: '113'
+  A: '120'
+  E: '8'
+  DP: '39'
+  PCT: '.967'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Spencer
+  nameClub1: Shreveport
+  Pos: 2B
+  G: '154'
+  PO: '412'
+  A: '442'
+  E: '30'
+  DP: '119'
+  PCT: '.966'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hansen
+  nameClub1: Dallas
+  Pos: 2B
+  G: '20'
+  PO: '43'
+  A: '36'
+  E: '3'
+  DP: '7'
+  PCT: '.965'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Herbert
+  nameClub1: Dallas
+  Pos: 2B
+  G: '53'
+  PO: '164'
+  A: '159'
+  E: '12'
+  DP: '36'
+  PCT: '.964'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hartsfield
+  nameClub1: Fort Worth
+  Pos: 2B
+  G: '79'
+  PO: '195'
+  A: '184'
+  E: '11'
+  DP: '44'
+  PCT: '.962'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kitsos
+  nameClub1: Beaumont
+  Pos: 2B
+  G: '13'
+  PO: '32'
+  A: '30'
+  E: '3'
+  DP: '8'
+  PCT: '.954'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Viskozki
+  nameClub1: Oklahoma City
+  Pos: 2B
+  G: '22'
+  PO: '28'
+  A: '36'
+  E: '4'
+  DP: '12'
+  PCT: '.941'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Taylor
+  nameClub1: Tulsa
+  Pos: 2B
+  G: '15'
+  PO: '30'
+  A: '36'
+  E: '6'
+  DP: '19'
+  PCT: '.917'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Schwegman
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '11'
+  PO: '13'
+  A: '19'
+  E: '1'
+  DP: '4'
+  PCT: '.970'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cleverly
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '15'
+  PO: '11'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Macko
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '33'
+  PO: '39'
+  A: '81'
+  E: '4'
+  DP: '10'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Damato
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '60'
+  PO: '57'
+  A: '143'
+  E: '7'
+  DP: '10'
+  PCT: '.966'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Ackeret
+  nameClub1: Shreveport
+  Pos: 3B
+  G: '157'
+  PO: '153'
+  A: '395'
+  E: '25'
+  DP: '45'
+  PCT: '.956'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Szekely
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '16'
+  PO: '16'
+  A: '26'
+  E: '2'
+  DP: '5'
+  PCT: '.955'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Herbert
+  nameClub1: Dallas
+  Pos: 3B
+  G: '17'
+  PO: '17'
+  A: '22'
+  E: '2'
+  DP: '3'
+  PCT: '.951'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gallardo
+  nameClub1: Dallas
+  Pos: 3B
+  G: '28'
+  PO: '50'
+  A: '62'
+  E: '6'
+  DP: '13'
+  PCT: '.949'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Clarkson
+  nameClub1: Beaumont
+  nameClub2: Dallas
+  Pos: 3B
+  G: '72'
+  PO: '71'
+  A: '137'
+  E: '12'
+  DP: '11'
+  PCT: '.945'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marchio
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '61'
+  PO: '60'
+  A: '85'
+  E: '9'
+  DP: '7'
+  PCT: '.942'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cross
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '31'
+  PO: '30'
+  A: '49'
+  E: '5'
+  DP: '1'
+  PCT: '.940'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Jacobs
+  nameClub1: San Antonio
+  Pos: 3B
+  G: '153'
+  PO: '177'
+  A: '239'
+  E: '29'
+  DP: '25'
+  PCT: '.935'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Fiala
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '10'
+  PO: '7'
+  A: '21'
+  E: '2'
+  DP: '5'
+  PCT: '.933'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '66'
+  PO: '60'
+  A: '155'
+  E: '16'
+  DP: '13'
+  PCT: '.931'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Boyer
+  nameClub1: Houston
+  Pos: 3B
+  G: '156'
+  PO: '145'
+  A: '333'
+  E: '39'
+  DP: '30'
+  PCT: '.925'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lynch
+  nameClub1: Oklahoma City
+  nameClub2: Tulsa
+  Pos: 3B
+  G: '62'
+  PO: '57'
+  A: '113'
+  E: '15'
+  DP: '18'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tornay
+  nameClub1: Dallas
+  Pos: 3B
+  G: '49'
+  PO: '41'
+  A: '128'
+  E: '15'
+  DP: '19'
+  PCT: '.918'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Bragan
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '14'
+  PO: '10'
+  A: '23'
+  E: '3'
+  DP: '2'
+  PCT: '.917'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hatton
+  nameClub1: Tulsa
+  Pos: 3B
+  G: '39'
+  PO: '30'
+  A: '78'
+  E: '10'
+  DP: '12'
+  PCT: '.915'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kazak
+  nameClub1: Beaumont
+  Pos: 3B
+  G: '151'
+  PO: '163'
+  A: '223'
+  E: '36'
+  DP: '37'
+  PCT: '.915'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Ozark
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '48'
+  PO: '46'
+  A: '77'
+  E: '12'
+  DP: '11'
+  PCT: '.911'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Leap
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '20'
+  PO: '19'
+  A: '51'
+  E: '7'
+  DP: '3'
+  PCT: '.909'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Beeler
+  nameClub1: Dallas
+  Pos: 3B
+  G: '10'
+  PO: '8'
+  A: '21'
+  E: '3'
+  DP: '2'
+  PCT: '.906'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lindsey
+  nameClub1: Fort Worth
+  Pos: 3B
+  G: '18'
+  PO: '18'
+  A: '26'
+  E: '5'
+  DP: '3'
+  PCT: '.898'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Tulsa
+  nameClub2: Beaumont
+  Pos: 3B
+  G: '13'
+  PO: '17'
+  A: '24'
+  E: '6'
+  DP: '2'
+  PCT: '.872'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Viskozki
+  nameClub1: Oklahoma City
+  Pos: 3B
+  G: '13'
+  PO: '1'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tornay
+  nameClub1: Dallas
+  Pos: SS
+  G: '25'
+  PO: '40'
+  A: '71'
+  E: '2'
+  DP: '18'
+  PCT: '.982'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lind
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '17'
+  PO: '23'
+  A: '33'
+  E: '1'
+  DP: '6'
+  PCT: '.982'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kitsos
+  nameClub1: Beaumont
+  Pos: SS
+  G: '34'
+  PO: '55'
+  A: '92'
+  E: '4'
+  DP: '10'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Stringer
+  nameClub1: Dallas
+  Pos: SS
+  G: '140'
+  PO: '254'
+  A: '424'
+  E: '28'
+  DP: '62'
+  PCT: '.960'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Clarkson
+  nameClub1: Beaumont
+  nameClub2: Dallas
+  Pos: SS
+  G: '77'
+  PO: '116'
+  A: '223'
+  E: '18'
+  DP: '31'
+  PCT: '.949'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Korcheck
+  nameClub1: Fort Worth
+  Pos: SS
+  G: '156'
+  PO: '295'
+  A: '451'
+  E: '42'
+  DP: '99'
+  PCT: '.947'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Viskozki
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '60'
+  PO: '100'
+  A: '158'
+  E: '15'
+  DP: '32'
+  PCT: '.945'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Stallcup
+  nameClub1: Tulsa
+  Pos: SS
+  G: '25'
+  PO: '25'
+  A: '58'
+  E: '5'
+  DP: '16'
+  PCT: '.943'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Blasingame
+  nameClub1: Houston
+  Pos: SS
+  G: '140'
+  PO: '284'
+  A: '414'
+  E: '43'
+  DP: '89'
+  PCT: '.942'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McAlister
+  nameClub1: Houston
+  Pos: SS
+  G: '22'
+  PO: '35'
+  A: '78'
+  E: '7'
+  DP: '20'
+  PCT: '.942'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Jasinski
+  nameClub1: Tulsa
+  Pos: SS
+  G: '138'
+  PO: '240'
+  A: '463'
+  E: '45'
+  DP: '87'
+  PCT: '.940'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hunt
+  nameClub1: Shreveport
+  Pos: SS
+  G: '21'
+  PO: '38'
+  A: '67'
+  E: '7'
+  DP: '9'
+  PCT: '.937'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hanta
+  nameClub1: Beaumont
+  Pos: SS
+  G: '38'
+  PO: '42'
+  A: '105'
+  E: '11'
+  DP: '20'
+  PCT: '.930'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Quintana
+  nameClub1: San Antonio
+  Pos: SS
+  G: '147'
+  PO: '272'
+  A: '396'
+  E: '52'
+  DP: '82'
+  PCT: '.928'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Koppe
+  nameClub1: Shreveport
+  Pos: SS
+  G: '146'
+  PO: '266'
+  A: '531'
+  E: '63'
+  DP: '100'
+  PCT: '.927'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Damato
+  nameClub1: Oklahoma City
+  Pos: SS
+  G: '77'
+  PO: '108'
+  A: '253'
+  E: '30'
+  DP: '44'
+  PCT: '.923'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lynch
+  nameClub1: Oklahoma City
+  nameClub2: Tulsa
+  Pos: SS
+  G: '19'
+  PO: '25'
+  A: '49'
+  E: '7'
+  DP: '10'
+  PCT: '.914'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Schwegman
+  nameClub1: San Antonio
+  Pos: SS
+  G: '18'
+  PO: '30'
+  A: '42'
+  E: '7'
+  DP: '11'
+  PCT: '.911'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hall
+  nameClub1: Beaumont
+  Pos: SS
+  G: '15'
+  PO: '16'
+  A: '20'
+  E: '7'
+  DP: '5'
+  PCT: '.837'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Schramka
+  nameClub1: Beaumont
+  throws: L
+  Pos: LF
+  G: '16'
+  PO: '41'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marolewski
+  nameClub1: Houston
+  Pos: LF
+  G: '13'
+  PO: '25'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Senerchia
+  nameClub1: Houston
+  Pos: LF
+  G: '17'
+  PO: '19'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hollmig
+  nameClub1: San Antonio
+  Pos: LF
+  G: '12'
+  PO: '30'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McGaha
+  nameClub1: Shreveport
+  Pos: LF
+  G: '10'
+  PO: '10'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kwak
+  nameClub1: San Antonio
+  throws: L
+  Pos: LF
+  G: '38'
+  PO: '69'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.987'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Joyner
+  nameClub1: Shreveport
+  Pos: LF
+  G: '123'
+  PO: '240'
+  A: '10'
+  E: '4'
+  DP: '1'
+  PCT: '.984'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Rac
+  nameClub1: Houston
+  Pos: LF
+  G: '38'
+  PO: '57'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.984'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '29'
+  PO: '53'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Watts
+  nameClub1: Dallas
+  Pos: LF
+  G: '24'
+  PO: '53'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marquis
+  nameClub1: Beaumont
+  throws: L
+  Pos: LF
+  G: '22'
+  PO: '45'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.980'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Durham
+  nameClub1: San Antonio
+  Pos: LF
+  G: '115'
+  PO: '222'
+  A: '9'
+  E: '6'
+  DP: '4'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gorbous
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '59'
+  PO: '108'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Van Eman
+  nameClub1: Shreveport
+  Pos: LF
+  G: '45'
+  PO: '65'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Moore
+  nameClub1: Dallas
+  Pos: LF
+  G: '88'
+  PO: '192'
+  A: '12'
+  E: '6'
+  DP: '0'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Coleman
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '64'
+  PO: '119'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Boles
+  nameClub1: Oklahoma City
+  Pos: LF
+  G: '130'
+  PO: '268'
+  A: '8'
+  E: '9'
+  DP: '2'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marasco
+  nameClub1: Fort Worth
+  Pos: LF
+  G: '44'
+  PO: '87'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.967'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lutz
+  nameClub1: Tulsa
+  Pos: LF
+  G: '44'
+  PO: '76'
+  A: '5'
+  E: '3'
+  DP: '3'
+  PCT: '.964'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McAlister
+  nameClub1: Houston
+  Pos: LF
+  G: '34'
+  PO: '50'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.964'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hall
+  nameClub1: Beaumont
+  Pos: LF
+  G: '92'
+  PO: '200'
+  A: '14'
+  E: '9'
+  DP: '0'
+  PCT: '.960'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Szekely
+  nameClub1: Tulsa
+  Pos: LF
+  G: '106'
+  PO: '202'
+  A: '9'
+  E: '9'
+  DP: '0'
+  PCT: '.959'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Mapes
+  nameClub1: Tulsa
+  Pos: LF
+  G: '16'
+  PO: '20'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Beeler
+  nameClub1: Dallas
+  Pos: LF
+  G: '14'
+  PO: '17'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Moreci
+  nameClub1: Houston
+  throws: L
+  Pos: LF
+  G: '40'
+  PO: '55'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.948'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Miggins
+  nameClub1: Houston
+  Pos: LF
+  G: '34'
+  PO: '51'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.947'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Garrison
+  nameClub1: Beaumont
+  Pos: LF
+  G: '18'
+  PO: '13'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Tulsa
+  nameClub2: Beaumont
+  Pos: LF
+  G: '10'
+  PO: '18'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Basso
+  nameClub1: Dallas
+  Pos: LF
+  G: '36'
+  PO: '38'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.872'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Beeler
+  nameClub1: Dallas
+  Pos: RF
+  G: '57'
+  PO: '62'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cucchiarini
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '10'
+  PO: '11'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cross
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '43'
+  PO: '19'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Edwards
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: RF
+  G: '16'
+  PO: '12'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Bolger
+  nameClub1: Tulsa
+  Pos: RF
+  G: '12'
+  PO: '15'
+  A: '4'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marolewski
+  nameClub1: Houston
+  Pos: RF
+  G: '18'
+  PO: '28'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Derry
+  nameClub1: San Antonio
+  Pos: RF
+  G: '10'
+  PO: '7'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Joffe
+  nameClub1: Beaumont
+  Pos: RF
+  G: '12'
+  PO: '13'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McGaha
+  nameClub1: Shreveport
+  Pos: RF
+  G: '18'
+  PO: '20'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lutz
+  nameClub1: Tulsa
+  Pos: RF
+  G: '76'
+  PO: '124'
+  A: '9'
+  E: '2'
+  DP: '1'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Brown
+  nameClub1: Dallas
+  nameClub2: Houston
+  Pos: RF
+  G: '140'
+  PO: '205'
+  A: '11'
+  E: '4'
+  DP: '1'
+  PCT: '.982'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hall
+  nameClub1: Beaumont
+  Pos: RF
+  G: '23'
+  PO: '40'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.977'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Coleman
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '56'
+  PO: '115'
+  A: '6'
+  E: '3'
+  DP: '2'
+  PCT: '.976'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Weaver
+  nameClub1: Fort Worth
+  throws: L
+  Pos: RF
+  G: '41'
+  PO: '64'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.973'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gorbous
+  nameClub1: Fort Worth
+  Pos: RF
+  G: '60'
+  PO: '100'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Oertel
+  nameClub1: San Antonio
+  Pos: RF
+  G: '154'
+  PO: '248'
+  A: '15'
+  E: '8'
+  DP: '4'
+  PCT: '.970'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marquis
+  nameClub1: Beaumont
+  throws: L
+  Pos: RF
+  G: '69'
+  PO: '121'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Heslet
+  nameClub1: Shreveport
+  Pos: RF
+  G: '135'
+  PO: '198'
+  A: '13'
+  E: '7'
+  DP: '2'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tappe
+  nameClub1: Tulsa
+  Pos: RF
+  G: '71'
+  PO: '113'
+  A: '6'
+  E: '4'
+  DP: '2'
+  PCT: '.967'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cunningham
+  nameClub1: Beaumont
+  Pos: RF
+  G: '14'
+  PO: '21'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Van Eman
+  nameClub1: Shreveport
+  Pos: RF
+  G: '20'
+  PO: '17'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Burns
+  nameClub1: Oklahoma City
+  Pos: RF
+  G: '147'
+  PO: '196'
+  A: '12'
+  E: '11'
+  DP: '3'
+  PCT: '.950'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lavigne
+  nameClub1: Beaumont
+  throws: L
+  Pos: RF
+  G: '22'
+  PO: '17'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Garrison
+  nameClub1: Beaumont
+  Pos: RF
+  G: '28'
+  PO: '26'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tellinger
+  nameClub1: Houston
+  Pos: RF
+  G: '76'
+  PO: '94'
+  A: '3'
+  E: '7'
+  DP: '0'
+  PCT: '.933'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Senerchia
+  nameClub1: Houston
+  Pos: RF
+  G: '22'
+  PO: '30'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kwak
+  nameClub1: San Antonio
+  throws: L
+  Pos: CF
+  G: '24'
+  PO: '50'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Szekely
+  nameClub1: Tulsa
+  Pos: CF
+  G: '25'
+  PO: '50'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Phillips
+  nameFirst: E.
+  nameClub1: Houston
+  Pos: CF
+  G: '24'
+  PO: '53'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hall
+  nameClub1: Beaumont
+  Pos: CF
+  G: '12'
+  PO: '9'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cunningham
+  nameClub1: Beaumont
+  Pos: CF
+  G: '25'
+  PO: '58'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Neufeldt
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '149'
+  PO: '433'
+  A: '20'
+  E: '3'
+  DP: '5'
+  PCT: '.993'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Durham
+  nameClub1: San Antonio
+  Pos: CF
+  G: '49'
+  PO: '128'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Felix
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '149'
+  PO: '346'
+  A: '10'
+  E: '6'
+  DP: '5'
+  PCT: '.983'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Barr
+  nameClub1: Shreveport
+  Pos: CF
+  G: '123'
+  PO: '256'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lerchen
+  nameClub1: Houston
+  Pos: CF
+  G: '112'
+  PO: '280'
+  A: '3'
+  E: '6'
+  DP: '1'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Joyner
+  nameClub1: Shreveport
+  Pos: CF
+  G: '44'
+  PO: '92'
+  A: '3'
+  E: '2'
+  DP: '2'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Moore
+  nameClub1: Dallas
+  Pos: CF
+  G: '64'
+  PO: '178'
+  A: '3'
+  E: '5'
+  DP: '0'
+  PCT: '.973'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Pisoni
+  nameClub1: San Antonio
+  Pos: CF
+  G: '99'
+  PO: '255'
+  A: '13'
+  E: '8'
+  DP: '1'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Knoblauch
+  nameClub1: Dallas
+  nameClub2: Beaumont
+  throws: L
+  Pos: CF
+  G: '145'
+  PO: '351'
+  A: '14'
+  E: '11'
+  DP: '5'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Joffe
+  nameClub1: Beaumont
+  Pos: CF
+  G: '14'
+  PO: '33'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Van Noy
+  nameClub1: Oklahoma City
+  Pos: CF
+  G: '15'
+  PO: '28'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Bolger
+  nameClub1: Tulsa
+  Pos: CF
+  G: '136'
+  PO: '333'
+  A: '10'
+  E: '11'
+  DP: '2'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Donovan
+  nameClub1: Houston
+  Pos: CF
+  G: '13'
+  PO: '27'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.967'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gorbous
+  nameClub1: Fort Worth
+  Pos: CF
+  G: '18'
+  PO: '39'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.952'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Basso
+  nameClub1: Dallas
+  Pos: CF
+  G: '26'
+  PO: '65'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.942'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Marquis
+  nameClub1: Beaumont
+  throws: L
+  Pos: CF
+  G: '51'
+  PO: '106'
+  A: '1'
+  E: '9'
+  DP: '0'
+  PCT: '.922'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Casey
+  nameClub1: Dallas
+  Pos: C
+  G: '12'
+  PO: '58'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PB: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Shreveport
+  Pos: C
+  G: '74'
+  PO: '311'
+  A: '40'
+  E: '4'
+  DP: '5'
+  PB: '4'
+  PCT: '.989'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tomkinson
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '103'
+  PO: '438'
+  A: '41'
+  E: '6'
+  DP: '7'
+  PB: '5'
+  PCT: '.988'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Ronning
+  nameClub1: Fort Worth
+  Pos: C
+  G: '60'
+  PO: '324'
+  A: '35'
+  E: '5'
+  DP: '5'
+  PB: '3'
+  PCT: '.986'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Yelen
+  nameClub1: Fort Worth
+  Pos: C
+  G: '62'
+  PO: '368'
+  A: '15'
+  E: '6'
+  DP: '6'
+  PB: '3'
+  PCT: '.986'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Staples
+  nameClub1: Fort Worth
+  Pos: C
+  G: '51'
+  PO: '236'
+  A: '30'
+  E: '4'
+  DP: '4'
+  PB: '1'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Masterson
+  nameClub1: San Antonio
+  Pos: C
+  G: '77'
+  PO: '408'
+  A: '27'
+  E: '7'
+  DP: '9'
+  PB: '7'
+  PCT: '.984'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Rand
+  nameClub1: Houston
+  Pos: C
+  G: '99'
+  PO: '509'
+  A: '46'
+  E: '10'
+  DP: '2'
+  PB: '5'
+  PCT: '.982'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kinaman
+  nameClub1: Tulsa
+  Pos: C
+  G: '75'
+  PO: '332'
+  A: '29'
+  E: '7'
+  DP: '11'
+  PB: '5'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Jones
+  nameClub1: Shreveport
+  Pos: C
+  G: '85'
+  PO: '386'
+  A: '36'
+  E: '8'
+  DP: '6'
+  PB: '3'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Fanning
+  nameClub1: Beaumont
+  Pos: C
+  G: '86'
+  PO: '483'
+  A: '52'
+  E: '11'
+  DP: '6'
+  PB: '3'
+  PCT: '.980'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hopkins
+  nameClub1: San Antonio
+  Pos: C
+  G: '105'
+  PO: '575'
+  A: '63'
+  E: '16'
+  DP: '9'
+  PB: '5'
+  PCT: '.976'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Smith
+  nameClub1: Houston
+  Pos: C
+  G: '75'
+  PO: '451'
+  A: '43'
+  E: '12'
+  DP: '9'
+  PB: '0'
+  PCT: '.976'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Baich
+  nameClub1: Dallas
+  nameClub2: Tulsa
+  Pos: C
+  G: '94'
+  PO: '476'
+  A: '64'
+  E: '14'
+  DP: '8'
+  PB: '8'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cash
+  nameClub1: Oklahoma City
+  Pos: C
+  G: '82'
+  PO: '353'
+  A: '36'
+  E: '10'
+  DP: '7'
+  PB: '11'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Dallas
+  Pos: C
+  G: '44'
+  PO: '234'
+  A: '25'
+  E: '7'
+  DP: '4'
+  PB: '2'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Curnan
+  nameClub1: Beaumont
+  Pos: C
+  G: '19'
+  PO: '68'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PB: '0'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Fiscalini
+  nameClub1: Beaumont
+  nameClub2: Dallas
+  Pos: C
+  G: '104'
+  PO: '480'
+  A: '51'
+  E: '16'
+  DP: '7'
+  PB: '10'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Brucker
+  nameClub1: Tulsa
+  Pos: C
+  G: '56'
+  PO: '214'
+  A: '27'
+  E: '9'
+  DP: '4'
+  PB: '2'
+  PCT: '.964'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Nichols
+  nameClub1: Shreveport
+  Pos: C
+  G: '26'
+  PO: '115'
+  A: '14'
+  E: '5'
+  DP: '2'
+  PB: '2'
+  PCT: '.963'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Riddle
+  nameClub1: Dallas
+  Pos: C
+  G: '10'
+  PO: '42'
+  A: '5'
+  E: '5'
+  DP: '0'
+  PB: '2'
+  PCT: '.904'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tiefenauer
+  nameClub1: Houston
+  Pos: P
+  G: '52'
+  PO: '5'
+  A: '27'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gibson
+  nameClub1: Dallas
+  Pos: P
+  G: '49'
+  PO: '1'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hoffmeister
+  nameClub1: Beaumont
+  Pos: P
+  G: '47'
+  PO: '6'
+  A: '25'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Cardey
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '45'
+  PO: '5'
+  A: '22'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Olsen
+  nameClub1: Oklahoma City
+  throws: L
+  Pos: P
+  G: '42'
+  PO: '2'
+  A: '13'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Acker
+  nameClub1: Tulsa
+  Pos: P
+  G: '32'
+  PO: '3'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Papai
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '30'
+  PO: '8'
+  A: '57'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Wilson
+  nameClub1: San Antonio
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '8'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tremel
+  nameClub1: Shreveport
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Mills
+  nameClub1: Fort Worth
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Upton
+  nameClub1: Dallas
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Bagwell
+  nameClub1: Dallas
+  Pos: P
+  G: '19'
+  PO: '0'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Aldredge
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kennedy
+  nameClub1: Beaumont
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Epperly
+  nameClub1: San Antonio
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McDuffie
+  nameClub1: Dallas
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Franks
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: King
+  nameClub1: Tulsa
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Arroyo
+  nameClub1: Houston
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lanier
+  nameClub1: Beaumont
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Milankovich
+  nameClub1: Dallas
+  Pos: P
+  G: '13'
+  PO: '7'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: VerCrouse
+  nameClub1: Beaumont
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Stanek
+  nameClub1: Fort Worth
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Reeder
+  nameClub1: Houston
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kuncl
+  nameClub1: Beaumont
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: White
+  nameClub1: Shreveport
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Wild
+  nameClub1: Shreveport
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Schmidt
+  nameClub1: Houston
+  Pos: P
+  G: '43'
+  PO: '14'
+  A: '43'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Clark
+  nameFirst: M.
+  nameClub1: Houston
+  nameClub2: Beaumont
+  Pos: P
+  G: '34'
+  PO: '16'
+  A: '42'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McNeilance
+  nameClub1: Tulsa
+  Pos: P
+  G: '33'
+  PO: '9'
+  A: '38'
+  E: '1'
+  DP: '4'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lemish
+  nameClub1: Fort Worth
+  Pos: P
+  G: '40'
+  PO: '7'
+  A: '36'
+  E: '1'
+  DP: '1'
+  PCT: '.977'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Beringer
+  nameClub1: Fort Worth
+  Pos: P
+  G: '34'
+  PO: '13'
+  A: '25'
+  E: '1'
+  DP: '1'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Smith
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '13'
+  A: '24'
+  E: '1'
+  DP: '2'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: McLeland
+  nameClub1: Dallas
+  nameClub2: Oklahoma City
+  Pos: P
+  G: '33'
+  PO: '11'
+  A: '25'
+  E: '1'
+  DP: '3'
+  PCT: '.973'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Anderson
+  nameClub1: Dallas
+  nameClub2: Beaumont
+  Pos: P
+  G: '43'
+  PO: '5'
+  A: '31'
+  E: '1'
+  DP: '2'
+  PCT: '.973'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Kotrany
+  nameClub1: Dallas
+  Pos: P
+  G: '17'
+  PO: '8'
+  A: '26'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Taylor
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '40'
+  PO: '9'
+  A: '23'
+  E: '1'
+  DP: '5'
+  PCT: '.970'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Held
+  nameClub1: San Antonio
+  Pos: P
+  G: '41'
+  PO: '5'
+  A: '26'
+  E: '1'
+  DP: '1'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Andre
+  nameClub1: Shreveport
+  Pos: P
+  G: '35'
+  PO: '15'
+  A: '46'
+  E: '2'
+  DP: '2'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Duren
+  nameClub1: San Antonio
+  Pos: P
+  G: '38'
+  PO: '9'
+  A: '21'
+  E: '1'
+  DP: '4'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Murszewski
+  nameClub1: Tulsa
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '23'
+  E: '1'
+  DP: '2'
+  PCT: '.967'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Atkins
+  nameClub1: Shreveport
+  Pos: P
+  G: '30'
+  PO: '15'
+  A: '39'
+  E: '2'
+  DP: '4'
+  PCT: '.964'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Jancse
+  nameClub1: San Antonio
+  Pos: P
+  G: '46'
+  PO: '4'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PCT: '.963'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Paynich
+  nameClub1: Fort Worth
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '41'
+  E: '2'
+  DP: '2'
+  PCT: '.962'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Jacobs
+  nameClub1: Shreveport
+  Pos: P
+  G: '32'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Atkins
+  nameClub1: Houston
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Pilgram
+  nameClub1: San Antonio
+  Pos: P
+  G: '37'
+  PO: '1'
+  A: '22'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Groth
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '32'
+  E: '2'
+  DP: '3'
+  PCT: '.956'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Condrick
+  nameClub1: Houston
+  Pos: P
+  G: '36'
+  PO: '9'
+  A: '34'
+  E: '2'
+  DP: '5'
+  PCT: '.956'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Martin
+  nameClub1: Shreveport
+  Pos: P
+  G: '44'
+  PO: '4'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Locke
+  nameClub1: San Antonio
+  Pos: P
+  G: '41'
+  PO: '3'
+  A: '17'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Piercey
+  nameClub1: Shreveport
+  throws: L
+  Pos: P
+  G: '45'
+  PO: '4'
+  A: '15'
+  E: '1'
+  DP: '2'
+  PCT: '.950'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Contreras
+  nameClub1: Dallas
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '29'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Amor
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '41'
+  PO: '11'
+  A: '64'
+  E: '4'
+  DP: '2'
+  PCT: '.949'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Muffett
+  nameClub1: Shreveport
+  Pos: P
+  G: '34'
+  PO: '10'
+  A: '27'
+  E: '2'
+  DP: '5'
+  PCT: '.949'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Fracchia
+  nameClub1: Tulsa
+  Pos: P
+  G: '31'
+  PO: '5'
+  A: '31'
+  E: '2'
+  DP: '0'
+  PCT: '.947'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Waters
+  nameClub1: Fort Worth
+  Pos: P
+  G: '43'
+  PO: '5'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.944'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Perkins
+  nameClub1: San Antonio
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Butler
+  nameClub1: Fort Worth
+  Pos: P
+  G: '37'
+  PO: '12'
+  A: '20'
+  E: '2'
+  DP: '0'
+  PCT: '.941'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Atchley
+  nameClub1: Houston
+  Pos: P
+  G: '42'
+  PO: '4'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Patrick
+  nameClub1: Houston
+  Pos: P
+  G: '42'
+  PO: '12'
+  A: '16'
+  E: '2'
+  DP: '3'
+  PCT: '.933'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Bokelmann
+  nameClub1: Tulsa
+  Pos: P
+  G: '61'
+  PO: '6'
+  A: '35'
+  E: '3'
+  DP: '2'
+  PCT: '.932'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Stryska
+  nameClub1: Dallas
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '10'
+  E: '1'
+  DP: '2'
+  PCT: '.929'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Spooner
+  nameClub1: Fort Worth
+  throws: L
+  Pos: P
+  G: '42'
+  PO: '12'
+  A: '27'
+  E: '3'
+  DP: '2'
+  PCT: '.929'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Mickens
+  nameClub1: Fort Worth
+  Pos: P
+  G: '22'
+  PO: '3'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.929'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Sooter
+  nameClub1: Houston
+  Pos: P
+  G: '32'
+  PO: '15'
+  A: '48'
+  E: '2'
+  DP: '5'
+  PCT: '.929'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Stewart
+  nameClub1: Tulsa
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '17'
+  E: '2'
+  DP: '2'
+  PCT: '.923'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Brosnan
+  nameClub1: Beaumont
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Murff
+  nameClub1: Dallas
+  Pos: P
+  G: '31'
+  PO: '23'
+  A: '58'
+  E: '7'
+  DP: '2'
+  PCT: '.920'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Zick
+  nameClub1: Beaumont
+  Pos: P
+  G: '18'
+  PO: '15'
+  A: '19'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Scantlebury
+  nameClub1: Dallas
+  throws: L
+  Pos: P
+  G: '41'
+  PO: '17'
+  A: '60'
+  E: '7'
+  DP: '1'
+  PCT: '.917'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Peters
+  nameClub1: Tulsa
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.917'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Eyrich
+  nameClub1: Beaumont
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Camp
+  nameClub1: Tulsa
+  Pos: P
+  G: '38'
+  PO: '14'
+  A: '34'
+  E: '5'
+  DP: '4'
+  PCT: '.906'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tugerson
+  nameClub1: Dallas
+  Pos: P
+  G: '32'
+  PO: '13'
+  A: '25'
+  E: '4'
+  DP: '2'
+  PCT: '.905'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Long
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.905'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Hillman
+  nameClub1: Beaumont
+  Pos: P
+  G: '36'
+  PO: '15'
+  A: '23'
+  E: '4'
+  DP: '0'
+  PCT: '.905'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Tarabilda
+  nameClub1: Beaumont
+  Pos: P
+  G: '48'
+  PO: '11'
+  A: '40'
+  E: '6'
+  DP: '3'
+  PCT: '.893'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Willis
+  nameClub1: Shreveport
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '21'
+  E: '3'
+  DP: '3'
+  PCT: '.893'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Herrera
+  nameClub1: San Antonio
+  Pos: P
+  G: '35'
+  PO: '3'
+  A: '36'
+  E: '5'
+  DP: '4'
+  PCT: '.886'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Fisher
+  nameClub1: Tulsa
+  Pos: P
+  G: '26'
+  PO: '2'
+  A: '21'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Smith
+  nameClub1: Beaumont
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Irizarry
+  nameClub1: Tulsa
+  Pos: P
+  G: '26'
+  PO: '4'
+  A: '9'
+  E: '2'
+  DP: '2'
+  PCT: '.867'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Gosney
+  nameClub1: San Antonio
+  Pos: P
+  G: '15'
+  PO: '0'
+  A: '13'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Lade
+  nameClub1: Shreveport
+  Pos: P
+  G: '19'
+  PO: '2'
+  A: '11'
+  E: '2'
+  DP: '1'
+  PCT: '.867'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Thomas
+  nameClub1: Fort Worth
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '12'
+  E: '3'
+  DP: '2'
+  PCT: '.857'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Harrison
+  nameClub1: San Antonio
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '11'
+  E: '3'
+  DP: '0'
+  PCT: '.800'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Stathos
+  nameClub1: Houston
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '17'
+  E: '5'
+  DP: '2'
+  PCT: '.783'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Williams
+  nameClub1: Oklahoma City
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.667'
+- year: '1954'
+  nameLeague: Texas League
+  nameLast: Speck
+  nameClub1: Beaumont
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.250'

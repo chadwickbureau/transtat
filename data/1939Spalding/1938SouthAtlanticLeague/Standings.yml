@@ -1,0 +1,132 @@
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular
+  W: '81'
+  L: '60'
+  T: '1'
+  PCT: '.574'
+  RANK: '1'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '1'
+  PCT: '.570'
+  RANK: '2'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '1'
+  PCT: '.529'
+  RANK: '3'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '3'
+  PCT: '.529'
+  RANK: '4'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular
+  W: '70'
+  L: '69'
+  T: '5'
+  PCT: '.504'
+  RANK: '5'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular
+  W: '70'
+  L: '70'
+  T: '1'
+  PCT: '.500'
+  RANK: '6'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Spartanburg
+  phase: regular
+  W: '54'
+  L: '82'
+  T: '1'
+  PCT: '.397'
+  RANK: '7'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Greenville
+  phase: regular
+  W: '53'
+  L: '83'
+  T: '2'
+  PCT: '.390'
+  RANK: '8'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: quarterfinal
+  W: '1'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: quarterfinal
+  W: '0'
+  L: '1'
+  RANK: '2'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

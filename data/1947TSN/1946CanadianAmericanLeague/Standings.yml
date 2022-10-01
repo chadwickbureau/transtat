@@ -1,0 +1,116 @@
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Three Rivers
+  phase: regular
+  W: '72'
+  L: '49'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  phase: regular
+  W: '69'
+  L: '47'
+  T: '2'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  phase: regular
+  W: '72'
+  L: '52'
+  T: '0'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  phase: regular
+  W: '68'
+  L: '54'
+  T: '0'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Amsterdam
+  phase: regular
+  W: '61'
+  L: '58'
+  T: '1'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville-Johnstown
+  phase: regular
+  W: '53'
+  L: '67'
+  T: '1'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Schenectady
+  phase: regular
+  W: '45'
+  L: '75'
+  T: '1'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Quebec
+  phase: regular
+  W: '41'
+  L: '79'
+  T: '1'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Three Rivers
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Oneonta
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Three Rivers
+  phase: final
+  W: '4'
+  L: '1'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Canadian-American League
+  nameClub: Pittsfield
+  phase: final
+  W: '1'
+  L: '4'
+  T: '0'
+  RANK: '2'

@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Eugene
+  Wenatchee: '16'
+  Yakima: '13'
+  Salem: '13'
+  Lewiston: '16'
+  Tri-City: '19'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Wenatchee
+  Eugene: '12'
+  Yakima: '16'
+  Salem: '17'
+  Lewiston: '17'
+  Tri-City: '15'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Yakima
+  Eugene: '11'
+  Wenatchee: '11'
+  Salem: '15'
+  Lewiston: '15'
+  Tri-City: '17'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Salem
+  Eugene: '15'
+  Wenatchee: '9'
+  Yakima: '14'
+  Lewiston: '17'
+  Tri-City: '14'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Lewiston
+  Eugene: '12'
+  Wenatchee: '10'
+  Yakima: '13'
+  Salem: '9'
+  Tri-City: '14'
+- year: '1957'
+  nameLeague: Northwest League
+  nameClub: Tri-City
+  Eugene: '8'
+  Wenatchee: '13'
+  Yakima: '10'
+  Salem: '13'
+  Lewiston: '13'

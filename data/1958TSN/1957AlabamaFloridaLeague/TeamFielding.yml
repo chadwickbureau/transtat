@@ -1,0 +1,66 @@
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  G: '120'
+  DP: '81'
+  PB: '17'
+  PO: '3092'
+  A: '1203'
+  E: '217'
+  PCT: '.952'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  G: '120'
+  DP: '77'
+  PB: '29'
+  PO: '3151'
+  A: '1198'
+  E: '244'
+  PCT: '.947'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Montgomery
+  G: '120'
+  DP: '99'
+  PB: '23'
+  PO: '3096'
+  A: '1158'
+  E: '243'
+  PCT: '.946'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  G: '120'
+  DP: '85'
+  PB: '23'
+  PO: '3068'
+  A: '1076'
+  E: '245'
+  PCT: '.944'
+  TP: '0'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Selma
+  G: '120'
+  DP: '77'
+  PB: '29'
+  PO: '3055'
+  A: '1114'
+  E: '245'
+  PCT: '.944'
+  TP: '1'
+- year: '1957'
+  nameLeague: Alabama-Florida League
+  nameClub: Pensacola
+  G: '120'
+  DP: '101'
+  PB: '26'
+  PO: '3158'
+  A: '1219'
+  E: '279'
+  PCT: '.940'
+  TP: '0'

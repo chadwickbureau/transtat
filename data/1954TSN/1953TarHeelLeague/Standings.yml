@@ -1,0 +1,134 @@
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Marion
+  phase: regular
+  W: '74'
+  L: '35'
+  T: '0'
+  PCT: '.679'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Rutherford County
+  phase: regular
+  W: '72'
+  L: '40'
+  T: '1'
+  PCT: '.643'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Shelby
+  phase: regular
+  W: '60'
+  L: '49'
+  T: '1'
+  PCT: '.550'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Lexington
+  phase: regular
+  W: '59'
+  L: '54'
+  T: '1'
+  PCT: '.522'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Mooresville
+  phase: regular
+  W: '58'
+  L: '55'
+  T: '0'
+  PCT: '.513'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Lincolnton/Statesville
+  phase: regular
+  W: '47'
+  L: '64'
+  T: '0'
+  PCT: '.423'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Hickory
+  phase: regular
+  W: '46'
+  L: '66'
+  T: '2'
+  PCT: '.411'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Salisbury
+  phase: regular
+  W: '44'
+  L: '67'
+  T: '3'
+  PCT: '.396'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: High Point-Thomasville
+  phase: regular
+  W: '13'
+  L: '28'
+  T: '0'
+  PCT: '.317'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Statesville
+  phase: regular
+  W: '13'
+  L: '28'
+  T: '0'
+  PCT: '.317'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Marion
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Shelby
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Lexington
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Rutherford County
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Lexington
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Tar Heel League
+  nameClub: Marion
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

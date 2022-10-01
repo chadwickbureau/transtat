@@ -1,0 +1,117 @@
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: regular
+  W: '81'
+  L: '54'
+  T: '0'
+  PCT: '.600'
+  RANK: '1'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: regular
+  W: '79'
+  L: '53'
+  T: '0'
+  PCT: '.598'
+  RANK: '2'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: regular
+  W: '71'
+  L: '63'
+  T: '0'
+  PCT: '.530'
+  RANK: '3'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: regular
+  W: '65'
+  L: '70'
+  T: '0'
+  PCT: '.481'
+  RANK: '4'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: regular
+  W: '62'
+  L: '74'
+  T: '0'
+  PCT: '.456'
+  RANK: '5'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Plainview
+  phase: regular
+  W: '60'
+  L: '73'
+  T: '0'
+  PCT: '.451'
+  RANK: '6'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: regular
+  W: '58'
+  L: '75'
+  T: '0'
+  PCT: '.436'
+  RANK: '7'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  phase: regular
+  W: '36'
+  L: '50'
+  T: '0'
+  PCT: '.419'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

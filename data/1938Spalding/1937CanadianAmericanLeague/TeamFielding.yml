@@ -1,0 +1,88 @@
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Gloversville
+  G: '111'
+  PO: '2718'
+  A: '1189'
+  E: '180'
+  TC: '4087'
+  DP: '195'
+  PCT: '.956'
+  TP: '0'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Perth-Cornwall
+  G: '108'
+  PO: '2762'
+  A: '1112'
+  E: '192'
+  TC: '4066'
+  DP: '205'
+  PCT: '.953'
+  TP: '0'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Oswego
+  G: '108'
+  PO: '2752'
+  A: '1062'
+  E: '201'
+  TC: '4015'
+  DP: '189'
+  PCT: '.950'
+  TP: '0'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Ottawa
+  G: '110'
+  PO: '2379'
+  A: '1138'
+  E: '194'
+  TC: '3711'
+  DP: '115'
+  PCT: '.948'
+  TP: '0'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Smiths Falls
+  G: '106'
+  PO: '2568'
+  A: '1150'
+  E: '209'
+  TC: '3927'
+  DP: '224'
+  PCT: '.947'
+  TP: '0'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Ogdensburg
+  G: '105'
+  PO: '2705'
+  A: '1095'
+  E: '256'
+  TC: '4056'
+  DP: '169'
+  PCT: '.936'
+  TP: '0'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Brockville
+  G: '100'
+  PO: '2597'
+  A: '1193'
+  E: '256'
+  TC: '4046'
+  DP: '186'
+  PCT: '.936'
+  TP: '0'
+- year: '1937'
+  nameLeague: Canadian-American League
+  nameClub: Rome
+  G: '102'
+  PO: '2534'
+  A: '1150'
+  E: '232'
+  TC: '4016'
+  DP: '182'
+  PCT: '.917'
+  TP: '0'

@@ -1,0 +1,112 @@
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Corning
+  phase: regular
+  W: '77'
+  L: '47'
+  T: '0'
+  PCT: '.621'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: regular
+  W: '78'
+  L: '48'
+  T: '0'
+  PCT: '.619'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: regular
+  W: '69'
+  L: '56'
+  T: '0'
+  PCT: '.552'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: regular
+  W: '65'
+  L: '60'
+  T: '0'
+  PCT: '.520'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  phase: regular
+  W: '61'
+  L: '65'
+  T: '0'
+  PCT: '.484'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  phase: regular
+  W: '61'
+  L: '65'
+  T: '0'
+  PCT: '.484'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  phase: regular
+  W: '46'
+  L: '80'
+  T: '0'
+  PCT: '.365'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Erie
+  phase: regular
+  W: '45'
+  L: '81'
+  T: '0'
+  PCT: '.357'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Corning
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Corning
+  phase: final
+  W: '4'
+  L: '1'
+- year: '1954'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  phase: final
+  W: '1'
+  L: '4'

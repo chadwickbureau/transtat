@@ -1,0 +1,54 @@
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  G: '117'
+  AB: '4041'
+  R: '568'
+  H: '1056'
+  HR: '52'
+  AVG: '.261'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  G: '116'
+  AB: '3989'
+  R: '537'
+  H: '1041'
+  HR: '31'
+  AVG: '.261'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  G: '121'
+  AB: '4155'
+  R: '627'
+  H: '1082'
+  HR: '28'
+  AVG: '.260'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  G: '120'
+  AB: '4008'
+  R: '522'
+  H: '1007'
+  HR: '38'
+  AVG: '.251'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  G: '120'
+  AB: '4020'
+  R: '524'
+  H: '986'
+  HR: '21'
+  AVG: '.245'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  G: '118'
+  AB: '3977'
+  R: '483'
+  H: '970'
+  HR: '23'
+  AVG: '.244'

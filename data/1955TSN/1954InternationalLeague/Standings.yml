@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: regular
+  W: '97'
+  L: '57'
+  T: '2'
+  PCT: '.630'
+  RANK: '1'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: regular
+  W: '88'
+  L: '66'
+  T: '1'
+  PCT: '.571'
+  RANK: '2'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: regular
+  W: '86'
+  L: '68'
+  T: '0'
+  PCT: '.558'
+  RANK: '3'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: regular
+  W: '79'
+  L: '76'
+  T: '1'
+  PCT: '.510'
+  RANK: '4'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Havana
+  phase: regular
+  W: '78'
+  L: '77'
+  T: '2'
+  PCT: '.503'
+  RANK: '5'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Buffalo
+  phase: regular
+  W: '71'
+  L: '83'
+  T: '1'
+  PCT: '.461'
+  RANK: '6'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Richmond
+  phase: regular
+  W: '60'
+  L: '94'
+  T: '1'
+  PCT: '.390'
+  RANK: '7'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Ottawa
+  phase: regular
+  W: '58'
+  L: '96'
+  T: '2'
+  PCT: '.377'
+  RANK: '8'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Toronto
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Rochester
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Syracuse
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1954'
+  nameLeague: International League
+  nameClub: Montreal
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

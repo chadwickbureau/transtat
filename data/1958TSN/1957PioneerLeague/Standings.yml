@@ -1,0 +1,230 @@
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular/first
+  W: '30'
+  L: '21'
+  T: '0'
+  PCT: '.650'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/first
+  W: '39'
+  L: '23'
+  T: '0'
+  PCT: '.629'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular/first
+  W: '38'
+  L: '23'
+  T: '0'
+  PCT: '.623'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/first
+  W: '29'
+  L: '33'
+  T: '1'
+  PCT: '.468'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/first
+  W: '29'
+  L: '33'
+  T: '0'
+  PCT: '.468'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Missoula
+  phase: regular/first
+  W: '26'
+  L: '35'
+  T: '1'
+  PCT: '.426'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular/first
+  W: '25'
+  L: '35'
+  T: '2'
+  PCT: '.417'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular/first
+  W: '20'
+  L: '42'
+  T: '0'
+  PCT: '.323'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular/second
+  W: '41'
+  L: '24'
+  T: '0'
+  PCT: '.631'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular/second
+  W: '20'
+  L: '24'
+  T: '0'
+  PCT: '.625'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Missoula
+  phase: regular/second
+  W: '36'
+  L: '29'
+  T: '0'
+  PCT: '.554'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/second
+  W: '35'
+  L: '29'
+  T: '0'
+  PCT: '.547'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/second
+  W: '34'
+  L: '30'
+  T: '1'
+  PCT: '.534'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/second
+  W: '27'
+  L: '37'
+  T: '1'
+  PCT: '.422'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular/second
+  W: '23'
+  L: '42'
+  T: '0'
+  PCT: '.354'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular/second
+  W: '22'
+  L: '43'
+  T: '0'
+  PCT: '.338'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: regular
+  W: '79'
+  L: '47'
+  T: '0'
+  PCT: '.627'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular
+  W: '73'
+  L: '53'
+  T: '1'
+  PCT: '.579'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular
+  W: '64'
+  L: '62'
+  T: '0'
+  PCT: '.508'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Missoula
+  phase: regular
+  W: '62'
+  L: '64'
+  T: '1'
+  PCT: '.492'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular
+  W: '61'
+  L: '64'
+  T: '0'
+  PCT: '.488'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Magic Valley
+  phase: regular
+  W: '60'
+  L: '66'
+  T: '0'
+  PCT: '.476'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular
+  W: '56'
+  L: '70'
+  T: '2'
+  PCT: '.444'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  phase: regular
+  W: '48'
+  L: '77'
+  T: '2'
+  PCT: '.384'
+  RANK: '8'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

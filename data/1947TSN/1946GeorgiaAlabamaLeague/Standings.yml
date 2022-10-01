@@ -1,0 +1,100 @@
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Carrollton
+  phase: regular
+  W: '75'
+  L: '55'
+  T: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: regular
+  W: '72'
+  L: '58'
+  T: '1'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Tallassee
+  phase: regular
+  W: '71'
+  L: '59'
+  T: '0'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Newnan
+  phase: regular
+  W: '68'
+  L: '62'
+  T: '1'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: LaGrange
+  phase: regular
+  W: '59'
+  L: '71'
+  T: '1'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Opelika
+  phase: regular
+  W: '45'
+  L: '85'
+  T: '2'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Tallassee
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Carrollton
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Newnan
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  T: '0'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Tallassee
+  phase: final
+  W: '3'
+  L: '2'
+  T: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Georgia-Alabama League
+  nameClub: Newnan
+  phase: final
+  W: '2'
+  L: '3'
+  T: '0'
+  RANK: '2'

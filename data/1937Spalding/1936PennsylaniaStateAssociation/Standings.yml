@@ -1,0 +1,110 @@
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Jeannette
+  phase: regular/first
+  W: '33'
+  L: '21'
+  PCT: '.611'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Greensburg
+  phase: regular/first
+  W: '31'
+  L: '24'
+  PCT: '.563'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Charleroi
+  phase: regular/first
+  W: '29'
+  L: '35'
+  PCT: '.537'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Butler
+  phase: regular/first
+  W: '28'
+  L: '27'
+  PCT: '.509'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: McKeesport
+  phase: regular/first
+  W: '22'
+  L: '33'
+  PCT: '.400'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Monessen
+  phase: regular/first
+  W: '21'
+  L: '34'
+  PCT: '.382'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Greensburg
+  phase: regular/second
+  W: '33'
+  L: '20'
+  PCT: '.623'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Jeannette
+  phase: regular/second
+  W: '32'
+  L: '23'
+  PCT: '.582'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Butler
+  phase: regular/second
+  W: '30'
+  L: '25'
+  PCT: '.545'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Monessen
+  phase: regular/second
+  W: '29'
+  L: '25'
+  PCT: '.537'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: McKeesport
+  phase: regular/second
+  W: '22'
+  L: '32'
+  PCT: '.407'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Charleroi
+  phase: regular/second
+  W: '16'
+  L: '37'
+  PCT: '.302'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Jeannette
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Pennsylvania State Association
+  nameClub: Greensburg
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

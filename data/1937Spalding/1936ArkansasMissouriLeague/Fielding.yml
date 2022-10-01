@@ -1,0 +1,835 @@
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Rock
+  nameClub1: Bentonville
+  Pos: 1B
+  G: '96'
+  PO: '886'
+  A: '37'
+  E: '10'
+  DP: '40'
+  PCT: '.990'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Stapleton
+  nameClub1: Rogers
+  Pos: 1B
+  G: '36'
+  PO: '320'
+  A: '13'
+  E: '3'
+  DP: '21'
+  PCT: '.990'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Fugit
+  nameClub1: Fayetteville
+  Pos: 1B
+  G: '94'
+  PO: '837'
+  A: '43'
+  E: '11'
+  DP: '67'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Arlitt
+  nameClub1: Monett
+  Pos: 1B
+  G: '120'
+  PO: '1051'
+  A: '57'
+  E: '14'
+  DP: '72'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: O'Connell
+  nameClub1: Rogers
+  Pos: 1B
+  G: '81'
+  PO: '787'
+  A: '38'
+  E: '11'
+  DP: '49'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Walton
+  nameClub1: Cassville
+  Pos: 1B
+  G: '119'
+  PO: '1119'
+  A: '51'
+  E: '19'
+  DP: '45'
+  PCT: '.985'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Villipique
+  nameClub1: Bentonville
+  Pos: 1B
+  G: '16'
+  PO: '123'
+  A: '2'
+  E: '2'
+  DP: '8'
+  PCT: '.983'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bohl
+  nameClub1: Fayetteville
+  Pos: 1B
+  G: '26'
+  PO: '260'
+  A: '6'
+  E: '5'
+  DP: '11'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Robinson
+  nameClub1: Siloam Springs
+  Pos: 1B
+  G: '116'
+  PO: '1065'
+  A: '75'
+  E: '23'
+  DP: '69'
+  PCT: '.978'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Nicely
+  nameClub1: Siloam Springs
+  Pos: 2B
+  G: '78'
+  PO: '214'
+  A: '206'
+  E: '15'
+  DP: '32'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Cranford
+  nameClub1: Monett
+  Pos: 2B
+  G: '115'
+  PO: '342'
+  A: '296'
+  E: '28'
+  DP: '58'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Klier
+  nameClub1: Cassville
+  Pos: 2B
+  G: '76'
+  PO: '154'
+  A: '180'
+  E: '19'
+  DP: '20'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Davis
+  nameFirst: J.
+  nameClub1: Rogers
+  Pos: 2B
+  G: '114'
+  PO: '301'
+  A: '309'
+  E: '35'
+  DP: '62'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: LoKatos
+  nameClub1: Bentonville
+  Pos: 2B
+  G: '103'
+  PO: '225'
+  A: '264'
+  E: '31'
+  DP: '36'
+  PCT: '.940'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Wilson
+  nameClub1: Fayetteville
+  Pos: 2B
+  G: '115'
+  PO: '283'
+  A: '293'
+  E: '41'
+  DP: '66'
+  PCT: '.934'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Neighbors
+  nameFirst: R.
+  nameClub1: Siloam Springs
+  Pos: 2B
+  G: '45'
+  PO: '115'
+  A: '105'
+  E: '17'
+  DP: '19'
+  PCT: '.928'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Wolverton
+  nameClub1: Cassville
+  Pos: 2B
+  G: '38'
+  PO: '90'
+  A: '119'
+  E: '18'
+  DP: '9'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bretthauer
+  nameClub1: Monett
+  Pos: 3B
+  G: '20'
+  PO: '20'
+  A: '40'
+  E: '4'
+  DP: '3'
+  PCT: '.937'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Ludwig
+  nameClub1: Siloam Springs
+  Pos: 3B
+  G: '108'
+  PO: '177'
+  A: '293'
+  E: '32'
+  DP: '23'
+  PCT: '.936'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: White
+  nameClub1: Fayetteville
+  Pos: 3B
+  G: '104'
+  PO: '140'
+  A: '232'
+  E: '25'
+  DP: '17'
+  PCT: '.936'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Kingsley
+  nameClub1: Rogers
+  Pos: 3B
+  G: '113'
+  PO: '155'
+  A: '289'
+  E: '33'
+  DP: '25'
+  PCT: '.930'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Watkins
+  nameClub1: Cassville
+  Pos: 3B
+  G: '105'
+  PO: '124'
+  A: '195'
+  E: '26'
+  DP: '14'
+  PCT: '.925'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Diem
+  nameClub1: Bentonville
+  Pos: 3B
+  G: '117'
+  PO: '158'
+  A: '246'
+  E: '35'
+  DP: '15'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Fair
+  nameClub1: Monett
+  Pos: 3B
+  G: '66'
+  PO: '114'
+  A: '117'
+  E: '26'
+  DP: '9'
+  PCT: '.897'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lutz
+  nameClub1: Fayetteville
+  Pos: 3B
+  G: '19'
+  PO: '30'
+  A: '37'
+  E: '8'
+  DP: '1'
+  PCT: '.894'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Jansen
+  nameClub1: Monett
+  Pos: 3B
+  G: '18'
+  PO: '17'
+  A: '33'
+  E: '6'
+  DP: '3'
+  PCT: '.893'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Tonnsen
+  nameClub1: Bentonville
+  Pos: SS
+  G: '118'
+  PO: '193'
+  A: '317'
+  E: '22'
+  DP: '39'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Sams
+  nameClub1: Rogers
+  Pos: SS
+  G: '119'
+  PO: '195'
+  A: '343'
+  E: '43'
+  DP: '54'
+  PCT: '.926'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Ashmore
+  nameClub1: Fayetteville
+  Pos: SS
+  G: '115'
+  PO: '220'
+  A: '312'
+  E: '58'
+  DP: '47'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Jansen
+  nameClub1: Monett
+  Pos: SS
+  G: '34'
+  PO: '77'
+  A: '82'
+  E: '18'
+  DP: '9'
+  PCT: '.898'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lewis
+  nameClub1: Siloam Springs
+  Pos: SS
+  G: '45'
+  PO: '99'
+  A: '114'
+  E: '25'
+  DP: '17'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Hlatky
+  nameClub1: Monett
+  Pos: SS
+  G: '77'
+  PO: '135'
+  A: '199'
+  E: '45'
+  DP: '37'
+  PCT: '.880'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Wolverton
+  nameClub1: Cassville
+  Pos: SS
+  G: '75'
+  PO: '138'
+  A: '202'
+  E: '46'
+  DP: '19'
+  PCT: '.880'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Neighbors
+  nameFirst: R.
+  nameClub1: Siloam Springs
+  Pos: SS
+  G: '73'
+  PO: '142'
+  A: '209'
+  E: '48'
+  DP: '21'
+  PCT: '.880'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Klier
+  nameClub1: Cassville
+  Pos: SS
+  G: '41'
+  PO: '68'
+  A: '135'
+  E: '30'
+  DP: '8'
+  PCT: '.870'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bouyer
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '38'
+  PO: '81'
+  A: '7'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Honea
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '116'
+  PO: '265'
+  A: '8'
+  E: '5'
+  DP: '4'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Fair
+  nameClub1: Monett
+  Pos: OF
+  G: '40'
+  PO: '67'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Gansauer
+  nameClub1: Cassville
+  Pos: OF
+  G: '21'
+  PO: '40'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.977'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Villipique
+  nameClub1: Bentonville
+  Pos: OF
+  G: '103'
+  PO: '220'
+  A: '19'
+  E: '6'
+  DP: '5'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lewis
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '68'
+  PO: '143'
+  A: '15'
+  E: '4'
+  DP: '4'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Roberts
+  nameClub1: Monett
+  nameClub2: Cassville
+  Pos: OF
+  G: '27'
+  PO: '38'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Engelskind
+  nameClub1: Cassville
+  Pos: OF
+  G: '104'
+  PO: '148'
+  A: '11'
+  E: '4'
+  DP: '1'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Payne
+  nameClub1: Rogers
+  Pos: OF
+  G: '22'
+  PO: '35'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Young
+  nameClub1: Cassville
+  Pos: OF
+  G: '58'
+  PO: '100'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.972'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Kurkoski
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '15'
+  PO: '26'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Raper
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '23'
+  PO: '27'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: McCarty
+  nameClub1: Cassville
+  Pos: OF
+  G: '103'
+  PO: '205'
+  A: '19'
+  E: '8'
+  DP: '2'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Boyd
+  nameClub1: Rogers
+  Pos: OF
+  G: '43'
+  PO: '50'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Lutz
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '91'
+  PO: '149'
+  A: '9'
+  E: '6'
+  DP: '1'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bailey
+  nameClub1: Fayetteville
+  Pos: OF
+  G: '40'
+  PO: '50'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.962'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Tucker
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '113'
+  PO: '209'
+  A: '14'
+  E: '9'
+  DP: '3'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Evans
+  nameClub1: Monett
+  Pos: OF
+  G: '118'
+  PO: '280'
+  A: '26'
+  E: '13'
+  DP: '8'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Duff
+  nameClub1: Rogers
+  nameClub2: Bentonville
+  Pos: OF
+  G: '15'
+  PO: '23'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Tone
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '117'
+  PO: '282'
+  A: '15'
+  E: '13'
+  DP: '3'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Sinay
+  nameClub1: Siloam Springs
+  Pos: OF
+  G: '18'
+  PO: '42'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Hodge
+  nameClub1: Bentonville
+  Pos: OF
+  G: '114'
+  PO: '187'
+  A: '7'
+  E: '9'
+  DP: '2'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Turner
+  nameClub1: Monett
+  Pos: OF
+  G: '47'
+  PO: '115'
+  A: '7'
+  E: '6'
+  DP: '1'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Carolin
+  nameClub1: Rogers
+  Pos: OF
+  G: '21'
+  PO: '51'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Negri
+  nameClub1: Fayetteville
+  nameClub2: Rogers
+  Pos: OF
+  G: '98'
+  PO: '173'
+  A: '14'
+  E: '11'
+  DP: '1'
+  PCT: '.945'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Kelley
+  nameClub1: Bentonville
+  nameClub2: Rogers
+  Pos: OF
+  G: '109'
+  PO: '143'
+  A: '15'
+  E: '10'
+  DP: '4'
+  PCT: '.940'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Stapleton
+  nameClub1: Rogers
+  Pos: OF
+  G: '22'
+  PO: '37'
+  A: '7'
+  E: '3'
+  DP: '2'
+  PCT: '.936'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Ledbetter
+  nameClub1: Rogers
+  nameClub2: Bentonville
+  Pos: OF
+  G: '102'
+  PO: '185'
+  A: '8'
+  E: '15'
+  DP: '2'
+  PCT: '.928'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Brengard
+  nameClub1: Monett
+  Pos: OF
+  G: '59'
+  PO: '121'
+  A: '10'
+  E: '12'
+  DP: '0'
+  PCT: '.915'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Bretthauer
+  nameClub1: Monett
+  Pos: OF
+  G: '87'
+  PO: '149'
+  A: '11'
+  E: '15'
+  DP: '4'
+  PCT: '.913'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Blackman
+  nameClub1: Monett
+  Pos: C
+  G: '39'
+  PO: '175'
+  A: '33'
+  E: '3'
+  DP: '4'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Duff
+  nameClub1: Bentonville
+  Pos: C
+  G: '36'
+  PO: '255'
+  A: '24'
+  E: '4'
+  DP: '8'
+  PCT: '.986'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Gibbs
+  nameClub1: Cassville
+  nameClub2: Rogers
+  nameClub3: Fayetteville
+  Pos: C
+  G: '38'
+  PO: '193'
+  A: '15'
+  E: '4'
+  DP: '6'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Dellasega
+  nameClub1: Cassville
+  Pos: C
+  G: '108'
+  PO: '594'
+  A: '98'
+  E: '15'
+  DP: '18'
+  PCT: '.978'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Hawn
+  nameClub1: Fayetteville
+  Pos: C
+  G: '93'
+  PO: '471'
+  A: '73'
+  E: '13'
+  DP: '13'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Dick
+  nameClub1: Bentonville
+  Pos: C
+  G: '80'
+  PO: '528'
+  A: '44'
+  E: '9'
+  DP: '14'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Kearse
+  nameClub1: Rogers
+  Pos: C
+  G: '86'
+  PO: '424'
+  A: '65'
+  E: '10'
+  DP: '14'
+  PCT: '.972'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Werner
+  nameClub1: Siloam Springs
+  Pos: C
+  G: '100'
+  PO: '501'
+  A: '68'
+  E: '17'
+  DP: '24'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Simmens
+  nameClub1: Monett
+  Pos: C
+  G: '53'
+  PO: '246'
+  A: '49'
+  E: '9'
+  DP: '10'
+  PCT: '.970'
+- year: '1936'
+  nameLeague: Arkansas-Missouri League
+  nameLast: Edwards
+  nameClub1: Monett
+  Pos: C
+  G: '32'
+  PO: '151'
+  A: '24'
+  E: '7'
+  DP: '9'
+  PCT: '.960'

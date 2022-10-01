@@ -1,0 +1,72 @@
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  phase: regular
+  W: '94'
+  L: '45'
+  T: '0'
+  PCT: '.676'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '0'
+  PCT: '.529'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: Vernon
+  phase: regular
+  W: '72'
+  L: '66'
+  T: '0'
+  PCT: '.522'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: San Angelo
+  phase: regular
+  W: '69'
+  L: '68'
+  T: '0'
+  PCT: '.504'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: Odessa
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: Ballinger
+  phase: regular
+  W: '64'
+  L: '76'
+  T: '0'
+  PCT: '.457'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: Sweetwater
+  phase: regular
+  W: '60'
+  L: '79'
+  T: '0'
+  PCT: '.432'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Longhorn League
+  nameClub: Roswell
+  phase: regular
+  W: '57'
+  L: '82'
+  T: '0'
+  PCT: '.410'
+  RANK: '8'

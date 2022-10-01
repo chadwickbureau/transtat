@@ -1,0 +1,891 @@
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Griffin
+  nameClub: Cordele
+  Pos: 1B
+  G: '113'
+  PO: '900'
+  A: '47'
+  E: '10'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Mitchell
+  nameClub: Thomasville
+  Pos: 1B
+  G: '19'
+  PO: '168'
+  A: '13'
+  E: '2'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Grayston
+  nameClub: Americus
+  Pos: 1B
+  G: '116'
+  PO: '1069'
+  A: '59'
+  E: '18'
+  PCT: '.984'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Dotlich
+  nameClub: Tallahassee
+  Pos: 1B
+  G: '121'
+  PO: '1177'
+  A: '53'
+  E: '22'
+  PCT: '.983'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Duberstein
+  nameClub: Moultrie
+  Pos: 1B
+  G: '102'
+  PO: '900'
+  A: '38'
+  E: '17'
+  PCT: '.982'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Johnson
+  nameClub: Albany
+  Pos: 1B
+  G: '113'
+  PO: '1029'
+  A: '52'
+  E: '21'
+  PCT: '.981'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: McNally
+  nameClub: Thomasville
+  Pos: 1B
+  G: '29'
+  PO: '184'
+  A: '3'
+  E: '6'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: McKenzie
+  nameFirst: S.
+  nameClub: Thomasville
+  Pos: 1B
+  G: '27'
+  PO: '210'
+  A: '12'
+  E: '8'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Nee
+  nameClub: Moultrie
+  Pos: 1B
+  G: '19'
+  PO: '120'
+  A: '3'
+  E: '5'
+  PCT: '.961'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Nicholas
+  nameClub: Thomasville
+  Pos: 1B
+  G: '35'
+  PO: '286'
+  A: '10'
+  E: '13'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Bowen
+  nameClub: Albany
+  Pos: 2B
+  G: '62'
+  PO: '178'
+  A: '153'
+  E: '8'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Gillis
+  nameClub: Moultrie
+  Pos: 2B
+  G: '92'
+  PO: '203'
+  A: '241'
+  E: '14'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Pelat
+  nameClub: Tallahassee
+  Pos: 2B
+  G: '121'
+  PO: '312'
+  A: '324'
+  E: '27'
+  PCT: '.959'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Petrella
+  nameClub: Thomasville
+  Pos: 2B
+  G: '55'
+  PO: '153'
+  A: '155'
+  E: '13'
+  PCT: '.959'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Campbell
+  nameClub: Cordele
+  Pos: 2B
+  G: '110'
+  PO: '358'
+  A: '318'
+  E: '39'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Evans
+  nameClub: Americus
+  Pos: 2B
+  G: '55'
+  PO: '97'
+  A: '78'
+  E: '20'
+  PCT: '.897'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Burnett
+  nameClub: Americus
+  Pos: 2B
+  G: '10'
+  PO: '15'
+  A: '27'
+  E: '7'
+  PCT: '.857'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Prince
+  nameClub: Moultrie
+  Pos: 3B
+  G: '42'
+  PO: '44'
+  A: '106'
+  E: '7'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Guinn
+  nameClub: Americus
+  Pos: 3B
+  G: '118'
+  PO: '161'
+  A: '225'
+  E: '23'
+  PCT: '.944'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Leistritz
+  nameClub: Albany
+  Pos: 3B
+  G: '32'
+  PO: '70'
+  A: '95'
+  E: '12'
+  PCT: '.932'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Rice
+  nameClub: Albany
+  Pos: 3B
+  G: '93'
+  PO: '95'
+  A: '163'
+  E: '13'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Waits
+  nameClub: Tallahassee
+  Pos: 3B
+  G: '113'
+  PO: '148'
+  A: '330'
+  E: '42'
+  PCT: '.919'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: DeWeese
+  nameClub: Moultrie
+  Pos: 3B
+  G: '106'
+  PO: '239'
+  A: '4'
+  E: '22'
+  PCT: '.917'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Letchas
+  nameClub: Thomasville
+  Pos: 3B
+  G: '89'
+  PO: '166'
+  A: '209'
+  E: '38'
+  PCT: '.908'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: McFarlane
+  nameClub: Cordele
+  Pos: 3B
+  G: '111'
+  PO: '129'
+  A: '230'
+  E: '42'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Russo
+  nameClub: Thomasville
+  Pos: 3B
+  G: '24'
+  PO: '17'
+  A: '39'
+  E: '8'
+  PCT: '.875'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Quick
+  nameClub: Americus
+  Pos: SS
+  G: '116'
+  PO: '296'
+  A: '319'
+  E: '40'
+  PCT: '.939'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Tierce
+  nameClub: Moultrie
+  Pos: SS
+  G: '107'
+  PO: '174'
+  A: '318'
+  E: '39'
+  PCT: '.926'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Coleman
+  nameClub: Thomasville
+  Pos: SS
+  G: '95'
+  PO: '185'
+  A: '353'
+  E: '46'
+  PCT: '.921'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Blackstock
+  nameClub: Cordele
+  Pos: SS
+  G: '110'
+  PO: '213'
+  A: '377'
+  E: '56'
+  PCT: '.913'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Jumonville
+  nameClub: Cordele
+  Pos: SS
+  G: '17'
+  PO: '18'
+  A: '40'
+  E: '6'
+  PCT: '.906'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Gremp
+  nameClub: Albany
+  Pos: SS
+  G: '60'
+  PO: '99'
+  A: '117'
+  E: '29'
+  PCT: '.905'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Clary
+  nameClub: Americus
+  Pos: SS
+  G: '21'
+  PO: '51'
+  A: '72'
+  E: '13'
+  PCT: '.904'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Rospond
+  nameClub: Tallahassee
+  Pos: SS
+  G: '121'
+  PO: '258'
+  A: '388'
+  E: '75'
+  PCT: '.896'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Pfeifer
+  nameClub: Albany
+  Pos: SS
+  G: '18'
+  PO: '44'
+  A: '58'
+  E: '17'
+  PCT: '.857'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Buddhu
+  nameClub: Thomasville
+  Pos: SS
+  G: '20'
+  PO: '18'
+  A: '43'
+  E: '17'
+  PCT: '.782'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Lindley
+  nameClub: Americus
+  Pos: OF
+  G: '30'
+  PO: '51'
+  A: '6'
+  E: '1'
+  PCT: '.983'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Kracher
+  nameClub: Thomasville
+  Pos: OF
+  G: '45'
+  PO: '117'
+  A: '27'
+  E: '5'
+  PCT: '.982'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: McQuaig
+  nameClub: Moultrie
+  Pos: OF
+  G: '42'
+  PO: '115'
+  A: '5'
+  E: '3'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Ebel
+  nameClub: Tallahassee
+  Pos: OF
+  G: '122'
+  PO: '318'
+  A: '51'
+  E: '13'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Amaral
+  nameClub: Cordele
+  Pos: OF
+  G: '68'
+  PO: '136'
+  A: '5'
+  E: '5'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Hearn
+  nameClub: Thomasville
+  Pos: OF
+  G: '63'
+  PO: '159'
+  A: '14'
+  E: '6'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Marion
+  nameClub: Americus
+  Pos: OF
+  G: '66'
+  PO: '169'
+  A: '12'
+  E: '6'
+  PCT: '.968'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Newcomb
+  nameClub: Tallahassee
+  Pos: OF
+  G: '122'
+  PO: '202'
+  A: '17'
+  E: '9'
+  PCT: '.961'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Bonowitz
+  nameClub: Americus
+  Pos: OF
+  G: '48'
+  PO: '86'
+  A: '6'
+  E: '4'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Annino
+  nameClub: Albany
+  Pos: OF
+  G: '112'
+  PO: '291'
+  A: '12'
+  E: '9'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Corbett
+  nameClub: Thomasville
+  Pos: OF
+  G: '65'
+  PO: '121'
+  A: '10'
+  E: '6'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Falconi
+  nameClub: Cordele
+  Pos: OF
+  G: '44'
+  PO: '81'
+  A: '26'
+  E: '5'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Cole
+  nameClub: Americus
+  Pos: OF
+  G: '117'
+  PO: '232'
+  A: '14'
+  E: '12'
+  PCT: '.954'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Ferrell
+  nameClub: Thomasville
+  Pos: OF
+  G: '112'
+  PO: '248'
+  A: '20'
+  E: '13'
+  PCT: '.954'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Gallegos
+  nameClub: Cordele
+  Pos: OF
+  G: '18'
+  PO: '38'
+  A: '3'
+  E: '2'
+  PCT: '.953'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Thomas
+  nameClub: Moultrie
+  Pos: OF
+  G: '45'
+  PO: '114'
+  A: '6'
+  E: '6'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Murray
+  nameClub: Tallahassee
+  Pos: OF
+  G: '62'
+  PO: '127'
+  A: '11'
+  E: '7'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Feathers
+  nameClub: Americus
+  Pos: OF
+  G: '61'
+  PO: '111'
+  A: '14'
+  E: '7'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Odom
+  nameClub: Cordele
+  Pos: OF
+  G: '115'
+  PO: '295'
+  A: '12'
+  E: '19'
+  PCT: '.942'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Pensky
+  nameClub: Moultrie
+  Pos: OF
+  G: '74'
+  PO: '134'
+  A: '59'
+  E: '13'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Brown
+  nameClub: Thomasville
+  Pos: OF
+  G: '49'
+  PO: '106'
+  A: '3'
+  E: '7'
+  PCT: '.939'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Averette
+  nameClub: Cordele
+  Pos: OF
+  G: '23'
+  PO: '25'
+  A: '5'
+  E: '2'
+  PCT: '.937'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Stroner
+  nameClub: Albany
+  Pos: OF
+  G: '13'
+  PO: '27'
+  A: '2'
+  E: '2'
+  PCT: '.935'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Tice
+  nameClub: Cordele
+  Pos: OF
+  G: '31'
+  PO: '53'
+  A: '1'
+  E: '4'
+  PCT: '.931'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Grimes
+  nameClub: Tallahassee
+  Pos: OF
+  G: '25'
+  PO: '39'
+  A: '1'
+  E: '3'
+  PCT: '.930'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Rosett
+  nameClub: Cordele
+  Pos: OF
+  G: '41'
+  PO: '55'
+  A: '3'
+  E: '5'
+  PCT: '.921'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Whittaker
+  nameClub: Moultrie
+  Pos: OF
+  G: '23'
+  PO: '23'
+  A: '0'
+  E: '2'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Quackenbush
+  nameClub: Cordele
+  Pos: OF
+  G: '13'
+  PO: '31'
+  A: '2'
+  E: '3'
+  PCT: '.917'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Miller
+  nameClub: Albany
+  Pos: OF
+  G: '108'
+  PO: '206'
+  A: '28'
+  E: '22'
+  PCT: '.914'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Embry
+  nameClub: Moultrie
+  Pos: OF
+  G: '21'
+  PO: '40'
+  A: '2'
+  E: '4'
+  PCT: '.913'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Tucker
+  nameClub: Albany
+  Pos: OF
+  G: '15'
+  PO: '26'
+  A: '5'
+  E: '4'
+  PCT: '.886'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Roberts
+  nameClub: Albany
+  Pos: OF
+  G: '17'
+  PO: '20'
+  A: '3'
+  E: '3'
+  PCT: '.884'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Appling
+  nameClub: Moultrie
+  Pos: OF
+  G: '10'
+  PO: '17'
+  A: '5'
+  E: '3'
+  PCT: '.880'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Bradley
+  nameClub: Thomasville
+  Pos: IF
+  G: '57'
+  PO: '122'
+  A: '143'
+  E: '15'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Leamon
+  nameClub: Cordele
+  Pos: IF
+  G: '44'
+  PO: '78'
+  A: '21'
+  E: '6'
+  PCT: '.933'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Quinn
+  nameClub: Americus
+  Pos: IF
+  G: '109'
+  PO: '243'
+  A: '377'
+  E: '61'
+  PCT: '.910'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Kratzer
+  nameClub: Albany
+  Pos: IF
+  G: '113'
+  PO: '326'
+  A: '138'
+  E: '36'
+  PCT: '.901'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Greek
+  nameClub: Albany
+  Pos: IF
+  G: '22'
+  PO: '39'
+  A: '30'
+  E: '11'
+  PCT: '.862'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: West
+  nameClub: Americus
+  Pos: IF
+  G: '89'
+  PO: '117'
+  A: '131'
+  E: '40'
+  PCT: '.861'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Schultz
+  nameClub: Albany
+  Pos: C
+  G: '29'
+  PO: '86'
+  A: '20'
+  E: '1'
+  PCT: '.991'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Berry
+  nameClub: Americus
+  Pos: C
+  G: '47'
+  PO: '209'
+  A: '18'
+  E: '5'
+  PCT: '.978'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Clonts
+  nameClub: Cordele
+  Pos: C
+  G: '26'
+  PO: '136'
+  A: '22'
+  E: '4'
+  PCT: '.977'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Coble
+  nameClub: Moultrie
+  Pos: C
+  G: '91'
+  PO: '353'
+  A: '66'
+  E: '10'
+  PCT: '.976'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Willoughby
+  nameClub: Americus
+  Pos: C
+  G: '84'
+  PO: '340'
+  A: '52'
+  E: '10'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Annunzio
+  nameClub: Thomasville
+  Pos: C
+  G: '55'
+  PO: '233'
+  A: '34'
+  E: '7'
+  PCT: '.974'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Parker
+  nameClub: Americus
+  Pos: C
+  G: '17'
+  PO: '63'
+  A: '9'
+  E: '2'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Taylor
+  nameClub: Cordele
+  Pos: C
+  G: '90'
+  PO: '393'
+  A: '82'
+  E: '15'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Fernandez
+  nameClub: Thomasville
+  Pos: C
+  G: '37'
+  PO: '157'
+  A: '29'
+  E: '6'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Friar
+  nameClub: Tallahassee
+  Pos: C
+  G: '77'
+  PO: '248'
+  A: '32'
+  E: '5'
+  PCT: '.963'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Scheffing
+  nameClub: Albany
+  Pos: C
+  G: '99'
+  PO: '336'
+  A: '57'
+  E: '18'
+  PCT: '.956'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Martin
+  nameClub: Moultrie
+  Pos: C
+  G: '42'
+  PO: '118'
+  A: '16'
+  E: '9'
+  PCT: '.937'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Sidle
+  nameClub: Thomasville
+  Pos: C
+  G: '34'
+  PO: '56'
+  A: '16'
+  E: '5'
+  PCT: '.935'
+- year: '1936'
+  nameLeague: Georgia-Florida League
+  nameLast: Hofferth
+  nameClub: Tallahassee
+  Pos: C
+  G: '102'
+  PO: '303'
+  A: '43'
+  E: '15'
+  PCT: '.931'

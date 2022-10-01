@@ -1,0 +1,100 @@
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Chanute
+  phase: regular
+  W: '68'
+  L: '53'
+  PCT: '.562'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Miami
+  phase: regular
+  W: '69'
+  L: '54'
+  PCT: '.561'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Iola
+  phase: regular
+  W: '63'
+  L: '57'
+  PCT: '.525'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Pittsburg
+  phase: regular
+  W: '61'
+  L: '59'
+  PCT: '.508'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Carthage
+  phase: regular
+  W: '54'
+  L: '66'
+  PCT: '.450'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Bartlesville
+  phase: regular
+  W: '47'
+  L: '73'
+  PCT: '.392'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Iola
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Miami
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Chanute
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Pittsburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Iowa
+  phase: final
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Chanute
+  phase: final
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  RANK: '1'

@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular
+  W: '76'
+  L: '64'
+  T: '2'
+  PCT: '.543'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: regular
+  W: '70'
+  L: '67'
+  T: '1'
+  PCT: '.511'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular
+  W: '69'
+  L: '68'
+  T: '0'
+  PCT: '.504'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular
+  W: '69'
+  L: '68'
+  T: '1'
+  PCT: '.504'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular
+  W: '69'
+  L: '70'
+  T: '1'
+  PCT: '.496'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Omaha
+  phase: regular
+  W: '62'
+  L: '78'
+  T: '1'
+  PCT: '.443'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

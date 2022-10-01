@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: regular
+  W: '75'
+  L: '51'
+  T: '0'
+  PCT: '.595'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Carrollton
+  phase: regular
+  W: '73'
+  L: '53'
+  T: '0'
+  PCT: '.579'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Newnan
+  phase: regular
+  W: '68'
+  L: '58'
+  T: '0'
+  PCT: '.540'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Alexander City
+  phase: regular
+  W: '63'
+  L: '63'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Opelika
+  phase: regular
+  W: '62'
+  L: '64'
+  T: '0'
+  PCT: '.492'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Griffin
+  phase: regular
+  W: '55'
+  L: '71'
+  T: '0'
+  PCT: '.437'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: La Grange
+  phase: regular
+  W: '54'
+  L: '72'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Tallassee
+  phase: regular
+  W: '54'
+  L: '72'
+  T: '0'
+  PCT: '.429'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Newnan
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Carrollton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Alexander City
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Valley
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Georgia-Alabama League
+  nameClub: Carrollton
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

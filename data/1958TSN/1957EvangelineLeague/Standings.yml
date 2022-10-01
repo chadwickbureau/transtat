@@ -1,0 +1,90 @@
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  phase: regular/first
+  W: '36'
+  L: '21'
+  T: '1'
+  PCT: '.632'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  phase: regular/first
+  W: '34'
+  L: '22'
+  T: '0'
+  PCT: '.607'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular/first
+  W: '30'
+  L: '25'
+  T: '1'
+  PCT: '.545'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  phase: regular/first
+  W: '24'
+  L: '34'
+  T: '0'
+  PCT: '.414'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: regular/first
+  W: '24'
+  L: '35'
+  T: '0'
+  PCT: '.407'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: regular/first
+  W: '23'
+  L: '34'
+  T: '0'
+  PCT: '.404'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular/second
+  W: '38'
+  L: '18'
+  T: '1'
+  PCT: '.679'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  phase: regular/second
+  W: '29'
+  L: '25'
+  T: '0'
+  PCT: '.537'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: regular/second
+  W: '22'
+  L: '32'
+  T: '0'
+  PCT: '.407'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  phase: regular/second
+  W: '19'
+  L: '33'
+  T: '1'
+  PCT: '.365'
+  RANK: '4'

@@ -1,0 +1,108 @@
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: regular
+  W: '89'
+  L: '51'
+  T: '1'
+  PCT: '.636'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '83'
+  L: '57'
+  T: '2'
+  PCT: '.593'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: regular
+  W: '76'
+  L: '64'
+  T: '2'
+  PCT: '.543'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '71'
+  L: '69'
+  T: '2'
+  PCT: '.507'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '60'
+  L: '80'
+  T: '4'
+  PCT: '.429'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: regular
+  W: '41'
+  L: '99'
+  T: '3'
+  PCT: '.293'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: final
+  W: '4'
+  L: '2'
+  T: '1'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: final
+  W: '2'
+  L: '4'
+  T: '1'
+  PCT: '.333'
+  RANK: '2'

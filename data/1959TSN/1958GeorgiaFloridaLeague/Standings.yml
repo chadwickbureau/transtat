@@ -1,0 +1,176 @@
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular/first
+  W: '42'
+  L: '21'
+  T: '0'
+  PCT: '.667'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/first
+  W: '42'
+  L: '21'
+  T: '0'
+  PCT: '.667'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Dublin
+  phase: regular/first
+  W: '37'
+  L: '28'
+  T: '0'
+  PCT: '.569'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular/first
+  W: '25'
+  L: '39'
+  T: '0'
+  PCT: '.391'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/first
+  W: '25'
+  L: '39'
+  T: '0'
+  PCT: '.391'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular/first
+  W: '21'
+  L: '44'
+  T: '0'
+  PCT: '.323'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular/second
+  W: '44'
+  L: '20'
+  T: '0'
+  PCT: '.688'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular/second
+  W: '39'
+  L: '25'
+  T: '0'
+  PCT: '.609'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Dublin
+  phase: regular/second
+  W: '35'
+  L: '28'
+  T: '0'
+  PCT: '.556'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular/second
+  W: '33'
+  L: '31'
+  T: '0'
+  PCT: '.516'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular/second
+  W: '26'
+  L: '36'
+  T: '0'
+  PCT: '.419'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular/second
+  W: '13'
+  L: '50'
+  T: '0'
+  PCT: '.206'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '86'
+  L: '41'
+  T: '0'
+  PCT: '.677'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular
+  W: '75'
+  L: '52'
+  T: '0'
+  PCT: '.591'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Dublin
+  phase: regular
+  W: '72'
+  L: '56'
+  T: '0'
+  PCT: '.563'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular
+  W: '64'
+  L: '64'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular
+  W: '47'
+  L: '89'
+  T: '0'
+  PCT: '.370'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '38'
+  L: '89'
+  T: '0'
+  PCT: '.299'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

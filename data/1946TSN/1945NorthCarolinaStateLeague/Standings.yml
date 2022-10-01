@@ -1,0 +1,118 @@
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Hickory
+  phase: regular
+  W: '80'
+  L: '34'
+  T: '3'
+  PCT: '.702'
+  RANK: '1'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: regular
+  W: '69'
+  L: '46'
+  T: '1'
+  PCT: '.600'
+  RANK: '2'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: regular
+  W: '65'
+  L: '46'
+  T: '0'
+  PCT: '.586'
+  RANK: '3'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Salisbury
+  phase: regular
+  W: '59'
+  L: '55'
+  T: '1'
+  PCT: '.518'
+  RANK: '4'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Statesville
+  phase: regular
+  W: '53'
+  L: '58'
+  T: '1'
+  PCT: '.477'
+  RANK: '5'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: regular
+  W: '51'
+  L: '61'
+  T: '0'
+  PCT: '.455'
+  RANK: '6'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Thomasville
+  phase: regular
+  W: '40'
+  L: '72'
+  T: '1'
+  PCT: '.357'
+  RANK: '7'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Concord
+  phase: regular
+  W: '34'
+  L: '79'
+  T: '1'
+  PCT: '.301'
+  RANK: '8'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Hickory
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Salisbury
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1945'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

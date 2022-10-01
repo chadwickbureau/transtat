@@ -1,0 +1,110 @@
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '115'
+  L: '68'
+  PCT: '.628'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '111'
+  L: '72'
+  PCT: '.607'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '95'
+  L: '88'
+  PCT: '.519'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '94'
+  L: '89'
+  PCT: '.514'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '94'
+  L: '92'
+  PCT: '.505'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '78'
+  L: '108'
+  PCT: '.419'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '74'
+  L: '109'
+  PCT: '.404'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '74'
+  L: '109'
+  PCT: '.404'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

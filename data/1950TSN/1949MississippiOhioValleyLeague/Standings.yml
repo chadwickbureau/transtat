@@ -1,0 +1,106 @@
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Centralia
+  phase: regular
+  W: '74'
+  L: '44'
+  T: '0'
+  PCT: '.627'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: West Frankfort
+  phase: regular
+  W: '71'
+  L: '49'
+  T: '1'
+  PCT: '.592'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: regular
+  W: '62'
+  L: '56'
+  T: '1'
+  PCT: '.525'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paducah
+  phase: regular
+  W: '54'
+  L: '65'
+  T: '0'
+  PCT: '.454'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mount Vernon
+  phase: regular
+  W: '53'
+  L: '67'
+  T: '0'
+  PCT: '.442'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Belleville
+  phase: regular
+  W: '43'
+  L: '76'
+  T: '0'
+  PCT: '.361'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Centralia
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paducah
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: West Frankfort
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paducah
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

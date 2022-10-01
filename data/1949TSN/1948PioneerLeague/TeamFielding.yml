@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  G: '127'
+  DP: '124'
+  TP: '0'
+  PB: '21'
+  PO: '3362'
+  A: '1445'
+  E: '173'
+  PCT: '.965'
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  G: '127'
+  DP: '98'
+  TP: '1'
+  PB: '23'
+  PO: '3300'
+  A: '1336'
+  E: '204'
+  PCT: '.958'
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  G: '125'
+  DP: '147'
+  TP: '0'
+  PB: '19'
+  PO: '3277'
+  A: '1453'
+  E: '234'
+  PCT: '.953'
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  G: '126'
+  DP: '125'
+  TP: '0'
+  PB: '27'
+  PO: '3357'
+  A: '1404'
+  E: '252'
+  PCT: '.950'
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  G: '126'
+  DP: '114'
+  TP: '0'
+  PB: '16'
+  PO: '3337'
+  A: '1293'
+  E: '247'
+  PCT: '.949'
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Great Falls
+  G: '126'
+  DP: '124'
+  TP: '0'
+  PB: '29'
+  PO: '3246'
+  A: '1422'
+  E: '268'
+  PCT: '.946'
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Billings
+  G: '125'
+  DP: '82'
+  TP: '0'
+  PB: '19'
+  PO: '3189'
+  A: '1237'
+  E: '260'
+  PCT: '.945'
+- year: '1948'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  G: '126'
+  DP: '116'
+  TP: '1'
+  PB: '34'
+  PO: '3264'
+  A: '1303'
+  E: '270'
+  PCT: '.944'

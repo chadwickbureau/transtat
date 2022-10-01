@@ -1,0 +1,116 @@
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: regular
+  W: '85'
+  L: '48'
+  PCT: '.639'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Anniston
+  phase: regular
+  W: '81'
+  L: '59'
+  PCT: '.579'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Vicksburg
+  phase: regular
+  W: '70'
+  L: '63'
+  PCT: '.526'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  phase: regular
+  W: '66'
+  L: '70'
+  PCT: '.485'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: regular
+  W: '64'
+  L: '71'
+  PCT: '.474'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Gadsden
+  phase: regular
+  W: '60'
+  L: '76'
+  PCT: '.441'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  phase: regular
+  W: '60'
+  L: '77'
+  PCT: '.438'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Meridian
+  phase: regular
+  W: '56'
+  L: '78'
+  PCT: '.418'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Vicksburg
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Anniston
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Anniston
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Southeastern League
+  nameClub: Vicksburg
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

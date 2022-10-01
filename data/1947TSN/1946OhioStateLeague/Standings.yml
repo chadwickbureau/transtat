@@ -1,0 +1,118 @@
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Springfield
+  phase: regular
+  W: '82'
+  L: '57'
+  T: '2'
+  PCT: '.590'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Zanesville
+  phase: regular
+  W: '78'
+  L: '60'
+  T: '1'
+  PCT: '.565'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Richmond
+  phase: regular
+  W: '76'
+  L: '63'
+  T: '1'
+  PCT: '.547'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Newark
+  phase: regular
+  W: '74'
+  L: '65'
+  T: '0'
+  PCT: '.532'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Lima
+  phase: regular
+  W: '67'
+  L: '71'
+  T: '0'
+  PCT: '.486'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Marion
+  phase: regular
+  W: '63'
+  L: '76'
+  T: '0'
+  PCT: '.453'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Dayton
+  phase: regular
+  W: '58'
+  L: '79'
+  T: '3'
+  PCT: '.423'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Middletown
+  phase: regular
+  W: '56'
+  L: '83'
+  T: '1'
+  PCT: '.403'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Zanesville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Richmond
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Springfield
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Newark
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Zanesville
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Ohio State League
+  nameClub: Springfield
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

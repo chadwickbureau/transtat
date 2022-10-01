@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  G: '140'
+  DP: '106'
+  TP: '0'
+  PB: '18'
+  PO: '3668'
+  A: '1502'
+  E: '238'
+  PCT: '.956'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  G: '142'
+  DP: '107'
+  TP: '0'
+  PB: '20'
+  PO: '3753'
+  A: '1544'
+  E: '248'
+  PCT: '.955'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  G: '143'
+  DP: '116'
+  TP: '0'
+  PB: '14'
+  PO: '3762'
+  A: '1660'
+  E: '269'
+  PCT: '.953'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  G: '141'
+  DP: '111'
+  TP: '1'
+  PB: '10'
+  PO: '3663'
+  A: '1504'
+  E: '268'
+  PCT: '.951'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  G: '141'
+  DP: '117'
+  TP: '0'
+  PB: '14'
+  PO: '3672'
+  A: '1552'
+  E: '298'
+  PCT: '.946'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Leaksville
+  G: '140'
+  DP: '98'
+  TP: '0'
+  PB: '13'
+  PO: '3632'
+  A: '1435'
+  E: '314'
+  PCT: '.942'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Durham
+  G: '143'
+  DP: '113'
+  TP: '0'
+  PB: '12'
+  PO: '3686'
+  A: '1509'
+  E: '333'
+  PCT: '.940'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Danville
+  G: '142'
+  DP: '113'
+  TP: '0'
+  PB: '12'
+  PO: '3686'
+  A: '1509'
+  E: '333'
+  PCT: '.940'

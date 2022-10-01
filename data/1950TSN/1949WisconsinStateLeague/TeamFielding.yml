@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Fond du Lac
+  G: '123'
+  DP: '110'
+  PB: '16'
+  PO: '3118'
+  A: '1334'
+  E: '243'
+  PCT: '.948'
+  TP: '0'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Oshkosh
+  G: '123'
+  DP: '98'
+  PB: '25'
+  PO: '3143'
+  A: '1274'
+  E: '253'
+  PCT: '.946'
+  TP: '0'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Wisconsin Rapids
+  G: '123'
+  DP: '120'
+  PB: '27'
+  PO: '3186'
+  A: '1331'
+  E: '262'
+  PCT: '.945'
+  TP: '0'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Green Bay
+  G: '128'
+  DP: '83'
+  PB: '19'
+  PO: '3207'
+  A: '1297'
+  E: '267'
+  PCT: '.944'
+  TP: '1'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Janesville
+  G: '126'
+  DP: '105'
+  PB: '24'
+  PO: '3190'
+  A: '1468'
+  E: '278'
+  PCT: '.943'
+  TP: '1'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Sheboygan
+  G: '124'
+  DP: '117'
+  PB: '14'
+  PO: '3167'
+  A: '1355'
+  E: '279'
+  PCT: '.942'
+  TP: '0'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Appleton
+  G: '126'
+  DP: '106'
+  PB: '41'
+  PO: '3201'
+  A: '1302'
+  E: '306'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Wisconsin State League
+  nameClub: Wausau
+  G: '123'
+  DP: '96'
+  PB: '40'
+  PO: '3092'
+  A: '1363'
+  E: '364'
+  PCT: '.924'
+  TP: '0'

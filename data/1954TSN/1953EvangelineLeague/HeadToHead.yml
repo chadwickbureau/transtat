@@ -1,0 +1,48 @@
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  Thibodaux: '16'
+  Baton Rouge: '16'
+  Alexandria: '16'
+  Lafayette: '17'
+  New Iberia: '19'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  Crowley: '11'
+  Baton Rouge: '13'
+  Alexandria: '18'
+  Lafayette: '14'
+  New Iberia: '15'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  Crowley: '12'
+  Thibodaux: '15'
+  Alexandria: '11'
+  Lafayette: '17'
+  New Iberia: '14'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  Crowley: '11'
+  Thibodaux: '14'
+  Baton Rouge: '9'
+  Alexandria: '17'
+  New Iberia: '17'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  Crowley: '12'
+  Thibodaux: '10'
+  Baton Rouge: '17'
+  Lafayette: '10'
+  New Iberia: '19'
+- year: '1953'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  Crowley: '8'
+  Thibodaux: '12'
+  Baton Rouge: '14'
+  Alexandria: '7'
+  Lafayette: '11'

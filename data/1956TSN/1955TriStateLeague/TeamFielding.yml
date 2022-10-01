@@ -1,0 +1,44 @@
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  G: '116'
+  DP: '111'
+  PB: '13'
+  PO: '2963'
+  A: '1124'
+  E: '173'
+  PCT: '.959'
+  TP: '1'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  G: '118'
+  DP: '128'
+  PB: '12'
+  PO: '3013'
+  A: '1308'
+  E: '191'
+  PCT: '.958'
+  TP: '0'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  G: '116'
+  DP: '83'
+  PB: '14'
+  PO: '2872'
+  A: '1103'
+  E: '188'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  G: '120'
+  DP: '114'
+  PB: '21'
+  PO: '3033'
+  A: '1277'
+  E: '206'
+  PCT: '.954'
+  TP: '0'

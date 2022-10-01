@@ -1,0 +1,2817 @@
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Kunkle
+  nameClub1: Clarksdale
+  G: '11'
+  PO: '838'
+  A: '51'
+  E: '8'
+  DP: '58'
+  PCT: '.991'
+  TP: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Cracchiolo
+  nameClub1: Natchez
+  G: '13'
+  PO: '111'
+  A: '5'
+  E: '1'
+  DP: '7'
+  PCT: '.991'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Benish
+  nameClub1: Helena
+  G: '41'
+  PO: '334'
+  A: '23'
+  E: '4'
+  DP: '26'
+  PCT: '.989'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Acton
+  nameClub1: Greenville
+  G: '70'
+  PO: '589'
+  A: '31'
+  E: '9'
+  DP: '32'
+  PCT: '.986'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Massuch
+  nameClub1: Greenwood
+  G: '50'
+  PO: '436'
+  A: '19'
+  E: '8'
+  DP: '45'
+  PCT: '.983'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Sudol
+  nameClub1: El Dorado
+  G: '134'
+  PO: '1171'
+  A: '67'
+  E: '23'
+  DP: '118'
+  PCT: '.982'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Christy
+  nameClub1: Pine Bluff
+  G: '121'
+  PO: '919'
+  A: '62'
+  E: '22'
+  DP: '67'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Custer
+  nameClub1: Natchez
+  G: '106'
+  PO: '854'
+  A: '51'
+  E: '20'
+  DP: '70'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: McPherson
+  nameClub1: Helena
+  G: '48'
+  PO: '378'
+  A: '29'
+  E: '10'
+  DP: '38'
+  PCT: '.976'
+  TP: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Davis
+  nameClub1: Greenville
+  G: '36'
+  PO: '237'
+  A: '6'
+  E: '6'
+  DP: '14'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Ward
+  nameClub1: Helena
+  G: '34'
+  PO: '332'
+  A: '17'
+  E: '9'
+  DP: '34'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Leib
+  nameClub1: Greenwood
+  G: '89'
+  PO: '633'
+  A: '38'
+  E: '21'
+  DP: '52'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Black
+  nameClub1: Greenville
+  G: '45'
+  PO: '332'
+  A: '22'
+  E: '11'
+  DP: '27'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Harper
+  nameClub1: Clarksdale
+  G: '12'
+  PO: '87'
+  A: '5'
+  E: '3'
+  DP: '10'
+  PCT: '.968'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Mayo
+  nameClub1: Pine Bluff
+  G: '17'
+  PO: '136'
+  A: '3'
+  E: '5'
+  DP: '8'
+  PCT: '.965'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Phalen
+  nameClub1: Hot Springs
+  G: '125'
+  PO: '832'
+  A: '80'
+  E: '34'
+  DP: '87'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Mink
+  nameClub1: Natchez
+  G: '17'
+  PO: '130'
+  A: '5'
+  E: '5'
+  DP: '9'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Solis
+  nameClub1: Hot Springs
+  G: '11'
+  PO: '91'
+  A: '6'
+  E: '5'
+  DP: '14'
+  PCT: '.951'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 1B
+  nameLast: Danna
+  nameClub1: Helena
+  G: '15'
+  PO: '99'
+  A: '6'
+  E: '7'
+  DP: '11'
+  PCT: '.938'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: McNulty
+  nameClub1: Greenwood
+  G: '49'
+  PO: '137'
+  A: '153'
+  E: '10'
+  DP: '35'
+  PCT: '.967'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Perello
+  nameClub1: Clarksdale
+  G: '45'
+  PO: '115'
+  A: '100'
+  E: '8'
+  DP: '17'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Austin
+  nameClub1: Hot Springs
+  G: '61'
+  PO: '186'
+  A: '153'
+  E: '16'
+  DP: '46'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Sprentall
+  nameClub1: Natchez
+  G: '19'
+  PO: '40'
+  A: '41'
+  E: '4'
+  DP: '9'
+  PCT: '.953'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Chiola
+  nameClub1: Helena
+  nameClub2: El Dorado
+  G: '136'
+  PO: '430'
+  A: '390'
+  E: '41'
+  DP: '116'
+  PCT: '.952'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: De Luca
+  nameClub1: Greenville
+  G: '27'
+  PO: '63'
+  A: '76'
+  E: '7'
+  DP: '13'
+  PCT: '.952'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Fallon
+  nameClub1: Greenville
+  G: '84'
+  PO: '215'
+  A: '233'
+  E: '23'
+  DP: '41'
+  PCT: '.951'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Palazzini
+  nameFirst: T.
+  nameClub1: El Dorado
+  nameClub2: Helena
+  G: '78'
+  PO: '211'
+  A: '226'
+  E: '23'
+  DP: '46'
+  PCT: '.950'
+  TP: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Rullo
+  nameClub1: Natchez
+  G: '53'
+  PO: '131'
+  A: '120'
+  E: '14'
+  DP: '21'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Kaelin
+  nameClub1: Hot Springs
+  G: '76'
+  PO: '230'
+  A: '200'
+  E: '26'
+  DP: '43'
+  PCT: '.943'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Ridgeway
+  nameClub1: Clarksdale
+  G: '48'
+  PO: '142'
+  A: '108'
+  E: '16'
+  DP: '22'
+  PCT: '.940'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Salyer
+  nameClub1: Clarksdale
+  G: '11'
+  PO: '28'
+  A: '31'
+  E: '4'
+  DP: '7'
+  PCT: '.937'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Roberts
+  nameClub1: Natchez
+  G: '70'
+  PO: '127'
+  A: '137'
+  E: '18'
+  DP: '30'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Reese
+  nameClub1: Greenville
+  G: '19'
+  PO: '63'
+  A: '52'
+  E: '8'
+  DP: '11'
+  PCT: '.935'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Hall
+  nameClub1: Greenwood
+  G: '33'
+  PO: '101'
+  A: '91'
+  E: '14'
+  DP: '23'
+  PCT: '.932'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Taylor
+  nameClub1: El Dorado
+  G: '32'
+  PO: '84'
+  A: '79'
+  E: '12'
+  DP: '15'
+  PCT: '.931'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Giaratano
+  nameClub1: Pine Bluff
+  G: '138'
+  PO: '376'
+  A: '311'
+  E: '52'
+  DP: '68'
+  PCT: '.930'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Luberto
+  nameClub1: Greenwood
+  G: '58'
+  PO: '170'
+  A: '122'
+  E: '23'
+  DP: '23'
+  PCT: '.927'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Kalamanek
+  nameClub1: Greenwood
+  G: '25'
+  PO: '56'
+  A: '50'
+  E: '11'
+  DP: '13'
+  PCT: '.906'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 2B
+  nameLast: Stringer
+  nameClub1: Clarksdale
+  G: '22'
+  PO: '54'
+  A: '51'
+  E: '13'
+  DP: '10'
+  PCT: '.890'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Morgan
+  nameClub1: El Dorado
+  G: '129'
+  PO: '212'
+  A: '388'
+  E: '33'
+  DP: '75'
+  PCT: '.948'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Rullo
+  nameClub1: Natchez
+  G: '69'
+  PO: '128'
+  A: '181'
+  E: '21'
+  DP: '26'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Studdard
+  nameClub1: Clarksdale
+  G: '16'
+  PO: '22'
+  A: '35'
+  E: '4'
+  DP: '3'
+  PCT: '.934'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Adams
+  nameClub1: Greenville
+  G: '139'
+  PO: '239'
+  A: '415'
+  E: '51'
+  DP: '45'
+  PCT: '.928'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Close
+  nameClub1: Hot Springs
+  G: '122'
+  PO: '210'
+  A: '336'
+  E: '46'
+  DP: '69'
+  PCT: '.922'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Grammas
+  nameClub1: Hot Springs
+  G: '23'
+  PO: '22'
+  A: '61'
+  E: '7'
+  DP: '6'
+  PCT: '.922'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Karpinec
+  nameClub1: Pine Bluff
+  G: '41'
+  PO: '67'
+  A: '103'
+  E: '17'
+  DP: '11'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Jeandron
+  nameClub1: El Dorado
+  nameClub2: Helena
+  G: '90'
+  PO: '159'
+  A: '306'
+  E: '48'
+  DP: '48'
+  PCT: '.906'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Kolofa
+  nameClub1: Pine Bluff
+  G: '94'
+  PO: '119'
+  A: '238'
+  E: '40'
+  DP: '40'
+  PCT: '.899'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Ruzina
+  nameClub1: Natchez
+  G: '55'
+  PO: '95'
+  A: '134'
+  E: '27'
+  DP: '18'
+  PCT: '.895'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Bellamy
+  nameClub1: Natchez
+  G: '14'
+  PO: '18'
+  A: '31'
+  E: '6'
+  DP: '6'
+  PCT: '.891'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Thomas
+  nameClub1: Greenwood
+  G: '137'
+  PO: '243'
+  A: '325'
+  E: '70'
+  DP: '56'
+  PCT: '.890'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Lanzetti
+  nameClub1: Clarksdale
+  G: '70'
+  PO: '123'
+  A: '190'
+  E: '42'
+  DP: '27'
+  PCT: '.882'
+  TP: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Pinocci
+  nameClub1: Clarksdale
+  G: '13'
+  PO: '35'
+  A: '25'
+  E: '8'
+  DP: '3'
+  PCT: '.882'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Armstrong
+  nameClub1: El Dorado
+  nameClub2: Helena
+  G: '22'
+  PO: '40'
+  A: '64'
+  E: '14'
+  DP: '15'
+  PCT: '.881'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Blake
+  nameClub1: Helena
+  G: '16'
+  PO: '35'
+  A: '48'
+  E: '13'
+  DP: '9'
+  PCT: '.865'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Weatherton
+  nameClub1: Helena
+  G: '29'
+  PO: '56'
+  A: '75'
+  E: '23'
+  DP: '11'
+  PCT: '.851'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Stringer
+  nameClub1: Clarksdale
+  G: '12'
+  PO: '16'
+  A: '23'
+  E: '8'
+  DP: '2'
+  PCT: '.830'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: SS
+  nameLast: Bridges
+  nameClub1: Natchez
+  G: '10'
+  PO: '10'
+  A: '20'
+  E: '9'
+  DP: '1'
+  PCT: '.769'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Gabrych
+  nameClub1: Greenville
+  G: '11'
+  PO: '12'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: De Luca
+  nameClub1: Greenville
+  G: '58'
+  PO: '47'
+  A: '111'
+  E: '11'
+  DP: '5'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Solis
+  nameClub1: Hot Springs
+  G: '12'
+  PO: '13'
+  A: '29'
+  E: '3'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Hubbard
+  nameClub1: Clarksdale
+  G: '119'
+  PO: '140'
+  A: '218'
+  E: '26'
+  DP: '22'
+  PCT: '.932'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Palazzini
+  nameFirst: T.
+  nameClub1: El Dorado
+  nameClub2: Helena
+  G: '32'
+  PO: '34'
+  A: '57'
+  E: '7'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Ruzina
+  nameClub1: Natchez
+  G: '86'
+  PO: '108'
+  A: '180'
+  E: '24'
+  DP: '15'
+  PCT: '.923'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Smerek
+  nameClub1: Pine Bluff
+  G: '128'
+  PO: '104'
+  A: '251'
+  E: '31'
+  DP: '14'
+  PCT: '.920'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Armstrong
+  nameClub1: El Dorado
+  nameClub2: Helena
+  G: '97'
+  PO: '144'
+  A: '229'
+  E: '34'
+  DP: '20'
+  PCT: '.916'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Roberts
+  nameClub1: El Dorado
+  G: '43'
+  PO: '44'
+  A: '85'
+  E: '14'
+  DP: '8'
+  PCT: '.902'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: McCluskey
+  nameClub1: Greenwood
+  G: '140'
+  PO: '159'
+  A: '290'
+  E: '50'
+  DP: '27'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: English
+  nameClub1: Pine Bluff
+  G: '12'
+  PO: '11'
+  A: '16'
+  E: '3'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Seawright
+  nameClub1: Greenville
+  G: '19'
+  PO: '3'
+  A: '41'
+  E: '5'
+  DP: '1'
+  PCT: '.898'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Williams
+  nameClub1: Helena
+  G: '45'
+  PO: '43'
+  A: '100'
+  E: '18'
+  DP: '4'
+  PCT: '.888'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Kaelin
+  nameClub1: Hot Springs
+  G: '13'
+  PO: '9'
+  A: '23'
+  E: '4'
+  DP: '0'
+  PCT: '.886'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Fallon
+  nameClub1: Greenville
+  G: '38'
+  PO: '56'
+  A: '67'
+  E: '16'
+  DP: '6'
+  PCT: '.885'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Salvatore
+  nameClub1: Hot Springs
+  G: '10'
+  PO: '10'
+  A: '19'
+  E: '4'
+  DP: '3'
+  PCT: '.879'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Kall
+  nameClub1: Helena
+  G: '17'
+  PO: '20'
+  A: '45'
+  E: '9'
+  DP: '3'
+  PCT: '.878'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Austin
+  nameClub1: Hot Springs
+  G: '71'
+  PO: '85'
+  A: '129'
+  E: '30'
+  DP: '12'
+  PCT: '.877'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Verespy
+  nameClub1: Hot Springs
+  G: '30'
+  PO: '20'
+  A: '36'
+  E: '8'
+  DP: '3'
+  PCT: '.875'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Buck
+  nameClub1: Greenville
+  G: '13'
+  PO: '10'
+  A: '27'
+  E: '6'
+  DP: '2'
+  PCT: '.860'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Collins
+  nameClub1: Natchez
+  G: '51'
+  PO: '44'
+  A: '84'
+  E: '25'
+  DP: '5'
+  PCT: '.837'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: 3B
+  nameLast: Weatherton
+  nameClub1: Helena
+  G: '33'
+  PO: '30'
+  A: '31'
+  E: '17'
+  DP: '5'
+  PCT: '.782'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Dlugokecki
+  nameClub1: Greenville
+  G: '40'
+  PO: '53'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Shumaker
+  nameClub1: Pine Bluff
+  G: '35'
+  PO: '47'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Baker
+  nameClub1: Helena
+  G: '24'
+  PO: '28'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Lybrand
+  nameClub1: Clarksdale
+  G: '18'
+  PO: '21'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Binger
+  nameClub1: Natchez
+  G: '15'
+  PO: '43'
+  A: '3'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: English
+  nameClub1: Pine Bluff
+  G: '15'
+  PO: '5'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Lanzetti
+  nameClub1: Clarksdale
+  G: '13'
+  PO: '15'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Jakes
+  nameClub1: El Dorado
+  G: '114'
+  PO: '269'
+  A: '7'
+  E: '2'
+  DP: '4'
+  PCT: '.993'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Walker
+  nameClub1: Greenwood
+  G: '101'
+  PO: '180'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Pinocci
+  nameClub1: Clarksdale
+  G: '93'
+  PO: '211'
+  A: '9'
+  E: '4'
+  DP: '0'
+  PCT: '.982'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Noble
+  nameClub1: Greenville
+  G: '92'
+  PO: '208'
+  A: '11'
+  E: '4'
+  DP: '4'
+  PCT: '.982'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Hilbert
+  nameClub1: Greenwood
+  G: '99'
+  PO: '190'
+  A: '17'
+  E: '4'
+  DP: '4'
+  PCT: '.981'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Sprentall
+  nameClub1: Natchez
+  G: '53'
+  PO: '90'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Buerger
+  nameClub1: Clarksdale
+  nameClub2: Helena
+  G: '139'
+  PO: '276'
+  A: '13'
+  E: '7'
+  DP: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Grammas
+  nameClub1: Hot Springs
+  G: '34'
+  PO: '76'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Gilbert
+  nameClub1: Natchez
+  G: '126'
+  PO: '304'
+  A: '5'
+  E: '9'
+  DP: '1'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Seawright
+  nameClub1: Greenville
+  G: '106'
+  PO: '153'
+  A: '14'
+  E: '5'
+  DP: '2'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Palko
+  nameClub1: Pine Bluff
+  G: '121'
+  PO: '206'
+  A: '18'
+  E: '7'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Black
+  nameClub1: Greenville
+  G: '87'
+  PO: '185'
+  A: '11'
+  E: '6'
+  DP: '4'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Davis
+  nameClub1: Clarksdale
+  G: '94'
+  PO: '149'
+  A: '13'
+  E: '5'
+  DP: '4'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Studdard
+  nameClub1: Clarksdale
+  G: '25'
+  PO: '30'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Gabos
+  nameClub1: Hot Springs
+  G: '13'
+  PO: '27'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Anderson
+  nameClub1: Hot Springs
+  G: '128'
+  PO: '216'
+  A: '13'
+  E: '8'
+  DP: '4'
+  PCT: '.966'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Raley
+  nameClub1: Helena
+  G: '57'
+  PO: '158'
+  A: '11'
+  E: '6'
+  DP: '3'
+  PCT: '.966'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Mink
+  nameClub1: Natchez
+  G: '51'
+  PO: '85'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Morgan
+  nameClub1: Clarksdale
+  G: '34'
+  PO: '79'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Coss
+  nameClub1: El Dorado
+  G: '72'
+  PO: '138'
+  A: '12'
+  E: '6'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Schmidt
+  nameClub1: Hot Springs
+  G: '48'
+  PO: '99'
+  A: '1'
+  E: '4'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Wiebel
+  nameClub1: Clarksdale
+  G: '19'
+  PO: '46'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Pryor
+  nameClub1: Helena
+  nameClub2: Pine Bluff
+  G: '13'
+  PO: '23'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Conner
+  nameClub1: Clarksdale
+  G: '10'
+  PO: '22'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Cantrell
+  nameClub1: Pine Bluff
+  G: '132'
+  PO: '167'
+  A: '13'
+  E: '8'
+  DP: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Hancock
+  nameClub1: Pine Bluff
+  G: '135'
+  PO: '292'
+  A: '10'
+  E: '15'
+  DP: '1'
+  PCT: '.953'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Chandler
+  nameClub1: Natchez
+  G: '120'
+  PO: '201'
+  A: '8'
+  E: '12'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Solis
+  nameClub1: Hot Springs
+  G: '110'
+  PO: '128'
+  A: '15'
+  E: '8'
+  DP: '4'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Creekmore
+  nameClub1: Hot Springs
+  G: '34'
+  PO: '66'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Hendricks
+  nameClub1: Greenwood
+  G: '139'
+  PO: '181'
+  A: '7'
+  E: '12'
+  DP: '2'
+  PCT: '.940'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: McClure
+  nameClub1: El Dorado
+  G: '12'
+  PO: '14'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: McPherson
+  nameClub1: Helena
+  G: '94'
+  PO: '173'
+  A: '5'
+  E: '13'
+  DP: '2'
+  PCT: '.932'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Collins
+  nameClub1: Natchez
+  G: '55'
+  PO: '68'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Deters
+  nameClub1: Greenville
+  G: '25'
+  PO: '52'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: LeGros
+  nameClub1: Greenwood
+  G: '39'
+  PO: '75'
+  A: '1'
+  E: '6'
+  DP: '0'
+  PCT: '.927'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Petrick
+  nameClub1: El Dorado
+  G: '137'
+  PO: '176'
+  A: '13'
+  E: '15'
+  DP: '4'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Solis
+  nameClub1: Helena
+  G: '58'
+  PO: '153'
+  A: '15'
+  E: '13'
+  DP: '1'
+  PCT: '.928'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Clarke
+  nameClub1: El Dorado
+  G: '61'
+  PO: '125'
+  A: '7'
+  E: '12'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Cichon
+  nameClub1: Greenville
+  G: '50'
+  PO: '78'
+  A: '4'
+  E: '8'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Dahlberg
+  nameClub1: Clarksdale
+  G: '42'
+  PO: '61'
+  A: '4'
+  E: '7'
+  DP: '0'
+  PCT: '.903'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Falappino
+  nameClub1: Greenwood
+  G: '42'
+  PO: '71'
+  A: '8'
+  E: '9'
+  DP: '3'
+  PCT: '.898'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Danna
+  nameClub1: Helena
+  G: '11'
+  PO: '6'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Tierney
+  nameClub1: Hot Springs
+  G: '37'
+  PO: '86'
+  A: '4'
+  E: '11'
+  DP: '1'
+  PCT: '.891'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Italiano
+  nameClub1: Helena
+  G: '33'
+  PO: '31'
+  A: '3'
+  E: '5'
+  DP: '0'
+  PCT: '.872'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Negbin
+  nameClub1: Helena
+  G: '11'
+  PO: '14'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: OF
+  nameLast: Zini
+  nameClub1: Helena
+  nameClub2: Natchez
+  G: '11'
+  PO: '21'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Johnson
+  nameClub1: Clarksdale
+  G: '16'
+  PO: '81'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Lenzi
+  nameClub1: Helena
+  G: '12'
+  PO: '20'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PB: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Chozen
+  nameClub1: Pine Bluff
+  G: '102'
+  PO: '733'
+  A: '57'
+  E: '4'
+  DP: '7'
+  PB: '3'
+  PCT: '.995'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Blumenthal
+  nameClub1: Clarksdale
+  G: '26'
+  PO: '204'
+  A: '20'
+  E: '2'
+  DP: '0'
+  PB: '1'
+  PCT: '.991'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Lybrand
+  nameClub1: Clarksdale
+  G: '42'
+  PO: '234'
+  A: '38'
+  E: '3'
+  DP: '3'
+  PB: '3'
+  PCT: '.989'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Gugala
+  nameClub1: Hot Springs
+  G: '41'
+  PO: '222'
+  A: '30'
+  E: '3'
+  DP: '6'
+  PB: '4'
+  PCT: '.988'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Acton
+  nameClub1: Greenville
+  G: '15'
+  PO: '74'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PB: '1'
+  PCT: '.988'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Wasiluk
+  nameClub1: Hot Springs
+  G: '47'
+  PO: '276'
+  A: '28'
+  E: '4'
+  DP: '6'
+  PB: '2'
+  PCT: '.987'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Bareford
+  nameClub1: Greenwood
+  G: '71'
+  PO: '481'
+  A: '40'
+  E: '8'
+  DP: '6'
+  PB: '5'
+  PCT: '.985'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Davis
+  nameClub1: Clarksdale
+  G: '44'
+  PO: '259'
+  A: '27'
+  E: '5'
+  DP: '5'
+  PB: '7'
+  PCT: '.983'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Shumaker
+  nameClub1: Pine Bluff
+  G: '52'
+  PO: '245'
+  A: '27'
+  E: '5'
+  DP: '2'
+  PB: '1'
+  PCT: '.982'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Webster
+  nameClub1: Natchez
+  G: '43'
+  PO: '211'
+  A: '26'
+  E: '5'
+  DP: '3'
+  PB: '4'
+  PCT: '.979'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Stewart
+  nameClub1: Hot Springs
+  G: '38'
+  PO: '233'
+  A: '35'
+  E: '6'
+  DP: '3'
+  PB: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Pardue
+  nameClub1: El Dorado
+  G: '126'
+  PO: '572'
+  A: '80'
+  E: '17'
+  DP: '10'
+  PB: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Zini
+  nameClub1: Helena
+  nameClub2: Natchez
+  G: '82'
+  PO: '410'
+  A: '62'
+  E: '12'
+  DP: '8'
+  PB: '7'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Humphrey
+  nameClub1: Clarksdale
+  G: '18'
+  PO: '111'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PB: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Gruffey
+  nameClub1: Natchez
+  G: '47'
+  PO: '166'
+  A: '19'
+  E: '5'
+  DP: '3'
+  PB: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Koppa
+  nameClub1: Greenville
+  G: '114'
+  PO: '639'
+  A: '89'
+  E: '21'
+  DP: '9'
+  PB: '5'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Colasinski
+  nameClub1: Greenwood
+  G: '69'
+  PO: '481'
+  A: '34'
+  E: '15'
+  DP: '6'
+  PB: '4'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Seawright
+  nameClub1: Greenville
+  G: '17'
+  PO: '61'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PB: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Tesnow
+  nameClub1: Hot Springs
+  G: '21'
+  PO: '112'
+  A: '11'
+  E: '4'
+  DP: '1'
+  PB: '3'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: C
+  nameLast: Italiano
+  nameClub1: Helena
+  G: '95'
+  PO: '288'
+  A: '60'
+  E: '15'
+  DP: '10'
+  PB: '5'
+  PCT: '.959'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Fischer
+  nameClub1: Hot Springs
+  G: '34'
+  PO: '6'
+  A: '31'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Yaklich
+  nameClub1: Greenville
+  G: '20'
+  PO: '1'
+  A: '19'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Saffer
+  nameClub1: Clarksdale
+  G: '18'
+  PO: '3'
+  A: '25'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Joyce
+  nameClub1: Greenville
+  G: '17'
+  PO: '1'
+  A: '19'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Tremel
+  nameClub1: Clarksdale
+  G: '16'
+  PO: '5'
+  A: '18'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Gillespie
+  nameClub1: Clarksdale
+  G: '16'
+  PO: '4'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Midkiff
+  nameClub1: Natchez
+  G: '16'
+  PO: '3'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Pruel
+  nameClub1: Greenville
+  G: '15'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Montgomery
+  nameClub1: El Dorado
+  G: '14'
+  PO: '3'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Bivin
+  nameClub1: Greenwood
+  G: '14'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Stiglich
+  nameClub1: Hot Springs
+  G: '13'
+  PO: '2'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Tutka
+  nameClub1: Helena
+  G: '13'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Benish
+  nameClub1: Helena
+  G: '11'
+  PO: '6'
+  A: '14'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Nelson
+  nameClub1: Pine Bluff
+  G: '11'
+  PO: '4'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Scott
+  nameClub1: Clarksdale
+  G: '11'
+  PO: '1'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Lutz
+  nameClub1: Pine Bluff
+  G: '10'
+  PO: '2'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Muffett
+  nameClub1: Helena
+  G: '35'
+  PO: '6'
+  A: '39'
+  E: '1'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Outen
+  nameClub1: El Dorado
+  G: '22'
+  PO: '5'
+  A: '39'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Hall
+  nameClub1: Greenwood
+  G: '26'
+  PO: '11'
+  A: '32'
+  E: '1'
+  DP: '4'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Henry
+  nameClub1: Clarksdale
+  G: '34'
+  PO: '6'
+  A: '29'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Kucera
+  nameClub1: Greenwood
+  G: '26'
+  PO: '7'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Burns
+  nameClub1: Clarksdale
+  G: '23'
+  PO: '10'
+  A: '43'
+  E: '2'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Miskulin
+  nameClub1: Natchez
+  G: '38'
+  PO: '10'
+  A: '38'
+  E: '2'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Mink
+  nameClub1: Natchez
+  G: '34'
+  PO: '16'
+  A: '50'
+  E: '3'
+  DP: '3'
+  PCT: '.957'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Hyde
+  nameClub1: Pine Bluff
+  G: '14'
+  PO: '2'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Danna
+  nameClub1: Helena
+  G: '13'
+  PO: '5'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Parkin
+  nameClub1: Helena
+  G: '11'
+  PO: '5'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Graham
+  nameClub1: Pine Bluff
+  G: '34'
+  PO: '9'
+  A: '41'
+  E: '3'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Phillips
+  nameClub1: Pine Bluff
+  G: '18'
+  PO: '8'
+  A: '25'
+  E: '2'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Hill
+  nameClub1: Clarksdale
+  nameClub2: Pine Bluff
+  G: '42'
+  PO: '13'
+  A: '36'
+  E: '3'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Davis
+  nameClub1: Greenville
+  G: '14'
+  PO: '0'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Mormino
+  nameClub1: Natchez
+  G: '12'
+  PO: '2'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Lofton
+  nameClub1: Greenville
+  G: '11'
+  PO: '1'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Vice
+  nameClub1: Helena
+  G: '28'
+  PO: '9'
+  A: '36'
+  E: '3'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Goss
+  nameClub1: El Dorado
+  G: '32'
+  PO: '7'
+  A: '37'
+  E: '3'
+  DP: '3'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: McClure
+  nameClub1: El Dorado
+  G: '39'
+  PO: '23'
+  A: '91'
+  E: '8'
+  DP: '6'
+  PCT: '.934'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Locher
+  nameClub1: Clarksdale
+  G: '28'
+  PO: '4'
+  A: '49'
+  E: '4'
+  DP: '5'
+  PCT: '.930'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Kelly
+  nameClub1: Helena
+  G: '15'
+  PO: '11'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Dlugokecki
+  nameClub1: Greenville
+  G: '31'
+  PO: '6'
+  A: '45'
+  E: '4'
+  DP: '1'
+  PCT: '.927'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Albrecht
+  nameClub1: Pine Bluff
+  G: '58'
+  PO: '9'
+  A: '41'
+  E: '4'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Virkstis
+  nameClub1: Greenwood
+  G: '25'
+  PO: '5'
+  A: '45'
+  E: '4'
+  DP: '6'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Caccavo
+  nameClub1: Hot Springs
+  G: '32'
+  PO: '6'
+  A: '43'
+  E: '4'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Polonczyk
+  nameClub1: Greenwood
+  G: '24'
+  PO: '10'
+  A: '27'
+  E: '3'
+  DP: '2'
+  PCT: '.925'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Peck
+  nameClub1: Helena
+  G: '40'
+  PO: '3'
+  A: '56'
+  E: '5'
+  DP: '0'
+  PCT: '.922'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Peckham
+  nameClub1: Hot Springs
+  G: '32'
+  PO: '7'
+  A: '25'
+  E: '3'
+  DP: '1'
+  PCT: '.914'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: May
+  nameClub1: Greenwood
+  G: '34'
+  PO: '6'
+  A: '64'
+  E: '6'
+  DP: '7'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Stevens
+  nameClub1: El Dorado
+  G: '28'
+  PO: '4'
+  A: '25'
+  E: '3'
+  DP: '2'
+  PCT: '.906'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Schmudlach
+  nameClub1: Hot Springs
+  G: '29'
+  PO: '4'
+  A: '24'
+  E: '2'
+  DP: '1'
+  PCT: '.903'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Bates
+  nameClub1: Greenville
+  G: '40'
+  PO: '10'
+  A: '26'
+  E: '4'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Baker
+  nameClub1: Pine Bluff
+  G: '35'
+  PO: '6'
+  A: '21'
+  E: '3'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Waters
+  nameClub1: Greenwood
+  G: '33'
+  PO: '13'
+  A: '50'
+  E: '7'
+  DP: '4'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Wadewitz
+  nameClub1: Greenville
+  G: '22'
+  PO: '1'
+  A: '26'
+  E: '3'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Wescott
+  nameClub1: Hot Springs
+  G: '12'
+  PO: '4'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Daugherty
+  nameClub1: El Dorado
+  G: '11'
+  PO: '2'
+  A: '15'
+  E: '2'
+  DP: '2'
+  PCT: '.895'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Tilley
+  nameClub1: Helena
+  G: '10'
+  PO: '1'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Loddeke
+  nameClub1: Greenville
+  G: '37'
+  PO: '8'
+  A: '31'
+  E: '5'
+  DP: '0'
+  PCT: '.886'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Barnes
+  nameClub1: Helena
+  G: '21'
+  PO: '4'
+  A: '27'
+  E: '4'
+  DP: '2'
+  PCT: '.886'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Rodd
+  nameClub1: Natchez
+  G: '36'
+  PO: '5'
+  A: '51'
+  E: '9'
+  DP: '0'
+  PCT: '.862'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Martin
+  nameClub1: Clarksdale
+  G: '12'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Demyan
+  nameClub1: Natchez
+  G: '16'
+  PO: '0'
+  A: '11'
+  E: '2'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Grant
+  nameClub1: Hot Springs
+  G: '23'
+  PO: '1'
+  A: '14'
+  E: '3'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Fox
+  nameClub1: Natchez
+  G: '30'
+  PO: '6'
+  A: '36'
+  E: '9'
+  DP: '4'
+  PCT: '.824'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Rooney
+  nameClub1: Greenville
+  G: '19'
+  PO: '3'
+  A: '23'
+  E: '6'
+  DP: '0'
+  PCT: '.813'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Stivers
+  nameClub1: Pine Bluff
+  G: '11'
+  PO: '1'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Nicolis
+  nameClub1: Greenwood
+  G: '18'
+  PO: '2'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Pecenka
+  nameClub1: El Dorado
+  G: '24'
+  PO: '1'
+  A: '16'
+  E: '5'
+  DP: '1'
+  PCT: '.773'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: P
+  nameLast: Pryor
+  nameClub1: Helena
+  nameClub2: Pine Bluff
+  G: '17'
+  PO: '0'
+  A: '13'
+  E: '4'
+  DP: '1'
+  PCT: '.765'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Dorsey
+  nameClub1: El Dorado
+  G: '10'
+  PO: '44'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PB: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Goss
+  nameClub1: El Dorado
+  G: '11'
+  PO: '33'
+  A: '9'
+  E: '0'
+  DP: '3'
+  PB: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Kuras
+  nameClub1: Natchez
+  G: '10'
+  PO: '2'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PB: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Colasinski
+  nameClub1: Greenwood
+  G: '12'
+  PO: '18'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PB: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Layne
+  nameClub1: Clarksdale
+  G: '15'
+  PO: '23'
+  A: '39'
+  E: '4'
+  DP: '4'
+  PB: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Gabrych
+  nameClub1: Greenville
+  G: '14'
+  PO: '26'
+  A: '26'
+  E: '6'
+  DP: '3'
+  PB: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Bareford
+  nameClub1: Greenwood
+  G: '13'
+  PO: '29'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PB: '0'
+  PCT: '.892'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Bridges
+  nameClub1: Natchez
+  G: '13'
+  PO: '19'
+  A: '17'
+  E: '6'
+  DP: '3'
+  PB: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1949'
+  nameLeague: Cotton States League
+  Pos: UT
+  nameLast: Kall
+  nameClub1: Helena
+  G: '10'
+  PO: '16'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PB: '0'
+  PCT: '.846'
+  TP: '0'

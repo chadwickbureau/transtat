@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: regular
+  W: '84'
+  L: '58'
+  T: '0'
+  PCT: '.592'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  phase: regular
+  W: '81'
+  L: '61'
+  T: '1'
+  PCT: '.570'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: regular
+  W: '80'
+  L: '62'
+  T: '0'
+  PCT: '.563'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular
+  W: '77'
+  L: '64'
+  T: '1'
+  PCT: '.546'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular
+  W: '76'
+  L: '65'
+  T: '2'
+  PCT: '.539'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular
+  W: '63'
+  L: '79'
+  T: '2'
+  PCT: '.444'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Reidsville
+  phase: regular
+  W: '57'
+  L: '85'
+  T: '1'
+  PCT: '.401'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular
+  W: '49'
+  L: '93'
+  T: '1'
+  PCT: '.345'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

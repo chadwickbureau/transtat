@@ -1,0 +1,134 @@
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Troy
+  phase: regular/first
+  W: '33'
+  L: '21'
+  PCT: '.611'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Ozark
+  phase: regular/first
+  W: '33'
+  L: '23'
+  PCT: '.589'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Enterprise
+  phase: regular/first
+  W: '32'
+  L: '23'
+  PCT: '.582'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Dothan
+  phase: regular/first
+  W: '27'
+  L: '29'
+  PCT: '.482'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Abbeville
+  phase: regular/first
+  W: '26'
+  L: '30'
+  PCT: '.464'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Andalusia
+  phase: regular/first
+  W: '26'
+  L: '30'
+  PCT: '.464'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Union Springs
+  phase: regular/first
+  W: '24'
+  L: '31'
+  PCT: '.436'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  phase: regular/first
+  W: '21'
+  L: '25'
+  PCT: '.375'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Troy
+  phase: regular/second
+  W: '35'
+  L: '21'
+  PCT: '.625'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  phase: regular/second
+  W: '34'
+  L: '22'
+  PCT: '.607'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Dothan
+  phase: regular/second
+  W: '34'
+  L: '22'
+  PCT: '.607'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Enterprise
+  phase: regular/second
+  W: '32'
+  L: '22'
+  PCT: '.593'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Andalusia
+  phase: regular/second
+  W: '28'
+  L: '26'
+  PCT: '.519'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Union Springs
+  phase: regular/second
+  W: '25'
+  L: '29'
+  PCT: '.463'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Ozark
+  phase: regular/second
+  W: '21'
+  L: '30'
+  PCT: '.412'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Andalusia
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Alabama-Florida League
+  nameClub: Troy
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

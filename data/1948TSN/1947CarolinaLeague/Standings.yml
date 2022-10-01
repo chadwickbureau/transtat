@@ -1,0 +1,124 @@
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: regular
+  W: '87'
+  L: '55'
+  T: '0'
+  PCT: '.613'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular
+  W: '85'
+  L: '57'
+  T: '0'
+  PCT: '.599'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: regular
+  W: '81'
+  L: '60'
+  T: '1'
+  PCT: '.574'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular
+  W: '70'
+  L: '71'
+  T: '0'
+  PCT: '.496'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular
+  W: '65'
+  L: '75'
+  T: '2'
+  PCT: '.464'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular
+  W: '65'
+  L: '77'
+  T: '1'
+  PCT: '.458'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Leaksville
+  phase: regular
+  W: '59'
+  L: '82'
+  T: '0'
+  PCT: '.418'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  phase: regular
+  W: '53'
+  L: '88'
+  T: '0'
+  PCT: '.376'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

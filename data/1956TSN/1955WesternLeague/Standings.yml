@@ -1,0 +1,100 @@
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: regular
+  W: '81'
+  L: '69'
+  T: '0'
+  PCT: '.540'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular
+  W: '79'
+  L: '71'
+  T: '0'
+  PCT: '.527'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Wichita
+  phase: regular
+  W: '78'
+  L: '73'
+  T: '1'
+  PCT: '.517'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular
+  W: '77'
+  L: '74'
+  T: '1'
+  PCT: '.510'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular
+  W: '69'
+  L: '81'
+  T: '1'
+  PCT: '.460'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular
+  W: '67'
+  L: '83'
+  T: '1'
+  PCT: '.447'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Wichita
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Wichita
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

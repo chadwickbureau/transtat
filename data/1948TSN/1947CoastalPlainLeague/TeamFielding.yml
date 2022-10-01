@@ -1,0 +1,80 @@
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Wilson
+  G: '140'
+  PO: '3730'
+  A: '1503'
+  E: '257'
+  DP: '99'
+  PCT: '.953'
+  TP: '0'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Tarboro
+  G: '140'
+  PO: '3687'
+  A: '1656'
+  E: '267'
+  DP: '83'
+  PCT: '.952'
+  TP: '0'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Goldsboro
+  G: '140'
+  PO: '3700'
+  A: '1636'
+  E: '284'
+  DP: '120'
+  PCT: '.949'
+  TP: '1'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  G: '140'
+  PO: '3508'
+  A: '1599'
+  E: '306'
+  DP: '101'
+  PCT: '.943'
+  TP: '0'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Roanoke Rapids
+  G: '140'
+  PO: '3638'
+  A: '1557'
+  E: '318'
+  DP: '128'
+  PCT: '.942'
+  TP: '0'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: New Bern
+  G: '139'
+  PO: '3523'
+  A: '1555'
+  E: '317'
+  DP: '130'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Rocky Mount
+  G: '139'
+  PO: '3419'
+  A: '1317'
+  E: '299'
+  DP: '94'
+  PCT: '.941'
+  TP: '0'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Greenville
+  G: '140'
+  PO: '3522'
+  A: '1455'
+  E: '355'
+  DP: '80'
+  PCT: '.933'
+  TP: '0'

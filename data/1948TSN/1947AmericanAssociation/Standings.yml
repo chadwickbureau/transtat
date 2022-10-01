@@ -1,0 +1,110 @@
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '93'
+  L: '60'
+  PCT: '.608'
+  RANK: '1'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '85'
+  L: '68'
+  PCT: '.556'
+  RANK: '2'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: regular
+  W: '79'
+  L: '75'
+  PCT: '.513'
+  RANK: '3'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '77'
+  L: '77'
+  PCT: '.500'
+  RANK: '4'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '76'
+  L: '78'
+  PCT: '.494'
+  RANK: '5'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '74'
+  L: '79'
+  PCT: '.484'
+  RANK: '6'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '69'
+  L: '85'
+  PCT: '.448'
+  RANK: '7'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '61'
+  L: '92'
+  PCT: '.399'
+  RANK: '8'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,108 @@
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Thomasville
+  phase: regular
+  W: '75'
+  L: '36'
+  PCT: '.676'
+  RANK: '1'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Shelby/Gastonia
+  phase: regular
+  W: '66'
+  L: '45'
+  PCT: '.595'
+  RANK: '2'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: regular
+  W: '66'
+  L: '46'
+  PCT: '.589'
+  RANK: '3'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: regular
+  W: '59'
+  L: '53'
+  PCT: '.527'
+  RANK: '4'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Salisbury
+  phase: regular
+  W: '51'
+  L: '60'
+  PCT: '.459'
+  RANK: '5'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Newton-Conover
+  phase: regular
+  W: '46'
+  L: '66'
+  PCT: '.411'
+  RANK: '6'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Cooleemee
+  phase: regular
+  W: '42'
+  L: '69'
+  PCT: '.378'
+  RANK: '7'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: regular
+  W: '41'
+  L: '71'
+  PCT: '.366'
+  RANK: '8'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Thomasville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Shelby/Gastonia
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: final
+  W: '3'
+  L: '3'
+- year: '1938'
+  nameLeague: North Carolina State League
+  nameClub: Thomasville
+  phase: final
+  W: '3'
+  L: '3'

@@ -1,0 +1,32 @@
+- year: '1958'
+  nameLeague: Florida Instructional League
+  nameClub: Athletics
+  phase: regular
+  W: '27'
+  L: '19'
+  PCT: '.587'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Florida Instructional League
+  nameClub: Yankees
+  phase: regular
+  W: '26'
+  L: '20'
+  PCT: '.565'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Florida Instructional League
+  nameClub: Cardinals
+  phase: regular
+  W: '23'
+  L: '25'
+  PCT: '.479'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Florida Instructional League
+  nameClub: Braves
+  phase: regular
+  W: '16'
+  L: '28'
+  PCT: '.364'
+  RANK: '4'

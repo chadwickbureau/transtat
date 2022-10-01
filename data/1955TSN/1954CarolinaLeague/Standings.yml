@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Fayetteville
+  phase: regular
+  W: '86'
+  L: '51'
+  T: '0'
+  PCT: '.628'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Burlington-Graham
+  phase: regular
+  W: '82'
+  L: '56'
+  T: '2'
+  PCT: '.594'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular
+  W: '79'
+  L: '59'
+  T: '1'
+  PCT: '.572'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular
+  W: '70'
+  L: '68'
+  T: '0'
+  PCT: '.507'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular
+  W: '70'
+  L: '69'
+  T: '0'
+  PCT: '.504'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  phase: regular
+  W: '66'
+  L: '73'
+  T: '1'
+  PCT: '.475'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Reidsville
+  phase: regular
+  W: '56'
+  L: '83'
+  T: '1'
+  PCT: '.403'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular
+  W: '44'
+  L: '94'
+  T: '1'
+  PCT: '.319'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Fayetteville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Burlington-Graham
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Fayetteville
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Carolina League
+  nameClub: Burlington-Graham
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

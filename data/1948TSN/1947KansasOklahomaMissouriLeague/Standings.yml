@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Miami
+  phase: regular
+  W: '76'
+  L: '49'
+  T: '0'
+  PCT: '.608'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Iola
+  phase: regular
+  W: '69'
+  L: '54'
+  T: '1'
+  PCT: '.561'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Pittsburg
+  phase: regular
+  W: '69'
+  L: '54'
+  T: '0'
+  PCT: '.561'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Bartlesville
+  phase: regular
+  W: '68'
+  L: '56'
+  T: '1'
+  PCT: '.548'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Carthage
+  phase: regular
+  W: '66'
+  L: '59'
+  T: '1'
+  PCT: '.528'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Ponca City
+  phase: regular
+  W: '61'
+  L: '62'
+  T: '1'
+  PCT: '.496'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Chanute
+  phase: regular
+  W: '44'
+  L: '80'
+  T: '0'
+  PCT: '.355'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Independence
+  phase: regular
+  W: '41'
+  L: '80'
+  T: '0'
+  PCT: '.339'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Miami
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Bartlesville
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Iola
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Pittsburg
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Miami
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Kansas-Oklahoma-Missouri League
+  nameClub: Iola
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

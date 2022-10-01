@@ -1,0 +1,48 @@
+- year: '1958'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  Jacksonville: '16'
+  Macon: '16'
+  Charlotte: '14'
+  Knoxville: '16'
+  Savannah: '15'
+- year: '1958'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  Augusta: '12'
+  Macon: '12'
+  Charlotte: '16'
+  Knoxville: '15'
+  Savannah: '21'
+- year: '1958'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  Augusta: '12'
+  Jacksonville: '16'
+  Charlotte: '13'
+  Knoxville: '15'
+  Savannah: '14'
+- year: '1958'
+  nameLeague: South Atlantic League
+  nameClub: Charlotte
+  Augusta: '14'
+  Jacksonville: '12'
+  Macon: '15'
+  Knoxville: '12'
+  Savannah: '16'
+- year: '1958'
+  nameLeague: South Atlantic League
+  nameClub: Knoxville
+  Augusta: '12'
+  Jacksonville: '13'
+  Macon: '13'
+  Charlotte: '16'
+  Savannah: '13'
+- year: '1958'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  Augusta: '13'
+  Jacksonville: '7'
+  Macon: '14'
+  Charlotte: '12'
+  Knoxville: '15'

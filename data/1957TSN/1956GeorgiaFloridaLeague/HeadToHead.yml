@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  Waycross: '9'
+  Tifton: '13'
+  Albany: '15'
+  Moultrie: '14'
+  Thomasville: '13'
+  Brunswick: '16'
+  Fitzgerald: '14'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  Valdosta: '11'
+  Tifton: '10'
+  Albany: '11'
+  Moultrie: '12'
+  Thomasville: '12'
+  Brunswick: '7'
+  Fitzgerald: '16'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Tifton
+  Valdosta: '7'
+  Waycross: '9'
+  Albany: '10'
+  Moultrie: '10'
+  Thomasville: '11'
+  Brunswick: '10'
+  Fitzgerald: '13'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  Valdosta: '4'
+  Waycross: '9'
+  Tifton: '10'
+  Moultrie: '12'
+  Thomasville: '12'
+  Brunswick: '10'
+  Fitzgerald: '13'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  Valdosta: '6'
+  Waycross: '7'
+  Tifton: '10'
+  Albany: '8'
+  Thomasville: '10'
+  Brunswick: '12'
+  Fitzgerald: '15'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  Valdosta: '7'
+  Waycross: '8'
+  Tifton: '8'
+  Albany: '8'
+  Moultrie: '10'
+  Brunswick: '12'
+  Fitzgerald: '10'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  Valdosta: '4'
+  Waycross: '13'
+  Tifton: '8'
+  Albany: '10'
+  Moultrie: '8'
+  Thomasville: '8'
+  Fitzgerald: '11'
+- year: '1956'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  Valdosta: '6'
+  Waycross: '4'
+  Tifton: '7'
+  Albany: '6'
+  Moultrie: '5'
+  Thomasville: '10'
+  Brunswick: '9'

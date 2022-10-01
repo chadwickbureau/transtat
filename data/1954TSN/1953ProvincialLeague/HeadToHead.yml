@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: Sherbrooke
+  Granby: '11'
+  Quebec: '9'
+  Thetford Mines: '13'
+  Trois-Rivieres: '13'
+  St. Jean: '13'
+  St. Hyacinthe: '14'
+  Drummondville: '11'
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: Granby
+  Sherbrooke: '6'
+  Quebec: '8'
+  Thetford Mines: '11'
+  Trois-Rivieres: '11'
+  St. Jean: '11'
+  St. Hyacinthe: '12'
+  Drummondville: '13'
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  Sherbrooke: '9'
+  Granby: '10'
+  Thetford Mines: '7'
+  Trois-Rivieres: '11'
+  St. Jean: '6'
+  St. Hyacinthe: '14'
+  Drummondville: '14'
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: Thetford Mines
+  Sherbrooke: '5'
+  Granby: '6'
+  Quebec: '10'
+  Trois-Rivieres: '6'
+  St. Jean: '11'
+  St. Hyacinthe: '11'
+  Drummondville: '10'
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: Trois-Rivieres
+  Sherbrooke: '5'
+  Granby: '7'
+  Quebec: '7'
+  Thetford Mines: '12'
+  St. Jean: '9'
+  St. Hyacinthe: '8'
+  Drummondville: '10'
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  Sherbrooke: '5'
+  Granby: '7'
+  Quebec: '10'
+  Thetford Mines: '7'
+  Trois-Rivieres: '9'
+  St. Hyacinthe: '9'
+  Drummondville: '10'
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: St. Hyacinthe
+  Sherbrooke: '4'
+  Granby: '6'
+  Quebec: '4'
+  Thetford Mines: '7'
+  Trois-Rivieres: '10'
+  St. Jean: '7'
+  Drummondville: '11'
+- year: '1953'
+  nameLeague: Provincial League
+  nameClub: Drummondville
+  Sherbrooke: '7'
+  Granby: '5'
+  Quebec: '4'
+  Thetford Mines: '8'
+  Trois-Rivieres: '5'
+  St. Jean: '8'
+  St. Hyacinthe: '5'

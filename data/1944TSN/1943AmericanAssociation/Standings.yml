@@ -1,0 +1,116 @@
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: regular
+  W: '90'
+  L: '61'
+  PCT: '.596'
+  RANK: '1'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '85'
+  L: '67'
+  PCT: '.559'
+  RANK: '2'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '84'
+  L: '67'
+  PCT: '.556'
+  RANK: '3'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '76'
+  L: '76'
+  PCT: '.500'
+  RANK: '4'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '70'
+  L: '81'
+  PCT: '.464'
+  RANK: '5'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '67'
+  L: '84'
+  PCT: '.444'
+  RANK: '6'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '67'
+  L: '85'
+  PCT: '.441'
+  RANK: '7'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '67'
+  L: '85'
+  PCT: '.441'
+  RANK: '7'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  RANK: '1'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  RANK: '2'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  PCT: '.600'
+  RANK: '1'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  RANK: '2'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: final
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1943'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: final
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'

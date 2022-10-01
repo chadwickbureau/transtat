@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Vancouver
+  G: '148'
+  DP: '179'
+  PB: '6'
+  PO: '3826'
+  A: '1636'
+  E: '203'
+  PCT: '.964'
+  TP: '1'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Yakima
+  G: '150'
+  DP: '125'
+  PB: '15'
+  PO: '3869'
+  A: '1708'
+  E: '218'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Victoria
+  G: '152'
+  DP: '136'
+  PB: '15'
+  PO: '3903'
+  A: '1623'
+  E: '245'
+  PCT: '.958'
+  TP: '2'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Spokane
+  G: '149'
+  DP: '132'
+  PB: '9'
+  PO: '397'
+  A: '1779'
+  E: '267'
+  PCT: '.955'
+  TP: '1'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Tacoma
+  G: '151'
+  DP: '137'
+  PB: '7'
+  PO: '3867'
+  A: '1681'
+  E: '259'
+  PCT: '.955'
+  TP: '1'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Salem
+  G: '151'
+  DP: '153'
+  PB: '18'
+  PO: '3842'
+  A: '1657'
+  E: '281'
+  PCT: '.951'
+  TP: '0'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Bremerton
+  G: '149'
+  DP: '120'
+  PB: '15'
+  PO: '3812'
+  A: '1584'
+  E: '300'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Western International League
+  nameClub: Wenatchee
+  G: '150'
+  DP: '128'
+  PB: '11'
+  PO: '3877'
+  A: '1431'
+  E: '305'
+  PCT: '.946'
+  TP: '0'

@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Flint
+  phase: regular
+  W: '89'
+  L: '49'
+  T: '1'
+  PCT: '.645'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Dayton
+  phase: regular
+  W: '84'
+  L: '55'
+  T: '2'
+  PCT: '.604'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Muskegon
+  phase: regular
+  W: '73'
+  L: '66'
+  T: '2'
+  PCT: '.525'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Fort Wayne
+  phase: regular
+  W: '64'
+  L: '76'
+  T: '1'
+  PCT: '.457'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Saginaw
+  phase: regular
+  W: '55'
+  L: '85'
+  T: '2'
+  PCT: '.393'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Grand Rapids
+  phase: regular
+  W: '52'
+  L: '86'
+  T: '2'
+  PCT: '.377'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Fort Wayne
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Flint
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Dayton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Muskegon
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Dayton
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Central League
+  nameClub: Fort Wayne
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

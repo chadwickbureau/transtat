@@ -1,0 +1,94 @@
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: regular
+  W: '79'
+  L: '59'
+  PCT: '.572'
+  RANK: '1'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: regular
+  W: '77'
+  L: '59'
+  PCT: '.566'
+  RANK: '2'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: regular
+  W: '78'
+  L: '60'
+  PCT: '.565'
+  RANK: '3'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: regular
+  W: '65'
+  L: '73'
+  PCT: '.471'
+  RANK: '4'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  phase: regular
+  W: '62'
+  L: '78'
+  PCT: '.448'
+  RANK: '5'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  phase: regular
+  W: '52'
+  L: '84'
+  PCT: '.382'
+  RANK: '6'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1937'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

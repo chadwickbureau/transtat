@@ -1,0 +1,118 @@
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Wichita
+  phase: regular
+  W: '93'
+  L: '61'
+  T: '1'
+  PCT: '.604'
+  RANK: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: regular
+  W: '90'
+  L: '64'
+  T: '0'
+  PCT: '.584'
+  RANK: '2'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '85'
+  L: '69'
+  T: '2'
+  PCT: '.552'
+  RANK: '3'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '82'
+  L: '72'
+  T: '0'
+  PCT: '.532'
+  RANK: '4'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Omaha
+  phase: regular
+  W: '76'
+  L: '78'
+  T: '0'
+  PCT: '.494'
+  RANK: '5'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '74'
+  L: '80'
+  T: '1'
+  PCT: '.481'
+  RANK: '6'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Charleston
+  phase: regular
+  W: '67'
+  L: '87'
+  T: '0'
+  PCT: '.435'
+  RANK: '7'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '49'
+  L: '105'
+  T: '0'
+  PCT: '.318'
+  RANK: '8'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Wichita
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1957'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

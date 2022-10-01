@@ -1,0 +1,142 @@
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Leaksville-Draper-Spray
+  phase: regular/first
+  W: '37'
+  L: '21'
+  PCT: '.638'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Danville-Schoolfield
+  phase: regular/first
+  W: '37'
+  L: '22'
+  PCT: '.627'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Bassett
+  phase: regular/first
+  W: '36'
+  L: '23'
+  PCT: '.610'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Reidsville
+  phase: regular/first
+  W: '31'
+  L: '27'
+  PCT: '.534'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Martinsville
+  phase: regular/first
+  W: '27'
+  L: '31'
+  PCT: '.466'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Mount Airy
+  phase: regular/first
+  W: '22'
+  L: '36'
+  PCT: '.379'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Mayodan
+  phase: regular/first
+  W: '22'
+  L: '36'
+  PCT: '.379'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Fieldale
+  phase: regular/first
+  W: '21'
+  L: '37'
+  PCT: '.362'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Bassett
+  phase: regular/second
+  W: '38'
+  L: '20'
+  PCT: '.655'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Danville-Schoolfield
+  phase: regular/second
+  W: '37'
+  L: '23'
+  PCT: '.617'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Fieldale
+  phase: regular/second
+  W: '31'
+  L: '25'
+  PCT: '.554'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Martinsville
+  phase: regular/second
+  W: '32'
+  L: '27'
+  PCT: '.542'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Mount Airy
+  phase: regular/second
+  W: '31'
+  L: '27'
+  PCT: '.534'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Leaksville-Draper-Spray
+  phase: regular/second
+  W: '28'
+  L: '30'
+  PCT: '.483'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Reidsville
+  phase: regular/second
+  W: '23'
+  L: '34'
+  PCT: '.404'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Mayodan
+  phase: regular/second
+  W: '13'
+  L: '47'
+  PCT: '.217'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Bassett
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Bi-State League
+  nameClub: Leaksville-Draper-Spray
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

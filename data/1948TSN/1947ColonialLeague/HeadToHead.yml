@@ -1,0 +1,48 @@
+- year: '1947'
+  nameLeague: Colonial League
+  nameClub: Waterbury
+  Poughkeepsie: '15'
+  Stamford: '18'
+  New London: '13'
+  Port Chester: '19'
+  Bridgeport: '18'
+- year: '1947'
+  nameLeague: Colonial League
+  nameClub: Poughkeepsie
+  Waterbury: '9'
+  Stamford: '17'
+  New London: '14'
+  Port Chester: '14'
+  Bridgeport: '12'
+- year: '1947'
+  nameLeague: Colonial League
+  nameClub: Stamford
+  Waterbury: '7'
+  Poughkeepsie: '9'
+  New London: '17'
+  Port Chester: '17'
+  Bridgeport: '17'
+- year: '1947'
+  nameLeague: Colonial League
+  nameClub: New London
+  Waterbury: '8'
+  Poughkeepsie: '8'
+  Stamford: '9'
+  Port Chester: '12'
+  Bridgeport: '13'
+- year: '1947'
+  nameLeague: Colonial League
+  nameClub: Port Chester
+  Waterbury: '6'
+  Poughkeepsie: '7'
+  Stamford: '9'
+  New London: '13'
+  Bridgeport: '16'
+- year: '1947'
+  nameLeague: Colonial League
+  nameClub: Bridgeport
+  Waterbury: '8'
+  Poughkeepsie: '11'
+  Stamford: '8'
+  New London: '10'
+  Port Chester: '9'

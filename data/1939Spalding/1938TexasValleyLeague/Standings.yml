@@ -1,0 +1,94 @@
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Corpus Christi
+  phase: regular
+  W: '92'
+  L: '44'
+  PCT: '.677'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Harlingen
+  phase: regular
+  W: '84'
+  L: '53'
+  PCT: '.613'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Taft
+  phase: regular
+  W: '68'
+  L: '67'
+  PCT: '.504'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Refugio
+  phase: regular
+  W: '67'
+  L: '67'
+  PCT: '.500'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: McAllen
+  phase: regular
+  W: '65'
+  L: '72'
+  PCT: '.474'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Brownsville
+  phase: regular
+  W: '30'
+  L: '103'
+  PCT: '.226'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Harlingen
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Taft
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Corpus Christi
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Refugio
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Harlingen
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Texas Valley League
+  nameClub: Corpus Christi
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

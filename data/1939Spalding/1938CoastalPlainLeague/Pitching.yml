@@ -1,0 +1,565 @@
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Price
+  nameClub: Greenville
+  GP: '10'
+  W: '2'
+  L: '0'
+  SO: '9'
+  BB: '20'
+  H: '38'
+  IP: '39'
+  PCT: '1.000'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Wilson
+  nameClub: Greenville
+  GP: '10'
+  W: '5'
+  L: '1'
+  SO: '31'
+  BB: '26'
+  H: '54'
+  IP: '56'
+  PCT: '.833'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: O'Kronley
+  nameClub: Snow Hill
+  GP: '16'
+  W: '4'
+  L: '1'
+  SO: '23'
+  BB: '34'
+  H: '70'
+  IP: '60'
+  PCT: '.800'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Hurley
+  nameClub: Kinston
+  GP: '26'
+  W: '15'
+  L: '5'
+  SO: '98'
+  BB: '53'
+  H: '169'
+  IP: '186'
+  PCT: '.750'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Berry
+  nameClub: New Bern
+  GP: '31'
+  W: '12'
+  L: '4'
+  SO: '120'
+  BB: '72'
+  H: '187'
+  IP: '199'
+  PCT: '.750'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Mooney
+  nameClub: Tarboro
+  GP: '27'
+  W: '19'
+  L: '7'
+  SO: '93'
+  BB: '53'
+  H: '168'
+  IP: '194'
+  PCT: '.731'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: King
+  nameClub: Greenville
+  GP: '26'
+  W: '16'
+  L: '6'
+  SO: '146'
+  BB: '73'
+  H: '143'
+  IP: '182'
+  PCT: '.727'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Gettel
+  nameClub: Snow Hill
+  GP: '29'
+  W: '16'
+  L: '7'
+  SO: '131'
+  BB: '81'
+  H: '159'
+  IP: '198'
+  PCT: '.696'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Swain
+  nameClub: Williamston
+  GP: '36'
+  W: '16'
+  L: '9'
+  SO: '165'
+  BB: '74'
+  H: '184'
+  IP: '215'
+  PCT: '.680'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Hamons
+  nameClub: New Bern
+  GP: '24'
+  W: '14'
+  L: '7'
+  SO: '121'
+  BB: '88'
+  H: '146'
+  IP: '186'
+  PCT: '.667'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Herring
+  nameClub: Ayden
+  GP: '30'
+  W: '18'
+  L: '11'
+  SO: '137'
+  BB: '74'
+  H: '252'
+  IP: '249'
+  PCT: '.621'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Muehlenbein
+  nameClub: Kinston
+  GP: '31'
+  W: '13'
+  L: '8'
+  SO: '105'
+  BB: '88'
+  H: '234'
+  IP: '214'
+  PCT: '.619'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Beaird
+  nameClub: Williamston
+  GP: '31'
+  W: '13'
+  L: '8'
+  SO: '105'
+  BB: '88'
+  H: '234'
+  IP: '214'
+  PCT: '.619'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Wade
+  nameClub: Williamston
+  GP: '21'
+  W: '12'
+  L: '8'
+  SO: '75'
+  BB: '59'
+  H: '178'
+  IP: '168'
+  PCT: '.600'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Hardison
+  nameClub: Williamston
+  GP: '10'
+  W: '3'
+  L: '2'
+  SO: '25'
+  BB: '24'
+  H: '45'
+  IP: '42'
+  PCT: '.600'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Holt
+  nameClub: Kinston
+  GP: '10'
+  W: '3'
+  L: '2'
+  SO: '11'
+  BB: '17'
+  H: '54'
+  IP: '46'
+  PCT: '.600'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Caligiuri
+  nameClub: Greenville
+  GP: '33'
+  W: '10'
+  L: '7'
+  SO: '129'
+  BB: '64'
+  H: '189'
+  IP: '200'
+  PCT: '.588'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Zschau
+  nameClub: Snow Hill
+  GP: '23'
+  W: '9'
+  L: '7'
+  SO: '113'
+  BB: '96'
+  H: '148'
+  IP: '163'
+  PCT: '.563'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Sieminski
+  nameClub: Tarboro
+  GP: '30'
+  W: '9'
+  L: '7'
+  SO: '80'
+  BB: '63'
+  H: '163'
+  IP: '159'
+  PCT: '.563'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Longest
+  nameClub: Snow Hill
+  GP: '28'
+  W: '14'
+  L: '11'
+  SO: '143'
+  BB: '95'
+  H: '209'
+  IP: '223'
+  PCT: '.560'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Nowak
+  nameClub: Kinston
+  GP: '30'
+  W: '11'
+  L: '9'
+  SO: '134'
+  BB: '33'
+  H: '218'
+  IP: '210'
+  PCT: '.550'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Malone
+  nameClub: Tarboro
+  GP: '38'
+  W: '12'
+  L: '10'
+  SO: '112'
+  BB: '81'
+  H: '186'
+  IP: '210'
+  PCT: '.545'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Wentz
+  nameClub: Kinston
+  GP: '29'
+  W: '12'
+  L: '10'
+  SO: '179'
+  BB: '89'
+  H: '201'
+  IP: '191'
+  PCT: '.545'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Elliott
+  nameClub: Tarboro
+  GP: '15'
+  W: '7'
+  L: '6'
+  SO: '19'
+  BB: '21'
+  H: '102'
+  IP: '89'
+  PCT: '.538'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Winston
+  nameClub: Goldsboro
+  GP: '18'
+  W: '8'
+  L: '7'
+  SO: '95'
+  BB: '50'
+  H: '135'
+  IP: '134'
+  PCT: '.533'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Druce
+  nameClub: Snow Hill
+  GP: '23'
+  W: '8'
+  L: '7'
+  SO: '40'
+  BB: '60'
+  H: '128'
+  IP: '115'
+  PCT: '.533'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Archer
+  nameClub: New Bern
+  GP: '21'
+  W: '10'
+  L: '9'
+  SO: '135'
+  BB: '72'
+  H: '156'
+  IP: '164'
+  PCT: '.526'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Kunis
+  nameClub: Goldsboro
+  GP: '30'
+  W: '13'
+  L: '12'
+  SO: '104'
+  BB: '71'
+  H: '255'
+  IP: '227'
+  PCT: '.520'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Kepler
+  nameClub: Goldsboro
+  GP: '18'
+  W: '7'
+  L: '7'
+  SO: '60'
+  BB: '44'
+  H: '126'
+  IP: '120'
+  PCT: '.500'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: McMullan
+  nameClub: Kinston
+  GP: '16'
+  W: '6'
+  L: '6'
+  SO: '65'
+  BB: '39'
+  H: '112'
+  IP: '120'
+  PCT: '.500'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Painter
+  nameClub: Ayden
+  GP: '15'
+  W: '4'
+  L: '4'
+  SO: '63'
+  BB: '59'
+  H: '115'
+  IP: '107'
+  PCT: '.500'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Delaney
+  nameClub: Greenville
+  GP: '30'
+  W: '11'
+  L: '12'
+  SO: '119'
+  BB: '75'
+  H: '191'
+  IP: '216'
+  PCT: '.478'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Flora
+  nameClub: Goldsboro
+  GP: '30'
+  W: '10'
+  L: '11'
+  SO: '170'
+  BB: '140'
+  H: '216'
+  IP: '201'
+  PCT: '.476'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Averette
+  nameClub: Williamston
+  GP: '16'
+  W: '6'
+  L: '7'
+  SO: '54'
+  BB: '21'
+  H: '102'
+  IP: '114'
+  PCT: '.462'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Hautz
+  nameClub: New Bern
+  GP: '23'
+  W: '8'
+  L: '10'
+  SO: '66'
+  BB: '55'
+  H: '149'
+  IP: '131'
+  PCT: '.444'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Gurth
+  nameClub: Ayden
+  GP: '31'
+  W: '8'
+  L: '10'
+  SO: '46'
+  BB: '45'
+  H: '220'
+  IP: '160'
+  PCT: '.444'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Spence
+  nameClub: Greenville
+  GP: '12'
+  W: '4'
+  L: '5'
+  SO: '52'
+  BB: '36'
+  H: '68'
+  IP: '83'
+  PCT: '.444'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Robinson
+  nameClub: Tarboro
+  GP: '27'
+  W: '7'
+  L: '9'
+  SO: '83'
+  BB: '54'
+  H: '167'
+  IP: '157'
+  PCT: '.438'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Cicerale
+  nameClub: Snow Hill
+  GP: '27'
+  W: '6'
+  L: '8'
+  SO: '58'
+  BB: '50'
+  H: '179'
+  IP: '154'
+  PCT: '.429'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Burgess
+  nameClub: New Bern
+  GP: '22'
+  W: '7'
+  L: '12'
+  SO: '110'
+  BB: '83'
+  H: '168'
+  IP: '161'
+  PCT: '.368'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Rehkamp
+  nameClub: Goldsboro
+  GP: '22'
+  W: '6'
+  L: '13'
+  SO: '84'
+  BB: '75'
+  H: '159'
+  IP: '152'
+  PCT: '.316'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Dove
+  nameClub: Greenville
+  GP: '15'
+  W: '2'
+  L: '5'
+  SO: '13'
+  BB: '27'
+  H: '78'
+  IP: '63'
+  PCT: '.286'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Yent
+  nameClub: Ayden
+  GP: '38'
+  W: '7'
+  L: '18'
+  SO: '102'
+  BB: '64'
+  H: '209'
+  IP: '192'
+  PCT: '.280'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Rhodes
+  nameClub: Ayden
+  GP: '16'
+  W: '3'
+  L: '8'
+  SO: '35'
+  BB: '45'
+  H: '94'
+  IP: '74'
+  PCT: '.273'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Wry
+  nameClub: Williamston
+  GP: '24'
+  W: '5'
+  L: '14'
+  SO: '77'
+  BB: '40'
+  H: '178'
+  IP: '158'
+  PCT: '.263'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: Bobo
+  nameClub: Greenville
+  GP: '15'
+  W: '2'
+  L: '6'
+  SO: '33'
+  BB: '35'
+  H: '70'
+  IP: '71'
+  PCT: '.250'
+- year: '1938'
+  nameLeague: Coastal Plain League
+  nameLast: York
+  nameFirst: D.
+  nameClub: Ayden
+  GP: '17'
+  W: '2'
+  L: '7'
+  SO: '24'
+  BB: '52'
+  H: '89'
+  IP: '69'
+  PCT: '.222'

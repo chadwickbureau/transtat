@@ -1,0 +1,158 @@
+- year: '1955'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular/first
+  W: '55'
+  L: '20'
+  T: '0'
+  PCT: '.733'
+  RANK: '1'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular/first
+  W: '53'
+  L: '23'
+  T: '0'
+  PCT: '.697'
+  RANK: '2'
+- year: '1955'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular/first
+  W: '48'
+  L: '27'
+  T: '1'
+  PCT: '.640'
+  RANK: '2'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular/first
+  W: '40'
+  L: '32'
+  T: '2'
+  PCT: '.556'
+  RANK: '4'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular/first
+  W: '32'
+  L: '44'
+  T: '0'
+  PCT: '.421'
+  RANK: '5'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular/first
+  W: '27'
+  L: '48'
+  T: '1'
+  PCT: '.360'
+  RANK: '6'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular/first
+  W: '26'
+  L: '48'
+  T: '0'
+  PCT: '.351'
+  RANK: '7'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Channel Cities
+  phase: regular/first
+  W: '18'
+  L: '57'
+  T: '0'
+  PCT: '.240'
+  RANK: '8'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular/second
+  W: '51'
+  L: '20'
+  T: '0'
+  PCT: '.718'
+  RANK: '1'
+- year: '1955'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular/second
+  W: '50'
+  L: '21'
+  T: '0'
+  PCT: '.704'
+  RANK: '2'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular/second
+  W: '39'
+  L: '33'
+  T: '0'
+  PCT: '.542'
+  RANK: '3'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular/second
+  W: '36'
+  L: '39'
+  T: '0'
+  PCT: '.480'
+  RANK: '4'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular/second
+  W: '34'
+  L: '37'
+  T: '0'
+  PCT: '.479'
+  RANK: '5'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: regular/second
+  W: '34'
+  L: '38'
+  T: '0'
+  PCT: '.472'
+  RANK: '6'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Reno
+  phase: regular/second
+  W: '22'
+  L: '49'
+  T: '0'
+  PCT: '.310'
+  RANK: '7'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular/second
+  W: '21'
+  L: '50'
+  T: '0'
+  PCT: '.296'
+  RANK: '8'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Salinas
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

@@ -1,0 +1,48 @@
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: St. Jean
+  Quebec: '11'
+  Burlington: '16'
+  Three Rivers: '21'
+  Sherbrooke: '17'
+  Thetford Mines: '21'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Quebec
+  St. Jean: '15'
+  Burlington: '14'
+  Three Rivers: '14'
+  Sherbrooke: '18'
+  Thetford Mines: '20'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Burlington
+  St. Jean: '10'
+  Quebec: '12'
+  Three Rivers: '14'
+  Sherbrooke: '16'
+  Thetford Mines: '13'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Three Rivers
+  St. Jean: '5'
+  Quebec: '12'
+  Burlington: '12'
+  Sherbrooke: '16'
+  Thetford Mines: '17'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Sherbrooke
+  St. Jean: '9'
+  Quebec: '8'
+  Burlington: '9'
+  Three Rivers: '10'
+  Thetford Mines: '17'
+- year: '1955'
+  nameLeague: Provincial League
+  nameClub: Thetford Mines
+  St. Jean: '5'
+  Quebec: '6'
+  Burlington: '13'
+  Three Rivers: '9'
+  Sherbrooke: '9'

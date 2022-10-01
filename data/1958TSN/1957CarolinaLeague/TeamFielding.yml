@@ -1,0 +1,66 @@
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Durham
+  G: '141'
+  DP: '124'
+  PB: '14'
+  PO: '3651'
+  A: '1394'
+  E: '194'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  G: '140'
+  DP: '136'
+  PB: '16'
+  PO: '3633'
+  A: '1651'
+  E: '205'
+  PCT: '.962'
+  TP: '0'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Danville
+  G: '141'
+  DP: '95'
+  PB: '17'
+  PO: '3597'
+  A: '1389'
+  E: '233'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Wilson
+  G: '140'
+  DP: '135'
+  PB: '23'
+  PO: '3541'
+  A: '1493'
+  E: '238'
+  PCT: '.955'
+  TP: '0'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  G: '140'
+  DP: '111'
+  PB: '49'
+  PO: '3641'
+  A: '1416'
+  E: '245'
+  PCT: '.954'
+  TP: '0'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  G: '140'
+  DP: '127'
+  PB: '27'
+  PO: '3643'
+  A: '1428'
+  E: '258'
+  PCT: '.952'
+  TP: '0'

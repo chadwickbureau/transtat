@@ -1,0 +1,1529 @@
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Martinez
+  nameClub1: Decatur
+  Pos: 1B
+  G: '117'
+  PO: '1092'
+  A: '54'
+  E: '10'
+  DP: '86'
+  PCT: '.991'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Keller
+  nameClub1: Hannibal
+  Pos: 1B
+  G: '51'
+  PO: '438'
+  A: '29'
+  E: '6'
+  DP: '45'
+  PCT: '.987'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Werner
+  nameClub1: Mount Vernon
+  throws: L
+  Pos: 1B
+  G: '116'
+  PO: '1046'
+  A: '71'
+  E: '16'
+  DP: '91'
+  PCT: '.986'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Pharr
+  nameClub1: Mattoon
+  throws: L
+  Pos: 1B
+  G: '120'
+  PO: '1092'
+  A: '30'
+  E: '17'
+  DP: '103'
+  PCT: '.985'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Dreisbach
+  nameClub1: Hannibal
+  Pos: 1B
+  G: '47'
+  PO: '455'
+  A: '21'
+  E: '8'
+  DP: '27'
+  PCT: '.983'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Marion
+  nameClub1: Paris
+  throws: L
+  Pos: 1B
+  G: '112'
+  PO: '1028'
+  A: '67'
+  E: '23'
+  DP: '76'
+  PCT: '.979'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Oefinger
+  nameClub1: Danville
+  throws: L
+  Pos: 1B
+  G: '102'
+  PO: '902'
+  A: '40'
+  E: '22'
+  DP: '69'
+  PCT: '.977'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Lutz
+  nameClub1: Danville
+  Pos: 1B
+  G: '14'
+  PO: '112'
+  A: '5'
+  E: '5'
+  DP: '8'
+  PCT: '.959'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Witteveen
+  nameClub1: Danville
+  throws: L
+  Pos: 1B
+  G: '11'
+  PO: '82'
+  A: '5'
+  E: '4'
+  DP: '5'
+  PCT: '.956'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Deery
+  nameClub1: Mattoon
+  Pos: 2B
+  G: '118'
+  PO: '317'
+  A: '395'
+  E: '17'
+  DP: '98'
+  PCT: '.977'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Taylor
+  nameClub1: Decatur
+  Pos: 2B
+  G: '118'
+  PO: '292'
+  A: '342'
+  E: '21'
+  DP: '72'
+  PCT: '.968'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Schmidt
+  nameClub1: Mount Vernon
+  Pos: 2B
+  G: '109'
+  PO: '268'
+  A: '357'
+  E: '21'
+  DP: '94'
+  PCT: '.967'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hancks
+  nameClub1: Hannibal
+  Pos: 2B
+  G: '112'
+  PO: '282'
+  A: '345'
+  E: '22'
+  DP: '66'
+  PCT: '.966'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Granneman
+  nameClub1: Paris
+  Pos: 2B
+  G: '105'
+  PO: '332'
+  A: '292'
+  E: '25'
+  DP: '61'
+  PCT: '.961'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Minnis
+  nameClub1: Danville
+  Pos: 2B
+  G: '113'
+  PO: '259'
+  A: '362'
+  E: '26'
+  DP: '66'
+  PCT: '.960'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Gilmore
+  nameClub1: Paris
+  Pos: 2B
+  G: '17'
+  PO: '34'
+  A: '33'
+  E: '3'
+  DP: '4'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Brown
+  nameClub1: Danville
+  Pos: 3B
+  G: '16'
+  PO: '15'
+  A: '26'
+  E: '1'
+  DP: '3'
+  PCT: '.976'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Valdez
+  nameClub1: Decatur
+  Pos: 3B
+  G: '116'
+  PO: '128'
+  A: '244'
+  E: '17'
+  DP: '33'
+  PCT: '.956'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Stanzel
+  nameClub1: Danville
+  Pos: 3B
+  G: '49'
+  PO: '51'
+  A: '97'
+  E: '10'
+  DP: '7'
+  PCT: '.937'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Staton
+  nameClub1: Paris
+  Pos: 3B
+  G: '22'
+  PO: '17'
+  A: '51'
+  E: '5'
+  DP: '3'
+  PCT: '.932'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Rouse
+  nameClub1: Paris
+  Pos: 3B
+  G: '99'
+  PO: '99'
+  A: '232'
+  E: '25'
+  DP: '24'
+  PCT: '.930'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hood
+  nameClub1: Hannibal
+  Pos: 3B
+  G: '116'
+  PO: '119'
+  A: '177'
+  E: '27'
+  DP: '14'
+  PCT: '.916'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: McQuillen
+  nameClub1: Mount Vernon
+  Pos: 3B
+  G: '28'
+  PO: '20'
+  A: '38'
+  E: '6'
+  DP: '2'
+  PCT: '.906'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Henry
+  nameClub1: Mount Vernon
+  Pos: 3B
+  G: '91'
+  PO: '99'
+  A: '141'
+  E: '28'
+  DP: '12'
+  PCT: '.896'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Rous
+  nameClub1: Danville
+  Pos: 3B
+  G: '31'
+  PO: '35'
+  A: '55'
+  E: '11'
+  DP: '3'
+  PCT: '.891'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Gabriel
+  nameClub1: Mattoon
+  Pos: 3B
+  G: '19'
+  PO: '12'
+  A: '24'
+  E: '6'
+  DP: '3'
+  PCT: '.857'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Watkins
+  nameClub1: Mattoon
+  Pos: 3B
+  G: '102'
+  PO: '98'
+  A: '150'
+  E: '42'
+  DP: '15'
+  PCT: '.855'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Coulter
+  nameClub1: Hannibal
+  Pos: SS
+  G: '69'
+  PO: '118'
+  A: '203'
+  E: '17'
+  DP: '33'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Santora
+  nameClub1: Danville
+  Pos: SS
+  G: '13'
+  PO: '18'
+  A: '39'
+  E: '3'
+  DP: '5'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Staton
+  nameClub1: Paris
+  Pos: SS
+  G: '98'
+  PO: '144'
+  A: '306'
+  E: '28'
+  DP: '33'
+  PCT: '.941'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Pavone
+  nameClub1: Hannibal
+  Pos: SS
+  G: '46'
+  PO: '90'
+  A: '135'
+  E: '18'
+  DP: '21'
+  PCT: '.926'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Simonovitch
+  nameClub1: Danville
+  Pos: SS
+  G: '103'
+  PO: '206'
+  A: '297'
+  E: '42'
+  DP: '50'
+  PCT: '.923'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Strichek
+  nameClub1: Mattoon
+  Pos: SS
+  G: '120'
+  PO: '178'
+  A: '319'
+  E: '44'
+  DP: '75'
+  PCT: '.919'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Ritzheimer
+  nameClub1: Mount Vernon
+  Pos: SS
+  G: '75'
+  PO: '123'
+  A: '225'
+  E: '32'
+  DP: '52'
+  PCT: '.916'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Chenard
+  nameClub1: Decatur
+  Pos: SS
+  G: '115'
+  PO: '211'
+  A: '329'
+  E: '51'
+  DP: '47'
+  PCT: '.914'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hinton
+  nameClub1: Mount Vernon
+  Pos: SS
+  G: '14'
+  PO: '20'
+  A: '46'
+  E: '7'
+  DP: '5'
+  PCT: '.904'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Crain
+  nameClub1: Paris
+  Pos: SS
+  G: '18'
+  PO: '24'
+  A: '38'
+  E: '9'
+  DP: '10'
+  PCT: '.873'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Himmelman
+  nameClub1: Mount Vernon
+  Pos: SS
+  G: '10'
+  PO: '16'
+  A: '30'
+  E: '7'
+  DP: '6'
+  PCT: '.868'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Laganella
+  nameClub1: Mount Vernon
+  Pos: SS
+  G: '12'
+  PO: '20'
+  A: '26'
+  E: '12'
+  DP: '6'
+  PCT: '.793'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Cooper
+  nameClub1: Danville
+  Pos: OF
+  G: '18'
+  PO: '36'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Sisk
+  nameClub1: Hannibal
+  nameClub2: Paris
+  Pos: OF
+  G: '19'
+  PO: '22'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Paula
+  nameClub1: Decatur
+  Pos: OF
+  G: '25'
+  PO: '68'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.987'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Dreisbach
+  nameClub1: Hannibal
+  Pos: OF
+  G: '50'
+  PO: '85'
+  A: '7'
+  E: '2'
+  DP: '2'
+  PCT: '.979'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Rouse
+  nameClub1: Paris
+  Pos: OF
+  G: '21'
+  PO: '41'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.977'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Stover
+  nameClub1: Mount Vernon
+  Pos: OF
+  G: '21'
+  PO: '32'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Guidice
+  nameClub1: Hannibal
+  Pos: OF
+  G: '89'
+  PO: '140'
+  A: '8'
+  E: '5'
+  DP: '2'
+  PCT: '.967'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Olivares
+  nameClub1: Decatur
+  throws: L
+  Pos: OF
+  G: '23'
+  PO: '29'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: DeLaFuente
+  nameClub1: Decatur
+  Pos: OF
+  G: '69'
+  PO: '133'
+  A: '9'
+  E: '5'
+  DP: '0'
+  PCT: '.966'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: McQuillen
+  nameClub1: Mount Vernon
+  Pos: OF
+  G: '83'
+  PO: '183'
+  A: '11'
+  E: '7'
+  DP: '6'
+  PCT: '.965'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hudson
+  nameClub1: Hannibal
+  Pos: OF
+  G: '46'
+  PO: '131'
+  A: '5'
+  E: '5'
+  DP: '2'
+  PCT: '.965'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Roberts
+  nameClub1: Mattoon
+  Pos: OF
+  G: '69'
+  PO: '91'
+  A: '10'
+  E: '4'
+  DP: '0'
+  PCT: '.962'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Nance
+  nameClub1: Hannibal
+  nameClub2: Decatur
+  Pos: OF
+  G: '80'
+  PO: '187'
+  A: '7'
+  E: '8'
+  DP: '1'
+  PCT: '.960'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Evans
+  nameClub1: Mount Vernon
+  throws: L
+  Pos: OF
+  G: '42'
+  PO: '91'
+  A: '6'
+  E: '4'
+  DP: '1'
+  PCT: '.960'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Henry
+  nameClub1: Mount Vernon
+  Pos: OF
+  G: '63'
+  PO: '85'
+  A: '4'
+  E: '4'
+  DP: '1'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Partin
+  nameClub1: Danville
+  Pos: OF
+  G: '119'
+  PO: '268'
+  A: '16'
+  E: '13'
+  DP: '0'
+  PCT: '.956'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Payne
+  nameClub1: Paris
+  Pos: OF
+  G: '103'
+  PO: '229'
+  A: '7'
+  E: '11'
+  DP: '1'
+  PCT: '.955'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Platz
+  nameClub1: Paris
+  Pos: OF
+  G: '85'
+  PO: '178'
+  A: '9'
+  E: '9'
+  DP: '0'
+  PCT: '.954'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Anthony
+  nameClub1: Hannibal
+  Pos: OF
+  G: '24'
+  PO: '40'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.953'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Denny
+  nameClub1: Danville
+  Pos: OF
+  G: '45'
+  PO: '74'
+  A: '6'
+  E: '4'
+  DP: '0'
+  PCT: '.952'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Haber
+  nameClub1: Hannibal
+  throws: L
+  Pos: OF
+  G: '49'
+  PO: '105'
+  A: '10'
+  E: '6'
+  DP: '0'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Davis
+  nameClub1: Mattoon
+  Pos: OF
+  G: '63'
+  PO: '71'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.949'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: McGee
+  nameClub1: Mattoon
+  Pos: OF
+  G: '103'
+  PO: '210'
+  A: '10'
+  E: '12'
+  DP: '2'
+  PCT: '.948'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Freeman
+  nameClub1: Decatur
+  Pos: OF
+  G: '117'
+  PO: '186'
+  A: '11'
+  E: '11'
+  DP: '1'
+  PCT: '.947'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Parisotto
+  nameClub1: Mount Vernon
+  throws: L
+  Pos: OF
+  G: '69'
+  PO: '135'
+  A: '3'
+  E: '8'
+  DP: '0'
+  PCT: '.945'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Gordon
+  nameClub1: Danville
+  Pos: OF
+  G: '83'
+  PO: '143'
+  A: '6'
+  E: '10'
+  DP: '1'
+  PCT: '.937'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Radebach
+  nameClub1: Mattoon
+  Pos: OF
+  G: '46'
+  PO: '55'
+  A: '2'
+  E: '4'
+  DP: '1'
+  PCT: '.934'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Fiala
+  nameClub1: Hannibal
+  Pos: OF
+  G: '15'
+  PO: '27'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hester
+  nameClub1: Paris
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hunter
+  nameClub1: Mattoon
+  Pos: OF
+  G: '76'
+  PO: '124'
+  A: '2'
+  E: '10'
+  DP: '0'
+  PCT: '.926'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Pearson
+  nameClub1: Danville
+  Pos: OF
+  G: '36'
+  PO: '67'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.921'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Parmeley
+  nameClub1: Hannibal
+  Pos: OF
+  G: '38'
+  PO: '65'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.920'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Lutz
+  nameClub1: Danville
+  Pos: OF
+  G: '15'
+  PO: '16'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Niehaus
+  nameClub1: Decatur
+  Pos: OF
+  G: '48'
+  PO: '62'
+  A: '6'
+  E: '7'
+  DP: '2'
+  PCT: '.907'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Zapp
+  nameClub1: Danville
+  Pos: OF
+  G: '11'
+  PO: '16'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Smith
+  nameClub1: Paris
+  Pos: OF
+  G: '113'
+  PO: '128'
+  A: '13'
+  E: '17'
+  DP: '4'
+  PCT: '.892'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Gaebe
+  nameClub1: Mount Vernon
+  Pos: OF
+  G: '14'
+  PO: '22'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.880'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Mendenhall
+  nameClub1: Mount Vernon
+  Pos: OF
+  G: '54'
+  PO: '79'
+  A: '3'
+  E: '12'
+  DP: '2'
+  PCT: '.872'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Miller
+  nameClub1: Paris
+  Pos: OF
+  G: '20'
+  PO: '25'
+  A: '2'
+  E: '4'
+  DP: '1'
+  PCT: '.871'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hall
+  nameClub1: Decatur
+  Pos: OF
+  G: '10'
+  PO: '24'
+  A: '1'
+  E: '4'
+  DP: '1'
+  PCT: '.862'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Kolodziejski
+  nameClub1: Danville
+  Pos: OF
+  G: '14'
+  PO: '21'
+  A: '0'
+  E: '6'
+  DP: '0'
+  PCT: '.778'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Gumbert
+  nameClub1: Hannibal
+  Pos: C
+  G: '50'
+  PO: '259'
+  A: '28'
+  E: '4'
+  DP: '4'
+  PB: '5'
+  PCT: '.986'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Capachione
+  nameClub1: Paris
+  Pos: C
+  G: '113'
+  PO: '599'
+  A: '62'
+  E: '10'
+  DP: '5'
+  PB: '20'
+  PCT: '.985'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Sirota
+  nameClub1: Mattoon
+  Pos: C
+  G: '117'
+  PO: '799'
+  A: '79'
+  E: '16'
+  DP: '5'
+  PB: '18'
+  PCT: '.982'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Smith
+  nameClub1: Decatur
+  Pos: C
+  G: '115'
+  PO: '610'
+  A: '50'
+  E: '13'
+  DP: '7'
+  PB: '12'
+  PCT: '.981'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Starasta
+  nameClub1: Mount Vernon
+  Pos: C
+  G: '117'
+  PO: '606'
+  A: '45'
+  E: '14'
+  DP: '8'
+  PB: '15'
+  PCT: '.979'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Maley
+  nameClub1: Danville
+  Pos: C
+  G: '114'
+  PO: '638'
+  A: '67'
+  E: '22'
+  DP: '6'
+  PB: '27'
+  PCT: '.970'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Skoble
+  nameClub1: Paris
+  nameClub2: Mount Vernon
+  Pos: C
+  G: '11'
+  PO: '26'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PB: '3'
+  PCT: '.964'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Eubanks
+  nameClub1: Mount Vernon
+  Pos: C
+  G: '13'
+  PO: '17'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PB: '1'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Lyles
+  nameClub1: Hannibal
+  Pos: C
+  G: '20'
+  PO: '88'
+  A: '5'
+  E: '5'
+  DP: '0'
+  PB: '3'
+  PCT: '.949'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hall
+  nameClub1: Decatur
+  Pos: C
+  G: '12'
+  PO: '32'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PB: '3'
+  PCT: '.946'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Grosnickle
+  nameClub1: Hannibal
+  Pos: C
+  G: '22'
+  PO: '103'
+  A: '14'
+  E: '7'
+  DP: '2'
+  PB: '11'
+  PCT: '.944'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Sisk
+  nameClub1: Hannibal
+  nameClub2: Paris
+  Pos: C
+  G: '14'
+  PO: '65'
+  A: '8'
+  E: '5'
+  DP: '1'
+  PB: '4'
+  PCT: '.936'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Denaro
+  nameClub1: Hannibal
+  Pos: C
+  G: '10'
+  PO: '43'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PB: '4'
+  PCT: '.922'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Rolla
+  nameClub1: Mount Vernon
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '27'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hutchinson
+  nameClub1: Danville
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Naranjo
+  nameClub1: Decatur
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Strong
+  nameClub1: Danville
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Nolan
+  nameClub1: Danville
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Garcia
+  nameClub1: Decatur
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '13'
+  A: '52'
+  E: '2'
+  DP: '4'
+  PCT: '.970'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Shade
+  nameClub1: Mattoon
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '57'
+  E: '2'
+  DP: '3'
+  PCT: '.969'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Lopez
+  nameClub1: Decatur
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Cunningham
+  nameClub1: Mount Vernon
+  nameClub2: Danville
+  Pos: P
+  G: '21'
+  PO: '11'
+  A: '14'
+  E: '1'
+  DP: '2'
+  PCT: '.962'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: MacKinnon
+  nameClub1: Paris
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '20'
+  E: '1'
+  DP: '3'
+  PCT: '.960'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Brookman
+  nameClub1: Mount Vernon
+  throws: L
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Appleby
+  nameClub1: Decatur
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '7'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.957'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Bright
+  nameClub1: Mattoon
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '14'
+  A: '46'
+  E: '3'
+  DP: '3'
+  PCT: '.952'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: McGhay
+  nameClub1: Hannibal
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '20'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Gordon
+  nameClub1: Paris
+  Pos: P
+  G: '32'
+  PO: '11'
+  A: '46'
+  E: '3'
+  DP: '5'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Easterling
+  nameClub1: Mattoon
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.950'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Leonard
+  nameClub1: Hannibal
+  Pos: P
+  G: '33'
+  PO: '16'
+  A: '40'
+  E: '3'
+  DP: '3'
+  PCT: '.949'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Goreham
+  nameClub1: Decatur
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Allen
+  nameFirst: W.
+  nameClub1: Hannibal
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '26'
+  E: '2'
+  DP: '3'
+  PCT: '.946'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hamilton
+  nameClub1: Mattoon
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '60'
+  E: '4'
+  DP: '4'
+  PCT: '.943'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Saager
+  nameClub1: Mount Vernon
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '13'
+  E: '1'
+  DP: '2'
+  PCT: '.938'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Case
+  nameClub1: Paris
+  Pos: P
+  G: '27'
+  PO: '17'
+  A: '41'
+  E: '4'
+  DP: '2'
+  PCT: '.935'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Lewis
+  nameClub1: Paris
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '27'
+  E: '3'
+  DP: '0'
+  PCT: '.912'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Lutz
+  nameClub1: Danville
+  Pos: P
+  G: '23'
+  PO: '8'
+  A: '22'
+  E: '3'
+  DP: '1'
+  PCT: '.909'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Francis
+  nameClub1: Mount Vernon
+  Pos: P
+  G: '18'
+  PO: '8'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Allen
+  nameFirst: J.
+  nameClub1: Hannibal
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '12'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Henke
+  nameClub1: Hannibal
+  Pos: P
+  G: '16'
+  PO: '7'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Armin
+  nameClub1: Hannibal
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '22'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Wills
+  nameClub1: Hannibal
+  Pos: P
+  G: '34'
+  PO: '4'
+  A: '32'
+  E: '3'
+  DP: '6'
+  PCT: '.923'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Sisk
+  nameClub1: Hannibal
+  nameClub2: Paris
+  Pos: P
+  G: '20'
+  PO: '2'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Cronin
+  nameClub1: Mattoon
+  Pos: P
+  G: '28'
+  PO: '6'
+  A: '38'
+  E: '4'
+  DP: '3'
+  PCT: '.917'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Bridges
+  nameClub1: Mount Vernon
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '28'
+  E: '3'
+  DP: '0'
+  PCT: '.917'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Maxa
+  nameClub1: Paris
+  Pos: P
+  G: '32'
+  PO: '9'
+  A: '29'
+  E: '4'
+  DP: '3'
+  PCT: '.905'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Melanson
+  nameClub1: Danville
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '24'
+  E: '3'
+  DP: '2'
+  PCT: '.903'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Huffman
+  nameClub1: Mount Vernon
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Bafus
+  nameClub1: Danville
+  Pos: P
+  G: '9'
+  PO: '2'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Hoerner
+  nameClub1: Mattoon
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '28'
+  E: '5'
+  DP: '0'
+  PCT: '.875'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: D'Esposito
+  nameClub1: Danville
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '26'
+  E: '5'
+  DP: '1'
+  PCT: '.875'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Herrera
+  nameClub1: Decatur
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '8'
+  A: '33'
+  E: '6'
+  DP: '1'
+  PCT: '.872'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Evans
+  nameClub1: Mount Vernon
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '5'
+  A: '23'
+  E: '5'
+  DP: '1'
+  PCT: '.848'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Peterson
+  nameClub1: Danville
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '5'
+  A: '28'
+  E: '6'
+  DP: '2'
+  PCT: '.846'
+- year: '1953'
+  nameLeague: Mississippi-Ohio Valley League
+  nameLast: Grajeda
+  nameClub1: Decatur
+  Pos: P
+  G: '26'
+  PO: '13'
+  A: '46'
+  E: '9'
+  DP: '2'
+  PCT: '.845'

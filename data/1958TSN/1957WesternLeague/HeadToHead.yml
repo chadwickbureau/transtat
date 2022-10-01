@@ -1,0 +1,80 @@
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Lincoln
+  Amarillo: '11'
+  Topeka: '13'
+  Sioux City: '13'
+  Colorado Springs: '16'
+  Albuquerque: '13'
+  Pueblo: '16'
+  Des Moines: '16'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Amarillo
+  Lincoln: '11'
+  Topeka: '14'
+  Sioux City: '17'
+  Colorado Springs: '15'
+  Albuquerque: '12'
+  Pueblo: '12'
+  Des Moines: '16'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Topeka
+  Lincoln: '9'
+  Amarillo: '8'
+  Sioux City: '10'
+  Colorado Springs: '12'
+  Albuquerque: '15'
+  Pueblo: '18'
+  Des Moines: '15'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Sioux City
+  Lincoln: '9'
+  Amarillo: '5'
+  Topeka: '11'
+  Colorado Springs: '11'
+  Albuquerque: '12'
+  Pueblo: '11'
+  Des Moines: '12'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  Lincoln: '6'
+  Amarillo: '7'
+  Topeka: '10'
+  Sioux City: '11'
+  Albuquerque: '11'
+  Pueblo: '12'
+  Des Moines: '11'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Albuquerque
+  Lincoln: '9'
+  Amarillo: '10'
+  Topeka: '7'
+  Sioux City: '10'
+  Colorado Springs: '11'
+  Pueblo: '9'
+  Des Moines: '10'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Pueblo
+  Lincoln: '6'
+  Amarillo: '10'
+  Topeka: '4'
+  Sioux City: '11'
+  Colorado Springs: '10'
+  Albuquerque: '13'
+  Des Moines: '12'
+- year: '1957'
+  nameLeague: Western League
+  nameClub: Des Moines
+  Lincoln: '6'
+  Amarillo: '6'
+  Topeka: '5'
+  Sioux City: '10'
+  Colorado Springs: '11'
+  Albuquerque: '12'
+  Pueblo: '10'

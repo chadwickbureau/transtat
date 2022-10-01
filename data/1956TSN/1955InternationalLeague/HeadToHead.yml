@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: International League
+  nameClub: Montreal
+  Toronto: '10'
+  Havana: '11'
+  Rochester: '16'
+  Syracuse: '14'
+  Buffalo: '14'
+  Columbus: '14'
+  Richmond: '16'
+- year: '1955'
+  nameLeague: International League
+  nameClub: Toronto
+  Montreal: '12'
+  Havana: '15'
+  Rochester: '10'
+  Syracuse: '10'
+  Buffalo: '18'
+  Columbus: '14'
+  Richmond: '15'
+- year: '1955'
+  nameLeague: International League
+  nameClub: Havana
+  Montreal: '11'
+  Toronto: '7'
+  Rochester: '16'
+  Syracuse: '14'
+  Buffalo: '13'
+  Columbus: '12'
+  Richmond: '14'
+- year: '1955'
+  nameLeague: International League
+  nameClub: Rochester
+  Montreal: '6'
+  Toronto: '11'
+  Havana: '6'
+  Syracuse: '12'
+  Buffalo: '15'
+  Columbus: '11'
+  Richmond: '15'
+- year: '1955'
+  nameLeague: International League
+  nameClub: Syracuse
+  Montreal: '8'
+  Toronto: '12'
+  Havana: '8'
+  Rochester: '10'
+  Buffalo: '10'
+  Columbus: '13'
+  Richmond: '13'
+- year: '1955'
+  nameLeague: International League
+  nameClub: Buffalo
+  Montreal: '8'
+  Toronto: '4'
+  Havana: '9'
+  Rochester: '7'
+  Syracuse: '12'
+  Columbus: '15'
+  Richmond: '10'
+- year: '1955'
+  nameLeague: International League
+  nameClub: Columbus
+  Montreal: '8'
+  Toronto: '8'
+  Havana: '9'
+  Rochester: '11'
+  Syracuse: '9'
+  Buffalo: '7'
+  Richmond: '12'
+- year: '1955'
+  nameLeague: International League
+  nameClub: Richmond
+  Montreal: '6'
+  Toronto: '7'
+  Havana: '8'
+  Rochester: '7'
+  Syracuse: '8'
+  Buffalo: '12'
+  Columbus: '10'

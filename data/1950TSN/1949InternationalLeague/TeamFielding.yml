@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: International League
+  nameClub: Buffalo
+  G: '155'
+  DP: '145'
+  PB: '8'
+  PO: '3957'
+  A: '1640'
+  E: '158'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: International League
+  nameClub: Syracuse
+  G: '153'
+  DP: '151'
+  PB: '6'
+  PO: '3817'
+  A: '1605'
+  E: '170'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: International League
+  nameClub: Rochester
+  G: '153'
+  DP: '154'
+  PB: '13'
+  PO: '3959'
+  A: '1570'
+  E: '177'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: International League
+  nameClub: Jersey City
+  G: '154'
+  DP: '143'
+  PB: '11'
+  PO: '3953'
+  A: '1629'
+  E: '183'
+  PCT: '.968'
+  TP: '0'
+- year: '1949'
+  nameLeague: International League
+  nameClub: Toronto
+  G: '153'
+  DP: '172'
+  PB: '16'
+  PO: '3880'
+  A: '1679'
+  E: '187'
+  PCT: '.967'
+  TP: '0'
+- year: '1949'
+  nameLeague: International League
+  nameClub: Montreal
+  G: '155'
+  DP: '153'
+  PB: '20'
+  PO: '3881'
+  A: '1580'
+  E: '187'
+  PCT: '.967'
+  TP: '0'
+- year: '1949'
+  nameLeague: International League
+  nameClub: Baltimore
+  G: '154'
+  DP: '125'
+  PB: '10'
+  PO: '3843'
+  A: '1513'
+  E: '193'
+  PCT: '.965'
+  TP: '0'
+- year: '1949'
+  nameLeague: International League
+  nameClub: Newark
+  G: '154'
+  DP: '151'
+  PB: '9'
+  PO: '3838'
+  A: '1576'
+  E: '256'
+  PCT: '.955'
+  TP: '0'

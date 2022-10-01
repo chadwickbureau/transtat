@@ -1,0 +1,48 @@
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  Asheville: '19'
+  Charlotte: '18'
+  Anderson: '19'
+  Gastonia: '20'
+  Rock Hill: '20'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  Spartanburg: '11'
+  Charlotte: '12'
+  Anderson: '18'
+  Gastonia: '21'
+  Rock Hill: '21'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Charlotte
+  Spartanburg: '12'
+  Asheville: '18'
+  Anderson: '14'
+  Gastonia: '16'
+  Rock Hill: '14'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  Spartanburg: '11'
+  Asheville: '12'
+  Charlotte: '15'
+  Gastonia: '15'
+  Rock Hill: '22'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Gastonia
+  Spartanburg: '10'
+  Asheville: '9'
+  Charlotte: '11'
+  Anderson: '15'
+  Rock Hill: '21'
+- year: '1953'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  Spartanburg: '10'
+  Asheville: '9'
+  Charlotte: '15'
+  Anderson: '8'
+  Gastonia: '9'

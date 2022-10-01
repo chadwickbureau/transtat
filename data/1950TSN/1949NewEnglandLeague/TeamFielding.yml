@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Manchester
+  G: '73'
+  DP: '42'
+  PB: '13'
+  PO: '1919'
+  A: '735'
+  E: '101'
+  PCT: '.963'
+  TP: '0'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Portland
+  G: '123'
+  DP: '113'
+  PB: '4'
+  PO: '3183'
+  A: '1444'
+  E: '193'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Nashua
+  G: '123'
+  DP: '112'
+  PB: '27'
+  PO: '3197'
+  A: '1338'
+  E: '194'
+  PCT: '.959'
+  TP: '1'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Pawtucket
+  G: '126'
+  DP: '86'
+  PB: '16'
+  PO: '3338'
+  A: '1300'
+  E: '218'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Springfield
+  G: '121'
+  DP: '137'
+  PB: '15'
+  PO: '3135'
+  A: '1414'
+  E: '213'
+  PCT: '.955'
+  TP: '1'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Lynn
+  G: '76'
+  DP: '61'
+  PB: '9'
+  PO: '1975'
+  A: '871'
+  E: '139'
+  PCT: '.953'
+  TP: '0'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Providence
+  G: '48'
+  DP: '46'
+  PB: '9'
+  PO: '1267'
+  A: '624'
+  E: '98'
+  PCT: '.951'
+  TP: '0'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Fall River
+  G: '70'
+  DP: '60'
+  PB: '6'
+  PO: '1798'
+  A: '757'
+  E: '139'
+  PCT: '.948'
+  TP: '0'

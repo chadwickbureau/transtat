@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: regular
+  W: '84'
+  L: '56'
+  T: '0'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: regular
+  W: '80'
+  L: '59'
+  T: '1'
+  PCT: '.576'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  phase: regular
+  W: '73'
+  L: '66'
+  T: '2'
+  PCT: '.533'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  phase: regular
+  W: '72'
+  L: '66'
+  T: '0'
+  PCT: '.522'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  phase: regular
+  W: '72'
+  L: '67'
+  T: '0'
+  PCT: '.518'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  phase: regular
+  W: '64'
+  L: '75'
+  T: '1'
+  PCT: '.460'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Clarksdale
+  phase: regular
+  W: '58'
+  L: '80'
+  T: '0'
+  PCT: '.420'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Helena
+  phase: regular
+  W: '53'
+  L: '87'
+  T: '0'
+  PCT: '.378'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Greenwood
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

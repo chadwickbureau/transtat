@@ -1,0 +1,2468 @@
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Coker
+  nameClub1: Alexander City
+  G: '10'
+  PO: '90'
+  A: '3'
+  E: '0'
+  DP: '12'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Chapman
+  nameClub1: Valley
+  G: '24'
+  PO: '162'
+  A: '8'
+  E: '1'
+  DP: '7'
+  PCT: '.994'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Etchison
+  nameClub1: Griffin
+  throws: L
+  G: '44'
+  PO: '357'
+  A: '25'
+  E: '4'
+  DP: '32'
+  PCT: '.990'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Cooper
+  nameClub1: La Grange
+  G: '21'
+  PO: '156'
+  A: '9'
+  E: '2'
+  DP: '17'
+  PCT: '.988'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Rucker
+  nameClub1: Carrollton
+  G: '17'
+  PO: '167'
+  A: '2'
+  E: '2'
+  DP: '5'
+  PCT: '.988'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Whited
+  nameClub1: Carrollton
+  G: '12'
+  PO: '77'
+  A: '3'
+  E: '1'
+  DP: '3'
+  PCT: '.988'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Pinson
+  nameClub1: Tallassee
+  G: '114'
+  PO: '1025'
+  A: '48'
+  E: '17'
+  DP: '71'
+  PCT: '.984'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Flemming
+  nameClub1: Opelika
+  G: '110'
+  PO: '913'
+  A: '53'
+  E: '16'
+  DP: '61'
+  PCT: '.984'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: McAfee
+  nameClub1: Newnan
+  throws: L
+  G: '121'
+  PO: '991'
+  A: '53'
+  E: '19'
+  DP: '76'
+  PCT: '.982'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Morgan
+  nameClub1: Valley
+  G: '57'
+  PO: '461'
+  A: '33'
+  E: '11'
+  DP: '38'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Flaherty
+  nameClub1: La Grange
+  G: '45'
+  PO: '271'
+  A: '14'
+  E: '7'
+  DP: '15'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Shirley
+  nameClub1: Carrollton
+  throws: L
+  G: '84'
+  PO: '645'
+  A: '28'
+  E: '19'
+  DP: '37'
+  PCT: '.973'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: York
+  nameClub1: Griffin
+  G: '31'
+  PO: '163'
+  A: '20'
+  E: '5'
+  DP: '15'
+  PCT: '.973'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Hudson
+  nameFirst: W.
+  nameClub1: Carrollton
+  G: '14'
+  PO: '70'
+  A: '1'
+  E: '2'
+  DP: '3'
+  PCT: '.973'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Pollard
+  nameClub1: Griffin
+  throws: L
+  G: '50'
+  PO: '379'
+  A: '2'
+  E: '12'
+  DP: '22'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Shoemake
+  nameClub1: Valley
+  nameClub2: Newnan
+  throws: L
+  G: '46'
+  PO: '296'
+  A: '15'
+  E: '10'
+  DP: '32'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Thrift
+  nameClub1: La Grange
+  throws: L
+  G: '47'
+  PO: '293'
+  A: '11'
+  E: '10'
+  DP: '26'
+  PCT: '.968'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Brown
+  nameFirst: W.
+  nameClub1: Alexander City
+  G: '112'
+  PO: '872'
+  A: '61'
+  E: '34'
+  DP: '61'
+  PCT: '.965'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Lawson
+  nameClub1: La Grange
+  throws: L
+  G: '20'
+  PO: '124'
+  A: '5'
+  E: '7'
+  DP: '9'
+  PCT: '.949'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 1B
+  nameLast: Bottorff
+  nameClub1: Opelika
+  G: '16'
+  PO: '135'
+  A: '10'
+  E: '9'
+  DP: '7'
+  PCT: '.942'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Schmidt
+  nameClub1: Newnan
+  G: '123'
+  PO: '326'
+  A: '304'
+  E: '17'
+  DP: '65'
+  PCT: '.974'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Steckel
+  nameClub1: Valley
+  G: '55'
+  PO: '163'
+  A: '107'
+  E: '8'
+  DP: '29'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Berman
+  nameClub1: Carrollton
+  G: '112'
+  PO: '306'
+  A: '252'
+  E: '21'
+  DP: '41'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Huesman
+  nameClub1: Alexander City
+  G: '98'
+  PO: '286'
+  A: '296'
+  E: '22'
+  DP: '56'
+  PCT: '.964'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Berg
+  nameClub1: Tallassee
+  G: '117'
+  PO: '307'
+  A: '321'
+  E: '24'
+  DP: '54'
+  PCT: '.963'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Hammack
+  nameClub1: La Grange
+  G: '27'
+  PO: '67'
+  A: '64'
+  E: '5'
+  DP: '15'
+  PCT: '.963'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Morgan
+  nameClub1: Valley
+  G: '20'
+  PO: '51'
+  A: '49'
+  E: '4'
+  DP: '14'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Morrongiello
+  nameClub1: La Grange
+  G: '35'
+  PO: '73'
+  A: '76'
+  E: '7'
+  DP: '12'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Spruill
+  nameClub1: Valley
+  G: '22'
+  PO: '26'
+  A: '50'
+  E: '4'
+  DP: '4'
+  PCT: '.950'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Julian
+  nameFirst: R.
+  nameClub1: Opelika
+  G: '113'
+  PO: '264'
+  A: '295'
+  E: '39'
+  DP: '44'
+  PCT: '.935'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Johnson
+  nameClub1: Valley
+  G: '14'
+  PO: '30'
+  A: '26'
+  E: '4'
+  DP: '8'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Reach
+  nameClub1: Alexander City
+  G: '27'
+  PO: '72'
+  A: '54'
+  E: '10'
+  DP: '4'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Burk
+  nameClub1: La Grange
+  G: '47'
+  PO: '119'
+  A: '111'
+  E: '22'
+  DP: '21'
+  PCT: '.913'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: McAndrew
+  nameClub1: Griffin
+  G: '111'
+  PO: '296'
+  A: '247'
+  E: '53'
+  DP: '49'
+  PCT: '.911'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Bartholomew
+  nameClub1: Carrollton
+  G: '15'
+  PO: '30'
+  A: '37'
+  E: '7'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Harrison
+  nameClub1: Valley
+  G: '13'
+  PO: '37'
+  A: '30'
+  E: '7'
+  DP: '3'
+  PCT: '.905'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 2B
+  nameLast: Davenport
+  nameClub1: Valley
+  G: '12'
+  PO: '23'
+  A: '27'
+  E: '8'
+  DP: '4'
+  PCT: '.862'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Noga
+  nameClub1: Griffin
+  G: '67'
+  PO: '105'
+  A: '158'
+  E: '16'
+  DP: '22'
+  PCT: '.943'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Edwards
+  nameClub1: Alexander City
+  G: '114'
+  PO: '160'
+  A: '210'
+  E: '25'
+  DP: '21'
+  PCT: '.937'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Seal
+  nameClub1: Carrollton
+  G: '36'
+  PO: '61'
+  A: '68'
+  E: '9'
+  DP: '6'
+  PCT: '.935'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Dickerman
+  nameClub1: Tallassee
+  G: '34'
+  PO: '43'
+  A: '46'
+  E: '7'
+  DP: '3'
+  PCT: '.927'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Bottoms
+  nameClub1: Valley
+  G: '19'
+  PO: '31'
+  A: '17'
+  E: '4'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Franson
+  nameClub1: Newnan
+  G: '124'
+  PO: '122'
+  A: '250'
+  E: '37'
+  DP: '19'
+  PCT: '.910'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Conhenney
+  nameClub1: Carrollton
+  G: '80'
+  PO: '85'
+  A: '174'
+  E: '26'
+  DP: '9'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Jarvis
+  nameClub1: Opelika
+  G: '111'
+  PO: '120'
+  A: '220'
+  E: '35'
+  DP: '20'
+  PCT: '.907'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Flaherty
+  nameClub1: La Grange
+  G: '52'
+  PO: '58'
+  A: '83'
+  E: '15'
+  DP: '6'
+  PCT: '.904'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: DeFeo
+  nameClub1: Tallassee
+  nameClub2: Griffin
+  G: '43'
+  PO: '52'
+  A: '79'
+  E: '14'
+  DP: '8'
+  PCT: '.903'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Mancini
+  nameClub1: La Grange
+  G: '50'
+  PO: '51'
+  A: '97'
+  E: '19'
+  DP: '7'
+  PCT: '.886'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Herdt
+  nameClub1: Tallassee
+  G: '73'
+  PO: '83'
+  A: '110'
+  E: '34'
+  DP: '8'
+  PCT: '.850'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Spruill
+  nameClub1: Valley
+  G: '105'
+  PO: '154'
+  A: '241'
+  E: '36'
+  DP: '31'
+  PCT: '.832'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: 3B
+  nameLast: Laney
+  nameClub1: Griffin
+  G: '24'
+  PO: '33'
+  A: '26'
+  E: '15'
+  DP: '0'
+  PCT: '.797'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Adams
+  nameClub1: Tallassee
+  G: '121'
+  PO: '218'
+  A: '401'
+  E: '37'
+  DP: '49'
+  PCT: '.944'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Roberts
+  nameClub1: Alexander City
+  G: '106'
+  PO: '174'
+  A: '296'
+  E: '29'
+  DP: '42'
+  PCT: '.942'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Huesman
+  nameClub1: Alexander City
+  G: '27'
+  PO: '51'
+  A: '66'
+  E: '8'
+  DP: '4'
+  PCT: '.936'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Noga
+  nameClub1: Griffin
+  G: '55'
+  PO: '102'
+  A: '114'
+  E: '15'
+  DP: '15'
+  PCT: '.935'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Seal
+  nameClub1: Carrollton
+  G: '46'
+  PO: '104'
+  A: '117'
+  E: '16'
+  DP: '17'
+  PCT: '.932'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Muse
+  nameClub1: La Grange
+  G: '28'
+  PO: '33'
+  A: '86'
+  E: '10'
+  DP: '15'
+  PCT: '.922'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Hammack
+  nameClub1: La Grange
+  G: '72'
+  PO: '168'
+  A: '181'
+  E: '30'
+  DP: '22'
+  PCT: '.921'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Ridenour
+  nameClub1: Carrollton
+  G: '14'
+  PO: '29'
+  A: '41'
+  E: '6'
+  DP: '6'
+  PCT: '.921'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Nasworthy
+  nameClub1: Carrollton
+  G: '67'
+  PO: '107'
+  A: '153'
+  E: '26'
+  DP: '17'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Sanders
+  nameClub1: Griffin
+  G: '12'
+  PO: '23'
+  A: '27'
+  E: '5'
+  DP: '3'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Millard
+  nameClub1: Newnan
+  G: '123'
+  PO: '258'
+  A: '326'
+  E: '61'
+  DP: '57'
+  PCT: '.905'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Flores
+  nameClub1: Opelika
+  G: '119'
+  PO: '214'
+  A: '314'
+  E: '74'
+  DP: '36'
+  PCT: '.877'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Ray
+  nameClub1: Valley
+  G: '84'
+  PO: '114'
+  A: '240'
+  E: '50'
+  DP: '37'
+  PCT: '.876'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Clark
+  nameClub1: Valley
+  G: '44'
+  PO: '72'
+  A: '95'
+  E: '25'
+  DP: '11'
+  PCT: '.870'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Battistelli
+  nameClub1: Griffin
+  G: '18'
+  PO: '37'
+  A: '43'
+  E: '13'
+  DP: '4'
+  PCT: '.860'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Krings
+  nameClub1: La Grange
+  G: '43'
+  PO: '56'
+  A: '60'
+  E: '21'
+  DP: '12'
+  PCT: '.847'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Fleisch
+  nameClub1: Griffin
+  G: '14'
+  PO: '31'
+  A: '21'
+  E: '10'
+  DP: '7'
+  PCT: '.839'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: SS
+  nameLast: Green
+  nameClub1: Griffin
+  G: '12'
+  PO: '30'
+  A: '34'
+  E: '15'
+  DP: '7'
+  PCT: '.810'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Burnstine
+  nameClub1: Carrollton
+  G: '17'
+  PO: '17'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Hargis
+  nameClub1: Newnan
+  nameClub2: Griffin
+  G: '16'
+  PO: '18'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Nance
+  nameClub1: Valley
+  G: '15'
+  PO: '27'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Jackson
+  nameClub1: Griffin
+  G: '12'
+  PO: '7'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Wassel
+  nameClub1: Griffin
+  nameClub2: Newnan
+  G: '11'
+  PO: '23'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Russell
+  nameClub1: Carrollton
+  G: '11'
+  PO: '15'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Lawson
+  nameClub1: La Grange
+  throws: L
+  G: '10'
+  PO: '18'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Krochina
+  nameClub1: La Grange
+  G: '107'
+  PO: '246'
+  A: '14'
+  E: '4'
+  DP: '3'
+  PCT: '.985'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Rikard
+  nameClub1: Tallassee
+  G: '121'
+  PO: '219'
+  A: '33'
+  E: '5'
+  DP: '8'
+  PCT: '.981'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Ferra
+  nameClub1: La Grange
+  G: '32'
+  PO: '50'
+  A: '1'
+  E: '1'
+  DP: '2'
+  PCT: '.981'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Nasworthy
+  nameClub1: Carrollton
+  G: '22'
+  PO: '45'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Dickson
+  nameClub1: Newnan
+  G: '63'
+  PO: '83'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Pollard
+  nameClub1: Griffin
+  throws: L
+  G: '23'
+  PO: '40'
+  A: '2'
+  E: '1'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Hardegree
+  nameClub1: Newnan
+  G: '16'
+  PO: '39'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Wolley
+  nameClub1: Alexander City
+  throws: L
+  G: '106'
+  PO: '198'
+  A: '8'
+  E: '6'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Cooper
+  nameClub1: La Grange
+  G: '90'
+  PO: '129'
+  A: '8'
+  E: '4'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Lyons
+  nameClub1: La Grange
+  G: '19'
+  PO: '30'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Thompson
+  nameFirst: J.
+  nameClub1: Carrollton
+  G: '19'
+  PO: '29'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Chechile
+  nameClub1: Griffin
+  nameClub2: Newnan
+  G: '119'
+  PO: '233'
+  A: '18'
+  E: '9'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Chapman
+  nameClub1: Valley
+  G: '58'
+  PO: '75'
+  A: '0'
+  E: '3'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Sanders
+  nameClub1: Griffin
+  G: '93'
+  PO: '165'
+  A: '7'
+  E: '7'
+  DP: '4'
+  PCT: '.961'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Lazzari
+  nameClub1: Newnan
+  G: '36'
+  PO: '70'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.961'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Ciani
+  nameClub1: Tallassee
+  throws: L
+  G: '117'
+  PO: '152'
+  A: '9'
+  E: '7'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Ball
+  nameClub1: Opelika
+  G: '115'
+  PO: '219'
+  A: '10'
+  E: '10'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Forrester
+  nameClub1: Griffin
+  G: '43'
+  PO: '84'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Goff
+  nameClub1: La Grange
+  G: '82'
+  PO: '98'
+  A: '9'
+  E: '5'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Tidwell
+  nameClub1: Carrollton
+  G: '35'
+  PO: '61'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Chappell
+  nameClub1: Alexander City
+  G: '28'
+  PO: '56'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Blackwell
+  nameClub1: Tallassee
+  G: '114'
+  PO: '251'
+  A: '20'
+  E: '14'
+  DP: '3'
+  PCT: '.951'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Morelli
+  nameClub1: Carrollton
+  G: '107'
+  PO: '257'
+  A: '11'
+  E: '14'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Mason
+  nameClub1: Valley
+  G: '27'
+  PO: '83'
+  A: '4'
+  E: '5'
+  DP: '1'
+  PCT: '.946'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Alonso
+  nameClub1: Alexander City
+  G: '72'
+  PO: '96'
+  A: '3'
+  E: '6'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Rucker
+  nameClub1: Carrollton
+  G: '103'
+  PO: '156'
+  A: '6'
+  E: '10'
+  DP: '1'
+  PCT: '.942'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Cichon
+  nameClub1: Carrollton
+  G: '53'
+  PO: '86'
+  A: '12'
+  E: '6'
+  DP: '4'
+  PCT: '.942'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Powers
+  nameFirst: J.
+  nameClub1: Valley
+  G: '62'
+  PO: '141'
+  A: '3'
+  E: '9'
+  DP: '3'
+  PCT: '.941'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Mink
+  nameClub1: Alexander City
+  nameClub2: Newnan
+  G: '14'
+  PO: '13'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Blackburn
+  nameClub1: Valley
+  G: '118'
+  PO: '186'
+  A: '16'
+  E: '13'
+  DP: '1'
+  PCT: '.940'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Shoemake
+  nameClub1: Valley
+  nameClub2: Newnan
+  G: '68'
+  PO: '106'
+  A: '4'
+  E: '7'
+  DP: '2'
+  PCT: '.940'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Sowell
+  nameClub1: Griffin
+  G: '26'
+  PO: '41'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Julian
+  nameFirst: A.
+  nameClub1: Opelika
+  G: '119'
+  PO: '190'
+  A: '33'
+  E: '15'
+  DP: '4'
+  PCT: '.937'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Taylor
+  nameFirst: S.
+  nameClub1: Newnan
+  G: '69'
+  PO: '129'
+  A: '5'
+  E: '9'
+  DP: '1'
+  PCT: '.937'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Hudson
+  nameFirst: W.
+  nameClub1: Opelika
+  G: '113'
+  PO: '160'
+  A: '6'
+  E: '12'
+  DP: '4'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Colson
+  nameClub1: Valley
+  G: '38'
+  PO: '73'
+  A: '5'
+  E: '6'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Adcock
+  nameClub1: Griffin
+  G: '92'
+  PO: '176'
+  A: '20'
+  E: '16'
+  DP: '3'
+  PCT: '.925'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Woodruff
+  nameClub1: La Grange
+  G: '16'
+  PO: '17'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Stevenson
+  nameClub1: La Grange
+  G: '13'
+  PO: '19'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Reach
+  nameClub1: Alexander City
+  G: '46'
+  PO: '65'
+  A: '2'
+  E: '7'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Hovell
+  nameClub1: Alexander City
+  G: '123'
+  PO: '202'
+  A: '27'
+  E: '26'
+  DP: '5'
+  PCT: '.898'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Rees
+  nameClub1: Newnan
+  G: '11'
+  PO: '21'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: OF
+  nameLast: Fulton
+  nameClub1: Newnan
+  G: '11'
+  PO: '20'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.840'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: McCullough
+  nameClub1: Newnan
+  G: '39'
+  PO: '174'
+  A: '20'
+  E: '2'
+  DP: '2'
+  PB: '8'
+  PCT: '.990'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Hartman
+  nameClub1: Alexander City
+  G: '39'
+  PO: '166'
+  A: '19'
+  E: '2'
+  DP: '5'
+  PB: '3'
+  PCT: '.989'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Teater
+  nameClub1: Tallassee
+  G: '51'
+  PO: '198'
+  A: '24'
+  E: '3'
+  DP: '1'
+  PB: '3'
+  PCT: '.987'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Galloway
+  nameClub1: Valley
+  G: '63'
+  PO: '340'
+  A: '26'
+  E: '6'
+  DP: '4'
+  PB: '8'
+  PCT: '.984'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Mason
+  nameClub1: Valley
+  G: '17'
+  PO: '95'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PB: '3'
+  PCT: '.981'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Ello
+  nameClub1: Alexander City
+  G: '105'
+  PO: '464'
+  A: '60'
+  E: '11'
+  DP: '4'
+  PB: '16'
+  PCT: '.979'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Frazier
+  nameClub1: Valley
+  G: '10'
+  PO: '74'
+  A: '6'
+  E: '2'
+  DP: '2'
+  PB: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Comiskey
+  nameClub1: Tallassee
+  G: '76'
+  PO: '323'
+  A: '27'
+  E: '9'
+  DP: '4'
+  PB: '6'
+  PCT: '.975'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Dembinski
+  nameClub1: La Grange
+  G: '14'
+  PO: '107'
+  A: '7'
+  E: '4'
+  DP: '2'
+  PB: '2'
+  PCT: '.966'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Fulton
+  nameClub1: Newnan
+  G: '98'
+  PO: '609'
+  A: '60'
+  E: '26'
+  DP: '4'
+  PB: '16'
+  PCT: '.963'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Noto
+  nameClub1: Opelika
+  G: '100'
+  PO: '511'
+  A: '64'
+  E: '23'
+  DP: '7'
+  PB: '16'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Jefts
+  nameClub1: Carrollton
+  G: '114'
+  PO: '550'
+  A: '71'
+  E: '26'
+  DP: '6'
+  PB: '15'
+  PCT: '.960'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Muse
+  nameClub1: La Grange
+  G: '82'
+  PO: '515'
+  A: '60'
+  E: '26'
+  DP: '8'
+  PB: '12'
+  PCT: '.957'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Stuckey
+  nameClub1: Valley
+  G: '19'
+  PO: '73'
+  A: '6'
+  E: '4'
+  DP: '0'
+  PB: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Vanatistein
+  nameClub1: Opelika
+  G: '15'
+  PO: '57'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PB: '4'
+  PCT: '.938'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Braganca
+  nameClub1: La Grange
+  G: '37'
+  PO: '204'
+  A: '17'
+  E: '16'
+  DP: '1'
+  PB: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Herdt
+  nameClub1: Tallassee
+  G: '21'
+  PO: '56'
+  A: '19'
+  E: '6'
+  DP: '1'
+  PB: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Casey
+  nameClub1: Valley
+  G: '10'
+  PO: '42'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PB: '5'
+  PCT: '.918'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Rinker
+  nameClub1: Griffin
+  G: '112'
+  PO: '217'
+  A: '84'
+  E: '36'
+  DP: '10'
+  PB: '9'
+  PCT: '.893'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: C
+  nameLast: Laney
+  nameClub1: Griffin
+  G: '13'
+  PO: '42'
+  A: '1'
+  E: '7'
+  DP: '0'
+  PB: '1'
+  PCT: '.860'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Wallace
+  nameFirst: E.
+  nameClub1: Newnan
+  G: '42'
+  PO: '2'
+  A: '28'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Kilgore
+  nameClub1: Opelika
+  G: '37'
+  PO: '18'
+  A: '31'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Niepoetter
+  nameClub1: Newnan
+  G: '34'
+  PO: '5'
+  A: '18'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Clements
+  nameClub1: Tallassee
+  throws: L
+  G: '28'
+  PO: '4'
+  A: '25'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Jayner
+  nameClub1: Tallassee
+  G: '26'
+  PO: '3'
+  A: '33'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Hayden
+  nameClub1: La Grange
+  G: '14'
+  PO: '3'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Diebler
+  nameClub1: Alexander City
+  nameClub2: Tallassee
+  G: '13'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Jacobs
+  nameClub1: Tallassee
+  G: '12'
+  PO: '5'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Little
+  nameClub1: Carrollton
+  nameClub2: Alexander City
+  G: '12'
+  PO: '1'
+  A: '9'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Umscheid
+  nameClub1: Carrollton
+  nameClub2: Griffin
+  throws: L
+  G: '11'
+  PO: '4'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Sprayberry
+  nameClub1: Alexander City
+  G: '11'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Davis
+  nameFirst: J.
+  nameClub1: Tallassee
+  G: '10'
+  PO: '3'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: McTaggert
+  nameClub1: Alexander City
+  G: '26'
+  PO: '4'
+  A: '28'
+  E: '1'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Martin
+  nameClub1: Opelika
+  G: '20'
+  PO: '13'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: McCraney
+  nameClub1: Alexander City
+  throws: L
+  G: '19'
+  PO: '6'
+  A: '20'
+  E: '1'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Haynes
+  nameClub1: Valley
+  G: '32'
+  PO: '6'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Pappas
+  nameClub1: Valley
+  G: '18'
+  PO: '8'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Garner
+  nameClub1: Newnan
+  G: '17'
+  PO: '4'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Kittrell
+  nameClub1: Opelika
+  nameClub2: Alexander City
+  G: '15'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Bobowski
+  nameClub1: La Grange
+  nameClub2: Carrollton
+  G: '33'
+  PO: '12'
+  A: '29'
+  E: '2'
+  DP: '1'
+  PCT: '.953'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Fienstein
+  nameClub1: La Grange
+  G: '22'
+  PO: '6'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Chappell
+  nameClub1: Alexander City
+  G: '51'
+  PO: '8'
+  A: '45'
+  E: '3'
+  DP: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Rinaldo
+  nameClub1: Alexander City
+  G: '22'
+  PO: '5'
+  A: '12'
+  E: '1'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Chafin
+  nameClub1: Griffin
+  G: '17'
+  PO: '3'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Edge
+  nameClub1: Valley
+  G: '31'
+  PO: '11'
+  A: '36'
+  E: '3'
+  DP: '2'
+  PCT: '.940'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Ebetino
+  nameClub1: Griffin
+  G: '37'
+  PO: '7'
+  A: '36'
+  E: '3'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Tiefenaur
+  nameClub1: Tallassee
+  G: '28'
+  PO: '17'
+  A: '41'
+  E: '4'
+  DP: '3'
+  PCT: '.935'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Beach
+  nameClub1: Valley
+  G: '32'
+  PO: '7'
+  A: '35'
+  E: '3'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Hart
+  nameClub1: Griffin
+  throws: L
+  G: '10'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Kuras
+  nameClub1: Carrollton
+  throws: L
+  G: '25'
+  PO: '6'
+  A: '21'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Tomasic
+  nameClub1: Griffin
+  G: '32'
+  PO: '14'
+  A: '25'
+  E: '3'
+  DP: '3'
+  PCT: '.929'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Griggs
+  nameClub1: Valley
+  G: '16'
+  PO: '3'
+  A: '10'
+  E: '1'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Kemmerer
+  nameClub1: Griffin
+  G: '31'
+  PO: '9'
+  A: '16'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Henegar
+  nameClub1: Valley
+  G: '20'
+  PO: '4'
+  A: '19'
+  E: '2'
+  DP: '2'
+  PCT: '.920'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Owen
+  nameClub1: Tallassee
+  G: '22'
+  PO: '6'
+  A: '28'
+  E: '3'
+  DP: '0'
+  PCT: '.919'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Maloof
+  nameClub1: Carrollton
+  G: '11'
+  PO: '1'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Thomas
+  nameClub1: Newnan
+  throws: L
+  G: '26'
+  PO: '6'
+  A: '35'
+  E: '4'
+  DP: '4'
+  PCT: '.911'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Langdon
+  nameClub1: Valley
+  G: '35'
+  PO: '7'
+  A: '23'
+  E: '3'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Nelson
+  nameClub1: Carrollton
+  G: '26'
+  PO: '1'
+  A: '9'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Howton
+  nameClub1: Opelika
+  G: '24'
+  PO: '3'
+  A: '16'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Perdue
+  nameClub1: Opelika
+  throws: L
+  G: '16'
+  PO: '4'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Wallace
+  nameFirst: J. T.
+  nameClub1: La Grange
+  G: '10'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: McFadden
+  nameClub1: Newnan
+  G: '37'
+  PO: '4'
+  A: '31'
+  E: '4'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Bozzuto
+  nameClub1: Carrollton
+  nameClub2: Alexander City
+  throws: L
+  G: '26'
+  PO: '4'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.895'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Tenney
+  nameClub1: Newnan
+  G: '18'
+  PO: '2'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Wagner
+  nameClub1: Newnan
+  G: '13'
+  PO: '3'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Jones
+  nameClub1: Carrollton
+  G: '21'
+  PO: '5'
+  A: '20'
+  E: '3'
+  DP: '0'
+  PCT: '.893'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Charles
+  nameClub1: La Grange
+  G: '24'
+  PO: '7'
+  A: '25'
+  E: '4'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Gounaris
+  nameClub1: La Grange
+  G: '33'
+  PO: '3'
+  A: '20'
+  E: '3'
+  DP: '1'
+  PCT: '.885'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Katalinic
+  nameClub1: La Grange
+  G: '22'
+  PO: '7'
+  A: '16'
+  E: '3'
+  DP: '1'
+  PCT: '.885'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Langemeier
+  nameClub1: Carrollton
+  G: '14'
+  PO: '5'
+  A: '18'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Cohen
+  nameClub1: La Grange
+  G: '40'
+  PO: '10'
+  A: '16'
+  E: '4'
+  DP: '1'
+  PCT: '.867'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Thompson
+  nameFirst: R.
+  nameClub1: Alexander City
+  G: '35'
+  PO: '8'
+  A: '22'
+  E: '5'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Poole
+  nameClub1: Carrollton
+  G: '12'
+  PO: '5'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Lopez
+  nameClub1: Griffin
+  throws: L
+  G: '42'
+  PO: '20'
+  A: '52'
+  E: '13'
+  DP: '4'
+  PCT: '.847'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Bianchi
+  nameClub1: Griffin
+  G: '17'
+  PO: '3'
+  A: '8'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Wallis
+  nameClub1: La Grange
+  G: '33'
+  PO: '6'
+  A: '21'
+  E: '6'
+  DP: '1'
+  PCT: '.818'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Hinkle
+  nameClub1: Tallassee
+  G: '15'
+  PO: '4'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Wadewitz
+  nameClub1: Carrollton
+  throws: L
+  G: '11'
+  PO: '0'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Reinagel
+  nameClub1: Tallassee
+  throws: L
+  G: '16'
+  PO: '1'
+  A: '20'
+  E: '8'
+  DP: '0'
+  PCT: '.724'
+  TP: '0'
+- year: '1949'
+  nameLeague: Georgia-Alabama League
+  Pos: P
+  nameLast: Jackson
+  nameFirst: C.
+  nameClub1: Opelika
+  G: '41'
+  PO: '11'
+  A: '34'
+  E: '3'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'

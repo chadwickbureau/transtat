@@ -1,0 +1,149 @@
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  phase: regular/first
+  W: '50'
+  L: '25'
+  T: '0'
+  PCT: '.667'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Nogales
+  phase: regular/first
+  W: '48'
+  L: '27'
+  T: '0'
+  PCT: '.640'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  phase: regular/first
+  W: '47'
+  L: '29'
+  T: '0'
+  PCT: '.618'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  phase: regular/first
+  W: '39'
+  L: '37'
+  T: '1'
+  PCT: '.513'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  phase: regular/first
+  W: '36'
+  L: '38'
+  T: '1'
+  PCT: '.486'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  phase: regular/first
+  W: '34'
+  L: '38'
+  T: '0'
+  PCT: '.472'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Yuma
+  phase: regular/first
+  W: '29'
+  L: '47'
+  T: '0'
+  PCT: '.382'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tijuana
+  phase: regular/first
+  W: '17'
+  L: '59'
+  T: '0'
+  PCT: '.224'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Yuma
+  phase: regular/second
+  W: '37'
+  L: '18'
+  T: '1'
+  PCT: '.672'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Phoenix
+  phase: regular/second
+  W: '31'
+  L: '22'
+  T: '0'
+  PCT: '.582'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  phase: regular/second
+  W: '27'
+  L: '27'
+  T: '0'
+  PCT: '.500'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  phase: regular/second
+  W: '26'
+  L: '29'
+  T: '0'
+  PCT: '.473'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  phase: regular/second
+  W: '25'
+  L: '31'
+  T: '1'
+  PCT: '.446'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Nogales
+  phase: regular/second
+  W: '23'
+  L: '32'
+  T: '0'
+  PCT: '.418'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  phase: regular/second
+  W: '23'
+  L: '33'
+  T: '0'
+  PCT: '.411'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Cananea
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Arizona-Mexico League
+  nameClub: Yuma
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

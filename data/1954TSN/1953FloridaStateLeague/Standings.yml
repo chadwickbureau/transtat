@@ -1,0 +1,230 @@
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/first
+  W: '46'
+  L: '24'
+  T: '0'
+  PCT: '.657'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/first
+  W: '42'
+  L: '28'
+  T: '0'
+  PCT: '.600'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular/first
+  W: '38'
+  L: '31'
+  T: '0'
+  PCT: '.551'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  phase: regular/first
+  W: '38'
+  L: '32'
+  T: '0'
+  PCT: '.543'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular/first
+  W: '35'
+  L: '33'
+  T: '0'
+  PCT: '.515'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular/first
+  W: '33'
+  L: '37'
+  T: '0'
+  PCT: '.471'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/first
+  W: '26'
+  L: '43'
+  T: '0'
+  PCT: '.377'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Palatka/Lakeland
+  phase: regular/first
+  W: '20'
+  L: '50'
+  T: '0'
+  PCT: '.286'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular/second
+  W: '45'
+  L: '19'
+  T: '0'
+  PCT: '.703'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular/second
+  W: '40'
+  L: '25'
+  T: '0'
+  PCT: '.615'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular/second
+  W: '36'
+  L: '31'
+  T: '0'
+  PCT: '.537'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular/second
+  W: '31'
+  L: '30'
+  T: '0'
+  PCT: '.508'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  phase: regular/second
+  W: '30'
+  L: '33'
+  T: '0'
+  PCT: '.476'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular/second
+  W: '28'
+  L: '32'
+  T: '0'
+  PCT: '.467'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Lakeland
+  phase: regular/second
+  W: '27'
+  L: '39'
+  T: '0'
+  PCT: '.409'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular/second
+  W: '18'
+  L: '46'
+  T: '0'
+  PCT: '.281'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '86'
+  L: '49'
+  T: '0'
+  PCT: '.637'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular
+  W: '78'
+  L: '56'
+  T: '0'
+  PCT: '.582'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  phase: regular
+  W: '78'
+  L: '59'
+  T: '0'
+  PCT: '.569'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular
+  W: '66'
+  L: '63'
+  T: '0'
+  PCT: '.512'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Jacksonville Beach
+  phase: regular
+  W: '68'
+  L: '65'
+  T: '0'
+  PCT: '.511'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular
+  W: '56'
+  L: '77'
+  T: '0'
+  PCT: '.421'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular
+  W: '54'
+  L: '75'
+  T: '0'
+  PCT: '.419'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Palatka/Lakeland
+  phase: regular
+  W: '47'
+  L: '89'
+  T: '0'
+  PCT: '.346'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

@@ -1,0 +1,48 @@
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  El Dorado: '10'
+  Meridian: '13'
+  Monroe: '19'
+  Pine Bluff: '17'
+  Hot Springs: '21'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  Greenville: '14'
+  Meridian: '16'
+  Monroe: '14'
+  Pine Bluff: '15'
+  Hot Springs: '20'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Meridian
+  Greenville: '11'
+  El Dorado: '7'
+  Monroe: '16'
+  Pine Bluff: '13'
+  Hot Springs: '15'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Monroe
+  Greenville: '5'
+  El Dorado: '10'
+  Meridian: '8'
+  Pine Bluff: '15'
+  Hot Springs: '15'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  Greenville: '6'
+  El Dorado: '9'
+  Meridian: '10'
+  Monroe: '9'
+  Hot Springs: '13'
+- year: '1954'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  Greenville: '3'
+  El Dorado: '3'
+  Meridian: '9'
+  Monroe: '9'
+  Pine Bluff: '11'

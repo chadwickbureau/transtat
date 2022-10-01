@@ -1,0 +1,1978 @@
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cobb
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '18'
+  PO: '122'
+  A: '4'
+  E: '1'
+  DP: '7'
+  PCT: '.992'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Pearce
+  nameClub1: Panama City
+  throws: L
+  Pos: 1B
+  G: '81'
+  PO: '675'
+  A: '41'
+  E: '8'
+  DP: '66'
+  PCT: '.989'
+  TP: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Connell
+  nameClub1: Eufaula
+  Pos: 1B
+  G: '64'
+  PO: '559'
+  A: '23'
+  E: '8'
+  DP: '42'
+  PCT: '.986'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: McCormack
+  nameClub1: Fort Walton Beach
+  nameClub2: Eufaula
+  throws: L
+  Pos: 1B
+  G: '77'
+  PO: '648'
+  A: '57'
+  E: '11'
+  DP: '62'
+  PCT: '.985'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Streza
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '64'
+  PO: '533'
+  A: '36'
+  E: '10'
+  DP: '49'
+  PCT: '.983'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Quimby
+  nameClub1: Fort Walton Beach
+  nameClub2: Graceville
+  Pos: 1B
+  G: '74'
+  PO: '605'
+  A: '36'
+  E: '12'
+  DP: '44'
+  PCT: '.982'
+  TP: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Smith
+  nameClub1: Andalusia
+  Pos: 1B
+  G: '58'
+  PO: '412'
+  A: '27'
+  E: '8'
+  DP: '31'
+  PCT: '.982'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnes
+  nameClub1: Andalusia
+  nameClub2: Panama City
+  Pos: 1B
+  G: '33'
+  PO: '236'
+  A: '11'
+  E: '5'
+  DP: '23'
+  PCT: '.980'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Plitt
+  nameClub1: Dothan
+  Pos: 1B
+  G: '49'
+  PO: '448'
+  A: '28'
+  E: '10'
+  DP: '41'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cantrell
+  nameClub1: Dothan
+  Pos: 1B
+  G: '62'
+  PO: '559'
+  A: '30'
+  E: '14'
+  DP: '38'
+  PCT: '.977'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Newby
+  nameClub1: Graceville
+  Pos: 1B
+  G: '23'
+  PO: '169'
+  A: '15'
+  E: '5'
+  DP: '16'
+  PCT: '.974'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Stack
+  nameClub1: Andalusia
+  Pos: 1B
+  G: '43'
+  PO: '383'
+  A: '15'
+  E: '13'
+  DP: '34'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Berry
+  nameClub1: Graceville
+  Pos: 1B
+  G: '15'
+  PO: '98'
+  A: '6'
+  E: '7'
+  DP: '7'
+  PCT: '.937'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: LeBoff
+  nameClub1: Eufaula
+  Pos: 2B
+  G: '15'
+  PO: '53'
+  A: '48'
+  E: '2'
+  DP: '9'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: Fort Walton Beach
+  Pos: 2B
+  G: '41'
+  PO: '108'
+  A: '104'
+  E: '6'
+  DP: '18'
+  PCT: '.972'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Phillips
+  nameClub1: Panama City
+  Pos: 2B
+  G: '94'
+  PO: '267'
+  A: '281'
+  E: '19'
+  DP: '65'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Quimby
+  nameClub1: Fort Walton Beach
+  nameClub2: Graceville
+  Pos: 2B
+  G: '29'
+  PO: '90'
+  A: '72'
+  E: '7'
+  DP: '15'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rogers
+  nameClub1: Dothan
+  nameClub2: Andalusia
+  Pos: 2B
+  G: '49'
+  PO: '108'
+  A: '121'
+  E: '13'
+  DP: '23'
+  PCT: '.946'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Weaver
+  nameClub1: Andalusia
+  Pos: 2B
+  G: '54'
+  PO: '133'
+  A: '140'
+  E: '17'
+  DP: '26'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Judah
+  nameClub1: Eufaula
+  Pos: 2B
+  G: '52'
+  PO: '129'
+  A: '124'
+  E: '16'
+  DP: '33'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameClub1: Fort Walton Beach
+  Pos: 2B
+  G: '27'
+  PO: '63'
+  A: '76'
+  E: '9'
+  DP: '15'
+  PCT: '.939'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilson
+  nameClub1: Dothan
+  Pos: 2B
+  G: '114'
+  PO: '328'
+  A: '338'
+  E: '44'
+  DP: '65'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Pacanowski
+  nameClub1: Graceville
+  Pos: 2B
+  G: '73'
+  PO: '180'
+  A: '197'
+  E: '31'
+  DP: '34'
+  PCT: '.924'
+  TP: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Nix
+  nameClub1: Eufaula
+  Pos: 2B
+  G: '12'
+  PO: '15'
+  A: '19'
+  E: '3'
+  DP: '3'
+  PCT: '.919'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Adair
+  nameClub1: Graceville
+  Pos: 2B
+  G: '14'
+  PO: '23'
+  A: '40'
+  E: '6'
+  DP: '5'
+  PCT: '.913'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Groover
+  nameClub1: Eufaula
+  Pos: 2B
+  G: '20'
+  PO: '54'
+  A: '45'
+  E: '10'
+  DP: '13'
+  PCT: '.908'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Mena
+  nameClub1: Fort Walton Beach
+  Pos: 2B
+  G: '12'
+  PO: '48'
+  A: '31'
+  E: '8'
+  DP: '5'
+  PCT: '.908'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barrow
+  nameClub1: Fort Walton Beach
+  Pos: 2B
+  G: '16'
+  PO: '48'
+  A: '50'
+  E: '11'
+  DP: '10'
+  PCT: '.899'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ellison
+  nameClub1: Panama City
+  Pos: 2B
+  G: '23'
+  PO: '77'
+  A: '45'
+  E: '14'
+  DP: '11'
+  PCT: '.897'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Kiernan
+  nameClub1: Fort Walton Beach
+  nameClub2: Graceville
+  Pos: 2B
+  G: '10'
+  PO: '27'
+  A: '34'
+  E: '10'
+  DP: '4'
+  PCT: '.859'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Riddle
+  nameClub1: Panama City
+  Pos: 3B
+  G: '13'
+  PO: '11'
+  A: '27'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Richardson
+  nameClub1: Panama City
+  Pos: 3B
+  G: '100'
+  PO: '120'
+  A: '190'
+  E: '26'
+  DP: '21'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Buchanan
+  nameClub1: Eufaula
+  Pos: 3B
+  G: '81'
+  PO: '105'
+  A: '173'
+  E: '27'
+  DP: '16'
+  PCT: '.911'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Weaver
+  nameClub1: Andalusia
+  Pos: 3B
+  G: '40'
+  PO: '55'
+  A: '61'
+  E: '12'
+  DP: '7'
+  PCT: '.906'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Way
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '56'
+  PO: '67'
+  A: '75'
+  E: '15'
+  DP: '6'
+  PCT: '.904'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Lilla
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '48'
+  PO: '52'
+  A: '92'
+  E: '16'
+  DP: '9'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Camden
+  nameClub1: Dothan
+  Pos: 3B
+  G: '67'
+  PO: '82'
+  A: '139'
+  E: '25'
+  DP: '15'
+  PCT: '.898'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Judah
+  nameClub1: Eufaula
+  Pos: 3B
+  G: '32'
+  PO: '42'
+  A: '63'
+  E: '12'
+  DP: '6'
+  PCT: '.897'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnes
+  nameClub1: Andalusia
+  nameClub2: Panama City
+  Pos: 3B
+  G: '11'
+  PO: '13'
+  A: '17'
+  E: '4'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hartman
+  nameClub1: Graceville
+  Pos: 3B
+  G: '89'
+  PO: '85'
+  A: '140'
+  E: '35'
+  DP: '12'
+  PCT: '.865'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sapienza
+  nameClub1: Andalusia
+  Pos: 3B
+  G: '35'
+  PO: '40'
+  A: '66'
+  E: '18'
+  DP: '11'
+  PCT: '.855'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Dudziac
+  nameClub1: Dothan
+  Pos: 3B
+  G: '33'
+  PO: '34'
+  A: '58'
+  E: '16'
+  DP: '5'
+  PCT: '.852'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Scott
+  nameClub1: Andalusia
+  Pos: 3B
+  G: '18'
+  PO: '14'
+  A: '19'
+  E: '6'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Pacanowski
+  nameClub1: Graceville
+  Pos: 3B
+  G: '12'
+  PO: '16'
+  A: '18'
+  E: '9'
+  DP: '2'
+  PCT: '.791'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Prince
+  nameClub1: Eufaula
+  Pos: SS
+  G: '63'
+  PO: '129'
+  A: '190'
+  E: '12'
+  DP: '38'
+  PCT: '.964'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Adair
+  nameClub1: Graceville
+  Pos: SS
+  G: '11'
+  PO: '6'
+  A: '16'
+  E: '1'
+  DP: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Lilla
+  nameClub1: Fort Walton Beach
+  Pos: SS
+  G: '41'
+  PO: '77'
+  A: '109'
+  E: '12'
+  DP: '23'
+  PCT: '.939'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Wright
+  nameClub1: Eufaula
+  Pos: SS
+  G: '15'
+  PO: '32'
+  A: '44'
+  E: '5'
+  DP: '3'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hilyer
+  nameClub1: Panama City
+  Pos: SS
+  G: '49'
+  PO: '78'
+  A: '128'
+  E: '16'
+  DP: '23'
+  PCT: '.928'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Toyo
+  nameClub1: Dothan
+  nameClub2: Graceville
+  Pos: SS
+  G: '98'
+  PO: '153'
+  A: '268'
+  E: '40'
+  DP: '37'
+  PCT: '.913'
+  TP: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Garcia
+  nameClub1: Dothan
+  Pos: SS
+  G: '69'
+  PO: '135'
+  A: '233'
+  E: '36'
+  DP: '33'
+  PCT: '.911'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Koppe
+  nameClub1: Panama City
+  Pos: SS
+  G: '42'
+  PO: '73'
+  A: '129'
+  E: '23'
+  DP: '24'
+  PCT: '.898'
+  TP: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Nix
+  nameClub1: Eufaula
+  Pos: SS
+  G: '11'
+  PO: '16'
+  A: '28'
+  E: '5'
+  DP: '2'
+  PCT: '.898'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: Fort Walton Beach
+  Pos: SS
+  G: '73'
+  PO: '124'
+  A: '229'
+  E: '44'
+  DP: '28'
+  PCT: '.889'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ellison
+  nameClub1: Panama City
+  Pos: SS
+  G: '25'
+  PO: '48'
+  A: '63'
+  E: '14'
+  DP: '12'
+  PCT: '.888'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Mathews
+  nameClub1: Dothan
+  Pos: SS
+  G: '12'
+  PO: '12'
+  A: '39'
+  E: '7'
+  DP: '6'
+  PCT: '.879'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Poletto
+  nameClub1: Graceville
+  Pos: SS
+  G: '29'
+  PO: '48'
+  A: '89'
+  E: '19'
+  DP: '10'
+  PCT: '.878'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Groover
+  nameClub1: Eufaula
+  Pos: SS
+  G: '24'
+  PO: '37'
+  A: '88'
+  E: '18'
+  DP: '15'
+  PCT: '.874'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Petty
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '13'
+  PO: '20'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Tyler
+  nameClub1: Andalusia
+  Pos: OF
+  G: '12'
+  PO: '16'
+  A: '3'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hicks
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '109'
+  PO: '223'
+  A: '12'
+  E: '5'
+  DP: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Kolker
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '31'
+  PO: '39'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cobb
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '54'
+  PO: '109'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Moss
+  nameClub1: Eufaula
+  Pos: OF
+  G: '89'
+  PO: '187'
+  A: '11'
+  E: '6'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Stanford
+  nameClub1: Andalusia
+  throws: L
+  Pos: OF
+  G: '18'
+  PO: '29'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Michael
+  nameClub1: Andalusia
+  Pos: OF
+  G: '91'
+  PO: '206'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cantrell
+  nameClub1: Dothan
+  Pos: OF
+  G: '49'
+  PO: '79'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Williams
+  nameClub1: Dothan
+  Pos: OF
+  G: '63'
+  PO: '99'
+  A: '7'
+  E: '4'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cavallaro
+  nameClub1: Eufaula
+  Pos: OF
+  G: '16'
+  PO: '26'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sinquefield
+  nameClub1: Andalusia
+  throws: L
+  Pos: OF
+  G: '74'
+  PO: '139'
+  A: '10'
+  E: '6'
+  DP: '1'
+  PCT: '.961'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Goza
+  nameClub1: Panama City
+  Pos: OF
+  G: '87'
+  PO: '132'
+  A: '10'
+  E: '6'
+  DP: '0'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Alsop
+  nameClub1: Andalusia
+  Pos: OF
+  G: '12'
+  PO: '21'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barton
+  nameClub1: Panama City
+  Pos: OF
+  G: '112'
+  PO: '188'
+  A: '17'
+  E: '9'
+  DP: '3'
+  PCT: '.958'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnes
+  nameClub1: Andalusia
+  nameClub2: Panama City
+  Pos: OF
+  G: '20'
+  PO: '18'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Harter
+  nameClub1: Graceville
+  Pos: OF
+  G: '19'
+  PO: '37'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Howell
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '111'
+  PO: '161'
+  A: '14'
+  E: '9'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sheridan
+  nameClub1: Dothan
+  nameClub2: Andalusia
+  Pos: OF
+  G: '112'
+  PO: '180'
+  A: '9'
+  E: '10'
+  DP: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Farrar
+  nameClub1: Panama City
+  Pos: OF
+  G: '114'
+  PO: '248'
+  A: '10'
+  E: '14'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Carn
+  nameClub1: Andalusia
+  Pos: OF
+  G: '58'
+  PO: '87'
+  A: '6'
+  E: '5'
+  DP: '2'
+  PCT: '.949'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ruiz
+  nameClub1: Eufaula
+  throws: L
+  Pos: OF
+  G: '11'
+  PO: '14'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ezell
+  nameClub1: Graceville
+  Pos: OF
+  G: '51'
+  PO: '83'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.935'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Davidson
+  nameClub1: Graceville
+  Pos: OF
+  G: '28'
+  PO: '38'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.930'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Philpot
+  nameClub1: Graceville
+  Pos: OF
+  G: '59'
+  PO: '89'
+  A: '3'
+  E: '7'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Carpenter
+  nameClub1: Panama City
+  nameClub2: Graceville
+  Pos: OF
+  G: '59'
+  PO: '81'
+  A: '10'
+  E: '7'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ellison
+  nameClub1: Panama City
+  Pos: OF
+  G: '12'
+  PO: '11'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Keith
+  nameClub1: Panama City
+  Pos: OF
+  G: '13'
+  PO: '12'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Heckett
+  nameClub1: Graceville
+  Pos: OF
+  G: '101'
+  PO: '205'
+  A: '12'
+  E: '17'
+  DP: '3'
+  PCT: '.927'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Combs
+  nameClub1: Andalusia
+  Pos: OF
+  G: '20'
+  PO: '24'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Myers
+  nameClub1: Eufaula
+  Pos: OF
+  G: '39'
+  PO: '104'
+  A: '5'
+  E: '9'
+  DP: '0'
+  PCT: '.924'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Yarbrough
+  nameClub1: Eufaula
+  Pos: OF
+  G: '14'
+  PO: '20'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Finney
+  nameClub1: Eufaula
+  Pos: OF
+  G: '12'
+  PO: '18'
+  A: '3'
+  E: '2'
+  DP: '1'
+  PCT: '.913'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Marquez
+  nameClub1: Dothan
+  throws: L
+  Pos: OF
+  G: '11'
+  PO: '18'
+  A: '3'
+  E: '2'
+  DP: '2'
+  PCT: '.913'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Harris
+  nameClub1: Eufaula
+  Pos: OF
+  G: '90'
+  PO: '163'
+  A: '9'
+  E: '17'
+  DP: '1'
+  PCT: '.910'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Fisher
+  nameClub1: Dothan
+  Pos: OF
+  G: '26'
+  PO: '54'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.908'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Riddle
+  nameClub1: Dothan
+  Pos: OF
+  G: '38'
+  PO: '49'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.907'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Leslie
+  nameClub1: Dothan
+  Pos: OF
+  G: '53'
+  PO: '101'
+  A: '9'
+  E: '15'
+  DP: '3'
+  PCT: '.880'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Shai
+  nameClub1: Eufaula
+  nameClub2: Andalusia
+  Pos: OF
+  G: '20'
+  PO: '24'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.871'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: S.
+  nameClub1: Dothan
+  throws: L
+  Pos: OF
+  G: '23'
+  PO: '31'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.861'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hardwick
+  nameClub1: Dothan
+  nameClub2: Eufaula
+  Pos: OF
+  G: '17'
+  PO: '22'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.852'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Graves
+  nameClub1: Dothan
+  Pos: OF
+  G: '10'
+  PO: '19'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Philpot
+  nameClub1: Graceville
+  Pos: C
+  G: '37'
+  PO: '186'
+  A: '20'
+  E: '4'
+  DP: '3'
+  PB: '3'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Williams
+  nameClub1: Dothan
+  Pos: C
+  G: '22'
+  PO: '113'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PB: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Riddle
+  nameClub1: Panama City
+  Pos: C
+  G: '92'
+  PO: '528'
+  A: '58'
+  E: '14'
+  DP: '5'
+  PB: '10'
+  PCT: '.977'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Card
+  nameClub1: Eufaula
+  Pos: C
+  G: '15'
+  PO: '64'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PB: '4'
+  PCT: '.975'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnes
+  nameClub1: Andalusia
+  nameClub2: Panama City
+  Pos: C
+  G: '13'
+  PO: '58'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PB: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Patton
+  nameClub1: Dothan
+  Pos: C
+  G: '56'
+  PO: '322'
+  A: '27'
+  E: '12'
+  DP: '2'
+  PB: '14'
+  PCT: '.967'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Odenheimer
+  nameClub1: Graceville
+  Pos: C
+  G: '88'
+  PO: '564'
+  A: '57'
+  E: '22'
+  DP: '8'
+  PB: '6'
+  PCT: '.966'
+  TP: '1'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Chadwick
+  nameClub1: Andalusia
+  Pos: C
+  G: '103'
+  PO: '597'
+  A: '61'
+  E: '24'
+  DP: '5'
+  PB: '9'
+  PCT: '.965'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ammons
+  nameClub1: Eufaula
+  Pos: C
+  G: '95'
+  PO: '474'
+  A: '47'
+  E: '19'
+  DP: '5'
+  PB: '8'
+  PCT: '.965'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Petty
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '10'
+  PO: '46'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PB: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Burns
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '41'
+  PO: '275'
+  A: '30'
+  E: '13'
+  DP: '5'
+  PB: '9'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Goza
+  nameClub1: Panama City
+  Pos: C
+  G: '40'
+  PO: '171'
+  A: '22'
+  E: '9'
+  DP: '5'
+  PB: '7'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Solis
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '23'
+  PO: '113'
+  A: '11'
+  E: '6'
+  DP: '2'
+  PB: '3'
+  PCT: '.954'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Adkinson
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '22'
+  PO: '93'
+  A: '8'
+  E: '5'
+  DP: '1'
+  PB: '5'
+  PCT: '.953'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Horn
+  nameClub1: Dothan
+  Pos: C
+  G: '15'
+  PO: '72'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PB: '5'
+  PCT: '.953'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Demus
+  nameClub1: Dothan
+  Pos: C
+  G: '24'
+  PO: '141'
+  A: '15'
+  E: '8'
+  DP: '1'
+  PB: '4'
+  PCT: '.951'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Liness
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '25'
+  PO: '116'
+  A: '14'
+  E: '11'
+  DP: '4'
+  PB: '8'
+  PCT: '.922'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Welch
+  nameClub1: Panama City
+  nameClub2: Andalusia
+  nameClub3: Eufaula
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '32'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sinquefield
+  nameClub1: Andalusia
+  Pos: P
+  G: '24'
+  PO: '10'
+  A: '21'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnes
+  nameClub1: Andalusia
+  nameClub2: Panama City
+  Pos: P
+  G: '31'
+  PO: '5'
+  A: '15'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Saunders
+  nameClub1: Panama City
+  Pos: P
+  G: '30'
+  PO: '3'
+  A: '15'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Lowe
+  nameClub1: Andalusia
+  nameClub2: Panama City
+  nameClub3: Eufaula
+  Pos: P
+  G: '16'
+  PO: '2'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Riddle
+  nameClub1: Panama City
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Tyler
+  nameClub1: Andalusia
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '21'
+  E: '1'
+  DP: '3'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Cooper
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '34'
+  PO: '9'
+  A: '41'
+  E: '2'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Leandri
+  nameClub1: Dothan
+  Pos: P
+  G: '19'
+  PO: '7'
+  A: '18'
+  E: '1'
+  DP: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Green
+  nameClub1: Eufaula
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '3'
+  A: '21'
+  E: '1'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Worlinsky
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '35'
+  PO: '12'
+  A: '74'
+  E: '4'
+  DP: '1'
+  PCT: '.956'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Henson
+  nameClub1: Graceville
+  Pos: P
+  G: '24'
+  PO: '8'
+  A: '34'
+  E: '2'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Berbesia
+  nameClub1: Graceville
+  Pos: P
+  G: '36'
+  PO: '8'
+  A: '29'
+  E: '2'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: McCluskey
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '22'
+  PO: '6'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Pouncey
+  nameClub1: Graceville
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '26'
+  PO: '3'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Geeslin
+  nameClub1: Eufaula
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hutchins
+  nameClub1: Panama City
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '12'
+  E: '1'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Kirkland
+  nameClub1: Eufaula
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '9'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.921'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Keith
+  nameClub1: Panama City
+  Pos: P
+  G: '27'
+  PO: '8'
+  A: '25'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Sanders
+  nameClub1: Dothan
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Ruiz
+  nameClub1: Eufaula
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: Panama City
+  nameClub2: Dothan
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: White
+  nameClub1: Andalusia
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '17'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Hutchinson
+  nameClub1: Panama City
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '23'
+  E: '3'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Graves
+  nameClub1: Dothan
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Tidwell
+  nameClub1: Andalusia
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '12'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Weeks
+  nameClub1: Graceville
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '4'
+  A: '38'
+  E: '5'
+  DP: '3'
+  PCT: '.894'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Fowler
+  nameClub1: Eufaula
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: L.
+  nameClub1: Dothan
+  nameClub2: Graceville
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '26'
+  E: '4'
+  DP: '2'
+  PCT: '.886'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Berg
+  nameClub1: Graceville
+  Pos: P
+  G: '32'
+  PO: '8'
+  A: '46'
+  E: '7'
+  DP: '5'
+  PCT: '.885'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Houck
+  nameClub1: Eufaula
+  Pos: P
+  G: '22'
+  PO: '8'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Brown
+  nameFirst: J.
+  nameClub1: Andalusia
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameFirst: S.
+  nameClub1: Dothan
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '64'
+  E: '12'
+  DP: '4'
+  PCT: '.855'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Springer
+  nameClub1: Panama City
+  Pos: P
+  G: '36'
+  PO: '11'
+  A: '40'
+  E: '9'
+  DP: '3'
+  PCT: '.850'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Paulson
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '28'
+  E: '7'
+  DP: '0'
+  PCT: '.825'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Dyer
+  nameClub1: Andalusia
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '16'
+  E: '4'
+  DP: '0'
+  PCT: '.818'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Wolfe
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '32'
+  PO: '8'
+  A: '32'
+  E: '10'
+  DP: '2'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Bethea
+  nameClub1: Panama City
+  nameClub2: Andalusia
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '11'
+  E: '4'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Millican
+  nameClub1: Eufaula
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Garland
+  nameClub1: Dothan
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Allen
+  nameClub1: Dothan
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '7'
+  E: '5'
+  DP: '0'
+  PCT: '.643'
+  TP: '0'
+- year: '1953'
+  nameLeague: Alabama-Florida League
+  nameLast: Johnson
+  nameClub1: Eufaula
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.625'
+  TP: '0'

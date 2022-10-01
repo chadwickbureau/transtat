@@ -1,0 +1,66 @@
+- year: '1948'
+  nameLeague: Georgia State League
+  nameClub: Sparta
+  G: '119'
+  DP: '108'
+  TP: '0'
+  PB: '11'
+  PO: '3115'
+  A: '1322'
+  E: '197'
+  PCT: '.957'
+- year: '1948'
+  nameLeague: Georgia State League
+  nameClub: Baxley
+  G: '121'
+  DP: '65'
+  TP: '0'
+  PB: '25'
+  PO: '3143'
+  A: '1148'
+  E: '238'
+  PCT: '.947'
+- year: '1948'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  G: '122'
+  DP: '93'
+  TP: '1'
+  PB: '12'
+  PO: '3112'
+  A: '1323'
+  E: '251'
+  PCT: '.946'
+- year: '1948'
+  nameLeague: Georgia State League
+  nameClub: Fitzgerald
+  G: '121'
+  DP: '61'
+  TP: '0'
+  PB: '12'
+  PO: '3180'
+  A: '1219'
+  E: '257'
+  PCT: '.945'
+- year: '1948'
+  nameLeague: Georgia State League
+  nameClub: Eastman
+  G: '120'
+  DP: '81'
+  TP: '0'
+  PB: '14'
+  PO: '3146'
+  A: '1180'
+  E: '270'
+  PCT: '.941'
+- year: '1948'
+  nameLeague: Georgia State League
+  nameClub: Vidalia-Lyons
+  G: '121'
+  DP: '74'
+  TP: '0'
+  PB: '15'
+  PO: '3107'
+  A: '1262'
+  E: '299'
+  PCT: '.936'

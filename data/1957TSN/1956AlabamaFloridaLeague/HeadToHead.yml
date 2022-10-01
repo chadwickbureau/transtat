@@ -1,0 +1,48 @@
+- year: '1956'
+  nameLeague: Alabama-Florida League
+  nameClub: Graceville
+  Donalsonville: '9'
+  Fort Walton Beach: '10'
+  Dothan: '18'
+  Crestview: '15'
+  Panama City: '17'
+- year: '1956'
+  nameLeague: Alabama-Florida League
+  nameClub: Donalsonville
+  Graceville: '15'
+  Fort Walton Beach: '12'
+  Dothan: '10'
+  Crestview: '16'
+  Panama City: '15'
+- year: '1956'
+  nameLeague: Alabama-Florida League
+  nameClub: Fort Walton Beach
+  Graceville: '14'
+  Donalsonville: '10'
+  Dothan: '11'
+  Crestview: '15'
+  Panama City: '13'
+- year: '1956'
+  nameLeague: Alabama-Florida League
+  nameClub: Dothan
+  Graceville: '4'
+  Donalsonville: '14'
+  Fort Walton Beach: '13'
+  Crestview: '13'
+  Panama City: '14'
+- year: '1956'
+  nameLeague: Alabama-Florida League
+  nameClub: Crestview
+  Graceville: '9'
+  Donalsonville: '8'
+  Fort Walton Beach: '9'
+  Dothan: '11'
+  Panama City: '14'
+- year: '1956'
+  nameLeague: Alabama-Florida League
+  nameClub: Panama City
+  Graceville: '7'
+  Donalsonville: '8'
+  Fort Walton Beach: '11'
+  Dothan: '9'
+  Crestview: '10'

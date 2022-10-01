@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Albany
+  G: '142'
+  DP: '150'
+  TP: '0'
+  PB: '10'
+  PO: '3615'
+  A: '1628'
+  E: '170'
+  PCT: '.969'
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  G: '141'
+  DP: '123'
+  TP: '0'
+  PB: '18'
+  PO: '3559'
+  A: '1425'
+  E: '170'
+  PCT: '.947'
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Utica
+  G: '140'
+  DP: '122'
+  TP: '0'
+  PB: '12'
+  PO: '3563'
+  A: '1525'
+  E: '175'
+  PCT: '.967'
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  G: '141'
+  DP: '108'
+  TP: '2'
+  PB: '15'
+  PO: '3511'
+  A: '1472'
+  E: '177'
+  PCT: '.966'
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  G: '141'
+  DP: '116'
+  TP: '0'
+  PB: '18'
+  PO: '3652'
+  A: '1548'
+  E: '200'
+  PCT: '.963'
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  G: '139'
+  DP: '112'
+  TP: '0'
+  PB: '12'
+  PO: '3479'
+  A: '1434'
+  E: '207'
+  PCT: '.960'
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  G: '140'
+  DP: '115'
+  TP: '0'
+  PB: '20'
+  PO: '3527'
+  A: '1445'
+  E: '223'
+  PCT: '.957'
+- year: '1948'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  G: '140'
+  DP: '118'
+  TP: '0'
+  PB: '15'
+  PO: '3521'
+  A: '1604'
+  E: '240'
+  PCT: '.955'

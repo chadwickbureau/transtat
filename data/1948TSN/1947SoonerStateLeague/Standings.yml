@@ -1,0 +1,100 @@
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  phase: regular
+  W: '98'
+  L: '42'
+  T: '0'
+  PCT: '.700'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Ada
+  phase: regular
+  W: '86'
+  L: '51'
+  T: '0'
+  PCT: '.628'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: McAlester
+  phase: regular
+  W: '73'
+  L: '67'
+  T: '0'
+  PCT: '.521'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  phase: regular
+  W: '72'
+  L: '67'
+  T: '0'
+  PCT: '.518'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Seminole
+  phase: regular
+  W: '48'
+  L: '90'
+  T: '0'
+  PCT: '.348'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Duncan
+  phase: regular
+  W: '39'
+  L: '99'
+  T: '0'
+  PCT: '.283'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: McAlester
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Ada
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: McAlester
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

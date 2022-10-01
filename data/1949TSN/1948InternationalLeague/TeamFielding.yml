@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: International League
+  nameClub: Syracuse
+  G: '151'
+  DP: '150'
+  TP: '0'
+  PO: '3788'
+  A: '1665'
+  E: '148'
+  PB: '11'
+  PCT: '.974'
+- year: '1948'
+  nameLeague: International League
+  nameClub: Montreal
+  G: '155'
+  DP: '166'
+  TP: '0'
+  PO: '3853'
+  A: '1615'
+  E: '164'
+  PB: '4'
+  PCT: '.971'
+- year: '1948'
+  nameLeague: International League
+  nameClub: Rochester
+  G: '154'
+  DP: '154'
+  TP: '1'
+  PO: '3884'
+  A: '1562'
+  E: '166'
+  PB: '16'
+  PCT: '.970'
+- year: '1948'
+  nameLeague: International League
+  nameClub: Buffalo
+  G: '151'
+  DP: '144'
+  TP: '0'
+  PO: '3756'
+  A: '1524'
+  E: '165'
+  PB: '6'
+  PCT: '.970'
+- year: '1948'
+  nameLeague: International League
+  nameClub: Baltimore
+  G: '148'
+  DP: '115'
+  TP: '0'
+  PO: '3623'
+  A: '1439'
+  E: '160'
+  PB: '6'
+  PCT: '.969'
+- year: '1948'
+  nameLeague: International League
+  nameClub: Toronto
+  G: '155'
+  DP: '120'
+  TP: '1'
+  PO: '3853'
+  A: '1629'
+  E: '177'
+  PB: '13'
+  PCT: '.969'
+- year: '1948'
+  nameLeague: International League
+  nameClub: Newark
+  G: '155'
+  DP: '139'
+  TP: '0'
+  PO: '3879'
+  A: '1570'
+  E: '180'
+  PB: '18'
+  PCT: '.968'
+- year: '1948'
+  nameLeague: International League
+  nameClub: Jersey City
+  G: '153'
+  DP: '145'
+  TP: '1'
+  PO: '3813'
+  A: '1644'
+  E: '187'
+  PB: '12'
+  PCT: '.967'

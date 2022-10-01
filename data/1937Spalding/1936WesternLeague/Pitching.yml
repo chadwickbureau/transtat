@@ -1,0 +1,1629 @@
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Goff
+  nameFirst: James P.
+  nameClub1: Davenport
+  GP: '5'
+  CG: '3'
+  W: '2'
+  L: '0'
+  PCT: '1.000'
+  IP: '32'
+  H: '29'
+  R: '16'
+  ER: '15'
+  SH: '0'
+  BB: '12'
+  SO: '21'
+  HP: '1'
+  WP: '2'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Gravin
+  nameFirst: James F.
+  nameClub1: Davenport
+  GP: '5'
+  CG: '2'
+  W: '5'
+  L: '0'
+  PCT: '1.000'
+  IP: '30'
+  H: '26'
+  R: '13'
+  ER: '11'
+  SH: '2'
+  BB: '21'
+  SO: '19'
+  HP: '0'
+  WP: '2'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Jensen
+  nameFirst: James E.
+  nameClub1: Des Moines
+  GP: '4'
+  CG: '0'
+  W: '1'
+  L: '0'
+  PCT: '1.000'
+  IP: '10'
+  H: '5'
+  R: '7'
+  ER: '5'
+  SH: '0'
+  BB: '11'
+  SO: '0'
+  HP: '2'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Turpin
+  nameFirst: Harold
+  nameClub1: Des Moines
+  GP: '34'
+  CG: '28'
+  W: '20'
+  L: '10'
+  PCT: '.667'
+  IP: '259'
+  H: '285'
+  R: '124'
+  ER: '79'
+  SH: '8'
+  BB: '69'
+  SO: '124'
+  HP: '1'
+  WP: '4'
+  F_P_PCT: '.959'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Albee
+  nameFirst: Harold E.
+  nameClub1: Davenport
+  GP: '16'
+  CG: '8'
+  W: '8'
+  L: '4'
+  PCT: '.667'
+  IP: '103'
+  H: '114'
+  R: '55'
+  ER: '36'
+  SH: '5'
+  BB: '37'
+  SO: '50'
+  HP: '0'
+  WP: '4'
+  F_P_PCT: '.897'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Taylor
+  nameFirst: Howard S.
+  nameClub1: Cedar Rapids
+  GP: '41'
+  CG: '25'
+  W: '19'
+  L: '10'
+  PCT: '.655'
+  IP: '267'
+  H: '268'
+  R: '112'
+  ER: '82'
+  SH: '15'
+  BB: '74'
+  SO: '134'
+  HP: '7'
+  WP: '10'
+  F_P_PCT: '.941'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mitchell
+  nameFirst: C. E.
+  nameClub1: Omaha/Rock Island
+  GP: '16'
+  CG: '7'
+  W: '7'
+  L: '4'
+  PCT: '.636'
+  IP: '101'
+  H: '101'
+  R: '47'
+  ER: '38'
+  SH: '10'
+  BB: '36'
+  SO: '27'
+  HP: '2'
+  WP: '1'
+  F_P_PCT: '.972'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Van Fleet
+  nameFirst: Dwight
+  nameClub1: Cedar Rapids
+  GP: '33'
+  CG: '16'
+  W: '17'
+  L: '10'
+  PCT: '.630'
+  IP: '224'
+  H: '221'
+  R: '98'
+  ER: '66'
+  SH: '2'
+  BB: '52'
+  SO: '117'
+  HP: '2'
+  WP: '3'
+  F_P_PCT: '.885'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Willoughby
+  nameFirst: C. W.
+  nameClub1: Davenport
+  GP: '34'
+  CG: '18'
+  W: '17'
+  L: '10'
+  PCT: '.630'
+  IP: '214'
+  H: '210'
+  R: '95'
+  ER: '73'
+  SH: '5'
+  BB: '62'
+  SO: '94'
+  HP: '2'
+  WP: '0'
+  F_P_PCT: ..964
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Chody
+  nameFirst: Byron
+  nameClub1: Davenport
+  GP: '19'
+  CG: '14'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  IP: '146'
+  H: '132'
+  R: '65'
+  ER: '40'
+  SH: '4'
+  BB: '54'
+  SO: '108'
+  HP: '3'
+  WP: '5'
+  F_P_PCT: '.968'
+  F_P_TP: '0'
+  BK: '2'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Harris
+  nameFirst: Herbert
+  nameClub1: Des Moines
+  GP: '10'
+  CG: '5'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '71'
+  H: '76'
+  R: '43'
+  ER: '18'
+  SH: '0'
+  BB: '20'
+  SO: '27'
+  HP: '0'
+  WP: '1'
+  F_P_PCT: '.964'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Stout
+  nameFirst: Allyn
+  nameClub1: Cedar Rapids
+  GP: '8'
+  CG: '7'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '69'
+  H: '51'
+  R: '26'
+  ER: '13'
+  SH: '1'
+  BB: '21'
+  SO: '64'
+  HP: '3'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Elmer
+  nameFirst: Phillips
+  nameClub1: Des Moines
+  GP: '9'
+  CG: '5'
+  W: '5'
+  L: '3'
+  PCT: '.625'
+  IP: '59'
+  H: '51'
+  R: '18'
+  ER: '12'
+  SH: '0'
+  BB: '18'
+  SO: '18'
+  HP: '3'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Graf
+  nameFirst: Kinner
+  nameClub1: Sioux City
+  GP: '30'
+  CG: '19'
+  W: '16'
+  L: '10'
+  PCT: '.615'
+  IP: '227'
+  H: '239'
+  R: '110'
+  ER: '85'
+  SH: '10'
+  BB: '60'
+  SO: '111'
+  HP: '3'
+  WP: '3'
+  F_P_PCT: '.958'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Lotz
+  nameFirst: John N.
+  nameClub1: Sioux City
+  GP: '33'
+  CG: '8'
+  W: '9'
+  L: '6'
+  PCT: '.600'
+  IP: '150'
+  H: '159'
+  R: '88'
+  ER: '51'
+  SH: '8'
+  BB: '62'
+  SO: '62'
+  HP: '5'
+  WP: '1'
+  F_P_PCT: '.932'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bucklin
+  nameFirst: Luke
+  nameClub1: Des Moines
+  nameClub2: Sioux City
+  GP: '16'
+  CG: '7'
+  W: '6'
+  L: '4'
+  PCT: '.600'
+  IP: '111'
+  H: '145'
+  R: '90'
+  ER: '56'
+  SH: '9'
+  BB: '43'
+  SO: '40'
+  HP: '4'
+  WP: '6'
+  F_P_PCT: '.933'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Elston
+  nameFirst: Richard
+  nameClub1: Cedar Rapids
+  GP: '32'
+  CG: '17'
+  W: '14'
+  L: '10'
+  PCT: '.583'
+  IP: '203'
+  H: '202'
+  R: '93'
+  ER: '84'
+  SH: '10'
+  BB: '88'
+  SO: '114'
+  HP: '2'
+  WP: '2'
+  F_P_PCT: '.982'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wolff
+  nameFirst: Roger F.
+  nameClub1: Davenport
+  GP: '16'
+  CG: '9'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '113'
+  H: '100'
+  R: '45'
+  ER: '29'
+  SH: '5'
+  BB: '31'
+  SO: '73'
+  HP: '0'
+  WP: '4'
+  F_P_PCT: '.974'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wolfe
+  nameFirst: Charles Gale
+  nameClub1: Omaha/Rock Island
+  GP: '30'
+  CG: '16'
+  W: '13'
+  L: '10'
+  PCT: '.565'
+  IP: '216'
+  H: '236'
+  R: '136'
+  ER: '101'
+  SH: '12'
+  BB: '90'
+  SO: '133'
+  HP: '10'
+  WP: '13'
+  F_P_PCT: '.943'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hayes
+  nameFirst: James A.
+  nameClub1: Cedar Rapids
+  GP: '30'
+  CG: '14'
+  W: '13'
+  L: '10'
+  PCT: '.565'
+  IP: '188'
+  H: '176'
+  R: '112'
+  ER: '79'
+  SH: '12'
+  BB: '118'
+  SO: '172'
+  HP: '4'
+  WP: '7'
+  F_P_PCT: '.919'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Larson
+  nameFirst: Berger
+  nameClub1: Davenport
+  GP: '14'
+  CG: '9'
+  W: '6'
+  L: '5'
+  PCT: '.545'
+  IP: '98'
+  H: '88'
+  R: '49'
+  ER: '32'
+  SH: '8'
+  BB: '44'
+  SO: '66'
+  HP: '2'
+  WP: '4'
+  F_P_PCT: '.963'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mills
+  nameFirst: Dale
+  nameClub1: Omaha/Rock Island
+  GP: '31'
+  CG: '18'
+  W: '14'
+  L: '12'
+  PCT: '.538'
+  IP: '197'
+  H: '208'
+  R: '133'
+  ER: '91'
+  SH: '10'
+  BB: '78'
+  SO: '82'
+  HP: '5'
+  WP: '8'
+  F_P_PCT: '1.000'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Gebo
+  nameFirst: Gilbert
+  nameClub1: Des Moines
+  GP: '19'
+  CG: '11'
+  W: '8'
+  L: '7'
+  PCT: '.533'
+  IP: '146'
+  H: '139'
+  R: '68'
+  ER: '20'
+  SH: '1'
+  BB: '62'
+  SO: '86'
+  HP: '4'
+  WP: '2'
+  F_P_PCT: '.939'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bonnetti
+  nameFirst: Julio
+  nameClub1: Des Moines
+  GP: '35'
+  CG: '20'
+  W: '14'
+  L: '13'
+  PCT: '.519'
+  IP: '232'
+  H: '276'
+  R: '129'
+  ER: '66'
+  SH: '6'
+  BB: '61'
+  SO: '81'
+  HP: '0'
+  WP: '5'
+  F_P_PCT: '.949'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Prince
+  nameFirst: William T.
+  nameClub1: Davenport
+  GP: '27'
+  CG: '16'
+  W: '12'
+  L: '12'
+  PCT: '.500'
+  IP: '191'
+  H: '198'
+  R: '97'
+  ER: '73'
+  SH: '14'
+  BB: '52'
+  SO: '105'
+  HP: '4'
+  WP: '9'
+  F_P_PCT: '.953'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Nichols
+  nameFirst: Edward
+  nameClub1: Omaha/Rock Island
+  GP: '30'
+  CG: '11'
+  W: '10'
+  L: '10'
+  PCT: '.500'
+  IP: '153'
+  H: '146'
+  R: '108'
+  ER: '87'
+  SH: '11'
+  BB: '111'
+  SO: '74'
+  HP: '13'
+  WP: '2'
+  F_P_PCT: '.875'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Stone
+  nameFirst: C. Richard
+  nameClub1: Davenport
+  GP: '10'
+  CG: '7'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '71'
+  H: '66'
+  R: '34'
+  ER: '26'
+  SH: '2'
+  BB: '36'
+  SO: '49'
+  HP: '0'
+  WP: '7'
+  F_P_PCT: '.857'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Drefs
+  nameFirst: Herman
+  nameClub1: Waterloo
+  GP: '11'
+  CG: '3'
+  W: '4'
+  L: '4'
+  PCT: '.500'
+  IP: '55'
+  H: '70'
+  R: '37'
+  ER: '24'
+  SH: '4'
+  BB: '13'
+  SO: '20'
+  HP: '0'
+  WP: '1'
+  F_P_PCT: '.858'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Johnson
+  nameFirst: Lyle
+  nameClub1: Omaha/Rock Island
+  GP: '8'
+  CG: '0'
+  W: '1'
+  L: '1'
+  PCT: '.500'
+  IP: '25'
+  H: '24'
+  R: '17'
+  ER: '16'
+  SH: '0'
+  BB: '11'
+  SO: '11'
+  HP: '0'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Zahn
+  nameFirst: George
+  nameClub1: Sioux City
+  GP: '38'
+  CG: '12'
+  W: '11'
+  L: '12'
+  PCT: '.478'
+  IP: '204'
+  H: '227'
+  R: '123'
+  ER: '86'
+  SH: '13'
+  BB: '78'
+  SO: '100'
+  HP: '3'
+  WP: '6'
+  F_P_PCT: '.936'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Southard
+  nameFirst: Delma M.
+  nameClub1: Des Moines
+  GP: '18'
+  CG: '9'
+  W: '6'
+  L: '7'
+  PCT: '.462'
+  IP: '114'
+  H: '111'
+  R: '57'
+  ER: '15'
+  SH: '4'
+  BB: '55'
+  SO: '97'
+  HP: '2'
+  WP: '5'
+  F_P_PCT: '.951'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Corpe
+  nameFirst: N. C.
+  nameClub1: Waterloo
+  nameClub2: Des Moines
+  GP: '18'
+  CG: '9'
+  W: '6'
+  L: '7'
+  PCT: '.462'
+  IP: '98'
+  H: '116'
+  R: '79'
+  ER: '47'
+  SH: '5'
+  BB: '67'
+  SO: '43'
+  HP: '2'
+  WP: '3'
+  F_P_PCT: '.931'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hemenway
+  nameFirst: Emil
+  nameClub1: Waterloo
+  GP: '23'
+  CG: '10'
+  W: '7'
+  L: '9'
+  PCT: '.438'
+  IP: '153'
+  H: '143'
+  R: '75'
+  ER: '55'
+  SH: '8'
+  BB: '54'
+  SO: '71'
+  HP: '2'
+  WP: '4'
+  F_P_PCT: '.982'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Ludsick
+  nameFirst: John
+  nameClub1: Des Moines
+  nameClub2: Waterloo
+  GP: '38'
+  CG: '20'
+  W: '12'
+  L: '16'
+  PCT: '.429'
+  IP: '231'
+  H: '259'
+  R: '146'
+  ER: '83'
+  SH: '15'
+  BB: '83'
+  SO: '99'
+  HP: '5'
+  WP: '4'
+  F_P_PCT: '.952'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Kemp
+  nameFirst: Burley J.
+  nameClub1: Sioux City
+  GP: '22'
+  CG: '9'
+  W: '8'
+  L: '11'
+  PCT: '.421'
+  IP: '154'
+  H: '149'
+  R: '76'
+  ER: '53'
+  SH: '6'
+  BB: '60'
+  SO: '85'
+  HP: '2'
+  WP: '7'
+  F_P_PCT: '.895'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Thesenga
+  nameFirst: Arnold
+  nameClub1: Sioux City
+  GP: '15'
+  CG: '8'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '97'
+  H: '91'
+  R: '47'
+  ER: '34'
+  SH: '8'
+  BB: '35'
+  SO: '40'
+  HP: '3'
+  WP: '2'
+  F_P_PCT: '1.000'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: King
+  nameFirst: Donald
+  nameClub1: Waterloo
+  GP: '32'
+  CG: '16'
+  W: '10'
+  L: '15'
+  PCT: '.400'
+  IP: '208'
+  H: '197'
+  R: '120'
+  ER: '89'
+  SH: '17'
+  BB: '116'
+  SO: '123'
+  HP: '4'
+  WP: '4'
+  F_P_PCT: '.989'
+  F_P_TP: '1'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wrobel
+  nameFirst: Adolph
+  nameClub1: Sioux City
+  GP: '7'
+  CG: '0'
+  W: '2'
+  L: '3'
+  PCT: '.400'
+  IP: '32'
+  H: '44'
+  R: '26'
+  ER: '16'
+  SH: '3'
+  BB: '14'
+  SO: '40'
+  HP: '2'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Papish
+  nameFirst: Frank
+  nameClub1: Omaha/Rock Island
+  GP: '29'
+  CG: '17'
+  W: '10'
+  L: '16'
+  PCT: '.385'
+  IP: '197'
+  H: '220'
+  R: '147'
+  ER: '108'
+  SH: '11'
+  BB: '103'
+  SO: '125'
+  HP: '5'
+  WP: '7'
+  F_P_PCT: '.966'
+  F_P_TP: '0'
+  BK: '2'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Cauble
+  nameFirst: Vance
+  nameClub1: Omaha/Rock Island
+  GP: '29'
+  CG: '9'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '138'
+  H: '142'
+  R: '81'
+  ER: '46'
+  SH: '4'
+  BB: '79'
+  SO: '104'
+  HP: '5'
+  WP: '3'
+  F_P_PCT: '.925'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Smith
+  nameFirst: Henry
+  nameClub1: Waterloo
+  GP: '32'
+  CG: '1'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '119'
+  H: '142'
+  R: '85'
+  ER: '56'
+  SH: '2'
+  BB: '47'
+  SO: '53'
+  HP: '4'
+  WP: '4'
+  F_P_PCT: '.929'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Doljack
+  nameFirst: Joe
+  nameClub1: Waterloo
+  GP: '27'
+  CG: '4'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '97'
+  H: '112'
+  R: '78'
+  ER: '35'
+  SH: '4'
+  BB: '51'
+  SO: '37'
+  HP: '12'
+  WP: '9'
+  F_P_PCT: '1.000'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Fieber
+  nameFirst: Clarence
+  nameClub1: Sioux City
+  GP: '12'
+  CG: '4'
+  W: '3'
+  L: '6'
+  PCT: '.333'
+  IP: '53'
+  H: '40'
+  R: '40'
+  ER: '33'
+  SH: '1'
+  BB: '51'
+  SO: '47'
+  HP: '2'
+  WP: '3'
+  F_P_PCT: '.875'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Schaefer
+  nameFirst: George
+  nameClub1: Davenport
+  GP: '11'
+  CG: '2'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '42'
+  H: '42'
+  R: '34'
+  ER: '26'
+  SH: '1'
+  BB: '41'
+  SO: '29'
+  HP: '2'
+  WP: '3'
+  F_P_PCT: '1.000'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Blackwell
+  nameFirst: Joe
+  nameClub1: Sioux City
+  GP: '5'
+  CG: '2'
+  W: '1'
+  L: '2'
+  PCT: '.333'
+  IP: '27'
+  H: '27'
+  R: '21'
+  ER: '15'
+  SH: '1'
+  BB: '22'
+  SO: '22'
+  HP: '1'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Rohr
+  nameFirst: John
+  nameClub1: Des Moines
+  GP: '4'
+  CG: '0'
+  W: '1'
+  L: '2'
+  PCT: '.333'
+  IP: '13'
+  H: '17'
+  R: '18'
+  ER: '13'
+  SH: '0'
+  BB: '9'
+  SO: '8'
+  HP: '2'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Grimes
+  nameFirst: Burley
+  nameClub1: Sioux City
+  GP: '12'
+  CG: '2'
+  W: '3'
+  L: '7'
+  PCT: '.300'
+  IP: '49'
+  H: '53'
+  R: '41'
+  ER: '36'
+  SH: '5'
+  BB: '33'
+  SO: '28'
+  HP: '2'
+  WP: '2'
+  F_P_PCT: '1.000'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Stanceu
+  nameFirst: Charles
+  nameClub1: Waterloo
+  GP: '22'
+  CG: '16'
+  W: '5'
+  L: '14'
+  PCT: '.263'
+  IP: '166'
+  H: '164'
+  R: '80'
+  ER: '52'
+  SH: '15'
+  BB: '73'
+  SO: '102'
+  HP: '1'
+  WP: '2'
+  F_P_PCT: '.936'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bertram
+  nameFirst: Clare
+  nameClub1: Sioux City
+  GP: '12'
+  CG: '1'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '54'
+  H: '60'
+  R: '37'
+  ER: '34'
+  SH: '3'
+  BB: '34'
+  SO: '28'
+  HP: '1'
+  WP: '3'
+  F_P_PCT: '1.000'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Mead
+  nameFirst: Ralph D.
+  nameClub1: Cedar Rapids
+  GP: '16'
+  CG: '2'
+  W: '0'
+  L: '5'
+  PCT: '.000'
+  IP: '54'
+  H: '67'
+  R: '43'
+  ER: '24'
+  SH: '4'
+  BB: '35'
+  SO: '44'
+  HP: '0'
+  WP: '4'
+  F_P_PCT: '.950'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Richardson
+  nameFirst: J. A.
+  nameClub1: Waterloo
+  GP: '4'
+  CG: '0'
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  IP: '17'
+  H: '23'
+  R: '12'
+  ER: '9'
+  SH: '1'
+  BB: '13'
+  SO: '14'
+  HP: '1'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Cabble
+  nameFirst: Kenneth M.
+  nameClub1: Cedar Rapids
+  GP: '4'
+  CG: '0'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  IP: '21'
+  H: '23'
+  R: '19'
+  ER: '14'
+  SH: '0'
+  BB: '14'
+  SO: '10'
+  HP: '1'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: LeComte
+  nameFirst: Alfred
+  nameClub1: Des Moines
+  GP: '3'
+  CG: '1'
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  IP: '13'
+  H: '13'
+  R: '17'
+  ER: '12'
+  SH: '0'
+  BB: '18'
+  SO: '9'
+  HP: '1'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Blackman
+  nameFirst: Charles M.
+  nameClub1: Cedar Rapids
+  GP: '5'
+  CG: '1'
+  W: '0'
+  L: '2'
+  PCT: '.000'
+  IP: '25'
+  H: '28'
+  R: '28'
+  ER: '17'
+  SH: '3'
+  BB: '16'
+  SO: '20'
+  HP: '2'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Johnson
+  nameFirst: Walter, Jr.
+  nameClub1: Des Moines
+  GP: '5'
+  CG: '0'
+  W: '0'
+  L: '2'
+  PCT: '.000'
+  IP: '22'
+  H: '19'
+  R: '12'
+  ER: '10'
+  SH: '2'
+  BB: '17'
+  SO: '10'
+  HP: '1'
+  WP: '2'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Tomek
+  nameFirst: John R.
+  nameClub1: Des Moines
+  GP: '4'
+  CG: '1'
+  W: '0'
+  L: '2'
+  PCT: '.000'
+  IP: '13'
+  H: '20'
+  R: '18'
+  ER: '4'
+  SH: '2'
+  BB: '10'
+  SO: '5'
+  HP: '0'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Blair
+  nameClub1: Des Moines
+  GP: '2'
+  CG: '1'
+  W: '0'
+  L: '2'
+  PCT: '.000'
+  IP: '7'
+  H: '12'
+  R: '10'
+  ER: '8'
+  SH: '1'
+  BB: '5'
+  SO: '2'
+  HP: '1'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Jones
+  nameFirst: Casey
+  nameClub1: Omaha/Rock Island
+  GP: '5'
+  CG: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '10'
+  H: '9'
+  R: '13'
+  ER: '10'
+  SH: '0'
+  BB: '11'
+  SO: '5'
+  HP: '0'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Conklin
+  nameFirst: Jack
+  nameClub1: Davenport
+  GP: '3'
+  CG: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '9'
+  H: '15'
+  R: '8'
+  ER: '8'
+  SH: '0'
+  BB: '4'
+  SO: '8'
+  HP: '1'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Gardner
+  nameFirst: Jerry
+  nameClub1: Des Moines
+  GP: '2'
+  CG: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '7'
+  H: '7'
+  R: '10'
+  ER: '6'
+  SH: '0'
+  BB: '10'
+  SO: '8'
+  HP: '0'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Crossley
+  nameFirst: C. F.
+  nameClub1: Cedar Rapids
+  GP: '2'
+  CG: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '5'
+  H: '8'
+  R: '4'
+  ER: '4'
+  SH: '0'
+  BB: '4'
+  SO: '1'
+  HP: '0'
+  WP: '1'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Eissler
+  nameFirst: Bill
+  nameClub1: Cedar Rapids
+  GP: '1'
+  CG: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '4'
+  H: '8'
+  R: '5'
+  ER: '4'
+  SH: '1'
+  BB: '1'
+  SO: '0'
+  HP: '0'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Anderson
+  nameFirst: William
+  nameClub1: Waterloo
+  GP: '4'
+  CG: '0'
+  W: '0'
+  L: '1'
+  PCT: '.000'
+  IP: '3'
+  H: '6'
+  R: '5'
+  ER: '5'
+  SH: '1'
+  BB: '3'
+  SO: '2'
+  HP: '0'
+  WP: '0'
+  F_P_TP: '0'
+  BK: '1'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Pearson
+  nameFirst: Alva
+  nameClub1: Waterloo
+  GP: '6'
+  W: '0'
+  L: '0'
+  IP: '28'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Schroeder
+  nameFirst: Michael
+  nameClub1: Davenport
+  GP: '8'
+  W: '0'
+  L: '0'
+  IP: '22'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Philip
+  nameClub1: Davenport
+  GP: '3'
+  W: '0'
+  L: '0'
+  IP: '12'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bouchet
+  nameFirst: Paul
+  nameClub1: Sioux City
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '8'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Hawley
+  nameFirst: Chuck
+  nameClub1: Waterloo
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '8'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Fletcher
+  nameClub1: Davenport
+  GP: '3'
+  W: '0'
+  L: '0'
+  IP: '7'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Montague
+  nameClub1: Omaha/Rock Island
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '7'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Rascher
+  nameClub1: Sioux City
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '5'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Wagner
+  nameClub1: Sioux City
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '5'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Cramton
+  nameFirst: Elwyn
+  nameClub1: Waterloo
+  GP: '3'
+  W: '0'
+  L: '0'
+  IP: '5'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Matthews
+  nameClub1: Cedar Rapids
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '4'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Bates
+  nameClub1: Des Moines
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '4'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Tising
+  nameFirst: Jack
+  nameClub1: Des Moines
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '4'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Adamson
+  nameFirst: Maurice
+  nameClub1: Waterloo
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '4'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: O'Grady
+  nameClub1: Davenport
+  GP: '2'
+  W: '0'
+  L: '0'
+  IP: '3'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Pickerill
+  nameClub1: Sioux City
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '3'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Whitehouse
+  nameFirst: Harry
+  nameClub1: Sioux City
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '3'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Fisher
+  nameClub1: Des Moines
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '3'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Lipshin
+  nameClub1: Davenport
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '2'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Saunders
+  nameClub1: Davenport
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '2'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Anderson
+  nameFirst: Charles
+  nameClub1: Sioux City
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '2'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Tubbs
+  nameClub1: Sioux City
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '2'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Rossbach
+  nameFirst: Wayne
+  nameClub1: Cedar Rapids
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '2'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: DePuit
+  nameClub1: Davenport
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '1'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Valsoano
+  nameFirst: John
+  nameClub1: Davenport
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '1'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Brosamle
+  nameClub1: Sioux City
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '1'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Henderson
+  nameClub1: Sioux City
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '1'
+  F_P_TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameLast: Beize
+  nameFirst: Richard
+  nameClub1: Davenport
+  GP: '1'
+  W: '0'
+  L: '0'
+  IP: '0'
+  F_P_TP: '0'

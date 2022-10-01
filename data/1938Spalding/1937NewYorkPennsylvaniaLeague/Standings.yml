@@ -1,0 +1,64 @@
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Elmira
+  W: '84'
+  L: '51'
+  T: '1'
+  PCT: '.622'
+  RANK: '1'
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Wilkes-Barre
+  W: '77'
+  L: '57'
+  T: '1'
+  PCT: '.575'
+  RANK: '2'
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Hazleton
+  W: '76'
+  L: '61'
+  T: '0'
+  PCT: '.555'
+  RANK: '3'
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Binghamton
+  W: '67'
+  L: '69'
+  T: '0'
+  PCT: '.493'
+  RANK: '4'
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Williamsport
+  W: '67'
+  L: '69'
+  T: '0'
+  PCT: '.493'
+  RANK: '4'
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Scranton
+  W: '63'
+  L: '75'
+  T: '0'
+  PCT: '.457'
+  RANK: '6'
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Trenton
+  W: '54'
+  L: '80'
+  T: '0'
+  PCT: '.403'
+  RANK: '7'
+- year: '1937'
+  nameLeague: New York-Pennsylvania League
+  nameClub: Albany
+  W: '54'
+  L: '80'
+  T: '0'
+  PCT: '.403'
+  RANK: '7'

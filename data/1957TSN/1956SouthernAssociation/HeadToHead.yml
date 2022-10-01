@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Atlanta
+  Memphis: '11'
+  Mobile: '13'
+  Birmingham: '13'
+  New Orleans: '12'
+  Chattanooga: '13'
+  Nashville: '14'
+  Little Rock/Montgomery: '13'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Memphis
+  Atlanta: '11'
+  Mobile: '12'
+  Birmingham: '6'
+  New Orleans: '17'
+  Chattanooga: '12'
+  Nashville: '9'
+  Little Rock/Montgomery: '15'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Mobile
+  Atlanta: '9'
+  Memphis: '10'
+  Birmingham: '12'
+  New Orleans: '9'
+  Chattanooga: '14'
+  Nashville: '13'
+  Little Rock/Montgomery: '15'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Birmingham
+  Atlanta: '9'
+  Memphis: '16'
+  Mobile: '11'
+  New Orleans: '12'
+  Chattanooga: '9'
+  Nashville: '11'
+  Little Rock/Montgomery: '13'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: New Orleans
+  Atlanta: '10'
+  Memphis: '5'
+  Mobile: '13'
+  Birmingham: '10'
+  Chattanooga: '17'
+  Nashville: '12'
+  Little Rock/Montgomery: '12'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Chattanooga
+  Atlanta: '9'
+  Memphis: '10'
+  Mobile: '8'
+  Birmingham: '13'
+  New Orleans: '5'
+  Nashville: '14'
+  Little Rock/Montgomery: '17'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Nashville
+  Atlanta: '8'
+  Memphis: '13'
+  Mobile: '9'
+  Birmingham: '11'
+  New Orleans: '10'
+  Chattanooga: '8'
+  Little Rock/Montgomery: '16'
+- year: '1956'
+  nameLeague: Southern Association
+  nameClub: Little Rock/Montgomery
+  Atlanta: '9'
+  Memphis: '7'
+  Mobile: '7'
+  Birmingham: '9'
+  New Orleans: '10'
+  Chattanooga: '5'
+  Nashville: '6'

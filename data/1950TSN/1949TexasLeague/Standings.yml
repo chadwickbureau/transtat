@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: regular
+  W: '100'
+  L: '54'
+  T: '1'
+  PCT: '.649'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: regular
+  W: '90'
+  L: '64'
+  T: '0'
+  PCT: '.584'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: regular
+  W: '81'
+  L: '72'
+  T: '2'
+  PCT: '.529'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: regular
+  W: '80'
+  L: '74'
+  T: '2'
+  PCT: '.519'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Dallas
+  phase: regular
+  W: '76'
+  L: '77'
+  T: '1'
+  PCT: '.497'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  phase: regular
+  W: '70'
+  L: '83'
+  T: '2'
+  PCT: '.458'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Houston
+  phase: regular
+  W: '60'
+  L: '91'
+  T: '1'
+  PCT: '.397'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  phase: regular
+  W: '55'
+  L: '97'
+  T: '1'
+  PCT: '.362'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Shreveport
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

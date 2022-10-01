@@ -1,0 +1,66 @@
+- year: '1946'
+  nameLeague: Alabama State League
+  nameClub: Greenville
+  G: '125'
+  DP: '69'
+  PB: '34'
+  PO: '3239'
+  A: '1357'
+  E: '261'
+  PCT: '.946'
+  TP: '0'
+- year: '1946'
+  nameLeague: Alabama State League
+  nameClub: Brewton
+  G: '125'
+  DP: '93'
+  PB: '27'
+  PO: '3175'
+  A: '1405'
+  E: '275'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Alabama State League
+  nameClub: Troy
+  G: '120'
+  DP: '87'
+  PB: '15'
+  PO: '3129'
+  A: '1371'
+  E: '272'
+  PCT: '.943'
+  TP: '0'
+- year: '1946'
+  nameLeague: Alabama State League
+  nameClub: Ozark
+  G: '126'
+  DP: '89'
+  PB: '14'
+  PO: '3273'
+  A: '1274'
+  E: '279'
+  PCT: '.942'
+  TP: '1'
+- year: '1946'
+  nameLeague: Alabama State League
+  nameClub: Geneva
+  G: '125'
+  DP: '83'
+  PB: '25'
+  PO: '3226'
+  A: '1207'
+  E: '293'
+  PCT: '.938'
+  TP: '0'
+- year: '1946'
+  nameLeague: Alabama State League
+  nameClub: Dothan
+  G: '125'
+  DP: '72'
+  PB: '27'
+  PO: '3273'
+  A: '1282'
+  E: '318'
+  PCT: '.935'
+  TP: '0'

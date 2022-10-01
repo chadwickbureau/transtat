@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Meridian
+  El Dorado: '15'
+  Pine Bluff: '12'
+  Jackson: '9'
+  Hot Springs: '8'
+  Greenville: '10'
+  Natchez: '11'
+  Monroe: '14'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: El Dorado
+  Meridian: '3'
+  Pine Bluff: '9'
+  Jackson: '12'
+  Hot Springs: '12'
+  Greenville: '6'
+  Natchez: '12'
+  Monroe: '13'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Pine Bluff
+  Meridian: '5'
+  El Dorado: '9'
+  Jackson: '10'
+  Hot Springs: '9'
+  Greenville: '11'
+  Natchez: '11'
+  Monroe: '10'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Jackson
+  Meridian: '9'
+  El Dorado: '6'
+  Pine Bluff: '8'
+  Hot Springs: '10'
+  Greenville: '11'
+  Natchez: '8'
+  Monroe: '11'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Hot Springs
+  Meridian: '10'
+  El Dorado: '6'
+  Pine Bluff: '9'
+  Jackson: '6'
+  Greenville: '11'
+  Natchez: '14'
+  Monroe: '7'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Greenville
+  Meridian: '8'
+  El Dorado: '12'
+  Pine Bluff: '7'
+  Jackson: '7'
+  Hot Springs: '7'
+  Natchez: '9'
+  Monroe: '13'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Natchez
+  Meridian: '7'
+  El Dorado: '6'
+  Pine Bluff: '7'
+  Jackson: '10'
+  Hot Springs: '4'
+  Greenville: '8'
+  Monroe: '8'
+- year: '1953'
+  nameLeague: Cotton States League
+  nameClub: Monroe
+  Meridian: '4'
+  El Dorado: '5'
+  Pine Bluff: '8'
+  Jackson: '7'
+  Hot Springs: '11'
+  Greenville: '5'
+  Natchez: '10'

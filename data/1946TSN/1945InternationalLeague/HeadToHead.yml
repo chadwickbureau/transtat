@@ -1,0 +1,80 @@
+- year: '1945'
+  nameLeague: International League
+  nameClub: Montreal
+  Newark: '15'
+  Toronto: '12'
+  Baltimore: '10'
+  Jersey City: '14'
+  Buffalo: '12'
+  Syracuse: '16'
+  Rochester: '16'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Newark
+  Montreal: '7'
+  Toronto: '9'
+  Baltimore: '17'
+  Jersey City: '16'
+  Buffalo: '16'
+  Syracuse: '12'
+  Rochester: '12'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Toronto
+  Montreal: '9'
+  Newark: '12'
+  Baltimore: '13'
+  Jersey City: '10'
+  Buffalo: '9'
+  Syracuse: '18'
+  Rochester: '14'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Baltimore
+  Montreal: '12'
+  Newark: '5'
+  Toronto: '9'
+  Jersey City: '12'
+  Buffalo: '16'
+  Syracuse: '13'
+  Rochester: '13'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Jersey City
+  Montreal: '8'
+  Newark: '6'
+  Toronto: '12'
+  Baltimore: '10'
+  Buffalo: '12'
+  Syracuse: '9'
+  Rochester: '14'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Buffalo
+  Montreal: '10'
+  Newark: '6'
+  Toronto: '13'
+  Baltimore: '6'
+  Jersey City: '9'
+  Syracuse: '11'
+  Rochester: '9'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Syracuse
+  Montreal: '6'
+  Newark: '10'
+  Toronto: '4'
+  Baltimore: '8'
+  Jersey City: '13'
+  Buffalo: '11'
+  Rochester: '12'
+- year: '1945'
+  nameLeague: International League
+  nameClub: Rochester
+  Montreal: '6'
+  Newark: '10'
+  Toronto: '8'
+  Baltimore: '9'
+  Jersey City: '8'
+  Buffalo: '13'
+  Syracuse: '10'

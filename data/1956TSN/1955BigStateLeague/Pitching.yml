@@ -1,0 +1,1820 @@
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Oquendo
+  nameClub1: Corpus Christi
+  GP: '10'
+  GS: '5'
+  CG: '5'
+  SHO: '1'
+  W: '5'
+  L: '1'
+  PCT: '.833'
+  IP: '45'
+  H: '35'
+  HR: '0'
+  R: '11'
+  ER: '10'
+  BB: '18'
+  SO: '34'
+  HB: '2'
+  WP: '0'
+  BK: '0'
+  ERA: '2.00'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Rivas
+  nameClub1: Harlingen
+  throws: L
+  GP: '12'
+  GS: '10'
+  CG: '7'
+  SHO: '1'
+  W: '7'
+  L: '3'
+  PCT: '.700'
+  IP: '87'
+  H: '80'
+  HR: '2'
+  R: '35'
+  ER: '20'
+  BB: '20'
+  SO: '57'
+  HB: '1'
+  WP: '2'
+  BK: '1'
+  ERA: '2.07'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Brown
+  nameClub1: Waco
+  GP: '11'
+  GS: '10'
+  CG: '8'
+  SHO: '1'
+  W: '8'
+  L: '3'
+  PCT: '.727'
+  IP: '75'
+  H: '54'
+  HR: '2'
+  R: '28'
+  ER: '20'
+  BB: '35'
+  SO: '84'
+  HB: '4'
+  WP: '3'
+  BK: '1'
+  ERA: '2.40'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Vega
+  nameClub1: Corpus Christi
+  GP: '40'
+  GS: '33'
+  CG: '26'
+  SHO: '5'
+  W: '28'
+  L: '6'
+  PCT: '.824'
+  IP: '284'
+  H: '266'
+  HR: '15'
+  R: '102'
+  ER: '85'
+  BB: '101'
+  SO: '180'
+  HB: '3'
+  WP: '8'
+  BK: '1'
+  ERA: '2.69'
+  ERA_RANK: '1'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Stryska
+  nameClub1: Galveston
+  throws: L
+  GP: '8'
+  GS: '6'
+  CG: '4'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '53'
+  H: '47'
+  HR: '4'
+  R: '21'
+  ER: '16'
+  BB: '11'
+  SO: '25'
+  HB: '0'
+  WP: '0'
+  BK: '0'
+  ERA: '2.72'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Carden
+  nameClub1: Waco
+  throws: L
+  GP: '29'
+  GS: '5'
+  CG: '2'
+  SHO: '1'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '84'
+  H: '90'
+  HR: '4'
+  R: '43'
+  ER: '26'
+  BB: '41'
+  SO: '4'
+  HB: '5'
+  WP: '0'
+  BK: '0'
+  ERA: '2.79'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Jackson
+  nameClub1: Waco
+  throws: L
+  GP: '15'
+  GS: '15'
+  CG: '9'
+  SHO: '2'
+  W: '8'
+  L: '5'
+  PCT: '.615'
+  IP: '116'
+  H: '102'
+  HR: '4'
+  R: '42'
+  ER: '36'
+  BB: '65'
+  SO: '88'
+  HB: '2'
+  WP: '7'
+  BK: '0'
+  ERA: '2.79'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Harris
+  nameClub1: Austin
+  GP: '16'
+  GS: '13'
+  CG: '5'
+  SHO: '2'
+  W: '4'
+  L: '6'
+  PCT: '.400'
+  IP: '93'
+  H: '73'
+  HR: '6'
+  R: '33'
+  ER: '29'
+  BB: '47'
+  SO: '70'
+  HB: '2'
+  WP: '1'
+  BK: '0'
+  ERA: '2.81'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Pringle
+  nameClub1: Tyler
+  GP: '18'
+  GS: '15'
+  CG: '13'
+  SHO: '1'
+  W: '11'
+  L: '5'
+  PCT: '.688'
+  IP: '132'
+  H: '124'
+  HR: '6'
+  R: '53'
+  ER: '42'
+  BB: '26'
+  SO: '86'
+  HB: '0'
+  WP: '2'
+  BK: '0'
+  ERA: '2.86'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Roberts
+  nameClub1: Texas City
+  GP: '38'
+  GS: '32'
+  CG: '20'
+  SHO: '3'
+  W: '19'
+  L: '11'
+  PCT: '.633'
+  IP: '253'
+  H: '207'
+  HR: '7'
+  R: '111'
+  ER: '81'
+  BB: '149'
+  SO: '167'
+  HB: '3'
+  WP: '9'
+  BK: '0'
+  ERA: '2.88'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Nicolosi
+  nameClub1: Port Arthur
+  GP: '40'
+  GS: '34'
+  CG: '28'
+  SHO: '2'
+  W: '14'
+  L: '20'
+  PCT: '.412'
+  IP: '294'
+  H: '283'
+  HR: '15'
+  R: '130'
+  ER: '99'
+  BB: '88'
+  SO: '220'
+  HB: '3'
+  WP: '7'
+  BK: '0'
+  ERA: '3.03'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Phipps
+  nameClub1: Tyler
+  GP: '16'
+  GS: '15'
+  CG: '12'
+  SHO: '2'
+  W: '9'
+  L: '7'
+  PCT: '.563'
+  IP: '124'
+  H: '130'
+  HR: '6'
+  R: '48'
+  ER: '42'
+  BB: '29'
+  SO: '89'
+  HB: '4'
+  WP: '3'
+  BK: '0'
+  ERA: '3.05'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Toth
+  nameClub1: Texas City
+  GP: '33'
+  GS: '31'
+  CG: '21'
+  SHO: '4'
+  W: '21'
+  L: '7'
+  PCT: '.750'
+  IP: '248'
+  H: '225'
+  HR: '13'
+  R: '112'
+  ER: '95'
+  BB: '73'
+  SO: '134'
+  HB: '5'
+  WP: '6'
+  BK: '0'
+  ERA: '3.45'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Jones
+  nameFirst: L.
+  nameClub1: Austin
+  throws: L
+  GP: '53'
+  GS: '22'
+  CG: '12'
+  SHO: '4'
+  W: '15'
+  L: '12'
+  PCT: '.556'
+  IP: '234'
+  H: '234'
+  HR: '13'
+  R: '98'
+  ER: '91'
+  BB: '60'
+  SO: '114'
+  HB: '4'
+  WP: '5'
+  BK: '0'
+  ERA: '3.50'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Karpinski
+  nameClub1: Galveston
+  nameClub2: Texas City
+  GP: '17'
+  GS: '4'
+  CG: '3'
+  SHO: '1'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '56'
+  H: '58'
+  HR: '5'
+  R: '24'
+  ER: '22'
+  BB: '21'
+  SO: '23'
+  HB: '2'
+  WP: '0'
+  BK: '0'
+  ERA: '3.54'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Simon
+  nameClub1: Port Arthur
+  GP: '11'
+  GS: '11'
+  CG: '6'
+  SHO: '1'
+  W: '6'
+  L: '3'
+  PCT: '.667'
+  IP: '87'
+  H: '102'
+  HR: '6'
+  R: '43'
+  ER: '35'
+  BB: '31'
+  SO: '34'
+  HB: '1'
+  WP: '2'
+  BK: '1'
+  ERA: '3.62'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Alvarez
+  nameClub1: Port Arthur
+  GP: '46'
+  GS: '28'
+  CG: '19'
+  SHO: '2'
+  W: '16'
+  L: '16'
+  PCT: '.500'
+  IP: '252'
+  H: '270'
+  HR: '25'
+  R: '132'
+  ER: '102'
+  BB: '78'
+  SO: '110'
+  HB: '10'
+  WP: '4'
+  BK: '1'
+  ERA: '3.64'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Mills
+  nameClub1: Harlingen
+  GP: '36'
+  GS: '30'
+  CG: '18'
+  SHO: '3'
+  W: '17'
+  L: '9'
+  PCT: '.654'
+  IP: '224'
+  H: '217'
+  HR: '14'
+  R: '125'
+  ER: '92'
+  BB: '93'
+  SO: '87'
+  HB: '7'
+  WP: '3'
+  BK: '2'
+  ERA: '3.70'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Bumgarner
+  nameClub1: Port Arthur
+  GP: '24'
+  GS: '15'
+  CG: '5'
+  SHO: '0'
+  W: '8'
+  L: '7'
+  PCT: '.533'
+  IP: '128'
+  H: '140'
+  HR: '7'
+  R: '65'
+  ER: '53'
+  BB: '40'
+  SO: '56'
+  HB: '9'
+  WP: '1'
+  BK: '0'
+  ERA: '3.73'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Vitter
+  nameClub1: Corpus Christi
+  GP: '14'
+  GS: '11'
+  CG: '7'
+  SHO: '0'
+  W: '8'
+  L: '3'
+  PCT: '.727'
+  IP: '85'
+  H: '100'
+  HR: '4'
+  R: '43'
+  ER: '36'
+  BB: '23'
+  SO: '48'
+  HB: '1'
+  WP: '0'
+  BK: '0'
+  ERA: '3.81'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Hees
+  nameClub1: Austin
+  GP: '43'
+  GS: '28'
+  CG: '11'
+  SHO: '3'
+  W: '12'
+  L: '17'
+  PCT: '.414'
+  IP: '227'
+  H: '228'
+  HR: '10'
+  R: '113'
+  ER: '98'
+  BB: '60'
+  SO: '75'
+  HB: '6'
+  WP: '1'
+  BK: '0'
+  ERA: '3.88'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Lewright
+  nameClub1: Waco
+  GP: '25'
+  GS: '20'
+  CG: '8'
+  SHO: '1'
+  W: '8'
+  L: '10'
+  PCT: '.444'
+  IP: '135'
+  H: '118'
+  HR: '17'
+  R: '73'
+  ER: '59'
+  BB: '81'
+  SO: '91'
+  HB: '2'
+  WP: '8'
+  BK: '1'
+  ERA: '3.93'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Bench
+  nameClub1: Texas City
+  GP: '18'
+  GS: '7'
+  CG: '2'
+  SHO: '1'
+  W: '3'
+  L: '4'
+  PCT: '.420'
+  IP: '68'
+  H: '64'
+  HR: '6'
+  R: '56'
+  ER: '30'
+  BB: '37'
+  SO: '43'
+  HB: '5'
+  WP: '4'
+  BK: '2'
+  ERA: '3.97'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Tappe
+  nameClub1: Harlingen
+  GP: '34'
+  GS: '28'
+  CG: '17'
+  SHO: '2'
+  W: '11'
+  L: '12'
+  PCT: '.478'
+  IP: '208'
+  H: '234'
+  HR: '13'
+  R: '122'
+  ER: '92'
+  BB: '55'
+  SO: '58'
+  HB: '4'
+  WP: '1'
+  BK: '1'
+  ERA: '3.98'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Rowe
+  nameClub1: Waco
+  GP: '38'
+  GS: '33'
+  CG: '18'
+  SHO: '3'
+  W: '15'
+  L: '17'
+  PCT: '.469'
+  IP: '256'
+  H: '260'
+  HR: '24'
+  R: '144'
+  ER: '115'
+  BB: '139'
+  SO: '226'
+  HB: '2'
+  WP: '12'
+  BK: '2'
+  ERA: '4.04'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Rainey
+  nameClub1: Galveston
+  nameClub2: Texas City
+  GP: '35'
+  GS: '26'
+  CG: '11'
+  SHO: '0'
+  W: '10'
+  L: '9'
+  PCT: '.526'
+  IP: '190'
+  H: '221'
+  HR: '15'
+  R: '112'
+  ER: '87'
+  BB: '50'
+  SO: '100'
+  HB: '2'
+  WP: '3'
+  BK: '0'
+  ERA: '4.12'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Mehan
+  nameClub1: Waco
+  GP: '27'
+  GS: '23'
+  CG: '14'
+  SHO: '3'
+  W: '16'
+  L: '7'
+  PCT: '.696'
+  IP: '187'
+  H: '176'
+  HR: '27'
+  R: '98'
+  ER: '86'
+  BB: '72'
+  SO: '129'
+  HB: '7'
+  WP: '4'
+  BK: '0'
+  ERA: '4.14'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Burgess
+  nameClub1: Corpus Christi
+  throws: L
+  GP: '35'
+  GS: '26'
+  CG: '14'
+  SHO: '2'
+  W: '16'
+  L: '11'
+  PCT: '.593'
+  IP: '217'
+  H: '219'
+  HR: '8'
+  R: '113'
+  ER: '100'
+  BB: '109'
+  SO: '126'
+  HB: '7'
+  WP: '4'
+  BK: '1'
+  ERA: '4.15'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Diez
+  nameClub1: Texas City
+  GP: '39'
+  GS: '23'
+  CG: '8'
+  SHO: '0'
+  W: '11'
+  L: '12'
+  PCT: '.478'
+  IP: '184'
+  H: '203'
+  HR: '19'
+  R: '119'
+  ER: '85'
+  BB: '94'
+  SO: '97'
+  HB: '10'
+  WP: '4'
+  BK: '4'
+  ERA: '4.16'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Tosheff
+  nameClub1: Corpus Christi
+  GP: '34'
+  GS: '23'
+  CG: '17'
+  SHO: '0'
+  W: '20'
+  L: '7'
+  PCT: '.741'
+  IP: '218'
+  H: '222'
+  HR: '14'
+  R: '128'
+  ER: '103'
+  BB: '94'
+  SO: '98'
+  HB: '8'
+  WP: '7'
+  BK: '0'
+  ERA: '4.25'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Smith
+  nameClub1: Texas City
+  nameClub2: Tyler
+  nameClub3: Harlingen
+  GP: '37'
+  GS: '26'
+  CG: '11'
+  SHO: '2'
+  W: '14'
+  L: '14'
+  PCT: '.500'
+  IP: '210'
+  H: '236'
+  HR: '16'
+  R: '121'
+  ER: '106'
+  BB: '74'
+  SO: '59'
+  HB: '4'
+  WP: '4'
+  BK: '2'
+  ERA: '4.54'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Taylor
+  nameClub1: Austin
+  GP: '31'
+  GS: '28'
+  CG: '13'
+  SHO: '0'
+  W: '12'
+  L: '15'
+  PCT: '.444'
+  IP: '214'
+  H: '260'
+  HR: '14'
+  R: '128'
+  ER: '111'
+  BB: '59'
+  SO: '107'
+  HB: '3'
+  WP: '3'
+  BK: '1'
+  ERA: '4.67'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Stanton
+  nameClub1: Austin
+  GP: '24'
+  GS: '15'
+  CG: '2'
+  SHO: '1'
+  W: '4'
+  L: '10'
+  PCT: '.286'
+  IP: '100'
+  H: '110'
+  HR: '8'
+  R: '72'
+  ER: '52'
+  BB: '41'
+  SO: '45'
+  HB: '5'
+  WP: '1'
+  BK: '0'
+  ERA: '4.68'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Bagwell
+  nameClub1: Galveston
+  nameClub2: Tyler
+  nameClub3: Port Arthur
+  GP: '36'
+  GS: '29'
+  CG: '19'
+  SHO: '3'
+  W: '18'
+  L: '14'
+  PCT: '.563'
+  IP: '234'
+  H: '254'
+  HR: '12'
+  R: '133'
+  ER: '124'
+  BB: '73'
+  SO: '123'
+  HB: '3'
+  WP: '8'
+  BK: '1'
+  ERA: '4.77'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: McDuff
+  nameClub1: Austin
+  GP: '22'
+  GS: '14'
+  CG: '5'
+  SHO: '1'
+  W: '5'
+  L: '7'
+  PCT: '.417'
+  IP: '102'
+  H: '102'
+  HR: '9'
+  R: '65'
+  ER: '55'
+  BB: '47'
+  SO: '57'
+  HB: '4'
+  WP: '3'
+  BK: '1'
+  ERA: '4.85'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Haysom
+  nameClub1: Waco
+  GP: '23'
+  GS: '2'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '61'
+  H: '55'
+  HR: '6'
+  R: '38'
+  ER: '33'
+  BB: '46'
+  SO: '40'
+  HB: '3'
+  WP: '1'
+  BK: '1'
+  ERA: '4.87'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Cullens
+  nameClub1: Tyler
+  GP: '15'
+  GS: '6'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '7'
+  PCT: '.222'
+  IP: '64'
+  H: '77'
+  HR: '7'
+  R: '41'
+  ER: '35'
+  BB: '21'
+  SO: '17'
+  HB: '1'
+  WP: '1'
+  BK: '0'
+  ERA: '4.92'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Lopez
+  nameClub1: Corpus Christi
+  throws: L
+  GP: '24'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '3'
+  L: '1'
+  PCT: '.750'
+  IP: '62'
+  H: '89'
+  HR: '9'
+  R: '50'
+  ER: '34'
+  BB: '14'
+  SO: '24'
+  HB: '2'
+  WP: '1'
+  BK: '0'
+  ERA: '4.94'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Newberry
+  nameClub1: Port Arthur
+  GP: '33'
+  GS: '7'
+  CG: '3'
+  SHO: '1'
+  W: '6'
+  L: '4'
+  PCT: '.600'
+  IP: '124'
+  H: '146'
+  HR: '14'
+  R: '86'
+  ER: '69'
+  BB: '46'
+  SO: '51'
+  HB: '0'
+  WP: '0'
+  BK: '1'
+  ERA: '5.01'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: New
+  nameClub1: Harlingen
+  throws: L
+  GP: '16'
+  GS: '10'
+  CG: '4'
+  SHO: '0'
+  W: '5'
+  L: '8'
+  PCT: '.385'
+  IP: '91'
+  H: '99'
+  HR: '2'
+  R: '56'
+  ER: '51'
+  BB: '65'
+  SO: '40'
+  HB: '2'
+  WP: '3'
+  BK: '0'
+  ERA: '5.04'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Hubert
+  nameClub1: Harlingen
+  GP: '36'
+  GS: '20'
+  CG: '8'
+  SHO: '0'
+  W: '5'
+  L: '16'
+  PCT: '.238'
+  IP: '181'
+  H: '207'
+  HR: '12'
+  R: '126'
+  ER: '104'
+  BB: '99'
+  SO: '86'
+  HB: '4'
+  WP: '7'
+  BK: '1'
+  ERA: '5.17'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Konick
+  nameClub1: Texas City
+  GP: '21'
+  GS: '10'
+  CG: '5'
+  SHO: '1'
+  W: '5'
+  L: '9'
+  PCT: '.357'
+  IP: '105'
+  H: '139'
+  HR: '11'
+  R: '70'
+  ER: '61'
+  BB: '25'
+  SO: '25'
+  HB: '7'
+  WP: '0'
+  BK: '0'
+  ERA: '5.23'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Logan
+  nameClub1: Galveston
+  GP: '10'
+  GS: '8'
+  CG: '6'
+  SHO: '0'
+  W: '2'
+  L: '5'
+  PCT: '.286'
+  IP: '65'
+  H: '75'
+  HR: '4'
+  R: '44'
+  ER: '38'
+  BB: '33'
+  SO: '40'
+  HB: '3'
+  WP: '0'
+  BK: '0'
+  ERA: '5.26'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Swigart
+  nameClub1: Harlingen
+  GP: '18'
+  GS: '5'
+  CG: '4'
+  SHO: '0'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '65'
+  H: '73'
+  HR: '8'
+  R: '42'
+  ER: '39'
+  BB: '28'
+  SO: '26'
+  HB: '2'
+  WP: '1'
+  BK: '0'
+  ERA: '5.40'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Leach
+  nameClub1: Tyler
+  nameClub2: Harlingen
+  throws: L
+  GP: '34'
+  GS: '18'
+  CG: '4'
+  SHO: '0'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  IP: '165'
+  H: '189'
+  HR: '15'
+  R: '127'
+  ER: '102'
+  BB: '91'
+  SO: '61'
+  HB: '13'
+  WP: '4'
+  BK: '0'
+  ERA: '5.56'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Sassone
+  nameClub1: Galveston
+  nameClub2: Texas City
+  GP: '37'
+  GS: '2'
+  CG: '0'
+  SHO: '0'
+  W: '8'
+  L: '2'
+  PCT: '.800'
+  IP: '99'
+  H: '109'
+  HR: '10'
+  R: '73'
+  ER: '63'
+  BB: '59'
+  SO: '58'
+  HB: '10'
+  WP: '8'
+  BK: '2'
+  ERA: '5.73'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Thacker
+  nameClub1: Tyler
+  GP: '17'
+  GS: '5'
+  CG: '0'
+  SHO: '0'
+  W: '2'
+  L: '2'
+  PCT: '.500'
+  IP: '48'
+  H: '50'
+  HR: '3'
+  R: '38'
+  ER: '31'
+  BB: '39'
+  SO: '16'
+  HB: '2'
+  WP: '4'
+  BK: '0'
+  ERA: '5.81'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Isenberg
+  nameClub1: Corpus Christi
+  nameClub2: Harlingen
+  GP: '21'
+  GS: '9'
+  CG: '3'
+  SHO: '0'
+  W: '4'
+  L: '7'
+  PCT: '.364'
+  IP: '83'
+  H: '81'
+  HR: '18'
+  R: '66'
+  ER: '55'
+  BB: '13'
+  SO: '54'
+  HB: '4'
+  WP: '2'
+  BK: '1'
+  ERA: '5.96'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Williams
+  nameClub1: Austin
+  throws: L
+  GP: '37'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '2'
+  PCT: '.333'
+  IP: '90'
+  H: '114'
+  HR: '14'
+  R: '65'
+  ER: '60'
+  BB: '38'
+  SO: '18'
+  HB: '5'
+  WP: '4'
+  BK: '0'
+  ERA: '6.00'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Lee
+  nameClub1: Corpus Christi
+  throws: L
+  GP: '14'
+  GS: '11'
+  CG: '3'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '73'
+  H: '85'
+  HR: '6'
+  R: '64'
+  ER: '50'
+  BB: '68'
+  SO: '37'
+  HB: '1'
+  WP: '2'
+  BK: '2'
+  ERA: '6.16'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Goodell
+  nameClub1: Galveston
+  nameClub2: Austin
+  GP: '39'
+  GS: '21'
+  CG: '7'
+  SHO: '0'
+  W: '8'
+  L: '13'
+  PCT: '.381'
+  IP: '135'
+  H: '156'
+  HR: '22'
+  R: '115'
+  ER: '94'
+  BB: '66'
+  SO: '51'
+  HB: '6'
+  WP: '3'
+  BK: '0'
+  ERA: '6.27'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Harrison
+  nameClub1: Austin
+  throws: L
+  GP: '13'
+  GS: '7'
+  CG: '1'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '51'
+  H: '72'
+  HR: '4'
+  R: '41'
+  ER: '36'
+  BB: '17'
+  SO: '22'
+  HB: '0'
+  WP: '0'
+  BK: '0'
+  ERA: '6.35'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Turano
+  nameClub1: Port Arthur
+  GP: '10'
+  GS: '10'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '6'
+  PCT: '.143'
+  IP: '46'
+  H: '49'
+  HR: '6'
+  R: '40'
+  ER: '36'
+  BB: '56'
+  SO: '31'
+  HB: '1'
+  WP: '2'
+  BK: '0'
+  ERA: '7.04'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Schroyer
+  nameClub1: Waco
+  GP: '9'
+  GS: '9'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  IP: '46'
+  H: '47'
+  HR: '10'
+  R: '39'
+  ER: '38'
+  BB: '30'
+  SO: '39'
+  HB: '1'
+  WP: '4'
+  BK: '0'
+  ERA: '7.43'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Bradshaw
+  nameClub1: Austin
+  GP: '3'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Hausmann
+  nameClub1: Austin
+  GP: '3'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Litton
+  nameClub1: Austin
+  GP: '8'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Murie
+  nameClub1: Austin
+  GP: '4'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Wile
+  nameClub1: Austin
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Bonine
+  nameClub1: Corpus Christi
+  throws: L
+  GP: '4'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Brown
+  nameFirst: W.
+  nameClub1: Corpus Christi
+  GP: '7'
+  W: '2'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Denny
+  nameClub1: Corpus Christi
+  GP: '5'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Escobar
+  nameClub1: Corpus Christi
+  GP: '2'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Hinman
+  nameClub1: Corpus Christi
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Luckenbach
+  nameClub1: Corpus Christi
+  GP: '11'
+  W: '2'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Muniz
+  nameClub1: Corpus Christi
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Ryan
+  nameClub1: Corpus Christi
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Shankman
+  nameClub1: Corpus Christi
+  throws: L
+  GP: '7'
+  W: '5'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Kenaga
+  nameClub1: Galveston
+  GP: '4'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Mains
+  nameClub1: Galveston
+  GP: '14'
+  W: '2'
+  L: '6'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Young
+  nameClub1: Galveston
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Alford
+  nameClub1: Harlingen
+  throws: L
+  GP: '8'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Carpenter
+  nameClub1: Harlingen
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Dunkovich
+  nameClub1: Harlingen
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Gerace
+  nameClub1: Harlingen
+  GP: '3'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Gomez
+  nameClub1: Harlingen
+  GP: '5'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Lopez
+  nameFirst: G.
+  nameClub1: Harlingen
+  GP: '9'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Lopez
+  nameFirst: J.
+  nameClub1: Harlingen
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Martinez
+  nameClub1: Harlingen
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Massengill
+  nameClub1: Harlingen
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Avila
+  nameClub1: Port Arthur
+  GP: '3'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Herrera
+  nameClub1: Port Arthur
+  throws: L
+  GP: '9'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Holick
+  nameClub1: Port Arthur
+  GP: '9'
+  W: '1'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Lucadello
+  nameClub1: Port Arthur
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Milankovich
+  nameClub1: Port Arthur
+  GP: '6'
+  W: '3'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Roger
+  nameClub1: Port Arthur
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Sanner
+  nameClub1: Port Arthur
+  GP: '2'
+  W: '1'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Santomauro
+  nameClub1: Port Arthur
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Sasso
+  nameClub1: Port Arthur
+  GP: '2'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Smith
+  nameFirst: T.
+  nameClub1: Port Arthur
+  GP: '6'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Stone
+  nameClub1: Port Arthur
+  GP: '4'
+  W: '0'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Thompson
+  nameClub1: Tyler
+  nameClub2: Port Arthur
+  GP: '9'
+  W: '0'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Vice
+  nameClub1: Port Arthur
+  GP: '3'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Alonso
+  nameClub1: Texas City
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Bohnslav
+  nameClub1: Texas City
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Contreras
+  nameClub1: Texas City
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Cox
+  nameClub1: Texas City
+  GP: '6'
+  W: '1'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Dickey
+  nameClub1: Texas City
+  GP: '1'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Hall
+  nameClub1: Texas City
+  GP: '6'
+  W: '1'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Hutzler
+  nameClub1: Texas City
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Kotts
+  nameClub1: Texas City
+  GP: '5'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Lange
+  nameClub1: Texas City
+  throws: L
+  GP: '3'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: McLish
+  nameClub1: Texas City
+  GP: '3'
+  W: '0'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Price
+  nameClub1: Texas City
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Reime
+  nameClub1: Texas City
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Rosato
+  nameClub1: Texas City
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Vandehey
+  nameClub1: Texas City
+  GP: '3'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Zeller
+  nameClub1: Texas City
+  GP: '6'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Branson
+  nameClub1: Tyler
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Charles
+  nameFirst: H.
+  nameClub1: Tyler
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Daniels
+  nameClub1: Tyler
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Gazella
+  nameClub1: Tyler
+  throws: L
+  GP: '11'
+  W: '1'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Reguera
+  nameClub1: Tyler
+  GP: '5'
+  W: '2'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Spieth
+  nameClub1: Tyler
+  GP: '3'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Strombach
+  nameClub1: Tyler
+  GP: '2'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Beene
+  nameClub1: Waco
+  GP: '6'
+  W: '0'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Beran
+  nameClub1: Waco
+  GP: '4'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Dunn
+  nameClub1: Waco
+  GP: '9'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Gray
+  nameClub1: Waco
+  throws: L
+  GP: '2'
+  W: '0'
+  L: '1'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: McGrath
+  nameClub1: Waco
+  GP: '10'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Necciai
+  nameClub1: Waco
+  GP: '2'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Patchell
+  nameClub1: Waco
+  GP: '12'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Salgado
+  nameClub1: Waco
+  GP: '7'
+  W: '1'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Scarth
+  nameClub1: Waco
+  GP: '1'
+  W: '0'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Stelmach
+  nameClub1: Waco
+  GP: '12'
+  W: '1'
+  L: '3'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Strickland
+  nameClub1: Waco
+  GP: '1'
+  W: '1'
+  L: '0'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Swanson
+  nameClub1: Waco
+  GP: '2'
+  W: '0'
+  L: '2'
+  BK: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameLast: Waters
+  nameClub1: Waco
+  throws: L
+  GP: '10'
+  W: '4'
+  L: '1'
+  BK: '0'

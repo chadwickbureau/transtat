@@ -1,0 +1,66 @@
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Mount Vernon
+  G: '112'
+  DP: '70'
+  TP: '0'
+  PB: '40'
+  PO: '2853'
+  A: '1201'
+  E: '215'
+  PCT: '.950'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Belleville
+  G: '113'
+  DP: '99'
+  TP: '1'
+  PB: '34'
+  PO: '2988'
+  A: '1306'
+  E: '234'
+  PCT: '.948'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Centralia
+  G: '113'
+  DP: '61'
+  TP: '0'
+  PB: '40'
+  PO: '2962'
+  A: '1247'
+  E: '261'
+  PCT: '.942'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Marion
+  G: '111'
+  DP: '64'
+  TP: '0'
+  PB: '30'
+  PO: '2853'
+  A: '1292'
+  E: '267'
+  PCT: '.939'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Mattoon
+  G: '105'
+  DP: '51'
+  TP: '0'
+  PB: '36'
+  PO: '2653'
+  A: '1110'
+  E: '253'
+  PCT: '.937'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: West Frankfort
+  G: '112'
+  DP: '65'
+  TP: '0'
+  PB: '21'
+  PO: '2869'
+  A: '1219'
+  E: '307'
+  PCT: '.930'

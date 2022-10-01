@@ -1,0 +1,118 @@
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Dunn-Erwin
+  phase: regular
+  W: '81'
+  L: '54'
+  T: '0'
+  PCT: '.600'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Red Springs
+  phase: regular
+  W: '76'
+  L: '59'
+  T: '1'
+  PCT: '.563'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Lumberton
+  phase: regular
+  W: '75'
+  L: '61'
+  T: '0'
+  PCT: '.551'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Sanford
+  phase: regular
+  W: '71'
+  L: '62'
+  T: '1'
+  PCT: '.530'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Smithfield-Selma
+  phase: regular
+  W: '70'
+  L: '65'
+  T: '0'
+  PCT: '.519'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Fayetteville
+  phase: regular
+  W: '61'
+  L: '76'
+  T: '0'
+  PCT: '.445'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Clinton
+  phase: regular
+  W: '60'
+  L: '78'
+  T: '0'
+  PCT: '.435'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Wilmington
+  phase: regular
+  W: '49'
+  L: '88'
+  T: '0'
+  PCT: '.358'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Dunn-Erwin
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Lumberton
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Red Springs
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Sanford
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Red Springs
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Tobacco State League
+  nameClub: Dunn-Erwin
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

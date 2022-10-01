@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  G: '123'
+  DP: '100'
+  PB: '27'
+  PO: '3202'
+  A: '1149'
+  E: '206'
+  PCT: '.956'
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  G: '120'
+  DP: '109'
+  PB: '40'
+  PO: '3198'
+  A: '1224'
+  E: '217'
+  PCT: '.953'
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Corning
+  G: '123'
+  DP: '94'
+  PB: '31'
+  PO: '3145'
+  A: '1281'
+  E: '239'
+  PCT: '.949'
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Erie
+  G: '119'
+  DP: '107'
+  PB: '24'
+  PO: '3068'
+  A: '1298'
+  E: '238'
+  PCT: '.948'
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  G: '114'
+  DP: '98'
+  PB: '35'
+  PO: '2962'
+  A: '1103'
+  E: '224'
+  PCT: '.948'
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  G: '115'
+  DP: '104'
+  PB: '20'
+  PO: '2945'
+  A: '1063'
+  E: '246'
+  PCT: '.942'
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  G: '14'
+  DP: '8'
+  PB: '0'
+  PO: '360'
+  A: '146'
+  E: '35'
+  PCT: '.935'
+- year: '1956'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  G: '12'
+  DP: '8'
+  PB: '1'
+  PO: '300'
+  A: '135'
+  E: '35'
+  PCT: '.926'

@@ -1,0 +1,66 @@
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Clinton
+  G: '125'
+  DP: '100'
+  TP: '0'
+  PB: '28'
+  PO: '3194'
+  A: '1288'
+  E: '238'
+  PCT: '.950'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Hannibal
+  G: '125'
+  DP: '125'
+  TP: '0'
+  PB: '33'
+  PO: '3186'
+  A: '1320'
+  E: '247'
+  PCT: '.948'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Keokuk
+  G: '125'
+  DP: '130'
+  TP: '1'
+  PB: '17'
+  PO: '3210'
+  A: '1487'
+  E: '266'
+  PCT: '.946'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Rockford
+  G: '125'
+  DP: '94'
+  TP: '0'
+  PB: '15'
+  PO: '3217'
+  A: '1378'
+  E: '262'
+  PCT: '.946'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Moline
+  G: '125'
+  DP: '103'
+  TP: '0'
+  PB: '33'
+  PO: '3133'
+  A: '1407'
+  E: '268'
+  PCT: '.944'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Burlington
+  G: '125'
+  DP: '103'
+  TP: '1'
+  PB: '37'
+  PO: '3205'
+  A: '1363'
+  E: '301'
+  PCT: '.938'

@@ -1,0 +1,48 @@
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Asheville
+  Knoxville: '18'
+  Greenville: '13'
+  Spartanburg: '17'
+  Rock Hill: '19'
+  Anderson: '19'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Knoxville
+  Asheville: '10'
+  Greenville: '14'
+  Spartanburg: '15'
+  Rock Hill: '14'
+  Anderson: '19'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Greenville
+  Asheville: '15'
+  Knoxville: '14'
+  Spartanburg: '13'
+  Rock Hill: '13'
+  Anderson: '13'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Spartanburg
+  Asheville: '11'
+  Knoxville: '11'
+  Greenville: '15'
+  Rock Hill: '13'
+  Anderson: '16'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Rock Hill
+  Asheville: '9'
+  Knoxville: '14'
+  Greenville: '15'
+  Spartanburg: '15'
+  Anderson: '12'
+- year: '1954'
+  nameLeague: Tri-State League
+  nameClub: Anderson
+  Asheville: '9'
+  Knoxville: '9'
+  Greenville: '15'
+  Spartanburg: '12'
+  Rock Hill: '16'

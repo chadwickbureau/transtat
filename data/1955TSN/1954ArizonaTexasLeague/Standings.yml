@@ -1,0 +1,64 @@
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  W: '93'
+  L: '47'
+  T: '1'
+  PCT: '.664'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Mexicali
+  W: '92'
+  L: '48'
+  T: '0'
+  PCT: '.657'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Cananea
+  W: '69'
+  L: '71'
+  T: '1'
+  PCT: '.493'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  W: '69'
+  L: '71'
+  T: '0'
+  PCT: '.493'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  W: '64'
+  L: '76'
+  T: '0'
+  PCT: '.457'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Nogales
+  W: '61'
+  L: '79'
+  T: '1'
+  PCT: '.436'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee-Douglas
+  W: '57'
+  L: '83'
+  T: '1'
+  PCT: '.407'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  W: '55'
+  L: '85'
+  T: '0'
+  PCT: '.393'
+  RANK: '8'

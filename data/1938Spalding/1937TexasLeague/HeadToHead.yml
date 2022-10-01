@@ -1,0 +1,80 @@
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: Oklahoma City
+  Tulsa: '12'
+  Fort Worth: '14'
+  San Antonio: '16'
+  Beaumont: '13'
+  Galveston: '10'
+  Houston: '16'
+  Dallas: '20'
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  Oklahoma City: '11'
+  Fort Worth: '11'
+  San Antonio: '12'
+  Beaumont: '10'
+  Galveston: '13'
+  Houston: '16'
+  Dallas: '16'
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  Oklahoma City: '9'
+  Tulsa: '10'
+  San Antonio: '11'
+  Beaumont: '14'
+  Galveston: '13'
+  Houston: '10'
+  Dallas: '18'
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  Oklahoma City: '7'
+  Tulsa: '11'
+  Fort Worth: '12'
+  Beaumont: '14'
+  Galveston: '16'
+  Houston: '10'
+  Dallas: '15'
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: Beaumont
+  Oklahoma City: '10'
+  Tulsa: '13'
+  Fort Worth: '9'
+  San Antonio: '9'
+  Galveston: '15'
+  Houston: '15'
+  Dallas: '11'
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: Galveston
+  Oklahoma City: '12'
+  Tulsa: '9'
+  Fort Worth: '10'
+  San Antonio: '7'
+  Beaumont: '8'
+  Houston: '14'
+  Dallas: '13'
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: Houston
+  Oklahoma City: '6'
+  Tulsa: '7'
+  Fort Worth: '13'
+  San Antonio: '13'
+  Beaumont: '6'
+  Galveston: '9'
+  Dallas: '13'
+- year: '1937'
+  nameLeague: Texas League
+  nameClub: Dallas
+  Oklahoma City: '3'
+  Tulsa: '7'
+  Fort Worth: '5'
+  San Antonio: '8'
+  Beaumont: '12'
+  Galveston: '10'
+  Houston: '10'

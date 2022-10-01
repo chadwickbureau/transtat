@@ -1,0 +1,106 @@
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: regular
+  W: '94'
+  L: '55'
+  T: '1'
+  PCT: '.631'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  phase: regular
+  W: '92'
+  L: '58'
+  T: '0'
+  PCT: '.613'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: regular
+  W: '74'
+  L: '76'
+  T: '0'
+  PCT: '.493'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: regular
+  W: '67'
+  L: '83'
+  T: '0'
+  PCT: '.447'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Bisbee-Douglas
+  phase: regular
+  W: '66'
+  L: '83'
+  T: '1'
+  PCT: '.443'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Globe-Miami
+  phase: regular
+  W: '56'
+  L: '94'
+  T: '0'
+  PCT: '.373'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Tucson
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Juarez
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: El Paso
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Arizona-Texas League
+  nameClub: Phoenix
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

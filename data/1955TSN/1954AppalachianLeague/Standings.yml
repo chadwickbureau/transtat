@@ -1,0 +1,100 @@
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: regular
+  W: '70'
+  L: '43'
+  T: '0'
+  PCT: '.619'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: regular
+  W: '67'
+  L: '46'
+  T: '2'
+  PCT: '.593'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular
+  W: '65'
+  L: '51'
+  T: '1'
+  PCT: '.560'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: regular
+  W: '59'
+  L: '54'
+  T: '2'
+  PCT: '.522'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular
+  W: '49'
+  L: '70'
+  T: '1'
+  PCT: '.412'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Wytheville
+  phase: regular
+  W: '36'
+  L: '82'
+  T: '0'
+  PCT: '.305'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

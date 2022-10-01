@@ -1,0 +1,80 @@
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Harlan
+  G: '124'
+  DP: '121'
+  PB: '26'
+  PO: '3256'
+  A: '1318'
+  E: '219'
+  PCT: '.954'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Morristown
+  G: '124'
+  DP: '107'
+  PB: '27'
+  PO: '3278'
+  A: '1340'
+  E: '255'
+  PCT: '.948'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Middlesboro
+  G: '125'
+  DP: '94'
+  PB: '9'
+  PO: '3253'
+  A: '1402'
+  E: '262'
+  PCT: '.947'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Newport
+  G: '125'
+  DP: '116'
+  PB: '15'
+  PO: '3035'
+  A: '1383'
+  E: '256'
+  PCT: '.945'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Jenkins
+  G: '124'
+  DP: '101'
+  PB: '19'
+  PO: '3178'
+  A: '1222'
+  E: '279'
+  PCT: '.940'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Pennington Gap
+  G: '125'
+  DP: '124'
+  PB: '19'
+  PO: '3220'
+  A: '1372'
+  E: '296'
+  PCT: '.939'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Hazard
+  G: '124'
+  DP: '104'
+  PB: '32'
+  PO: '3061'
+  A: '1244'
+  E: '286'
+  PCT: '.938'
+- year: '1949'
+  nameLeague: Mountain States League
+  nameClub: Big Stone Gap
+  G: '125'
+  DP: '105'
+  PB: '30'
+  PO: '3149'
+  A: '1314'
+  E: '335'
+  PCT: '.930'

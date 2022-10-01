@@ -1,0 +1,108 @@
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Belleville
+  phase: regular/first
+  W: '36'
+  L: '18'
+  T: '0'
+  PCT: '.667'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Centralia
+  phase: regular/first
+  W: '30'
+  L: '23'
+  T: '0'
+  PCT: '.566'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: West Frankfort
+  phase: regular/first
+  W: '28'
+  L: '25'
+  T: '0'
+  PCT: '.528'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Marion
+  phase: regular/first
+  W: '22'
+  L: '30'
+  T: '0'
+  PCT: '.423'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Mattoon
+  phase: regular/first
+  W: '20'
+  L: '28'
+  T: '0'
+  PCT: '.417'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Mount Vernon
+  phase: regular/first
+  W: '20'
+  L: '32'
+  T: '0'
+  PCT: '.385'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Belleville
+  phase: regular/second
+  W: '39'
+  L: '19'
+  T: '1'
+  PCT: '.672'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Marion
+  phase: regular/second
+  W: '33'
+  L: '26'
+  T: '0'
+  PCT: '.559'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Centralia
+  phase: regular/second
+  W: '30'
+  L: '29'
+  T: '1'
+  PCT: '.508'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Mount Vernon
+  phase: regular/second
+  W: '29'
+  L: '31'
+  T: '0'
+  PCT: '.483'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: West Frankfort
+  phase: regular/second
+  W: '24'
+  L: '35'
+  T: '0'
+  PCT: '.407'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Illinois State League
+  nameClub: Mattoon
+  phase: regular/second
+  W: '21'
+  L: '36'
+  T: '0'
+  PCT: '.368'
+  RANK: '6'

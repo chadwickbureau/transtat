@@ -1,0 +1,174 @@
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular/first
+  W: '43'
+  L: '25'
+  T: '1'
+  PCT: '.632'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular/first
+  W: '40'
+  L: '27'
+  T: '0'
+  PCT: '.597'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular/first
+  W: '36'
+  L: '31'
+  T: '0'
+  PCT: '.537'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  phase: regular/first
+  W: '33'
+  L: '33'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular/first
+  W: '28'
+  L: '39'
+  T: '1'
+  PCT: '.418'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Wilson
+  phase: regular/first
+  W: '21'
+  L: '46'
+  T: '0'
+  PCT: '.313'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  phase: regular/second
+  W: '46'
+  L: '28'
+  T: '0'
+  PCT: '.622'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular/second
+  W: '40'
+  L: '33'
+  T: '0'
+  PCT: '.548'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular/second
+  W: '36'
+  L: '36'
+  T: '0'
+  PCT: '.500'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular/second
+  W: '35'
+  L: '38'
+  T: '0'
+  PCT: '.479'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular/second
+  W: '32'
+  L: '41'
+  T: '0'
+  PCT: '.438'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Wilson
+  phase: regular/second
+  W: '30'
+  L: '43'
+  T: '0'
+  PCT: '.411'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '1'
+  PCT: '.564'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular
+  W: '76'
+  L: '64'
+  T: '0'
+  PCT: '.543'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular
+  W: '72'
+  L: '68'
+  T: '0'
+  PCT: '.514'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular
+  W: '63'
+  L: '77'
+  T: '1'
+  PCT: '.450'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Wilson
+  phase: regular
+  W: '51'
+  L: '89'
+  T: '0'
+  PCT: '.364'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: finals
+  W: '4'
+  L: '3'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  phase: finals
+  W: '3'
+  L: '4'

@@ -1,0 +1,110 @@
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: regular
+  W: '97'
+  L: '40'
+  PCT: '.708'
+  RANK: '1'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: regular
+  W: '92'
+  L: '46'
+  PCT: '.667'
+  RANK: '2'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: regular
+  W: '93'
+  L: '47'
+  PCT: '.664'
+  RANK: '3'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: regular
+  W: '71'
+  L: '70'
+  PCT: '.504'
+  RANK: '4'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  phase: regular
+  W: '66'
+  L: '72'
+  PCT: '.478'
+  RANK: '5'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: regular
+  W: '55'
+  L: '85'
+  PCT: '.393'
+  RANK: '6'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: regular
+  W: '47'
+  L: '93'
+  PCT: '.336'
+  RANK: '7'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lamesa
+  phase: regular
+  W: '36'
+  L: '104'
+  PCT: '.257'
+  RANK: '8'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

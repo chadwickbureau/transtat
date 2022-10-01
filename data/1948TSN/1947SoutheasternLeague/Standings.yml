@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: regular
+  W: '77'
+  L: '62'
+  T: '1'
+  PCT: '.554'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Gadsden
+  phase: regular
+  W: '75'
+  L: '65'
+  T: '0'
+  PCT: '.536'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  phase: regular
+  W: '74'
+  L: '65'
+  T: '0'
+  PCT: '.532'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: regular
+  W: '75'
+  L: '68'
+  T: '1'
+  PCT: '.524'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Vicksburg
+  phase: regular
+  W: '74'
+  L: '69'
+  T: '0'
+  PCT: '.517'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Meridian
+  phase: regular
+  W: '67'
+  L: '73'
+  T: '0'
+  PCT: '.479'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  phase: regular
+  W: '64'
+  L: '76'
+  T: '0'
+  PCT: '.457'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Anniston
+  phase: regular
+  W: '56'
+  L: '84'
+  T: '0'
+  PCT: '.400'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Gadsden
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Southeastern League
+  nameClub: Gadsden
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

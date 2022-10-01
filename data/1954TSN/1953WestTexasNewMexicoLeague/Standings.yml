@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: regular
+  W: '87'
+  L: '55'
+  T: '0'
+  PCT: '.613'
+  RANK: '1'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: regular
+  W: '79'
+  L: '61'
+  T: '0'
+  PCT: '.564'
+  RANK: '2'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Plainview
+  phase: regular
+  W: '80'
+  L: '62'
+  T: '0'
+  PCT: '.563'
+  RANK: '3'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: regular
+  W: '80'
+  L: '62'
+  T: '0'
+  PCT: '.563'
+  RANK: '3'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  phase: regular
+  W: '77'
+  L: '65'
+  T: '0'
+  PCT: '.542'
+  RANK: '5'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  phase: regular
+  W: '71'
+  L: '71'
+  T: '0'
+  PCT: '.500'
+  RANK: '6'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Borger
+  phase: regular
+  W: '49'
+  L: '93'
+  T: '0'
+  PCT: '.345'
+  RANK: '7'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  phase: regular
+  W: '43'
+  L: '97'
+  T: '0'
+  PCT: '.307'
+  RANK: '8'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Plainview
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

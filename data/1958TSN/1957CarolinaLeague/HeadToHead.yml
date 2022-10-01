@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Durham
+  High Point-Thomasville: '12'
+  Greensboro: '18'
+  Winston-Salem: '13'
+  Danville: '17'
+  Wilson: '19'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: High Point-Thomasville
+  Durham: '16'
+  Greensboro: '14'
+  Winston-Salem: '14'
+  Danville: '17'
+  Wilson: '18'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  Durham: '10'
+  High Point-Thomasville: '14'
+  Winston-Salem: '16'
+  Danville: '18'
+  Wilson: '18'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  Durham: '15'
+  High Point-Thomasville: '14'
+  Greensboro: '12'
+  Danville: '14'
+  Wilson: '17'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Danville
+  Durham: '11'
+  High Point-Thomasville: '11'
+  Greensboro: '10'
+  Winston-Salem: '14'
+  Wilson: '17'
+- year: '1957'
+  nameLeague: Carolina League
+  nameClub: Wilson
+  Durham: '9'
+  High Point-Thomasville: '10'
+  Greensboro: '10'
+  Winston-Salem: '11'
+  Danville: '11'

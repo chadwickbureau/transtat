@@ -1,0 +1,88 @@
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Havana
+  G: '154'
+  PO: '4202'
+  A: '1564'
+  E: '181'
+  DP: '123'
+  PB: '6'
+  PCT: '.970'
+  TP: '0'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Lakeland
+  G: '154'
+  PO: '4046'
+  A: '1798'
+  E: '197'
+  DP: '129'
+  PB: '8'
+  PCT: '.967'
+  TP: '0'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Tampa
+  G: '152'
+  PO: '4029'
+  A: '1782'
+  E: '200'
+  DP: '151'
+  PB: '10'
+  PCT: '.967'
+  TP: '0'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: St. Petersburg
+  G: '152'
+  PO: '4028'
+  A: '1924'
+  E: '242'
+  DP: '148'
+  PB: '26'
+  PCT: '.961'
+  TP: '0'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Fort Lauderdale
+  G: '154'
+  PO: '4162'
+  A: '2006'
+  E: '260'
+  DP: '126'
+  PB: '13'
+  PCT: '.960'
+  TP: '0'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Miami
+  G: '155'
+  PO: '4181'
+  A: '1871'
+  E: '271'
+  DP: '159'
+  PB: '10'
+  PCT: '.957'
+  TP: '1'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: Miami Beach
+  G: '152'
+  PO: '3964'
+  A: '1767'
+  E: '259'
+  DP: '128'
+  PB: '11'
+  PCT: '.957'
+  TP: '2'
+- year: '1948'
+  nameLeague: Florida International League
+  nameClub: West Palm Beach
+  G: '155'
+  PO: '4045'
+  A: '2025'
+  E: '290'
+  DP: '182'
+  PB: '18'
+  PCT: '.954'
+  TP: '0'

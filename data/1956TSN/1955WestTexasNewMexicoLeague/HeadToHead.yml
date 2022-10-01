@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Amarillo
+  Albuquerque: '11'
+  Pampa: '10'
+  Plainview: '12'
+  Abilene: '13'
+  Clovis: '8'
+  Lubbock: '12'
+  El Paso: '14'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Albuquerque
+  Amarillo: '9'
+  Pampa: '10'
+  Plainview: '7'
+  Abilene: '10'
+  Clovis: '14'
+  Lubbock: '13'
+  El Paso: '16'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Pampa
+  Amarillo: '10'
+  Albuquerque: '9'
+  Plainview: '11'
+  Abilene: '13'
+  Clovis: '12'
+  Lubbock: '9'
+  El Paso: '11'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Plainview
+  Amarillo: '8'
+  Albuquerque: '13'
+  Pampa: '9'
+  Abilene: '8'
+  Clovis: '12'
+  Lubbock: '15'
+  El Paso: '8'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Abilene
+  Amarillo: '7'
+  Albuquerque: '10'
+  Pampa: '7'
+  Plainview: '12'
+  Clovis: '9'
+  Lubbock: '13'
+  El Paso: '11'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Clovis
+  Amarillo: '12'
+  Albuquerque: '6'
+  Pampa: '8'
+  Plainview: '8'
+  Abilene: '11'
+  Lubbock: '11'
+  El Paso: '12'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: Lubbock
+  Amarillo: '8'
+  Albuquerque: '7'
+  Pampa: '11'
+  Plainview: '5'
+  Abilene: '7'
+  Clovis: '9'
+  El Paso: '12'
+- year: '1955'
+  nameLeague: West Texas-New Mexico League
+  nameClub: El Paso
+  Amarillo: '6'
+  Albuquerque: '4'
+  Pampa: '9'
+  Plainview: '12'
+  Abilene: '9'
+  Clovis: '8'
+  Lubbock: '8'

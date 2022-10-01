@@ -1,0 +1,100 @@
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: regular
+  W: '80'
+  L: '58'
+  T: '2'
+  PCT: '.580'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: regular
+  W: '72'
+  L: '67'
+  T: '0'
+  PCT: '.518'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: regular
+  W: '71'
+  L: '69'
+  T: '0'
+  PCT: '.507'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: regular
+  W: '65'
+  L: '73'
+  T: '1'
+  PCT: '.471'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  phase: regular
+  W: '65'
+  L: '75'
+  T: '0'
+  PCT: '.464'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  phase: regular
+  W: '64'
+  L: '75'
+  T: '1'
+  PCT: '.460'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

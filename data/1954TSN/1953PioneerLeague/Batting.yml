@@ -1,0 +1,4458 @@
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sardinas
+  nameFirst: Oscar
+  nameClub1: Great Falls
+  bats: L
+  G: '126'
+  AB: '466'
+  R: '105'
+  H: '194'
+  TB: '287'
+  H2B: '43'
+  H3B: '16'
+  HR: '6'
+  SH: '2'
+  SB: '7'
+  BB: '116'
+  HP: '6'
+  RBI: '104'
+  SO: '38'
+  AVG: '.416'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Martin
+  nameFirst: Jack
+  nameClub1: Magic Valley
+  G: '17'
+  AB: '11'
+  R: '5'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.364'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Robinson
+  nameFirst: Frank
+  nameClub1: Ogden
+  G: '72'
+  AB: '270'
+  R: '70'
+  H: '94'
+  TB: '177'
+  H2B: '20'
+  H3B: '6'
+  HR: '17'
+  SH: '1'
+  SB: '3'
+  BB: '53'
+  HP: '10'
+  RBI: '83'
+  SO: '69'
+  AVG: '.348'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Almenares
+  nameFirst: Pedro
+  nameClub1: Great Falls
+  G: '112'
+  AB: '458'
+  R: '66'
+  H: '157'
+  TB: '243'
+  H2B: '28'
+  H3B: '11'
+  HR: '12'
+  SH: '2'
+  SB: '10'
+  BB: '20'
+  HP: '2'
+  RBI: '114'
+  SO: '33'
+  AVG: '.343'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Curran
+  nameFirst: John J.
+  nameClub1: Great Falls
+  G: '24'
+  AB: '41'
+  R: '4'
+  H: '14'
+  TB: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '10'
+  SO: '7'
+  AVG: '.341'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Collins
+  nameFirst: Larry H.
+  nameClub1: Ogden
+  G: '83'
+  AB: '315'
+  R: '39'
+  H: '106'
+  TB: '130'
+  H2B: '11'
+  H3B: '5'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '14'
+  HP: '3'
+  RBI: '65'
+  SO: '24'
+  AVG: '.337'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Terry
+  nameFirst: Lazaro
+  nameClub1: Ogden
+  G: '127'
+  AB: '513'
+  R: '100'
+  H: '168'
+  TB: '210'
+  H2B: '25'
+  H3B: '7'
+  HR: '1'
+  SH: '5'
+  SB: '3'
+  BB: '55'
+  HP: '9'
+  RBI: '52'
+  SO: '37'
+  AVG: '.327'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sobeck
+  nameFirst: Richard D.
+  nameClub1: Pocatello
+  bats: L
+  G: '115'
+  AB: '417'
+  R: '97'
+  H: '136'
+  TB: '226'
+  H2B: '23'
+  H3B: '8'
+  HR: '17'
+  SH: '0'
+  SB: '6'
+  BB: '90'
+  HP: '2'
+  RBI: '93'
+  SO: '88'
+  AVG: '.326'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Miller
+  nameFirst: Stanley A.
+  nameClub1: Billings
+  G: '113'
+  AB: '383'
+  R: '76'
+  H: '125'
+  TB: '196'
+  H2B: '28'
+  H3B: '11'
+  HR: '7'
+  SH: '3'
+  SB: '8'
+  BB: '100'
+  HP: '4'
+  RBI: '96'
+  SO: '35'
+  AVG: '.326'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Young
+  nameFirst: Donald J.
+  nameClub1: Boise
+  G: '20'
+  AB: '22'
+  R: '4'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '9'
+  AVG: '.318'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Moskus
+  nameFirst: John P.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '131'
+  AB: '504'
+  R: '101'
+  H: '160'
+  TB: '285'
+  H2B: '23'
+  H3B: '9'
+  HR: '28'
+  SH: '2'
+  SB: '1'
+  BB: '76'
+  HP: '7'
+  RBI: '117'
+  SO: '63'
+  AVG: '.317'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Johnson
+  nameFirst: Ronald D.
+  nameClub1: Magic Valley
+  bats: L
+  G: '87'
+  AB: '266'
+  R: '43'
+  H: '84'
+  TB: '152'
+  H2B: '20'
+  H3B: '0'
+  HR: '16'
+  SH: '0'
+  SB: '0'
+  BB: '59'
+  HP: '2'
+  RBI: '68'
+  SO: '47'
+  AVG: '.316'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Paylor
+  nameFirst: Carl G.
+  nameClub1: Ogden
+  G: '118'
+  AB: '444'
+  R: '79'
+  H: '140'
+  TB: '180'
+  H2B: '25'
+  H3B: '3'
+  HR: '3'
+  SH: '2'
+  SB: '1'
+  BB: '56'
+  HP: '4'
+  RBI: '76'
+  SO: '48'
+  AVG: '.315'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Estrada
+  nameFirst: Peter
+  nameClub1: Idaho Falls
+  G: '116'
+  AB: '477'
+  R: '85'
+  H: '150'
+  TB: '205'
+  H2B: '28'
+  H3B: '6'
+  HR: '5'
+  SH: '7'
+  SB: '5'
+  BB: '44'
+  HP: '4'
+  RBI: '81'
+  SO: '47'
+  AVG: '.314'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Borich
+  nameFirst: Joseph M.
+  nameClub1: Idaho Falls
+  G: '126'
+  AB: '466'
+  R: '87'
+  H: '146'
+  TB: '196'
+  H2B: '29'
+  H3B: '3'
+  HR: '5'
+  SH: '1'
+  SB: '4'
+  BB: '98'
+  HP: '2'
+  RBI: '80'
+  SO: '59'
+  AVG: '.313'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Jessen
+  nameFirst: Svend
+  nameClub1: Idaho Falls
+  bats: L
+  G: '119'
+  AB: '418'
+  R: '70'
+  H: '131'
+  TB: '203'
+  H2B: '31'
+  H3B: '4'
+  HR: '11'
+  SH: '3'
+  SB: '1'
+  BB: '117'
+  HP: '6'
+  RBI: '87'
+  SO: '29'
+  AVG: '.313'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Moore
+  nameFirst: Clarence W.
+  nameClub1: Great Falls
+  G: '69'
+  AB: '254'
+  R: '49'
+  H: '79'
+  TB: '105'
+  H2B: '8'
+  H3B: '9'
+  HR: '0'
+  SH: '7'
+  SB: '5'
+  BB: '29'
+  HP: '1'
+  RBI: '29'
+  SO: '25'
+  AVG: '.311'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Roseboro
+  nameFirst: John
+  nameClub1: Great Falls
+  bats: L
+  G: '82'
+  AB: '303'
+  R: '78'
+  H: '94'
+  TB: '144'
+  H2B: '12'
+  H3B: '7'
+  HR: '8'
+  SH: '8'
+  SB: '24'
+  BB: '60'
+  HP: '6'
+  RBI: '63'
+  SO: '40'
+  AVG: '.310'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Valentine
+  nameFirst: James E.
+  nameClub1: Ogden
+  bats: L
+  G: '111'
+  AB: '398'
+  R: '82'
+  H: '123'
+  TB: '177'
+  H2B: '19'
+  H3B: '4'
+  HR: '9'
+  SH: '2'
+  SB: '2'
+  BB: '98'
+  HP: '7'
+  RBI: '95'
+  SO: '47'
+  AVG: '.309'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hack
+  nameFirst: John P.
+  nameClub1: Idaho Falls
+  G: '129'
+  AB: '507'
+  R: '107'
+  H: '156'
+  TB: '200'
+  H2B: '23'
+  H3B: '0'
+  HR: '7'
+  SH: '2'
+  SB: '7'
+  BB: '97'
+  HP: '1'
+  RBI: '82'
+  SO: '34'
+  AVG: '.308'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Potts
+  nameFirst: Joseph W.
+  nameClub1: Great Falls
+  G: '109'
+  AB: '392'
+  R: '65'
+  H: '120'
+  TB: '161'
+  H2B: '22'
+  H3B: '2'
+  HR: '5'
+  SH: '6'
+  SB: '3'
+  BB: '74'
+  HP: '2'
+  RBI: '53'
+  SO: '56'
+  AVG: '.306'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Moran
+  nameFirst: Cyril
+  nameClub1: Pocatello
+  G: '57'
+  AB: '121'
+  R: '14'
+  H: '37'
+  TB: '60'
+  H2B: '3'
+  H3B: '1'
+  HR: '6'
+  SH: '0'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  RBI: '26'
+  SO: '18'
+  AVG: '.306'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kudell
+  nameFirst: James L.
+  nameClub1: Billings
+  G: '12'
+  AB: '50'
+  R: '7'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '12'
+  SO: '10'
+  AVG: '.300'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kime
+  nameFirst: O. Dean
+  nameClub1: Pocatello
+  G: '15'
+  AB: '20'
+  R: '3'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  RBI: '3'
+  SO: '2'
+  AVG: '.300'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Watson
+  nameFirst: Thomas A.
+  nameClub1: Billings
+  bats: L
+  G: '123'
+  AB: '508'
+  R: '93'
+  H: '152'
+  TB: '191'
+  H2B: '22'
+  H3B: '7'
+  HR: '1'
+  SH: '6'
+  SB: '29'
+  BB: '62'
+  HP: '5'
+  RBI: '61'
+  SO: '29'
+  AVG: '.299'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Gott
+  nameFirst: Thomas L.
+  nameClub1: Boise
+  bats: L
+  G: '86'
+  AB: '338'
+  R: '59'
+  H: '101'
+  TB: '145'
+  H2B: '25'
+  H3B: '2'
+  HR: '5'
+  SH: '5'
+  SB: '12'
+  BB: '37'
+  HP: '0'
+  RBI: '69'
+  SO: '22'
+  AVG: '.299'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Carmichael
+  nameFirst: W. Bryce
+  nameClub1: Pocatello
+  G: '127'
+  AB: '476'
+  R: '81'
+  H: '142'
+  TB: '215'
+  H2B: '30'
+  H3B: '5'
+  HR: '11'
+  SH: '2'
+  SB: '10'
+  BB: '76'
+  HP: '7'
+  RBI: '68'
+  SO: '52'
+  AVG: '.298'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Cameron
+  nameFirst: Donald J.
+  nameClub1: Pocatello
+  bats: L
+  G: '130'
+  AB: '477'
+  R: '65'
+  H: '142'
+  TB: '209'
+  H2B: '26'
+  H3B: '4'
+  HR: '11'
+  SH: '2'
+  SB: '6'
+  BB: '56'
+  HP: '4'
+  RBI: '75'
+  SO: '87'
+  AVG: '.298'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Patterson
+  nameFirst: Olney M.
+  nameClub1: Ogden
+  G: '125'
+  AB: '439'
+  R: '113'
+  H: '131'
+  TB: '197'
+  H2B: '17'
+  H3B: '5'
+  HR: '13'
+  SH: '5'
+  SB: '10'
+  BB: '138'
+  HP: '11'
+  RBI: '69'
+  SO: '146'
+  AVG: '.298'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Bernard
+  nameFirst: Pablo
+  nameClub1: Billings
+  G: '129'
+  AB: '503'
+  R: '94'
+  H: '148'
+  TB: '206'
+  H2B: '17'
+  H3B: '13'
+  HR: '5'
+  SH: '12'
+  SB: '27'
+  BB: '81'
+  HP: '1'
+  RBI: '79'
+  SO: '44'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Cole
+  nameFirst: Charles E.
+  nameClub1: Magic Valley
+  bats: L
+  G: '83'
+  AB: '327'
+  R: '52'
+  H: '96'
+  TB: '137'
+  H2B: '18'
+  H3B: '1'
+  HR: '7'
+  SH: '1'
+  SB: '12'
+  BB: '51'
+  HP: '1'
+  RBI: '40'
+  SO: '44'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Delfino
+  nameFirst: George M.
+  nameClub1: Boise
+  G: '68'
+  AB: '238'
+  R: '42'
+  H: '70'
+  TB: '101'
+  H2B: '15'
+  H3B: '2'
+  HR: '4'
+  SH: '6'
+  SB: '2'
+  BB: '46'
+  HP: '2'
+  RBI: '47'
+  SO: '38'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Dapper
+  nameFirst: Clifford R.
+  nameClub1: Billings
+  G: '81'
+  AB: '231'
+  R: '34'
+  H: '68'
+  TB: '103'
+  H2B: '12'
+  H3B: '4'
+  HR: '5'
+  SH: '2'
+  SB: '1'
+  BB: '67'
+  HP: '4'
+  RBI: '44'
+  SO: '25'
+  AVG: '.294'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Roberson
+  nameFirst: Tommie S.
+  nameClub1: Pocatello
+  G: '111'
+  AB: '367'
+  R: '59'
+  H: '107'
+  TB: '180'
+  H2B: '27'
+  H3B: '5'
+  HR: '12'
+  SH: '3'
+  SB: '3'
+  BB: '45'
+  HP: '5'
+  RBI: '63'
+  SO: '65'
+  AVG: '.292'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Silverthorn
+  nameFirst: Earl E.
+  nameClub1: Great Falls
+  G: '22'
+  AB: '86'
+  R: '13'
+  H: '25'
+  TB: '42'
+  H2B: '6'
+  H3B: '1'
+  HR: '3'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '21'
+  SO: '7'
+  AVG: '.291'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hasten
+  nameFirst: Jack R.
+  nameClub1: Salt Lake City
+  G: '120'
+  AB: '427'
+  R: '73'
+  H: '124'
+  TB: '174'
+  H2B: '30'
+  H3B: '7'
+  HR: '2'
+  SH: '7'
+  SB: '5'
+  BB: '81'
+  HP: '0'
+  RBI: '74'
+  SO: '45'
+  AVG: '.290'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Rommel
+  nameFirst: Edward L.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '22'
+  AB: '90'
+  R: '17'
+  H: '26'
+  TB: '32'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '20'
+  HP: '0'
+  RBI: '14'
+  SO: '7'
+  AVG: '.289'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Tate
+  nameFirst: Lee W.
+  nameClub1: Salt Lake City
+  G: '129'
+  AB: '485'
+  R: '100'
+  H: '139'
+  TB: '174'
+  H2B: '18'
+  H3B: '7'
+  HR: '1'
+  SH: '13'
+  SB: '13'
+  BB: '87'
+  HP: '12'
+  RBI: '32'
+  SO: '46'
+  AVG: '.287'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Witwicki
+  nameFirst: Michael
+  nameClub1: Great Falls
+  G: '124'
+  AB: '484'
+  R: '132'
+  H: '139'
+  TB: '203'
+  H2B: '13'
+  H3B: '12'
+  HR: '9'
+  SH: '4'
+  SB: '44'
+  BB: '85'
+  HP: '6'
+  RBI: '53'
+  SO: '64'
+  AVG: '.287'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Vital
+  nameFirst: Duri H.
+  nameClub1: Magic Valley
+  G: '42'
+  AB: '164'
+  R: '32'
+  H: '47'
+  TB: '83'
+  H2B: '13'
+  H3B: '1'
+  HR: '7'
+  SH: '0'
+  SB: '4'
+  BB: '36'
+  HP: '1'
+  RBI: '26'
+  SO: '23'
+  AVG: '.287'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Nault
+  nameFirst: Lawrence E.
+  nameClub1: Ogden
+  bats: L
+  G: '130'
+  AB: '536'
+  R: '121'
+  H: '153'
+  TB: '217'
+  H2B: '26'
+  H3B: '7'
+  HR: '8'
+  SH: '8'
+  SB: '5'
+  BB: '101'
+  HP: '4'
+  RBI: '74'
+  SO: '79'
+  AVG: '.285'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Cannon
+  nameFirst: Robert E.
+  nameClub1: Ogden
+  bats: L
+  G: '77'
+  AB: '268'
+  R: '41'
+  H: '76'
+  TB: '107'
+  H2B: '9'
+  H3B: '5'
+  HR: '4'
+  SH: '2'
+  SB: '0'
+  BB: '35'
+  HP: '1'
+  RBI: '57'
+  SO: '43'
+  AVG: '.284'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Maldonado
+  nameFirst: Ramon
+  nameClub1: Boise
+  bats: L
+  G: '125'
+  AB: '458'
+  R: '96'
+  H: '129'
+  TB: '195'
+  H2B: '31'
+  H3B: '1'
+  HR: '11'
+  SH: '7'
+  SB: '5'
+  BB: '107'
+  HP: '1'
+  RBI: '72'
+  SO: '46'
+  AVG: '.282'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Stankey
+  nameFirst: Lawrence J.
+  nameClub1: Great Falls
+  bats: L
+  G: '124'
+  AB: '440'
+  R: '90'
+  H: '124'
+  TB: '223'
+  H2B: '23'
+  H3B: '14'
+  HR: '16'
+  SH: '4'
+  SB: '6'
+  BB: '110'
+  HP: '3'
+  RBI: '95'
+  SO: '94'
+  AVG: '.282'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Curry
+  nameFirst: Harry A.
+  nameClub1: Great Falls
+  bats: S
+  G: '29'
+  AB: '32'
+  R: '14'
+  H: '9'
+  TB: '12'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '3'
+  BB: '10'
+  HP: '1'
+  RBI: '7'
+  SO: '11'
+  AVG: '.281'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Schmidt
+  nameFirst: Curtis W.
+  nameClub1: Idaho Falls
+  G: '24'
+  AB: '68'
+  R: '12'
+  H: '19'
+  TB: '26'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '14'
+  SO: '8'
+  AVG: '.279'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Eskenberry
+  nameFirst: James
+  nameClub1: Magic Valley
+  bats: L
+  G: '12'
+  AB: '18'
+  R: '5'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '2'
+  SO: '7'
+  AVG: '.278'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Corcoran
+  nameFirst: Lester J.
+  nameClub1: Idaho Falls
+  G: '129'
+  AB: '507'
+  R: '69'
+  H: '140'
+  TB: '163'
+  H2B: '15'
+  H3B: '4'
+  HR: '0'
+  SH: '8'
+  SB: '8'
+  BB: '69'
+  HP: '1'
+  RBI: '69'
+  SO: '51'
+  AVG: '.276'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Carlson
+  nameFirst: L. Eugene
+  nameClub1: Boise
+  G: '43'
+  AB: '98'
+  R: '17'
+  H: '27'
+  TB: '41'
+  H2B: '9'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '11'
+  HP: '1'
+  RBI: '14'
+  SO: '30'
+  AVG: '.276'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Murphy
+  nameFirst: Robert E.
+  nameClub1: Billings
+  G: '128'
+  AB: '517'
+  R: '67'
+  H: '142'
+  TB: '188'
+  H2B: '27'
+  H3B: '2'
+  HR: '5'
+  SH: '9'
+  SB: '26'
+  BB: '29'
+  HP: '1'
+  RBI: '85'
+  SO: '41'
+  AVG: '.275'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Lierman
+  nameFirst: Glenn M.
+  nameClub1: Idaho Falls
+  G: '14'
+  AB: '22'
+  R: '3'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '3'
+  SO: '7'
+  AVG: '.273'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Brkich
+  nameFirst: John
+  nameClub1: Boise
+  G: '10'
+  AB: '11'
+  R: '4'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '0'
+  AVG: '.273'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Ashman
+  nameFirst: Chester R.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '76'
+  AB: '294'
+  R: '31'
+  H: '80'
+  TB: '106'
+  H2B: '14'
+  H3B: '3'
+  HR: '2'
+  SH: '1'
+  SB: '1'
+  BB: '15'
+  HP: '0'
+  RBI: '47'
+  SO: '22'
+  AVG: '.272'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Khoury
+  nameFirst: Raymond P.
+  nameClub1: Salt Lake City
+  G: '87'
+  AB: '290'
+  R: '49'
+  H: '79'
+  TB: '99'
+  H2B: '12'
+  H3B: '1'
+  HR: '2'
+  SH: '10'
+  SB: '2'
+  BB: '54'
+  HP: '2'
+  RBI: '44'
+  SO: '16'
+  AVG: '.272'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Byrne
+  nameFirst: Robert L.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '54'
+  AB: '184'
+  R: '33'
+  H: '50'
+  TB: '77'
+  H2B: '10'
+  H3B: '4'
+  HR: '3'
+  SH: '3'
+  SB: '7'
+  BB: '30'
+  HP: '2'
+  RBI: '36'
+  SO: '37'
+  AVG: '.272'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Dean
+  nameFirst: Ellsworth M.
+  nameClub1: Salt Lake City
+  G: '121'
+  AB: '444'
+  R: '51'
+  H: '120'
+  TB: '150'
+  H2B: '17'
+  H3B: '5'
+  HR: '1'
+  SH: '10'
+  SB: '4'
+  BB: '49'
+  HP: '2'
+  RBI: '65'
+  SO: '43'
+  AVG: '.270'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sheehan
+  nameFirst: Edward P.
+  nameClub1: Boise
+  G: '66'
+  AB: '185'
+  R: '29'
+  H: '50'
+  TB: '68'
+  H2B: '13'
+  H3B: '1'
+  HR: '1'
+  SH: '4'
+  SB: '4'
+  BB: '37'
+  HP: '1'
+  RBI: '27'
+  SO: '31'
+  AVG: '.270'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Barbisan
+  nameFirst: Reno
+  nameClub1: Idaho Falls
+  G: '40'
+  AB: '89'
+  R: '6'
+  H: '24'
+  TB: '26'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '15'
+  SO: '15'
+  AVG: '.270'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hunt
+  nameFirst: Kenneth L.
+  nameClub1: Boise
+  G: '130'
+  AB: '484'
+  R: '89'
+  H: '130'
+  TB: '221'
+  H2B: '25'
+  H3B: '9'
+  HR: '16'
+  SH: '1'
+  SB: '9'
+  BB: '92'
+  HP: '2'
+  RBI: '85'
+  SO: '122'
+  AVG: '.269'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Barragan
+  nameFirst: Facundo A.
+  nameClub1: Idaho Falls
+  G: '67'
+  AB: '182'
+  R: '23'
+  H: '49'
+  TB: '59'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '3'
+  BB: '41'
+  HP: '1'
+  RBI: '27'
+  SO: '21'
+  AVG: '.269'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Scott
+  nameFirst: James T.
+  nameClub1: Magic Valley
+  G: '123'
+  AB: '474'
+  R: '72'
+  H: '127'
+  TB: '221'
+  H2B: '25'
+  H3B: '3'
+  HR: '21'
+  SH: '1'
+  SB: '3'
+  BB: '71'
+  HP: '1'
+  RBI: '92'
+  SO: '132'
+  AVG: '.268'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sierra
+  nameFirst: Ernesto
+  nameClub1: Idaho Falls
+  G: '101'
+  AB: '367'
+  R: '66'
+  H: '98'
+  TB: '120'
+  H2B: '6'
+  H3B: '8'
+  HR: '0'
+  SH: '16'
+  SB: '4'
+  BB: '102'
+  HP: '1'
+  RBI: '33'
+  SO: '60'
+  AVG: '.267'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Bowman
+  nameFirst: Eugene H.
+  nameClub1: Magic Valley
+  G: '11'
+  AB: '15'
+  R: '2'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '1'
+  RBI: '1'
+  SO: '5'
+  AVG: '.267'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Rettagliata
+  nameFirst: Edward J.
+  nameClub1: Pocatello
+  G: '51'
+  AB: '124'
+  R: '24'
+  H: '33'
+  TB: '36'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '37'
+  HP: '4'
+  RBI: '19'
+  SO: '24'
+  AVG: '.266'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Becker
+  nameFirst: Don C.
+  nameClub1: Billings
+  bats: L
+  G: '47'
+  AB: '132'
+  R: '13'
+  H: '35'
+  TB: '47'
+  H2B: '6'
+  H3B: '0'
+  HR: '2'
+  SH: '1'
+  SB: '1'
+  BB: '20'
+  HP: '2'
+  RBI: '19'
+  SO: '29'
+  AVG: '.265'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Castiglione
+  nameFirst: Eugene W.
+  nameClub1: Great Falls
+  G: '30'
+  AB: '98'
+  R: '19'
+  H: '26'
+  TB: '33'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '7'
+  BB: '18'
+  HP: '1'
+  RBI: '9'
+  SO: '11'
+  AVG: '.265'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Stroehlein
+  nameFirst: Jack L.
+  nameClub1: Ogden
+  G: '10'
+  AB: '34'
+  R: '9'
+  H: '9'
+  TB: '16'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '9'
+  SO: '10'
+  AVG: '.265'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Gonsalves
+  nameFirst: Donald J.
+  nameClub1: Magic Valley
+  G: '72'
+  AB: '242'
+  R: '21'
+  H: '64'
+  TB: '83'
+  H2B: '12'
+  H3B: '2'
+  HR: '1'
+  SH: '3'
+  SB: '2'
+  BB: '30'
+  HP: '0'
+  RBI: '23'
+  SO: '16'
+  AVG: '.264'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Staehle
+  nameFirst: Phillip C.
+  nameClub1: Idaho Falls
+  bats: L
+  G: '122'
+  AB: '463'
+  R: '115'
+  H: '122'
+  TB: '173'
+  H2B: '13'
+  H3B: '13'
+  HR: '4'
+  SH: '6'
+  SB: '20'
+  BB: '110'
+  HP: '5'
+  RBI: '57'
+  SO: '46'
+  AVG: '.263'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Arend
+  nameFirst: James A.
+  nameClub1: Boise
+  G: '100'
+  AB: '392'
+  R: '68'
+  H: '103'
+  TB: '116'
+  H2B: '13'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '9'
+  BB: '69'
+  HP: '11'
+  RBI: '32'
+  SO: '30'
+  AVG: '.263'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Klingman
+  nameFirst: Richard A.
+  nameClub1: Magic Valley
+  G: '36'
+  AB: '137'
+  R: '17'
+  H: '36'
+  TB: '40'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '30'
+  HP: '0'
+  RBI: '11'
+  SO: '32'
+  AVG: '.263'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Ruck
+  nameFirst: Robert R.
+  nameClub1: Boise
+  G: '130'
+  AB: '476'
+  R: '95'
+  H: '124'
+  TB: '220'
+  H2B: '21'
+  H3B: '6'
+  HR: '21'
+  SH: '2'
+  SB: '5'
+  BB: '96'
+  HP: '8'
+  RBI: '104'
+  SO: '85'
+  AVG: '.261'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kling
+  nameFirst: Dwayne A.
+  nameClub1: Boise
+  G: '131'
+  AB: '503'
+  R: '84'
+  H: '131'
+  TB: '175'
+  H2B: '28'
+  H3B: '5'
+  HR: '2'
+  SH: '8'
+  SB: '6'
+  BB: '88'
+  HP: '2'
+  RBI: '77'
+  SO: '94'
+  AVG: '.260'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: O'Reilly
+  nameFirst: James M.
+  nameClub1: Boise
+  bats: L
+  G: '37'
+  AB: '73'
+  R: '12'
+  H: '19'
+  TB: '24'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '12'
+  HP: '1'
+  RBI: '8'
+  SO: '20'
+  AVG: '.260'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hoover
+  nameFirst: Lawrence E.
+  nameClub1: Boise
+  G: '19'
+  AB: '50'
+  R: '10'
+  H: '13'
+  TB: '20'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '7'
+  SO: '7'
+  AVG: '.260'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Colagerakis
+  nameFirst: Gus
+  nameClub1: Billings
+  G: '113'
+  AB: '464'
+  R: '89'
+  H: '120'
+  TB: '137'
+  H2B: '10'
+  H3B: '2'
+  HR: '1'
+  SH: '4'
+  SB: '17'
+  BB: '62'
+  HP: '6'
+  RBI: '36'
+  SO: '39'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Bristol
+  nameFirst: James David
+  nameClub1: Ogden
+  G: '55'
+  AB: '220'
+  R: '32'
+  H: '57'
+  TB: '83'
+  H2B: '10'
+  H3B: '5'
+  HR: '2'
+  SH: '4'
+  SB: '0'
+  BB: '20'
+  HP: '2'
+  RBI: '37'
+  SO: '31'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Irwin
+  nameFirst: Robert S.
+  nameClub1: Ogden
+  G: '77'
+  AB: '267'
+  R: '56'
+  H: '69'
+  TB: '94'
+  H2B: '9'
+  H3B: '5'
+  HR: '2'
+  SH: '5'
+  SB: '4'
+  BB: '68'
+  HP: '2'
+  RBI: '29'
+  SO: '52'
+  AVG: '.258'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Woelfle
+  nameFirst: Fred W.
+  nameClub1: Great Falls
+  G: '23'
+  AB: '66'
+  R: '6'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '6'
+  SO: '7'
+  AVG: '.258'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Costa
+  nameFirst: Leonard J.
+  nameClub1: Boise
+  G: '45'
+  AB: '167'
+  R: '28'
+  H: '43'
+  TB: '58'
+  H2B: '8'
+  H3B: '2'
+  HR: '1'
+  SH: '3'
+  SB: '2'
+  BB: '14'
+  HP: '2'
+  RBI: '29'
+  SO: '21'
+  AVG: '.257'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Summers
+  nameFirst: Carl L.
+  nameClub1: Boise
+  G: '62'
+  AB: '196'
+  R: '25'
+  H: '50'
+  TB: '65'
+  H2B: '11'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '24'
+  HP: '1'
+  RBI: '23'
+  SO: '38'
+  AVG: '.255'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Speier
+  nameFirst: John F.
+  nameClub1: Salt Lake City
+  G: '46'
+  AB: '161'
+  R: '24'
+  H: '41'
+  TB: '50'
+  H2B: '1'
+  H3B: '1'
+  HR: '2'
+  SH: '1'
+  SB: '6'
+  BB: '23'
+  HP: '0'
+  RBI: '9'
+  SO: '13'
+  AVG: '.255'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Becic
+  nameFirst: Thomas R.
+  nameClub1: Magic Valley
+  bats: L
+  G: '53'
+  AB: '187'
+  R: '37'
+  H: '47'
+  TB: '59'
+  H2B: '8'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '46'
+  HP: '3'
+  RBI: '20'
+  SO: '14'
+  AVG: '.251'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Killingsworth
+  nameFirst: Gary L.
+  nameClub1: Magic Valley
+  G: '42'
+  AB: '160'
+  R: '20'
+  H: '40'
+  TB: '48'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '3'
+  BB: '16'
+  HP: '0'
+  RBI: '18'
+  SO: '15'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Stewart
+  nameFirst: Stanley C.
+  nameClub1: Idaho Falls
+  G: '20'
+  AB: '68'
+  R: '10'
+  H: '17'
+  TB: '18'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '20'
+  HP: '1'
+  RBI: '9'
+  SO: '10'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Suarez
+  nameFirst: Armando
+  nameClub1: Great Falls
+  bats: L
+  G: '31'
+  AB: '64'
+  R: '10'
+  H: '16'
+  TB: '17'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  RBI: '10'
+  SO: '10'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Brower
+  nameFirst: Floyd E.
+  nameClub1: Magic Valley
+  G: '27'
+  AB: '64'
+  R: '3'
+  H: '16'
+  TB: '16'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '13'
+  HP: '1'
+  RBI: '6'
+  SO: '10'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Stamatis
+  nameFirst: Harry J.
+  nameClub1: Magic Valley
+  G: '33'
+  AB: '113'
+  R: '15'
+  H: '28'
+  TB: '38'
+  H2B: '7'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '15'
+  HP: '1'
+  RBI: '16'
+  SO: '29'
+  AVG: '.248'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Williams
+  nameFirst: Harry E.
+  nameClub1: Billings
+  G: '31'
+  AB: '93'
+  R: '22'
+  H: '23'
+  TB: '27'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '4'
+  BB: '25'
+  HP: '1'
+  RBI: '8'
+  SO: '18'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hegedorn
+  nameFirst: Gary K.
+  nameClub1: Billings
+  bats: L
+  G: '37'
+  AB: '73'
+  R: '5'
+  H: '18'
+  TB: '19'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '11'
+  HP: '1'
+  RBI: '11'
+  SO: '11'
+  AVG: '.247'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Jackson
+  nameFirst: Daniel T.
+  nameClub1: Boise
+  G: '30'
+  AB: '122'
+  R: '24'
+  H: '30'
+  TB: '40'
+  H2B: '7'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '5'
+  BB: '14'
+  HP: '2'
+  RBI: '23'
+  SO: '6'
+  AVG: '.246'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Barrett
+  nameFirst: James M.
+  nameClub1: Pocatello
+  bats: L
+  G: '34'
+  AB: '139'
+  R: '18'
+  H: '34'
+  TB: '49'
+  H2B: '10'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '2'
+  BB: '18'
+  HP: '0'
+  RBI: '22'
+  SO: '7'
+  AVG: '.245'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Campagna
+  nameFirst: Salvatore J.
+  nameClub1: Billings
+  G: '122'
+  AB: '438'
+  R: '80'
+  H: '107'
+  TB: '157'
+  H2B: '22'
+  H3B: '5'
+  HR: '6'
+  SH: '6'
+  SB: '22'
+  BB: '77'
+  HP: '7'
+  RBI: '60'
+  SO: '64'
+  AVG: '.244'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Steck
+  nameFirst: Keith
+  nameClub1: Boise
+  G: '13'
+  AB: '37'
+  R: '3'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '5'
+  SO: '14'
+  AVG: '.243'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Watson
+  nameFirst: Richard E.
+  nameClub1: Pocatello
+  G: '129'
+  AB: '559'
+  R: '77'
+  H: '135'
+  TB: '154'
+  H2B: '13'
+  H3B: '3'
+  HR: '0'
+  SH: '6'
+  SB: '15'
+  BB: '45'
+  HP: '0'
+  RBI: '44'
+  SO: '39'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Brodie
+  nameFirst: Russell
+  nameClub1: Great Falls
+  G: '69'
+  AB: '231'
+  R: '27'
+  H: '56'
+  TB: '63'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '40'
+  HP: '0'
+  RBI: '47'
+  SO: '26'
+  AVG: '.242'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: DeWitt
+  nameFirst: Clyde E.
+  nameClub1: Salt Lake City
+  G: '45'
+  AB: '96'
+  R: '17'
+  H: '23'
+  TB: '33'
+  H2B: '3'
+  H3B: '2'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '12'
+  SO: '21'
+  AVG: '.240'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Cobos
+  nameFirst: Marcos A.
+  nameClub1: Billings
+  G: '30'
+  AB: '92'
+  R: '15'
+  H: '22'
+  TB: '26'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '20'
+  HP: '0'
+  RBI: '10'
+  SO: '21'
+  AVG: '.239'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Karp
+  nameFirst: Leonard G. R.
+  nameClub1: Magic Valley
+  bats: L
+  G: '73'
+  AB: '244'
+  R: '42'
+  H: '58'
+  TB: '70'
+  H2B: '4'
+  H3B: '1'
+  HR: '2'
+  SH: '3'
+  SB: '4'
+  BB: '84'
+  HP: '1'
+  RBI: '15'
+  SO: '47'
+  AVG: '.238'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sakanich
+  nameFirst: Bernard J.
+  nameClub1: 33@Magic Valley
+  nameClub2: 24@Salt Lake City
+  bats: L
+  G: '57'
+  AB: '118'
+  R: '11'
+  H: '28'
+  TB: '36'
+  H2B: '2'
+  H3B: '0'
+  HR: '2'
+  SH: '2'
+  SB: '1'
+  BB: '29'
+  HP: '1'
+  RBI: '21'
+  SO: '28'
+  AVG: '.237'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Daley
+  nameFirst: C. Elmer
+  nameClub1: Magic Valley
+  G: '87'
+  AB: '298'
+  R: '45'
+  H: '70'
+  TB: '98'
+  H2B: '11'
+  H3B: '1'
+  HR: '5'
+  SH: '2'
+  SB: '0'
+  BB: '53'
+  HP: '1'
+  RBI: '37'
+  SO: '109'
+  AVG: '.235'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Schassler
+  nameFirst: Robert C.
+  nameClub1: Great Falls
+  bats: L
+  G: '29'
+  AB: '51'
+  R: '12'
+  H: '12'
+  TB: '17'
+  H2B: '1'
+  H3B: '2'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '6'
+  SO: '11'
+  AVG: '.235'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Stone
+  nameFirst: Lester J.
+  nameClub1: Pocatello
+  G: '19'
+  AB: '43'
+  R: '9'
+  H: '10'
+  TB: '17'
+  H2B: '1'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '10'
+  SO: '11'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Elkins
+  nameFirst: Bobby U.
+  nameClub1: Great Falls
+  bats: L
+  G: '18'
+  AB: '43'
+  R: '14'
+  H: '10'
+  TB: '17'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '5'
+  BB: '18'
+  HP: '0'
+  RBI: '5'
+  SO: '13'
+  AVG: '.233'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: James
+  nameFirst: John P.
+  nameClub1: Boise
+  bats: L
+  G: '35'
+  AB: '69'
+  R: '6'
+  H: '16'
+  TB: '16'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '6'
+  SO: '8'
+  AVG: '.232'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Rochelli
+  nameFirst: Louis J.
+  nameClub1: Great Falls
+  G: '75'
+  AB: '234'
+  R: '37'
+  H: '54'
+  TB: '84'
+  H2B: '18'
+  H3B: '0'
+  HR: '4'
+  SH: '1'
+  SB: '5'
+  BB: '28'
+  HP: '2'
+  RBI: '50'
+  SO: '33'
+  AVG: '.231'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Smith
+  nameFirst: W. Clinton
+  nameClub1: Billings
+  G: '103'
+  AB: '363'
+  R: '58'
+  H: '83'
+  TB: '120'
+  H2B: '20'
+  H3B: '4'
+  HR: '3'
+  SH: '3'
+  SB: '9'
+  BB: '55'
+  HP: '10'
+  RBI: '48'
+  SO: '75'
+  AVG: '.229'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sahargun
+  nameFirst: Jack M.
+  nameClub1: Pocatello
+  G: '105'
+  AB: '351'
+  R: '47'
+  H: '80'
+  TB: '116'
+  H2B: '19'
+  H3B: '1'
+  HR: '5'
+  SH: '2'
+  SB: '4'
+  BB: '73'
+  HP: '1'
+  RBI: '53'
+  SO: '90'
+  AVG: '.228'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Deck
+  nameFirst: Cullen P.
+  nameClub1: Magic Valley
+  G: '100'
+  AB: '374'
+  R: '38'
+  H: '85'
+  TB: '121'
+  H2B: '13'
+  H3B: '1'
+  HR: '7'
+  SH: '5'
+  SB: '2'
+  BB: '41'
+  HP: '5'
+  RBI: '39'
+  SO: '108'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Streeter
+  nameFirst: Gerald M.
+  nameClub1: Salt Lake City
+  G: '99'
+  AB: '343'
+  R: '51'
+  H: '78'
+  TB: '118'
+  H2B: '14'
+  H3B: '7'
+  HR: '4'
+  SH: '6'
+  SB: '5'
+  BB: '69'
+  HP: '2'
+  RBI: '32'
+  SO: '93'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Koart
+  nameFirst: William H.
+  nameClub1: Magic Valley
+  G: '37'
+  AB: '88'
+  R: '13'
+  H: '20'
+  TB: '32'
+  H2B: '3'
+  H3B: '0'
+  HR: '3'
+  SH: '0'
+  SB: '0'
+  BB: '16'
+  HP: '1'
+  RBI: '21'
+  SO: '22'
+  AVG: '.227'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Nenna
+  nameFirst: Lawrence E.
+  nameClub1: Idaho Falls
+  bats: L
+  G: '36'
+  AB: '102'
+  R: '14'
+  H: '23'
+  TB: '30'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '18'
+  HP: '2'
+  RBI: '19'
+  SO: '16'
+  AVG: '.225'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Zacher
+  nameFirst: Sylvester
+  nameClub1: Great Falls
+  bats: L
+  G: '31'
+  AB: '67'
+  R: '18'
+  H: '15'
+  TB: '18'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '18'
+  AVG: '.224'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Trytek
+  nameFirst: Edmund
+  nameClub1: Ogden
+  G: '64'
+  AB: '171'
+  R: '38'
+  H: '38'
+  TB: '55'
+  H2B: '9'
+  H3B: '1'
+  HR: '2'
+  SH: '6'
+  SB: '0'
+  BB: '46'
+  HP: '2'
+  RBI: '30'
+  SO: '40'
+  AVG: '.222'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Milne
+  nameFirst: Richard K.
+  nameClub1: Salt Lake City
+  G: '24'
+  AB: '82'
+  R: '22'
+  H: '18'
+  TB: '23'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '17'
+  HP: '0'
+  RBI: '13'
+  SO: '13'
+  AVG: '.220'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Barkelew
+  nameFirst: Burton B.
+  nameClub1: Salt Lake City
+  G: '24'
+  AB: '41'
+  R: '5'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '14'
+  AVG: '.220'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Byhre
+  nameFirst: Paul T.
+  nameClub1: Magic Valley
+  G: '106'
+  AB: '356'
+  R: '56'
+  H: '78'
+  TB: '100'
+  H2B: '17'
+  H3B: '1'
+  HR: '1'
+  SH: '12'
+  SB: '2'
+  BB: '65'
+  HP: '3'
+  RBI: '33'
+  SO: '87'
+  AVG: '.219'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kitsman
+  nameFirst: Charles C.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '126'
+  AB: '464'
+  R: '88'
+  H: '101'
+  TB: '133'
+  H2B: '16'
+  H3B: '2'
+  HR: '4'
+  SH: '5'
+  SB: '20'
+  BB: '86'
+  HP: '2'
+  RBI: '54'
+  SO: '60'
+  AVG: '.218'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Camara
+  nameFirst: Clarence M.
+  nameClub1: Pocatello
+  G: '84'
+  AB: '298'
+  R: '47'
+  H: '65'
+  TB: '77'
+  H2B: '10'
+  H3B: '1'
+  HR: '0'
+  SH: '3'
+  SB: '7'
+  BB: '44'
+  HP: '5'
+  RBI: '21'
+  SO: '30'
+  AVG: '.218'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Smith
+  nameFirst: Ronald G.
+  nameClub1: Idaho Falls
+  G: '45'
+  AB: '119'
+  R: '7'
+  H: '26'
+  TB: '31'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '0'
+  BB: '21'
+  HP: '1'
+  RBI: '20'
+  SO: '36'
+  AVG: '.218'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Birkofer
+  nameFirst: Ralph J.
+  nameClub1: Ogden
+  G: '36'
+  AB: '87'
+  R: '11'
+  H: '19'
+  TB: '34'
+  H2B: '3'
+  H3B: '0'
+  HR: '4'
+  SH: '7'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '17'
+  SO: '34'
+  AVG: '.218'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Whitehead
+  nameFirst: Jack
+  nameClub1: Great Falls
+  G: '106'
+  AB: '337'
+  R: '60'
+  H: '73'
+  TB: '96'
+  H2B: '10'
+  H3B: '2'
+  HR: '3'
+  SH: '6'
+  SB: '0'
+  BB: '99'
+  HP: '5'
+  RBI: '48'
+  SO: '69'
+  AVG: '.217'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sganga
+  nameFirst: Vincent P.
+  nameClub1: Idaho Falls
+  G: '39'
+  AB: '125'
+  R: '10'
+  H: '27'
+  TB: '35'
+  H2B: '3'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '7'
+  BB: '11'
+  HP: '0'
+  RBI: '21'
+  SO: '15'
+  AVG: '.216'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Orwiler
+  nameFirst: Donald D.
+  nameClub1: Pocatello
+  bats: L
+  G: '54'
+  AB: '116'
+  R: '15'
+  H: '25'
+  TB: '31'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '8'
+  SO: '13'
+  AVG: '.216'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Estes
+  nameFirst: Raymond A.
+  nameClub1: Ogden
+  G: '22'
+  AB: '51'
+  R: '7'
+  H: '11'
+  TB: '14'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '8'
+  SO: '12'
+  AVG: '.216'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Stonecipher
+  nameFirst: Kenneth G.
+  nameClub1: Boise
+  G: '55'
+  AB: '186'
+  R: '20'
+  H: '40'
+  TB: '43'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '17'
+  HP: '1'
+  RBI: '16'
+  SO: '20'
+  AVG: '.215'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Wells
+  nameFirst: Carl M.
+  nameClub1: Ogden
+  bats: L
+  G: '28'
+  AB: '94'
+  R: '14'
+  H: '20'
+  TB: '23'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '12'
+  SO: '39'
+  AVG: '.213'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Picone
+  nameFirst: John B.
+  nameClub1: Boise
+  G: '20'
+  AB: '61'
+  R: '7'
+  H: '13'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '12'
+  SO: '12'
+  AVG: '.213'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Muti
+  nameFirst: Nicholas
+  nameClub1: Magic Valley
+  G: '59'
+  AB: '179'
+  R: '29'
+  H: '38'
+  TB: '39'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '6'
+  BB: '64'
+  HP: '0'
+  RBI: '16'
+  SO: '35'
+  AVG: '.212'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Guy
+  nameFirst: Donald F.
+  nameClub1: Ogden
+  G: '29'
+  AB: '71'
+  R: '14'
+  H: '15'
+  TB: '19'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '6'
+  SO: '8'
+  AVG: '.211'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Anicich
+  nameFirst: Albert G.
+  nameClub1: Idaho Falls
+  G: '39'
+  AB: '131'
+  R: '14'
+  H: '27'
+  TB: '39'
+  H2B: '6'
+  H3B: '0'
+  HR: '2'
+  SH: '3'
+  SB: '0'
+  BB: '25'
+  HP: '0'
+  RBI: '20'
+  SO: '36'
+  AVG: '.206'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hill
+  nameFirst: Marion L.
+  nameClub1: Magic Valley
+  bats: L
+  G: '27'
+  AB: '44'
+  R: '5'
+  H: '9'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '7'
+  SO: '10'
+  AVG: '.205'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Furibondo
+  nameFirst: Peter C.
+  nameClub1: Billings
+  G: '33'
+  AB: '49'
+  R: '9'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '1'
+  SO: '12'
+  AVG: '.204'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Martin
+  nameFirst: Hershel R.
+  nameClub1: Pocatello
+  bats: S
+  G: '22'
+  AB: '49'
+  R: '6'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '5'
+  SO: '6'
+  AVG: '.204'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Dean
+  nameFirst: James T.
+  nameClub1: Great Falls
+  G: '18'
+  AB: '69'
+  R: '4'
+  H: '14'
+  TB: '21'
+  H2B: '1'
+  H3B: '3'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '9'
+  SO: '18'
+  AVG: '.203'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Riley
+  nameFirst: Donald C.
+  nameClub1: Billings
+  G: '27'
+  AB: '75'
+  R: '9'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '18'
+  HP: '0'
+  RBI: '4'
+  SO: '10'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Haverty
+  nameFirst: Alan W.
+  nameClub1: Billings
+  G: '11'
+  AB: '30'
+  R: '4'
+  H: '6'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '6'
+  SO: '9'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Wisneski
+  nameFirst: Leonard P.
+  nameClub1: Billings
+  G: '31'
+  AB: '76'
+  R: '3'
+  H: '15'
+  TB: '17'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '8'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '6'
+  SO: '24'
+  AVG: '.197'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Puehl
+  nameFirst: E. Thomas
+  nameClub1: Great Falls
+  G: '30'
+  AB: '72'
+  R: '12'
+  H: '14'
+  TB: '17'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '8'
+  SO: '7'
+  AVG: '.194'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Stewart
+  nameFirst: Clifford J.
+  nameClub1: Salt Lake City
+  G: '37'
+  AB: '57'
+  R: '3'
+  H: '11'
+  TB: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  RBI: '10'
+  SO: '15'
+  AVG: '.193'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Palm
+  nameFirst: Gordon E.
+  nameClub1: Salt Lake City
+  G: '19'
+  AB: '21'
+  R: '4'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '9'
+  AVG: '.190'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Mays
+  nameFirst: William Everett
+  nameClub1: Ogden
+  bats: L
+  G: '36'
+  AB: '132'
+  R: '26'
+  H: '25'
+  TB: '43'
+  H2B: '4'
+  H3B: '7'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '31'
+  HP: '1'
+  RBI: '26'
+  SO: '27'
+  AVG: '.189'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Vick
+  nameFirst: John F. J.
+  nameClub1: Magic Valley
+  G: '27'
+  AB: '95'
+  R: '14'
+  H: '18'
+  TB: '27'
+  H2B: '3'
+  H3B: '0'
+  HR: '2'
+  SH: '0'
+  SB: '1'
+  BB: '31'
+  HP: '1'
+  RBI: '15'
+  SO: '21'
+  AVG: '.189'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Romano
+  nameFirst: Robert G.
+  nameClub1: Magic Valley
+  bats: L
+  G: '17'
+  AB: '48'
+  R: '5'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '6'
+  BB: '16'
+  HP: '0'
+  RBI: '5'
+  SO: '11'
+  AVG: '.188'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Denney
+  nameFirst: Robert F.
+  nameClub1: Billings
+  G: '24'
+  AB: '54'
+  R: '7'
+  H: '10'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '25'
+  AVG: '.185'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Descalso
+  nameFirst: Richard J.
+  nameClub1: Salt Lake City
+  G: '24'
+  AB: '54'
+  R: '3'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '5'
+  SO: '12'
+  AVG: '.185'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Dickey
+  nameFirst: Chester C. H.
+  nameClub1: Pocatello
+  bats: L
+  G: '11'
+  AB: '11'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '6'
+  AVG: '.182'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Franco
+  nameFirst: William E.
+  nameClub1: Boise
+  G: '26'
+  AB: '56'
+  R: '8'
+  H: '10'
+  TB: '14'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '4'
+  SO: '27'
+  AVG: '.179'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Montoya
+  nameFirst: Richard R.
+  nameClub1: Boise
+  G: '22'
+  AB: '63'
+  R: '18'
+  H: '11'
+  TB: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '31'
+  HP: '1'
+  RBI: '8'
+  SO: '13'
+  AVG: '.175'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Woods
+  nameFirst: George M.
+  nameClub1: 18@Salt Lake City
+  nameClub2: 5@Idaho Falls
+  G: '23'
+  AB: '57'
+  R: '4'
+  H: '10'
+  TB: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '1'
+  SO: '12'
+  AVG: '.175'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Nebron
+  nameFirst: A. Gerald
+  nameClub1: Idaho Falls
+  G: '15'
+  AB: '46'
+  R: '2'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '11'
+  HP: '1'
+  RBI: '6'
+  SO: '19'
+  AVG: '.174'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Flaugher
+  nameFirst: L. Allen
+  nameClub1: Ogden
+  G: '35'
+  AB: '75'
+  R: '11'
+  H: '13'
+  TB: '20'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '7'
+  SO: '19'
+  AVG: '.173'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Taylor
+  nameFirst: Harold E.
+  nameClub1: Magic Valley
+  G: '14'
+  AB: '52'
+  R: '12'
+  H: '9'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '13'
+  HP: '1'
+  RBI: '6'
+  SO: '22'
+  AVG: '.173'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Ferrante
+  nameFirst: Nicholas J.
+  nameClub1: Billings
+  G: '11'
+  AB: '35'
+  R: '5'
+  H: '6'
+  TB: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '1'
+  SO: '8'
+  AVG: '.171'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Briggs
+  nameFirst: John T.
+  nameClub1: Idaho Falls
+  G: '37'
+  AB: '65'
+  R: '9'
+  H: '11'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '14'
+  HP: '1'
+  RBI: '11'
+  SO: '22'
+  AVG: '.169'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Vold
+  nameFirst: Nansen Ralph
+  nameClub1: Great Falls
+  bats: L
+  G: '30'
+  AB: '60'
+  R: '6'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '10'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Weber
+  nameFirst: Arthur D.
+  nameClub1: Boise
+  G: '12'
+  AB: '30'
+  R: '5'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '1'
+  SO: '6'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Bandy
+  nameFirst: Delbert S.
+  nameClub1: Idaho Falls
+  G: '40'
+  AB: '62'
+  R: '13'
+  H: '10'
+  TB: '13'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '2'
+  SO: '27'
+  AVG: '.161'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Landis
+  nameFirst: James A.
+  nameClub1: Idaho Falls
+  G: '10'
+  AB: '19'
+  R: '3'
+  H: '3'
+  TB: '5'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '1'
+  SO: '7'
+  AVG: '.158'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Trosin
+  nameFirst: Alvin C.
+  nameClub1: Billings
+  G: '26'
+  AB: '46'
+  R: '5'
+  H: '7'
+  TB: '10'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '9'
+  AVG: '.152'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Nardinelli
+  nameFirst: Kenneth E.
+  nameClub1: Pocatello
+  G: '86'
+  AB: '266'
+  R: '25'
+  H: '40'
+  TB: '50'
+  H2B: '5'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '2'
+  BB: '65'
+  HP: '5'
+  RBI: '23'
+  SO: '80'
+  AVG: '.150'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Osborn
+  nameFirst: Jack G.
+  nameClub1: Magic Valley
+  G: '22'
+  AB: '34'
+  R: '0'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  AVG: '.147'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Downs
+  nameFirst: Vincent J.
+  nameClub1: Ogden
+  G: '13'
+  AB: '34'
+  R: '6'
+  H: '5'
+  TB: '7'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '10'
+  HP: '0'
+  RBI: '2'
+  SO: '10'
+  AVG: '.147'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Escalante
+  nameFirst: Earl P.
+  nameClub1: Idaho Falls
+  G: '41'
+  AB: '96'
+  R: '9'
+  H: '14'
+  TB: '21'
+  H2B: '1'
+  H3B: '0'
+  HR: '2'
+  SH: '2'
+  SB: '0'
+  BB: '15'
+  HP: '0'
+  RBI: '8'
+  SO: '30'
+  AVG: '.146'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Lastres
+  nameFirst: Danilo B.
+  nameClub1: Great Falls
+  G: '31'
+  AB: '96'
+  R: '16'
+  H: '14'
+  TB: '23'
+  H2B: '3'
+  H3B: '3'
+  HR: '0'
+  SH: '1'
+  SB: '8'
+  BB: '23'
+  HP: '1'
+  RBI: '12'
+  SO: '25'
+  AVG: '.146'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Haysom
+  nameFirst: Elbert M.
+  nameClub1: Billings
+  G: '35'
+  AB: '76'
+  R: '5'
+  H: '11'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '14'
+  SB: '1'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '24'
+  AVG: '.145'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Cutler
+  nameFirst: Donald E.
+  nameClub1: Boise
+  G: '10'
+  AB: '21'
+  R: '4'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '0'
+  SO: '9'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Schaack
+  nameFirst: Edward B.
+  nameClub1: Magic Valley
+  G: '33'
+  AB: '64'
+  R: '7'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '15'
+  HP: '1'
+  RBI: '6'
+  SO: '13'
+  AVG: '.141'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Ruiz
+  nameFirst: Alonso
+  nameClub1: Pocatello
+  G: '43'
+  AB: '72'
+  R: '7'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '4'
+  SO: '18'
+  AVG: '.139'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kulka
+  nameFirst: Stanley P.
+  nameClub1: Billings
+  bats: L
+  G: '25'
+  AB: '72'
+  R: '2'
+  H: '10'
+  TB: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '16'
+  HP: '3'
+  RBI: '4'
+  SO: '21'
+  AVG: '.139'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hall
+  nameFirst: Gerald M.
+  nameClub1: Magic Valley
+  G: '21'
+  AB: '36'
+  R: '4'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '1'
+  SO: '13'
+  AVG: '.139'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hill
+  nameFirst: Stephen H.
+  nameClub1: Pocatello
+  G: '19'
+  AB: '58'
+  R: '9'
+  H: '8'
+  TB: '10'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '7'
+  SO: '13'
+  AVG: '.138'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kilburg
+  nameFirst: Vernon L.
+  nameClub1: Ogden
+  G: '24'
+  AB: '60'
+  R: '10'
+  H: '8'
+  TB: '11'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '5'
+  SO: '14'
+  AVG: '.133'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Woods
+  nameFirst: Frederick C.
+  nameClub1: Magic Valley
+  G: '13'
+  AB: '30'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '2'
+  SO: '19'
+  AVG: '.133'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Johnson
+  nameFirst: Gene R.
+  nameClub1: Idaho Falls
+  G: '30'
+  AB: '54'
+  R: '6'
+  H: '7'
+  TB: '10'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '24'
+  AVG: '.130'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Taylor
+  nameFirst: Jerry Michael
+  nameClub1: Pocatello
+  G: '43'
+  AB: '104'
+  R: '7'
+  H: '13'
+  TB: '16'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '4'
+  HP: '2'
+  RBI: '7'
+  SO: '23'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Snyder
+  nameFirst: Hallard C.
+  nameClub1: Great Falls
+  G: '24'
+  AB: '40'
+  R: '6'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '3'
+  SO: '17'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Patchell
+  nameFirst: Stanley L.
+  nameClub1: Billings
+  G: '17'
+  AB: '16'
+  R: '3'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.125'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hatzenbuhler
+  nameFirst: Ervin J.
+  nameClub1: Pocatello
+  G: '13'
+  AB: '34'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '13'
+  AVG: '.118'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Peery
+  nameFirst: Roy C.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '19'
+  AB: '18'
+  R: '6'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '2'
+  SO: '1'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Tench
+  nameFirst: Gordan G.
+  nameClub1: Pocatello
+  G: '27'
+  AB: '46'
+  R: '6'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '18'
+  AVG: '.109'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Meaders
+  nameFirst: Donald G.
+  nameClub1: Pocatello
+  G: '13'
+  AB: '28'
+  R: '5'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '1'
+  SO: '15'
+  AVG: '.107'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Petersen
+  nameFirst: John C.
+  nameClub1: Boise
+  G: '13'
+  AB: '19'
+  R: '1'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '5'
+  AVG: '.105'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Martin
+  nameFirst: Jack R.
+  nameClub1: Pocatello
+  bats: L
+  G: '34'
+  AB: '49'
+  R: '2'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '0'
+  SO: '25'
+  AVG: '.102'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hurn
+  nameFirst: Harold L.
+  nameClub1: Pocatello
+  G: '21'
+  AB: '40'
+  R: '5'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '14'
+  AVG: '.100'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Smith
+  nameFirst: Leland D.
+  nameClub1: Pocatello
+  G: '34'
+  AB: '41'
+  R: '5'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  RBI: '1'
+  SO: '14'
+  AVG: '.098'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: McFarlane
+  nameFirst: Robert L.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '32'
+  AB: '43'
+  R: '2'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '4'
+  SO: '11'
+  AVG: '.093'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Schulte
+  nameFirst: Paul A.
+  nameClub1: Magic Valley
+  G: '29'
+  AB: '68'
+  R: '5'
+  H: '6'
+  TB: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  RBI: '4'
+  SO: '43'
+  AVG: '.088'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Long
+  nameFirst: Robert R.
+  nameClub1: Billings
+  bats: S
+  G: '20'
+  AB: '38'
+  R: '8'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  RBI: '3'
+  SO: '15'
+  AVG: '.079'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Seybold
+  nameFirst: Donald A.
+  nameClub1: Pocatello
+  G: '30'
+  AB: '34'
+  R: '2'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '1'
+  SO: '20'
+  AVG: '.059'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Matzen
+  nameFirst: Charles A.
+  nameClub1: Billings
+  G: '16'
+  AB: '17'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '1'
+  SO: '12'
+  AVG: '.059'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Whitlock
+  nameFirst: Joel W.
+  nameClub1: Idaho Falls
+  G: '16'
+  AB: '17'
+  R: '3'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '0'
+  SO: '10'
+  AVG: '.059'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Donnelly
+  nameFirst: Richard E.
+  nameClub1: Billings
+  G: '13'
+  AB: '20'
+  R: '1'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '9'
+  AVG: '.050'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Foy
+  nameFirst: Ralph A.
+  nameClub1: Pocatello
+  G: '10'
+  AB: '24'
+  R: '2'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '4'
+  HP: '2'
+  RBI: '1'
+  SO: '6'
+  AVG: '.042'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Fornall
+  nameFirst: Donald J.
+  nameClub1: Great Falls
+  G: '18'
+  AB: '11'
+  R: '2'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Smith
+  nameFirst: Richard R.
+  nameClub1: Great Falls
+  G: '12'
+  AB: '10'
+  R: '1'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  RBI: '0'
+  SO: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Gibb
+  nameFirst: Albert F.
+  nameClub1: Billings
+  bats: L
+  G: '7'
+  AVG: '.111'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: May
+  nameFirst: Ronald L.
+  nameClub1: Billings
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Nunn
+  nameFirst: Samuel A.
+  nameClub1: Billings
+  G: '4'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Summers
+  nameFirst: Vernon L.
+  nameClub1: Billings
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Aldama
+  nameFirst: Louis N.
+  nameClub1: Boise
+  G: '9'
+  AVG: '.067'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Brown
+  nameFirst: Geoge L.
+  nameClub1: Boise
+  bats: S
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Chrisenberry
+  nameFirst: William J.
+  nameClub1: Boise
+  G: '3'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Downing
+  nameFirst: Frederic C.
+  nameClub1: Boise
+  G: '3'
+  AVG: '.100'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Koski
+  nameFirst: Jack R.
+  nameClub1: Boise
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Pride
+  nameFirst: Charles F.
+  nameClub1: Boise
+  G: '1'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Rovai
+  nameFirst: Rudolph V.
+  nameClub1: Boise
+  G: '2'
+  AVG: '1.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Seely
+  nameFirst: Donald C.
+  nameClub1: Boise
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Yarber
+  nameFirst: James A.
+  nameClub1: Boise
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kleasner
+  nameFirst: Kenneth F.
+  nameClub1: Great Falls
+  G: '4'
+  AVG: '.500'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Peterson
+  nameFirst: James T.
+  nameClub1: Great Falls
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Wooton
+  nameFirst: J. Derald
+  nameClub1: Great Falls
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Bowman
+  nameFirst: Keith V.
+  nameClub1: Idaho Falls
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Curby
+  nameFirst: Ronald B.
+  nameClub1: Idaho Falls
+  G: '5'
+  AVG: '.143'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Strombach
+  nameFirst: Richard
+  nameClub1: Idaho Falls
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Tucker
+  nameFirst: R. Earl
+  nameClub1: Idaho Falls
+  bats: L
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Boutet
+  nameFirst: Prosper
+  nameClub1: Magic Valley
+  G: '6'
+  AVG: '.167'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Carrothers
+  nameFirst: Harold D.
+  nameClub1: Magic Valley
+  bats: L
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hoffman
+  nameFirst: Thomas R. A.
+  nameClub1: Magic Valley
+  G: '7'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Horton
+  nameFirst: Gordon
+  nameClub1: Magic Valley
+  G: '7'
+  AVG: '.259'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Lopez
+  nameFirst: Peter
+  nameClub1: Magic Valley
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Morones
+  nameFirst: William P.
+  nameClub1: Magic Valley
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: McGee
+  nameFirst: James N.
+  nameClub1: Magic Valley
+  G: '7'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Piedmonte
+  nameFirst: Richard E.
+  nameClub1: Magic Valley
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Rico
+  nameFirst: Nicholas J.
+  nameClub1: Ogden
+  nameClub2: Magic Valley
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Wergeland
+  nameFirst: Henry
+  nameClub1: Magic Valley
+  bats: L
+  G: '5'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Wright
+  nameFirst: Harold B.
+  nameClub1: Magic Valley
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Bevan
+  nameFirst: William D.
+  nameClub1: Ogden
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Gauger
+  nameFirst: Lawrence W.
+  nameClub1: Ogden
+  G: '3'
+  AVG: '.385'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Izzo
+  nameFirst: Nunzio G.
+  nameClub1: Ogden
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Jones
+  nameFirst: Billy Joe
+  nameClub1: Ogden
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Knodel
+  nameFirst: Leonard M.
+  nameClub1: Ogden
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Kreis
+  nameFirst: Donald E.
+  nameClub1: Ogden
+  G: '6'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Martinez
+  nameFirst: Thomas A.
+  nameClub1: Ogden
+  G: '8'
+  AVG: '.154'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Omerza
+  nameFirst: John J.
+  nameClub1: Ogden
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Roberts
+  nameFirst: Wesley
+  nameClub1: Ogden
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Shomo
+  nameFirst: Robert E.
+  nameClub1: Ogden
+  G: '5'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Sita
+  nameFirst: Ralph P.
+  nameClub1: Ogden
+  bats: L
+  G: '3'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Walega
+  nameFirst: Richard M.
+  nameClub1: Ogden
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Zimmer
+  nameFirst: Harold M.
+  nameClub1: Ogden
+  G: '4'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Barrelier
+  nameFirst: John C.
+  nameClub1: Pocatello
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Boyd
+  nameFirst: Laramie E.
+  nameClub1: Pocatello
+  G: '4'
+  AVG: '.077'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Gates
+  nameFirst: Charles J.
+  nameClub1: Pocatello
+  G: '3'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hunrick
+  nameFirst: George M.
+  nameClub1: Pocatello
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Lynn
+  nameFirst: Calvin D.
+  nameClub1: Pocatello
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Murphy
+  nameFirst: Robert J.
+  nameClub1: Pocatello
+  G: '5'
+  AVG: '.182'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Nagle
+  nameFirst: Douglas B.
+  nameClub1: Pocatello
+  G: '4'
+  AVG: '.400'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Ottoson
+  nameFirst: Donald F.
+  nameClub1: Pocatello
+  G: '3'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Prest
+  nameFirst: Samuel C.
+  nameClub1: Pocatello
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Scheffel
+  nameFirst: Cecil M.
+  nameClub1: Pocatello
+  G: '3'
+  AVG: '.273'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Smith
+  nameFirst: Donald R.
+  nameClub1: Pocatello
+  G: '4'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Vitti
+  nameFirst: Ralph R.
+  nameClub1: Pocatello
+  G: '4'
+  AVG: '.214'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Younts
+  nameFirst: Thomas M.
+  nameClub1: Pocatello
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Anderson
+  nameFirst: Jack K.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '4'
+  AVG: '.400'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Cherry
+  nameFirst: Robert H.
+  nameClub1: Salt Lake City
+  G: '7'
+  AVG: '.160'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: D'Ambrosi
+  nameFirst: Mario
+  nameClub1: Salt Lake City
+  G: '1'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Gabriel
+  nameFirst: Albert A.
+  nameClub1: Salt Lake City
+  G: '7'
+  AVG: '.083'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Gibbons
+  nameFirst: James V.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '7'
+  AVG: '.200'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hamilton
+  nameFirst: Dennis E.
+  nameClub1: Salt Lake City
+  bats: L
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Hoerner
+  nameFirst: Nelson L.
+  nameClub1: Salt Lake City
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Murphey
+  nameFirst: Gerald H.
+  nameClub1: Salt Lake City
+  G: '8'
+  AVG: '.083'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Murphy
+  nameFirst: Edward J.
+  nameClub1: Salt Lake City
+  G: '5'
+  AVG: '.250'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Nichols
+  nameFirst: Carl O.
+  nameClub1: Salt Lake City
+  G: '2'
+  AVG: '.000'
+- year: '1953'
+  nameLeague: Pioneer League
+  nameLast: Odekirk
+  nameFirst: Ronald C.
+  nameClub1: Salt Lake City
+  G: '9'
+  AVG: '.100'

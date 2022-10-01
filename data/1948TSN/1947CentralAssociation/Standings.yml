@@ -1,0 +1,100 @@
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Clinton
+  phase: regular
+  W: '73'
+  L: '51'
+  T: '1'
+  PCT: '.589'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Hannibal
+  phase: regular
+  W: '69'
+  L: '56'
+  T: '0'
+  PCT: '.552'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Rockford
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '0'
+  PCT: '.544'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Keokuk
+  phase: regular
+  W: '61'
+  L: '64'
+  T: '0'
+  PCT: '.488'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Burlington
+  phase: regular
+  W: '52'
+  L: '72'
+  T: '1'
+  PCT: '.419'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Moline
+  phase: regular
+  W: '51'
+  L: '74'
+  T: '0'
+  PCT: '.408'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Clinton
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Rockford
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Hannibal
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Keokuk
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Clinton
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Central Association
+  nameClub: Hannibal
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

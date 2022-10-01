@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: regular
+  W: '86'
+  L: '39'
+  T: '1'
+  PCT: '.688'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: regular
+  W: '80'
+  L: '44'
+  T: '1'
+  PCT: '.645'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  phase: regular
+  W: '77'
+  L: '49'
+  T: '0'
+  PCT: '.611'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular
+  W: '67'
+  L: '57'
+  T: '0'
+  PCT: '.540'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Butler
+  phase: regular
+  W: '61'
+  L: '64'
+  T: '0'
+  PCT: '.488'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Oil City
+  phase: regular
+  W: '50'
+  L: '76'
+  T: '0'
+  PCT: '.397'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: New Castle
+  phase: regular
+  W: '43'
+  L: '83'
+  T: '2'
+  PCT: '.341'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Youngstown
+  phase: regular
+  W: '37'
+  L: '89'
+  T: '2'
+  PCT: '.294'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Uniontown
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Erie
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Middle Atlantic League
+  nameClub: Vandergrift
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,100 @@
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  phase: regular
+  W: '81'
+  L: '48'
+  T: '1'
+  PCT: '.628'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: regular
+  W: '75'
+  L: '55'
+  T: '0'
+  PCT: '.577'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Ballinger
+  phase: regular
+  W: '68'
+  L: '62'
+  T: '0'
+  PCT: '.523'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Sweetwater
+  phase: regular
+  W: '63'
+  L: '67'
+  T: '0'
+  PCT: '.485'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Odessa
+  phase: regular
+  W: '60'
+  L: '70'
+  T: '0'
+  PCT: '.462'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Vernon
+  phase: regular
+  W: '42'
+  L: '87'
+  T: '1'
+  PCT: '.326'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Sweetwater
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Ballinger
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Midland
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Ballinger
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Longhorn League
+  nameClub: Big Spring
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

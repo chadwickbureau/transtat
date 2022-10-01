@@ -1,0 +1,118 @@
+- year: '1938'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '90'
+  L: '61'
+  T: '1'
+  PCT: '.596'
+  RANK: '1'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: regular
+  W: '84'
+  L: '67'
+  T: '2'
+  PCT: '.556'
+  RANK: '2'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: regular
+  W: '81'
+  L: '70'
+  T: '0'
+  PCT: '.536'
+  RANK: '3'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '80'
+  L: '74'
+  T: '3'
+  PCT: '.519'
+  RANK: '4'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Toledo
+  phase: regular
+  W: '79'
+  L: '74'
+  T: '1'
+  PCT: '.516'
+  RANK: '5'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '78'
+  L: '74'
+  T: '0'
+  PCT: '.513'
+  RANK: '6'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Columbus
+  phase: regular
+  W: '64'
+  L: '89'
+  T: '1'
+  PCT: '.418'
+  RANK: '7'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '53'
+  L: '100'
+  T: '2'
+  PCT: '.346'
+  RANK: '8'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: Kansas City
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1938'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

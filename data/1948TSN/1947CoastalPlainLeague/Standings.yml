@@ -1,0 +1,116 @@
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Wilson
+  phase: regular
+  W: '79'
+  L: '61'
+  PCT: '.564'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: regular
+  W: '74'
+  L: '65'
+  PCT: '.532'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Tarboro
+  phase: regular
+  W: '74'
+  L: '66'
+  PCT: '.529'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: New Bern
+  phase: regular
+  W: '73'
+  L: '66'
+  PCT: '.525'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Goldsboro
+  phase: regular
+  W: '72'
+  L: '67'
+  PCT: '.518'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Rocky Mount
+  phase: regular
+  W: '68'
+  L: '71'
+  PCT: '.489'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Roanoke Rapids
+  phase: regular
+  W: '60'
+  L: '80'
+  PCT: '.429'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Greenville
+  phase: regular
+  W: '58'
+  L: '82'
+  PCT: '.414'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Wilson
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: New Bern
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Tarboro
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Kinston
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Coastal Plain League
+  nameClub: Wilson
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

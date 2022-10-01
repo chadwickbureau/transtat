@@ -1,0 +1,3082 @@
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: McDonald
+  nameClub1: San Diego
+  throws: L
+  Pos: 1B
+  G: '85'
+  PO: '651'
+  A: '48'
+  E: '5'
+  DP: '50'
+  PCT: '.993'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Otero
+  nameClub1: Los Angeles
+  Pos: 1B
+  G: '120'
+  PO: '1114'
+  A: '48'
+  E: '9'
+  DP: '77'
+  PCT: '.992'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Harris
+  nameClub1: Portland
+  throws: L
+  Pos: 1B
+  G: '13'
+  PO: '104'
+  A: '9'
+  E: '1'
+  DP: '6'
+  PCT: '.991'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Picetti
+  nameClub1: Oakland
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '103'
+  A: '6'
+  E: '1'
+  DP: '8'
+  PCT: '.991'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Barton
+  nameClub1: Portland
+  throws: L
+  Pos: 1B
+  G: '123'
+  PO: '1099'
+  A: '70'
+  E: '12'
+  DP: '95'
+  PCT: '.990'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Camilli
+  nameClub1: Oakland
+  throws: L
+  Pos: 1B
+  G: '105'
+  PO: '917'
+  A: '69'
+  E: '10'
+  DP: '86'
+  PCT: '.990'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Scarsella
+  nameClub1: Oakland
+  throws: L
+  Pos: 1B
+  G: '51'
+  PO: '408'
+  A: '47'
+  E: '5'
+  DP: '31'
+  PCT: '.989'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Russell
+  nameClub1: Los Angeles
+  Pos: 1B
+  G: '47'
+  PO: '436'
+  A: '16'
+  E: '5'
+  DP: '31'
+  PCT: '.989'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Keesey
+  nameClub1: Seattle
+  Pos: 1B
+  G: '13'
+  PO: '83'
+  A: '9'
+  E: '1'
+  DP: '8'
+  PCT: '.989'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sueme
+  nameClub1: Seattle
+  Pos: 1B
+  G: '10'
+  PO: '82'
+  A: '4'
+  E: '1'
+  DP: '7'
+  PCT: '.989'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Suhr
+  nameClub1: San Francisco
+  Pos: 1B
+  G: '165'
+  PO: '1443'
+  A: '87'
+  E: '18'
+  DP: '116'
+  PCT: '.988'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gullic
+  nameClub1: Portland
+  Pos: 1B
+  G: '35'
+  PO: '310'
+  A: '32'
+  E: '4'
+  DP: '18'
+  PCT: '.988'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gudat
+  nameClub1: San Diego
+  throws: L
+  Pos: 1B
+  G: '36'
+  PO: '283'
+  A: '33'
+  E: '4'
+  DP: '23'
+  PCT: '.988'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Moran
+  nameClub1: Hollywood
+  Pos: 1B
+  G: '137'
+  PO: '1193'
+  A: '95'
+  E: '17'
+  DP: '100'
+  PCT: '.987'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Suytar
+  nameClub1: Sacramento
+  Pos: 1B
+  G: '126'
+  PO: '1167'
+  A: '48'
+  E: '16'
+  DP: '54'
+  PCT: '.987'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sauer
+  nameClub1: Los Angeles
+  Pos: 1B
+  G: '10'
+  PO: '69'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.987'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Matheson
+  nameClub1: Seattle
+  Pos: 1B
+  G: '60'
+  PO: '592'
+  A: '23'
+  E: '9'
+  DP: '43'
+  PCT: '.986'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Lowe
+  nameClub1: San Diego
+  Pos: 1B
+  G: '37'
+  PO: '300'
+  A: '16'
+  E: '5'
+  DP: '24'
+  PCT: '.984'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Angle
+  nameClub1: Sacramento
+  Pos: 1B
+  G: '38'
+  PO: '318'
+  A: '23'
+  E: '6'
+  DP: '19'
+  PCT: '.983'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Libke
+  nameClub1: Seattle
+  Pos: 1B
+  G: '84'
+  PO: '754'
+  A: '46'
+  E: '17'
+  DP: '49'
+  PCT: '.979'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Vezelich
+  nameClub1: San Diego
+  Pos: 1B
+  G: '16'
+  PO: '134'
+  A: '7'
+  E: '3'
+  DP: '6'
+  PCT: '.979'
+  TP: '1'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Herman
+  nameClub1: Hollywood
+  throws: L
+  Pos: 1B
+  G: '13'
+  PO: '79'
+  A: '7'
+  E: '3'
+  DP: '6'
+  PCT: '.966'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Powers
+  nameFirst: L.
+  nameClub1: Hollywood
+  throws: L
+  Pos: 1B
+  G: '31'
+  PO: '238'
+  A: '12'
+  E: '9'
+  DP: '26'
+  PCT: '.965'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hedington
+  nameClub1: Portland
+  Pos: 2B
+  G: '15'
+  PO: '23'
+  A: '18'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Peterson
+  nameClub1: Portland
+  Pos: 2B
+  G: '52'
+  PO: '134'
+  A: '97'
+  E: '4'
+  DP: '23'
+  PCT: '.983'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Futernick
+  nameClub1: San Francisco
+  Pos: 2B
+  G: '11'
+  PO: '23'
+  A: '27'
+  E: '1'
+  DP: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Handley
+  nameClub1: Sacramento
+  Pos: 2B
+  G: '126'
+  PO: '357'
+  A: '359'
+  E: '22'
+  DP: '53'
+  PCT: '.970'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Morgan
+  nameClub1: San Diego
+  Pos: 2B
+  G: '41'
+  PO: '87'
+  A: '75'
+  E: '5'
+  DP: '16'
+  PCT: '.970'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Reynolds
+  nameClub1: San Diego
+  Pos: 2B
+  G: '98'
+  PO: '258'
+  A: '211'
+  E: '15'
+  DP: '36'
+  PCT: '.969'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Storti
+  nameClub1: Oakland
+  Pos: 2B
+  G: '20'
+  PO: '43'
+  A: '43'
+  E: '3'
+  DP: '15'
+  PCT: '.966'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Angle
+  nameClub1: Sacramento
+  Pos: 2B
+  G: '12'
+  PO: '24'
+  A: '32'
+  E: '2'
+  DP: '6'
+  PCT: '.966'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Young
+  nameClub1: San Francisco
+  Pos: 2B
+  G: '148'
+  PO: '466'
+  A: '395'
+  E: '33'
+  DP: '88'
+  PCT: '.963'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Adair
+  nameClub1: San Francisco
+  Pos: 2B
+  G: '15'
+  PO: '43'
+  A: '35'
+  E: '3'
+  DP: '4'
+  PCT: '.963'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: English
+  nameClub1: Los Angeles
+  nameClub2: Oakland
+  Pos: 2B
+  G: '36'
+  PO: '86'
+  A: '91'
+  E: '7'
+  DP: '14'
+  PCT: '.962'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Cailteaux
+  nameClub1: San Diego
+  Pos: 2B
+  G: '38'
+  PO: '86'
+  A: '66'
+  E: '6'
+  DP: '19'
+  PCT: '.962'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Nunes
+  nameClub1: Portland
+  Pos: 2B
+  G: '95'
+  PO: '250'
+  A: '238'
+  E: '20'
+  DP: '48'
+  PCT: '.961'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Penso
+  nameClub1: Seattle
+  Pos: 2B
+  G: '14'
+  PO: '22'
+  A: '26'
+  E: '2'
+  DP: '5'
+  PCT: '.960'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gorbould
+  nameClub1: Seattle
+  Pos: 2B
+  G: '46'
+  PO: '114'
+  A: '122'
+  E: '10'
+  DP: '22'
+  PCT: '.959'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gray
+  nameClub1: Seattle
+  nameClub2: Los Angeles
+  Pos: 2B
+  G: '31'
+  PO: '65'
+  A: '70'
+  E: '6'
+  DP: '19'
+  PCT: '.958'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Miller
+  nameClub1: Los Angeles
+  Pos: 2B
+  G: '20'
+  PO: '59'
+  A: '51'
+  E: '5'
+  DP: '13'
+  PCT: '.957'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Richardson
+  nameClub1: Hollywood
+  Pos: 2B
+  G: '103'
+  PO: '261'
+  A: '256'
+  E: '24'
+  DP: '59'
+  PCT: '.956'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Dobbins
+  nameClub1: Seattle
+  Pos: 2B
+  G: '80'
+  PO: '215'
+  A: '205'
+  E: '20'
+  DP: '41'
+  PCT: '.954'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Russell
+  nameClub1: Los Angeles
+  Pos: 2B
+  G: '101'
+  PO: '249'
+  A: '293'
+  E: '30'
+  DP: '56'
+  PCT: '.948'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Wright
+  nameClub1: Oakland
+  Pos: 2B
+  G: '77'
+  PO: '233'
+  A: '183'
+  E: '26'
+  DP: '55'
+  PCT: '.941'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ogorek
+  nameClub1: Los Angeles
+  Pos: 2B
+  G: '48'
+  PO: '130'
+  A: '123'
+  E: '19'
+  DP: '24'
+  PCT: '.930'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Herrera
+  nameClub1: Oakland
+  Pos: 2B
+  G: '45'
+  PO: '135'
+  A: '102'
+  E: '18'
+  DP: '26'
+  PCT: '.930'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Olsen
+  nameClub1: Hollywood
+  Pos: 2B
+  G: '68'
+  PO: '173'
+  A: '193'
+  E: '28'
+  DP: '42'
+  PCT: '.929'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ciccimarro
+  nameClub1: Portland
+  Pos: 2B
+  G: '28'
+  PO: '62'
+  A: '50'
+  E: '10'
+  DP: '11'
+  PCT: '.918'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gaviglio
+  nameClub1: Sacramento
+  Pos: 2B
+  G: '11'
+  PO: '26'
+  A: '23'
+  E: '7'
+  DP: '4'
+  PCT: '.876'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Morgan
+  nameClub1: San Diego
+  Pos: 3B
+  G: '12'
+  PO: '10'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Owen
+  nameClub1: Portland
+  Pos: 3B
+  G: '131'
+  PO: '140'
+  A: '292'
+  E: '16'
+  DP: '24'
+  PCT: '.964'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Miller
+  nameClub1: Los Angeles
+  Pos: 3B
+  G: '18'
+  PO: '16'
+  A: '50'
+  E: '3'
+  DP: '5'
+  PCT: '.957'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Fausett
+  nameClub1: Hollywood
+  Pos: 3B
+  G: '93'
+  PO: '117'
+  A: '233'
+  E: '16'
+  DP: '27'
+  PCT: '.956'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Krueger
+  nameClub1: Seattle
+  nameClub2: Sacramento
+  Pos: 3B
+  G: '10'
+  PO: '13'
+  A: '31'
+  E: '2'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Storti
+  nameClub1: Oakland
+  Pos: 3B
+  G: '15'
+  PO: '11'
+  A: '32'
+  E: '2'
+  DP: '8'
+  PCT: '.956'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Rosenlund
+  nameClub1: Oakland
+  Pos: 3B
+  G: '154'
+  PO: '228'
+  A: '373'
+  E: '30'
+  DP: '43'
+  PCT: '.953'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Serafini
+  nameClub1: Sacramento
+  Pos: 3B
+  G: '96'
+  PO: '117'
+  A: '195'
+  E: '16'
+  DP: '15'
+  PCT: '.951'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gyselman
+  nameClub1: Seattle
+  Pos: 3B
+  G: '158'
+  PO: '161'
+  A: '369'
+  E: '32'
+  DP: '33'
+  PCT: '.943'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Olsen
+  nameClub1: Hollywood
+  Pos: 3B
+  G: '13'
+  PO: '14'
+  A: '32'
+  E: '3'
+  DP: '1'
+  PCT: '.939'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Bowa
+  nameFirst: P.
+  nameClub1: Sacramento
+  Pos: 3B
+  G: '32'
+  PO: '39'
+  A: '66'
+  E: '7'
+  DP: '5'
+  PCT: '.938'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hedington
+  nameClub1: Portland
+  Pos: 3B
+  G: '11'
+  PO: '7'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gullic
+  nameClub1: Portland
+  Pos: 3B
+  G: '16'
+  PO: '26'
+  A: '30'
+  E: '4'
+  DP: '3'
+  PCT: '.934'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: English
+  nameClub1: Los Angeles
+  nameClub2: Oakland
+  Pos: 3B
+  G: '79'
+  PO: '59'
+  A: '142'
+  E: '16'
+  DP: '14'
+  PCT: '.926'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Cox
+  nameClub1: Sacramento
+  Pos: 3B
+  G: '13'
+  PO: '19'
+  A: '31'
+  E: '4'
+  DP: '2'
+  PCT: '.926'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Rogers
+  nameClub1: Sacramento
+  Pos: 3B
+  G: '20'
+  PO: '19'
+  A: '43'
+  E: '5'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Wheeler
+  nameClub1: San Diego
+  Pos: 3B
+  G: '154'
+  PO: '163'
+  A: '275'
+  E: '36'
+  DP: '24'
+  PCT: '.924'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Richardson
+  nameClub1: Hollywood
+  Pos: 3B
+  G: '28'
+  PO: '25'
+  A: '57'
+  E: '7'
+  DP: '5'
+  PCT: '.921'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Cavalli
+  nameClub1: San Francisco
+  Pos: 3B
+  G: '33'
+  PO: '35'
+  A: '69'
+  E: '9'
+  DP: '4'
+  PCT: '.920'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Peterson
+  nameClub1: Portland
+  Pos: 3B
+  G: '31'
+  PO: '21'
+  A: '67'
+  E: '8'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ostrowski
+  nameClub1: Los Angeles
+  Pos: 3B
+  G: '59'
+  PO: '46'
+  A: '142'
+  E: '18'
+  DP: '6'
+  PCT: '.913'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Clements
+  nameClub1: Hollywood
+  Pos: 3B
+  G: '36'
+  PO: '33'
+  A: '90'
+  E: '12'
+  DP: '7'
+  PCT: '.912'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Trutta
+  nameClub1: San Francisco
+  Pos: 3B
+  G: '73'
+  PO: '58'
+  A: '132'
+  E: '21'
+  DP: '11'
+  PCT: '.901'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Guintini
+  nameClub1: San Francisco
+  Pos: 3B
+  G: '56'
+  PO: '62'
+  A: '111'
+  E: '25'
+  DP: '8'
+  PCT: '.874'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Elko
+  nameClub1: Los Angeles
+  Pos: 3B
+  G: '12'
+  PO: '14'
+  A: '31'
+  E: '7'
+  DP: '2'
+  PCT: '.868'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: York
+  nameClub1: Los Angeles
+  Pos: SS
+  G: '23'
+  PO: '17'
+  A: '44'
+  E: '0'
+  DP: '8'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Krueger
+  nameClub1: Seattle
+  nameClub2: Sacramento
+  Pos: SS
+  G: '17'
+  PO: '32'
+  A: '37'
+  E: '3'
+  DP: '8'
+  PCT: '.958'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Davis
+  nameClub1: Hollywood
+  Pos: SS
+  G: '169'
+  PO: '370'
+  A: '492'
+  E: '47'
+  DP: '96'
+  PCT: '.948'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gorbould
+  nameClub1: Seattle
+  Pos: SS
+  G: '40'
+  PO: '79'
+  A: '117'
+  E: '11'
+  DP: '19'
+  PCT: '.947'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Miller
+  nameClub1: Los Angeles
+  Pos: SS
+  G: '119'
+  PO: '200'
+  A: '376'
+  E: '34'
+  DP: '50'
+  PCT: '.944'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Lyman
+  nameClub1: Seattle
+  Pos: SS
+  G: '95'
+  PO: '194'
+  A: '268'
+  E: '29'
+  DP: '34'
+  PCT: '.941'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: O'Neil
+  nameClub1: Portland
+  Pos: SS
+  G: '159'
+  PO: '346'
+  A: '520'
+  E: '58'
+  DP: '83'
+  PCT: '.937'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Calvey
+  nameClub1: San Diego
+  Pos: SS
+  G: '138'
+  PO: '242'
+  A: '394'
+  E: '45'
+  DP: '62'
+  PCT: '.934'
+  TP: '1'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Angle
+  nameClub1: Sacramento
+  Pos: SS
+  G: '34'
+  PO: '60'
+  A: '78'
+  E: '12'
+  DP: '9'
+  PCT: '.920'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Caulfield
+  nameClub1: Oakland
+  Pos: SS
+  G: '149'
+  PO: '303'
+  A: '431'
+  E: '65'
+  DP: '78'
+  PCT: '.919'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Futernick
+  nameClub1: San Francisco
+  Pos: SS
+  G: '101'
+  PO: '190'
+  A: '301'
+  E: '44'
+  DP: '41'
+  PCT: '.918'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Smalley
+  nameClub1: Los Angeles
+  Pos: SS
+  G: '55'
+  PO: '87'
+  A: '156'
+  E: '23'
+  DP: '15'
+  PCT: '.914'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Morgan
+  nameClub1: San Diego
+  Pos: SS
+  G: '26'
+  PO: '43'
+  A: '62'
+  E: '10'
+  DP: '10'
+  PCT: '.913'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Watson
+  nameClub1: Sacramento
+  Pos: SS
+  G: '111'
+  PO: '169'
+  A: '334'
+  E: '49'
+  DP: '34'
+  PCT: '.911'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Dobbins
+  nameClub1: Seattle
+  Pos: SS
+  G: '43'
+  PO: '82'
+  A: '113'
+  E: '19'
+  DP: '19'
+  PCT: '.911'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Cavalli
+  nameClub1: San Francisco
+  Pos: SS
+  G: '73'
+  PO: '127'
+  A: '217'
+  E: '46'
+  DP: '37'
+  PCT: '.882'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Herrera
+  nameClub1: Oakland
+  Pos: SS
+  G: '23'
+  PO: '38'
+  A: '56'
+  E: '13'
+  DP: '5'
+  PCT: '.879'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Enos
+  nameClub1: San Francisco
+  Pos: OF
+  G: '51'
+  PO: '88'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Restelli
+  nameClub1: San Francisco
+  Pos: OF
+  G: '30'
+  PO: '71'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Fernandes
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '29'
+  PO: '34'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Vias
+  nameClub1: Sacramento
+  Pos: OF
+  G: '13'
+  PO: '24'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Mazzera
+  nameClub1: San Diego
+  throws: L
+  Pos: OF
+  G: '12'
+  PO: '12'
+  A: '1'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Whipple
+  nameClub1: San Diego
+  Pos: OF
+  G: '43'
+  PO: '79'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.988'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Uhalt
+  nameClub1: San Francisco
+  Pos: OF
+  G: '155'
+  PO: '388'
+  A: '17'
+  E: '6'
+  DP: '4'
+  PCT: '.986'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Patchett
+  nameClub1: San Diego
+  Pos: OF
+  G: '121'
+  PO: '263'
+  A: '11'
+  E: '4'
+  DP: '2'
+  PCT: '.986'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Holder
+  nameClub1: Hollywood
+  Pos: OF
+  G: '161'
+  PO: '391'
+  A: '18'
+  E: '7'
+  DP: '6'
+  PCT: '.984'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Christopher
+  nameClub1: Seattle
+  Pos: OF
+  G: '113'
+  PO: '314'
+  A: '9'
+  E: '6'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Libke
+  nameClub1: Seattle
+  Pos: OF
+  G: '20'
+  PO: '50'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.982'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Garriott
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '165'
+  PO: '465'
+  A: '10'
+  E: '10'
+  DP: '0'
+  PCT: '.979'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Matheson
+  nameClub1: Seattle
+  Pos: OF
+  G: '90'
+  PO: '175'
+  A: '11'
+  E: '4'
+  DP: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Norbert
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '96'
+  PO: '170'
+  A: '6'
+  E: '4'
+  DP: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Kelleher
+  nameClub1: Hollywood
+  Pos: OF
+  G: '130'
+  PO: '321'
+  A: '24'
+  E: '8'
+  DP: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Scarsella
+  nameClub1: Oakland
+  throws: L
+  Pos: OF
+  G: '99'
+  PO: '221'
+  A: '21'
+  E: '6'
+  DP: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: DeWeese
+  nameClub1: Portland
+  Pos: OF
+  G: '88'
+  PO: '160'
+  A: '5'
+  E: '4'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ostrowski
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '65'
+  PO: '124'
+  A: '5'
+  E: '3'
+  DP: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hawkins
+  nameClub1: Oakland
+  Pos: OF
+  G: '92'
+  PO: '156'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Vezelich
+  nameClub1: San Diego
+  Pos: OF
+  G: '59'
+  PO: '115'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Anderson
+  nameClub1: Portland
+  Pos: OF
+  G: '20'
+  PO: '41'
+  A: '0'
+  E: '1'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Richardson
+  nameClub1: Hollywood
+  Pos: OF
+  G: '22'
+  PO: '36'
+  A: '5'
+  E: '1'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gill
+  nameClub1: Portland
+  Pos: OF
+  G: '111'
+  PO: '169'
+  A: '12'
+  E: '5'
+  DP: '2'
+  PCT: '.973'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Kats
+  nameClub1: Seattle
+  Pos: OF
+  G: '44'
+  PO: '101'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Thompson
+  nameClub1: San Diego
+  Pos: OF
+  G: '37'
+  PO: '68'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Carpenter
+  nameClub1: Seattle
+  Pos: OF
+  G: '106'
+  PO: '200'
+  A: '11'
+  E: '6'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Guintini
+  nameClub1: San Francisco
+  Pos: OF
+  G: '54'
+  PO: '101'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Demaree
+  nameClub1: Portland
+  Pos: OF
+  G: '27'
+  PO: '32'
+  A: '2'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ramsey
+  nameClub1: Sacramento
+  Pos: OF
+  G: '165'
+  PO: '434'
+  A: '10'
+  E: '14'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sauer
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '105'
+  PO: '192'
+  A: '2'
+  E: '6'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Devincenzi
+  nameClub1: Oakland
+  Pos: OF
+  G: '40'
+  PO: '63'
+  A: '1'
+  E: '2'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Rogers
+  nameClub1: Sacramento
+  Pos: OF
+  G: '45'
+  PO: '89'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.969'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Lazor
+  nameClub1: San Diego
+  Pos: OF
+  G: '34'
+  PO: '58'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Cox
+  nameClub1: Sacramento
+  Pos: OF
+  G: '17'
+  PO: '29'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Moore
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '18'
+  PO: '31'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Jones
+  nameClub1: Hollywood
+  Pos: OF
+  G: '100'
+  PO: '178'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Steinbacher
+  nameClub1: San Francisco
+  Pos: OF
+  G: '127'
+  PO: '227'
+  A: '7'
+  E: '8'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Harris
+  nameClub1: Portland
+  throws: L
+  Pos: OF
+  G: '100'
+  PO: '161'
+  A: '12'
+  E: '6'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Meyers
+  nameClub1: Hollywood
+  nameClub2: Sacramento
+  Pos: OF
+  G: '82'
+  PO: '139'
+  A: '7'
+  E: '5'
+  DP: '3'
+  PCT: '.967'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: McElreath
+  nameClub1: Sacramento
+  throws: L
+  Pos: OF
+  G: '111'
+  PO: '245'
+  A: '13'
+  E: '9'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Kreevich
+  nameClub1: Oakland
+  Pos: OF
+  G: '133'
+  PO: '353'
+  A: '12'
+  E: '13'
+  DP: '4'
+  PCT: '.966'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gonzales
+  nameClub1: Hollywood
+  Pos: OF
+  G: '29'
+  PO: '56'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.966'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gudat
+  nameClub1: San Diego
+  throws: L
+  Pos: OF
+  G: '74'
+  PO: '109'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Seattle
+  Pos: OF
+  G: '97'
+  PO: '157'
+  A: '9'
+  E: '6'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Steiner
+  nameFirst: M.
+  nameClub1: San Diego
+  nameClub2: Oakland
+  Pos: OF
+  G: '107'
+  PO: '197'
+  A: '7'
+  E: '8'
+  DP: '0'
+  PCT: '.962'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Mailho
+  nameClub1: Oakland
+  throws: L
+  Pos: OF
+  G: '117'
+  PO: '281'
+  A: '19'
+  E: '12'
+  DP: '5'
+  PCT: '.961'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hernandez
+  nameClub1: San Diego
+  Pos: OF
+  G: '28'
+  PO: '43'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.957'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Creeden
+  nameClub1: Seattle
+  Pos: OF
+  G: '52'
+  PO: '96'
+  A: '7'
+  E: '5'
+  DP: '2'
+  PCT: '.954'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hooper
+  nameClub1: San Francisco
+  Pos: OF
+  G: '51'
+  PO: '76'
+  A: '3'
+  E: '4'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ripple
+  nameClub1: Seattle
+  nameClub2: San Francisco
+  Pos: OF
+  G: '11'
+  PO: '20'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gullic
+  nameClub1: Portland
+  Pos: OF
+  G: '49'
+  PO: '103'
+  A: '10'
+  E: '6'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Shone
+  nameClub1: Portland
+  Pos: OF
+  G: '137'
+  PO: '342'
+  A: '20'
+  E: '19'
+  DP: '7'
+  PCT: '.950'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Angle
+  nameClub1: Sacramento
+  Pos: OF
+  G: '13'
+  PO: '35'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Abbott
+  nameClub1: San Diego
+  Pos: OF
+  G: '55'
+  PO: '100'
+  A: '6'
+  E: '6'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Powers
+  nameFirst: L.
+  nameClub1: Hollywood
+  throws: L
+  Pos: OF
+  G: '34'
+  PO: '48'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Salvatierra
+  nameClub1: Los Angeles
+  Pos: OF
+  G: '38'
+  PO: '58'
+  A: '4'
+  E: '4'
+  DP: '2'
+  PCT: '.940'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hafey
+  nameClub1: Oakland
+  Pos: OF
+  G: '16'
+  PO: '43'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.936'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Younker
+  nameClub1: Hollywood
+  Pos: OF
+  G: '30'
+  PO: '36'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.934'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Weigandt
+  nameClub1: Sacramento
+  Pos: OF
+  G: '29'
+  PO: '54'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.932'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Carroll
+  nameClub1: San Francisco
+  Pos: OF
+  G: '19'
+  PO: '32'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.919'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sheridan
+  nameClub1: San Francisco
+  Pos: OF
+  G: '38'
+  PO: '77'
+  A: '4'
+  E: '8'
+  DP: '0'
+  PCT: '.910'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Peterson
+  nameClub1: Portland
+  Pos: OF
+  G: '14'
+  PO: '26'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Skaff
+  nameClub1: Los Angeles
+  nameClub2: San Francisco
+  Pos: OF
+  G: '14'
+  PO: '16'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Turpin
+  nameClub1: Seattle
+  Pos: P
+  G: '31'
+  PO: '15'
+  A: '69'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Dreisewerd
+  nameClub1: Sacramento
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '12'
+  A: '44'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Speece
+  nameClub1: Seattle
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '48'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Intlekofer
+  nameClub1: Hollywood
+  Pos: P
+  G: '40'
+  PO: '11'
+  A: '40'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Pulford
+  nameClub1: Portland
+  Pos: P
+  G: '21'
+  PO: '9'
+  A: '31'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hanski
+  nameClub1: Hollywood
+  nameClub2: San Diego
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '6'
+  A: '27'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Beasley
+  nameClub1: Sacramento
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '26'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Wood
+  nameClub1: San Diego
+  Pos: P
+  G: '10'
+  PO: '6'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Mallory
+  nameClub1: Los Angeles
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '17'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Stein
+  nameClub1: Los Angeles
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Dumler
+  nameClub1: San Diego
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '16'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Kimball
+  nameClub1: Hollywood
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '11'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Phipps
+  nameClub1: Los Angeles
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '10'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Piercey
+  nameClub1: San Francisco
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: McClure
+  nameClub1: Seattle
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Windsor
+  nameClub1: Portland
+  Pos: P
+  G: '17'
+  PO: '0'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ott
+  nameClub1: Portland
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Tepler
+  nameClub1: Los Angeles
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Merkle
+  nameClub1: San Diego
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Phillips
+  nameClub1: Oakland
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Johnson
+  nameFirst: S.
+  nameClub1: Seattle
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ballou
+  nameClub1: San Francisco
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: LeGault
+  nameClub1: Sacramento
+  Pos: P
+  G: '30'
+  PO: '11'
+  A: '58'
+  E: '1'
+  DP: '2'
+  PCT: '.986'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameFirst: C.
+  nameClub1: Los Angeles
+  Pos: P
+  G: '44'
+  PO: '8'
+  A: '50'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Joyce
+  nameClub1: San Francisco
+  Pos: P
+  G: '41'
+  PO: '14'
+  A: '97'
+  E: '2'
+  DP: '8'
+  PCT: '.982'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Liska
+  nameClub1: Portland
+  Pos: P
+  G: '32'
+  PO: '15'
+  A: '38'
+  E: '1'
+  DP: '0'
+  PCT: '.982'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Helser
+  nameClub1: Portland
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '19'
+  A: '79'
+  E: '2'
+  DP: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Prim
+  nameClub1: Los Angeles
+  throws: L
+  Pos: P
+  G: '41'
+  PO: '11'
+  A: '79'
+  E: '2'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Powers
+  nameFirst: D.
+  nameClub1: Sacramento
+  Pos: P
+  G: '40'
+  PO: '10'
+  A: '31'
+  E: '1'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Kleinke
+  nameClub1: Oakland
+  nameClub2: San Diego
+  Pos: P
+  G: '30'
+  PO: '5'
+  A: '32'
+  E: '1'
+  DP: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gibson
+  nameClub1: San Francisco
+  Pos: P
+  G: '18'
+  PO: '6'
+  A: '27'
+  E: '1'
+  DP: '2'
+  PCT: '.971'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Fletcher
+  nameClub1: Sacramento
+  Pos: P
+  G: '38'
+  PO: '18'
+  A: '47'
+  E: '2'
+  DP: '4'
+  PCT: '.970'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Werle
+  nameClub1: San Francisco
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '9'
+  A: '79'
+  E: '3'
+  DP: '2'
+  PCT: '.968'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Osborn
+  nameClub1: Los Angeles
+  Pos: P
+  G: '42'
+  PO: '8'
+  A: '53'
+  E: '2'
+  DP: '5'
+  PCT: '.968'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Salvo
+  nameClub1: Oakland
+  Pos: P
+  G: '27'
+  PO: '16'
+  A: '43'
+  E: '2'
+  DP: '1'
+  PCT: '.963'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Escalante
+  nameClub1: Hollywood
+  Pos: P
+  G: '41'
+  PO: '12'
+  A: '58'
+  E: '3'
+  DP: '2'
+  PCT: '.959'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Stromme
+  nameClub1: Oakland
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '36'
+  E: '2'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Pieretti
+  nameClub1: Portland
+  Pos: P
+  G: '48'
+  PO: '22'
+  A: '87'
+  E: '5'
+  DP: '2'
+  PCT: '.956'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Pippen
+  nameClub1: Oakland
+  Pos: P
+  G: '23'
+  PO: '11'
+  A: '53'
+  E: '3'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sullivan
+  nameClub1: Portland
+  nameClub2: Oakland
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '33'
+  E: '2'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Babbitt
+  nameClub1: Sacramento
+  Pos: P
+  G: '32'
+  PO: '22'
+  A: '71'
+  E: '5'
+  DP: '4'
+  PCT: '.949'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sharp
+  nameClub1: Hollywood
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '7'
+  A: '30'
+  E: '2'
+  DP: '0'
+  PCT: '.949'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Cohen
+  nameClub1: Portland
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '10'
+  A: '40'
+  E: '3'
+  DP: '6'
+  PCT: '.944'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Conger
+  nameClub1: Los Angeles
+  Pos: P
+  G: '26'
+  PO: '7'
+  A: '42'
+  E: '3'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameClub1: Hollywood
+  Pos: P
+  G: '46'
+  PO: '4'
+  A: '29'
+  E: '2'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Lotz
+  nameClub1: Oakland
+  Pos: P
+  G: '37'
+  PO: '16'
+  A: '56'
+  E: '5'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Cecil
+  nameClub1: San Diego
+  Pos: P
+  G: '36'
+  PO: '9'
+  A: '47'
+  E: '4'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Porter
+  nameClub1: Sacramento
+  Pos: P
+  G: '30'
+  PO: '2'
+  A: '26'
+  E: '2'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Gables
+  nameClub1: Oakland
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Raimondi
+  nameFirst: A.
+  nameClub1: Oakland
+  Pos: P
+  G: '21'
+  PO: '0'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Tincup
+  nameClub1: Seattle
+  Pos: P
+  G: '32'
+  PO: '9'
+  A: '45'
+  E: '4'
+  DP: '2'
+  PCT: '.931'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Valenzuela
+  nameClub1: San Diego
+  Pos: P
+  G: '36'
+  PO: '10'
+  A: '43'
+  E: '4'
+  DP: '0'
+  PCT: '.930'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Dasso
+  nameClub1: San Diego
+  Pos: P
+  G: '40'
+  PO: '9'
+  A: '55'
+  E: '5'
+  DP: '1'
+  PCT: '.928'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hufford
+  nameClub1: Hollywood
+  Pos: P
+  G: '36'
+  PO: '13'
+  A: '37'
+  E: '4'
+  DP: '3'
+  PCT: '.926'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Demoran
+  nameClub1: Seattle
+  Pos: P
+  G: '38'
+  PO: '18'
+  A: '79'
+  E: '8'
+  DP: '4'
+  PCT: '.924'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Johnson
+  nameFirst: C.
+  nameClub1: San Diego
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '42'
+  E: '4'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Comellas
+  nameClub1: Los Angeles
+  Pos: P
+  G: '41'
+  PO: '11'
+  A: '57'
+  E: '6'
+  DP: '2'
+  PCT: '.919'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Mishasek
+  nameClub1: Hollywood
+  Pos: P
+  G: '39'
+  PO: '9'
+  A: '24'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Fischer
+  nameClub1: Seattle
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '8'
+  A: '46'
+  E: '5'
+  DP: '1'
+  PCT: '.915'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Babich
+  nameClub1: Seattle
+  Pos: P
+  G: '22'
+  PO: '9'
+  A: '34'
+  E: '4'
+  DP: '3'
+  PCT: '.915'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Seats
+  nameClub1: San Francisco
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '14'
+  A: '70'
+  E: '8'
+  DP: '2'
+  PCT: '.913'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Root
+  nameClub1: Hollywood
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '19'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Elliott
+  nameClub1: Seattle
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '5'
+  A: '34'
+  E: '4'
+  DP: '1'
+  PCT: '.907'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Weldon
+  nameClub1: Hollywood
+  Pos: P
+  G: '34'
+  PO: '7'
+  A: '32'
+  E: '4'
+  DP: '2'
+  PCT: '.907'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Pillette
+  nameClub1: Sacramento
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Horton
+  nameClub1: Los Angeles
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Brillheart
+  nameClub1: San Diego
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '8'
+  A: '39'
+  E: '6'
+  DP: '0'
+  PCT: '.887'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Federmeyer
+  nameClub1: Portland
+  Pos: P
+  G: '38'
+  PO: '2'
+  A: '34'
+  E: '5'
+  DP: '1'
+  PCT: '.878'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hayes
+  nameClub1: Oakland
+  Pos: P
+  G: '16'
+  PO: '10'
+  A: '21'
+  E: '5'
+  DP: '1'
+  PCT: '.861'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Mossor
+  nameClub1: Portland
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Blanton
+  nameClub1: Hollywood
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Harrell
+  nameClub1: San Francisco
+  Pos: P
+  G: '44'
+  PO: '6'
+  A: '44'
+  E: '10'
+  DP: '3'
+  PCT: '.833'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Embree
+  nameClub1: Hollywood
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Campbell
+  nameFirst: A.
+  nameClub1: Oakland
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.778'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Flowers
+  nameClub1: San Francisco
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Salkeld
+  nameClub1: San Diego
+  Pos: C
+  G: '102'
+  PO: '530'
+  A: '73'
+  E: '5'
+  DP: '14'
+  PB: '5'
+  PCT: '.992'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Campbell
+  nameFirst: W.
+  nameClub1: Portland
+  nameClub2: Oakland
+  Pos: C
+  G: '62'
+  PO: '230'
+  A: '19'
+  E: '2'
+  DP: '1'
+  PB: '7'
+  PCT: '.992'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sueme
+  nameClub1: Seattle
+  Pos: C
+  G: '95'
+  PO: '347'
+  A: '56'
+  E: '5'
+  DP: '7'
+  PB: '0'
+  PCT: '.988'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Fernandes
+  nameClub1: Los Angeles
+  Pos: C
+  G: '94'
+  PO: '360'
+  A: '48'
+  E: '6'
+  DP: '4'
+  PB: '6'
+  PCT: '.986'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Steiner
+  nameFirst: J.
+  nameClub1: Sacramento
+  Pos: C
+  G: '94'
+  PO: '360'
+  A: '66'
+  E: '7'
+  DP: '7'
+  PB: '2'
+  PCT: '.984'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Marcucci
+  nameClub1: Sacramento
+  Pos: C
+  G: '46'
+  PO: '135'
+  A: '20'
+  E: '3'
+  DP: '4'
+  PB: '5'
+  PCT: '.981'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Fenech
+  nameClub1: Oakland
+  Pos: C
+  G: '21'
+  PO: '46'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PB: '0'
+  PCT: '.981'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sprinz
+  nameClub1: San Francisco
+  Pos: C
+  G: '91'
+  PO: '347'
+  A: '75'
+  E: '9'
+  DP: '6'
+  PB: '8'
+  PCT: '.979'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ogrodowski
+  nameClub1: San Francisco
+  Pos: C
+  G: '86'
+  PO: '344'
+  A: '49'
+  E: '9'
+  DP: '6'
+  PB: '3'
+  PCT: '.978'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Spindel
+  nameClub1: Seattle
+  Pos: C
+  G: '61'
+  PO: '236'
+  A: '33'
+  E: '6'
+  DP: '5'
+  PB: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameFirst: E.
+  nameClub1: Portland
+  Pos: C
+  G: '111'
+  PO: '448'
+  A: '69'
+  E: '12'
+  DP: '5'
+  PB: '6'
+  PCT: '.977'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Younker
+  nameClub1: Hollywood
+  Pos: C
+  G: '64'
+  PO: '221'
+  A: '37'
+  E: '6'
+  DP: '7'
+  PB: '8'
+  PCT: '.977'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Ballinger
+  nameClub1: San Diego
+  Pos: C
+  G: '77'
+  PO: '377'
+  A: '45'
+  E: '11'
+  DP: '3'
+  PB: '5'
+  PCT: '.975'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Raimondi
+  nameFirst: W.
+  nameClub1: Oakland
+  Pos: C
+  G: '136'
+  PO: '467'
+  A: '91'
+  E: '16'
+  DP: '11'
+  PB: '5'
+  PCT: '.972'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Sarni
+  nameClub1: Los Angeles
+  Pos: C
+  G: '87'
+  PO: '301'
+  A: '35'
+  E: '10'
+  DP: '8'
+  PB: '5'
+  PCT: '.971'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Rossi
+  nameClub1: Sacramento
+  Pos: C
+  G: '45'
+  PO: '169'
+  A: '32'
+  E: '6'
+  DP: '5'
+  PB: '3'
+  PCT: '.971'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Norager
+  nameClub1: Portland
+  Pos: C
+  G: '45'
+  PO: '105'
+  A: '20'
+  E: '4'
+  DP: '4'
+  PB: '4'
+  PCT: '.969'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Buonarigo
+  nameClub1: Seattle
+  nameClub2: Hollywood
+  Pos: C
+  G: '31'
+  PO: '86'
+  A: '14'
+  E: '4'
+  DP: '2'
+  PB: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Grigg
+  nameClub1: Los Angeles
+  Pos: C
+  G: '16'
+  PO: '43'
+  A: '5'
+  E: '2'
+  DP: '3'
+  PB: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Lorenz
+  nameClub1: Oakland
+  Pos: C
+  G: '22'
+  PO: '77'
+  A: '10'
+  E: '4'
+  DP: '2'
+  PB: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1944'
+  nameLeague: Pacific Coast League
+  nameLast: Hill
+  nameClub1: Hollywood
+  Pos: C
+  G: '105'
+  PO: '376'
+  A: '75'
+  E: '23'
+  DP: '4'
+  PB: '8'
+  PCT: '.952'
+  TP: '0'

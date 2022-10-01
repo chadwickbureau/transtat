@@ -1,0 +1,128 @@
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Paducah
+  phase: regular/first
+  W: '41'
+  L: '19'
+  PCT: '.683'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: regular/first
+  W: '34'
+  L: '25'
+  PCT: '.576'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: regular/first
+  W: '35'
+  L: '26'
+  PCT: '.574'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Lexington
+  phase: regular/first
+  W: '32'
+  L: '31'
+  PCT: '.508'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Jackson
+  phase: regular/first
+  W: '28'
+  L: '31'
+  PCT: '.475'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: regular/first
+  W: '28'
+  L: '33'
+  PCT: '.459'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Portageville
+  phase: regular/first
+  W: '26'
+  L: '35'
+  PCT: '.426'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: regular/first
+  W: '19'
+  L: '43'
+  PCT: '.306'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Union City
+  phase: regular/second
+  W: '39'
+  L: '20'
+  PCT: '.661'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Lexington
+  phase: regular/second
+  W: '36'
+  L: '21'
+  PCT: '.632'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Jackson
+  phase: regular/second
+  W: '34'
+  L: '24'
+  PCT: '.586'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Paducah
+  phase: regular/second
+  W: '32'
+  L: '26'
+  PCT: '.552'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Fulton
+  phase: regular/second
+  W: '28'
+  L: '30'
+  PCT: '.483'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Owensboro
+  phase: regular/second
+  W: '26'
+  L: '32'
+  PCT: '.448'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Mayfield
+  phase: regular/second
+  W: '18'
+  L: '39'
+  PCT: '.316'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Kentucky-Illinois-Tennessee League
+  nameClub: Hopkinsville
+  phase: regular/second
+  W: '18'
+  L: '39'
+  PCT: '.316'
+  RANK: '7'

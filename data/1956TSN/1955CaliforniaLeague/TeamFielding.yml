@@ -1,0 +1,80 @@
+- year: '1955'
+  nameLeague: California League
+  nameClub: San Jose
+  G: '147'
+  DP: '122'
+  PB: '25'
+  PO: '3849'
+  A: '1454'
+  E: '202'
+  PCT: '.963'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Stockton
+  G: '147'
+  DP: '119'
+  PB: '17'
+  PO: '3845'
+  A: '1564'
+  E: '216'
+  PCT: '.962'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Modesto
+  G: '149'
+  DP: '137'
+  PB: '25'
+  PO: '3838'
+  A: '1574'
+  E: '219'
+  PCT: '.961'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Bakersfield
+  G: '147'
+  DP: '141'
+  PB: '23'
+  PO: '3837'
+  A: '1561'
+  E: '262'
+  PCT: '.954'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Fresno
+  G: '147'
+  DP: '132'
+  PB: '14'
+  PO: '3807'
+  A: '1475'
+  E: '257'
+  PCT: '.954'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Visalia
+  G: '147'
+  DP: '111'
+  PB: '20'
+  PO: '3757'
+  A: '1529'
+  E: '274'
+  PCT: '.951'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Salinas
+  G: '146'
+  DP: '151'
+  PB: '30'
+  PO: '3765'
+  A: '1431'
+  E: '308'
+  PCT: '.944'
+- year: '1955'
+  nameLeague: California League
+  nameClub: Channel Cities/Reno
+  G: '146'
+  DP: '130'
+  PB: '12'
+  PO: '3681'
+  A: '1608'
+  E: '319'
+  PCT: '.943'

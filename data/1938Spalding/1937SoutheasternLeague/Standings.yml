@@ -1,0 +1,94 @@
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: regular
+  W: '83'
+  L: '52'
+  PCT: '.615'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  phase: regular
+  W: '78'
+  L: '57'
+  PCT: '.578'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Mobile
+  phase: regular
+  W: '77'
+  L: '59'
+  PCT: '.566'
+  RANK: '3'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: regular
+  W: '61'
+  L: '75'
+  PCT: '.449'
+  RANK: '4'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Meridian
+  phase: regular
+  W: '58'
+  L: '78'
+  PCT: '.426'
+  RANK: '5'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  phase: regular
+  W: '51'
+  L: '87'
+  PCT: '.370'
+  RANK: '6'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Mobile
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '2'
+  RANK: '2'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Mobile
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,118 @@
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular
+  W: '87'
+  L: '52'
+  T: '1'
+  PCT: '.626'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '85'
+  L: '55'
+  T: '0'
+  PCT: '.607'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular
+  W: '72'
+  L: '65'
+  T: '0'
+  PCT: '.526'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular
+  W: '68'
+  L: '70'
+  T: '1'
+  PCT: '.493'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '66'
+  L: '72'
+  T: '1'
+  PCT: '.478'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: regular
+  W: '63'
+  L: '74'
+  T: '1'
+  PCT: '.460'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Tifton
+  phase: regular
+  W: '59'
+  L: '80'
+  T: '0'
+  PCT: '.424'
+  RANK: '7'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie
+  phase: regular
+  W: '53'
+  L: '85'
+  T: '0'
+  PCT: '.384'
+  RANK: '8'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '3'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: final
+  W: '1'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: final
+  W: '1'
+  L: '1'
+  RANK: '2'

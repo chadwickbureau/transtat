@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Greenville
+  G: '140'
+  DP: '118'
+  TP: '0'
+  PB: '17'
+  PO: '3737'
+  A: '1455'
+  E: '191'
+  PCT: '.965'
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Savannah
+  G: '136'
+  DP: '85'
+  TP: '0'
+  PB: '30'
+  PO: '3463'
+  A: '1459'
+  E: '241'
+  PCT: '.953'
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Augusta
+  G: '140'
+  DP: '105'
+  TP: '0'
+  PB: '26'
+  PO: '3718'
+  A: '1428'
+  E: '262'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Jacksonville
+  G: '140'
+  DP: '100'
+  TP: '0'
+  PB: '28'
+  PO: '3657'
+  A: '1544'
+  E: '260'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Columbia
+  G: '140'
+  DP: '86'
+  TP: '0'
+  PB: '22'
+  PO: '3674'
+  A: '1477'
+  E: '259'
+  PCT: '.952'
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Columbus
+  G: '139'
+  DP: '102'
+  TP: '0'
+  PB: '19'
+  PO: '3645'
+  A: '1488'
+  E: '267'
+  PCT: '.951'
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Charleston
+  G: '141'
+  DP: '86'
+  TP: '1'
+  PB: '21'
+  PO: '3642'
+  A: '1544'
+  E: '276'
+  PCT: '.949'
+- year: '1946'
+  nameLeague: South Atlantic League
+  nameClub: Macon
+  G: '140'
+  DP: '108'
+  TP: '0'
+  PB: '22'
+  PO: '3666'
+  A: '1572'
+  E: '312'
+  PCT: '.944'

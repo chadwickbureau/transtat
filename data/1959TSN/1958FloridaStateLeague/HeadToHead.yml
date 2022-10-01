@@ -1,0 +1,63 @@
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  Daytona Beach: '15'
+  Palatka: '17'
+  Tampa: '18'
+  Cocoa: '16'
+  Orlando: '20'
+  Gainesville: '15'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  St. Petersburg: '8'
+  Palatka: '13'
+  Tampa: '12'
+  Cocoa: '15'
+  Orlando: '15'
+  Gainesville: '16'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  St. Petersburg: '7'
+  Daytona Beach: '10'
+  Tampa: '11'
+  Cocoa: '13'
+  Orlando: '16'
+  Gainesville: '19'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Tampa
+  St. Petersburg: '6'
+  Daytona Beach: '11'
+  Palatka: '13'
+  Cocoa: '13'
+  Orlando: '14'
+  Gainesville: '17'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  St. Petersburg: '8'
+  Daytona Beach: '9'
+  Palatka: '10'
+  Tampa: '11'
+  Orlando: '11'
+  Gainesville: '15'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  St. Petersburg: '4'
+  Daytona Beach: '8'
+  Palatka: '7'
+  Tampa: '10'
+  Cocoa: '12'
+  Gainesville: '10'
+- year: '1958'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  St. Petersburg: '9'
+  Daytona Beach: '5'
+  Palatka: '5'
+  Tampa: '7'
+  Cocoa: '9'
+  Orlando: '12'

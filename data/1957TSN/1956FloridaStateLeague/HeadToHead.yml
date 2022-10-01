@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Cocoa
+  Gainesville: '14'
+  West Palm Beach: '9'
+  Daytona Beach: '14'
+  Palatka: '16'
+  St. Petersburg: '13'
+  Leesburg: '10'
+  Orlando: '14'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  Cocoa: '6'
+  West Palm Beach: '11'
+  Daytona Beach: '11'
+  Palatka: '13'
+  St. Petersburg: '13'
+  Leesburg: '14'
+  Orlando: '13'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: West Palm Beach
+  Cocoa: '11'
+  Gainesville: '9'
+  Daytona Beach: '12'
+  Palatka: '10'
+  St. Petersburg: '16'
+  Leesburg: '11'
+  Orlando: '12'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  Cocoa: '6'
+  Gainesville: '7'
+  West Palm Beach: '8'
+  Palatka: '11'
+  St. Petersburg: '13'
+  Leesburg: '17'
+  Orlando: '10'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  Cocoa: '4'
+  Gainesville: '6'
+  West Palm Beach: '10'
+  Daytona Beach: '9'
+  St. Petersburg: '7'
+  Leesburg: '12'
+  Orlando: '11'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: St. Petersburg
+  Cocoa: '7'
+  Gainesville: '7'
+  West Palm Beach: '4'
+  Daytona Beach: '7'
+  Palatka: '13'
+  Leesburg: '10'
+  Orlando: '11'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  Cocoa: '10'
+  Gainesville: '6'
+  West Palm Beach: '9'
+  Daytona Beach: '3'
+  Palatka: '8'
+  St. Petersburg: '10'
+  Orlando: '12'
+- year: '1956'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  Cocoa: '6'
+  Gainesville: '7'
+  West Palm Beach: '7'
+  Daytona Beach: '9'
+  Palatka: '9'
+  St. Petersburg: '9'
+  Leesburg: '8'

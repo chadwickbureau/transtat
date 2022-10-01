@@ -1,0 +1,48 @@
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Nuevo Laredo
+  Mexico City Reds: '14'
+  Yucatan: '13'
+  Monterrey: '14'
+  Mexico City Tigers: '15'
+  Poza Rica: '19'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Mexico City Reds
+  Nuevo Laredo: '10'
+  Yucatan: '12'
+  Monterrey: '11'
+  Mexico City Tigers: '15'
+  Poza Rica: '17'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Yucatan
+  Nuevo Laredo: '11'
+  Mexico City Reds: '12'
+  Monterrey: '11'
+  Mexico City Tigers: '15'
+  Poza Rica: '11'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Monterrey
+  Nuevo Laredo: '10'
+  Mexico City Reds: '13'
+  Yucatan: '13'
+  Mexico City Tigers: '11'
+  Poza Rica: '9'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Mexico City Tigers
+  Nuevo Laredo: '9'
+  Mexico City Reds: '9'
+  Yucatan: '9'
+  Monterrey: '13'
+  Poza Rica: '12'
+- year: '1958'
+  nameLeague: Mexican League
+  nameClub: Poza Rica
+  Nuevo Laredo: '5'
+  Mexico City Reds: '7'
+  Yucatan: '13'
+  Monterrey: '15'
+  Mexico City Tigers: '12'

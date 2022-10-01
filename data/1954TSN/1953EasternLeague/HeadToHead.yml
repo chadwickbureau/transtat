@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Reading
+  Binghamton: '12'
+  Schenectady: '11'
+  Albany: '15'
+  Elmira: '15'
+  Williamsport: '15'
+  Wilkes-Barre: '15'
+  Scranton: '18'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  Reading: '9'
+  Schenectady: '12'
+  Albany: '12'
+  Elmira: '12'
+  Williamsport: '15'
+  Wilkes-Barre: '20'
+  Scranton: '16'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  Reading: '11'
+  Binghamton: '10'
+  Albany: '13'
+  Elmira: '12'
+  Williamsport: '13'
+  Wilkes-Barre: '12'
+  Scranton: '15'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Albany
+  Reading: '7'
+  Binghamton: '10'
+  Schenectady: '7'
+  Elmira: '14'
+  Williamsport: '12'
+  Wilkes-Barre: '13'
+  Scranton: '15'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  Reading: '7'
+  Binghamton: '8'
+  Schenectady: '10'
+  Albany: '8'
+  Williamsport: '12'
+  Wilkes-Barre: '12'
+  Scranton: '13'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  Reading: '3'
+  Binghamton: '7'
+  Schenectady: '9'
+  Albany: '10'
+  Elmira: '10'
+  Wilkes-Barre: '14'
+  Scranton: '12'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  Reading: '6'
+  Binghamton: '2'
+  Schenectady: '10'
+  Albany: '9'
+  Elmira: '8'
+  Williamsport: '8'
+  Scranton: '11'
+- year: '1953'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  Reading: '4'
+  Binghamton: '6'
+  Schenectady: '6'
+  Albany: '7'
+  Elmira: '9'
+  Williamsport: '10'
+  Wilkes-Barre: '9'

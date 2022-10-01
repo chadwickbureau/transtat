@@ -1,0 +1,118 @@
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: regular
+  W: '84'
+  L: '54'
+  T: '3'
+  PCT: '.609'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '81'
+  L: '58'
+  T: '2'
+  PCT: '.583'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: regular
+  W: '80'
+  L: '59'
+  T: '1'
+  PCT: '.576'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  phase: regular
+  W: '70'
+  L: '67'
+  T: '0'
+  PCT: '.511'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Syracuse
+  phase: regular
+  W: '62'
+  L: '77'
+  T: '0'
+  PCT: '.446'
+  RANK: '5'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '61'
+  L: '77'
+  T: '0'
+  PCT: '.442'
+  RANK: '6'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  W: '60'
+  L: '78'
+  T: '2'
+  PCT: '.435'
+  RANK: '7'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Johnstown
+  phase: regular
+  W: '55'
+  L: '83'
+  T: '2'
+  PCT: '.399'
+  RANK: '8'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Allentown
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '3'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '4'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Schenectady
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: Eastern League
+  nameClub: Reading
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

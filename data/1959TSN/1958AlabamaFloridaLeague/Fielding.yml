@@ -1,0 +1,2907 @@
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hopey
+  nameClub1: Columbus
+  throws: L
+  Pos: 1B
+  G: '14'
+  PO: '97'
+  A: '3'
+  E: '0'
+  DP: '8'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Swanson
+  nameClub1: Graceville
+  Pos: 1B
+  G: '42'
+  PO: '316'
+  A: '17'
+  E: '3'
+  DP: '34'
+  PCT: '.991'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Elsner
+  nameClub1: Graceville
+  throws: L
+  Pos: 1B
+  G: '63'
+  PO: '417'
+  A: '24'
+  E: '6'
+  DP: '34'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Dunn
+  nameClub1: Dothan
+  Pos: 1B
+  G: '60'
+  PO: '415'
+  A: '24'
+  E: '6'
+  DP: '39'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilson
+  nameClub1: Fort Walton Beach
+  nameClub2: Pensacola
+  Pos: 1B
+  G: '45'
+  PO: '357'
+  A: '26'
+  E: '5'
+  DP: '21'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Mango
+  nameClub1: Pensacola
+  throws: L
+  Pos: 1B
+  G: '120'
+  PO: '992'
+  A: '103'
+  E: '18'
+  DP: '87'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Kuehl
+  nameClub1: Dothan
+  Pos: 1B
+  G: '12'
+  PO: '52'
+  A: '3'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Patterson
+  nameClub1: Panama City
+  nameClub2: Fort Walton Beach
+  throws: L
+  Pos: 1B
+  G: '10'
+  PO: '52'
+  A: '3'
+  E: '1'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Magi
+  nameClub1: Fort Walton Beach
+  Pos: 1B
+  G: '79'
+  PO: '585'
+  A: '48'
+  E: '12'
+  DP: '62'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Payne
+  nameClub1: Dothan
+  nameClub2: Selma
+  throws: L
+  Pos: 1B
+  G: '95'
+  PO: '760'
+  A: '37'
+  E: '16'
+  DP: '62'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilcox
+  nameClub1: Selma
+  Pos: 1B
+  G: '89'
+  PO: '666'
+  A: '50'
+  E: '15'
+  DP: '64'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Smith
+  nameClub1: Montgomery
+  Pos: 1B
+  G: '124'
+  PO: '1028'
+  A: '77'
+  E: '25'
+  DP: '88'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Tapp
+  nameClub1: Graceville
+  Pos: 1B
+  G: '18'
+  PO: '122'
+  A: '6'
+  E: '3'
+  DP: '12'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: McCarthy
+  nameClub1: Panama City
+  throws: L
+  Pos: 1B
+  G: '38'
+  PO: '272'
+  A: '17'
+  E: '7'
+  DP: '25'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Adair
+  nameClub1: Panama City
+  throws: L
+  Pos: 1B
+  G: '18'
+  PO: '137'
+  A: '11'
+  E: '4'
+  DP: '10'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Fletcher
+  nameClub1: Columbus
+  throws: L
+  Pos: 1B
+  G: '108'
+  PO: '905'
+  A: '56'
+  E: '27'
+  DP: '88'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Schultheis
+  nameClub1: Panama City
+  Pos: 1B
+  G: '42'
+  PO: '267'
+  A: '15'
+  E: '13'
+  DP: '16'
+  PCT: '.956'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Brightwell
+  nameClub1: Panama City
+  Pos: 1B
+  G: '16'
+  PO: '93'
+  A: '8'
+  E: '7'
+  DP: '7'
+  PCT: '.935'
+  TP: '1'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Weltman
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '12'
+  PO: '34'
+  A: '29'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Scott
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '65'
+  PO: '165'
+  A: '175'
+  E: '8'
+  DP: '45'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Fandozzi
+  nameClub1: Graceville
+  Pos: 2B
+  G: '78'
+  PO: '180'
+  A: '170'
+  E: '12'
+  DP: '50'
+  PCT: '.967'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Jantze
+  nameClub1: Dothan
+  Pos: 2B
+  G: '68'
+  PO: '142'
+  A: '144'
+  E: '10'
+  DP: '41'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Zarza
+  nameClub1: Fort Walton Beach
+  Pos: 2B
+  G: '98'
+  PO: '259'
+  A: '183'
+  E: '19'
+  DP: '45'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Traill
+  nameClub1: Selma
+  Pos: 2B
+  G: '117'
+  PO: '301'
+  A: '316'
+  E: '29'
+  DP: '78'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Snipp
+  nameClub1: Columbus
+  Pos: 2B
+  G: '100'
+  PO: '251'
+  A: '271'
+  E: '27'
+  DP: '69'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Clark
+  nameClub1: Panama City
+  Pos: 2B
+  G: '66'
+  PO: '143'
+  A: '158'
+  E: '16'
+  DP: '30'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Nicholas
+  nameClub1: Panama City
+  Pos: 2B
+  G: '32'
+  PO: '72'
+  A: '60'
+  E: '7'
+  DP: '15'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hubbard
+  nameClub1: Fort Walton Beach
+  Pos: 2B
+  G: '29'
+  PO: '72'
+  A: '74'
+  E: '10'
+  DP: '17'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lacoste
+  nameClub1: Columbus
+  Pos: 2B
+  G: '22'
+  PO: '52'
+  A: '65'
+  E: '8'
+  DP: '17'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Farschman
+  nameClub1: Montgomery
+  Pos: 2B
+  G: '60'
+  PO: '163'
+  A: '146'
+  E: '22'
+  DP: '28'
+  PCT: '.934'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Birri
+  nameFirst: F.
+  nameClub1: Graceville
+  Pos: 2B
+  G: '52'
+  PO: '128'
+  A: '99'
+  E: '16'
+  DP: '21'
+  PCT: '.934'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Moore
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '48'
+  PO: '125'
+  A: '133'
+  E: '19'
+  DP: '33'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Caputo
+  nameClub1: Pensacola
+  Pos: 2B
+  G: '67'
+  PO: '165'
+  A: '169'
+  E: '25'
+  DP: '43'
+  PCT: '.930'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Siford
+  nameClub1: Dothan
+  Pos: 2B
+  G: '25'
+  PO: '49'
+  A: '51'
+  E: '10'
+  DP: '10'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Dunn
+  nameClub1: Dothan
+  Pos: 2B
+  G: '30'
+  PO: '90'
+  A: '69'
+  E: '18'
+  DP: '23'
+  PCT: '.898'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Kraft
+  nameClub1: Panama City
+  Pos: 2B
+  G: '17'
+  PO: '40'
+  A: '30'
+  E: '8'
+  DP: '5'
+  PCT: '.897'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Gray
+  nameClub1: Montgomery
+  Pos: 3B
+  G: '17'
+  PO: '13'
+  A: '34'
+  E: '1'
+  DP: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Schultz
+  nameClub1: Columbus
+  Pos: 3B
+  G: '14'
+  PO: '14'
+  A: '26'
+  E: '1'
+  DP: '0'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Miller
+  nameClub1: Panama City
+  Pos: 3B
+  G: '21'
+  PO: '23'
+  A: '35'
+  E: '3'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Stogoski
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '10'
+  PO: '13'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Scerbo
+  nameClub1: Dothan
+  Pos: 3B
+  G: '26'
+  PO: '18'
+  A: '37'
+  E: '5'
+  DP: '3'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Izquierdo
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '72'
+  PO: '67'
+  A: '123'
+  E: '18'
+  DP: '9'
+  PCT: '.913'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Strange
+  nameClub1: Montgomery
+  Pos: 3B
+  G: '65'
+  PO: '40'
+  A: '78'
+  E: '12'
+  DP: '9'
+  PCT: '.908'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Plath
+  nameClub1: Columbus
+  Pos: 3B
+  G: '44'
+  PO: '40'
+  A: '93'
+  E: '15'
+  DP: '10'
+  PCT: '.899'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Schnellbaecher
+  nameClub1: Dothan
+  Pos: 3B
+  G: '13'
+  PO: '15'
+  A: '27'
+  E: '5'
+  DP: '3'
+  PCT: '.894'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hubbard
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '27'
+  PO: '17'
+  A: '41'
+  E: '7'
+  DP: '6'
+  PCT: '.892'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Tisci
+  nameClub1: Selma
+  Pos: 3B
+  G: '114'
+  PO: '107'
+  A: '234'
+  E: '42'
+  DP: '18'
+  PCT: '.890'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hoth
+  nameClub1: Dothan
+  Pos: 3B
+  G: '80'
+  PO: '98'
+  A: '173'
+  E: '35'
+  DP: '18'
+  PCT: '.886'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Wollrab
+  nameClub1: Panama City
+  Pos: 3B
+  G: '37'
+  PO: '30'
+  A: '55'
+  E: '11'
+  DP: '6'
+  PCT: '.885'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Gaudette
+  nameClub1: Graceville
+  Pos: 3B
+  G: '37'
+  PO: '26'
+  A: '58'
+  E: '13'
+  DP: '6'
+  PCT: '.866'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Burleson
+  nameClub1: Montgomery
+  Pos: 3B
+  G: '35'
+  PO: '33'
+  A: '70'
+  E: '17'
+  DP: '4'
+  PCT: '.858'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Whitehead
+  nameClub1: Pensacola
+  Pos: 3B
+  G: '116'
+  PO: '113'
+  A: '214'
+  E: '55'
+  DP: '25'
+  PCT: '.856'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lacoste
+  nameClub1: Columbus
+  Pos: 3B
+  G: '24'
+  PO: '24'
+  A: '46'
+  E: '12'
+  DP: '6'
+  PCT: '.854'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Birri
+  nameFirst: F.
+  nameClub1: Graceville
+  Pos: 3B
+  G: '78'
+  PO: '62'
+  A: '119'
+  E: '33'
+  DP: '11'
+  PCT: '.846'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Ferrell
+  nameClub1: Fort Walton Beach
+  Pos: 3B
+  G: '20'
+  PO: '21'
+  A: '32'
+  E: '10'
+  DP: '3'
+  PCT: '.841'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Kanapkey
+  nameClub1: Columbus
+  Pos: 3B
+  G: '28'
+  PO: '25'
+  A: '49'
+  E: '15'
+  DP: '5'
+  PCT: '.831'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Applegate
+  nameClub1: Panama City
+  Pos: 3B
+  G: '34'
+  PO: '39'
+  A: '51'
+  E: '20'
+  DP: '3'
+  PCT: '.818'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Miller
+  nameClub1: Columbus
+  Pos: 3B
+  G: '17'
+  PO: '13'
+  A: '21'
+  E: '11'
+  DP: '2'
+  PCT: '.756'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Scott
+  nameClub1: Columbus
+  Pos: SS
+  G: '54'
+  PO: '91'
+  A: '175'
+  E: '13'
+  DP: '31'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Snipp
+  nameClub1: Columbus
+  Pos: SS
+  G: '23'
+  PO: '44'
+  A: '56'
+  E: '7'
+  DP: '17'
+  PCT: '.935'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Suarez
+  nameClub1: Dothan
+  Pos: SS
+  G: '26'
+  PO: '44'
+  A: '60'
+  E: '8'
+  DP: '10'
+  PCT: '.929'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Scerbo
+  nameClub1: Dothan
+  Pos: SS
+  G: '50'
+  PO: '81'
+  A: '144'
+  E: '19'
+  DP: '25'
+  PCT: '.922'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hill
+  nameClub1: Fort Walton Beach
+  Pos: SS
+  G: '95'
+  PO: '176'
+  A: '255'
+  E: '44'
+  DP: '48'
+  PCT: '.907'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hughes
+  nameClub1: Pensacola
+  Pos: SS
+  G: '43'
+  PO: '75'
+  A: '130'
+  E: '21'
+  DP: '23'
+  PCT: '.907'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Zarza
+  nameClub1: Fort Walton Beach
+  Pos: SS
+  G: '25'
+  PO: '43'
+  A: '69'
+  E: '12'
+  DP: '9'
+  PCT: '.903'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Burttram
+  nameClub1: Montgomery
+  Pos: SS
+  G: '58'
+  PO: '97'
+  A: '128'
+  E: '25'
+  DP: '27'
+  PCT: '.900'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Spiers
+  nameClub1: Selma
+  Pos: SS
+  G: '30'
+  PO: '41'
+  A: '79'
+  E: '14'
+  DP: '14'
+  PCT: '.896'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Moore
+  nameClub1: Pensacola
+  Pos: SS
+  G: '74'
+  PO: '120'
+  A: '179'
+  E: '35'
+  DP: '40'
+  PCT: '.895'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Carothers
+  nameClub1: Selma
+  Pos: SS
+  G: '72'
+  PO: '102'
+  A: '178'
+  E: '34'
+  DP: '40'
+  PCT: '.892'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Plath
+  nameClub1: Columbus
+  Pos: SS
+  G: '15'
+  PO: '12'
+  A: '27'
+  E: '5'
+  DP: '5'
+  PCT: '.886'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Harrison
+  nameClub1: Graceville
+  Pos: SS
+  G: '122'
+  PO: '221'
+  A: '212'
+  E: '58'
+  DP: '66'
+  PCT: '.882'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Rodriguez
+  nameClub1: Panama City
+  Pos: SS
+  G: '115'
+  PO: '206'
+  A: '263'
+  E: '67'
+  DP: '47'
+  PCT: '.875'
+  TP: '1'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Pressick
+  nameClub1: Montgomery
+  Pos: SS
+  G: '30'
+  PO: '56'
+  A: '63'
+  E: '17'
+  DP: '10'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Siford
+  nameClub1: Dothan
+  Pos: SS
+  G: '20'
+  PO: '34'
+  A: '35'
+  E: '10'
+  DP: '10'
+  PCT: '.873'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Whitekiller
+  nameClub1: Dothan
+  Pos: SS
+  G: '22'
+  PO: '32'
+  A: '64'
+  E: '15'
+  DP: '9'
+  PCT: '.865'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Caesar
+  nameClub1: Columbus
+  Pos: SS
+  G: '18'
+  PO: '26'
+  A: '35'
+  E: '10'
+  DP: '7'
+  PCT: '.859'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Strange
+  nameClub1: Montgomery
+  Pos: SS
+  G: '15'
+  PO: '23'
+  A: '37'
+  E: '10'
+  DP: '6'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Gubicza
+  nameClub1: Selma
+  Pos: SS
+  G: '18'
+  PO: '21'
+  A: '41'
+  E: '14'
+  DP: '12'
+  PCT: '.816'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Grant
+  nameClub1: Panama City
+  Pos: OF
+  G: '32'
+  PO: '53'
+  A: '6'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Renton
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '15'
+  PO: '31'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Clark
+  nameClub1: Panama City
+  Pos: OF
+  G: '17'
+  PO: '23'
+  A: '4'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Massey
+  nameClub1: Pensacola
+  Pos: OF
+  G: '17'
+  PO: '25'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Halbert
+  nameClub1: Graceville
+  Pos: OF
+  G: '12'
+  PO: '21'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Wilson
+  nameClub1: Fort Walton Beach
+  nameClub2: Pensacola
+  Pos: OF
+  G: '74'
+  PO: '126'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.992'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Dunn
+  nameClub1: Dothan
+  Pos: OF
+  G: '31'
+  PO: '58'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Rice
+  nameClub1: Columbus
+  Pos: OF
+  G: '31'
+  PO: '50'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Green
+  nameClub1: Montgomery
+  Pos: OF
+  G: '92'
+  PO: '172'
+  A: '11'
+  E: '4'
+  DP: '3'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: McCarron
+  nameClub1: Montgomery
+  Pos: OF
+  G: '78'
+  PO: '156'
+  A: '11'
+  E: '4'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hogarty
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '106'
+  PO: '230'
+  A: '11'
+  E: '6'
+  DP: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hubbard
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '55'
+  PO: '72'
+  A: '9'
+  E: '2'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: White
+  nameClub1: Montgomery
+  Pos: OF
+  G: '22'
+  PO: '37'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Aceto
+  nameClub1: Selma
+  Pos: OF
+  G: '57'
+  PO: '100'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Rosello
+  nameClub1: Graceville
+  Pos: OF
+  G: '20'
+  PO: '33'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lee
+  nameClub1: Pensacola
+  Pos: OF
+  G: '50'
+  PO: '102'
+  A: '4'
+  E: '3'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Gray
+  nameClub1: Montgomery
+  Pos: OF
+  G: '43'
+  PO: '63'
+  A: '7'
+  E: '3'
+  DP: '2'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Palladino
+  nameClub1: Panama City
+  throws: L
+  Pos: OF
+  G: '70'
+  PO: '153'
+  A: '8'
+  E: '7'
+  DP: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Murret
+  nameClub1: Dothan
+  Pos: OF
+  G: '32'
+  PO: '41'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Davis
+  nameClub1: Columbus
+  Pos: OF
+  G: '109'
+  PO: '214'
+  A: '11'
+  E: '10'
+  DP: '5'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Wood
+  nameClub1: Dothan
+  Pos: OF
+  G: '107'
+  PO: '141'
+  A: '11'
+  E: '7'
+  DP: '3'
+  PCT: '.956'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Ferrell
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '34'
+  PO: '60'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.956'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: DeMartini
+  nameClub1: Graceville
+  Pos: OF
+  G: '67'
+  PO: '141'
+  A: '6'
+  E: '7'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hogg
+  nameClub1: Selma
+  Pos: OF
+  G: '114'
+  PO: '261'
+  A: '5'
+  E: '13'
+  DP: '2'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Weltman
+  nameClub1: Pensacola
+  Pos: OF
+  G: '19'
+  PO: '37'
+  A: '4'
+  E: '2'
+  DP: '3'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Laughlin
+  nameClub1: Montgomery
+  throws: L
+  Pos: OF
+  G: '22'
+  PO: '34'
+  A: '5'
+  E: '2'
+  DP: '2'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Burleson
+  nameClub1: Montgomery
+  Pos: OF
+  G: '18'
+  PO: '19'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Feltmann
+  nameClub1: Columbus
+  Pos: OF
+  G: '123'
+  PO: '169'
+  A: '8'
+  E: '10'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Byram
+  nameClub1: Panama City
+  Pos: OF
+  G: '19'
+  PO: '34'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Patterson
+  nameClub1: Panama City
+  nameClub2: Fort Walton Beach
+  Pos: OF
+  G: '53'
+  PO: '86'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.946'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Frazier
+  nameClub1: Montgomery
+  Pos: OF
+  G: '39'
+  PO: '50'
+  A: '3'
+  E: '3'
+  DP: '2'
+  PCT: '.946'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Cantrell
+  nameClub1: Pensacola
+  Pos: OF
+  G: '120'
+  PO: '186'
+  A: '17'
+  E: '12'
+  DP: '4'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Schultz
+  nameClub1: Graceville
+  Pos: OF
+  G: '48'
+  PO: '78'
+  A: '6'
+  E: '5'
+  DP: '2'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Nunez
+  nameClub1: Panama City
+  Pos: OF
+  G: '44'
+  PO: '67'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Webb
+  nameClub1: Montgomery
+  Pos: OF
+  G: '23'
+  PO: '34'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Clifford
+  nameClub1: Selma
+  Pos: OF
+  G: '72'
+  PO: '128'
+  A: '5'
+  E: '8'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Courington
+  nameClub1: Panama City
+  Pos: OF
+  G: '26'
+  PO: '29'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.943'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Acosta
+  nameClub1: Dothan
+  throws: L
+  Pos: OF
+  G: '124'
+  PO: '311'
+  A: '16'
+  E: '20'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Birri
+  nameFirst: R.
+  nameClub1: Graceville
+  Pos: OF
+  G: '12'
+  PO: '15'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: McCarthy
+  nameClub1: Panama City
+  throws: L
+  Pos: OF
+  G: '33'
+  PO: '31'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hoth
+  nameClub1: Dothan
+  Pos: OF
+  G: '25'
+  PO: '28'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Shepherd
+  nameClub1: Graceville
+  Pos: OF
+  G: '120'
+  PO: '211'
+  A: '17'
+  E: '17'
+  DP: '4'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Jantze
+  nameClub1: Dothan
+  Pos: OF
+  G: '32'
+  PO: '59'
+  A: '8'
+  E: '5'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hungate
+  nameClub1: Pensacola
+  Pos: OF
+  G: '15'
+  PO: '23'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Suleski
+  nameClub1: Graceville
+  Pos: OF
+  G: '39'
+  PO: '55'
+  A: '6'
+  E: '5'
+  DP: '0'
+  PCT: '.924'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hardwick
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '16'
+  PO: '20'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Andeits
+  nameClub1: Dothan
+  throws: L
+  Pos: OF
+  G: '11'
+  PO: '7'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Kanapkey
+  nameClub1: Columbus
+  Pos: OF
+  G: '35'
+  PO: '42'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Swanson
+  nameClub1: Graceville
+  Pos: OF
+  G: '12'
+  PO: '10'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hoffman
+  nameClub1: Graceville
+  Pos: OF
+  G: '19'
+  PO: '41'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Tamayo
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '59'
+  PO: '70'
+  A: '12'
+  E: '8'
+  DP: '1'
+  PCT: '.911'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Daehn
+  nameClub1: Pensacola
+  Pos: OF
+  G: '27'
+  PO: '46'
+  A: '5'
+  E: '5'
+  DP: '1'
+  PCT: '.911'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Ferrell
+  nameClub1: Montgomery
+  Pos: OF
+  G: '15'
+  PO: '18'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Simmons
+  nameClub1: Selma
+  Pos: OF
+  G: '56'
+  PO: '87'
+  A: '1'
+  E: '9'
+  DP: '0'
+  PCT: '.907'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Delgado
+  nameClub1: Selma
+  Pos: OF
+  G: '37'
+  PO: '66'
+  A: '0'
+  E: '7'
+  DP: '0'
+  PCT: '.904'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: House
+  nameClub1: Panama City
+  Pos: OF
+  G: '62'
+  PO: '103'
+  A: '9'
+  E: '12'
+  DP: '2'
+  PCT: '.903'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lowe
+  nameClub1: Panama City
+  nameClub2: Pensacola
+  Pos: OF
+  G: '20'
+  PO: '41'
+  A: '5'
+  E: '5'
+  DP: '1'
+  PCT: '.902'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Vreeland
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '27'
+  PO: '52'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Shukis
+  nameClub1: Columbus
+  Pos: OF
+  G: '11'
+  PO: '17'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Schultz
+  nameClub1: Columbus
+  Pos: OF
+  G: '79'
+  PO: '115'
+  A: '8'
+  E: '14'
+  DP: '1'
+  PCT: '.898'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Griffin
+  nameClub1: Graceville
+  Pos: OF
+  G: '16'
+  PO: '33'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hollman
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '21'
+  PO: '20'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.870'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Oliver
+  nameClub1: Dothan
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: McNally
+  nameClub1: Montgomery
+  Pos: OF
+  G: '11'
+  PO: '24'
+  A: '1'
+  E: '4'
+  DP: '1'
+  PCT: '.862'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Rollings
+  nameClub1: Dothan
+  Pos: OF
+  G: '11'
+  PO: '17'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.850'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Youngdahl
+  nameClub1: Pensacola
+  Pos: OF
+  G: '10'
+  PO: '13'
+  A: '4'
+  E: '3'
+  DP: '0'
+  PCT: '.850'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Siford
+  nameClub1: Dothan
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hartman
+  nameClub1: Montgomery
+  Pos: OF
+  G: '13'
+  PO: '11'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hall
+  nameClub1: Fort Walton Beach
+  Pos: OF
+  G: '17'
+  PO: '28'
+  A: '3'
+  E: '8'
+  DP: '1'
+  PCT: '.795'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: DeGennaro
+  nameClub1: Selma
+  Pos: C
+  G: '10'
+  PO: '40'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PB: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Catton
+  nameClub1: Columbus
+  Pos: C
+  G: '46'
+  PO: '277'
+  A: '24'
+  E: '3'
+  DP: '2'
+  PB: '3'
+  PCT: '.990'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Suleski
+  nameClub1: Graceville
+  Pos: C
+  G: '17'
+  PO: '92'
+  A: '7'
+  E: '1'
+  DP: '2'
+  PB: '4'
+  PCT: '.990'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Reho
+  nameClub1: Pensacola
+  Pos: C
+  G: '26'
+  PO: '164'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PB: '1'
+  PCT: '.989'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: McAndrews
+  nameClub1: Pensacola
+  Pos: C
+  G: '62'
+  PO: '386'
+  A: '38'
+  E: '5'
+  DP: '7'
+  PB: '14'
+  PCT: '.988'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hollman
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '30'
+  PO: '155'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PB: '6'
+  PCT: '.988'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Gaffney
+  nameClub1: Graceville
+  Pos: C
+  G: '105'
+  PO: '764'
+  A: '65'
+  E: '11'
+  DP: '7'
+  PB: '12'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Caldwell
+  nameClub1: Pensacola
+  Pos: C
+  G: '12'
+  PO: '73'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PB: '5'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Velazquez
+  nameClub1: Panama City
+  Pos: C
+  G: '87'
+  PO: '654'
+  A: '59'
+  E: '13'
+  DP: '6'
+  PB: '15'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Fuller
+  nameClub1: Selma
+  Pos: C
+  G: '111'
+  PO: '670'
+  A: '50'
+  E: '16'
+  DP: '6'
+  PB: '12'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Harrell
+  nameClub1: Montgomery
+  Pos: C
+  G: '79'
+  PO: '389'
+  A: '41'
+  E: '10'
+  DP: '5'
+  PB: '13'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Stogoski
+  nameClub1: Fort Walton Beach
+  Pos: C
+  G: '107'
+  PO: '736'
+  A: '84'
+  E: '26'
+  DP: '5'
+  PB: '15'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Duke
+  nameClub1: Montgomery
+  Pos: C
+  G: '32'
+  PO: '201'
+  A: '20'
+  E: '7'
+  DP: '0'
+  PB: '8'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lowing
+  nameClub1: Montgomery
+  Pos: C
+  G: '11'
+  PO: '71'
+  A: '11'
+  E: '3'
+  DP: '3'
+  PB: '3'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Belcher
+  nameClub1: Panama City
+  Pos: C
+  G: '32'
+  PO: '200'
+  A: '11'
+  E: '8'
+  DP: '0'
+  PB: '3'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Boone
+  nameClub1: Columbus
+  Pos: C
+  G: '29'
+  PO: '192'
+  A: '13'
+  E: '8'
+  DP: '4'
+  PB: '2'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Massey
+  nameClub1: Pensacola
+  Pos: C
+  G: '29'
+  PO: '180'
+  A: '14'
+  E: '8'
+  DP: '0'
+  PB: '5'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Jantze
+  nameClub1: Dothan
+  Pos: C
+  G: '28'
+  PO: '108'
+  A: '10'
+  E: '5'
+  DP: '0'
+  PB: '0'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Shukis
+  nameClub1: Columbus
+  Pos: C
+  G: '44'
+  PO: '286'
+  A: '12'
+  E: '13'
+  DP: '2'
+  PB: '10'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Oliver
+  nameClub1: Dothan
+  Pos: C
+  G: '108'
+  PO: '632'
+  A: '49'
+  E: '33'
+  DP: '5'
+  PB: '12'
+  PCT: '.954'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Wittkowski
+  nameClub1: Selma
+  Pos: C
+  G: '10'
+  PO: '40'
+  A: '1'
+  E: '2'
+  DP: '1'
+  PB: '2'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Carden
+  nameClub1: Pensacola
+  Pos: P
+  G: '19'
+  PO: '7'
+  A: '17'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Bridges
+  nameClub1: Montgomery
+  Pos: P
+  G: '13'
+  PO: '7'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Belden
+  nameClub1: Selma
+  Pos: P
+  G: '10'
+  PO: '6'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Beltran
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '11'
+  PO: '6'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Dinkelacker
+  nameClub1: Graceville
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Roberts
+  nameClub1: Montgomery
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '8'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Basse
+  nameClub1: Dothan
+  Pos: P
+  G: '23'
+  PO: '2'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Murray
+  nameClub1: Panama City
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Andeits
+  nameClub1: Dothan
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '12'
+  A: '43'
+  E: '1'
+  DP: '2'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Roland
+  nameClub1: Selma
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '27'
+  E: '1'
+  DP: '3'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hayes
+  nameClub1: Selma
+  Pos: P
+  G: '27'
+  PO: '11'
+  A: '25'
+  E: '1'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Ebner
+  nameClub1: Graceville
+  Pos: P
+  G: '33'
+  PO: '4'
+  A: '32'
+  E: '1'
+  DP: '3'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Coller
+  nameClub1: Montgomery
+  Pos: P
+  G: '38'
+  PO: '7'
+  A: '29'
+  E: '1'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Humphreys
+  nameClub1: Montgomery
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '30'
+  E: '1'
+  DP: '2'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Laughlin
+  nameClub1: Montgomery
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '14'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Merlob
+  nameClub1: Panama City
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '21'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Brophy
+  nameClub1: Fort Walton Beach
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '19'
+  E: '1'
+  DP: '1'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hasson
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '33'
+  PO: '2'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hopey
+  nameClub1: Columbus
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '11'
+  A: '45'
+  E: '3'
+  DP: '4'
+  PCT: '.949'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Jones
+  nameClub1: Montgomery
+  Pos: P
+  G: '11'
+  PO: '4'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Spell
+  nameClub1: Columbus
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Coley
+  nameClub1: Fort Walton Beach
+  nameClub2: Panama City
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '10'
+  E: '1'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lehew
+  nameClub1: Pensacola
+  Pos: P
+  G: '35'
+  PO: '11'
+  A: '52'
+  E: '5'
+  DP: '1'
+  PCT: '.926'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Witmyer
+  nameClub1: Graceville
+  throws: L
+  Pos: P
+  G: '35'
+  PO: '10'
+  A: '27'
+  E: '3'
+  DP: '2'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Myatt
+  nameClub1: Montgomery
+  Pos: P
+  G: '19'
+  PO: '12'
+  A: '24'
+  E: '3'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Decker
+  nameClub1: Columbus
+  Pos: P
+  G: '38'
+  PO: '13'
+  A: '23'
+  E: '3'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Robbins
+  nameClub1: Pensacola
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '21'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Fletcher
+  nameClub1: Pensacola
+  nameClub2: Fort Walton Beach
+  Pos: P
+  G: '32'
+  PO: '1'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Pearson
+  nameClub1: Columbus
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Farr
+  nameClub1: Panama City
+  nameClub2: Fort Walton Beach
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Sosnowski
+  nameClub1: Pensacola
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Scalzi
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '9'
+  E: '1'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Kelleher
+  nameClub1: Selma
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '20'
+  A: '33'
+  E: '5'
+  DP: '1'
+  PCT: '.914'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Drake
+  nameClub1: Panama City
+  Pos: P
+  G: '37'
+  PO: '4'
+  A: '17'
+  E: '2'
+  DP: '3'
+  PCT: '.913'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Fiegel
+  nameClub1: Montgomery
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '17'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Prozeralik
+  nameClub1: Columbus
+  Pos: P
+  G: '30'
+  PO: '9'
+  A: '30'
+  E: '4'
+  DP: '4'
+  PCT: '.907'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Healey
+  nameClub1: Pensacola
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '18'
+  E: '2'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lewis
+  nameClub1: Columbus
+  Pos: P
+  G: '43'
+  PO: '4'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Elliott
+  nameClub1: Graceville
+  throws: L
+  Pos: P
+  G: '50'
+  PO: '4'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.900'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Hill
+  nameClub1: Dothan
+  Pos: P
+  G: '30'
+  PO: '8'
+  A: '27'
+  E: '4'
+  DP: '2'
+  PCT: '.897'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Deer
+  nameClub1: Pensacola
+  throws: L
+  Pos: P
+  G: '44'
+  PO: '2'
+  A: '23'
+  E: '3'
+  DP: '0'
+  PCT: '.893'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Williams
+  nameClub1: Columbus
+  throws: L
+  Pos: P
+  G: '38'
+  PO: '5'
+  A: '35'
+  E: '5'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Behrends
+  nameClub1: Dothan
+  Pos: P
+  G: '16'
+  PO: '5'
+  A: '19'
+  E: '3'
+  DP: '2'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Duncan
+  nameClub1: Montgomery
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Cron
+  nameClub1: Graceville
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Lowe
+  nameClub1: Graceville
+  Pos: P
+  G: '14'
+  PO: '2'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Underwood
+  nameClub1: Graceville
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '25'
+  E: '4'
+  DP: '2'
+  PCT: '.882'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Winkle
+  nameClub1: Dothan
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '11'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Stange
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '31'
+  E: '5'
+  DP: '3'
+  PCT: '.881'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Perkins
+  nameClub1: Panama City
+  Pos: P
+  G: '29'
+  PO: '3'
+  A: '11'
+  E: '2'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Fausett
+  nameClub1: Pensacola
+  Pos: P
+  G: '16'
+  PO: '7'
+  A: '13'
+  E: '3'
+  DP: '0'
+  PCT: '.870'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Richenberg
+  nameClub1: Dothan
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '22'
+  E: '4'
+  DP: '0'
+  PCT: '.862'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Walker
+  nameClub1: Pensacola
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '13'
+  E: '3'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Tolar
+  nameClub1: Dothan
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Barbee
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '12'
+  PO: '0'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Klunder
+  nameClub1: Montgomery
+  throws: L
+  Pos: P
+  G: '30'
+  PO: '7'
+  A: '28'
+  E: '6'
+  DP: '3'
+  PCT: '.854'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Merrell
+  nameClub1: Graceville
+  Pos: P
+  G: '27'
+  PO: '1'
+  A: '21'
+  E: '4'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Mercer
+  nameClub1: Selma
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '17'
+  E: '4'
+  DP: '1'
+  PCT: '.840'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Golick
+  nameClub1: Selma
+  Pos: P
+  G: '36'
+  PO: '1'
+  A: '20'
+  E: '4'
+  DP: '2'
+  PCT: '.840'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Williams
+  nameClub1: Selma
+  Pos: P
+  G: '23'
+  PO: '7'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.824'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Moavero
+  nameClub1: Pensacola
+  nameClub2: Fort Walton Beach
+  throws: L
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '10'
+  E: '3'
+  DP: '1'
+  PCT: '.813'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Pruitt
+  nameClub1: Dothan
+  Pos: P
+  G: '26'
+  PO: '2'
+  A: '15'
+  E: '4'
+  DP: '0'
+  PCT: '.810'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Nunez
+  nameClub1: Panama City
+  Pos: P
+  G: '23'
+  PO: '7'
+  A: '12'
+  E: '5'
+  DP: '0'
+  PCT: '.792'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Beerbower
+  nameClub1: Panama City
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '8'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Valdes
+  nameClub1: Fort Walton Beach
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PCT: '.769'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Dougherty
+  nameClub1: Panama City
+  Pos: P
+  G: '29'
+  PO: '4'
+  A: '21'
+  E: '8'
+  DP: '2'
+  PCT: '.758'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Drennan
+  nameClub1: Dothan
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Watson
+  nameClub1: Graceville
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.571'
+  TP: '0'
+- year: '1958'
+  nameLeague: Alabama-Florida League
+  nameLast: Barnett
+  nameClub1: Fort Walton Beach
+  throws: L
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '3'
+  E: '5'
+  DP: '0'
+  PCT: '.375'
+  TP: '0'

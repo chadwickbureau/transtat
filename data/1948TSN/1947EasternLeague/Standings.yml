@@ -1,0 +1,124 @@
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Utica
+  phase: regular
+  W: '90'
+  L: '48'
+  T: '0'
+  PCT: '.652'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: regular
+  W: '80'
+  L: '58'
+  T: '1'
+  PCT: '.580'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: regular
+  W: '80'
+  L: '60'
+  T: '0'
+  PCT: '.571'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: regular
+  W: '78'
+  L: '62'
+  T: '0'
+  PCT: '.557'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Williamsport
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Hartford
+  phase: regular
+  W: '58'
+  L: '82'
+  T: '1'
+  PCT: '.414'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Elmira
+  phase: regular
+  W: '54'
+  L: '86'
+  T: '0'
+  PCT: '.386'
+  RANK: '7'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Binghamton
+  phase: regular
+  W: '52'
+  L: '88'
+  T: '0'
+  PCT: '.371'
+  RANK: '8'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Utica
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Wilkes-Barre
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Scranton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Utica
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Eastern League
+  nameClub: Albany
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

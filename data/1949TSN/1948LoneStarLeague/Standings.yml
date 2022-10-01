@@ -1,0 +1,118 @@
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Kilgore
+  phase: regular
+  W: '94'
+  L: '44'
+  T: '0'
+  PCT: '.681'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Longview
+  phase: regular
+  W: '89'
+  L: '50'
+  T: '0'
+  PCT: '.640'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Tyler
+  phase: regular
+  W: '77'
+  L: '63'
+  T: '0'
+  PCT: '.550'
+  RANK: '3'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Henderson
+  phase: regular
+  W: '69'
+  L: '70'
+  T: '1'
+  PCT: '.496'
+  RANK: '4'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Bryan
+  phase: regular
+  W: '66'
+  L: '74'
+  T: '0'
+  PCT: '.471'
+  RANK: '5'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Gladewater
+  phase: regular
+  W: '59'
+  L: '81'
+  T: '0'
+  PCT: '.421'
+  RANK: '6'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Marshall
+  phase: regular
+  W: '55'
+  L: '83'
+  T: '1'
+  PCT: '.399'
+  RANK: '7'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Lufkin
+  phase: regular
+  W: '48'
+  L: '92'
+  T: '0'
+  PCT: '.343'
+  RANK: '8'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Kilgore
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Henderson
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Longview
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Tyler
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Kilgore
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1948'
+  nameLeague: Lone Star League
+  nameClub: Longview
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

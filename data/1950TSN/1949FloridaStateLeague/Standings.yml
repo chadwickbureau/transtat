@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular
+  W: '87'
+  L: '50'
+  T: '1'
+  PCT: '.635'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '79'
+  L: '56'
+  T: '0'
+  PCT: '.585'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: regular
+  W: '75'
+  L: '60'
+  T: '0'
+  PCT: '.556'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular
+  W: '76'
+  L: '62'
+  T: '0'
+  PCT: '.551'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular
+  W: '74'
+  L: '63'
+  T: '0'
+  PCT: '.540'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular
+  W: '64'
+  L: '70'
+  T: '1'
+  PCT: '.478'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  phase: regular
+  W: '51'
+  L: '85'
+  T: '0'
+  PCT: '.375'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  phase: regular
+  W: '37'
+  L: '97'
+  T: '0'
+  PCT: '.276'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: final
+  W: '4'
+  L: '1'
+  PCT: '.800'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: final
+  W: '1'
+  L: '4'
+  PCT: '.200'
+  RANK: '2'

@@ -1,0 +1,80 @@
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: Fort Worth
+  Houston: '13'
+  Corpus Christi: '11'
+  Austin: '12'
+  Dallas: '14'
+  San Antonio: '13'
+  Tulsa: '11'
+  Victoria: '15'
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: Houston
+  Fort Worth: '9'
+  Corpus Christi: '11'
+  Austin: '8'
+  Dallas: '13'
+  San Antonio: '11'
+  Tulsa: '14'
+  Victoria: '13'
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: Corpus Christi
+  Fort Worth: '11'
+  Houston: '11'
+  Austin: '10'
+  Dallas: '10'
+  San Antonio: '13'
+  Tulsa: '12'
+  Victoria: '10'
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: Austin
+  Fort Worth: '10'
+  Houston: '14'
+  Corpus Christi: '12'
+  Dallas: '12'
+  San Antonio: '10'
+  Tulsa: '10'
+  Victoria: '9'
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: Dallas
+  Fort Worth: '8'
+  Houston: '8'
+  Corpus Christi: '12'
+  Austin: '10'
+  San Antonio: '14'
+  Tulsa: '12'
+  Victoria: '12'
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: San Antonio
+  Fort Worth: '8'
+  Houston: '11'
+  Corpus Christi: '9'
+  Austin: '12'
+  Dallas: '8'
+  Tulsa: '10'
+  Victoria: '16'
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: Tulsa
+  Fort Worth: '11'
+  Houston: '8'
+  Corpus Christi: '8'
+  Austin: '12'
+  Dallas: '10'
+  San Antonio: '12'
+  Victoria: '10'
+- year: '1958'
+  nameLeague: Texas League
+  nameClub: Victoria
+  Fort Worth: '7'
+  Houston: '9'
+  Corpus Christi: '12'
+  Austin: '12'
+  Dallas: '10'
+  San Antonio: '6'
+  Tulsa: '12'

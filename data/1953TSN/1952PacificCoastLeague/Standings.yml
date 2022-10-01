@@ -1,0 +1,72 @@
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '109'
+  L: '71'
+  T: '1'
+  PCT: '.606'
+  RANK: '1'
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  phase: regular
+  W: '104'
+  L: '76'
+  T: '0'
+  PCT: '.578'
+  RANK: '2'
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '96'
+  L: '84'
+  T: '1'
+  PCT: '.533'
+  RANK: '3'
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '92'
+  L: '88'
+  T: '0'
+  PCT: '.511'
+  RANK: '4'
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '88'
+  L: '92'
+  T: '0'
+  PCT: '.489'
+  RANK: '5'
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '87'
+  L: '93'
+  T: '0'
+  PCT: '.483'
+  RANK: '6'
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '78'
+  L: '102'
+  T: '0'
+  PCT: '.433'
+  RANK: '7'
+- year: '1952'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '66'
+  L: '114'
+  T: '0'
+  PCT: '.367'
+  RANK: '8'

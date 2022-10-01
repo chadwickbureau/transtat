@@ -1,0 +1,88 @@
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Port Arthur
+  G: '138'
+  DP: '49'
+  PB: '13'
+  PO: '3550'
+  A: '1554'
+  E: '163'
+  PCT: '.969'
+  TP: '1'
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Austin
+  G: '143'
+  DP: '120'
+  PB: '9'
+  PO: '3707'
+  A: '1602'
+  E: '184'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Waco
+  G: '143'
+  DP: '116'
+  PB: '32'
+  PO: '3664'
+  A: '1364'
+  E: '180'
+  PCT: '.965'
+  TP: '1'
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Corpus Christi
+  G: '141'
+  DP: '146'
+  PB: '16'
+  PO: '3668'
+  A: '1573'
+  E: '206'
+  PCT: '.962'
+  TP: '1'
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Tyler
+  G: '73'
+  DP: '58'
+  PB: '7'
+  PO: '1851'
+  A: '715'
+  E: '104'
+  PCT: '.961'
+  TP: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Harlingen
+  G: '144'
+  DP: '142'
+  PB: '22'
+  PO: '3716'
+  A: '1715'
+  E: '236'
+  PCT: '.958'
+  TP: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Texas City
+  G: '138'
+  DP: '138'
+  PB: '15'
+  PO: '3484'
+  A: '1458'
+  E: '236'
+  PCT: '.954'
+  TP: '0'
+- year: '1955'
+  nameLeague: Big State League
+  nameClub: Galveston
+  G: '58'
+  DP: '46'
+  PB: '6'
+  PO: '1523'
+  A: '573'
+  E: '105'
+  PCT: '.952'
+  TP: '0'

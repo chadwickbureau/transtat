@@ -1,0 +1,118 @@
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: regular
+  W: '94'
+  L: '56'
+  T: '1'
+  PCT: '.627'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: regular
+  W: '88'
+  L: '66'
+  T: '1'
+  PCT: '.571'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Omaha
+  phase: regular
+  W: '83'
+  L: '68'
+  T: '1'
+  PCT: '.550'
+  RANK: '3'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: regular
+  W: '79'
+  L: '74'
+  T: '2'
+  PCT: '.516'
+  RANK: '4'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Sioux City
+  phase: regular
+  W: '78'
+  L: '75'
+  T: '1'
+  PCT: '.510'
+  RANK: '5'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Wichita
+  phase: regular
+  W: '76'
+  L: '77'
+  T: '1'
+  PCT: '.497'
+  RANK: '6'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Lincoln
+  phase: regular
+  W: '62'
+  L: '88'
+  T: '1'
+  PCT: '.413'
+  RANK: '7'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Colorado Springs
+  phase: regular
+  W: '48'
+  L: '104'
+  T: '0'
+  PCT: '.316'
+  RANK: '8'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Pueblo
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Omaha
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Des Moines
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1954'
+  nameLeague: Western League
+  nameClub: Denver
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

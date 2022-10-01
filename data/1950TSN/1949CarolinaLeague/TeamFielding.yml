@@ -1,0 +1,88 @@
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  G: '147'
+  DP: '116'
+  PB: '26'
+  PO: '3809'
+  A: '1517'
+  E: '184'
+  TP: '0'
+  PCT: '.967'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  G: '144'
+  DP: '130'
+  PB: '10'
+  PO: '3753'
+  A: '1527'
+  E: '223'
+  TP: '0'
+  PCT: '.959'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  G: '144'
+  DP: '140'
+  PB: '20'
+  PO: '3682'
+  A: '1580'
+  E: '227'
+  TP: '0'
+  PCT: '.959'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Danville
+  G: '143'
+  DP: '131'
+  PB: '12'
+  PO: '3718'
+  A: '1395'
+  E: '225'
+  TP: '0'
+  PCT: '.958'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  G: '145'
+  DP: '133'
+  PB: '23'
+  PO: '3724'
+  A: '1403'
+  E: '231'
+  TP: '1'
+  PCT: '.957'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Durham
+  G: '142'
+  DP: '137'
+  PB: '21'
+  PO: '3643'
+  A: '1587'
+  E: '249'
+  TP: '0'
+  PCT: '.955'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Reidsville
+  G: '144'
+  DP: '144'
+  PB: '24'
+  PO: '3728'
+  A: '1584'
+  E: '265'
+  TP: '0'
+  PCT: '.952'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  G: '145'
+  DP: '156'
+  PB: '14'
+  PO: '3765'
+  A: '1531'
+  E: '281'
+  TP: '0'
+  PCT: '.950'

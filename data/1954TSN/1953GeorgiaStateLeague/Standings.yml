@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: regular
+  W: '84'
+  L: '41'
+  T: '0'
+  PCT: '.672'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Jesup
+  phase: regular
+  W: '78'
+  L: '46'
+  T: '0'
+  PCT: '.629'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Eastman
+  phase: regular
+  W: '77'
+  L: '49'
+  T: '0'
+  PCT: '.611'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: regular
+  W: '76'
+  L: '50'
+  T: '0'
+  PCT: '.603'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Statesboro
+  phase: regular
+  W: '49'
+  L: '77'
+  T: '0'
+  PCT: '.389'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: regular
+  W: '48'
+  L: '77'
+  T: '0'
+  PCT: '.384'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  phase: regular
+  W: '47'
+  L: '78'
+  T: '0'
+  PCT: '.376'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: regular
+  W: '41'
+  L: '82'
+  T: '0'
+  PCT: '.333'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Eastman
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Jesup
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia State League
+  nameClub: Eastman
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

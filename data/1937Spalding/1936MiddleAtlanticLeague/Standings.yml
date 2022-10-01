@@ -1,0 +1,142 @@
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Zanesville
+  phase: regular/first
+  W: '41'
+  L: '25'
+  PCT: '.621'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Canton
+  phase: regular/first
+  W: '35'
+  L: '29'
+  PCT: '.547'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Akron
+  phase: regular/first
+  W: '33'
+  L: '31'
+  PCT: '.516'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular/first
+  W: '33'
+  L: '23'
+  PCT: '.508'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Charleston
+  phase: regular/first
+  W: '33'
+  L: '33'
+  PCT: '.500'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Huntington
+  phase: regular/first
+  W: '30'
+  L: '36'
+  PCT: '.455'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Dayton
+  phase: regular/first
+  W: '30'
+  L: '36'
+  PCT: '.455'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Portsmouth
+  phase: regular/first
+  W: '26'
+  L: '39'
+  PCT: '.400'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Zanesville
+  phase: regular/second
+  W: '40'
+  L: '23'
+  PCT: '.635'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Dayton
+  phase: regular/second
+  W: '40'
+  L: '23'
+  PCT: '.635'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Charleston
+  phase: regular/second
+  W: '38'
+  L: '25'
+  PCT: '.603'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Canton
+  phase: regular/second
+  W: '33'
+  L: '30'
+  PCT: '.524'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Akron
+  phase: regular/second
+  W: '31'
+  L: '32'
+  PCT: '.492'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Huntington
+  phase: regular/second
+  W: '30'
+  L: '33'
+  PCT: '.476'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Johnstown
+  phase: regular/second
+  W: '26'
+  L: '37'
+  PCT: '.413'
+  RANK: '7'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Portsmouth
+  phase: regular/second
+  W: '14'
+  L: '49'
+  PCT: '.222'
+  RANK: '8'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Zanesville
+  phase: final
+  W: '2'
+  L: '1'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Middle Atlantic League
+  nameClub: Dayton
+  phase: final
+  W: '1'
+  L: '2'
+  RANK: '2'

@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  Denver: '10'
+  Omaha: '12'
+  Minneapolis: '10'
+  St. Paul: '15'
+  Charleston: '12'
+  Wichita: '16'
+  Louisville: '17'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Denver
+  Indianapolis: '12'
+  Omaha: '13'
+  Minneapolis: '12'
+  St. Paul: '13'
+  Charleston: '12'
+  Wichita: '15'
+  Louisville: '10'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Omaha
+  Indianapolis: '10'
+  Denver: '9'
+  Minneapolis: '13'
+  St. Paul: '15'
+  Charleston: '11'
+  Wichita: '11'
+  Louisville: '13'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  Indianapolis: '12'
+  Denver: '10'
+  Omaha: '9'
+  St. Paul: '9'
+  Charleston: '13'
+  Wichita: '10'
+  Louisville: '15'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: St. Paul
+  Indianapolis: '7'
+  Denver: '9'
+  Omaha: '7'
+  Minneapolis: '13'
+  Charleston: '12'
+  Wichita: '17'
+  Louisville: '10'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Charleston
+  Indianapolis: '10'
+  Denver: '10'
+  Omaha: '11'
+  Minneapolis: '9'
+  St. Paul: '9'
+  Wichita: '11'
+  Louisville: '14'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Wichita
+  Indianapolis: '6'
+  Denver: '7'
+  Omaha: '10'
+  Minneapolis: '12'
+  St. Paul: '5'
+  Charleston: '11'
+  Louisville: '14'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Louisville
+  Indianapolis: '5'
+  Denver: '12'
+  Omaha: '9'
+  Minneapolis: '6'
+  St. Paul: '12'
+  Charleston: '8'
+  Wichita: '8'

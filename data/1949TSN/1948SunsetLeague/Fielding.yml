@@ -1,0 +1,2112 @@
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Fontaine
+  nameClub1: Reno
+  Pos: 1B
+  G: '10'
+  PO: '71'
+  A: '1'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hernandez
+  nameClub1: Mexicali
+  Pos: 1B
+  G: '103'
+  PO: '868'
+  A: '34'
+  E: '16'
+  DP: '50'
+  PCT: '.983'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Dubois
+  nameClub1: Anaheim/San Bernardino
+  throws: L
+  Pos: 1B
+  G: '134'
+  PO: '1110'
+  A: '62'
+  E: '23'
+  DP: '85'
+  PCT: '.981'
+  TP: '1'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Wilson
+  nameClub1: Mexicali
+  Pos: 1B
+  G: '13'
+  PO: '97'
+  A: '2'
+  E: '2'
+  DP: '8'
+  PCT: '.980'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Ward
+  nameClub1: El Centro
+  throws: L
+  Pos: 1B
+  G: '132'
+  PO: '1087'
+  A: '61'
+  E: '27'
+  DP: '82'
+  PCT: '.977'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Schultz
+  nameClub1: Reno
+  throws: L
+  Pos: 1B
+  G: '17'
+  PO: '124'
+  A: '3'
+  E: '3'
+  DP: '10'
+  PCT: '.977'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Jackson
+  nameClub1: El Centro
+  nameClub2: Riverside
+  throws: L
+  Pos: 1B
+  G: '128'
+  PO: '1092'
+  A: '61'
+  E: '28'
+  DP: '92'
+  PCT: '.976'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Krug
+  nameClub1: Las Vegas
+  throws: L
+  Pos: 1B
+  G: '137'
+  PO: '1111'
+  A: '85'
+  E: '34'
+  DP: '97'
+  PCT: '.972'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lobrovich
+  nameClub1: Reno
+  Pos: 1B
+  G: '54'
+  PO: '392'
+  A: '23'
+  E: '15'
+  DP: '34'
+  PCT: '.965'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Barry
+  nameClub1: Reno
+  throws: L
+  Pos: 1B
+  G: '26'
+  PO: '240'
+  A: '8'
+  E: '9'
+  DP: '14'
+  PCT: '.965'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Collins
+  nameClub1: Reno
+  Pos: 1B
+  G: '20'
+  PO: '120'
+  A: '6'
+  E: '7'
+  DP: '7'
+  PCT: '.947'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Waitman
+  nameClub1: Riverside
+  nameClub2: Anaheim/San Bernardino
+  Pos: 1B
+  G: '12'
+  PO: '97'
+  A: '9'
+  E: '6'
+  DP: '8'
+  PCT: '.946'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Balcena
+  nameClub1: Mexicali
+  Pos: 1B
+  G: '11'
+  PO: '73'
+  A: '6'
+  E: '5'
+  DP: '4'
+  PCT: '.940'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Viers
+  nameClub1: El Centro
+  Pos: 2B
+  G: '18'
+  PO: '48'
+  A: '32'
+  E: '1'
+  DP: '11'
+  PCT: '.988'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Waitman
+  nameClub1: Riverside
+  nameClub2: Anaheim/San Bernardino
+  Pos: 2B
+  G: '65'
+  PO: '174'
+  A: '161'
+  E: '13'
+  DP: '37'
+  PCT: '.963'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Bartolomei
+  nameClub1: Riverside
+  Pos: 2B
+  G: '139'
+  PO: '369'
+  A: '361'
+  E: '40'
+  DP: '82'
+  PCT: '.948'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Gray
+  nameClub1: Las Vegas
+  Pos: 2B
+  G: '123'
+  PO: '277'
+  A: '300'
+  E: '38'
+  DP: '65'
+  PCT: '.938'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Mori
+  nameClub1: Reno
+  Pos: 2B
+  G: '107'
+  PO: '330'
+  A: '275'
+  E: '41'
+  DP: '44'
+  PCT: '.937'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Stinson
+  nameClub1: El Centro
+  Pos: 2B
+  G: '34'
+  PO: '70'
+  A: '97'
+  E: '12'
+  DP: '23'
+  PCT: '.933'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Samaha
+  nameClub1: Mexicali
+  Pos: 2B
+  G: '19'
+  PO: '23'
+  A: '34'
+  E: '5'
+  DP: '5'
+  PCT: '.931'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Boulanger
+  nameClub1: El Centro
+  Pos: 2B
+  G: '43'
+  PO: '104'
+  A: '112'
+  E: '18'
+  DP: '22'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Loscutoff
+  nameClub1: Reno
+  Pos: 2B
+  G: '31'
+  PO: '97'
+  A: '71'
+  E: '17'
+  DP: '15'
+  PCT: '.908'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Brown
+  nameClub1: Anaheim/San Bernardino
+  Pos: 2B
+  G: '33'
+  PO: '91'
+  A: '95'
+  E: '19'
+  DP: '15'
+  PCT: '.907'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Bernal
+  nameClub1: Mexicali
+  Pos: 2B
+  G: '20'
+  PO: '46'
+  A: '35'
+  E: '9'
+  DP: '10'
+  PCT: '.900'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Stewart
+  nameFirst: D.
+  nameClub1: Mexicali
+  Pos: 2B
+  G: '69'
+  PO: '191'
+  A: '143'
+  E: '40'
+  DP: '27'
+  PCT: '.893'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Peters
+  nameClub1: Reno
+  nameClub2: Anaheim/San Bernardino
+  Pos: 2B
+  G: '14'
+  PO: '31'
+  A: '27'
+  E: '7'
+  DP: '7'
+  PCT: '.892'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Campbell
+  nameClub1: Anaheim/San Bernardino
+  Pos: 2B
+  G: '13'
+  PO: '27'
+  A: '30'
+  E: '7'
+  DP: '5'
+  PCT: '.891'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Peccia
+  nameClub1: El Centro
+  Pos: 2B
+  G: '18'
+  PO: '29'
+  A: '41'
+  E: '10'
+  DP: '4'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Mutaw
+  nameClub1: El Centro
+  Pos: 2B
+  G: '39'
+  PO: '35'
+  A: '96'
+  E: '27'
+  DP: '10'
+  PCT: '.870'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Maguire
+  nameClub1: Anaheim/San Bernardino
+  Pos: 2B
+  G: '13'
+  PO: '23'
+  A: '28'
+  E: '8'
+  DP: '6'
+  PCT: '.864'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Muhe
+  nameClub1: Las Vegas
+  Pos: 2B
+  G: '11'
+  PO: '15'
+  A: '23'
+  E: '7'
+  DP: '1'
+  PCT: '.844'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lobrovich
+  nameClub1: Reno
+  Pos: 3B
+  G: '17'
+  PO: '19'
+  A: '33'
+  E: '3'
+  DP: '1'
+  PCT: '.945'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Godfrey
+  nameClub1: Anaheim/San Bernardino
+  Pos: 3B
+  G: '55'
+  PO: '80'
+  A: '94'
+  E: '13'
+  DP: '12'
+  PCT: '.930'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lapham
+  nameClub1: Las Vegas
+  nameClub2: Mexicali
+  Pos: 3B
+  G: '89'
+  PO: '96'
+  A: '160'
+  E: '25'
+  DP: '16'
+  PCT: '.911'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Castro
+  nameFirst: L.
+  nameClub1: Mexicali
+  Pos: 3B
+  G: '38'
+  PO: '29'
+  A: '90'
+  E: '12'
+  DP: '3'
+  PCT: '.908'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Schultz
+  nameClub1: El Centro
+  Pos: 3B
+  G: '49'
+  PO: '37'
+  A: '80'
+  E: '12'
+  DP: '9'
+  PCT: '.907'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Jackson
+  nameClub1: Mexicali
+  Pos: 3B
+  G: '45'
+  PO: '66'
+  A: '84'
+  E: '16'
+  DP: '8'
+  PCT: '.904'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Bockman
+  nameClub1: Riverside
+  Pos: 3B
+  G: '68'
+  PO: '72'
+  A: '150'
+  E: '24'
+  DP: '15'
+  PCT: '.902'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Peters
+  nameClub1: Reno
+  nameClub2: Anaheim/San Bernardino
+  Pos: 3B
+  G: '65'
+  PO: '63'
+  A: '132'
+  E: '25'
+  DP: '10'
+  PCT: '.886'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Richardson
+  nameClub1: Anaheim/San Bernardino
+  Pos: 3B
+  G: '53'
+  PO: '61'
+  A: '105'
+  E: '23'
+  DP: '6'
+  PCT: '.878'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Stinson
+  nameClub1: El Centro
+  Pos: 3B
+  G: '86'
+  PO: '97'
+  A: '125'
+  E: '33'
+  DP: '16'
+  PCT: '.871'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Ganem
+  nameClub1: Las Vegas
+  Pos: 3B
+  G: '76'
+  PO: '96'
+  A: '144'
+  E: '36'
+  DP: '20'
+  PCT: '.870'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Weymann
+  nameClub1: Reno
+  Pos: 3B
+  G: '62'
+  PO: '52'
+  A: '142'
+  E: '29'
+  DP: '23'
+  PCT: '.870'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Criscola
+  nameClub1: Riverside
+  Pos: 3B
+  G: '60'
+  PO: '70'
+  A: '104'
+  E: '28'
+  DP: '6'
+  PCT: '.861'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Campbell
+  nameClub1: Anaheim/San Bernardino
+  Pos: 3B
+  G: '16'
+  PO: '30'
+  A: '30'
+  E: '10'
+  DP: '4'
+  PCT: '.857'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hinton
+  nameClub1: Mexicali
+  nameClub2: El Centro
+  Pos: 3B
+  G: '10'
+  PO: '15'
+  A: '20'
+  E: '6'
+  DP: '0'
+  PCT: '.854'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Muhe
+  nameClub1: Las Vegas
+  Pos: 3B
+  G: '33'
+  PO: '27'
+  A: '37'
+  E: '11'
+  DP: '0'
+  PCT: '.853'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Mele
+  nameClub1: Mexicali
+  nameClub2: Las Vegas
+  Pos: 3B
+  G: '12'
+  PO: '22'
+  A: '22'
+  E: '8'
+  DP: '3'
+  PCT: '.846'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Pinder
+  nameClub1: Riverside
+  Pos: 3B
+  G: '13'
+  PO: '20'
+  A: '16'
+  E: '12'
+  DP: '3'
+  PCT: '.750'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Waitman
+  nameClub1: Riverside
+  nameClub2: Anaheim/San Bernardino
+  Pos: SS
+  G: '10'
+  PO: '17'
+  A: '29'
+  E: '3'
+  DP: '8'
+  PCT: '.939'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Urbano
+  nameClub1: Mexicali
+  Pos: SS
+  G: '17'
+  PO: '36'
+  A: '50'
+  E: '6'
+  DP: '2'
+  PCT: '.935'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Coghlan
+  nameClub1: El Centro
+  Pos: SS
+  G: '59'
+  PO: '105'
+  A: '172'
+  E: '23'
+  DP: '26'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Alderete
+  nameClub1: Riverside
+  Pos: SS
+  G: '127'
+  PO: '229'
+  A: '395'
+  E: '57'
+  DP: '70'
+  PCT: '.916'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Dawson
+  nameClub1: Las Vegas
+  Pos: SS
+  G: '111'
+  PO: '206'
+  A: '363'
+  E: '53'
+  DP: '64'
+  PCT: '.915'
+  TP: '1'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: McNamara
+  nameClub1: Anaheim/San Bernardino
+  Pos: SS
+  G: '136'
+  PO: '210'
+  A: '428'
+  E: '68'
+  DP: '51'
+  PCT: '.904'
+  TP: '1'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Serrano
+  nameClub1: Reno
+  nameClub2: Mexicali
+  Pos: SS
+  G: '124'
+  PO: '203'
+  A: '347'
+  E: '68'
+  DP: '47'
+  PCT: '.890'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Viers
+  nameClub1: El Centro
+  Pos: SS
+  G: '10'
+  PO: '15'
+  A: '23'
+  E: '5'
+  DP: '1'
+  PCT: '.884'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Peccia
+  nameClub1: El Centro
+  Pos: SS
+  G: '64'
+  PO: '103'
+  A: '181'
+  E: '40'
+  DP: '37'
+  PCT: '.877'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Wilson
+  nameClub1: Mexicali
+  Pos: SS
+  G: '14'
+  PO: '35'
+  A: '33'
+  E: '11'
+  DP: '5'
+  PCT: '.861'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lapham
+  nameClub1: Las Vegas
+  nameClub2: Mexicali
+  Pos: SS
+  G: '11'
+  PO: '15'
+  A: '25'
+  E: '7'
+  DP: '3'
+  PCT: '.851'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Fontaine
+  nameClub1: Reno
+  Pos: SS
+  G: '50'
+  PO: '54'
+  A: '130'
+  E: '34'
+  DP: '12'
+  PCT: '.844'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Holt
+  nameClub1: Reno
+  Pos: SS
+  G: '34'
+  PO: '54'
+  A: '92'
+  E: '31'
+  DP: '8'
+  PCT: '.825'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Muhe
+  nameClub1: Las Vegas
+  Pos: SS
+  G: '23'
+  PO: '38'
+  A: '47'
+  E: '20'
+  DP: '9'
+  PCT: '.810'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Brock
+  nameClub1: Mexicali
+  Pos: SS
+  G: '23'
+  PO: '32'
+  A: '36'
+  E: '16'
+  DP: '7'
+  PCT: '.810'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hansman
+  nameClub1: Mexicali
+  nameClub2: Las Vegas
+  Pos: OF
+  G: '12'
+  PO: '17'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Mutaw
+  nameClub1: El Centro
+  Pos: OF
+  G: '11'
+  PO: '14'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hinton
+  nameClub1: Mexicali
+  nameClub2: El Centro
+  Pos: OF
+  G: '11'
+  PO: '7'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Castro
+  nameFirst: L.
+  nameClub1: Mexicali
+  Pos: OF
+  G: '20'
+  PO: '37'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Collins
+  nameClub1: Reno
+  Pos: OF
+  G: '65'
+  PO: '148'
+  A: '4'
+  E: '6'
+  DP: '3'
+  PCT: '.962'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Skeen
+  nameClub1: Anaheim/San Bernardino
+  nameClub2: El Centro
+  Pos: OF
+  G: '58'
+  PO: '166'
+  A: '7'
+  E: '7'
+  DP: '1'
+  PCT: '.961'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Rogers
+  nameClub1: Reno
+  Pos: OF
+  G: '130'
+  PO: '189'
+  A: '11'
+  E: '9'
+  DP: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Dow
+  nameClub1: Las Vegas
+  Pos: OF
+  G: '23'
+  PO: '33'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Kennedy
+  nameClub1: Riverside
+  Pos: OF
+  G: '139'
+  PO: '294'
+  A: '18'
+  E: '17'
+  DP: '1'
+  PCT: '.948'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Muhe
+  nameClub1: Las Vegas
+  Pos: OF
+  G: '63'
+  PO: '143'
+  A: '13'
+  E: '9'
+  DP: '4'
+  PCT: '.945'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Cormier
+  nameClub1: Reno
+  Pos: OF
+  G: '14'
+  PO: '15'
+  A: '1'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Faber
+  nameClub1: Anaheim/San Bernardino
+  throws: L
+  Pos: OF
+  G: '128'
+  PO: '292'
+  A: '17'
+  E: '20'
+  DP: '4'
+  PCT: '.939'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Garcia
+  nameFirst: L.
+  nameClub1: Mexicali
+  Pos: OF
+  G: '129'
+  PO: '237'
+  A: '25'
+  E: '17'
+  DP: '4'
+  PCT: '.939'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Wilson
+  nameClub1: Mexicali
+  Pos: OF
+  G: '16'
+  PO: '28'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Butcher
+  nameClub1: Las Vegas
+  Pos: OF
+  G: '101'
+  PO: '170'
+  A: '5'
+  E: '13'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Balcena
+  nameClub1: Mexicali
+  Pos: OF
+  G: '89'
+  PO: '198'
+  A: '13'
+  E: '16'
+  DP: '2'
+  PCT: '.930'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Ayala
+  nameClub1: Mexicali
+  Pos: OF
+  G: '118'
+  PO: '243'
+  A: '18'
+  E: '20'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Leedy
+  nameClub1: El Centro
+  Pos: OF
+  G: '129'
+  PO: '226'
+  A: '16'
+  E: '19'
+  DP: '3'
+  PCT: '.927'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Jameson
+  nameClub1: Riverside
+  Pos: OF
+  G: '138'
+  PO: '204'
+  A: '11'
+  E: '17'
+  DP: '2'
+  PCT: '.927'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Napoli
+  nameClub1: Las Vegas
+  Pos: OF
+  G: '33'
+  PO: '69'
+  A: '5'
+  E: '6'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Brayton
+  nameClub1: El Centro
+  Pos: OF
+  G: '22'
+  PO: '45'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Tomerlin
+  nameClub1: Las Vegas
+  Pos: OF
+  G: '26'
+  PO: '45'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Ashcraft
+  nameClub1: El Centro
+  nameClub2: Riverside
+  Pos: OF
+  G: '78'
+  PO: '110'
+  A: '8'
+  E: '10'
+  DP: '1'
+  PCT: '.922'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lobrovich
+  nameClub1: Reno
+  Pos: OF
+  G: '37'
+  PO: '55'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.921'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Bockman
+  nameClub1: Riverside
+  Pos: OF
+  G: '71'
+  PO: '115'
+  A: '10'
+  E: '11'
+  DP: '0'
+  PCT: '.919'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Brown
+  nameClub1: Las Vegas
+  Pos: OF
+  G: '43'
+  PO: '88'
+  A: '2'
+  E: '8'
+  DP: '0'
+  PCT: '.918'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Smith
+  nameClub1: Anaheim/San Bernardino
+  Pos: OF
+  G: '14'
+  PO: '18'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Barclay
+  nameClub1: Reno
+  throws: L
+  Pos: OF
+  G: '130'
+  PO: '284'
+  A: '8'
+  E: '29'
+  DP: '3'
+  PCT: '.910'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Borch
+  nameClub1: El Centro
+  Pos: OF
+  G: '41'
+  PO: '66'
+  A: '2'
+  E: '7'
+  DP: '0'
+  PCT: '.907'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Maupin
+  nameClub1: Las Vegas
+  Pos: OF
+  G: '128'
+  PO: '300'
+  A: '14'
+  E: '33'
+  DP: '2'
+  PCT: '.905'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Pearson
+  nameClub1: El Centro
+  Pos: OF
+  G: '71'
+  PO: '118'
+  A: '6'
+  E: '13'
+  DP: '2'
+  PCT: '.905'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Mascaro
+  nameClub1: Anaheim/San Bernardino
+  Pos: OF
+  G: '87'
+  PO: '142'
+  A: '14'
+  E: '18'
+  DP: '4'
+  PCT: '.897'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Gregory
+  nameClub1: Anaheim/San Bernardino
+  throws: L
+  Pos: OF
+  G: '78'
+  PO: '122'
+  A: '5'
+  E: '15'
+  DP: '2'
+  PCT: '.894'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Herrlinger
+  nameClub1: Anaheim/San Bernardino
+  Pos: OF
+  G: '35'
+  PO: '56'
+  A: '3'
+  E: '7'
+  DP: '0'
+  PCT: '.894'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Sharkey
+  nameClub1: Reno
+  Pos: OF
+  G: '10'
+  PO: '14'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Peccia
+  nameClub1: El Centro
+  Pos: OF
+  G: '41'
+  PO: '63'
+  A: '3'
+  E: '9'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Pena
+  nameClub1: Anaheim/San Bernardino
+  Pos: OF
+  G: '26'
+  PO: '39'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Samaha
+  nameClub1: Mexicali
+  Pos: OF
+  G: '45'
+  PO: '48'
+  A: '0'
+  E: '7'
+  DP: '0'
+  PCT: '.873'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Speridon
+  nameClub1: Riverside
+  Pos: OF
+  G: '18'
+  PO: '23'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.862'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Murchison
+  nameClub1: Reno
+  Pos: OF
+  G: '18'
+  PO: '33'
+  A: '4'
+  E: '6'
+  DP: '1'
+  PCT: '.860'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Viers
+  nameClub1: El Centro
+  Pos: OF
+  G: '12'
+  PO: '11'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Smyrni
+  nameClub1: Anaheim/San Bernardino
+  Pos: OF
+  G: '41'
+  PO: '54'
+  A: '4'
+  E: '11'
+  DP: '1'
+  PCT: '.841'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Myers
+  nameClub1: Las Vegas
+  Pos: C
+  G: '22'
+  PO: '128'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PB: '3'
+  PCT: '.993'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lloyd
+  nameFirst: T.
+  nameClub1: Reno
+  Pos: C
+  G: '125'
+  PO: '794'
+  A: '113'
+  E: '16'
+  DP: '14'
+  PB: '20'
+  PCT: '.983'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Castro
+  nameFirst: D.
+  nameClub1: Mexicali
+  Pos: C
+  G: '24'
+  PO: '128'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PB: '4'
+  PCT: '.979'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Wilson
+  nameClub1: Mexicali
+  Pos: C
+  G: '93'
+  PO: '616'
+  A: '60'
+  E: '15'
+  DP: '8'
+  PB: '8'
+  PCT: '.978'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: DeCarlo
+  nameClub1: Las Vegas
+  Pos: C
+  G: '89'
+  PO: '536'
+  A: '58'
+  E: '16'
+  DP: '8'
+  PB: '26'
+  PCT: '.974'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Boulanger
+  nameClub1: El Centro
+  Pos: C
+  G: '50'
+  PO: '281'
+  A: '46'
+  E: '12'
+  DP: '1'
+  PB: '17'
+  PCT: '.965'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Holmes
+  nameClub1: Riverside
+  Pos: C
+  G: '128'
+  PO: '736'
+  A: '84'
+  E: '31'
+  DP: '8'
+  PB: '33'
+  PCT: '.964'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Cook
+  nameClub1: El Centro
+  Pos: C
+  G: '77'
+  PO: '445'
+  A: '61'
+  E: '20'
+  DP: '3'
+  PB: '14'
+  PCT: '.962'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hinton
+  nameClub1: Mexicali
+  nameClub2: El Centro
+  Pos: C
+  G: '27'
+  PO: '137'
+  A: '15'
+  E: '6'
+  DP: '0'
+  PB: '8'
+  PCT: '.962'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Fiscalini
+  nameClub1: Anaheim/San Bernardino
+  Pos: C
+  G: '54'
+  PO: '250'
+  A: '22'
+  E: '11'
+  DP: '2'
+  PB: '7'
+  PCT: '.961'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Fontaine
+  nameClub1: Reno
+  Pos: C
+  G: '29'
+  PO: '124'
+  A: '21'
+  E: '7'
+  DP: '2'
+  PB: '3'
+  PCT: '.954'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Albini
+  nameClub1: Las Vegas
+  Pos: C
+  G: '13'
+  PO: '59'
+  A: '7'
+  E: '4'
+  DP: '0'
+  PB: '4'
+  PCT: '.943'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Grove
+  nameClub1: Anaheim/San Bernardino
+  Pos: C
+  G: '34'
+  PO: '171'
+  A: '29'
+  E: '13'
+  DP: '1'
+  PB: '8'
+  PCT: '.939'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Waitman
+  nameClub1: Riverside
+  nameClub2: Anaheim/San Bernardino
+  Pos: C
+  G: '34'
+  PO: '168'
+  A: '24'
+  E: '13'
+  DP: '2'
+  PB: '28'
+  PCT: '.937'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lapham
+  nameClub1: Las Vegas
+  nameClub2: Mexicali
+  Pos: C
+  G: '30'
+  PO: '122'
+  A: '24'
+  E: '11'
+  DP: '0'
+  PB: '5'
+  PCT: '.930'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Godfrey
+  nameClub1: Anaheim/San Bernardino
+  Pos: C
+  G: '17'
+  PO: '83'
+  A: '18'
+  E: '8'
+  DP: '1'
+  PB: '3'
+  PCT: '.927'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Gardner
+  nameClub1: Anaheim/San Bernardino
+  Pos: C
+  G: '10'
+  PO: '42'
+  A: '10'
+  E: '6'
+  DP: '2'
+  PB: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Anast
+  nameClub1: Las Vegas
+  Pos: P
+  G: '23'
+  PO: '9'
+  A: '21'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Garciglia
+  nameClub1: Mexicali
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '15'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Echeverria
+  nameClub1: Mexicali
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '16'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Seewald
+  nameClub1: Riverside
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Peluso
+  nameClub1: Las Vegas
+  Pos: P
+  G: '32'
+  PO: '0'
+  A: '13'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hansman
+  nameClub1: Mexicali
+  nameClub2: Las Vegas
+  Pos: P
+  G: '15'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: LanFranco
+  nameClub1: Riverside
+  Pos: P
+  G: '33'
+  PO: '13'
+  A: '36'
+  E: '1'
+  DP: '2'
+  PCT: '.980'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hanan
+  nameClub1: Anaheim/San Bernardino
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '5'
+  A: '39'
+  E: '1'
+  DP: '2'
+  PCT: '.978'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Montank
+  nameClub1: Las Vegas
+  nameClub2: Anaheim/San Bernardino
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '26'
+  E: '1'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Moreland
+  nameClub1: El Centro
+  Pos: P
+  G: '43'
+  PO: '20'
+  A: '86'
+  E: '4'
+  DP: '5'
+  PCT: '.964'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Pearson
+  nameClub1: El Centro
+  Pos: P
+  G: '17'
+  PO: '6'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Monninger
+  nameClub1: Mexicali
+  Pos: P
+  G: '25'
+  PO: '6'
+  A: '35'
+  E: '2'
+  DP: '3'
+  PCT: '.953'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Kanshin
+  nameClub1: Las Vegas
+  nameClub2: Riverside
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Condon
+  nameClub1: Riverside
+  Pos: P
+  G: '29'
+  PO: '9'
+  A: '40'
+  E: '3'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Roenspie
+  nameClub1: Anaheim/San Bernardino
+  Pos: P
+  G: '43'
+  PO: '7'
+  A: '41'
+  E: '3'
+  DP: '4'
+  PCT: '.941'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Wallerstein
+  nameClub1: Las Vegas
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '40'
+  E: '3'
+  DP: '4'
+  PCT: '.941'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Coutts
+  nameClub1: Mexicali
+  Pos: P
+  G: '32'
+  PO: '5'
+  A: '42'
+  E: '3'
+  DP: '4'
+  PCT: '.940'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Hinton
+  nameClub1: Mexicali
+  nameClub2: El Centro
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '12'
+  E: '1'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Corwin
+  nameClub1: Reno
+  Pos: P
+  G: '40'
+  PO: '10'
+  A: '64'
+  E: '5'
+  DP: '2'
+  PCT: '.937'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Garcia
+  nameFirst: M.
+  nameClub1: Mexicali
+  Pos: P
+  G: '39'
+  PO: '7'
+  A: '20'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Barrett
+  nameClub1: Las Vegas
+  Pos: P
+  G: '19'
+  PO: '8'
+  A: '31'
+  E: '3'
+  DP: '1'
+  PCT: '.929'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Silvery
+  nameClub1: Reno
+  Pos: P
+  G: '29'
+  PO: '5'
+  A: '31'
+  E: '3'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Shore
+  nameClub1: Reno
+  Pos: P
+  G: '15'
+  PO: '1'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Gowett
+  nameClub1: El Centro
+  Pos: P
+  G: '40'
+  PO: '15'
+  A: '68'
+  E: '7'
+  DP: '3'
+  PCT: '.922'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Schulte
+  nameClub1: Riverside
+  throws: L
+  Pos: P
+  G: '40'
+  PO: '10'
+  A: '47'
+  E: '5'
+  DP: '1'
+  PCT: '.919'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Spurlock
+  nameClub1: Reno
+  nameClub2: Anaheim/San Bernardino
+  Pos: P
+  G: '20'
+  PO: '1'
+  A: '10'
+  E: '1'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Baker
+  nameClub1: Riverside
+  Pos: P
+  G: '26'
+  PO: '5'
+  A: '15'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Tisnerat
+  nameClub1: Anaheim/San Bernardino
+  nameClub2: El Centro
+  Pos: P
+  G: '36'
+  PO: '15'
+  A: '50'
+  E: '7'
+  DP: '3'
+  PCT: '.903'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Valenzuela
+  nameClub1: Mexicali
+  Pos: P
+  G: '19'
+  PO: '3'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Lloyd
+  nameFirst: J.
+  nameClub1: Las Vegas
+  nameClub2: Reno
+  Pos: P
+  G: '27'
+  PO: '2'
+  A: '24'
+  E: '3'
+  DP: '3'
+  PCT: '.897'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Zundel
+  nameClub1: Las Vegas
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '29'
+  E: '5'
+  DP: '2'
+  PCT: '.889'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Peltz
+  nameClub1: Riverside
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Leduc
+  nameClub1: Mexicali
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.882'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Morones
+  nameClub1: Reno
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Pratt
+  nameClub1: Riverside
+  Pos: P
+  G: '28'
+  PO: '5'
+  A: '17'
+  E: '3'
+  DP: '0'
+  PCT: '.880'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Wiseman
+  nameClub1: El Centro
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '18'
+  E: '3'
+  DP: '3'
+  PCT: '.880'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Bruce
+  nameClub1: Anaheim/San Bernardino
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '24'
+  E: '4'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Palacio
+  nameClub1: El Centro
+  nameClub2: Mexicali
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Liddell
+  nameClub1: El Centro
+  Pos: P
+  G: '34'
+  PO: '15'
+  A: '25'
+  E: '6'
+  DP: '1'
+  PCT: '.870'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Shinn
+  nameClub1: Anaheim/San Bernardino
+  Pos: P
+  G: '36'
+  PO: '8'
+  A: '25'
+  E: '5'
+  DP: '1'
+  PCT: '.868'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Sexton
+  nameClub1: Reno
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '10'
+  A: '36'
+  E: '8'
+  DP: '1'
+  PCT: '.852'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Morris
+  nameFirst: R.
+  nameClub1: Reno
+  Pos: P
+  G: '32'
+  PO: '7'
+  A: '24'
+  E: '6'
+  DP: '3'
+  PCT: '.838'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Wilshire
+  nameClub1: Anaheim/San Bernardino
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Morris
+  nameClub1: El Centro
+  throws: L
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '12'
+  E: '4'
+  DP: '0'
+  PCT: '.789'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Knudson
+  nameClub1: Las Vegas
+  nameClub2: Reno
+  throws: L
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '42'
+  E: '13'
+  DP: '0'
+  PCT: '.787'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Encinas
+  nameClub1: Mexicali
+  Pos: P
+  G: '10'
+  PO: '2'
+  A: '10'
+  E: '4'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1948'
+  nameLeague: Sunset League
+  nameLast: Stewart
+  nameFirst: C.
+  nameClub1: Mexicali
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '24'
+  E: '9'
+  DP: '2'
+  PCT: '.743'
+  TP: '0'

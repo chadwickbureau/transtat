@@ -1,0 +1,118 @@
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Dubuque
+  phase: regular
+  W: '74'
+  L: '52'
+  T: '0'
+  PCT: '.587'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '0'
+  PCT: '.544'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Clinton
+  phase: regular
+  W: '68'
+  L: '57'
+  T: '0'
+  PCT: '.544'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Kokomo
+  phase: regular
+  W: '64'
+  L: '62'
+  T: '1'
+  PCT: '.508'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Lafayette
+  phase: regular
+  W: '63'
+  L: '63'
+  T: '0'
+  PCT: '.500'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Decatur
+  phase: regular
+  W: '62'
+  L: '64'
+  T: '0'
+  PCT: '.492'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Paris
+  phase: regular
+  W: '62'
+  L: '64'
+  T: '0'
+  PCT: '.492'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Hannibal
+  phase: regular
+  W: '42'
+  L: '84'
+  T: '1'
+  PCT: '.333'
+  RANK: '8'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Dubuque
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Clinton
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Kokomo
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Dubuque
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Mississippi-Ohio Valley League
+  nameClub: Mattoon
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

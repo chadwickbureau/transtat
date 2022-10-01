@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: regular
+  W: '93'
+  L: '47'
+  T: '1'
+  PCT: '.664'
+  RANK: '1'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: regular
+  W: '75'
+  L: '65'
+  T: '1'
+  PCT: '.536'
+  RANK: '2'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: regular
+  W: '74'
+  L: '66'
+  T: '1'
+  PCT: '.529'
+  RANK: '2'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: regular
+  W: '72'
+  L: '68'
+  T: '1'
+  PCT: '.514'
+  RANK: '4'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Visalia
+  phase: regular
+  W: '67'
+  L: '73'
+  T: '0'
+  PCT: '.479'
+  RANK: '5'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Fresno
+  phase: regular
+  W: '64'
+  L: '77'
+  T: '0'
+  PCT: '.454'
+  RANK: '6'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Modesto
+  phase: regular
+  W: '64'
+  L: '77'
+  T: '0'
+  PCT: '.454'
+  RANK: '6'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Ventura
+  phase: regular
+  W: '52'
+  L: '88'
+  T: '0'
+  PCT: '.371'
+  RANK: '8'
+- year: '1953'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Santa Barbara
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Bakersfield
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  RANK: '2'
+- year: '1953'
+  nameLeague: California League
+  nameClub: San Jose
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: California League
+  nameClub: Stockton
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

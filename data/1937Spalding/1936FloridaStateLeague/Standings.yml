@@ -1,0 +1,86 @@
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: regular
+  W: '65'
+  L: '55'
+  PCT: '.542'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: regular
+  W: '62'
+  L: '54'
+  PCT: '.534'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: regular
+  W: '60'
+  L: '60'
+  PCT: '.500'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: regular
+  W: '58'
+  L: '60'
+  PCT: '.492'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  phase: regular
+  W: '56'
+  L: '62'
+  PCT: '.475'
+  RANK: '5'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  phase: regular
+  W: '53'
+  L: '63'
+  PCT: '.457'
+  RANK: '6'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: semifinal
+  division: Semifinal 1
+  RANK: '1'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  phase: semifinal
+  division: Semifinal 1
+  RANK: '2'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: semifinal
+  division: Semifinal 2
+  RANK: '1'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  phase: semifinal
+  division: Semifinal 2
+  RANK: '2'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

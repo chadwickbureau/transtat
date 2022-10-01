@@ -1,0 +1,64 @@
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Tiffin
+  phase: regular/first
+  W: '27'
+  L: '14'
+  PCT: '.659'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Fremont
+  phase: regular/first
+  W: '23'
+  L: '21'
+  PCT: '.523'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Fostoria
+  phase: regular/first
+  W: '21'
+  L: '20'
+  PCT: '.512'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Sandusky
+  phase: regular/first
+  W: '19'
+  L: '24'
+  PCT: '.442'
+  RANK: '4'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Tiffin
+  phase: regular/second
+  W: '33'
+  L: '21'
+  PCT: '.611'
+  RANK: '1'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Sandusky
+  phase: regular/second
+  W: '32'
+  L: '22'
+  PCT: '.593'
+  RANK: '2'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Fostoria
+  phase: regular/second
+  W: '24'
+  L: '30'
+  PCT: '.444'
+  RANK: '3'
+- year: '1936'
+  nameLeague: Ohio State League
+  nameClub: Fremont
+  phase: regular/second
+  W: '19'
+  L: '35'
+  PCT: '.352'
+  RANK: '4'

@@ -1,0 +1,72 @@
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  phase: regular
+  W: '101'
+  L: '67'
+  T: '0'
+  PCT: '.601'
+  RANK: '1'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: Vancouver
+  phase: regular
+  W: '97'
+  L: '70'
+  T: '1'
+  PCT: '.581'
+  RANK: '2'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  phase: regular
+  W: '94'
+  L: '74'
+  T: '0'
+  PCT: '.560'
+  RANK: '3'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  phase: regular
+  W: '89'
+  L: '79'
+  T: '0'
+  PCT: '.530'
+  RANK: '4'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  phase: regular
+  W: '87'
+  L: '80'
+  T: '1'
+  PCT: '.521'
+  RANK: '5'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  phase: regular
+  W: '80'
+  L: '88'
+  T: '0'
+  PCT: '.476'
+  RANK: '6'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  phase: regular
+  W: '63'
+  L: '105'
+  T: '0'
+  PCT: '.375'
+  RANK: '7'
+- year: '1957'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  phase: regular
+  W: '60'
+  L: '108'
+  T: '0'
+  PCT: '.357'
+  RANK: '8'

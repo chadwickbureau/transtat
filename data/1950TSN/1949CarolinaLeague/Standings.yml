@@ -1,0 +1,124 @@
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular
+  W: '86'
+  L: '57'
+  T: '0'
+  PCT: '.601'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular
+  W: '84'
+  L: '61'
+  T: '2'
+  PCT: '.579'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: regular
+  W: '76'
+  L: '68'
+  T: '0'
+  PCT: '.528'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: regular
+  W: '72'
+  L: '72'
+  T: '0'
+  PCT: '.500'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular
+  W: '72'
+  L: '73'
+  T: '0'
+  PCT: '.497'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular
+  W: '70'
+  L: '72'
+  T: '0'
+  PCT: '.493'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Reidsville
+  phase: regular
+  W: '63'
+  L: '80'
+  T: '1'
+  PCT: '.441'
+  RANK: '7'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  phase: regular
+  W: '52'
+  L: '92'
+  T: '1'
+  PCT: '.361'
+  RANK: '8'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: final
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: final
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'

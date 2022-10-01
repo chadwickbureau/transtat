@@ -1,0 +1,2647 @@
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Rogers
+  nameClub1: Winnipeg
+  Pos: 1B
+  G: '15'
+  PO: '83'
+  A: '4'
+  E: '0'
+  DP: '9'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Martin
+  nameFirst: J.
+  nameClub1: Duluth-Superior
+  Pos: 1B
+  G: '123'
+  PO: '991'
+  A: '43'
+  E: '12'
+  DP: '60'
+  PCT: '.989'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Stubing
+  nameClub1: St. Cloud
+  throws: L
+  Pos: 1B
+  G: '123'
+  PO: '1124'
+  A: '52'
+  E: '14'
+  DP: '110'
+  PCT: '.988'
+  TP: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Smith
+  nameClub1: Eau Claire
+  throws: L
+  Pos: 1B
+  G: '91'
+  PO: '754'
+  A: '45'
+  E: '12'
+  DP: '76'
+  PCT: '.985'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Merklen
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: 1B
+  G: '123'
+  PO: '994'
+  A: '61'
+  E: '17'
+  DP: '141'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Landenberger
+  nameClub1: Minot
+  throws: L
+  Pos: 1B
+  G: '26'
+  PO: '224'
+  A: '16'
+  E: '4'
+  DP: '21'
+  PCT: '.984'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Rozich
+  nameClub1: Aberdeen
+  Pos: 1B
+  G: '14'
+  PO: '96'
+  A: '5'
+  E: '2'
+  DP: '9'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Sullivan
+  nameClub1: Winnipeg
+  throws: L
+  Pos: 1B
+  G: '102'
+  PO: '868'
+  A: '64'
+  E: '19'
+  DP: '113'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Bates
+  nameClub1: Minot
+  Pos: 1B
+  G: '58'
+  PO: '458'
+  A: '23'
+  E: '11'
+  DP: '41'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Cormack
+  nameClub1: Minot
+  throws: L
+  Pos: 1B
+  G: '42'
+  PO: '355'
+  A: '20'
+  E: '14'
+  DP: '43'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Clendenon
+  nameClub1: Grand Forks
+  Pos: 1B
+  G: '119'
+  PO: '981'
+  A: '67'
+  E: '40'
+  DP: '93'
+  PCT: '.963'
+  TP: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gilbert
+  nameClub1: Aberdeen
+  throws: L
+  Pos: 1B
+  G: '93'
+  PO: '628'
+  A: '39'
+  E: '26'
+  DP: '50'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Madaio
+  nameClub1: Aberdeen
+  throws: L
+  Pos: 1B
+  G: '21'
+  PO: '150'
+  A: '12'
+  E: '7'
+  DP: '17'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Peterson
+  nameClub1: Eau Claire
+  throws: L
+  Pos: 1B
+  G: '29'
+  PO: '172'
+  A: '15'
+  E: '9'
+  DP: '25'
+  PCT: '.954'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Terilli
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '74'
+  PO: '167'
+  A: '213'
+  E: '11'
+  DP: '50'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Brummer
+  nameClub1: Fargo-Moorhead
+  Pos: 2B
+  G: '119'
+  PO: '334'
+  A: '367'
+  E: '21'
+  DP: '121'
+  PCT: '.971'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: White
+  nameClub1: Grand Forks
+  Pos: 2B
+  G: '60'
+  PO: '175'
+  A: '76'
+  E: '9'
+  DP: '29'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Ryan
+  nameClub1: Aberdeen
+  Pos: 2B
+  G: '14'
+  PO: '27'
+  A: '23'
+  E: '2'
+  DP: '8'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Hiller
+  nameClub1: Minot
+  Pos: 2B
+  G: '120'
+  PO: '339'
+  A: '308'
+  E: '26'
+  DP: '91'
+  PCT: '.961'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Yeomans
+  nameClub1: St. Cloud
+  Pos: 2B
+  G: '93'
+  PO: '245'
+  A: '234'
+  E: '20'
+  DP: '62'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Olesko
+  nameClub1: Duluth-Superior
+  Pos: 2B
+  G: '48'
+  PO: '116'
+  A: '106'
+  E: '10'
+  DP: '20'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Moore
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '25'
+  PO: '56'
+  A: '67'
+  E: '6'
+  DP: '13'
+  PCT: '.953'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Nicotera
+  nameClub1: Grand Forks
+  Pos: 2B
+  G: '10'
+  PO: '13'
+  A: '25'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gotay
+  nameClub1: Winnipeg
+  Pos: 2B
+  G: '26'
+  PO: '71'
+  A: '60'
+  E: '7'
+  DP: '19'
+  PCT: '.949'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gonzalez
+  nameClub1: Aberdeen
+  Pos: 2B
+  G: '49'
+  PO: '122'
+  A: '117'
+  E: '13'
+  DP: '30'
+  PCT: '.948'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: McDevitt
+  nameClub1: Winnipeg
+  Pos: 2B
+  G: '94'
+  PO: '253'
+  A: '263'
+  E: '29'
+  DP: '87'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Laschen
+  nameClub1: Duluth-Superior
+  Pos: 2B
+  G: '22'
+  PO: '47'
+  A: '42'
+  E: '5'
+  DP: '9'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Boring
+  nameClub1: St. Cloud
+  Pos: 2B
+  G: '11'
+  PO: '26'
+  A: '26'
+  E: '3'
+  DP: '6'
+  PCT: '.945'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Wasem
+  nameClub1: Duluth-Superior
+  Pos: 2B
+  G: '29'
+  PO: '64'
+  A: '33'
+  E: '6'
+  DP: '9'
+  PCT: '.942'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Bohannion
+  nameClub1: Duluth-Superior
+  Pos: 2B
+  G: '12'
+  PO: '25'
+  A: '24'
+  E: '3'
+  DP: '4'
+  PCT: '.942'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Puma
+  nameClub1: Duluth-Superior
+  Pos: 2B
+  G: '20'
+  PO: '38'
+  A: '56'
+  E: '6'
+  DP: '7'
+  PCT: '.940'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Hernandez
+  nameClub1: Aberdeen
+  Pos: 2B
+  G: '58'
+  PO: '142'
+  A: '105'
+  E: '17'
+  DP: '35'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Jenne
+  nameClub1: St. Cloud
+  Pos: 2B
+  G: '13'
+  PO: '30'
+  A: '34'
+  E: '5'
+  DP: '7'
+  PCT: '.928'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Perez
+  nameClub1: Eau Claire
+  Pos: 2B
+  G: '21'
+  PO: '50'
+  A: '48'
+  E: '8'
+  DP: '11'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Bender
+  nameClub1: Grand Forks
+  Pos: 2B
+  G: '52'
+  PO: '126'
+  A: '131'
+  E: '29'
+  DP: '26'
+  PCT: '.899'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gallego
+  nameClub1: Minot
+  Pos: 3B
+  G: '107'
+  PO: '104'
+  A: '235'
+  E: '20'
+  DP: '23'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Mueller
+  nameClub1: Fargo-Moorhead
+  Pos: 3B
+  G: '11'
+  PO: '9'
+  A: '23'
+  E: '2'
+  DP: '4'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: DeMars
+  nameClub1: Aberdeen
+  Pos: 3B
+  G: '22'
+  PO: '20'
+  A: '59'
+  E: '5'
+  DP: '5'
+  PCT: '.940'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Terilli
+  nameClub1: Eau Claire
+  Pos: 3B
+  G: '47'
+  PO: '49'
+  A: '90'
+  E: '11'
+  DP: '12'
+  PCT: '.927'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Skorupski
+  nameClub1: Minot
+  Pos: 3B
+  G: '16'
+  PO: '14'
+  A: '35'
+  E: '4'
+  DP: '3'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: White
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '51'
+  PO: '59'
+  A: '109'
+  E: '14'
+  DP: '6'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Smith
+  nameClub1: Duluth-Superior
+  Pos: 3B
+  G: '114'
+  PO: '114'
+  A: '203'
+  E: '28'
+  DP: '26'
+  PCT: '.919'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Fiore
+  nameClub1: St. Cloud
+  Pos: 3B
+  G: '108'
+  PO: '102'
+  A: '243'
+  E: '32'
+  DP: '22'
+  PCT: '.915'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Rogers
+  nameClub1: Winnipeg
+  Pos: 3B
+  G: '22'
+  PO: '18'
+  A: '36'
+  E: '5'
+  DP: '7'
+  PCT: '.915'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Dunlap
+  nameClub1: Aberdeen
+  Pos: 3B
+  G: '46'
+  PO: '31'
+  A: '72'
+  E: '11'
+  DP: '11'
+  PCT: '.904'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Thublin
+  nameClub1: Fargo-Moorhead
+  Pos: 3B
+  G: '60'
+  PO: '90'
+  A: '105'
+  E: '21'
+  DP: '14'
+  PCT: '.903'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Stotler
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '24'
+  PO: '13'
+  A: '40'
+  E: '6'
+  DP: '3'
+  PCT: '.898'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Schaffer
+  nameClub1: Winnipeg
+  Pos: 3B
+  G: '11'
+  PO: '15'
+  A: '29'
+  E: '5'
+  DP: '4'
+  PCT: '.898'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Paul
+  nameClub1: Fargo-Moorhead
+  Pos: 3B
+  G: '14'
+  PO: '20'
+  A: '31'
+  E: '6'
+  DP: '2'
+  PCT: '.895'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Hernandez
+  nameClub1: Aberdeen
+  Pos: 3B
+  G: '42'
+  PO: '39'
+  A: '76'
+  E: '14'
+  DP: '12'
+  PCT: '.891'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Rubio
+  nameClub1: Fargo-Moorhead
+  Pos: 3B
+  G: '25'
+  PO: '16'
+  A: '41'
+  E: '7'
+  DP: '3'
+  PCT: '.891'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: DeRario
+  nameClub1: Grand Forks
+  Pos: 3B
+  G: '35'
+  PO: '35'
+  A: '52'
+  E: '11'
+  DP: '6'
+  PCT: '.888'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gotay
+  nameClub1: Winnipeg
+  Pos: 3B
+  G: '77'
+  PO: '64'
+  A: '167'
+  E: '30'
+  DP: '23'
+  PCT: '.885'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Wasem
+  nameClub1: Duluth-Superior
+  Pos: 3B
+  G: '11'
+  PO: '8'
+  A: '19'
+  E: '4'
+  DP: '0'
+  PCT: '.871'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Perez
+  nameClub1: Eau Claire
+  Pos: 3B
+  G: '72'
+  PO: '57'
+  A: '101'
+  E: '24'
+  DP: '8'
+  PCT: '.868'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Beattie
+  nameClub1: Aberdeen
+  Pos: 3B
+  G: '11'
+  PO: '12'
+  A: '11'
+  E: '7'
+  DP: '2'
+  PCT: '.767'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Mathes
+  nameClub1: St. Cloud
+  Pos: SS
+  G: '49'
+  PO: '88'
+  A: '171'
+  E: '12'
+  DP: '51'
+  PCT: '.956'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: DeMars
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '35'
+  PO: '47'
+  A: '98'
+  E: '8'
+  DP: '8'
+  PCT: '.948'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Moore
+  nameClub1: Eau Claire
+  Pos: SS
+  G: '63'
+  PO: '85'
+  A: '176'
+  E: '15'
+  DP: '38'
+  PCT: '.946'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: De La Hoz
+  nameClub1: Minot
+  Pos: SS
+  G: '122'
+  PO: '184'
+  A: '341'
+  E: '34'
+  DP: '69'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Weldon
+  nameClub1: Fargo-Moorhead
+  Pos: SS
+  G: '120'
+  PO: '220'
+  A: '350'
+  E: '40'
+  DP: '95'
+  PCT: '.934'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Aloisi
+  nameClub1: Winnipeg
+  Pos: SS
+  G: '104'
+  PO: '148'
+  A: '290'
+  E: '32'
+  DP: '63'
+  PCT: '.932'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Wisniewski
+  nameClub1: St. Cloud
+  Pos: SS
+  G: '52'
+  PO: '76'
+  A: '156'
+  E: '18'
+  DP: '27'
+  PCT: '.928'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Valladares
+  nameClub1: Duluth-Superior
+  Pos: SS
+  G: '123'
+  PO: '181'
+  A: '309'
+  E: '39'
+  DP: '33'
+  PCT: '.926'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Sanchez
+  nameClub1: Grand Forks
+  Pos: SS
+  G: '113'
+  PO: '185'
+  A: '319'
+  E: '43'
+  DP: '59'
+  PCT: '.921'
+  TP: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Strickland
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '26'
+  PO: '46'
+  A: '80'
+  E: '11'
+  DP: '12'
+  PCT: '.920'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Coleman
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '48'
+  PO: '66'
+  A: '114'
+  E: '18'
+  DP: '19'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gotay
+  nameClub1: Winnipeg
+  Pos: SS
+  G: '15'
+  PO: '23'
+  A: '44'
+  E: '7'
+  DP: '9'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Hernandez
+  nameClub1: Aberdeen
+  Pos: SS
+  G: '19'
+  PO: '24'
+  A: '43'
+  E: '7'
+  DP: '6'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Yeomans
+  nameClub1: St. Cloud
+  Pos: SS
+  G: '15'
+  PO: '17'
+  A: '38'
+  E: '6'
+  DP: '1'
+  PCT: '.902'
+  TP: '1'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Aaron
+  nameClub1: Eau Claire
+  Pos: SS
+  G: '23'
+  PO: '42'
+  A: '64'
+  E: '13'
+  DP: '17'
+  PCT: '.891'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Samuel
+  nameClub1: Eau Claire
+  Pos: SS
+  G: '38'
+  PO: '51'
+  A: '117'
+  E: '22'
+  DP: '19'
+  PCT: '.884'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Emaar
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '21'
+  PO: '42'
+  A: '2'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Hunt
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '19'
+  PO: '40'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Mobley
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '24'
+  PO: '37'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Thublin
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '11'
+  PO: '29'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Smith
+  nameClub1: Eau Claire
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '14'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: DeMars
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '18'
+  PO: '11'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Layana
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '48'
+  PO: '75'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Aaron
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '46'
+  PO: '48'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Hill
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '28'
+  PO: '52'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Jimenez
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '105'
+  PO: '194'
+  A: '19'
+  E: '4'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Brown
+  nameClub1: Winnipeg
+  Pos: OF
+  G: '23'
+  PO: '47'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Figueroa
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '59'
+  PO: '125'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Patrick
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '36'
+  PO: '39'
+  A: '4'
+  E: '1'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Lock
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '115'
+  PO: '196'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.976'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Stotler
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '19'
+  PO: '36'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Bender
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '21'
+  PO: '34'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Palma
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '22'
+  PO: '36'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Williams
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '44'
+  PO: '67'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Burdick
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '19'
+  PO: '34'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Paul
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '109'
+  PO: '279'
+  A: '11'
+  E: '9'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Lanier
+  nameClub1: Minot
+  Pos: OF
+  G: '40'
+  PO: '59'
+  A: '6'
+  E: '2'
+  DP: '0'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Huber
+  nameClub1: Minot
+  Pos: OF
+  G: '102'
+  PO: '143'
+  A: '12'
+  E: '5'
+  DP: '2'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Nicotera
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '20'
+  PO: '30'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Pawlow
+  nameClub1: St. Cloud
+  throws: L
+  Pos: OF
+  G: '123'
+  PO: '187'
+  A: '9'
+  E: '7'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Beattie
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '91'
+  PO: '132'
+  A: '11'
+  E: '5'
+  DP: '1'
+  PCT: '.966'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Alou
+  nameClub1: St. Cloud
+  throws: L
+  Pos: OF
+  G: '120'
+  PO: '261'
+  A: '11'
+  E: '10'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Pizarro
+  nameClub1: Grand Forks
+  Pos: OF
+  G: '115'
+  PO: '203'
+  A: '12'
+  E: '8'
+  DP: '2'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Moegle
+  nameClub1: Winnipeg
+  Pos: OF
+  G: '112'
+  PO: '178'
+  A: '8'
+  E: '7'
+  DP: '0'
+  PCT: '.964'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Williams
+  nameFirst: W.
+  nameClub1: Minot
+  Pos: OF
+  G: '114'
+  PO: '252'
+  A: '11'
+  E: '10'
+  DP: '6'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Spicuzza
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '82'
+  PO: '139'
+  A: '8'
+  E: '6'
+  DP: '0'
+  PCT: '.961'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Groves
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '11'
+  PO: '21'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Mrofka
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '11'
+  PO: '22'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Napoleon
+  nameClub1: Winnipeg
+  Pos: OF
+  G: '90'
+  PO: '150'
+  A: '14'
+  E: '7'
+  DP: '1'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Johnson
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '123'
+  PO: '242'
+  A: '11'
+  E: '11'
+  DP: '4'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Barbosa
+  nameClub1: Eau Claire
+  throws: L
+  Pos: OF
+  G: '19'
+  PO: '22'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.958'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Mayer
+  nameClub1: Fargo-Moorhead
+  throws: L
+  Pos: OF
+  G: '73'
+  PO: '144'
+  A: '6'
+  E: '7'
+  DP: '2'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Brown
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '49'
+  PO: '101'
+  A: '6'
+  E: '5'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Troy
+  nameClub1: Minot
+  throws: L
+  Pos: OF
+  G: '16'
+  PO: '21'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Ryder
+  nameClub1: Eau Claire
+  Pos: OF
+  G: '97'
+  PO: '129'
+  A: '10'
+  E: '7'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gordon
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '19'
+  PO: '38'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Meyer
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '30'
+  PO: '56'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.951'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Johnson
+  nameClub1: Fargo-Moorhead
+  Pos: OF
+  G: '15'
+  PO: '36'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.950'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Robinson
+  nameClub1: Winnipeg
+  throws: L
+  Pos: OF
+  G: '108'
+  PO: '175'
+  A: '17'
+  E: '11'
+  DP: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Phifer
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '29'
+  PO: '45'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.941'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Baker
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '26'
+  PO: '30'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Pulliam
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '71'
+  PO: '132'
+  A: '5'
+  E: '9'
+  DP: '1'
+  PCT: '.938'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Schmitt
+  nameClub1: Winnipeg
+  Pos: OF
+  G: '12'
+  PO: '28'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Wasem
+  nameClub1: Duluth-Superior
+  Pos: OF
+  G: '51'
+  PO: '93'
+  A: '5'
+  E: '8'
+  DP: '1'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Lee
+  nameClub1: Aberdeen
+  Pos: OF
+  G: '44'
+  PO: '60'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Madaio
+  nameClub1: Aberdeen
+  throws: L
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '0'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Peterson
+  nameClub1: Eau Claire
+  throws: L
+  Pos: OF
+  G: '66'
+  PO: '61'
+  A: '10'
+  E: '6'
+  DP: '3'
+  PCT: '.922'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Skorupski
+  nameClub1: Minot
+  Pos: OF
+  G: '65'
+  PO: '89'
+  A: '10'
+  E: '9'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Fish
+  nameClub1: Minot
+  Pos: OF
+  G: '32'
+  PO: '40'
+  A: '0'
+  E: '4'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Cockrell
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '26'
+  PO: '29'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.906'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Perry
+  nameFirst: R.
+  nameClub1: St. Cloud
+  Pos: OF
+  G: '15'
+  PO: '7'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: West
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '16'
+  PO: '83'
+  A: '15'
+  E: '0'
+  DP: '3'
+  PB: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Jenne
+  nameClub1: St. Cloud
+  Pos: C
+  G: '11'
+  PO: '47'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PB: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Martin
+  nameFirst: E.
+  nameClub1: Duluth-Superior
+  Pos: C
+  G: '57'
+  PO: '377'
+  A: '41'
+  E: '3'
+  DP: '5'
+  PB: '7'
+  PCT: '.993'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Morlan
+  nameClub1: Minot
+  Pos: C
+  G: '87'
+  PO: '563'
+  A: '27'
+  E: '5'
+  DP: '8'
+  PB: '8'
+  PCT: '.992'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: White
+  nameClub1: Aberdeen
+  Pos: C
+  G: '44'
+  PO: '358'
+  A: '27'
+  E: '4'
+  DP: '4'
+  PB: '14'
+  PCT: '.990'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: McCluskey
+  nameClub1: Aberdeen
+  Pos: C
+  G: '16'
+  PO: '88'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PB: '6'
+  PCT: '.989'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Schaffer
+  nameClub1: Winnipeg
+  Pos: C
+  G: '94'
+  PO: '539'
+  A: '60'
+  E: '7'
+  DP: '11'
+  PB: '9'
+  PCT: '.988'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Bohannion
+  nameClub1: Duluth-Superior
+  Pos: C
+  G: '34'
+  PO: '273'
+  A: '24'
+  E: '4'
+  DP: '1'
+  PB: '9'
+  PCT: '.987'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Warner
+  nameClub1: Eau Claire
+  Pos: C
+  G: '88'
+  PO: '616'
+  A: '39'
+  E: '10'
+  DP: '4'
+  PB: '9'
+  PCT: '.985'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Baker
+  nameClub1: Duluth-Superior
+  Pos: C
+  G: '39'
+  PO: '229'
+  A: '32'
+  E: '5'
+  DP: '3'
+  PB: '8'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Newton
+  nameClub1: Minot
+  Pos: C
+  G: '35'
+  PO: '197'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PB: '6'
+  PCT: '.981'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Way
+  nameClub1: Eau Claire
+  Pos: C
+  G: '20'
+  PO: '139'
+  A: '11'
+  E: '3'
+  DP: '1'
+  PB: '11'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Jamieson
+  nameClub1: Grand Forks
+  Pos: C
+  G: '32'
+  PO: '208'
+  A: '26'
+  E: '5'
+  DP: '6'
+  PB: '17'
+  PCT: '.979'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Bishop
+  nameClub1: Aberdeen
+  Pos: C
+  G: '57'
+  PO: '414'
+  A: '46'
+  E: '12'
+  DP: '6'
+  PB: '17'
+  PCT: '.975'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Kampschror
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '82'
+  PO: '443'
+  A: '43'
+  E: '13'
+  DP: '10'
+  PB: '27'
+  PCT: '.974'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Emaar
+  nameClub1: Grand Forks
+  Pos: C
+  G: '56'
+  PO: '347'
+  A: '36'
+  E: '11'
+  DP: '5'
+  PB: '14'
+  PCT: '.972'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Christiansen
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '16'
+  PO: '83'
+  A: '9'
+  E: '3'
+  DP: '0'
+  PB: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Orsino
+  nameClub1: St. Cloud
+  Pos: C
+  G: '106'
+  PO: '681'
+  A: '60'
+  E: '27'
+  DP: '4'
+  PB: '37'
+  PCT: '.965'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Whitcomb
+  nameClub1: Grand Forks
+  Pos: C
+  G: '24'
+  PO: '158'
+  A: '17'
+  E: '7'
+  DP: '1'
+  PB: '10'
+  PCT: '.962'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Rogers
+  nameClub1: Winnipeg
+  Pos: C
+  G: '19'
+  PO: '115'
+  A: '8'
+  E: '5'
+  DP: '5'
+  PB: '4'
+  PCT: '.961'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Infante
+  nameClub1: Eau Claire
+  Pos: C
+  G: '16'
+  PO: '94'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PB: '7'
+  PCT: '.960'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Crihfield
+  nameClub1: Fargo-Moorhead
+  Pos: C
+  G: '11'
+  PO: '41'
+  A: '6'
+  E: '2'
+  DP: '1'
+  PB: '2'
+  PCT: '.959'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Beattie
+  nameClub1: Aberdeen
+  Pos: C
+  G: '14'
+  PO: '107'
+  A: '7'
+  E: '7'
+  DP: '1'
+  PB: '4'
+  PCT: '.942'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Perry
+  nameFirst: G.
+  nameClub1: St. Cloud
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '20'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Starrette
+  nameClub1: Aberdeen
+  Pos: P
+  G: '21'
+  PO: '3'
+  A: '21'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Brinson
+  nameClub1: Minot
+  Pos: P
+  G: '33'
+  PO: '10'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Johnson
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '41'
+  PO: '6'
+  A: '18'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Becraft
+  nameClub1: Minot
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '2'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Breedlove
+  nameClub1: Aberdeen
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '11'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Groth
+  nameClub1: Duluth-Superior
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '9'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Cockroft
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Carden
+  nameClub1: Aberdeen
+  Pos: P
+  G: '16'
+  PO: '0'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Schatz
+  nameClub1: St. Cloud
+  Pos: P
+  G: '27'
+  PO: '9'
+  A: '39'
+  E: '1'
+  DP: '1'
+  PCT: '.980'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Johnston
+  nameClub1: St. Cloud
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '41'
+  E: '1'
+  DP: '1'
+  PCT: '.989'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Ramont
+  nameClub1: Eau Claire
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '39'
+  E: '1'
+  DP: '1'
+  PCT: '.978'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Taylor
+  nameClub1: Minot
+  Pos: P
+  G: '29'
+  PO: '11'
+  A: '32'
+  E: '1'
+  DP: '3'
+  PCT: '.977'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Swango
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '23'
+  PO: '12'
+  A: '20'
+  E: '1'
+  DP: '3'
+  PCT: '.970'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Stanton
+  nameClub1: Grand Forks
+  Pos: P
+  G: '12'
+  PO: '7'
+  A: '19'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Torres
+  nameClub1: Grand Forks
+  Pos: P
+  G: '25'
+  PO: '4'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Griffiths
+  nameClub1: St. Cloud
+  Pos: P
+  G: '29'
+  PO: '5'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Brice
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '18'
+  E: '1'
+  DP: '1'
+  PCT: '.952'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Quinn
+  nameClub1: St. Cloud
+  Pos: P
+  G: '29'
+  PO: '10'
+  A: '45'
+  E: '3'
+  DP: '3'
+  PCT: '.948'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Andress
+  nameClub1: Grand Forks
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: McFadden
+  nameClub1: Winnipeg
+  throws: L
+  Pos: P
+  G: '24'
+  PO: '6'
+  A: '29'
+  E: '2'
+  DP: '3'
+  PCT: '.946'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: York
+  nameClub1: Eau Claire
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '16'
+  E: '1'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Ackley
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '35'
+  PO: '4'
+  A: '29'
+  E: '2'
+  DP: '1'
+  PCT: '.943'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Christoff
+  nameClub1: Eau Claire
+  Pos: P
+  G: '25'
+  PO: '13'
+  A: '34'
+  E: '3'
+  DP: '4'
+  PCT: '.940'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Grant
+  nameClub1: Minot
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '8'
+  A: '36'
+  E: '3'
+  DP: '1'
+  PCT: '.936'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gaston
+  nameClub1: Winnipeg
+  throws: L
+  Pos: P
+  G: '37'
+  PO: '2'
+  A: '26'
+  E: '2'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Zeihen
+  nameClub1: Eau Claire
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Maxie
+  nameClub1: Eau Claire
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Keller
+  nameClub1: Winnipeg
+  Pos: P
+  G: '20'
+  PO: '4'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Perry
+  nameFirst: R.
+  nameClub1: St. Cloud
+  Pos: P
+  G: '30'
+  PO: '19'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Maras
+  nameClub1: Grand Forks
+  Pos: P
+  G: '27'
+  PO: '4'
+  A: '23'
+  E: '2'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Acosta
+  nameClub1: Grand Forks
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '23'
+  E: '2'
+  DP: '1'
+  PCT: '.931'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Willison
+  nameClub1: Winnipeg
+  Pos: P
+  G: '33'
+  PO: '12'
+  A: '54'
+  E: '5'
+  DP: '3'
+  PCT: '.930'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Rupert
+  nameClub1: Grand Forks
+  Pos: P
+  G: '28'
+  PO: '13'
+  A: '26'
+  E: '3'
+  DP: '2'
+  PCT: '.929'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Guckert
+  nameClub1: Aberdeen
+  Pos: P
+  G: '38'
+  PO: '8'
+  A: '17'
+  E: '2'
+  DP: '2'
+  PCT: '.926'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Sadecki
+  nameClub1: Winnipeg
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '7'
+  A: '18'
+  E: '2'
+  DP: '3'
+  PCT: '.926'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Peterson
+  nameClub1: Winnipeg
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '7'
+  A: '42'
+  E: '4'
+  DP: '0'
+  PCT: '.925'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Dalton
+  nameClub1: Eau Claire
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Stewart
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '29'
+  PO: '13'
+  A: '42'
+  E: '5'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Tomlinson
+  nameClub1: Minot
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '30'
+  E: '3'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Denney
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '18'
+  PO: '12'
+  A: '10'
+  E: '2'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Matta
+  nameClub1: Eau Claire
+  throws: L
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '28'
+  E: '3'
+  DP: '3'
+  PCT: '.912'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Tagliaferro
+  nameClub1: St. Cloud
+  Pos: P
+  G: '10'
+  PO: '5'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Kinart
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '27'
+  PO: '5'
+  A: '33'
+  E: '4'
+  DP: '5'
+  PCT: '.905'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Burton
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '25'
+  PO: '12'
+  A: '14'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Bolin
+  nameClub1: St. Cloud
+  Pos: P
+  G: '26'
+  PO: '8'
+  A: '24'
+  E: '4'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Gums
+  nameClub1: Minot
+  Pos: P
+  G: '28'
+  PO: '3'
+  A: '13'
+  E: '2'
+  DP: '3'
+  PCT: '.889'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Barber
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '8'
+  A: '20'
+  E: '4'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Reed
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '7'
+  A: '14'
+  E: '3'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Herlihy
+  nameClub1: Duluth-Superior
+  throws: L
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '12'
+  E: '2'
+  DP: '1'
+  PCT: '.867'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Winton
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '34'
+  PO: '2'
+  A: '16'
+  E: '3'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Lee
+  nameClub1: Eau Claire
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Mrofka
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '17'
+  PO: '2'
+  A: '9'
+  E: '2'
+  DP: '1'
+  PCT: '.846'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Belinsky
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '44'
+  E: '10'
+  DP: '2'
+  PCT: '.836'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Williams
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '23'
+  PO: '5'
+  A: '35'
+  E: '8'
+  DP: '4'
+  PCT: '.833'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Walker
+  nameClub1: Fargo-Moorhead
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Runtes
+  nameClub1: Winnipeg
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.833'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Dalkowski
+  nameClub1: Aberdeen
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Symeon
+  nameClub1: Aberdeen
+  Pos: P
+  G: '19'
+  PO: '5'
+  A: '14'
+  E: '5'
+  DP: '0'
+  PCT: '.792'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: McGrath
+  nameClub1: Grand Forks
+  throws: L
+  Pos: P
+  G: '36'
+  PO: '5'
+  A: '17'
+  E: '6'
+  DP: '1'
+  PCT: '.786'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Barbosa
+  nameClub1: Eau Claire
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PCT: '.786'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Trbovich
+  nameClub1: Grand Forks
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.778'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Teunis
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '9'
+  E: '3'
+  DP: '1'
+  PCT: '.769'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Parsons
+  nameClub1: Grand Forks
+  Pos: P
+  G: '23'
+  PO: '2'
+  A: '10'
+  E: '4'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1958'
+  nameLeague: Northern League
+  nameLast: Kimball
+  nameClub1: Duluth-Superior
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.714'
+  TP: '0'

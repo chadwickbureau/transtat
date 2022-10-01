@@ -1,0 +1,88 @@
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: San Diego
+  G: '172'
+  DP: '192'
+  PB: '5'
+  PO: '4482'
+  A: '2024'
+  E: '157'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Los Angeles
+  G: '172'
+  DP: '166'
+  PB: '7'
+  PO: '4493'
+  A: '1767'
+  E: '152'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Portland
+  G: '172'
+  DP: '142'
+  PB: '10'
+  PO: '4425'
+  A: '1967'
+  E: '171'
+  PCT: '.974'
+  TP: '0'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: San Francisco
+  G: '172'
+  DP: '163'
+  PB: '17'
+  PO: '4385'
+  A: '1991'
+  E: '173'
+  PCT: '.974'
+  TP: '2'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Seattle
+  G: '172'
+  DP: '176'
+  PB: '8'
+  PO: '4513'
+  A: '1938'
+  E: '181'
+  PCT: '.973'
+  TP: '0'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Sacramento
+  G: '172'
+  DP: '197'
+  PB: '14'
+  PO: '4447'
+  A: '1969'
+  E: '183'
+  PCT: '.972'
+  TP: '1'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Oakland
+  G: '172'
+  DP: '130'
+  PB: '10'
+  PO: '4386'
+  A: '1875'
+  E: '179'
+  PCT: '.972'
+  TP: '1'
+- year: '1955'
+  nameLeague: Pacific Coast League
+  nameClub: Hollywood
+  G: '172'
+  DP: '164'
+  PB: '8'
+  PO: '4364'
+  A: '1750'
+  E: '209'
+  PCT: '.967'
+  TP: '1'

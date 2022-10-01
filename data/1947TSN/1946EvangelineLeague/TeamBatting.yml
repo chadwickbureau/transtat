@@ -1,0 +1,88 @@
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  AB: '4555'
+  R: '814'
+  H: '1283'
+  TB: '1697'
+  H2B: '187'
+  H3B: '58'
+  HR: '37'
+  AVG: '.282'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  AB: '4559'
+  R: '743'
+  H: '1184'
+  TB: '1548'
+  H2B: '183'
+  H3B: '47'
+  HR: '29'
+  AVG: '.260'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  AB: '4400'
+  R: '561'
+  H: '1067'
+  TB: '1413'
+  H2B: '175'
+  H3B: '21'
+  HR: '43'
+  AVG: '.243'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  AB: '4277'
+  R: '610'
+  H: '1073'
+  TB: '1492'
+  H2B: '164'
+  H3B: '42'
+  HR: '57'
+  AVG: '.251'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  AB: '4495'
+  R: '826'
+  H: '1200'
+  TB: '1635'
+  H2B: '198'
+  H3B: '33'
+  HR: '57'
+  AVG: '.267'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Natchez
+  AB: '4531'
+  R: '847'
+  H: '1264'
+  TB: '1761'
+  H2B: '185'
+  H3B: '75'
+  HR: '54'
+  AVG: '.279'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  AB: '4459'
+  R: '669'
+  H: '1121'
+  TB: '1481'
+  H2B: '179'
+  H3B: '32'
+  HR: '39'
+  AVG: '.251'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  AB: '4289'
+  R: '636'
+  H: '1050'
+  TB: '1437'
+  H2B: '168'
+  H3B: '30'
+  HR: '53'
+  AVG: '.245'

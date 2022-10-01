@@ -1,0 +1,110 @@
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  phase: regular
+  W: '92'
+  L: '39'
+  PCT: '.702'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Natchez
+  phase: regular
+  W: '87'
+  L: '46'
+  PCT: '.654'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  phase: regular
+  W: '82'
+  L: '48'
+  PCT: '.631'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: regular
+  W: '67'
+  L: '67'
+  PCT: '.500'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  phase: regular
+  W: '53'
+  L: '79'
+  PCT: '.402'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  phase: regular
+  W: '53'
+  L: '80'
+  PCT: '.398'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  phase: regular
+  W: '50'
+  L: '82'
+  PCT: '.379'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Hammond
+  phase: regular
+  W: '44'
+  L: '87'
+  PCT: '.336'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Natchez
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Houma
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Evangeline League
+  nameClub: Abbeville
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

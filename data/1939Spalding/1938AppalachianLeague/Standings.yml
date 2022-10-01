@@ -1,0 +1,94 @@
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: regular
+  W: '65'
+  L: '36'
+  PCT: '.644'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: regular
+  W: '63'
+  L: '44'
+  PCT: '.589'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Greeneville
+  phase: regular
+  W: '60'
+  L: '45'
+  PCT: '.571'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Pennington Gap
+  phase: regular
+  W: '46'
+  L: '60'
+  PCT: '.434'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Newport
+  phase: regular
+  W: '42'
+  L: '66'
+  PCT: '.389'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular
+  W: '42'
+  L: '67'
+  PCT: '.385'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Greeneville
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Elizabethton
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Pennington Gap
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Greeneville
+  phase: final
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Appalachian League
+  nameClub: Kingsport
+  phase: final
+  W: '1'
+  L: '3'
+  RANK: '2'

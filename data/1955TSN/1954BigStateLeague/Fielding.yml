@@ -1,0 +1,2917 @@
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Richmond
+  nameClub1: Harlingen
+  Pos: 1B
+  G: '10'
+  PO: '99'
+  A: '6'
+  E: '0'
+  DP: '8'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Goldstein
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '82'
+  PO: '764'
+  A: '18'
+  E: '3'
+  DP: '80'
+  PCT: '.996'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Santomauro
+  nameClub1: Tyler
+  Pos: 1B
+  G: '68'
+  PO: '591'
+  A: '16'
+  E: '3'
+  DP: '42'
+  PCT: '.995'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Moyer
+  nameClub1: Temple
+  Pos: 1B
+  G: '144'
+  PO: '1303'
+  A: '105'
+  E: '9'
+  DP: '117'
+  PCT: '.994'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Krupp
+  nameClub1: Tyler
+  Pos: 1B
+  G: '33'
+  PO: '286'
+  A: '11'
+  E: '2'
+  DP: '27'
+  PCT: '.994'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Taylor
+  nameFirst: T.
+  nameClub1: Waco
+  Pos: 1B
+  G: '24'
+  PO: '141'
+  A: '10'
+  E: '1'
+  DP: '24'
+  PCT: '.993'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Suba
+  nameClub1: Tyler
+  Pos: 1B
+  G: '42'
+  PO: '339'
+  A: '20'
+  E: '3'
+  DP: '21'
+  PCT: '.992'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Little
+  nameClub1: Galveston
+  Pos: 1B
+  G: '112'
+  PO: '916'
+  A: '48'
+  E: '10'
+  DP: '87'
+  PCT: '.990'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Carpenter
+  nameClub1: Harlingen
+  Pos: 1B
+  G: '97'
+  PO: '940'
+  A: '41'
+  E: '10'
+  DP: '92'
+  PCT: '.990'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Martinez
+  nameClub1: Harlingen
+  nameClub2: Tyler
+  Pos: 1B
+  G: '28'
+  PO: '245'
+  A: '15'
+  E: '3'
+  DP: '20'
+  PCT: '.989'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Roberts
+  nameClub1: Corpus Christi
+  Pos: 1B
+  G: '49'
+  PO: '479'
+  A: '33'
+  E: '6'
+  DP: '56'
+  PCT: '.988'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cabrera
+  nameFirst: L.
+  nameClub1: Del Rio
+  Pos: 1B
+  G: '139'
+  PO: '1269'
+  A: '51'
+  E: '16'
+  DP: '89'
+  PCT: '.988'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: McAfee
+  nameClub1: Austin
+  Pos: 1B
+  G: '107'
+  PO: '921'
+  A: '44'
+  E: '13'
+  DP: '65'
+  PCT: '.987'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Matile
+  nameClub1: Waco
+  Pos: 1B
+  G: '17'
+  PO: '143'
+  A: '5'
+  E: '2'
+  DP: '21'
+  PCT: '.987'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Rodriguez
+  nameClub1: Waco
+  Pos: 1B
+  G: '23'
+  PO: '167'
+  A: '4'
+  E: '3'
+  DP: '20'
+  PCT: '.983'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Grunwald
+  nameClub1: Waco
+  Pos: 1B
+  G: '50'
+  PO: '401'
+  A: '25'
+  E: '8'
+  DP: '47'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Robinson
+  nameClub1: Galveston
+  Pos: 1B
+  G: '29'
+  PO: '241'
+  A: '5'
+  E: '6'
+  DP: '19'
+  PCT: '.976'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cooper
+  nameClub1: Austin
+  nameClub2: Waco
+  Pos: 1B
+  G: '40'
+  PO: '341'
+  A: '20'
+  E: '12'
+  DP: '33'
+  PCT: '.967'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hochstatter
+  nameClub1: Austin
+  Pos: 1B
+  G: '18'
+  PO: '128'
+  A: '12'
+  E: '5'
+  DP: '11'
+  PCT: '.966'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Gifford
+  nameClub1: Galveston
+  Pos: 2B
+  G: '54'
+  PO: '169'
+  A: '139'
+  E: '3'
+  DP: '37'
+  PCT: '.990'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Malgarini
+  nameClub1: Harlingen
+  Pos: 2B
+  G: '32'
+  PO: '81'
+  A: '72'
+  E: '3'
+  DP: '23'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Wilkinson
+  nameClub1: Temple
+  nameClub2: Corpus Christi
+  Pos: 2B
+  G: '17'
+  PO: '53'
+  A: '48'
+  E: '2'
+  DP: '19'
+  PCT: '.981'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Babcock
+  nameClub1: Waco
+  Pos: 2B
+  G: '141'
+  PO: '444'
+  A: '371'
+  E: '21'
+  DP: '126'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Conine
+  nameClub1: Tyler
+  Pos: 2B
+  G: '20'
+  PO: '56'
+  A: '49'
+  E: '3'
+  DP: '8'
+  PCT: '.972'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Jones
+  nameClub1: Corpus Christi
+  Pos: 2B
+  G: '125'
+  PO: '368'
+  A: '354'
+  E: '22'
+  DP: '105'
+  PCT: '.970'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hamman
+  nameClub1: Temple
+  Pos: 2B
+  G: '22'
+  PO: '59'
+  A: '67'
+  E: '4'
+  DP: '16'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mason
+  nameClub1: Austin
+  Pos: 2B
+  G: '50'
+  PO: '138'
+  A: '133'
+  E: '9'
+  DP: '27'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sharp
+  nameClub1: Temple
+  Pos: 2B
+  G: '21'
+  PO: '67'
+  A: '45'
+  E: '4'
+  DP: '8'
+  PCT: '.966'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cullins
+  nameClub1: Tyler
+  Pos: 2B
+  G: '38'
+  PO: '133'
+  A: '111'
+  E: '9'
+  DP: '25'
+  PCT: '.964'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hausmann
+  nameClub1: Austin
+  Pos: 2B
+  G: '82'
+  PO: '219'
+  A: '201'
+  E: '16'
+  DP: '53'
+  PCT: '.963'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sanderson
+  nameClub1: Galveston
+  Pos: 2B
+  G: '48'
+  PO: '98'
+  A: '88'
+  E: '8'
+  DP: '17'
+  PCT: '.959'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Matile
+  nameClub1: Waco
+  Pos: 2B
+  G: '15'
+  PO: '15'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PCT: '.957'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Perez
+  nameFirst: M.
+  nameClub1: Del Rio
+  nameClub2: Tyler
+  Pos: 2B
+  G: '35'
+  PO: '102'
+  A: '82'
+  E: '8'
+  DP: '17'
+  PCT: '.956'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Campbell
+  nameFirst: J.
+  nameClub1: Temple
+  Pos: 2B
+  G: '75'
+  PO: '186'
+  A: '172'
+  E: '17'
+  DP: '47'
+  PCT: '.955'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Anderson
+  nameClub1: Harlingen
+  Pos: 2B
+  G: '99'
+  PO: '312'
+  A: '267'
+  E: '27'
+  DP: '79'
+  PCT: '.955'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Argudin
+  nameClub1: Del Rio
+  Pos: 2B
+  G: '92'
+  PO: '280'
+  A: '226'
+  E: '25'
+  DP: '60'
+  PCT: '.953'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cholakian
+  nameClub1: Del Rio
+  nameClub2: Harlingen
+  Pos: 2B
+  G: '15'
+  PO: '56'
+  A: '37'
+  E: '5'
+  DP: '17'
+  PCT: '.949'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lopez
+  nameClub1: Harlingen
+  Pos: 2B
+  G: '16'
+  PO: '54'
+  A: '42'
+  E: '7'
+  DP: '8'
+  PCT: '.932'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Perez
+  nameFirst: J.
+  nameClub1: Harlingen
+  nameClub2: Bryan/Del Rio
+  Pos: 2B
+  G: '38'
+  PO: '113'
+  A: '85'
+  E: '15'
+  DP: '18'
+  PCT: '.929'
+  apparatus: club=Galveston
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Foster
+  nameClub1: Tyler
+  Pos: 2B
+  G: '47'
+  PO: '108'
+  A: '107'
+  E: '17'
+  DP: '25'
+  PCT: '.926'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Koby
+  nameClub1: Tyler
+  Pos: 2B
+  G: '28'
+  PO: '87'
+  A: '52'
+  E: '12'
+  DP: '15'
+  PCT: '.921'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Coopman
+  nameClub1: Temple
+  Pos: 2B
+  G: '25'
+  PO: '58'
+  A: '73'
+  E: '14'
+  DP: '16'
+  PCT: '.903'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Logan
+  nameClub1: Galveston
+  Pos: 2B
+  G: '10'
+  PO: '23'
+  A: '13'
+  E: '4'
+  DP: '5'
+  PCT: '.900'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Perez
+  nameFirst: J.
+  nameClub1: Harlingen
+  nameClub2: Bryan/Del Rio
+  Pos: 3B
+  G: '23'
+  PO: '30'
+  A: '47'
+  E: '3'
+  DP: '3'
+  PCT: '.963'
+  apparatus: club=Galveston
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Boone
+  nameClub1: Waco
+  Pos: 3B
+  G: '58'
+  PO: '47'
+  A: '112'
+  E: '7'
+  DP: '21'
+  PCT: '.958'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Capps
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '81'
+  PO: '79'
+  A: '187'
+  E: '16'
+  DP: '21'
+  PCT: '.943'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lichtenstein
+  nameClub1: Harlingen
+  Pos: 3B
+  G: '22'
+  PO: '23'
+  A: '43'
+  E: '4'
+  DP: '3'
+  PCT: '.943'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Campbell
+  nameFirst: F.
+  nameClub1: Harlingen
+  Pos: 3B
+  G: '12'
+  PO: '24'
+  A: '22'
+  E: '3'
+  DP: '5'
+  PCT: '.939'
+  apparatus: club=Galveston
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bowers
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '26'
+  PO: '28'
+  A: '75'
+  E: '7'
+  DP: '1'
+  PCT: '.936'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Carmona
+  nameClub1: Del Rio
+  Pos: 3B
+  G: '23'
+  PO: '27'
+  A: '59'
+  E: '6'
+  DP: '5'
+  PCT: '.934'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lopez
+  nameClub1: Harlingen
+  Pos: 3B
+  G: '123'
+  PO: '130'
+  A: '329'
+  E: '35'
+  DP: '44'
+  PCT: '.929'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Davis
+  nameFirst: O.
+  nameClub1: Tyler
+  Pos: 3B
+  G: '146'
+  PO: '132'
+  A: '283'
+  E: '32'
+  DP: '24'
+  PCT: '.928'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Carter
+  nameClub1: Temple
+  Pos: 3B
+  G: '60'
+  PO: '103'
+  A: '146'
+  E: '20'
+  DP: '10'
+  PCT: '.926'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Matile
+  nameClub1: Waco
+  Pos: 3B
+  G: '96'
+  PO: '98'
+  A: '196'
+  E: '24'
+  DP: '26'
+  PCT: '.925'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Dellis
+  nameClub1: Austin
+  Pos: 3B
+  G: '78'
+  PO: '78'
+  A: '119'
+  E: '17'
+  DP: '15'
+  PCT: '.921'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Nettles
+  nameClub1: Austin
+  Pos: 3B
+  G: '48'
+  PO: '30'
+  A: '93'
+  E: '13'
+  DP: '9'
+  PCT: '.905'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Steele
+  nameClub1: Temple
+  Pos: 3B
+  G: '37'
+  PO: '48'
+  A: '79'
+  E: '14'
+  DP: '12'
+  PCT: '.901'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mason
+  nameClub1: Austin
+  Pos: 3B
+  G: '15'
+  PO: '19'
+  A: '34'
+  E: '6'
+  DP: '5'
+  PCT: '.898'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Konyar
+  nameClub1: Del Rio
+  Pos: 3B
+  G: '64'
+  PO: '62'
+  A: '185'
+  E: '28'
+  DP: '21'
+  PCT: '.898'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Facchini
+  nameClub1: Corpus Christi
+  Pos: 3B
+  G: '42'
+  PO: '54'
+  A: '98'
+  E: '19'
+  DP: '10'
+  PCT: '.889'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Riddle
+  nameClub1: Galveston
+  Pos: 3B
+  G: '15'
+  PO: '21'
+  A: '26'
+  E: '6'
+  DP: '2'
+  PCT: '.887'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hamman
+  nameClub1: Temple
+  Pos: 3B
+  G: '31'
+  PO: '38'
+  A: '77'
+  E: '15'
+  DP: '11'
+  PCT: '.885'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cearly
+  nameClub1: Galveston
+  Pos: 3B
+  G: '17'
+  PO: '14'
+  A: '31'
+  E: '6'
+  DP: '2'
+  PCT: '.882'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Colas
+  nameClub1: Del Rio
+  Pos: 3B
+  G: '10'
+  PO: '8'
+  A: '24'
+  E: '5'
+  DP: '0'
+  PCT: '.865'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sanderson
+  nameClub1: Galveston
+  Pos: 3B
+  G: '63'
+  PO: '52'
+  A: '142'
+  E: '31'
+  DP: '9'
+  PCT: '.862'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Liberto
+  nameClub1: Temple
+  nameClub2: Corpus Christi
+  Pos: 3B
+  G: '33'
+  PO: '29'
+  A: '55'
+  E: '15'
+  DP: '2'
+  PCT: '.848'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Robinson
+  nameClub1: Galveston
+  Pos: 3B
+  G: '13'
+  PO: '7'
+  A: '14'
+  E: '4'
+  DP: '1'
+  PCT: '.840'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Petschow
+  nameClub1: Del Rio
+  Pos: 3B
+  G: '10'
+  PO: '11'
+  A: '21'
+  E: '7'
+  DP: '1'
+  PCT: '.820'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Boone
+  nameClub1: Waco
+  Pos: SS
+  G: '12'
+  PO: '24'
+  A: '34'
+  E: '2'
+  DP: '7'
+  PCT: '.967'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sanchez
+  nameClub1: Waco
+  Pos: SS
+  G: '141'
+  PO: '350'
+  A: '422'
+  E: '37'
+  DP: '97'
+  PCT: '.954'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Chenard
+  nameClub1: Tyler
+  Pos: SS
+  G: '119'
+  PO: '196'
+  A: '392'
+  E: '32'
+  DP: '42'
+  PCT: '.949'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Perez
+  nameFirst: J.
+  nameClub1: Harlingen
+  Pos: SS
+  G: '58'
+  PO: '101'
+  A: '182'
+  E: '17'
+  DP: '34'
+  PCT: '.943'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Perez
+  nameFirst: M.
+  nameClub1: Bryan
+  nameClub2: Tyler
+  Pos: SS
+  G: '83'
+  PO: '133'
+  A: '280'
+  E: '32'
+  DP: '53'
+  PCT: '.928'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Facchini
+  nameClub1: Corpus Christi
+  Pos: SS
+  G: '22'
+  PO: '29'
+  A: '61'
+  E: '7'
+  DP: '13'
+  PCT: '.928'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hamman
+  nameClub1: Temple
+  Pos: SS
+  G: '87'
+  PO: '173'
+  A: '269'
+  E: '35'
+  DP: '45'
+  PCT: '.927'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Wilkinson
+  nameClub1: Temple
+  nameClub2: Corpus Christi
+  Pos: SS
+  G: '122'
+  PO: '212'
+  A: '416'
+  E: '51'
+  DP: '96'
+  PCT: '.925'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lichtenstein
+  nameClub1: Harlingen
+  Pos: SS
+  G: '52'
+  PO: '78'
+  A: '147'
+  E: '19'
+  DP: '19'
+  PCT: '.922'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Barcelo
+  nameClub1: Galveston
+  Pos: SS
+  G: '37'
+  PO: '71'
+  A: '105'
+  E: '15'
+  DP: '20'
+  PCT: '.921'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mays
+  nameClub1: Austin
+  Pos: SS
+  G: '141'
+  PO: '261'
+  A: '420'
+  E: '60'
+  DP: '68'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Montelongo
+  nameClub1: Del Rio
+  Pos: SS
+  G: '50'
+  PO: '68'
+  A: '144'
+  E: '22'
+  DP: '21'
+  PCT: '.906'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cholakian
+  nameClub1: Del Rio
+  nameClub2: Harlingen
+  Pos: SS
+  G: '27'
+  PO: '46'
+  A: '86'
+  E: '17'
+  DP: '14'
+  PCT: '.886'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Carroll
+  nameClub1: Galveston
+  Pos: SS
+  G: '86'
+  PO: '43'
+  A: '257'
+  E: '42'
+  DP: '49'
+  PCT: '.877'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Campbell
+  nameFirst: F.
+  nameClub1: Temple
+  nameClub2: Harlingen
+  Pos: SS
+  G: '39'
+  PO: '55'
+  A: '125'
+  E: '29'
+  DP: '21'
+  PCT: '.863'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Santomauro
+  nameClub1: Tyler
+  Pos: SS
+  G: '14'
+  PO: '22'
+  A: '41'
+  E: '10'
+  DP: '8'
+  PCT: '.863'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Steele
+  nameClub1: Temple
+  Pos: SS
+  G: '15'
+  PO: '29'
+  A: '51'
+  E: '13'
+  DP: '7'
+  PCT: '.860'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Conine
+  nameClub1: Tyler
+  Pos: SS
+  G: '17'
+  PO: '29'
+  A: '43'
+  E: '13'
+  DP: '6'
+  PCT: '.847'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Carmona
+  nameClub1: Del Rio
+  Pos: SS
+  G: '12'
+  PO: '16'
+  A: '42'
+  E: '11'
+  DP: '6'
+  PCT: '.840'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Fairchild
+  nameClub1: Corpus Christi
+  nameClub2: Temple
+  Pos: SS
+  G: '14'
+  PO: '27'
+  A: '50'
+  E: '17'
+  DP: '11'
+  PCT: '.819'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Primeau
+  nameClub1: Temple
+  Pos: LF
+  G: '10'
+  PO: '16'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Colas
+  nameClub1: Bryan
+  nameClub2: Del Rio
+  Pos: LF
+  G: '10'
+  PO: '15'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Vucelich
+  nameClub1: Bryan
+  nameClub2: Del Rio
+  Pos: LF
+  G: '10'
+  PO: '23'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Dionosotis
+  nameClub1: Galveston
+  Pos: LF
+  G: '12'
+  PO: '15'
+  A: '0'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Nettles
+  nameClub1: Austin
+  Pos: LF
+  G: '52'
+  PO: '89'
+  A: '6'
+  E: '2'
+  DP: '2'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: James
+  nameClub1: Tyler
+  Pos: LF
+  G: '25'
+  PO: '47'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Martinich
+  nameClub1: Del Rio
+  Pos: LF
+  G: '11'
+  PO: '39'
+  A: '3'
+  E: '1'
+  DP: '1'
+  PCT: '.977'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cullins
+  nameClub1: Tyler
+  Pos: LF
+  G: '98'
+  PO: '219'
+  A: '12'
+  E: '6'
+  DP: '0'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Falls
+  nameClub1: Waco
+  Pos: LF
+  G: '109'
+  PO: '152'
+  A: '16'
+  E: '5'
+  DP: '7'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Stafford
+  nameClub1: Galveston
+  nameClub2: Corpus Christi
+  Pos: LF
+  G: '147'
+  PO: '310'
+  A: '12'
+  E: '10'
+  DP: '1'
+  PCT: '.970'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lavigne
+  nameFirst: E.
+  nameClub1: Del Rio
+  Pos: LF
+  G: '19'
+  PO: '31'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Schroeder
+  nameClub1: Corpus Christi
+  Pos: LF
+  G: '48'
+  PO: '92'
+  A: '3'
+  E: '3'
+  DP: '1'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Depperschmidt
+  nameClub1: Del Rio
+  Pos: LF
+  G: '12'
+  PO: '29'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.968'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Gryzesick
+  nameClub1: Harlingen
+  Pos: LF
+  G: '21'
+  PO: '61'
+  A: '4'
+  E: '3'
+  DP: '1'
+  PCT: '.956'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bell
+  nameClub1: Temple
+  Pos: LF
+  G: '45'
+  PO: '81'
+  A: '5'
+  E: '5'
+  DP: '0'
+  PCT: '.945'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cearley
+  nameClub1: Galveston
+  Pos: LF
+  G: '31'
+  PO: '46'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.944'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Urbanowich
+  nameClub1: Austin
+  Pos: LF
+  G: '15'
+  PO: '30'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.938'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Facchini
+  nameClub1: Corpus Christi
+  Pos: LF
+  G: '29'
+  PO: '39'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.938'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Malgarini
+  nameClub1: Harlingen
+  Pos: LF
+  G: '36'
+  PO: '55'
+  A: '6'
+  E: '5'
+  DP: '2'
+  PCT: '.924'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mejias
+  nameClub1: Waco
+  Pos: LF
+  G: '36'
+  PO: '63'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Perkins
+  nameClub1: Austin
+  Pos: LF
+  G: '71'
+  PO: '132'
+  A: '6'
+  E: '13'
+  DP: '0'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Escobar
+  nameClub1: Harlingen
+  Pos: LF
+  G: '28'
+  PO: '62'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lichtenstein
+  nameClub1: Harlingen
+  Pos: LF
+  G: '19'
+  PO: '29'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.909'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mink
+  nameClub1: Harlingen
+  Pos: LF
+  G: '18'
+  PO: '38'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.907'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Liberto
+  nameClub1: Corpus Christi
+  nameClub2: Temple
+  Pos: LF
+  G: '45'
+  PO: '74'
+  A: '5'
+  E: '10'
+  DP: '0'
+  PCT: '.888'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Scarpace
+  nameClub1: Del Rio
+  Pos: LF
+  G: '50'
+  PO: '83'
+  A: '4'
+  E: '11'
+  DP: '0'
+  PCT: '.888'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Solice
+  nameClub1: Temple
+  Pos: LF
+  G: '22'
+  PO: '51'
+  A: '6'
+  E: '9'
+  DP: '0'
+  PCT: '.863'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mason
+  nameClub1: Austin
+  Pos: CF
+  G: '24'
+  PO: '55'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Daehn
+  nameClub1: Temple
+  Pos: CF
+  G: '138'
+  PO: '435'
+  A: '12'
+  E: '5'
+  DP: '2'
+  PCT: '.989'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Browning
+  nameClub1: Tyler
+  Pos: CF
+  G: '147'
+  PO: '447'
+  A: '27'
+  E: '7'
+  DP: '4'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Graves
+  nameClub1: Galveston
+  Pos: CF
+  G: '25'
+  PO: '63'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Scarpace
+  nameClub1: Del Rio
+  Pos: CF
+  G: '53'
+  PO: '93'
+  A: '4'
+  E: '2'
+  DP: '1'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Rodriguez
+  nameClub1: Waco
+  Pos: CF
+  G: '87'
+  PO: '179'
+  A: '7'
+  E: '5'
+  DP: '2'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Depperschmidt
+  nameClub1: Del Rio
+  Pos: CF
+  G: '73'
+  PO: '165'
+  A: '6'
+  E: '5'
+  DP: '0'
+  PCT: '.971'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Peterson
+  nameClub1: Corpus Christi
+  Pos: CF
+  G: '44'
+  PO: '128'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.970'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Senties
+  nameClub1: Corpus Christi
+  Pos: CF
+  G: '80'
+  PO: '227'
+  A: '10'
+  E: '9'
+  DP: '2'
+  PCT: '.963'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lavigne
+  nameFirst: D.
+  nameClub1: Galveston
+  Pos: CF
+  G: '57'
+  PO: '171'
+  A: '3'
+  E: '7'
+  DP: '0'
+  PCT: '.961'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mejias
+  nameClub1: Waco
+  Pos: CF
+  G: '75'
+  PO: '180'
+  A: '14'
+  E: '8'
+  DP: '6'
+  PCT: '.960'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Nodar
+  nameClub1: Galveston
+  Pos: CF
+  G: '15'
+  PO: '33'
+  A: '5'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Angelo
+  nameClub1: Austin
+  Pos: CF
+  G: '116'
+  PO: '347'
+  A: '14'
+  E: '19'
+  DP: '1'
+  PCT: '.950'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Parker
+  nameClub1: Del Rio
+  Pos: CF
+  G: '36'
+  PO: '96'
+  A: '5'
+  E: '6'
+  DP: '1'
+  PCT: '.944'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bigham
+  nameClub1: Corpus Christi
+  Pos: CF
+  G: '22'
+  PO: '48'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.944'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Dunkovich
+  nameClub1: Harlingen
+  Pos: CF
+  G: '137'
+  PO: '302'
+  A: '18'
+  E: '24'
+  DP: '3'
+  PCT: '.930'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Morrison
+  nameClub1: Galveston
+  Pos: CF
+  G: '15'
+  PO: '31'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.912'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Van Derzee
+  nameClub1: Galveston
+  Pos: CF
+  G: '11'
+  PO: '17'
+  A: '1'
+  E: '5'
+  DP: '0'
+  PCT: '.783'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cearley
+  nameClub1: Galveston
+  Pos: RF
+  G: '28'
+  PO: '49'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Conine
+  nameClub1: Tyler
+  Pos: RF
+  G: '33'
+  PO: '50'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Dionosotis
+  nameClub1: Galveston
+  Pos: RF
+  G: '22'
+  PO: '33'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hunt
+  nameClub1: Tyler
+  Pos: RF
+  G: '14'
+  PO: '14'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mason
+  nameClub1: Austin
+  Pos: RF
+  G: '18'
+  PO: '24'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Liberto
+  nameClub1: Corpus Christi
+  nameClub2: Temple
+  Pos: RF
+  G: '39'
+  PO: '58'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.984'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hochstatter
+  nameClub1: Austin
+  Pos: RF
+  G: '34'
+  PO: '57'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.983'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Monahan
+  nameClub1: Waco
+  Pos: RF
+  G: '76'
+  PO: '125'
+  A: '7'
+  E: '3'
+  DP: '0'
+  PCT: '.978'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Santomauro
+  nameClub1: Tyler
+  Pos: RF
+  G: '54'
+  PO: '97'
+  A: '8'
+  E: '3'
+  DP: '2'
+  PCT: '.972'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Fabian
+  nameClub1: Del Rio
+  Pos: RF
+  G: '16'
+  PO: '26'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.965'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Howell
+  nameClub1: Galveston
+  Pos: RF
+  G: '20'
+  PO: '26'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bigham
+  nameClub1: Corpus Christi
+  Pos: RF
+  G: '75'
+  PO: '144'
+  A: '6'
+  E: '6'
+  DP: '1'
+  PCT: '.962'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Carpenter
+  nameClub1: Harlingen
+  Pos: RF
+  G: '27'
+  PO: '45'
+  A: '3'
+  E: '2'
+  DP: '2'
+  PCT: '.960'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Parker
+  nameClub1: Del Rio
+  Pos: RF
+  G: '35'
+  PO: '74'
+  A: '5'
+  E: '4'
+  DP: '1'
+  PCT: '.952'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Logan
+  nameClub1: Galveston
+  Pos: RF
+  G: '10'
+  PO: '15'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Scarpace
+  nameClub1: Del Rio
+  Pos: RF
+  G: '38'
+  PO: '64'
+  A: '7'
+  E: '4'
+  DP: '1'
+  PCT: '.947'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Nettles
+  nameClub1: Austin
+  Pos: RF
+  G: '47'
+  PO: '77'
+  A: '9'
+  E: '5'
+  DP: '2'
+  PCT: '.945'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Stutts
+  nameClub1: Temple
+  Pos: RF
+  G: '48'
+  PO: '63'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.944'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mink
+  nameClub1: Harlingen
+  Pos: RF
+  G: '10'
+  PO: '31'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.943'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lagrone
+  nameClub1: Tyler
+  Pos: RF
+  G: '13'
+  PO: '12'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mejias
+  nameClub1: Waco
+  Pos: RF
+  G: '27'
+  PO: '54'
+  A: '6'
+  E: '4'
+  DP: '2'
+  PCT: '.939'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Zonta
+  nameClub1: Waco
+  Pos: RF
+  G: '35'
+  PO: '65'
+  A: '3'
+  E: '5'
+  DP: '1'
+  PCT: '.931'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Warner
+  nameClub1: Harlingen
+  Pos: RF
+  G: '60'
+  PO: '78'
+  A: '9'
+  E: '7'
+  DP: '2'
+  PCT: '.926'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Kawalec
+  nameClub1: Tyler
+  Pos: RF
+  G: '29'
+  PO: '34'
+  A: '3'
+  E: '3'
+  DP: '2'
+  PCT: '.925'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Taylor
+  nameFirst: C.
+  nameClub1: Austin
+  Pos: RF
+  G: '16'
+  PO: '22'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.924'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Urbanowich
+  nameClub1: Austin
+  Pos: RF
+  G: '43'
+  PO: '60'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.923'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Morrison
+  nameClub1: Galveston
+  Pos: RF
+  G: '24'
+  PO: '34'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.921'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Senties
+  nameClub1: Corpus Christi
+  Pos: RF
+  G: '41'
+  PO: '60'
+  A: '6'
+  E: '6'
+  DP: '0'
+  PCT: '.917'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Anderson
+  nameClub1: Temple
+  Pos: RF
+  G: '70'
+  PO: '72'
+  A: '5'
+  E: '8'
+  DP: '0'
+  PCT: '.906'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: James
+  nameClub1: Tyler
+  Pos: RF
+  G: '14'
+  PO: '24'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.897'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Petschow
+  nameClub1: Corpus Christi
+  Pos: RF
+  G: '10'
+  PO: '15'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.889'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Robinson
+  nameClub1: Galveston
+  Pos: RF
+  G: '24'
+  PO: '32'
+  A: '0'
+  E: '5'
+  DP: '1'
+  PCT: '.865'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Luckenback
+  nameClub1: Corpus Christi
+  Pos: RF
+  G: '16'
+  PO: '26'
+  A: '3'
+  E: '5'
+  DP: '0'
+  PCT: '.853'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Martinich
+  nameClub1: Bryan
+  nameClub2: Del Rio
+  Pos: RF
+  G: '10'
+  PO: '17'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.826'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Swigert
+  nameClub1: Harlingen
+  Pos: RF
+  G: '14'
+  PO: '5'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.500'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Rodriguez
+  nameClub1: Waco
+  Pos: C
+  G: '11'
+  PO: '48'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Lagrone
+  nameClub1: Tyler
+  Pos: C
+  G: '10'
+  PO: '17'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PB: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Phillips
+  nameClub1: Waco
+  Pos: C
+  G: '82'
+  PO: '462'
+  A: '46'
+  E: '4'
+  DP: '6'
+  PB: '12'
+  PCT: '.992'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mitchell
+  nameClub1: Tyler
+  Pos: C
+  G: '127'
+  PO: '667'
+  A: '92'
+  E: '11'
+  DP: '8'
+  PB: '6'
+  PCT: '.986'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Paepke
+  nameClub1: Waco
+  Pos: C
+  G: '59'
+  PO: '352'
+  A: '36'
+  E: '6'
+  DP: '8'
+  PB: '8'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Gaspar
+  nameClub1: Austin
+  Pos: C
+  G: '137'
+  PO: '651'
+  A: '82'
+  E: '11'
+  DP: '12'
+  PB: '9'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bowers
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '80'
+  PO: '351'
+  A: '42'
+  E: '6'
+  DP: '0'
+  PB: '5'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Cabrera
+  nameFirst: E.
+  nameClub1: Del Rio
+  Pos: C
+  G: '47'
+  PO: '202'
+  A: '42'
+  E: '5'
+  DP: '5'
+  PB: '7'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Karas
+  nameClub1: Del Rio
+  Pos: C
+  G: '63'
+  PO: '260'
+  A: '24'
+  E: '6'
+  DP: '6'
+  PB: '8'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Riddle
+  nameClub1: Galveston
+  Pos: C
+  G: '26'
+  PO: '115'
+  A: '18'
+  E: '3'
+  DP: '0'
+  PB: '3'
+  PCT: '.978'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Jones
+  nameClub1: Temple
+  Pos: C
+  G: '138'
+  PO: '590'
+  A: '81'
+  E: '17'
+  DP: '12'
+  PB: '3'
+  PCT: '.977'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Petschow
+  nameClub1: Bryan
+  nameClub2: Corpus Christi
+  Pos: C
+  G: '10'
+  PO: '32'
+  A: '7'
+  E: '1'
+  DP: '0'
+  PB: '1'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Henry
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '58'
+  PO: '199'
+  A: '30'
+  E: '6'
+  DP: '3'
+  PB: '11'
+  PCT: '.974'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Skelton
+  nameClub1: Harlingen
+  Pos: C
+  G: '120'
+  PO: '488'
+  A: '57'
+  E: '19'
+  DP: '6'
+  PB: '13'
+  PCT: '.966'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hochstatter
+  nameClub1: Austin
+  Pos: C
+  G: '11'
+  PO: '48'
+  A: '5'
+  E: '2'
+  DP: '2'
+  PB: '0'
+  PCT: '.964'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Robinson
+  nameClub1: Galveston
+  Pos: C
+  G: '72'
+  PO: '400'
+  A: '46'
+  E: '17'
+  DP: '7'
+  PB: '19'
+  PCT: '.963'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Urbanowich
+  nameClub1: Harlingen
+  nameClub2: Austin
+  Pos: C
+  G: '19'
+  PO: '74'
+  A: '10'
+  E: '4'
+  DP: '2'
+  PB: '2'
+  PCT: '.954'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Dionosotis
+  nameClub1: Galveston
+  Pos: C
+  G: '49'
+  PO: '226'
+  A: '37'
+  E: '13'
+  DP: '4'
+  PB: '20'
+  PCT: '.953'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Fernandez
+  nameClub1: Bryan
+  nameClub2: Galveston
+  Pos: C
+  G: '18'
+  PO: '81'
+  A: '17'
+  E: '5'
+  DP: '4'
+  PB: '1'
+  PCT: '.951'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bowman
+  nameClub1: Bryan
+  nameClub2: Harlingen
+  Pos: C
+  G: '31'
+  PO: '130'
+  A: '16'
+  E: '8'
+  DP: '1'
+  PB: '3'
+  PCT: '.948'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Peacock
+  nameClub1: Corpus Christi
+  Pos: C
+  G: '17'
+  PO: '47'
+  A: '5'
+  E: '3'
+  DP: '2'
+  PB: '5'
+  PCT: '.946'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Isringhaus
+  nameClub1: Tyler
+  Pos: C
+  G: '18'
+  PO: '86'
+  A: '13'
+  E: '6'
+  DP: '3'
+  PB: '11'
+  PCT: '.943'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Swigert
+  nameClub1: Harlingen
+  Pos: P
+  G: '36'
+  PO: '8'
+  A: '24'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Jones
+  nameFirst: L.
+  nameClub1: Austin
+  Pos: P
+  G: '35'
+  PO: '9'
+  A: '50'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Phipps
+  nameClub1: Tyler
+  Pos: P
+  G: '30'
+  PO: '8'
+  A: '30'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Kildoo
+  nameClub1: Waco
+  Pos: P
+  G: '30'
+  PO: '4'
+  A: '31'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Newcom
+  nameClub1: Temple
+  nameClub2: Del Rio
+  Pos: P
+  G: '20'
+  PO: '3'
+  A: '20'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Smith
+  nameFirst: F.
+  nameClub1: Temple
+  nameClub2: Del Rio
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '31'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Waters
+  nameClub1: Waco
+  Pos: P
+  G: '18'
+  PO: '1'
+  A: '15'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Ramirez
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '14'
+  PO: '0'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Ferro
+  nameClub1: Tyler
+  Pos: P
+  G: '14'
+  PO: '3'
+  A: '17'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Williams
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '13'
+  PO: '7'
+  A: '0'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Carson
+  nameClub1: Temple
+  Pos: P
+  G: '12'
+  PO: '3'
+  A: '20'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Wingard
+  nameClub1: Temple
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '8'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: LaMacchia
+  nameClub1: Bryan
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '13'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Suba
+  nameClub1: Bryan
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Stone
+  nameClub1: Tyler
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Gomez
+  nameFirst: J.
+  nameClub1: Harlingen
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Taylor
+  nameClub1: Austin
+  Pos: P
+  G: '52'
+  PO: '10'
+  A: '54'
+  E: '1'
+  DP: '2'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hees
+  nameClub1: Austin
+  Pos: P
+  G: '40'
+  PO: '7'
+  A: '60'
+  E: '1'
+  DP: '1'
+  PCT: '.985'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Pringle
+  nameClub1: Tyler
+  Pos: P
+  G: '45'
+  PO: '10'
+  A: '53'
+  E: '1'
+  DP: '3'
+  PCT: '.984'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Frazier
+  nameClub1: Del Rio
+  nameClub2: Tyler
+  Pos: P
+  G: '26'
+  PO: '9'
+  A: '41'
+  E: '1'
+  DP: '3'
+  PCT: '.980'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Vitter
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '43'
+  PO: '11'
+  A: '82'
+  E: '2'
+  DP: '4'
+  PCT: '.979'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Jones
+  nameFirst: R.
+  nameClub1: Del Rio
+  Pos: P
+  G: '27'
+  PO: '12'
+  A: '32'
+  E: '1'
+  DP: '2'
+  PCT: '.978'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Price
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '24'
+  PO: '4'
+  A: '38'
+  E: '1'
+  DP: '5'
+  PCT: '.977'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sawyer
+  nameClub1: Waco
+  Pos: P
+  G: '23'
+  PO: '6'
+  A: '33'
+  E: '1'
+  DP: '1'
+  PCT: '.975'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Contreras
+  nameClub1: Galveston
+  Pos: P
+  G: '23'
+  PO: '2'
+  A: '33'
+  E: '1'
+  DP: '1'
+  PCT: '.972'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hatcher
+  nameClub1: Temple
+  Pos: P
+  G: '45'
+  PO: '22'
+  A: '71'
+  E: '4'
+  DP: '5'
+  PCT: '.959'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: May
+  nameClub1: Austin
+  Pos: P
+  G: '42'
+  PO: '1'
+  A: '42'
+  E: '2'
+  DP: '0'
+  PCT: '.956'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Tosheff
+  nameClub1: Tyler
+  nameClub2: Corpus Christi
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Grunwald
+  nameClub1: Waco
+  Pos: P
+  G: '11'
+  PO: '5'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Logan
+  nameClub1: Galveston
+  Pos: P
+  G: '30'
+  PO: '11'
+  A: '30'
+  E: '2'
+  DP: '2'
+  PCT: '.953'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Alejandro
+  nameClub1: Harlingen
+  Pos: P
+  G: '46'
+  PO: '2'
+  A: '38'
+  E: '2'
+  DP: '2'
+  PCT: '.953'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Martin
+  nameClub1: Temple
+  Pos: P
+  G: '13'
+  PO: '4'
+  A: '16'
+  E: '1'
+  DP: '0'
+  PCT: '.952'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Spieth
+  nameClub1: Tyler
+  Pos: P
+  G: '40'
+  PO: '9'
+  A: '48'
+  E: '3'
+  DP: '3'
+  PCT: '.950'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Larson
+  nameClub1: Corpus Christi
+  nameClub2: Tyler
+  Pos: P
+  G: '36'
+  PO: '5'
+  A: '34'
+  E: '2'
+  DP: '4'
+  PCT: '.950'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: DelPiano
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '10'
+  PO: '4'
+  A: '14'
+  E: '1'
+  DP: '1'
+  PCT: '.947'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: McNeal
+  nameClub1: Austin
+  Pos: P
+  G: '35'
+  PO: '11'
+  A: '22'
+  E: '2'
+  DP: '1'
+  PCT: '.945'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Konick
+  nameClub1: Galveston
+  Pos: P
+  G: '34'
+  PO: '11'
+  A: '40'
+  E: '3'
+  DP: '2'
+  PCT: '.944'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hegstrom
+  nameClub1: Galveston
+  Pos: P
+  G: '16'
+  PO: '1'
+  A: '15'
+  E: '1'
+  DP: '1'
+  PCT: '.941'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Campbell
+  nameFirst: F.
+  nameClub1: Temple
+  nameClub2: Harlingen
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '15'
+  E: '1'
+  DP: '2'
+  PCT: '.940'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Chester
+  nameClub1: Galveston
+  Pos: P
+  G: '27'
+  PO: '0'
+  A: '15'
+  E: '1'
+  DP: '2'
+  PCT: '.938'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Eaves
+  nameClub1: Galveston
+  nameClub2: Del Rio
+  Pos: P
+  G: '35'
+  PO: '5'
+  A: '23'
+  E: '2'
+  DP: '2'
+  PCT: '.933'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Newberry
+  nameClub1: Del Rio
+  Pos: P
+  G: '27'
+  PO: '2'
+  A: '24'
+  E: '2'
+  DP: '1'
+  PCT: '.928'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Parker
+  nameClub1: Del Rio
+  Pos: P
+  G: '14'
+  PO: '6'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.927'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sheetz
+  nameClub1: Waco
+  Pos: P
+  G: '37'
+  PO: '8'
+  A: '41'
+  E: '4'
+  DP: '4'
+  PCT: '.925'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Point
+  nameClub1: Temple
+  nameClub2: Galveston
+  nameClub3: Corpus Christi
+  Pos: P
+  G: '31'
+  PO: '9'
+  A: '27'
+  E: '3'
+  DP: '1'
+  PCT: '.925'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Caldwell
+  nameClub1: Harlingen
+  nameClub2: Corpus Christi
+  Pos: P
+  G: '32'
+  PO: '9'
+  A: '15'
+  E: '2'
+  DP: '4'
+  PCT: '.921'
+  apparatus: club=Harlingen+Galveston
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hoffman
+  nameClub1: Waco
+  Pos: P
+  G: '40'
+  PO: '0'
+  A: '58'
+  E: '5'
+  DP: '4'
+  PCT: '.921'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Litton
+  nameClub1: Austin
+  Pos: P
+  G: '30'
+  PO: '1'
+  A: '22'
+  E: '2'
+  DP: '2'
+  PCT: '.920'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bagwell
+  nameClub1: Tyler
+  Pos: P
+  G: '17'
+  PO: '3'
+  A: '20'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Buchanan
+  nameClub1: Galveston
+  Pos: P
+  G: '22'
+  PO: '2'
+  A: '21'
+  E: '2'
+  DP: '2'
+  PCT: '.920'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Stromback
+  nameClub1: Temple
+  Pos: P
+  G: '27'
+  PO: '6'
+  A: '28'
+  E: '3'
+  DP: '3'
+  PCT: '.919'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Gazella
+  nameClub1: Temple
+  Pos: P
+  G: '39'
+  PO: '14'
+  A: '16'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Chergy
+  nameClub1: Tyler
+  Pos: P
+  G: '15'
+  PO: '3'
+  A: '7'
+  E: '1'
+  DP: '1'
+  PCT: '.909'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Salgado
+  nameClub1: Waco
+  Pos: P
+  G: '14'
+  PO: '6'
+  A: '14'
+  E: '2'
+  DP: '1'
+  PCT: '.909'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Hawley
+  nameClub1: Del Rio
+  Pos: P
+  G: '18'
+  PO: '2'
+  A: '27'
+  E: '3'
+  DP: '3'
+  PCT: '.906'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Luckenback
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '26'
+  PO: '8'
+  A: '30'
+  E: '4'
+  DP: '0'
+  PCT: '.905'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Roberson
+  nameClub1: Austin
+  Pos: P
+  G: '40'
+  PO: '5'
+  A: '49'
+  E: '6'
+  DP: '3'
+  PCT: '.900'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Nicolis
+  nameClub1: Waco
+  Pos: P
+  G: '14'
+  PO: '4'
+  A: '13'
+  E: '2'
+  DP: '3'
+  PCT: '.895'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Upton
+  nameClub1: Galveston
+  Pos: P
+  G: '20'
+  PO: '8'
+  A: '16'
+  E: '3'
+  DP: '2'
+  PCT: '.889'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Conovan
+  nameClub1: Galveston
+  Pos: P
+  G: '22'
+  PO: '0'
+  A: '16'
+  E: '2'
+  DP: '2'
+  PCT: '.889'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Mills
+  nameClub1: Harlingen
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '48'
+  E: '7'
+  DP: '3'
+  PCT: '.889'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sauer
+  nameClub1: Del Rio
+  Pos: P
+  G: '37'
+  PO: '6'
+  A: '48'
+  E: '7'
+  DP: '3'
+  PCT: '.889'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Sims
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '34'
+  PO: '10'
+  A: '25'
+  E: '5'
+  DP: '0'
+  PCT: '.875'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Rivas
+  nameClub1: Harlingen
+  Pos: P
+  G: '39'
+  PO: '4'
+  A: '31'
+  E: '5'
+  DP: '0'
+  PCT: '.875'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: McKinnon
+  nameClub1: Temple
+  Pos: P
+  G: '13'
+  PO: '5'
+  A: '15'
+  E: '3'
+  DP: '0'
+  PCT: '.869'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Van Derzee
+  nameClub1: Galveston
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '8'
+  E: '2'
+  DP: '1'
+  PCT: '.818'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Bonine
+  nameClub1: Corpus Christi
+  Pos: P
+  G: '18'
+  PO: '1'
+  A: '14'
+  E: '4'
+  DP: '1'
+  PCT: '.789'
+- year: '1954'
+  nameLeague: Big State League
+  nameLast: Babbitt
+  nameClub1: Temple
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.750'

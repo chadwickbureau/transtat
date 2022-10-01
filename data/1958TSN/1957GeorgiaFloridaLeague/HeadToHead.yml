@@ -1,0 +1,48 @@
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  Valdosta: '15'
+  Thomasville: '18'
+  Fitzgerald: '18'
+  Moultrie/Brunswick: '14'
+  Waycross: '19'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  Albany: '13'
+  Thomasville: '17'
+  Fitzgerald: '11'
+  Moultrie/Brunswick: '19'
+  Waycross: '17'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  Albany: '10'
+  Valdosta: '11'
+  Fitzgerald: '16'
+  Moultrie/Brunswick: '15'
+  Waycross: '19'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  Albany: '10'
+  Valdosta: '17'
+  Thomasville: '11'
+  Moultrie/Brunswick: '17'
+  Waycross: '10'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Moultrie/Brunswick
+  Albany: '14'
+  Valdosta: '8'
+  Thomasville: '13'
+  Fitzgerald: '11'
+  Waycross: '16'
+- year: '1957'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  Albany: '8'
+  Valdosta: '11'
+  Thomasville: '9'
+  Fitzgerald: '18'
+  Moultrie/Brunswick: '12'

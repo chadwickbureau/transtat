@@ -1,0 +1,66 @@
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Pensacola
+  G: '137'
+  DP: '93'
+  PB: '5'
+  PO: '3664'
+  A: '1440'
+  E: '210'
+  PCT: '.960'
+  TP: '0'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Selma
+  G: '136'
+  DP: '117'
+  PB: '19'
+  PO: '3617'
+  A: '1729'
+  E: '235'
+  PCT: '.958'
+  TP: '0'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Jackson
+  G: '138'
+  DP: '98'
+  PB: '20'
+  PO: '3563'
+  A: '1528'
+  E: '228'
+  PCT: '.957'
+  TP: '1'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Montgomery
+  G: '141'
+  DP: '97'
+  PB: '18'
+  PO: '3646'
+  A: '1655'
+  E: '268'
+  PCT: '.952'
+  TP: '0'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Mobile
+  G: '137'
+  DP: '82'
+  PB: '26'
+  PO: '3654'
+  A: '1469'
+  E: '258'
+  PCT: '.952'
+  TP: '1'
+- year: '1937'
+  nameLeague: Southeastern League
+  nameClub: Meridian
+  G: '139'
+  DP: '108'
+  PB: '24'
+  PO: '3573'
+  A: '1547'
+  E: '267'
+  PCT: '.950'
+  TP: '0'

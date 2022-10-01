@@ -1,0 +1,1203 @@
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Kelley
+  nameClub1: Osceola
+  Pos: 1B
+  G: '24'
+  PO: '253'
+  A: '14'
+  E: '3'
+  DP: '25'
+  PCT: '.989'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Harris
+  nameClub1: Newport
+  Pos: 1B
+  G: '97'
+  PO: '847'
+  A: '44'
+  E: '11'
+  DP: '65'
+  PCT: '.988'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Schroder
+  nameClub1: West Plains/Caruthersville
+  Pos: 1B
+  G: '15'
+  PO: '141'
+  A: '6'
+  E: '3'
+  DP: '6'
+  PCT: '.980'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Bates
+  nameClub1: Jonesboro
+  Pos: 1B
+  G: '87'
+  PO: '860'
+  A: '45'
+  E: '23'
+  DP: '49'
+  PCT: '.975'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Amelung
+  nameClub1: West Plains/Caruthersville
+  Pos: 1B
+  G: '35'
+  PO: '344'
+  A: '8'
+  E: '10'
+  DP: '22'
+  PCT: '.973'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Cordell
+  nameClub1: Batesville
+  Pos: 1B
+  G: '94'
+  PO: '890'
+  A: '64'
+  E: '31'
+  DP: '64'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Holt
+  nameClub1: Osceola
+  Pos: 1B
+  G: '22'
+  PO: '233'
+  A: '6'
+  E: '9'
+  DP: '15'
+  PCT: '.964'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: McDonald
+  nameClub1: Paragould
+  Pos: 1B
+  G: '48'
+  PO: '446'
+  A: '19'
+  E: '19'
+  DP: '32'
+  PCT: '.961'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Hudson
+  nameClub1: West Plains/Caruthersville
+  nameClub2: Paragould
+  Pos: 1B
+  G: '79'
+  PO: '714'
+  A: '34'
+  E: '37'
+  DP: '43'
+  PCT: '.953'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Rudy
+  nameClub1: Osceola
+  nameClub2: Batesville
+  nameClub3: Paragould
+  Pos: 1B
+  G: '10'
+  PO: '74'
+  A: '5'
+  E: '4'
+  DP: '2'
+  PCT: '.952'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Brannon
+  nameClub1: Osceola
+  Pos: 2B
+  G: '15'
+  PO: '38'
+  A: '46'
+  E: '3'
+  DP: '9'
+  PCT: '.966'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Hamilton
+  nameClub1: Newport
+  Pos: 2B
+  G: '97'
+  PO: '246'
+  A: '300'
+  E: '20'
+  DP: '52'
+  PCT: '.965'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Naegele
+  nameClub1: Paragould
+  Pos: 2B
+  G: '73'
+  PO: '161'
+  A: '250'
+  E: '26'
+  DP: '33'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Williams
+  nameFirst: R.
+  nameClub1: Osceola
+  Pos: 2B
+  G: '81'
+  PO: '217'
+  A: '298'
+  E: '33'
+  DP: '54'
+  PCT: '.940'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Higdon
+  nameClub1: Paragould
+  Pos: 2B
+  G: '21'
+  PO: '39'
+  A: '72'
+  E: '9'
+  DP: '6'
+  PCT: '.925'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Grahovac
+  nameClub1: Jonesboro
+  Pos: 2B
+  G: '66'
+  PO: '138'
+  A: '200'
+  E: '28'
+  DP: '27'
+  PCT: '.923'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Albright
+  nameClub1: Batesville
+  Pos: 2B
+  G: '70'
+  PO: '152'
+  A: '204'
+  E: '32'
+  DP: '50'
+  PCT: '.918'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Carpenter
+  nameClub1: Batesville
+  Pos: 2B
+  G: '19'
+  PO: '53'
+  A: '69'
+  E: '12'
+  DP: '11'
+  PCT: '.910'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Herndon
+  nameClub1: West Plains/Caruthersville
+  Pos: 2B
+  G: '99'
+  PO: '229'
+  A: '291'
+  E: '54'
+  DP: '40'
+  PCT: '.906'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Jonesboro
+  Pos: 2B
+  G: '13'
+  PO: '33'
+  A: '53'
+  E: '16'
+  DP: '5'
+  PCT: '.843'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Williams
+  nameFirst: R.
+  nameClub1: Osceola
+  Pos: 3B
+  G: '11'
+  PO: '17'
+  A: '21'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Woodruff
+  nameClub1: Batesville
+  Pos: 3B
+  G: '29'
+  PO: '45'
+  A: '48'
+  E: '5'
+  DP: '6'
+  PCT: '.949'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Vandenberg
+  nameFirst: W. J.
+  nameClub1: Jonesboro
+  Pos: 3B
+  G: '10'
+  PO: '13'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PCT: '.903'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Dennis
+  nameClub1: West Plains/Caruthersville
+  Pos: 3B
+  G: '94'
+  PO: '123'
+  A: '170'
+  E: '32'
+  DP: '8'
+  PCT: '.902'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Harper
+  nameClub1: Paragould
+  Pos: 3B
+  G: '52'
+  PO: '50'
+  A: '97'
+  E: '19'
+  DP: '8'
+  PCT: '.886'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Glamp
+  nameClub1: Paragould
+  Pos: 3B
+  G: '37'
+  PO: '41'
+  A: '55'
+  E: '13'
+  DP: '3'
+  PCT: '.880'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Signaigo
+  nameClub1: Osceola
+  Pos: 3B
+  G: '47'
+  PO: '48'
+  A: '97'
+  E: '20'
+  DP: '9'
+  PCT: '.879'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Oldenburg
+  nameClub1: Newport
+  Pos: 3B
+  G: '44'
+  PO: '52'
+  A: '59'
+  E: '16'
+  DP: '4'
+  PCT: '.874'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Hurst
+  nameClub1: Batesville
+  Pos: 3B
+  G: '54'
+  PO: '53'
+  A: '87'
+  E: '22'
+  DP: '4'
+  PCT: '.872'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Rudy
+  nameClub1: Osceola
+  nameClub2: Batesville
+  nameClub3: Paragould
+  Pos: 3B
+  G: '32'
+  PO: '27'
+  A: '70'
+  E: '15'
+  DP: '7'
+  PCT: '.866'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Mahon
+  nameClub1: Osceola
+  nameClub2: Jonesboro
+  Pos: 3B
+  G: '18'
+  PO: '28'
+  A: '32'
+  E: '10'
+  DP: '7'
+  PCT: '.857'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Jonesboro
+  Pos: 3B
+  G: '52'
+  PO: '40'
+  A: '82'
+  E: '21'
+  DP: '5'
+  PCT: '.853'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Adzia
+  nameClub1: Newport
+  Pos: 3B
+  G: '32'
+  PO: '34'
+  A: '49'
+  E: '18'
+  DP: '2'
+  PCT: '.822'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Reichelt
+  nameFirst: C.
+  nameClub1: Newport
+  Pos: 3B
+  G: '16'
+  PO: '12'
+  A: '18'
+  E: '9'
+  DP: '0'
+  PCT: '.769'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Hayden
+  nameClub1: Paragould
+  Pos: SS
+  G: '34'
+  PO: '80'
+  A: '96'
+  E: '9'
+  DP: '12'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Murphy
+  nameFirst: J.
+  nameClub1: Newport
+  Pos: SS
+  G: '77'
+  PO: '161'
+  A: '242'
+  E: '35'
+  DP: '51'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Wickel
+  nameClub1: West Plains/Caruthersville
+  Pos: SS
+  G: '99'
+  PO: '195'
+  A: '330'
+  E: '48'
+  DP: '48'
+  PCT: '.915'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Pasierb
+  nameClub1: Jonesboro
+  Pos: SS
+  G: '96'
+  PO: '178'
+  A: '308'
+  E: '46'
+  DP: '40'
+  PCT: '.914'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Gates
+  nameClub1: Osceola
+  Pos: SS
+  G: '47'
+  PO: '89'
+  A: '122'
+  E: '20'
+  DP: '18'
+  PCT: '.913'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Campbell
+  nameFirst: E.
+  nameClub1: Batesville
+  Pos: SS
+  G: '48'
+  PO: '112'
+  A: '139'
+  E: '26'
+  DP: '30'
+  PCT: '.906'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Naegele
+  nameClub1: Paragould
+  Pos: SS
+  G: '19'
+  PO: '43'
+  A: '51'
+  E: '11'
+  DP: '12'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Williams
+  nameFirst: G.
+  nameClub1: Osceola
+  Pos: SS
+  G: '69'
+  PO: '131'
+  A: '214'
+  E: '41'
+  DP: '41'
+  PCT: '.894'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Rudy
+  nameClub1: Osceola
+  nameClub2: Batesville
+  nameClub3: Paragould
+  Pos: SS
+  G: '22'
+  PO: '38'
+  A: '81'
+  E: '18'
+  DP: '13'
+  PCT: '.869'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Bush
+  nameClub1: Paragould
+  Pos: SS
+  G: '15'
+  PO: '31'
+  A: '50'
+  E: '13'
+  DP: '9'
+  PCT: '.862'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Casmer
+  nameClub1: Newport
+  nameClub2: Batesville
+  Pos: SS
+  G: '22'
+  PO: '33'
+  A: '51'
+  E: '17'
+  DP: '5'
+  PCT: '.830'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Kitzmiller
+  nameClub1: Newport
+  Pos: LF
+  G: '17'
+  PO: '18'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Iffrig
+  nameClub1: West Plains/Caruthersville
+  Pos: LF
+  G: '76'
+  PO: '135'
+  A: '10'
+  E: '6'
+  DP: '0'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Reichelt
+  nameFirst: G.
+  nameClub1: Newport
+  Pos: LF
+  G: '49'
+  PO: '88'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Liberto
+  nameClub1: Osceola
+  nameClub2: Paragould
+  Pos: LF
+  G: '29'
+  PO: '46'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.921'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Campbell
+  nameFirst: T.
+  nameClub1: Jonesboro
+  Pos: LF
+  G: '45'
+  PO: '62'
+  A: '7'
+  E: '6'
+  DP: '1'
+  PCT: '.920'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Spencer
+  nameClub1: Paragould
+  Pos: LF
+  G: '40'
+  PO: '64'
+  A: '1'
+  E: '7'
+  DP: '0'
+  PCT: '.903'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Reinhardt
+  nameClub1: Newport
+  nameClub2: Batesville
+  Pos: LF
+  G: '24'
+  PO: '34'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.900'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Jonesboro
+  Pos: LF
+  G: '11'
+  PO: '16'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Mabry
+  nameFirst: T.
+  nameClub1: Osceola
+  Pos: LF
+  G: '62'
+  PO: '96'
+  A: '5'
+  E: '12'
+  PCT: '.894'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Vandenberg
+  nameFirst: W. J.
+  nameClub1: Jonesboro
+  Pos: LF
+  G: '18'
+  PO: '32'
+  A: '6'
+  E: '5'
+  DP: '0'
+  PCT: '.884'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Etheridge
+  nameClub1: Batesville
+  Pos: LF
+  G: '45'
+  PO: '58'
+  A: '7'
+  E: '9'
+  DP: '1'
+  PCT: '.879'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Ballard
+  nameClub1: Paragould
+  nameClub2: Osceola
+  Pos: LF
+  G: '30'
+  PO: '38'
+  A: '5'
+  E: '6'
+  DP: '0'
+  PCT: '.878'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Miller
+  nameClub1: West Plains/Caruthersville
+  nameClub2: Batesville
+  Pos: LF
+  G: '17'
+  PO: '62'
+  A: '1'
+  E: '6'
+  DP: '0'
+  PCT: '.818'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Mills
+  nameClub1: Osceola
+  Pos: CF
+  G: '95'
+  PO: '192'
+  A: '6'
+  E: '9'
+  DP: '1'
+  PCT: '.957'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Davenport
+  nameClub1: Batesville
+  Pos: CF
+  G: '81'
+  PO: '179'
+  A: '7'
+  E: '9'
+  DP: '1'
+  PCT: '.954'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: McGowan
+  nameFirst: J.
+  nameClub1: West Plains/Caruthersville
+  Pos: CF
+  G: '89'
+  PO: '161'
+  A: '14'
+  E: '10'
+  DP: '3'
+  PCT: '.946'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Liberto
+  nameClub1: Osceola
+  nameClub2: Paragould
+  Pos: CF
+  G: '43'
+  PO: '87'
+  A: '8'
+  E: '7'
+  DP: '1'
+  PCT: '.931'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Gordon
+  nameClub1: Newport
+  Pos: CF
+  G: '90'
+  PO: '197'
+  A: '7'
+  E: '18'
+  DP: '0'
+  PCT: '.919'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Beavers
+  nameClub1: Jonesboro
+  Pos: CF
+  G: '93'
+  PO: '103'
+  A: '18'
+  E: '15'
+  DP: '2'
+  PCT: '.890'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Spencer
+  nameClub1: Paragould
+  Pos: CF
+  G: '14'
+  PO: '23'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: King
+  nameClub1: Paragould
+  nameClub2: Batesville
+  Pos: CF
+  G: '13'
+  PO: '22'
+  A: '1'
+  E: '3'
+  DP: '0'
+  PCT: '.885'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Ballard
+  nameClub1: Paragould
+  nameClub2: Osceola
+  Pos: CF
+  G: '16'
+  PO: '20'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.875'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Liberto
+  nameClub1: Osceola
+  nameClub2: Paragould
+  Pos: RF
+  G: '13'
+  PO: '17'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Etheridge
+  nameClub1: Batesville
+  Pos: RF
+  G: '24'
+  PO: '23'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Kitzmiller
+  nameClub1: Newport
+  Pos: RF
+  G: '17'
+  PO: '18'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.955'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Tikvich
+  nameClub1: West Plains/Caruthersville
+  Pos: RF
+  G: '24'
+  PO: '38'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: McGowan
+  nameFirst: J.
+  nameClub1: West Plains/Caruthersville
+  Pos: RF
+  G: '10'
+  PO: '18'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Gregory
+  nameClub1: Osceola
+  Pos: RF
+  G: '24'
+  PO: '29'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Johnson
+  nameFirst: R.
+  nameClub1: Jonesboro
+  Pos: RF
+  G: '11'
+  PO: '16'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Valci
+  nameClub1: Newport
+  Pos: RF
+  G: '84'
+  PO: '157'
+  A: '4'
+  E: '13'
+  DP: '3'
+  PCT: '.925'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Ballard
+  nameClub1: Paragould
+  nameClub2: Osceola
+  Pos: RF
+  G: '48'
+  PO: '51'
+  A: '11'
+  E: '6'
+  DP: '2'
+  PCT: '.912'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Hall
+  nameFirst: H.
+  nameClub1: Jonesboro
+  nameClub2: Batesville
+  Pos: RF
+  G: '84'
+  PO: '73'
+  A: '7'
+  E: '8'
+  DP: '4'
+  PCT: '.909'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Bennett
+  nameClub1: Paragould
+  nameClub2: Batesville
+  Pos: RF
+  G: '39'
+  PO: '62'
+  A: '6'
+  E: '8'
+  DP: '1'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Lancaster
+  nameClub1: Paragould
+  Pos: RF
+  G: '15'
+  PO: '14'
+  A: '3'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: McGowan
+  nameFirst: T.
+  nameClub1: West Plains/Caruthersville
+  Pos: RF
+  G: '35'
+  PO: '49'
+  A: '5'
+  E: '7'
+  DP: '1'
+  PCT: '.885'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Signaigo
+  nameClub1: Osceola
+  Pos: RF
+  G: '10'
+  PO: '9'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.818'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Strunks
+  nameClub1: Batesville
+  Pos: C
+  G: '45'
+  PO: '263'
+  A: '17'
+  E: '8'
+  DP: '6'
+  PCT: '.972'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Murphy
+  nameFirst: T.
+  nameClub1: Newport
+  Pos: C
+  G: '93'
+  PO: '534'
+  A: '51'
+  E: '19'
+  DP: '1'
+  PCT: '.969'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Smith
+  nameFirst: F.
+  nameClub1: Paragould
+  nameClub2: Jonesboro
+  Pos: C
+  G: '15'
+  PO: '72'
+  A: '15'
+  E: '3'
+  DP: '1'
+  PCT: '.967'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Turner
+  nameClub1: West Plains/Caruthersville
+  Pos: C
+  G: '82'
+  PO: '419'
+  A: '62'
+  E: '20'
+  DP: '9'
+  PCT: '.960'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Porter
+  nameClub1: Jonesboro
+  Pos: C
+  G: '90'
+  PO: '561'
+  A: '56'
+  E: '27'
+  DP: '19'
+  PCT: '.958'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Landthrip
+  nameClub1: Jonesboro
+  nameClub2: Batesville
+  Pos: C
+  G: '18'
+  PO: '82'
+  A: '14'
+  E: '5'
+  DP: '1'
+  PCT: '.950'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Rucker
+  nameClub1: Osceola
+  Pos: C
+  G: '90'
+  PO: '524'
+  A: '65'
+  E: '33'
+  DP: '10'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Ritzenthaler
+  nameClub1: Paragould
+  Pos: C
+  G: '82'
+  PO: '448'
+  A: '56'
+  E: '28'
+  DP: '11'
+  PCT: '.947'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: McGowan
+  nameFirst: T.
+  nameClub1: West Plains/Caruthersville
+  Pos: C
+  G: '20'
+  PO: '76'
+  A: '14'
+  E: '8'
+  DP: '0'
+  PCT: '.919'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Wright
+  nameClub1: Batesville
+  Pos: C
+  G: '15'
+  PO: '77'
+  A: '9'
+  E: '10'
+  DP: '0'
+  PCT: '.896'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Harkey
+  nameClub1: Newport
+  nameClub2: Batesville
+  Pos: UT
+  G: '16'
+  PO: '13'
+  A: '7'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Davenport
+  nameClub1: Batesville
+  Pos: UT
+  G: '13'
+  PO: '49'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PCT: '.984'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Vandenberg
+  nameFirst: W. J.
+  nameClub1: Jonesboro
+  Pos: UT
+  G: '12'
+  PO: '62'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.971'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Carolan
+  nameClub1: Paragould
+  Pos: UT
+  G: '21'
+  PO: '107'
+  A: '8'
+  E: '6'
+  DP: '8'
+  PCT: '.951'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: England
+  nameClub1: West Plains/Caruthersville
+  Pos: UT
+  G: '24'
+  PO: '45'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PCT: '.945'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Turner
+  nameClub1: West Plains/Caruthersville
+  Pos: UT
+  G: '11'
+  PO: '11'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Smith
+  nameFirst: F.
+  nameClub1: Paragould
+  nameClub2: Jonesboro
+  Pos: UT
+  G: '25'
+  PO: '74'
+  A: '15'
+  E: '6'
+  DP: '8'
+  PCT: '.937'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Perry
+  nameClub1: Batesville
+  Pos: UT
+  G: '16'
+  PO: '25'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.928'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Lenti
+  nameClub1: Jonesboro
+  Pos: UT
+  G: '19'
+  PO: '20'
+  A: '34'
+  E: '7'
+  DP: '2'
+  PCT: '.885'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Lancaster
+  nameClub1: Paragould
+  Pos: UT
+  G: '10'
+  PO: '22'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.880'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Clark
+  nameClub1: Batesville
+  Pos: UT
+  G: '24'
+  PO: '39'
+  A: '6'
+  E: '7'
+  DP: '1'
+  PCT: '.865'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: McDaniel
+  nameClub1: Paragould
+  Pos: UT
+  G: '22'
+  PO: '24'
+  A: '13'
+  E: '6'
+  DP: '4'
+  PCT: '.860'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Griffin
+  nameClub1: Batesville
+  nameClub2: Paragould
+  Pos: UT
+  G: '13'
+  PO: '15'
+  A: '0'
+  E: '5'
+  DP: '0'
+  PCT: '.750'
+- year: '1936'
+  nameLeague: Northeast Arkansas League
+  nameLast: Kitzmiller
+  nameClub1: Newport
+  Pos: UT
+  G: '18'
+  PO: '4'
+  A: '8'
+  E: '4'
+  DP: '2'
+  PCT: '.750'

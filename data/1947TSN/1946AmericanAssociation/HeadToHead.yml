@@ -1,0 +1,80 @@
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Louisville
+  Indianapolis: '12'
+  St. Paul: '12'
+  Minneapolis: '14'
+  Milwaukee: '15'
+  Toledo: '12'
+  Kansas City: '15'
+  Columbus: '12'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  Louisville: '10'
+  St. Paul: '11'
+  Minneapolis: '10'
+  Milwaukee: '12'
+  Toledo: '14'
+  Kansas City: '13'
+  Columbus: '18'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: St. Paul
+  Louisville: '10'
+  Indianapolis: '11'
+  Minneapolis: '12'
+  Milwaukee: '11'
+  Toledo: '11'
+  Kansas City: '13'
+  Columbus: '12'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  Louisville: '8'
+  Indianapolis: '12'
+  St. Paul: '10'
+  Milwaukee: '12'
+  Toledo: '13'
+  Kansas City: '9'
+  Columbus: '12'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Milwaukee
+  Louisville: '6'
+  Indianapolis: '10'
+  St. Paul: '8'
+  Minneapolis: '10'
+  Toledo: '13'
+  Kansas City: '9'
+  Columbus: '14'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Toledo
+  Louisville: '10'
+  Indianapolis: '7'
+  St. Paul: '11'
+  Minneapolis: '9'
+  Milwaukee: '9'
+  Kansas City: '13'
+  Columbus: '10'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Kansas City
+  Louisville: '7'
+  Indianapolis: '9'
+  St. Paul: '9'
+  Minneapolis: '10'
+  Milwaukee: '11'
+  Toledo: '9'
+  Columbus: '12'
+- year: '1946'
+  nameLeague: American Association
+  nameClub: Columbus
+  Louisville: '10'
+  Indianapolis: '4'
+  St. Paul: '10'
+  Minneapolis: '10'
+  Milwaukee: '8'
+  Toledo: '12'
+  Kansas City: '10'

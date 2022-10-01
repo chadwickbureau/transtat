@@ -1,0 +1,32 @@
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameClub: Lenoir
+  phase: regular
+  W: '71'
+  L: '35'
+  T: '3'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameClub: Mount Airy
+  phase: regular
+  W: '59'
+  L: '45'
+  T: '1'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameClub: Radford
+  phase: regular
+  W: '53'
+  L: '55'
+  T: '2'
+  RANK: '3'
+- year: '1946'
+  nameLeague: Blue Ridge League
+  nameClub: Galax
+  phase: regular
+  W: '30'
+  L: '78'
+  T: '0'
+  RANK: '4'

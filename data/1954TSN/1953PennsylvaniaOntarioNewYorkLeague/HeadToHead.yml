@@ -1,0 +1,80 @@
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Jamestown
+  Hornell: '15'
+  Hamilton: '7'
+  Bradford: '12'
+  Olean: '15'
+  Wellsville: '12'
+  Batavia: '14'
+  Corning: '13'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hornell
+  Jamestown: '3'
+  Hamilton: '12'
+  Bradford: '9'
+  Olean: '9'
+  Wellsville: '11'
+  Batavia: '11'
+  Corning: '15'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Hamilton
+  Jamestown: '11'
+  Hornell: '6'
+  Bradford: '9'
+  Olean: '10'
+  Wellsville: '8'
+  Batavia: '12'
+  Corning: '13'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Bradford
+  Jamestown: '6'
+  Hornell: '9'
+  Hamilton: '9'
+  Olean: '10'
+  Wellsville: '10'
+  Batavia: '11'
+  Corning: '11'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Olean
+  Jamestown: '3'
+  Hornell: '9'
+  Hamilton: '8'
+  Bradford: '8'
+  Wellsville: '12'
+  Batavia: '11'
+  Corning: '12'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Wellsville
+  Jamestown: '6'
+  Hornell: '7'
+  Hamilton: '10'
+  Bradford: '8'
+  Olean: '6'
+  Batavia: '12'
+  Corning: '10'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Batavia
+  Jamestown: '4'
+  Hornell: '7'
+  Hamilton: '6'
+  Bradford: '7'
+  Olean: '5'
+  Wellsville: '6'
+  Corning: '11'
+- year: '1953'
+  nameLeague: Pennsylvania-Ontario-New York League
+  nameClub: Corning
+  Jamestown: '4'
+  Hornell: '3'
+  Hamilton: '5'
+  Bradford: '7'
+  Olean: '6'
+  Wellsville: '8'
+  Batavia: '7'

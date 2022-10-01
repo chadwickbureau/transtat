@@ -1,0 +1,122 @@
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular/first
+  W: '42'
+  L: '26'
+  T: '0'
+  PCT: '.618'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: regular/first
+  W: '38'
+  L: '30'
+  T: '1'
+  PCT: '.559'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/first
+  W: '37'
+  L: '30'
+  T: '1'
+  PCT: '.552'
+  RANK: '3'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: regular/first
+  W: '35'
+  L: '32'
+  T: '0'
+  PCT: '.522'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/first
+  W: '30'
+  L: '37'
+  T: '1'
+  PCT: '.448'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/first
+  W: '21'
+  L: '48'
+  T: '1'
+  PCT: '.304'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: regular/second
+  W: '42'
+  L: '28'
+  T: '0'
+  PCT: '.600'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: regular/second
+  W: '39'
+  L: '31'
+  T: '0'
+  PCT: '.557'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Ogden
+  phase: regular/second
+  W: '39'
+  L: '31'
+  T: '0'
+  PCT: '.557'
+  RANK: '2'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Boise
+  phase: regular/second
+  W: '37'
+  L: '33'
+  T: '0'
+  PCT: '.529'
+  RANK: '4'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Idaho Falls
+  phase: regular/second
+  W: '29'
+  L: '41'
+  T: '0'
+  PCT: '.414'
+  RANK: '5'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Pocatello
+  phase: regular/second
+  W: '24'
+  L: '46'
+  T: '0'
+  PCT: '.343'
+  RANK: '6'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Twin Falls
+  phase: final
+  W: '4'
+  L: '1'
+  RANK: '1'
+- year: '1947'
+  nameLeague: Pioneer League
+  nameClub: Salt Lake City
+  phase: final
+  W: '1'
+  L: '4'
+  RANK: '2'

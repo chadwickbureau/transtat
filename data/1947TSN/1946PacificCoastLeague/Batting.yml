@@ -1,0 +1,5923 @@
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Brillheart
+  nameFirst: James B.
+  nameClub1: San Diego
+  G: '19'
+  AB: '6'
+  R: '1'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '0'
+  RBI: '0'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Jonas
+  nameFirst: Wilfred R.
+  nameClub1: Seattle
+  bats: L
+  G: '15'
+  AB: '21'
+  R: '1'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '1'
+  RBI: '5'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Scarsella
+  nameFirst: Les. G.
+  nameClub1: Oakland
+  bats: L
+  G: '121'
+  AB: '428'
+  R: '76'
+  H: '142'
+  TB: '239'
+  H2B: '29'
+  H3B: '1'
+  HR: '22'
+  SH: '6'
+  SB: '4'
+  BB: '46'
+  HP: '5'
+  SO: '35'
+  RBI: '91'
+  AVG: '.332'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Storey
+  nameFirst: Harvey S.
+  nameClub1: Los Angeles
+  nameClub2: Portland
+  G: '157'
+  AB: '556'
+  R: '75'
+  H: '181'
+  TB: '294'
+  H2B: '44'
+  H3B: '9'
+  HR: '17'
+  SH: '6'
+  SB: '3'
+  BB: '44'
+  HP: '1'
+  SO: '47'
+  RBI: '89'
+  AVG: '.326'
+  AVG_RANK: '1'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Rikard
+  nameFirst: Culley
+  nameClub1: Hollywood
+  bats: L
+  G: '144'
+  AB: '456'
+  R: '68'
+  H: '148'
+  TB: '216'
+  H2B: '26'
+  H3B: '9'
+  HR: '8'
+  SH: '7'
+  SB: '6'
+  BB: '82'
+  HP: '4'
+  SO: '42'
+  RBI: '68'
+  AVG: '.325'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Fleming
+  nameFirst: Leslie F.
+  nameClub1: Los Angeles
+  G: '15'
+  AB: '31'
+  R: '2'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '5'
+  RBI: '4'
+  AVG: '.323'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Westlake
+  nameFirst: Waldon T.
+  nameClub1: Oakland
+  G: '136'
+  AB: '429'
+  R: '60'
+  H: '135'
+  TB: '185'
+  H2B: '19'
+  H3B: '5'
+  HR: '7'
+  SH: '4'
+  SB: '5'
+  BB: '30'
+  HP: '11'
+  SO: '66'
+  RBI: '57'
+  AVG: '.315'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: White
+  nameFirst: Joyner C.
+  nameClub1: Sacramento
+  nameClub2: Seattle
+  bats: L
+  G: '147'
+  AB: '510'
+  R: '78'
+  H: '159'
+  TB: '196'
+  H2B: '18'
+  H3B: '8'
+  HR: '1'
+  SH: '10'
+  SB: '14'
+  BB: '52'
+  HP: '2'
+  SO: '39'
+  RBI: '40'
+  AVG: '.312'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kalin
+  nameFirst: Frank B.
+  nameClub1: Hollywood
+  G: '121'
+  AB: '389'
+  R: '47'
+  H: '121'
+  TB: '179'
+  H2B: '17'
+  H3B: '4'
+  HR: '11'
+  SH: '7'
+  SB: '3'
+  BB: '27'
+  HP: '1'
+  SO: '24'
+  RBI: '60'
+  AVG: '.311'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Marty
+  nameFirst: Joseph
+  nameClub1: Sacramento
+  G: '144'
+  AB: '518'
+  R: '75'
+  H: '159'
+  TB: '240'
+  H2B: '31'
+  H3B: '4'
+  HR: '14'
+  SH: '7'
+  SB: '10'
+  BB: '64'
+  HP: '3'
+  SO: '51'
+  RBI: '74'
+  AVG: '.307'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Christopher
+  nameFirst: Loyd E.
+  nameClub1: Los Angeles
+  G: '158'
+  AB: '569'
+  R: '88'
+  H: '173'
+  TB: '296'
+  H2B: '37'
+  H3B: '4'
+  HR: '26'
+  SH: '7'
+  SB: '1'
+  BB: '61'
+  HP: '2'
+  SO: '57'
+  RBI: '96'
+  AVG: '.304'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Jennings
+  nameFirst: Theodore M.
+  nameClub1: San Francisco
+  bats: L
+  G: '136'
+  AB: '495'
+  R: '83'
+  H: '150'
+  TB: '190'
+  H2B: '21'
+  H3B: '5'
+  HR: '3'
+  SH: '6'
+  SB: '11'
+  BB: '41'
+  HP: '2'
+  SO: '35'
+  RBI: '53'
+  AVG: '.303'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lohrke
+  nameFirst: Jack W.
+  nameClub1: San Diego
+  G: '92'
+  AB: '350'
+  R: '41'
+  H: '106'
+  TB: '157'
+  H2B: '19'
+  H3B: '4'
+  HR: '8'
+  SH: '8'
+  SB: '3'
+  BB: '30'
+  HP: '0'
+  SO: '41'
+  RBI: '48'
+  AVG: '.303'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Reich
+  nameFirst: Herman
+  nameClub1: Portland
+  G: '170'
+  AB: '629'
+  R: '64'
+  H: '190'
+  TB: '250'
+  H2B: '27'
+  H3B: '3'
+  HR: '9'
+  SH: '13'
+  SB: '5'
+  BB: '41'
+  HP: '9'
+  SO: '84'
+  RBI: '75'
+  AVG: '.302'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Norbert
+  nameFirst: Theodore J.
+  nameClub1: Seattle
+  G: '20'
+  AB: '43'
+  R: '5'
+  H: '13'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  SO: '3'
+  RBI: '4'
+  AVG: '.302'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Fain
+  nameFirst: Ferris R.
+  nameClub1: San Francisco
+  bats: L
+  G: '180'
+  AB: '615'
+  R: '117'
+  H: '185'
+  TB: '265'
+  H2B: '35'
+  H3B: '6'
+  HR: '11'
+  SH: '6'
+  SB: '24'
+  BB: '129'
+  HP: '1'
+  SO: '66'
+  RBI: '112'
+  AVG: '.301'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Novikoff
+  nameFirst: Louis
+  nameClub1: Seattle
+  G: '84'
+  AB: '312'
+  R: '24'
+  H: '94'
+  TB: '117'
+  H2B: '13'
+  H3B: '2'
+  HR: '2'
+  SH: '3'
+  SB: '4'
+  BB: '13'
+  HP: '0'
+  SO: '34'
+  RBI: '34'
+  AVG: '.301'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Jensen
+  nameFirst: John H.
+  nameClub1: San Diego
+  G: '155'
+  AB: '496'
+  R: '60'
+  H: '149'
+  TB: '200'
+  H2B: '27'
+  H3B: '6'
+  HR: '4'
+  SH: '12'
+  SB: '8'
+  BB: '70'
+  HP: '1'
+  SO: '51'
+  RBI: '53'
+  AVG: '.300'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Raimondi
+  nameFirst: Wm. L.
+  nameClub1: Oakland
+  G: '112'
+  AB: '347'
+  R: '34'
+  H: '104'
+  TB: '131'
+  H2B: '19'
+  H3B: '4'
+  HR: '0'
+  SH: '14'
+  SB: '6'
+  BB: '38'
+  HP: '0'
+  SO: '31'
+  RBI: '32'
+  AVG: '.300'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Vanni
+  nameFirst: Edo J.
+  nameClub1: Seattle
+  bats: L
+  G: '127'
+  AB: '402'
+  R: '50'
+  H: '119'
+  TB: '137'
+  H2B: '10'
+  H3B: '4'
+  HR: '0'
+  SH: '9'
+  SB: '12'
+  BB: '15'
+  HP: '3'
+  SO: '24'
+  RBI: '21'
+  AVG: '.296'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lupien
+  nameFirst: Ulysses J.
+  nameClub1: Hollywood
+  bats: L
+  G: '170'
+  AB: '633'
+  R: '97'
+  H: '187'
+  TB: '269'
+  H2B: '37'
+  H3B: '9'
+  HR: '9'
+  SH: '14'
+  SB: '43'
+  BB: '76'
+  HP: '3'
+  SO: '31'
+  RBI: '77'
+  AVG: '.295'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ramsey
+  nameFirst: William T.
+  nameClub1: Seattle
+  nameClub2: Sacramento
+  G: '182'
+  AB: '747'
+  R: '101'
+  H: '219'
+  TB: '282'
+  H2B: '36'
+  H3B: '9'
+  HR: '3'
+  SH: '8'
+  SB: '43'
+  BB: '36'
+  HP: '3'
+  SO: '86'
+  RBI: '57'
+  AVG: '.293'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Luby
+  nameFirst: Hugh M.
+  nameClub1: San Francisco
+  G: '176'
+  AB: '678'
+  R: '110'
+  H: '199'
+  TB: '247'
+  H2B: '30'
+  H3B: '6'
+  HR: '2'
+  SH: '16'
+  SB: '22'
+  BB: '77'
+  HP: '5'
+  SO: '45'
+  RBI: '60'
+  AVG: '.294'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mesner
+  nameFirst: Stephan
+  nameClub1: Sacramento
+  G: '188'
+  AB: '698'
+  R: '88'
+  H: '204'
+  TB: '269'
+  H2B: '49'
+  H3B: '2'
+  HR: '4'
+  SH: '9'
+  SB: '5'
+  BB: '60'
+  HP: '2'
+  SO: '26'
+  RBI: '85'
+  AVG: '.292'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Pippen
+  nameFirst: Henry
+  nameClub1: Oakland
+  G: '30'
+  AB: '65'
+  R: '5'
+  H: '19'
+  TB: '20'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '7'
+  RBI: '3'
+  AVG: '.292'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Escobar
+  nameFirst: Daniel
+  nameClub1: Portland
+  bats: L
+  G: '140'
+  AB: '433'
+  R: '62'
+  H: '126'
+  TB: '195'
+  H2B: '17'
+  H3B: '11'
+  HR: '10'
+  SH: '8'
+  SB: '9'
+  BB: '47'
+  HP: '1'
+  SO: '49'
+  RBI: '56'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Zipay
+  nameFirst: Edward J.
+  nameClub1: Sacramento
+  bats: L
+  G: '121'
+  AB: '444'
+  R: '37'
+  H: '129'
+  TB: '162'
+  H2B: '24'
+  H3B: '3'
+  HR: '1'
+  SH: '5'
+  SB: '8'
+  BB: '31'
+  HP: '0'
+  SO: '34'
+  RBI: '33'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Buzas
+  nameFirst: Joseph J.
+  nameClub1: Seattle
+  G: '55'
+  AB: '189'
+  R: '16'
+  H: '55'
+  TB: '62'
+  H2B: '5'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '12'
+  BB: '4'
+  HP: '0'
+  SO: '8'
+  RBI: '26'
+  AVG: '.291'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: White
+  nameFirst: Don W.
+  nameClub1: San Francisco
+  G: '159'
+  AB: '553'
+  R: '61'
+  H: '159'
+  TB: '219'
+  H2B: '32'
+  H3B: '8'
+  HR: '4'
+  SH: '13'
+  SB: '4'
+  BB: '58'
+  HP: '5'
+  SO: '65'
+  RBI: '90'
+  AVG: '.288'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Matheson
+  nameFirst: Willard F.
+  nameClub1: Seattle
+  nameClub2: Portland
+  G: '102'
+  AB: '288'
+  R: '38'
+  H: '83'
+  TB: '113'
+  H2B: '16'
+  H3B: '4'
+  HR: '2'
+  SH: '4'
+  SB: '3'
+  BB: '24'
+  HP: '1'
+  SO: '41'
+  RBI: '32'
+  AVG: '.288'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kahle
+  nameFirst: Robert W.
+  nameClub1: Hollywood
+  G: '154'
+  AB: '554'
+  R: '63'
+  H: '159'
+  TB: '194'
+  H2B: '28'
+  H3B: '2'
+  HR: '1'
+  SH: '7'
+  SB: '5'
+  BB: '44'
+  HP: '2'
+  SO: '41'
+  RBI: '72'
+  AVG: '.287'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Schuster
+  nameFirst: William C.
+  nameClub1: Los Angeles
+  G: '176'
+  AB: '626'
+  R: '89'
+  H: '179'
+  TB: '233'
+  H2B: '34'
+  H3B: '4'
+  HR: '4'
+  SH: '14'
+  SB: '26'
+  BB: '68'
+  HP: '1'
+  SO: '51'
+  RBI: '69'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Treadway
+  nameFirst: Leon
+  nameClub1: Los Angeles
+  bats: L
+  G: '126'
+  AB: '496'
+  R: '76'
+  H: '142'
+  TB: '177'
+  H2B: '17'
+  H3B: '9'
+  HR: '0'
+  SH: '10'
+  SB: '17'
+  BB: '23'
+  HP: '2'
+  SO: '23'
+  RBI: '27'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kelleher
+  nameFirst: Frank
+  nameClub1: Hollywood
+  G: '91'
+  AB: '297'
+  R: '47'
+  H: '85'
+  TB: '162'
+  H2B: '15'
+  H3B: '4'
+  HR: '18'
+  SH: '2'
+  SB: '3'
+  BB: '44'
+  HP: '0'
+  SO: '42'
+  RBI: '54'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Vico
+  nameFirst: George S.
+  nameClub1: Portland
+  bats: L
+  G: '48'
+  AB: '168'
+  R: '18'
+  H: '48'
+  TB: '69'
+  H2B: '6'
+  H3B: '0'
+  HR: '5'
+  SH: '4'
+  SB: '1'
+  BB: '18'
+  HP: '1'
+  SO: '23'
+  RBI: '27'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Moran
+  nameFirst: Cyril M.
+  nameClub1: Hollywood
+  G: '105'
+  AB: '305'
+  R: '36'
+  H: '87'
+  TB: '107'
+  H2B: '13'
+  H3B: '2'
+  HR: '1'
+  SH: '6'
+  SB: '6'
+  BB: '23'
+  HP: '2'
+  SO: '35'
+  RBI: '33'
+  AVG: '.285'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Torgeson
+  nameFirst: Clifford E.
+  nameClub1: Seattle
+  bats: L
+  G: '103'
+  AB: '354'
+  R: '46'
+  H: '101'
+  TB: '144'
+  H2B: '18'
+  H3B: '5'
+  HR: '5'
+  SH: '1'
+  SB: '20'
+  BB: '59'
+  HP: '0'
+  SO: '39'
+  RBI: '53'
+  AVG: '.285'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stewart
+  nameFirst: Edw.
+  nameClub1: Hollywood
+  bats: L
+  G: '83'
+  AB: '246'
+  R: '43'
+  H: '70'
+  TB: '98'
+  H2B: '12'
+  H3B: '5'
+  HR: '2'
+  SH: '6'
+  SB: '8'
+  BB: '26'
+  HP: '0'
+  SO: '19'
+  RBI: '32'
+  AVG: '.285'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Holder
+  nameFirst: Brooks R.
+  nameClub1: Oakland
+  bats: L
+  G: '155'
+  AB: '477'
+  R: '88'
+  H: '135'
+  TB: '195'
+  H2B: '15'
+  H3B: '3'
+  HR: '13'
+  SH: '21'
+  SB: '14'
+  BB: '131'
+  HP: '6'
+  SO: '29'
+  RBI: '59'
+  AVG: '.283'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gyselman
+  nameFirst: Richard R.
+  nameClub1: San Diego
+  G: '171'
+  AB: '619'
+  R: '77'
+  H: '174'
+  TB: '212'
+  H2B: '22'
+  H3B: '8'
+  HR: '0'
+  SH: '13'
+  SB: '16'
+  BB: '46'
+  HP: '6'
+  SO: '86'
+  RBI: '58'
+  AVG: '.281'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sprinz
+  nameFirst: Joseph C.
+  nameClub1: San Francisco
+  G: '35'
+  AB: '93'
+  R: '6'
+  H: '26'
+  TB: '27'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '16'
+  HP: '0'
+  SO: '6'
+  RBI: '14'
+  AVG: '.280'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Jansen
+  nameFirst: Lawrence J.
+  nameClub1: San Francisco
+  G: '38'
+  AB: '122'
+  R: '8'
+  H: '34'
+  TB: '39'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '6'
+  HP: '1'
+  SO: '24'
+  RBI: '12'
+  AVG: '.279'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Marshall
+  nameFirst: Max
+  nameClub1: Oakland
+  bats: L
+  G: '103'
+  AB: '345'
+  R: '53'
+  H: '96'
+  TB: '149'
+  H2B: '18'
+  H3B: '4'
+  HR: '9'
+  SH: '5'
+  SB: '8'
+  BB: '40'
+  HP: '0'
+  SO: '32'
+  RBI: '56'
+  AVG: '.278'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Thompson
+  nameFirst: Averett J.
+  nameClub1: Sacramento
+  bats: L
+  G: '74'
+  AB: '209'
+  R: '25'
+  H: '58'
+  TB: '67'
+  H2B: '6'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '4'
+  BB: '14'
+  HP: '1'
+  SO: '19'
+  RBI: '21'
+  AVG: '.278'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Richards
+  nameFirst: Wm. J.
+  nameClub1: Los Angeles
+  bats: L
+  G: '29'
+  AB: '108'
+  R: '3'
+  H: '30'
+  TB: '33'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '6'
+  BB: '9'
+  HP: '1'
+  SO: '8'
+  RBI: '7'
+  AVG: '.278'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: McDonald
+  nameFirst: George T.
+  nameClub1: Seattle
+  nameClub2: San Diego
+  bats: L
+  G: '142'
+  AB: '506'
+  R: '55'
+  H: '140'
+  TB: '174'
+  H2B: '21'
+  H3B: '5'
+  HR: '1'
+  SH: '10'
+  SB: '7'
+  BB: '42'
+  HP: '0'
+  SO: '28'
+  RBI: '56'
+  AVG: '.277'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: O'Brien
+  nameFirst: Thomas E.
+  nameClub1: Hollywood
+  G: '119'
+  AB: '348'
+  R: '47'
+  H: '96'
+  TB: '170'
+  H2B: '9'
+  H3B: '7'
+  HR: '17'
+  SH: '3'
+  SB: '4'
+  BB: '24'
+  HP: '2'
+  SO: '38'
+  RBI: '73'
+  AVG: '.276'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ballinger
+  nameFirst: Delmont
+  nameClub1: San Diego
+  nameClub2: Portland
+  bats: L
+  G: '92'
+  AB: '276'
+  R: '19'
+  H: '76'
+  TB: '94'
+  H2B: '11'
+  H3B: '2'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '16'
+  HP: '3'
+  SO: '10'
+  RBI: '32'
+  AVG: '.275'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Criscola
+  nameFirst: Anthony P.
+  nameClub1: San Diego
+  bats: L
+  G: '163'
+  AB: '603'
+  R: '81'
+  H: '165'
+  TB: '212'
+  H2B: '29'
+  H3B: '6'
+  HR: '2'
+  SH: '3'
+  SB: '13'
+  BB: '44'
+  HP: '3'
+  SO: '51'
+  RBI: '56'
+  AVG: '.274'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sauer
+  nameFirst: Edward
+  nameClub1: Los Angeles
+  G: '184'
+  AB: '685'
+  R: '102'
+  H: '187'
+  TB: '289'
+  H2B: '36'
+  H3B: '3'
+  HR: '20'
+  SH: '18'
+  SB: '45'
+  BB: '59'
+  HP: '5'
+  SO: '72'
+  RBI: '82'
+  AVG: '.273'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Otero
+  nameFirst: Regino G.
+  nameClub1: Los Angeles
+  bats: L
+  G: '127'
+  AB: '399'
+  R: '37'
+  H: '109'
+  TB: '139'
+  H2B: '17'
+  H3B: '5'
+  HR: '1'
+  SH: '15'
+  SB: '2'
+  BB: '17'
+  HP: '0'
+  SO: '23'
+  RBI: '46'
+  AVG: '.273'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kearse
+  nameFirst: Edward P.
+  nameClub1: Oakland
+  G: '73'
+  AB: '209'
+  R: '21'
+  H: '57'
+  TB: '73'
+  H2B: '11'
+  H3B: '1'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '23'
+  HP: '1'
+  SO: '21'
+  RBI: '30'
+  AVG: '.273'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Flager
+  nameFirst: Walter
+  nameClub1: Portland
+  bats: L
+  G: '23'
+  AB: '66'
+  R: '5'
+  H: '18'
+  TB: '24'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  SO: '6'
+  RBI: '6'
+  AVG: '.273'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Williams
+  nameFirst: W. W.
+  nameClub1: Hollywood
+  G: '31'
+  AB: '114'
+  R: '7'
+  H: '31'
+  TB: '36'
+  H2B: '3'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '7'
+  HP: '0'
+  SO: '8'
+  RBI: '7'
+  AVG: '.272'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stewart
+  nameFirst: Glen W.
+  nameClub1: Oakland
+  nameClub2: Hollywood
+  G: '172'
+  AB: '591'
+  R: '59'
+  H: '160'
+  TB: '207'
+  H2B: '27'
+  H3B: '4'
+  HR: '4'
+  SH: '13'
+  SB: '8'
+  BB: '54'
+  HP: '3'
+  SO: '61'
+  RBI: '68'
+  AVG: '.271'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Garms
+  nameFirst: Debs.
+  nameClub1: San Diego
+  bats: L
+  G: '142'
+  AB: '466'
+  R: '48'
+  H: '126'
+  TB: '149'
+  H2B: '14'
+  H3B: '3'
+  HR: '1'
+  SH: '13'
+  SB: '16'
+  BB: '46'
+  HP: '1'
+  SO: '37'
+  RBI: '44'
+  AVG: '.270'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sanders
+  nameFirst: Battle M.
+  nameClub1: San Francisco
+  bats: L
+  G: '67'
+  AB: '74'
+  R: '6'
+  H: '20'
+  TB: '25'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '13'
+  HP: '1'
+  SO: '16'
+  RBI: '15'
+  AVG: '.270'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sheridan
+  nameFirst: Neill R.
+  nameClub1: San Francisco
+  G: '116'
+  AB: '357'
+  R: '58'
+  H: '96'
+  TB: '137'
+  H2B: '18'
+  H3B: '4'
+  HR: '5'
+  SH: '5'
+  SB: '9'
+  BB: '33'
+  HP: '2'
+  SO: '60'
+  RBI: '55'
+  AVG: '.269'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lillard
+  nameFirst: Robert E.
+  nameClub1: Sacramento
+  G: '138'
+  AB: '441'
+  R: '66'
+  H: '118'
+  TB: '214'
+  H2B: '18'
+  H3B: '6'
+  HR: '22'
+  SH: '5'
+  SB: '9'
+  BB: '75'
+  HP: '0'
+  SO: '84'
+  RBI: '59'
+  AVG: '.268'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Shone
+  nameFirst: Frank
+  nameClub1: Portland
+  G: '100'
+  AB: '325'
+  R: '32'
+  H: '87'
+  TB: '116'
+  H2B: '18'
+  H3B: '4'
+  HR: '1'
+  SH: '5'
+  SB: '6'
+  BB: '26'
+  HP: '1'
+  SO: '57'
+  RBI: '25'
+  AVG: '.268'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Pearson
+  nameFirst: Isaac O.
+  nameClub1: Seattle
+  G: '20'
+  AB: '41'
+  R: '3'
+  H: '11'
+  TB: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '7'
+  RBI: '8'
+  AVG: '.268'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Strange
+  nameFirst: Alan C.
+  nameClub1: Portland
+  G: '16'
+  AB: '30'
+  R: '4'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  SO: '2'
+  RBI: '2'
+  AVG: '.267'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hamrick
+  nameFirst: Raymond
+  nameClub1: Oakland
+  G: '103'
+  AB: '346'
+  R: '34'
+  H: '92'
+  TB: '119'
+  H2B: '18'
+  H3B: '3'
+  HR: '1'
+  SH: '12'
+  SB: '6'
+  BB: '30'
+  HP: '0'
+  SO: '46'
+  RBI: '35'
+  AVG: '.266'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Buccola
+  nameFirst: Victor V.
+  nameClub1: Oakland
+  bats: L
+  G: '54'
+  AB: '196'
+  R: '26'
+  H: '52'
+  TB: '86'
+  H2B: '10'
+  H3B: '6'
+  HR: '4'
+  SH: '10'
+  SB: '3'
+  BB: '12'
+  HP: '0'
+  SO: '20'
+  RBI: '22'
+  AVG: '.265'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Anderson
+  nameFirst: Alfred
+  nameClub1: Hollywood
+  G: '142'
+  AB: '550'
+  R: '84'
+  H: '145'
+  TB: '171'
+  H2B: '18'
+  H3B: '4'
+  HR: '0'
+  SH: '14'
+  SB: '15'
+  BB: '54'
+  HP: '6'
+  SO: '50'
+  RBI: '31'
+  AVG: '.264'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: DiMaggio
+  nameFirst: Vincent
+  nameClub1: San Francisco
+  G: '43'
+  AB: '129'
+  R: '19'
+  H: '34'
+  TB: '51'
+  H2B: '10'
+  H3B: '2'
+  HR: '1'
+  SH: '1'
+  SB: '3'
+  BB: '13'
+  HP: '0'
+  SO: '23'
+  RBI: '21'
+  AVG: '.264'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Uhalt
+  nameFirst: Bernard B.
+  nameClub1: San Francisco
+  bats: L
+  G: '137'
+  AB: '520'
+  R: '98'
+  H: '137'
+  TB: '177'
+  H2B: '27'
+  H3B: '5'
+  HR: '1'
+  SH: '5'
+  SB: '24'
+  BB: '80'
+  HP: '1'
+  SO: '16'
+  RBI: '24'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Corbett
+  nameFirst: Eugene L.
+  nameClub1: Sacramento
+  bats: B
+  G: '104'
+  AB: '319'
+  R: '42'
+  H: '84'
+  TB: '122'
+  H2B: '20'
+  H3B: '3'
+  HR: '4'
+  SH: '10'
+  SB: '2'
+  BB: '24'
+  HP: '1'
+  SO: '33'
+  RBI: '30'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stagg
+  nameFirst: Robert G.
+  nameClub1: Seattle
+  G: '24'
+  AB: '57'
+  R: '9'
+  H: '15'
+  TB: '19'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '14'
+  HP: '1'
+  SO: '10'
+  RBI: '6'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Unser
+  nameFirst: Albert B.
+  nameClub1: Hollywood
+  G: '150'
+  AB: '475'
+  R: '58'
+  H: '123'
+  TB: '190'
+  H2B: '20'
+  H3B: '4'
+  HR: '13'
+  SH: '6'
+  SB: '3'
+  BB: '52'
+  HP: '14'
+  SO: '43'
+  RBI: '68'
+  AVG: '.259'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Crawford
+  nameFirst: Glenn
+  nameClub1: Portland
+  bats: L
+  G: '118'
+  AB: '398'
+  R: '58'
+  H: '103'
+  TB: '142'
+  H2B: '10'
+  H3B: '4'
+  HR: '7'
+  SH: '7'
+  SB: '5'
+  BB: '48'
+  HP: '0'
+  SO: '17'
+  RBI: '35'
+  AVG: '.259'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Archie
+  nameFirst: George A.
+  nameClub1: Los Angeles
+  G: '130'
+  AB: '457'
+  R: '49'
+  H: '118'
+  TB: '150'
+  H2B: '20'
+  H3B: '0'
+  HR: '4'
+  SH: '7'
+  SB: '5'
+  BB: '33'
+  HP: '6'
+  SO: '42'
+  RBI: '62'
+  AVG: '.258'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Fox
+  nameFirst: Erwin
+  nameClub1: Oakland
+  G: '57'
+  AB: '155'
+  R: '15'
+  H: '40'
+  TB: '50'
+  H2B: '10'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  SO: '21'
+  RBI: '14'
+  AVG: '.258'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Fausett
+  nameFirst: Robert S.
+  nameClub1: Hollywood
+  bats: L
+  G: '84'
+  AB: '252'
+  R: '29'
+  H: '65'
+  TB: '76'
+  H2B: '7'
+  H3B: '2'
+  HR: '0'
+  SH: '13'
+  SB: '12'
+  BB: '24'
+  HP: '1'
+  SO: '8'
+  RBI: '22'
+  AVG: '.258'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Guintini
+  nameFirst: Benjamin J.
+  nameClub1: Hollywood
+  nameClub2: San Diego
+  G: '72'
+  AB: '257'
+  R: '29'
+  H: '66'
+  TB: '97'
+  H2B: '13'
+  H3B: '3'
+  HR: '4'
+  SH: '1'
+  SB: '3'
+  BB: '18'
+  HP: '2'
+  SO: '32'
+  RBI: '24'
+  AVG: '.257'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameFirst: Herschel R.
+  nameClub1: Oakland
+  bats: B
+  G: '139'
+  AB: '447'
+  R: '62'
+  H: '114'
+  TB: '174'
+  H2B: '24'
+  H3B: '3'
+  HR: '10'
+  SH: '7'
+  SB: '6'
+  BB: '77'
+  HP: '2'
+  SO: '44'
+  RBI: '46'
+  AVG: '.255'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Taormina
+  nameFirst: Salvador
+  nameClub1: San Francisco
+  bats: L
+  G: '112'
+  AB: '357'
+  R: '52'
+  H: '91'
+  TB: '130'
+  H2B: '15'
+  H3B: '6'
+  HR: '4'
+  SH: '7'
+  SB: '5'
+  BB: '65'
+  HP: '3'
+  SO: '52'
+  RBI: '69'
+  AVG: '.255'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Olson
+  nameFirst: Bernard C.
+  nameClub1: Los Angeles
+  G: '81'
+  AB: '208'
+  R: '21'
+  H: '53'
+  TB: '72'
+  H2B: '8'
+  H3B: '1'
+  HR: '3'
+  SH: '3'
+  SB: '6'
+  BB: '19'
+  HP: '0'
+  SO: '37'
+  RBI: '23'
+  AVG: '.255'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Block
+  nameFirst: Seymour
+  nameClub1: Los Angeles
+  G: '40'
+  AB: '98'
+  R: '12'
+  H: '25'
+  TB: '36'
+  H2B: '5'
+  H3B: '3'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '4'
+  HP: '1'
+  SO: '12'
+  RBI: '12'
+  AVG: '.255'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Vezelich
+  nameFirst: Louis
+  nameClub1: San Diego
+  G: '24'
+  AB: '67'
+  R: '6'
+  H: '17'
+  TB: '23'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '3'
+  HP: '0'
+  SO: '11'
+  RBI: '2'
+  AVG: '.254'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Finley
+  nameFirst: Robert E.
+  nameClub1: Seattle
+  G: '20'
+  AB: '59'
+  R: '2'
+  H: '15'
+  TB: '19'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  SO: '9'
+  RBI: '6'
+  AVG: '.254'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Helser
+  nameFirst: Roy H.
+  nameClub1: Portland
+  bats: L
+  G: '63'
+  AB: '134'
+  R: '17'
+  H: '34'
+  TB: '45'
+  H2B: '6'
+  H3B: '1'
+  HR: '1'
+  SH: '5'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  SO: '24'
+  RBI: '12'
+  AVG: '.254'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: York
+  nameFirst: Anthony B.
+  nameClub1: Seattle
+  G: '158'
+  AB: '546'
+  R: '53'
+  H: '137'
+  TB: '176'
+  H2B: '23'
+  H3B: '5'
+  HR: '2'
+  SH: '19'
+  SB: '11'
+  BB: '24'
+  HP: '1'
+  SO: '78'
+  RBI: '51'
+  AVG: '.251'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Glossop
+  nameFirst: Alban
+  nameClub1: Los Angeles
+  bats: B
+  G: '93'
+  AB: '284'
+  R: '30'
+  H: '71'
+  TB: '108'
+  H2B: '18'
+  H3B: '2'
+  HR: '5'
+  SH: '9'
+  SB: '0'
+  BB: '37'
+  HP: '2'
+  SO: '38'
+  RBI: '26'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Baker
+  nameFirst: Oren E.
+  nameClub1: Los Angeles
+  G: '32'
+  AB: '12'
+  R: '2'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '3'
+  RBI: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Escalante
+  nameFirst: Earl P.
+  nameClub1: Hollywood
+  nameClub2: San Diego
+  G: '19'
+  AB: '16'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '7'
+  RBI: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Angle
+  nameFirst: Jack K.
+  nameClub1: San Diego
+  G: '121'
+  AB: '368'
+  R: '47'
+  H: '92'
+  TB: '117'
+  H2B: '7'
+  H3B: '6'
+  HR: '2'
+  SH: '4'
+  SB: '5'
+  BB: '39'
+  HP: '1'
+  SO: '48'
+  RBI: '24'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gullic
+  nameFirst: Tedd J.
+  nameClub1: Portland
+  G: '31'
+  AB: '92'
+  R: '11'
+  H: '23'
+  TB: '25'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  SO: '8'
+  RBI: '11'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Nelson
+  nameFirst: Frank
+  nameClub1: Sacramento
+  G: '15'
+  AB: '20'
+  R: '4'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '2'
+  RBI: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameFirst: Mayo
+  nameClub1: Portland
+  bats: L
+  G: '134'
+  AB: '397'
+  R: '47'
+  H: '99'
+  TB: '124'
+  H2B: '17'
+  H3B: '1'
+  HR: '2'
+  SH: '11'
+  SB: '3'
+  BB: '55'
+  HP: '0'
+  SO: '33'
+  RBI: '29'
+  AVG: '.249'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Wheeler
+  nameFirst: Edward R.
+  nameClub1: Portland
+  G: '90'
+  AB: '298'
+  R: '38'
+  H: '74'
+  TB: '94'
+  H2B: '8'
+  H3B: '3'
+  HR: '2'
+  SH: '3'
+  SB: '9'
+  BB: '11'
+  HP: '1'
+  SO: '41'
+  RBI: '15'
+  AVG: '.248'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ivy
+  nameFirst: Melvin
+  nameClub1: San Francisco
+  G: '61'
+  AB: '153'
+  R: '9'
+  H: '38'
+  TB: '48'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '1'
+  SO: '15'
+  RBI: '19'
+  AVG: '.248'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sabol
+  nameFirst: Tony
+  nameClub1: Oakland
+  G: '109'
+  AB: '301'
+  R: '40'
+  H: '74'
+  TB: '88'
+  H2B: '8'
+  H3B: '3'
+  HR: '0'
+  SH: '12'
+  SB: '11'
+  BB: '28'
+  HP: '0'
+  SO: '44'
+  RBI: '23'
+  AVG: '.246'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stickle
+  nameFirst: Ned F.
+  nameClub1: Seattle
+  G: '74'
+  AB: '232'
+  R: '24'
+  H: '57'
+  TB: '66'
+  H2B: '7'
+  H3B: '1'
+  HR: '0'
+  SH: '11'
+  SB: '5'
+  BB: '21'
+  HP: '0'
+  SO: '23'
+  RBI: '19'
+  AVG: '.246'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Richardson
+  nameFirst: Kenneth
+  nameClub1: Hollywood
+  G: '73'
+  AB: '236'
+  R: '35'
+  H: '58'
+  TB: '92'
+  H2B: '11'
+  H3B: '4'
+  HR: '5'
+  SH: '4'
+  SB: '5'
+  BB: '35'
+  HP: '0'
+  SO: '39'
+  RBI: '37'
+  AVG: '.246'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Bearden
+  nameFirst: Gene
+  nameClub1: Oakland
+  bats: L
+  G: '67'
+  AB: '138'
+  R: '19'
+  H: '34'
+  TB: '44'
+  H2B: '2'
+  H3B: '1'
+  HR: '2'
+  SH: '4'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  SO: '20'
+  RBI: '18'
+  AVG: '.246'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Rice
+  nameFirst: Leonard O.
+  nameClub1: San Diego
+  G: '108'
+  AB: '286'
+  R: '32'
+  H: '70'
+  TB: '83'
+  H2B: '9'
+  H3B: '2'
+  HR: '0'
+  SH: '6'
+  SB: '11'
+  BB: '14'
+  HP: '1'
+  SO: '25'
+  RBI: '26'
+  AVG: '.245'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Biggs
+  nameFirst: Carlos A.
+  nameClub1: Oakland
+  G: '50'
+  AB: '159'
+  R: '16'
+  H: '39'
+  TB: '48'
+  H2B: '9'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '5'
+  BB: '16'
+  HP: '0'
+  SO: '10'
+  RBI: '12'
+  AVG: '.245'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ogrodowski
+  nameFirst: Ambrose
+  nameClub1: San Francisco
+  G: '114'
+  AB: '312'
+  R: '17'
+  H: '76'
+  TB: '88'
+  H2B: '8'
+  H3B: '2'
+  HR: '0'
+  SH: '10'
+  SB: '1'
+  BB: '37'
+  HP: '1'
+  SO: '26'
+  RBI: '34'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Patchett
+  nameFirst: Harold R.
+  nameClub1: Seattle
+  bats: L
+  G: '109'
+  AB: '238'
+  R: '24'
+  H: '58'
+  TB: '63'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '6'
+  BB: '34'
+  HP: '0'
+  SO: '25'
+  RBI: '14'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Tyack
+  nameFirst: James F.
+  nameClub1: Los Angeles
+  bats: L
+  G: '100'
+  AB: '168'
+  R: '17'
+  H: '41'
+  TB: '52'
+  H2B: '7'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '3'
+  BB: '21'
+  HP: '0'
+  SO: '22'
+  RBI: '16'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Souza
+  nameFirst: Frank
+  nameClub1: Portland
+  G: '54'
+  AB: '131'
+  R: '14'
+  H: '32'
+  TB: '37'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '2'
+  BB: '12'
+  HP: '0'
+  SO: '15'
+  RBI: '10'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameFirst: Boris
+  nameClub1: Oakland
+  G: '32'
+  AB: '82'
+  R: '4'
+  H: '20'
+  TB: '26'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  SO: '17'
+  RBI: '9'
+  AVG: '.244'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Bucher
+  nameFirst: James Q.
+  nameClub1: Portland
+  bats: L
+  G: '72'
+  AB: '215'
+  R: '27'
+  H: '52'
+  TB: '60'
+  H2B: '6'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '12'
+  HP: '0'
+  SO: '20'
+  RBI: '10'
+  AVG: '.242'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Shea
+  nameFirst: Francis
+  nameClub1: Oakland
+  G: '24'
+  AB: '66'
+  R: '6'
+  H: '16'
+  TB: '19'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '20'
+  RBI: '9'
+  AVG: '.242'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mapes
+  nameFirst: Clifford F.
+  nameClub1: Seattle
+  bats: L
+  G: '47'
+  AB: '145'
+  R: '17'
+  H: '35'
+  TB: '61'
+  H2B: '8'
+  H3B: '3'
+  HR: '4'
+  SH: '0'
+  SB: '5'
+  BB: '14'
+  HP: '0'
+  SO: '29'
+  RBI: '19'
+  AVG: '.241'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sueme
+  nameFirst: Harold J.
+  nameClub1: Seattle
+  G: '102'
+  AB: '262'
+  R: '21'
+  H: '63'
+  TB: '72'
+  H2B: '4'
+  H3B: '1'
+  HR: '1'
+  SH: '7'
+  SB: '0'
+  BB: '34'
+  HP: '2'
+  SO: '20'
+  RBI: '24'
+  AVG: '.240'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Turner
+  nameFirst: Thomas
+  nameClub1: Portland
+  G: '57'
+  AB: '159'
+  R: '10'
+  H: '38'
+  TB: '48'
+  H2B: '8'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '10'
+  HP: '0'
+  SO: '17'
+  RBI: '18'
+  AVG: '.239'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Burnett
+  nameFirst: Ora E.
+  nameClub1: Oakland
+  G: '155'
+  AB: '563'
+  R: '79'
+  H: '134'
+  TB: '173'
+  H2B: '22'
+  H3B: '7'
+  HR: '1'
+  SH: '8'
+  SB: '14'
+  BB: '49'
+  HP: '2'
+  SO: '86'
+  RBI: '42'
+  AVG: '.238'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: McDonnell
+  nameFirst: James W.
+  nameClub1: San Diego
+  bats: L
+  G: '69'
+  AB: '189'
+  R: '14'
+  H: '45'
+  TB: '49'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '15'
+  HP: '1'
+  SO: '8'
+  RBI: '13'
+  AVG: '.238'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Landrum
+  nameFirst: Jesse G.
+  nameClub1: Sacramento
+  G: '55'
+  AB: '168'
+  R: '18'
+  H: '40'
+  TB: '55'
+  H2B: '9'
+  H3B: '0'
+  HR: '2'
+  SH: '2'
+  SB: '3'
+  BB: '10'
+  HP: '1'
+  SO: '18'
+  RBI: '23'
+  AVG: '.238'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Cohen
+  nameFirst: Sydney
+  nameClub1: Portland
+  bats: B
+  G: '29'
+  AB: '21'
+  R: '1'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  SO: '2'
+  RBI: '1'
+  AVG: '.238'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Salveson
+  nameFirst: John T.
+  nameClub1: Portland
+  G: '51'
+  AB: '114'
+  R: '10'
+  H: '27'
+  TB: '41'
+  H2B: '5'
+  H3B: '0'
+  HR: '3'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  SO: '13'
+  RBI: '17'
+  AVG: '.237'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Enos
+  nameFirst: William E.
+  nameClub1: San Francisco
+  G: '25'
+  AB: '38'
+  R: '3'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  SO: '6'
+  RBI: '7'
+  AVG: '.237'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Marcucci
+  nameFirst: Lilo R.
+  nameClub1: Sacramento
+  G: '107'
+  AB: '330'
+  R: '22'
+  H: '78'
+  TB: '95'
+  H2B: '10'
+  H3B: '2'
+  HR: '1'
+  SH: '7'
+  SB: '1'
+  BB: '29'
+  HP: '1'
+  SO: '34'
+  RBI: '43'
+  AVG: '.236'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Quinn
+  nameFirst: Wellington
+  nameClub1: Los Angeles
+  G: '62'
+  AB: '154'
+  R: '13'
+  H: '36'
+  TB: '44'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '5'
+  BB: '12'
+  HP: '0'
+  SO: '19'
+  RBI: '20'
+  AVG: '.234'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Aleno
+  nameFirst: Charles
+  nameClub1: Seattle
+  G: '65'
+  AB: '176'
+  R: '13'
+  H: '41'
+  TB: '62'
+  H2B: '7'
+  H3B: '1'
+  HR: '4'
+  SH: '3'
+  SB: '1'
+  BB: '12'
+  HP: '1'
+  SO: '19'
+  RBI: '28'
+  AVG: '.233'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kampouris
+  nameFirst: Alexis
+  nameClub1: Sacramento
+  G: '160'
+  AB: '515'
+  R: '70'
+  H: '119'
+  TB: '179'
+  H2B: '21'
+  H3B: '3'
+  HR: '11'
+  SH: '6'
+  SB: '17'
+  BB: '81'
+  HP: '0'
+  SO: '116'
+  RBI: '56'
+  AVG: '.231'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameFirst: Stuart
+  nameClub1: Los Angeles
+  bats: L
+  G: '79'
+  AB: '121'
+  R: '15'
+  H: '28'
+  TB: '32'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '17'
+  HP: '0'
+  SO: '15'
+  RBI: '17'
+  AVG: '.231'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Harris
+  nameFirst: Ned
+  nameClub1: Portland
+  bats: L
+  G: '62'
+  AB: '158'
+  R: '15'
+  H: '36'
+  TB: '59'
+  H2B: '7'
+  H3B: '2'
+  HR: '4'
+  SH: '3'
+  SB: '0'
+  BB: '11'
+  HP: '0'
+  SO: '24'
+  RBI: '16'
+  AVG: '.228'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gorbould
+  nameFirst: Robert C.
+  nameClub1: Seattle
+  G: '55'
+  AB: '167'
+  R: '12'
+  H: '38'
+  TB: '43'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '6'
+  BB: '16'
+  HP: '1'
+  SO: '20'
+  RBI: '10'
+  AVG: '.228'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hart
+  nameFirst: William W.
+  nameClub1: Oakland
+  G: '134'
+  AB: '458'
+  R: '49'
+  H: '104'
+  TB: '150'
+  H2B: '22'
+  H3B: '3'
+  HR: '6'
+  SH: '11'
+  SB: '2'
+  BB: '48'
+  HP: '2'
+  SO: '67'
+  RBI: '70'
+  AVG: '.227'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Harrington
+  nameFirst: Charles F.
+  nameClub1: Sacramento
+  G: '47'
+  AB: '119'
+  R: '8'
+  H: '27'
+  TB: '28'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '5'
+  BB: '7'
+  HP: '0'
+  SO: '19'
+  RBI: '8'
+  AVG: '.227'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameFirst: Alfred J.
+  nameClub1: Sacramento
+  bats: L
+  G: '33'
+  AB: '89'
+  R: '7'
+  H: '20'
+  TB: '23'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  SO: '18'
+  RBI: '6'
+  AVG: '.225'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lilly
+  nameFirst: Arthur M.
+  nameClub1: Hollywood
+  bats: L
+  G: '19'
+  AB: '40'
+  R: '3'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '3'
+  HP: '3'
+  SO: '15'
+  RBI: '3'
+  AVG: '.225'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Dobbins
+  nameFirst: Joseph
+  nameClub1: Seattle
+  nameClub2: Portland
+  G: '107'
+  AB: '348'
+  R: '39'
+  H: '78'
+  TB: '100'
+  H2B: '12'
+  H3B: '2'
+  HR: '2'
+  SH: '11'
+  SB: '4'
+  BB: '25'
+  HP: '0'
+  SO: '25'
+  RBI: '36'
+  AVG: '.224'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Barton
+  nameFirst: Lawrence
+  nameClub1: Portland
+  bats: L
+  G: '44'
+  AB: '126'
+  R: '12'
+  H: '28'
+  TB: '35'
+  H2B: '7'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '25'
+  HP: '1'
+  SO: '12'
+  RBI: '4'
+  AVG: '.222'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lewis
+  nameFirst: Kermit D.
+  nameClub1: San Francisco
+  nameClub2: Seattle
+  G: '86'
+  AB: '244'
+  R: '27'
+  H: '54'
+  TB: '82'
+  H2B: '11'
+  H3B: '1'
+  HR: '5'
+  SH: '2'
+  SB: '1'
+  BB: '15'
+  HP: '3'
+  SO: '44'
+  RBI: '25'
+  AVG: '.221'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Grant
+  nameFirst: James C.
+  nameClub1: Sacramento
+  bats: L
+  G: '21'
+  AB: '68'
+  R: '8'
+  H: '15'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  SO: '21'
+  RBI: '4'
+  AVG: '.221'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Nicely
+  nameFirst: Roy M.
+  nameClub1: San Francisco
+  G: '133'
+  AB: '446'
+  R: '32'
+  H: '98'
+  TB: '126'
+  H2B: '19'
+  H3B: '3'
+  HR: '1'
+  SH: '20'
+  SB: '5'
+  BB: '14'
+  HP: '1'
+  SO: '95'
+  RBI: '46'
+  AVG: '.220'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mallory
+  nameFirst: Elmer E.
+  nameClub1: Los Angeles
+  G: '93'
+  AB: '279'
+  R: '27'
+  H: '61'
+  TB: '74'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  SH: '8'
+  SB: '6'
+  BB: '4'
+  HP: '0'
+  SO: '50'
+  RBI: '11'
+  AVG: '.219'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Breard
+  nameFirst: Stanislaus
+  nameClub1: San Diego
+  bats: B
+  G: '96'
+  AB: '318'
+  R: '18'
+  H: '69'
+  TB: '91'
+  H2B: '11'
+  H3B: '4'
+  HR: '1'
+  SH: '8'
+  SB: '2'
+  BB: '4'
+  HP: '0'
+  SO: '19'
+  RBI: '32'
+  AVG: '.217'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Beard
+  nameFirst: William
+  nameClub1: Seattle
+  G: '64'
+  AB: '152'
+  R: '23'
+  H: '33'
+  TB: '40'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '13'
+  HP: '1'
+  SO: '19'
+  RBI: '9'
+  AVG: '.217'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Coscarart
+  nameFirst: Peter
+  nameClub1: San Diego
+  G: '76'
+  AB: '251'
+  R: '23'
+  H: '54'
+  TB: '78'
+  H2B: '10'
+  H3B: '1'
+  HR: '4'
+  SH: '5'
+  SB: '2'
+  BB: '19'
+  HP: '2'
+  SO: '40'
+  RBI: '24'
+  AVG: '.215'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Donovan
+  nameFirst: Maurice E.
+  nameClub1: Los Angeles
+  G: '28'
+  AB: '79'
+  R: '11'
+  H: '17'
+  TB: '30'
+  H2B: '5'
+  H3B: '1'
+  HR: '2'
+  SH: '5'
+  SB: '2'
+  BB: '5'
+  HP: '0'
+  SO: '10'
+  RBI: '12'
+  AVG: '.215'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lanifero
+  nameFirst: Alfred
+  nameClub1: San Diego
+  G: '73'
+  AB: '224'
+  R: '21'
+  H: '48'
+  TB: '53'
+  H2B: '5'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '2'
+  BB: '16'
+  HP: '1'
+  SO: '15'
+  RBI: '19'
+  AVG: '.214'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Orphal
+  nameFirst: John J.
+  nameClub1: Seattle
+  G: '25'
+  AB: '28'
+  R: '1'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '8'
+  RBI: '2'
+  AVG: '.214'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Dickshot
+  nameFirst: John O.
+  nameClub1: Hollywood
+  G: '20'
+  AB: '42'
+  R: '10'
+  H: '9'
+  TB: '11'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '14'
+  HP: '1'
+  SO: '3'
+  RBI: '5'
+  AVG: '.214'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Conroy
+  nameFirst: William G.
+  nameClub1: Sacramento
+  G: '87'
+  AB: '264'
+  R: '29'
+  H: '56'
+  TB: '84'
+  H2B: '5'
+  H3B: '1'
+  HR: '7'
+  SH: '5'
+  SB: '0'
+  BB: '34'
+  HP: '2'
+  SO: '60'
+  RBI: '27'
+  AVG: '.212'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Cavalli
+  nameFirst: John J.
+  nameClub1: Hollywood
+  G: '99'
+  AB: '331'
+  R: '39'
+  H: '70'
+  TB: '89'
+  H2B: '12'
+  H3B: '2'
+  HR: '1'
+  SH: '2'
+  SB: '7'
+  BB: '22'
+  HP: '5'
+  SO: '61'
+  RBI: '24'
+  AVG: '.211'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Greenhalgh
+  nameFirst: Theodore P.
+  nameClub1: Sacramento
+  G: '48'
+  AB: '57'
+  R: '6'
+  H: '12'
+  TB: '14'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '8'
+  HP: '1'
+  SO: '11'
+  RBI: '3'
+  AVG: '.211'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Cuccurullo
+  nameFirst: Art.
+  nameClub1: Hollywood
+  bats: L
+  G: '39'
+  AB: '57'
+  R: '3'
+  H: '12'
+  TB: '15'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '9'
+  RBI: '9'
+  AVG: '.211'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Harrell
+  nameFirst: Raymond J.
+  nameClub1: San Francisco
+  G: '34'
+  AB: '57'
+  R: '6'
+  H: '12'
+  TB: '13'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '20'
+  RBI: '5'
+  AVG: '.211'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Spindel
+  nameFirst: Hal
+  nameClub1: Los Angeles
+  G: '57'
+  AB: '157'
+  R: '12'
+  H: '33'
+  TB: '39'
+  H2B: '6'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  SO: '15'
+  RBI: '6'
+  AVG: '.210'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Poland
+  nameFirst: Hugh R.
+  nameClub1: Seattle
+  bats: L
+  G: '20'
+  AB: '53'
+  R: '3'
+  H: '11'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '3'
+  RBI: '4'
+  AVG: '.208'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stephenson
+  nameFirst: Joseph C.
+  nameClub1: Los Angeles
+  G: '74'
+  AB: '135'
+  R: '9'
+  H: '28'
+  TB: '38'
+  H2B: '1'
+  H3B: '0'
+  HR: '3'
+  SH: '7'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  SO: '27'
+  RBI: '9'
+  AVG: '.207'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Trower
+  nameFirst: Don
+  nameClub1: San Francisco
+  G: '98'
+  AB: '193'
+  R: '34'
+  H: '40'
+  TB: '44'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '7'
+  SB: '9'
+  BB: '42'
+  HP: '1'
+  SO: '29'
+  RBI: '11'
+  AVG: '.207'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Metro
+  nameFirst: Charles
+  nameClub1: Oakland
+  nameClub2: Seattle
+  G: '110'
+  AB: '330'
+  R: '37'
+  H: '68'
+  TB: '95'
+  H2B: '15'
+  H3B: '0'
+  HR: '4'
+  SH: '6'
+  SB: '3'
+  BB: '29'
+  HP: '0'
+  SO: '45'
+  RBI: '25'
+  AVG: '.206'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Calvey
+  nameFirst: Jack N.
+  nameClub1: Sacramento
+  G: '155'
+  AB: '507'
+  R: '31'
+  H: '104'
+  TB: '124'
+  H2B: '16'
+  H3B: '2'
+  HR: '0'
+  SH: '17'
+  SB: '12'
+  BB: '39'
+  HP: '1'
+  SO: '59'
+  RBI: '37'
+  AVG: '.205'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Boehm
+  nameFirst: Edward
+  nameClub1: San Diego
+  bats: L
+  G: '62'
+  AB: '206'
+  R: '29'
+  H: '42'
+  TB: '62'
+  H2B: '6'
+  H3B: '1'
+  HR: '4'
+  SH: '4'
+  SB: '1'
+  BB: '16'
+  HP: '1'
+  SO: '42'
+  RBI: '17'
+  AVG: '.204'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Marionetti
+  nameFirst: Gino J.
+  nameClub1: Oakland
+  G: '20'
+  AB: '54'
+  R: '6'
+  H: '11'
+  TB: '17'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  SO: '8'
+  RBI: '8'
+  AVG: '.204'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Carnett
+  nameFirst: Edwin E.
+  nameClub1: Seattle
+  bats: L
+  G: '52'
+  AB: '181'
+  R: '17'
+  H: '37'
+  TB: '48'
+  H2B: '2'
+  H3B: '3'
+  HR: '1'
+  SH: '7'
+  SB: '1'
+  BB: '8'
+  HP: '1'
+  SO: '29'
+  RBI: '13'
+  AVG: '.204'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Konopka
+  nameFirst: Bruce
+  nameClub1: San Diego
+  bats: L
+  G: '25'
+  AB: '69'
+  R: '9'
+  H: '14'
+  TB: '24'
+  H2B: '2'
+  H3B: '1'
+  HR: '2'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '6'
+  RBI: '11'
+  AVG: '.203'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Williams
+  nameFirst: Dewey E.
+  nameClub1: Los Angeles
+  G: '98'
+  AB: '260'
+  R: '21'
+  H: '52'
+  TB: '68'
+  H2B: '9'
+  H3B: '2'
+  HR: '1'
+  SH: '5'
+  SB: '1'
+  BB: '38'
+  HP: '2'
+  SO: '46'
+  RBI: '21'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hoover
+  nameFirst: Robert J.
+  nameClub1: San Francisco
+  G: '87'
+  AB: '215'
+  R: '28'
+  H: '43'
+  TB: '55'
+  H2B: '9'
+  H3B: '0'
+  HR: '1'
+  SH: '6'
+  SB: '3'
+  BB: '23'
+  HP: '2'
+  SO: '40'
+  RBI: '27'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sheely
+  nameFirst: Hollis K.
+  nameClub1: Hollywood
+  G: '38'
+  AB: '80'
+  R: '7'
+  H: '16'
+  TB: '20'
+  H2B: '4'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '16'
+  HP: '0'
+  SO: '6'
+  RBI: '4'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kennedy
+  nameFirst: Lloyd V.
+  nameClub1: San Diego
+  bats: L
+  G: '34'
+  AB: '85'
+  R: '6'
+  H: '17'
+  TB: '24'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  SO: '20'
+  RBI: '4'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Demoran
+  nameFirst: Joseph L.
+  nameClub1: Seattle
+  bats: B
+  G: '27'
+  AB: '50'
+  R: '3'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  SO: '11'
+  RBI: '3'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Errickson
+  nameFirst: Richard M.
+  nameClub1: Los Angeles
+  G: '21'
+  AB: '10'
+  R: '1'
+  H: '2'
+  TB: '4'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '2'
+  RBI: '1'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Poffenberger
+  nameFirst: Cletus E.
+  nameClub1: San Diego
+  G: '17'
+  AB: '25'
+  R: '2'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '2'
+  SO: '4'
+  RBI: '1'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Eisenmann
+  nameFirst: Charles P.
+  nameClub1: San Diego
+  bats: B
+  G: '18'
+  AB: '20'
+  R: '0'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '3'
+  RBI: '0'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lynn
+  nameFirst: James M.
+  nameClub1: Los Angeles
+  G: '41'
+  AB: '87'
+  R: '11'
+  H: '17'
+  TB: '20'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '10'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '15'
+  RBI: '10'
+  AVG: '.195'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Amaral
+  nameFirst: Edward D.
+  nameClub1: Portland
+  G: '16'
+  AB: '36'
+  R: '1'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  SO: '1'
+  RBI: '2'
+  AVG: '.194'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Chambers
+  nameFirst: Clifford D.
+  nameClub1: Los Angeles
+  bats: L
+  G: '37'
+  AB: '94'
+  R: '5'
+  H: '18'
+  TB: '24'
+  H2B: '2'
+  H3B: '2'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  SO: '17'
+  RBI: '12'
+  AVG: '.191'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Monaco
+  nameFirst: Blas
+  nameClub1: Seattle
+  bats: B
+  G: '33'
+  AB: '89'
+  R: '14'
+  H: '17'
+  TB: '29'
+  H2B: '1'
+  H3B: '1'
+  HR: '3'
+  SH: '2'
+  SB: '2'
+  BB: '16'
+  HP: '4'
+  SO: '23'
+  RBI: '12'
+  AVG: '.191'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Melton
+  nameFirst: Clifford G.
+  nameClub1: San Francisco
+  bats: L
+  G: '33'
+  AB: '90'
+  R: '4'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '27'
+  RBI: '8'
+  AVG: '.189'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Elliott
+  nameFirst: Glenn
+  nameClub1: Seattle
+  bats: L
+  G: '42'
+  AB: '80'
+  R: '5'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '24'
+  RBI: '5'
+  AVG: '.188'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Walker
+  nameFirst: Gerald
+  nameClub1: Sacramento
+  G: '20'
+  AB: '69'
+  R: '6'
+  H: '13'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '3'
+  BB: '3'
+  HP: '0'
+  SO: '7'
+  RBI: '4'
+  AVG: '.188'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Brown
+  nameFirst: John L.
+  nameClub1: Portland
+  G: '127'
+  AB: '383'
+  R: '23'
+  H: '71'
+  TB: '77'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '22'
+  SB: '1'
+  BB: '27'
+  HP: '2'
+  SO: '44'
+  RBI: '28'
+  AVG: '.185'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Soriano
+  nameFirst: Dewey
+  nameClub1: Seattle
+  bats: L
+  G: '25'
+  AB: '54'
+  R: '5'
+  H: '10'
+  TB: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '1'
+  SO: '11'
+  RBI: '3'
+  AVG: '.185'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Seinsoth
+  nameFirst: William
+  nameClub1: Sacramento
+  bats: B
+  G: '17'
+  AB: '27'
+  R: '1'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '8'
+  RBI: '1'
+  AVG: '.185'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Duezabou
+  nameFirst: Melvin J.
+  nameClub1: Oakland
+  G: '23'
+  AB: '60'
+  R: '4'
+  H: '11'
+  TB: '13'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  SO: '8'
+  RBI: '3'
+  AVG: '.183'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Skelley
+  nameFirst: Melvin
+  nameClub1: San Diego
+  G: '40'
+  AB: '72'
+  R: '8'
+  H: '13'
+  TB: '15'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '14'
+  HP: '0'
+  SO: '17'
+  RBI: '6'
+  AVG: '.181'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Fletcher
+  nameFirst: Guy M.
+  nameClub1: Sacramento
+  G: '36'
+  AB: '78'
+  R: '5'
+  H: '14'
+  TB: '15'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '5'
+  HP: '1'
+  SO: '25'
+  RBI: '4'
+  AVG: '.179'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Dobernic
+  nameFirst: Andrew J.
+  nameClub1: Los Angeles
+  G: '46'
+  AB: '39'
+  R: '2'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '4'
+  RBI: '2'
+  AVG: '.179'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Holm
+  nameFirst: William F.
+  nameClub1: Portland
+  G: '101'
+  AB: '238'
+  R: '24'
+  H: '42'
+  TB: '55'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  SH: '3'
+  SB: '3'
+  BB: '21'
+  HP: '1'
+  SO: '37'
+  RBI: '16'
+  AVG: '.176'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Price
+  nameFirst: John T.
+  nameClub1: Oakland
+  bats: L
+  G: '22'
+  AB: '35'
+  R: '3'
+  H: '6'
+  TB: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '6'
+  RBI: '0'
+  AVG: '.171'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Werle
+  nameFirst: William G.
+  nameClub1: San Francisco
+  bats: L
+  G: '35'
+  AB: '59'
+  R: '6'
+  H: '10'
+  TB: '13'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  SO: '18'
+  RBI: '4'
+  AVG: '.169'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ardizoia
+  nameFirst: Rinaldo J.
+  nameClub1: Oakland
+  G: '38'
+  AB: '66'
+  R: '6'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  SO: '23'
+  RBI: '4'
+  AVG: '.152'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameFirst: Ronald V.
+  nameClub1: Hollywood
+  bats: L
+  G: '35'
+  AB: '36'
+  R: '4'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '9'
+  RBI: '1'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Terry
+  nameFirst: Yank
+  nameClub1: Los Angeles
+  G: '33'
+  AB: '60'
+  R: '3'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '12'
+  RBI: '3'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Matthewson
+  nameFirst: Dale
+  nameClub1: San Francisco
+  G: '21'
+  AB: '6'
+  R: '2'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '3'
+  RBI: '0'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Conger
+  nameFirst: Richard
+  nameClub1: Los Angeles
+  G: '18'
+  AB: '36'
+  R: '0'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '13'
+  RBI: '4'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Atwood
+  nameFirst: William F.
+  nameClub1: Hollywood
+  G: '16'
+  AB: '42'
+  R: '2'
+  H: '7'
+  TB: '10'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '3'
+  RBI: '2'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Viers
+  nameFirst: Raymond O.
+  nameClub1: Los Angeles
+  G: '15'
+  AB: '25'
+  R: '8'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  SO: '3'
+  RBI: '0'
+  AVG: '.160'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Osborn
+  nameFirst: Donald E.
+  nameClub1: Los Angeles
+  G: '36'
+  AB: '64'
+  R: '1'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '12'
+  RBI: '6'
+  AVG: '.156'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Owen
+  nameFirst: Marvin
+  nameClub1: Portland
+  G: '39'
+  AB: '103'
+  R: '8'
+  H: '16'
+  TB: '19'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '19'
+  HP: '0'
+  SO: '14'
+  RBI: '5'
+  AVG: '.155'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Smith
+  nameFirst: Donald O.
+  nameClub1: Oakland
+  bats: L
+  G: '17'
+  AB: '33'
+  R: '3'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '4'
+  HP: '0'
+  SO: '4'
+  RBI: '0'
+  AVG: '.152'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hafey
+  nameFirst: Thomas F.
+  nameClub1: Oakland
+  G: '38'
+  AB: '53'
+  R: '4'
+  H: '8'
+  TB: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '8'
+  RBI: '2'
+  AVG: '.151'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Pulford
+  nameFirst: Burt D.
+  nameClub1: Portland
+  nameClub2: Seattle
+  G: '28'
+  AB: '53'
+  R: '1'
+  H: '8'
+  TB: '12'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  SO: '20'
+  RBI: '3'
+  AVG: '.151'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Speer
+  nameFirst: Floyd V.
+  nameClub1: Oakland
+  G: '38'
+  AB: '54'
+  R: '2'
+  H: '8'
+  TB: '8'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '3'
+  HP: '1'
+  SO: '22'
+  RBI: '0'
+  AVG: '.148'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Bittner
+  nameFirst: John W.
+  nameClub1: Hollywood
+  G: '29'
+  AB: '27'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '3'
+  RBI: '0'
+  AVG: '.148'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameFirst: Edward F.
+  nameClub1: Portland
+  G: '17'
+  AB: '27'
+  R: '3'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  SO: '1'
+  RBI: '2'
+  AVG: '.148'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Erautt
+  nameFirst: Edward L.
+  nameClub1: Hollywood
+  G: '44'
+  AB: '98'
+  R: '9'
+  H: '14'
+  TB: '21'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '5'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  SO: '24'
+  RBI: '4'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Chapple
+  nameFirst: Earl
+  nameClub1: San Diego
+  G: '36'
+  AB: '28'
+  R: '3'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '14'
+  RBI: '0'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Buxton
+  nameFirst: Ralph S.
+  nameClub1: Oakland
+  G: '31'
+  AB: '42'
+  R: '3'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '1'
+  HP: '0'
+  SO: '9'
+  RBI: '0'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gassaway
+  nameFirst: Charles C.
+  nameClub1: Oakland
+  bats: L
+  G: '19'
+  AB: '28'
+  R: '1'
+  H: '4'
+  TB: '5'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '14'
+  RBI: '2'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameFirst: C. Dwight
+  nameClub1: Los Angeles
+  G: '17'
+  AB: '42'
+  R: '5'
+  H: '6'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '13'
+  RBI: '2'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mooty
+  nameFirst: Jake L.
+  nameClub1: Portland
+  G: '34'
+  AB: '71'
+  R: '6'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  SO: '13'
+  RBI: '6'
+  AVG: '.141'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stephens
+  nameFirst: Bryan
+  nameClub1: Oakland
+  G: '29'
+  AB: '58'
+  R: '0'
+  H: '8'
+  TB: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  SO: '18'
+  RBI: '2'
+  AVG: '.138'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Wilkie
+  nameFirst: Aldon
+  nameClub1: Hollywood
+  bats: L
+  G: '21'
+  AB: '51'
+  R: '2'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '11'
+  RBI: '3'
+  AVG: '.137'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: DeBiasi
+  nameFirst: Vincent
+  nameClub1: Portland
+  G: '21'
+  AB: '22'
+  R: '0'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '7'
+  RBI: '0'
+  AVG: '.136'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Dumler
+  nameFirst: Carlos A.
+  nameClub1: San Diego
+  G: '40'
+  AB: '30'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '6'
+  RBI: '3'
+  AVG: '.133'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Dasso
+  nameFirst: Frank
+  nameClub1: Hollywood
+  G: '26'
+  AB: '45'
+  R: '1'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  SO: '15'
+  RBI: '4'
+  AVG: '.133'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Heltzel
+  nameFirst: William W.
+  nameClub1: Seattle
+  G: '15'
+  AB: '38'
+  R: '0'
+  H: '5'
+  TB: '7'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  SO: '3'
+  RBI: '3'
+  AVG: '.132'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Liska
+  nameFirst: Adolph J.
+  nameClub1: Portland
+  G: '35'
+  AB: '54'
+  R: '2'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '10'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  SO: '13'
+  RBI: '3'
+  AVG: '.130'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gedzius
+  nameFirst: Joseph J.
+  nameClub1: San Diego
+  G: '18'
+  AB: '46'
+  R: '4'
+  H: '6'
+  TB: '9'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  SO: '10'
+  RBI: '3'
+  AVG: '.130'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Freitas
+  nameFirst: Anthony
+  nameClub1: Sacramento
+  G: '40'
+  AB: '94'
+  R: '3'
+  H: '12'
+  TB: '15'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '7'
+  SB: '0'
+  BB: '10'
+  HP: '1'
+  SO: '25'
+  RBI: '6'
+  AVG: '.128'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Barrett
+  nameFirst: Richard
+  nameClub1: Portland
+  G: '40'
+  AB: '72'
+  R: '1'
+  H: '9'
+  TB: '9'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '13'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '8'
+  RBI: '0'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Staley
+  nameFirst: Gerald L.
+  nameClub1: Sacramento
+  G: '31'
+  AB: '81'
+  R: '4'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  SO: '13'
+  RBI: '10'
+  AVG: '.123'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Seats
+  nameFirst: Thomas E.
+  nameClub1: San Diego
+  G: '36'
+  AB: '68'
+  R: '4'
+  H: '8'
+  TB: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '9'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '13'
+  RBI: '4'
+  AVG: '.118'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Fischer
+  nameFirst: Charles W.
+  nameClub1: Seattle
+  nameClub2: Portland
+  bats: B
+  G: '34'
+  AB: '34'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '3'
+  RBI: '1'
+  AVG: '.118'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Olsen
+  nameFirst: Albert W.
+  nameClub1: San Diego
+  bats: L
+  G: '45'
+  AB: '91'
+  R: '5'
+  H: '10'
+  TB: '12'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '8'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  SO: '28'
+  RBI: '7'
+  AVG: '.110'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Tost
+  nameFirst: Louis E.
+  nameClub1: Seattle
+  bats: L
+  G: '33'
+  AB: '82'
+  R: '4'
+  H: '9'
+  TB: '10'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  SO: '22'
+  RBI: '5'
+  AVG: '.110'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Dejan
+  nameFirst: Mike
+  nameClub1: San Diego
+  bats: L
+  G: '18'
+  AB: '38'
+  R: '4'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '8'
+  HP: '1'
+  SO: '7'
+  RBI: '1'
+  AVG: '.105'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Restelli
+  nameFirst: Dino
+  nameClub1: San Francisco
+  G: '26'
+  AB: '39'
+  R: '0'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  SO: '9'
+  RBI: '2'
+  AVG: '.103'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Vitalich
+  nameFirst: Edward J.
+  nameClub1: San Diego
+  G: '38'
+  AB: '60'
+  R: '3'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '6'
+  HP: '0'
+  SO: '19'
+  RBI: '3'
+  AVG: '.100'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mann
+  nameFirst: Ben G.
+  nameClub1: Oakland
+  nameClub2: Seattle
+  bats: B
+  G: '31'
+  AB: '70'
+  R: '2'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  SO: '28'
+  RBI: '0'
+  AVG: '.100'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Palica
+  nameFirst: Ambrose A.
+  nameClub1: Oakland
+  G: '23'
+  AB: '20'
+  R: '0'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '8'
+  RBI: '2'
+  AVG: '.100'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Rosso
+  nameFirst: Francis J.
+  nameClub1: San Francisco
+  G: '38'
+  AB: '41'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '16'
+  RBI: '3'
+  AVG: '.098'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Seward
+  nameFirst: Frank M.
+  nameClub1: San Francisco
+  G: '31'
+  AB: '71'
+  R: '2'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '11'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  SO: '29'
+  RBI: '4'
+  AVG: '.099'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kimball
+  nameFirst: Newell W.
+  nameClub1: Hollywood
+  G: '27'
+  AB: '23'
+  R: '1'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '7'
+  RBI: '1'
+  AVG: '.087'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mossor
+  nameFirst: Wandel
+  nameClub1: Portland
+  G: '24'
+  AB: '21'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '9'
+  RBI: '0'
+  AVG: '.096'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Tobin
+  nameFirst: James
+  nameClub1: Seattle
+  nameClub2: San Francisco
+  G: '38'
+  AB: '63'
+  R: '4'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  SO: '25'
+  RBI: '2'
+  AVG: '.079'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Rescigno
+  nameFirst: Xavier F.
+  nameClub1: Hollywood
+  G: '28'
+  AB: '52'
+  R: '7'
+  H: '4'
+  TB: '6'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  SO: '19'
+  RBI: '1'
+  AVG: '.077'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Bowman
+  nameFirst: Joseph
+  nameClub1: San Diego
+  bats: L
+  G: '16'
+  AB: '14'
+  R: '0'
+  H: '1'
+  TB: '2'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '1'
+  RBI: '2'
+  AVG: '.071'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Beasley
+  nameFirst: Bud L.
+  nameClub1: Sacramento
+  bats: L
+  G: '22'
+  AB: '21'
+  R: '0'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '5'
+  RBI: '0'
+  AVG: '.048'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Perez
+  nameFirst: Manuel R.
+  nameClub1: Hollywood
+  G: '36'
+  AB: '66'
+  R: '2'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  SO: '39'
+  RBI: '1'
+  AVG: '.030'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lien
+  nameFirst: Alfred W.
+  nameClub1: San Francisco
+  bats: B
+  G: '32'
+  AB: '41'
+  R: '2'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '1'
+  SO: '21'
+  RBI: '0'
+  AVG: '.024'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gregory
+  nameFirst: Paul E.
+  nameClub1: Seattle
+  nameClub2: Hollywood
+  G: '38'
+  AB: '21'
+  R: '1'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '4'
+  RBI: '1'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gonzales
+  nameFirst: Joseph
+  nameClub1: Sacramento
+  bats: B
+  G: '23'
+  AB: '12'
+  R: '0'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '0'
+  HP: '0'
+  SO: '3'
+  RBI: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stutz
+  nameFirst: Edward F.
+  nameClub1: San Francisco
+  G: '22'
+  AB: '14'
+  R: '1'
+  H: '0'
+  TB: '0'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '0'
+  HP: '0'
+  SO: '7'
+  RBI: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Knowles
+  nameFirst: Giles F.
+  nameClub1: San Diego
+  G: '5'
+  AB: '1'
+  H: '1'
+  AVG: '1.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Anderson
+  nameFirst: Harold V.
+  nameClub1: Seattle
+  G: '7'
+  AB: '3'
+  H: '2'
+  AVG: '.667'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Loane
+  nameFirst: Douglas
+  nameClub1: San Francisco
+  G: '2'
+  AB: '5'
+  H: '3'
+  AVG: '.600'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Goorabian
+  nameFirst: Harry E.
+  nameClub1: San Francisco
+  G: '2'
+  AB: '4'
+  H: '2'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Jensen
+  nameFirst: Robert
+  nameClub1: San Francisco
+  G: '2'
+  AB: '4'
+  H: '2'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Burgess
+  nameFirst: Forrest
+  nameClub1: Los Angeles
+  bats: L
+  G: '1'
+  AB: '2'
+  H: '1'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Leonard
+  nameFirst: Wilfred A.
+  nameClub1: Oakland
+  G: '2'
+  AB: '4'
+  H: '2'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Spaeter
+  nameFirst: Alfred
+  nameClub1: Portland
+  G: '2'
+  AB: '2'
+  H: '1'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gilmore
+  nameFirst: Leonard P.
+  nameClub1: Oakland
+  G: '1'
+  AB: '2'
+  H: '1'
+  AVG: '.500'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Scribner
+  nameFirst: Ira W.
+  nameClub1: Seattle
+  G: '7'
+  AB: '5'
+  H: '2'
+  AVG: '.400'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameFirst: L. L.
+  nameClub1: San Diego
+  G: '5'
+  AB: '11'
+  H: '4'
+  AVG: '.364'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Crawford
+  nameFirst: Duane
+  nameClub1: Portland
+  bats: L
+  G: '8'
+  AB: '26'
+  H: '9'
+  AVG: '.346'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Perry
+  nameFirst: Ray L.
+  nameClub1: San Francisco
+  G: '11'
+  AB: '26'
+  H: '9'
+  AVG: '.346'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gay
+  nameFirst: Fred L.
+  nameClub1: Hollywood
+  nameClub2: Seattle
+  bats: L
+  G: '10'
+  AB: '3'
+  H: '1'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hartness
+  nameFirst: Edgar C.
+  nameClub1: Los Angeles
+  bats: L
+  G: '4'
+  AB: '3'
+  H: '1'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kemper
+  nameFirst: Richard
+  nameClub1: Los Angeles
+  G: '4'
+  AB: '6'
+  H: '2'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Warner
+  nameFirst: James A.
+  nameClub1: Sacramento
+  G: '3'
+  AB: '9'
+  H: '3'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Wert
+  nameFirst: James L.
+  nameClub1: Seattle
+  bats: L
+  G: '2'
+  AB: '3'
+  H: '1'
+  AVG: '.333'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kretchmar
+  nameFirst: Albert A.
+  nameClub1: Seattle
+  G: '14'
+  AB: '46'
+  H: '14'
+  AVG: '.304'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Jarlett
+  nameFirst: Alfred S.
+  nameClub1: Sacramento
+  G: '13'
+  AB: '14'
+  H: '4'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gabrielson
+  nameFirst: Leonard H.
+  nameClub1: Seattle
+  bats: L
+  G: '11'
+  AB: '21'
+  H: '6'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stetter
+  nameFirst: Glenn S.
+  nameClub1: Sacramento
+  G: '5'
+  AB: '14'
+  H: '4'
+  AVG: '.286'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Wenner
+  nameFirst: Richard
+  nameClub1: Portland
+  G: '5'
+  AB: '15'
+  H: '4'
+  AVG: '.267'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: FitzGerald
+  nameFirst: Edward R.
+  nameClub1: Sacramento
+  G: '11'
+  AB: '38'
+  H: '10'
+  AVG: '.263'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hall
+  nameFirst: Robert
+  nameClub1: Seattle
+  G: '8'
+  AB: '4'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Chetkovich
+  nameFirst: Michell
+  nameClub1: Portland
+  bats: L
+  G: '9'
+  AB: '4'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Turpin
+  nameFirst: Hal.
+  nameClub1: Sacramento
+  bats: L
+  G: '5'
+  AB: '4'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Andrews
+  nameFirst: Stanley J.
+  nameClub1: Hollywood
+  G: '2'
+  AB: '4'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mishasek
+  nameFirst: John J.
+  nameClub1: Hollywood
+  G: '1'
+  AB: '4'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Walker
+  nameFirst: L.
+  nameClub1: Sacramento
+  G: '1'
+  AB: '4'
+  H: '1'
+  AVG: '.250'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Smalley
+  nameFirst: Roy F.
+  nameClub1: Los Angeles
+  G: '9'
+  AB: '28'
+  H: '6'
+  AVG: '.214'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Niemiec
+  nameFirst: Alfred J.
+  nameClub1: Seattle
+  G: '11'
+  AB: '19'
+  H: '4'
+  AVG: '.211'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Cox
+  nameFirst: Carl B.
+  nameClub1: Hollywood
+  G: '9'
+  AB: '24'
+  H: '5'
+  AVG: '.208'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Martin
+  nameFirst: John L.
+  nameClub1: San Diego
+  G: '11'
+  AB: '15'
+  H: '3'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Vandenberg
+  nameFirst: Harold
+  nameClub1: Oakland
+  G: '11'
+  AB: '15'
+  H: '3'
+  AVG: '.200'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Goulish
+  nameFirst: Nick E.
+  nameClub1: Portland
+  bats: L
+  G: '12'
+  AB: '31'
+  H: '6'
+  AVG: '.194'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Shargey
+  nameFirst: Stanley A.
+  nameClub1: Sacramento
+  G: '11'
+  AB: '27'
+  H: '5'
+  AVG: '.185'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Young
+  nameFirst: Del E.
+  nameClub1: San Francisco
+  bats: B
+  G: '11'
+  AB: '22'
+  H: '4'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Geraghty
+  nameFirst: Ben.
+  nameClub1: Sacramento
+  G: '4'
+  AB: '11'
+  H: '2'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hayes
+  nameFirst: Damon
+  nameClub1: Oakland
+  bats: L
+  G: '11'
+  AB: '11'
+  H: '2'
+  AVG: '.182'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Salvo
+  nameFirst: Manuel
+  nameClub1: San Diego
+  G: '13'
+  AB: '30'
+  H: '5'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Vargas
+  nameFirst: Manuel
+  nameClub1: Sacramento
+  G: '11'
+  AB: '12'
+  H: '2'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Siok
+  nameFirst: Thomas H.
+  nameClub1: Sacramento
+  G: '3'
+  AB: '6'
+  H: '1'
+  AVG: '.167'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Harshman
+  nameFirst: Jack
+  nameClub1: San Diego
+  bats: L
+  G: '3'
+  AB: '13'
+  H: '2'
+  AVG: '.154'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Williams
+  nameFirst: Robert F.
+  nameClub1: Seattle
+  G: '12'
+  AB: '13'
+  H: '2'
+  AVG: '.154'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lund
+  nameFirst: Donald
+  nameClub1: San Diego
+  G: '12'
+  AB: '33'
+  H: '5'
+  AVG: '.152'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Treichel
+  nameFirst: Albert
+  nameClub1: San Diego
+  G: '13'
+  AB: '14'
+  H: '2'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lang
+  nameFirst: Richard W.
+  nameClub1: Sacramento
+  bats: L
+  G: '11'
+  AB: '14'
+  H: '2'
+  AVG: '.143'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Paton
+  nameFirst: Leroy H.
+  nameClub1: Los Angeles
+  bats: L
+  G: '7'
+  AB: '15'
+  H: '2'
+  AVG: '.133'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Reynolds
+  nameFirst: Vernon
+  nameClub1: Portland
+  bats: L
+  G: '5'
+  AB: '15'
+  H: '2'
+  AVG: '.133'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: McCollum
+  nameFirst: Louis R.
+  nameClub1: Sacramento
+  G: '12'
+  AB: '16'
+  H: '2'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ignasiak
+  nameFirst: Edwin
+  nameClub1: San Diego
+  bats: B
+  G: '9'
+  AB: '32'
+  H: '4'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kleine
+  nameFirst: Harold
+  nameClub1: Los Angeles
+  bats: L
+  G: '6'
+  AB: '8'
+  H: '1'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Wood
+  nameFirst: Joe, Jr.
+  nameClub1: Sacramento
+  G: '6'
+  AB: '8'
+  H: '1'
+  AVG: '.125'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Trusky
+  nameFirst: Victor
+  nameClub1: San Diego
+  bats: L
+  G: '7'
+  AB: '17'
+  H: '2'
+  AVG: '.118'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hutchinson
+  nameFirst: Ira K.
+  nameClub1: Seattle
+  G: '11'
+  AB: '9'
+  H: '1'
+  AVG: '.111'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Brovia
+  nameFirst: Joe
+  nameClub1: San Francisco
+  G: '9'
+  AB: '9'
+  H: '1'
+  AVG: '.111'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mandish
+  nameFirst: George R.
+  nameClub1: Sacramento
+  G: '8'
+  AB: '9'
+  H: '1'
+  AVG: '.111'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Eaves
+  nameFirst: Vallie I.
+  nameClub1: San Diego
+  G: '4'
+  AB: '9'
+  H: '1'
+  AVG: '.111'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Schleuter
+  nameFirst: Norman J.
+  nameClub1: San Francisco
+  G: '14'
+  AB: '20'
+  H: '2'
+  AVG: '.100'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hill
+  nameFirst: John C.
+  nameClub1: San Diego
+  bats: L
+  G: '10'
+  AB: '11'
+  H: '1'
+  AVG: '.091'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Yelovic
+  nameFirst: John G.
+  nameClub1: Seattle
+  G: '12'
+  AB: '12'
+  H: '1'
+  AVG: '.083'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hausmann
+  nameFirst: Clemens R.
+  nameClub1: Los Angeles
+  G: '10'
+  AB: '12'
+  H: '1'
+  AVG: '.083'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Picetti
+  nameFirst: Victor A.
+  nameClub1: Oakland
+  bats: L
+  G: '7'
+  AB: '13'
+  H: '1'
+  AVG: '.077'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Adams
+  nameFirst: Richard D.
+  nameClub1: Sacramento
+  G: '6'
+  AB: '13'
+  H: '1'
+  AVG: '.077'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Howard
+  nameFirst: Lee
+  nameClub1: Hollywood
+  bats: L
+  G: '11'
+  AB: '4'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: McCarthy
+  nameFirst: James S.
+  nameClub1: Sacramento
+  G: '9'
+  AB: '4'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Mallory
+  nameFirst: Garman
+  nameClub1: Los Angeles
+  G: '8'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Shewey
+  nameFirst: William I.
+  nameClub1: Sacramento
+  G: '7'
+  AB: '14'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Collins
+  nameFirst: Wayne
+  nameClub1: Seattle
+  G: '7'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gantenbein
+  nameFirst: Jos. S.
+  nameClub1: Los Angeles
+  bats: L
+  G: '6'
+  AB: '15'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hill
+  nameFirst: James W.
+  nameClub1: Hollywood
+  G: '6'
+  AB: '10'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ferguson
+  nameFirst: Robert L.
+  nameClub1: Seattle
+  G: '6'
+  AB: '4'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Schenz
+  nameFirst: Henry L.
+  nameClub1: Los Angeles
+  G: '5'
+  AB: '15'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Skeen
+  nameFirst: Wilmer
+  nameClub1: Los Angeles
+  bats: L
+  G: '5'
+  AB: '5'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Jordan
+  nameFirst: Kirby W.
+  nameClub1: San Diego
+  G: '5'
+  AB: '3'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Messerly
+  nameFirst: Russell H.
+  nameClub1: Hollywood
+  G: '5'
+  AB: '6'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Carney
+  nameFirst: William
+  nameClub1: Portland
+  bats: L
+  G: '5'
+  AB: '6'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Powell
+  nameFirst: Larry
+  nameClub1: San Francisco
+  bats: L
+  G: '4'
+  AB: '3'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stumpf
+  nameFirst: Robert W.
+  nameClub1: Seattle
+  G: '4'
+  AB: '5'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Weintraub
+  nameFirst: Milton
+  nameClub1: Portland
+  nameClub2: Sacramento
+  G: '4'
+  AB: '4'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Hackett
+  nameFirst: Jack L.
+  nameClub1: San Diego
+  G: '4'
+  AB: '3'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Orrell
+  nameFirst: Forrest
+  nameClub1: Portland
+  G: '4'
+  AB: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Chapetta
+  nameFirst: Anthony R.
+  nameClub1: San Diego
+  bats: L
+  G: '4'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: O'Neill
+  nameFirst: Emmett
+  nameClub1: San Francisco
+  G: '3'
+  AB: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Kinnaman
+  nameFirst: Robert E.
+  nameClub1: Oakland
+  G: '3'
+  AB: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Bridgers
+  nameFirst: Byron J.
+  nameClub1: Sacramento
+  G: '3'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Robinson
+  nameFirst: Henry
+  nameClub1: Hollywood
+  G: '3'
+  AB: '4'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Thompson
+  nameFirst: Rupert
+  nameClub1: San Diego
+  bats: L
+  G: '3'
+  AB: '3'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Estes
+  nameFirst: Louis
+  nameClub1: San Diego
+  G: '3'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Schubel
+  nameFirst: William
+  nameClub1: Portland
+  G: '3'
+  AB: '3'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Tran
+  nameFirst: Leonard A.
+  nameClub1: Seattle
+  G: '3'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Tising
+  nameFirst: Jack
+  nameClub1: Portland
+  G: '3'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Wyatt
+  nameFirst: Ken E.
+  nameClub1: Portland
+  bats: L
+  G: '3'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Guay
+  nameFirst: Lawrence E.
+  nameClub1: Seattle
+  G: '3'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Brandt
+  nameFirst: William
+  nameClub1: Hollywood
+  G: '3'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Yaylian
+  nameFirst: Albert
+  nameClub1: Hollywood
+  bats: L
+  G: '2'
+  AB: '6'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Snyder
+  nameFirst: Robert A.
+  nameClub1: Seattle
+  G: '2'
+  AB: '5'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Haskell
+  nameFirst: Clyde
+  nameClub1: Sacramento
+  G: '2'
+  AB: '4'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Orella
+  nameFirst: Elmer J.
+  nameClub1: San Francisco
+  G: '2'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Schulte
+  nameFirst: Herman J.
+  nameClub1: Oakland
+  G: '2'
+  AB: '3'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Vivalda
+  nameFirst: Joseph L.
+  nameClub1: Sacramento
+  G: '2'
+  AB: '3'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Difani
+  nameFirst: Clarence J.
+  nameClub1: Oakland
+  G: '2'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Strain
+  nameFirst: Odie C.
+  nameClub1: Oakland
+  G: '2'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Salmon
+  nameFirst: Harold
+  nameClub1: Portland
+  bats: L
+  G: '2'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Gornicki
+  nameFirst: Henry T.
+  nameClub1: Hollywood
+  G: '2'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Wright
+  nameFirst: William D.
+  nameClub1: Los Angeles
+  bats: L
+  G: '2'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Peterson
+  nameFirst: Charles F.
+  nameClub1: San Francisco
+  G: '2'
+  AB: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Orphan
+  nameFirst: Hugh E.
+  nameClub1: Sacramento
+  G: '2'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Pintar
+  nameFirst: John
+  nameClub1: Sacramento
+  G: '2'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Ryan
+  nameFirst: Don
+  nameClub1: Seattle
+  G: '1'
+  AB: '2'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Brenner
+  nameFirst: William W.
+  nameClub1: Los Angeles
+  G: '1'
+  AB: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Stromme
+  nameFirst: Floyd M.
+  nameClub1: Oakland
+  G: '1'
+  AB: '1'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Anthony
+  nameFirst: Lee
+  nameClub1: Los Angeles
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Atanazio
+  nameFirst: James G.
+  nameClub1: Sacramento
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Babbitt
+  nameFirst: Eugene F.
+  nameClub1: Sacramento
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Babich
+  nameFirst: John C.
+  nameClub1: Oakland
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Bonnell
+  nameFirst: Arthur B.
+  nameClub1: Seattle
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Byrd
+  nameFirst: George
+  nameClub1: Hollywood
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Faria
+  nameFirst: Joe, Jr.
+  nameClub1: San Diego
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Green
+  nameFirst: Edwin F.
+  nameClub1: Sacramento
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Lyons
+  nameFirst: Herschel
+  nameClub1: Sacramento
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Monahan
+  nameFirst: William J.
+  nameClub1: Sacramento
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Palica
+  nameFirst: Alex. R.
+  nameClub1: Seattle
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sandel
+  nameFirst: Warren
+  nameClub1: Hollywood
+  bats: L
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Sierra
+  nameFirst: Andrew
+  nameClub1: Hollywood
+  bats: L
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Spalding
+  nameFirst: Edward R.
+  nameClub1: Seattle
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'
+- year: '1946'
+  nameLeague: Pacific Coast League
+  nameLast: Totaro
+  nameFirst: Frank E.
+  nameClub1: Los Angeles
+  G: '1'
+  AB: '0'
+  H: '0'
+  AVG: '.000'

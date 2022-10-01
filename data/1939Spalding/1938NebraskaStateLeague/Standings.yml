@@ -1,0 +1,122 @@
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Norfolk
+  phase: regular/first
+  W: '37'
+  L: '22'
+  T: '1'
+  PCT: '.627'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Sioux City
+  phase: regular/first
+  W: '32'
+  L: '27'
+  T: '0'
+  PCT: '.542'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Grand Island
+  phase: regular/first
+  W: '32'
+  L: '27'
+  T: '0'
+  PCT: '.542'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Beatrice
+  phase: regular/first
+  W: '29'
+  L: '30'
+  T: '1'
+  PCT: '.492'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Lincoln
+  phase: regular/first
+  W: '25'
+  L: '34'
+  T: '0'
+  PCT: '.424'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Sioux Falls
+  phase: regular/first
+  W: '22'
+  L: '37'
+  T: '0'
+  PCT: '.373'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Sioux City
+  phase: regular/second
+  W: '38'
+  L: '20'
+  T: '1'
+  PCT: '.655'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Beatrice
+  phase: regular/second
+  W: '33'
+  L: '24'
+  T: '0'
+  PCT: '.579'
+  RANK: '2'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Norfolk
+  phase: regular/second
+  W: '30'
+  L: '27'
+  T: '0'
+  PCT: '.526'
+  RANK: '3'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Lincoln
+  phase: regular/second
+  W: '27'
+  L: '30'
+  T: '0'
+  PCT: '.474'
+  RANK: '4'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Sioux Falls
+  phase: regular/second
+  W: '27'
+  L: '31'
+  T: '1'
+  PCT: '.466'
+  RANK: '5'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Grand Island
+  phase: regular/second
+  W: '17'
+  L: '40'
+  T: '0'
+  PCT: '.298'
+  RANK: '6'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Norfolk
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1938'
+  nameLeague: Nebraska State League
+  nameClub: Sioux City
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,222 @@
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  phase: regular/first
+  W: '38'
+  L: '23'
+  T: '0'
+  PCT: '.623'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  phase: regular/first
+  W: '36'
+  L: '24'
+  T: '1'
+  PCT: '.600'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  phase: regular/first
+  W: '32'
+  L: '24'
+  T: '0'
+  PCT: '.571'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Paris
+  phase: regular/first
+  W: '32'
+  L: '30'
+  T: '1'
+  PCT: '.516'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Keokuk
+  phase: regular/first
+  W: '30'
+  L: '30'
+  T: '1'
+  PCT: '.500'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Waterloo
+  phase: regular/first
+  W: '28'
+  L: '31'
+  T: '0'
+  PCT: '.475'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: regular/first
+  W: '29'
+  L: '33'
+  T: '1'
+  PCT: '.468'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: regular/first
+  W: '16'
+  L: '46'
+  T: '0'
+  PCT: '.258'
+  RANK: '8'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Waterloo
+  phase: regular/second
+  W: '38'
+  L: '24'
+  T: '0'
+  PCT: '.613'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  phase: regular/second
+  W: '36'
+  L: '27'
+  T: '0'
+  PCT: '.571'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Keokuk
+  phase: regular/second
+  W: '32'
+  L: '30'
+  T: '0'
+  PCT: '.516'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Paris
+  phase: regular/second
+  W: '32'
+  L: '31'
+  T: '0'
+  PCT: '.508'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  phase: regular/second
+  W: '31'
+  L: '32'
+  T: '0'
+  PCT: '.492'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: regular/second
+  W: '30'
+  L: '33'
+  T: '0'
+  PCT: '.476'
+  RANK: '6'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: regular/second
+  W: '28'
+  L: '34'
+  T: '0'
+  PCT: '.452'
+  RANK: '7'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  phase: regular/second
+  W: '23'
+  L: '39'
+  T: '0'
+  PCT: '.371'
+  RANK: '8'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Kokomo
+  phase: regular
+  W: '68'
+  L: '51'
+  T: '0'
+  PCT: '.571'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  phase: regular
+  W: '69'
+  L: '55'
+  T: '0'
+  PCT: '.556'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Waterloo
+  phase: regular
+  W: '66'
+  L: '55'
+  T: '0'
+  PCT: '.545'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Paris
+  phase: regular
+  W: '64'
+  L: '61'
+  T: '1'
+  PCT: '.512'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Keokuk
+  phase: regular
+  W: '62'
+  L: '60'
+  T: '1'
+  PCT: '.508'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Dubuque
+  phase: regular
+  W: '59'
+  L: '63'
+  T: '1'
+  PCT: '.484'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Decatur
+  phase: regular
+  W: '59'
+  L: '66'
+  T: '1'
+  PCT: '.472'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Clinton
+  phase: regular
+  W: '44'
+  L: '80'
+  T: '0'
+  PCT: '.355'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Waterloo
+  phase: final
+  W: '3'
+  L: '2'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Midwest League
+  nameClub: Michigan City
+  phase: final
+  W: '2'
+  L: '3'
+  RANK: '2'

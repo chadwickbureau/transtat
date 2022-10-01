@@ -1,0 +1,106 @@
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Burlington
+  phase: regular
+  W: '81'
+  L: '48'
+  T: '0'
+  PCT: '.628'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Keokuk
+  phase: regular
+  W: '74'
+  L: '54'
+  T: '1'
+  PCT: '.578'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Kewanee
+  phase: regular
+  W: '68'
+  L: '60'
+  T: '0'
+  PCT: '.531'
+  RANK: '3'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Cedar Rapids
+  phase: regular
+  W: '63'
+  L: '67'
+  T: '0'
+  PCT: '.485'
+  RANK: '4'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Clinton
+  phase: regular
+  W: '61'
+  L: '65'
+  T: '1'
+  PCT: '.484'
+  RANK: '5'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Rockford
+  phase: regular
+  W: '38'
+  L: '91'
+  T: '0'
+  PCT: '.295'
+  RANK: '6'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Cedar Rapids
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Burlington
+  phase: semifinal
+  division: Semifinal 1
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Kewanee
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Keokuk
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '3'
+  PCT: '.000'
+  RANK: '2'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Kewanee
+  phase: final
+  W: '4'
+  L: '2'
+  PCT: '.667'
+  RANK: '1'
+- year: '1949'
+  nameLeague: Central Association
+  nameClub: Cedar Rapids
+  phase: final
+  W: '2'
+  L: '4'
+  PCT: '.333'
+  RANK: '2'

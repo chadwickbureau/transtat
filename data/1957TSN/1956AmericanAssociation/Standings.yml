@@ -1,0 +1,118 @@
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: regular
+  W: '92'
+  L: '62'
+  T: '0'
+  PCT: '.597'
+  RANK: '1'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: regular
+  W: '87'
+  L: '67'
+  T: '0'
+  PCT: '.565'
+  RANK: '2'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Omaha
+  phase: regular
+  W: '82'
+  L: '71'
+  T: '0'
+  PCT: '.536'
+  RANK: '3'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: regular
+  W: '78'
+  L: '75'
+  T: '1'
+  PCT: '.510'
+  RANK: '4'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: St. Paul
+  phase: regular
+  W: '75'
+  L: '78'
+  T: '0'
+  PCT: '.490'
+  RANK: '5'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Charleston
+  phase: regular
+  W: '74'
+  L: '79'
+  T: '0'
+  PCT: '.484'
+  RANK: '6'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Wichita
+  phase: regular
+  W: '65'
+  L: '88'
+  T: '0'
+  PCT: '.425'
+  RANK: '7'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Louisville
+  phase: regular
+  W: '60'
+  L: '93'
+  T: '1'
+  PCT: '.392'
+  RANK: '8'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Minneapolis
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Omaha
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Indianapolis
+  phase: final
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1956'
+  nameLeague: American Association
+  nameClub: Denver
+  phase: final
+  W: '0'
+  L: '4'
+  RANK: '2'

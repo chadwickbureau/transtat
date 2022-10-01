@@ -1,0 +1,136 @@
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Nashua
+  phase: regular/first
+  W: '53'
+  L: '22'
+  T: '0'
+  PCT: '.707'
+  RANK: '1'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Pawtucket
+  phase: regular/first
+  W: '52'
+  L: '26'
+  T: '0'
+  PCT: '.667'
+  RANK: '2'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Portland
+  phase: regular/first
+  W: '40'
+  L: '35'
+  T: '0'
+  PCT: '.533'
+  RANK: '3'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Springfield
+  phase: regular/first
+  W: '36'
+  L: '37'
+  T: '0'
+  PCT: '.493'
+  RANK: '4'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Fall River
+  phase: regular/first
+  W: '27'
+  L: '42'
+  T: '1'
+  PCT: '.391'
+  RANK: '5'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Manchester
+  phase: regular/first
+  W: '28'
+  L: '44'
+  T: '1'
+  PCT: '.389'
+  RANK: '6'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Lynn
+  phase: regular/first
+  W: '29'
+  L: '47'
+  T: '0'
+  PCT: '.382'
+  RANK: '7'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Providence
+  phase: regular/first
+  W: '18'
+  L: '30'
+  T: '0'
+  PCT: '.375'
+  RANK: '8'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Pawtucket
+  phase: regular/second
+  W: '31'
+  L: '17'
+  T: '0'
+  PCT: '.646'
+  RANK: '1'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Portland
+  phase: regular/second
+  W: '26'
+  L: '22'
+  T: '0'
+  PCT: '.542'
+  RANK: '2'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Springfield
+  phase: regular/second
+  W: '21'
+  L: '27'
+  T: '0'
+  PCT: '.438'
+  RANK: '3'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Nashua
+  phase: regular/second
+  W: '18'
+  L: '30'
+  T: '0'
+  PCT: '.375'
+  RANK: '4'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Springfield
+  phase: semifinal
+  W: '2'
+  L: '0'
+  RANK: '1'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Pawtucket
+  phase: semifinal
+  W: '0'
+  L: '2'
+  RANK: '2'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Portland
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1949'
+  nameLeague: New England League
+  nameClub: Springfield
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

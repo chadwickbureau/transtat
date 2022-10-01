@@ -1,0 +1,118 @@
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: regular
+  W: '68'
+  L: '43'
+  T: '1'
+  PCT: '.613'
+  RANK: '1'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Salisbury
+  phase: regular
+  W: '63'
+  L: '47'
+  T: '2'
+  PCT: '.573'
+  RANK: '2'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Hickory
+  phase: regular
+  W: '61'
+  L: '49'
+  T: '1'
+  PCT: '.555'
+  RANK: '3'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: regular
+  W: '57'
+  L: '53'
+  T: '1'
+  PCT: '.518'
+  RANK: '4'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Thomasville
+  phase: regular
+  W: '54'
+  L: '56'
+  T: '1'
+  PCT: '.491'
+  RANK: '5'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Landis
+  phase: regular
+  W: '51'
+  L: '60'
+  T: '1'
+  PCT: '.459'
+  RANK: '6'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Concord
+  phase: regular
+  W: '48'
+  L: '63'
+  T: '0'
+  PCT: '.432'
+  RANK: '7'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Statesville
+  phase: regular
+  W: '40'
+  L: '71'
+  T: '1'
+  PCT: '.360'
+  RANK: '8'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Hickory
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Salisbury
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  RANK: '2'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Mooresville
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1947'
+  nameLeague: North Carolina State League
+  nameClub: Lexington
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

@@ -1,0 +1,2960 @@
+- year: '1953'
+  nameLeague: California League
+  nameLast: Keller
+  nameClub1: Fresno
+  Pos: 1B
+  G: '61'
+  PO: '455'
+  A: '30'
+  E: '4'
+  DP: '44'
+  PCT: '.992'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Adams
+  nameFirst: R. L.
+  nameClub1: Ventura
+  throws: L
+  Pos: 1B
+  G: '12'
+  PO: '115'
+  A: '3'
+  E: '1'
+  DP: '9'
+  PCT: '.992'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bartels
+  nameClub1: Bakersfield
+  throws: L
+  Pos: 1B
+  G: '82'
+  PO: '639'
+  A: '36'
+  E: '7'
+  DP: '57'
+  PCT: '.990'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Garbe
+  nameClub1: Bakersfield
+  throws: L
+  Pos: 1B
+  G: '21'
+  PO: '146'
+  A: '10'
+  E: '2'
+  DP: '23'
+  PCT: '.987'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wilson
+  nameClub1: Modesto
+  Pos: 1B
+  G: '138'
+  PO: '1291'
+  A: '67'
+  E: '19'
+  DP: '106'
+  PCT: '.986'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: O'Keefe
+  nameClub1: Visalia
+  throws: L
+  Pos: 1B
+  G: '138'
+  PO: '1133'
+  A: '63'
+  E: '18'
+  DP: '106'
+  PCT: '.985'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perez
+  nameClub1: Ventura
+  Pos: 1B
+  G: '41'
+  PO: '310'
+  A: '21'
+  E: '5'
+  DP: '23'
+  PCT: '.985'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perry
+  nameClub1: Ventura
+  Pos: 1B
+  G: '17'
+  PO: '122'
+  A: '7'
+  E: '2'
+  DP: '14'
+  PCT: '.985'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Toso
+  nameFirst: H. A.
+  nameClub1: San Jose
+  throws: L
+  Pos: 1B
+  G: '135'
+  PO: '1003'
+  A: '73'
+  E: '18'
+  DP: '93'
+  PCT: '.984'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Barnhart
+  nameClub1: Fresno
+  throws: L
+  Pos: 1B
+  G: '78'
+  PO: '582'
+  A: '42'
+  E: '10'
+  DP: '40'
+  PCT: '.984'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Dallas
+  nameClub1: Santa Barbara
+  Pos: 1B
+  G: '113'
+  PO: '847'
+  A: '41'
+  E: '17'
+  DP: '83'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Kreuter
+  nameClub1: Stockton
+  throws: L
+  Pos: 1B
+  G: '137'
+  PO: '1131'
+  A: '71'
+  E: '26'
+  DP: '99'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Amorena
+  nameClub1: Ventura
+  Pos: 1B
+  G: '69'
+  PO: '542'
+  A: '31'
+  E: '13'
+  DP: '51'
+  PCT: '.978'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fiskness
+  nameClub1: Santa Barbara
+  throws: L
+  Pos: 1B
+  G: '17'
+  PO: '109'
+  A: '6'
+  E: '3'
+  DP: '11'
+  PCT: '.975'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Newton
+  nameClub1: Bakersfield
+  Pos: 1B
+  G: '13'
+  PO: '112'
+  A: '10'
+  E: '4'
+  DP: '13'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perry
+  nameClub1: Ventura
+  Pos: 1B
+  G: '14'
+  PO: '99'
+  A: '4'
+  E: '4'
+  DP: '11'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Scherger
+  nameClub1: Santa Barbara
+  Pos: 2B
+  G: '27'
+  PO: '72'
+  A: '55'
+  E: '2'
+  DP: '18'
+  PCT: '.984'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: DeFazio
+  nameClub1: Fresno
+  Pos: 2B
+  G: '20'
+  PO: '63'
+  A: '36'
+  E: '2'
+  DP: '14'
+  PCT: '.980'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moore
+  nameFirst: D.
+  nameClub1: Stockton
+  Pos: 2B
+  G: '31'
+  PO: '115'
+  A: '81'
+  E: '7'
+  DP: '24'
+  PCT: '.966'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Alarid
+  nameClub1: San Jose
+  Pos: 2B
+  G: '54'
+  PO: '100'
+  A: '108'
+  E: '8'
+  DP: '35'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Montgomery
+  nameClub1: Visalia
+  Pos: 2B
+  G: '17'
+  PO: '45'
+  A: '31'
+  E: '3'
+  DP: '8'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ananias
+  nameClub1: Fresno
+  nameClub2: Visalia
+  Pos: 2B
+  G: '87'
+  PO: '226'
+  A: '187'
+  E: '17'
+  DP: '48'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Domenichelli
+  nameClub1: Ventura
+  Pos: 2B
+  G: '102'
+  PO: '271'
+  A: '249'
+  E: '22'
+  DP: '58'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Lopes
+  nameClub1: Bakersfield
+  Pos: 2B
+  G: '134'
+  PO: '383'
+  A: '328'
+  E: '31'
+  DP: '86'
+  PCT: '.958'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Toso
+  nameFirst: H. J.
+  nameClub1: San Jose
+  Pos: 2B
+  G: '80'
+  PO: '213'
+  A: '147'
+  E: '16'
+  DP: '40'
+  PCT: '.957'
+  TP: '1'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stewart
+  nameFirst: D. E.
+  nameClub1: Stockton
+  Pos: 2B
+  G: '67'
+  PO: '204'
+  A: '174'
+  E: '17'
+  DP: '38'
+  PCT: '.957'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jackson
+  nameClub1: Visalia
+  Pos: 2B
+  G: '12'
+  PO: '32'
+  A: '30'
+  E: '3'
+  DP: '13'
+  PCT: '.954'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Johnston
+  nameFirst: F. D.
+  nameClub1: Santa Barbara
+  Pos: 2B
+  G: '117'
+  PO: '336'
+  A: '233'
+  E: '31'
+  DP: '63'
+  PCT: '.948'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Camacho
+  nameClub1: Fresno
+  Pos: 2B
+  G: '89'
+  PO: '234'
+  A: '203'
+  E: '25'
+  DP: '40'
+  PCT: '.946'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Alfano
+  nameClub1: Visalia
+  Pos: 2B
+  G: '23'
+  PO: '66'
+  A: '45'
+  E: '7'
+  DP: '14'
+  PCT: '.942'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gonsalves
+  nameClub1: Modesto
+  Pos: 2B
+  G: '24'
+  PO: '55'
+  A: '63'
+  E: '8'
+  DP: '7'
+  PCT: '.937'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Buttrey
+  nameClub1: Stockton
+  Pos: 2B
+  G: '38'
+  PO: '105'
+  A: '65'
+  E: '12'
+  DP: '18'
+  PCT: '.934'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mirandette
+  nameClub1: Ventura
+  Pos: 2B
+  G: '39'
+  PO: '116'
+  A: '79'
+  E: '14'
+  DP: '21'
+  PCT: '.933'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moody
+  nameClub1: Modesto
+  Pos: 2B
+  G: '125'
+  PO: '334'
+  A: '299'
+  E: '51'
+  DP: '83'
+  PCT: '.925'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Olsen
+  nameClub1: Fresno
+  Pos: 2B
+  G: '11'
+  PO: '31'
+  A: '15'
+  E: '4'
+  DP: '2'
+  PCT: '.920'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spatafore
+  nameClub1: San Jose
+  Pos: 2B
+  G: '16'
+  PO: '41'
+  A: '34'
+  E: '9'
+  DP: '8'
+  PCT: '.893'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Clements
+  nameClub1: Stockton
+  Pos: 3B
+  G: '141'
+  PO: '146'
+  A: '355'
+  E: '21'
+  DP: '37'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Turk
+  nameClub1: San Jose
+  Pos: 3B
+  G: '48'
+  PO: '60'
+  A: '82'
+  E: '6'
+  DP: '10'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perry
+  nameClub1: Bakersfield
+  Pos: 3B
+  G: '108'
+  PO: '115'
+  A: '233'
+  E: '23'
+  DP: '28'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Lodigiani
+  nameClub1: Ventura
+  Pos: 3B
+  G: '48'
+  PO: '47'
+  A: '89'
+  E: '9'
+  DP: '6'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Melton
+  nameClub1: Ventura
+  Pos: 3B
+  G: '31'
+  PO: '30'
+  A: '58'
+  E: '7'
+  DP: '6'
+  PCT: '.926'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jackson
+  nameClub1: Visalia
+  Pos: 3B
+  G: '125'
+  PO: '127'
+  A: '293'
+  E: '36'
+  DP: '29'
+  PCT: '.921'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Karan
+  nameClub1: Santa Barbara
+  Pos: 3B
+  G: '119'
+  PO: '135'
+  A: '231'
+  E: '32'
+  DP: '16'
+  PCT: '.920'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Morse
+  nameClub1: Modesto
+  Pos: 3B
+  G: '11'
+  PO: '20'
+  A: '34'
+  E: '5'
+  DP: '0'
+  PCT: '.915'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shawver
+  nameClub1: Fresno
+  Pos: 3B
+  G: '16'
+  PO: '12'
+  A: '39'
+  E: '5'
+  DP: '2'
+  PCT: '.911'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roach
+  nameClub1: Modesto
+  Pos: 3B
+  G: '12'
+  PO: '8'
+  A: '22'
+  E: '3'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ball
+  nameFirst: A. F.
+  nameClub1: Fresno
+  Pos: 3B
+  G: '10'
+  PO: '9'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.903'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Corona
+  nameClub1: Modesto
+  Pos: 3B
+  G: '13'
+  PO: '10'
+  A: '27'
+  E: '4'
+  DP: '1'
+  PCT: '.902'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spatafore
+  nameClub1: San Jose
+  Pos: 3B
+  G: '65'
+  PO: '61'
+  A: '112'
+  E: '19'
+  DP: '9'
+  PCT: '.901'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ananias
+  nameClub1: Fresno
+  nameClub2: Visalia
+  Pos: 3B
+  G: '17'
+  PO: '24'
+  A: '44'
+  E: '8'
+  DP: '8'
+  PCT: '.895'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Weddle
+  nameClub1: Fresno
+  Pos: 3B
+  G: '31'
+  PO: '37'
+  A: '54'
+  E: '11'
+  DP: '5'
+  PCT: '.892'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Musto
+  nameClub1: Santa Barbara
+  Pos: 3B
+  G: '10'
+  PO: '13'
+  A: '9'
+  E: '3'
+  DP: '1'
+  PCT: '.880'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Newton
+  nameClub1: Bakersfield
+  Pos: 3B
+  G: '22'
+  PO: '13'
+  A: '45'
+  E: '8'
+  DP: '2'
+  PCT: '.879'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gonsalves
+  nameClub1: Modesto
+  Pos: 3B
+  G: '37'
+  PO: '28'
+  A: '62'
+  E: '13'
+  DP: '3'
+  PCT: '.874'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Domenichelli
+  nameClub1: Ventura
+  Pos: 3B
+  G: '22'
+  PO: '22'
+  A: '39'
+  E: '9'
+  DP: '4'
+  PCT: '.871'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Klingman
+  nameClub1: Modesto
+  Pos: 3B
+  G: '25'
+  PO: '22'
+  A: '48'
+  E: '11'
+  DP: '6'
+  PCT: '.864'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Killingsworth
+  nameClub1: San Jose
+  nameClub2: Modesto
+  Pos: 3B
+  G: '40'
+  PO: '40'
+  A: '74'
+  E: '19'
+  DP: '6'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nitrini
+  nameClub1: Ventura
+  Pos: 3B
+  G: '11'
+  PO: '20'
+  A: '16'
+  E: '6'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Marcucci
+  nameClub1: Modesto
+  Pos: 3B
+  G: '29'
+  PO: '24'
+  A: '64'
+  E: '15'
+  DP: '4'
+  PCT: '.854'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moler
+  nameClub1: Modesto
+  Pos: 3B
+  G: '10'
+  PO: '13'
+  A: '15'
+  E: '5'
+  DP: '1'
+  PCT: '.848'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Olsen
+  nameClub1: Fresno
+  Pos: 3B
+  G: '61'
+  PO: '47'
+  A: '103'
+  E: '28'
+  DP: '12'
+  PCT: '.843'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gelsinger
+  nameClub1: Ventura
+  nameClub2: Modesto
+  Pos: 3B
+  G: '25'
+  PO: '26'
+  A: '50'
+  E: '16'
+  DP: '3'
+  PCT: '.826'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Monge
+  nameClub1: Bakersfield
+  Pos: SS
+  G: '131'
+  PO: '275'
+  A: '403'
+  E: '29'
+  DP: '77'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Anderson
+  nameClub1: Santa Barbara
+  Pos: SS
+  G: '140'
+  PO: '277'
+  A: '395'
+  E: '32'
+  DP: '86'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nitrini
+  nameClub1: Ventura
+  Pos: SS
+  G: '37'
+  PO: '69'
+  A: '113'
+  E: '10'
+  DP: '21'
+  PCT: '.948'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Klingman
+  nameClub1: San Jose
+  nameClub2: Modesto
+  Pos: SS
+  G: '49'
+  PO: '78'
+  A: '123'
+  E: '14'
+  DP: '15'
+  PCT: '.935'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Burton
+  nameClub1: Fresno
+  Pos: SS
+  G: '101'
+  PO: '207'
+  A: '297'
+  E: '43'
+  DP: '38'
+  PCT: '.921'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Figueroa
+  nameClub1: Modesto
+  Pos: SS
+  G: '140'
+  PO: '241'
+  A: '507'
+  E: '71'
+  DP: '73'
+  PCT: '.913'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ollis
+  nameClub1: San Jose
+  Pos: SS
+  G: '63'
+  PO: '98'
+  A: '155'
+  E: '25'
+  DP: '27'
+  PCT: '.910'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stewart
+  nameFirst: S.
+  nameClub1: Ventura
+  Pos: SS
+  G: '88'
+  PO: '138'
+  A: '248'
+  E: '40'
+  DP: '35'
+  PCT: '.906'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Alfano
+  nameClub1: Visalia
+  Pos: SS
+  G: '50'
+  PO: '66'
+  A: '118'
+  E: '20'
+  DP: '29'
+  PCT: '.902'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McDevitt
+  nameClub1: Visalia
+  Pos: SS
+  G: '68'
+  PO: '103'
+  A: '196'
+  E: '33'
+  DP: '32'
+  PCT: '.901'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Alarid
+  nameClub1: San Jose
+  Pos: SS
+  G: '23'
+  PO: '24'
+  A: '55'
+  E: '9'
+  DP: '10'
+  PCT: '.896'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moore
+  nameFirst: D.
+  nameClub1: Stockton
+  Pos: SS
+  G: '112'
+  PO: '190'
+  A: '316'
+  E: '59'
+  DP: '38'
+  PCT: '.896'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Huff
+  nameClub1: Visalia
+  Pos: SS
+  G: '18'
+  PO: '20'
+  A: '47'
+  E: '8'
+  DP: '7'
+  PCT: '.893'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Deck
+  nameClub1: San Jose
+  Pos: SS
+  G: '12'
+  PO: '20'
+  A: '46'
+  E: '8'
+  DP: '3'
+  PCT: '.892'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ananias
+  nameClub1: Fresno
+  Pos: SS
+  G: '19'
+  PO: '39'
+  A: '51'
+  E: '13'
+  DP: '11'
+  PCT: '.874'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Buttrey
+  nameClub1: Stockton
+  Pos: SS
+  G: '28'
+  PO: '36'
+  A: '78'
+  E: '18'
+  DP: '13'
+  PCT: '.864'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Camacho
+  nameClub1: Fresno
+  Pos: SS
+  G: '11'
+  PO: '8'
+  A: '25'
+  E: '9'
+  DP: '2'
+  PCT: '.786'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Farris
+  nameClub1: Modesto
+  Pos: OF
+  G: '18'
+  PO: '31'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fiori
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '19'
+  PO: '23'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wuesthoff
+  nameClub1: Visalia
+  Pos: OF
+  G: '11'
+  PO: '17'
+  A: '2'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hicks
+  nameClub1: Fresno
+  Pos: OF
+  G: '16'
+  PO: '13'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: LeBlanc
+  nameClub1: Fresno
+  Pos: OF
+  G: '10'
+  PO: '16'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Pullings
+  nameClub1: Stockton
+  Pos: OF
+  G: '13'
+  PO: '13'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Klingman
+  nameClub1: Modesto
+  Pos: OF
+  G: '16'
+  PO: '13'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nenna
+  nameClub1: Modesto
+  throws: L
+  Pos: OF
+  G: '57'
+  PO: '110'
+  A: '2'
+  E: '1'
+  DP: '1'
+  PCT: '.991'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stuart
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '36'
+  PO: '78'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.988'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wise
+  nameClub1: Modesto
+  Pos: OF
+  G: '62'
+  PO: '129'
+  A: '7'
+  E: '2'
+  DP: '1'
+  PCT: '.986'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ernaga
+  nameClub1: Stockton
+  Pos: OF
+  G: '110'
+  PO: '290'
+  A: '10'
+  E: '5'
+  DP: '0'
+  PCT: '.984'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shirtcliff
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '36'
+  PO: '48'
+  A: '4'
+  E: '1'
+  DP: '1'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Garbe
+  nameClub1: Bakersfield
+  throws: L
+  Pos: OF
+  G: '126'
+  PO: '224'
+  A: '22'
+  E: '5'
+  DP: '5'
+  PCT: '.980'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Reiman
+  nameClub1: Modesto
+  Pos: OF
+  G: '38'
+  PO: '43'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Melton
+  nameClub1: Ventura
+  Pos: OF
+  G: '19'
+  PO: '40'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.978'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Corona
+  nameClub1: Modesto
+  Pos: OF
+  G: '28'
+  PO: '38'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.977'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Vital
+  nameClub1: Modesto
+  Pos: OF
+  G: '78'
+  PO: '217'
+  A: '9'
+  E: '6'
+  DP: '2'
+  PCT: '.974'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Musto
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '118'
+  PO: '170'
+  A: '8'
+  E: '5'
+  DP: '1'
+  PCT: '.973'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Adams
+  nameFirst: C. R.
+  nameClub1: Stockton
+  throws: L
+  Pos: OF
+  G: '18'
+  PO: '32'
+  A: '2'
+  E: '1'
+  DP: '0'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hague
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '134'
+  PO: '371'
+  A: '15'
+  E: '12'
+  DP: '4'
+  PCT: '.970'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roundy
+  nameClub1: Visalia
+  Pos: OF
+  G: '107'
+  PO: '179'
+  A: '13'
+  E: '6'
+  DP: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perez
+  nameClub1: Ventura
+  Pos: OF
+  G: '62'
+  PO: '122'
+  A: '9'
+  E: '4'
+  DP: '1'
+  PCT: '.970'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Johnson
+  nameFirst: W. E.
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '125'
+  PO: '259'
+  A: '12'
+  E: '9'
+  DP: '0'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Campana
+  nameClub1: Stockton
+  Pos: OF
+  G: '73'
+  PO: '177'
+  A: '7'
+  E: '6'
+  DP: '4'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Keating
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '34'
+  PO: '56'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.967'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moler
+  nameClub1: Modesto
+  Pos: OF
+  G: '52'
+  PO: '76'
+  A: '7'
+  E: '3'
+  DP: '1'
+  PCT: '.965'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gelsinger
+  nameClub1: Ventura
+  nameClub2: Modesto
+  Pos: OF
+  G: '52'
+  PO: '125'
+  A: '6'
+  E: '5'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Keough
+  nameClub1: San Jose
+  throws: L
+  Pos: OF
+  G: '123'
+  PO: '259'
+  A: '16'
+  E: '11'
+  DP: '3'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Pearson
+  nameClub1: San Jose
+  throws: L
+  Pos: OF
+  G: '120'
+  PO: '225'
+  A: '14'
+  E: '10'
+  DP: '2'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Adams
+  nameFirst: R. L.
+  nameClub1: Ventura
+  throws: L
+  Pos: OF
+  G: '60'
+  PO: '92'
+  A: '3'
+  E: '4'
+  DP: '1'
+  PCT: '.960'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sobczak
+  nameClub1: San Jose
+  Pos: OF
+  G: '137'
+  PO: '259'
+  A: '15'
+  E: '13'
+  DP: '2'
+  PCT: '.955'
+  TP: '1'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spence
+  nameFirst: J.
+  nameClub1: Visalia
+  Pos: OF
+  G: '125'
+  PO: '346'
+  A: '12'
+  E: '17'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Grenald
+  nameClub1: Visalia
+  Pos: OF
+  G: '62'
+  PO: '100'
+  A: '7'
+  E: '5'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Green
+  nameClub1: Fresno
+  Pos: OF
+  G: '114'
+  PO: '314'
+  A: '15'
+  E: '16'
+  DP: '5'
+  PCT: '.954'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nubin
+  nameClub1: Ventura
+  nameClub2: Bakersfield
+  Pos: OF
+  G: '92'
+  PO: '216'
+  A: '10'
+  E: '11'
+  DP: '4'
+  PCT: '.954'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: White
+  nameClub1: Fresno
+  Pos: OF
+  G: '78'
+  PO: '190'
+  A: '15'
+  E: '10'
+  DP: '6'
+  PCT: '.953'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Goss
+  nameClub1: Visalia
+  Pos: OF
+  G: '77'
+  PO: '143'
+  A: '15'
+  E: '8'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: O'Brien
+  nameClub1: Stockton
+  Pos: OF
+  G: '136'
+  PO: '207'
+  A: '15'
+  E: '12'
+  DP: '1'
+  PCT: '.949'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Tucker
+  nameClub1: Fresno
+  throws: L
+  Pos: OF
+  G: '97'
+  PO: '173'
+  A: '6'
+  E: '10'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Girdley
+  nameClub1: Ventura
+  throws: L
+  Pos: OF
+  G: '17'
+  PO: '34'
+  A: '2'
+  E: '2'
+  DP: '1'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hudson
+  nameClub1: Fresno
+  Pos: OF
+  G: '57'
+  PO: '102'
+  A: '2'
+  E: '6'
+  DP: '0'
+  PCT: '.945'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Caselli
+  nameClub1: Modesto
+  throws: L
+  Pos: OF
+  G: '36'
+  PO: '46'
+  A: '6'
+  E: '3'
+  DP: '1'
+  PCT: '.945'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Stewart
+  nameFirst: D. H.
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '83'
+  PO: '112'
+  A: '7'
+  E: '7'
+  DP: '1'
+  PCT: '.944'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gulvas
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '26'
+  PO: '42'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Kenway
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '17'
+  PO: '27'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spatafore
+  nameClub1: San Jose
+  Pos: OF
+  G: '24'
+  PO: '45'
+  A: '7'
+  E: '4'
+  DP: '3'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Smith
+  nameClub1: Fresno
+  Pos: OF
+  G: '32'
+  PO: '66'
+  A: '6'
+  E: '6'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moore
+  nameFirst: M.
+  nameClub1: Ventura
+  throws: L
+  Pos: OF
+  G: '27'
+  PO: '43'
+  A: '3'
+  E: '4'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cruger
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '15'
+  PO: '19'
+  A: '4'
+  E: '2'
+  DP: '0'
+  PCT: '.920'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roselli
+  nameClub1: Modesto
+  Pos: OF
+  G: '18'
+  PO: '31'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.917'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fabiano
+  nameClub1: Ventura
+  Pos: OF
+  G: '69'
+  PO: '150'
+  A: '10'
+  E: '16'
+  DP: '3'
+  PCT: '.909'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Daley
+  nameClub1: San Jose
+  Pos: OF
+  G: '11'
+  PO: '9'
+  A: '1'
+  E: '1'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Eastman
+  nameClub1: Bakersfield
+  Pos: OF
+  G: '28'
+  PO: '49'
+  A: '3'
+  E: '6'
+  DP: '0'
+  PCT: '.897'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hermon
+  nameClub1: Stockton
+  Pos: OF
+  G: '68'
+  PO: '107'
+  A: '14'
+  E: '14'
+  DP: '2'
+  PCT: '.896'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McBride
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '13'
+  PO: '17'
+  A: '0'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hurych
+  nameClub1: Santa Barbara
+  Pos: OF
+  G: '25'
+  PO: '22'
+  A: '2'
+  E: '3'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Edwards
+  nameClub1: Ventura
+  Pos: OF
+  G: '19'
+  PO: '19'
+  A: '5'
+  E: '3'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wright
+  nameClub1: Ventura
+  Pos: OF
+  G: '10'
+  PO: '12'
+  A: '1'
+  E: '2'
+  DP: '0'
+  PCT: '.867'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Herrera
+  nameFirst: S.
+  nameClub1: Modesto
+  Pos: OF
+  G: '28'
+  PO: '45'
+  A: '3'
+  E: '8'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shawver
+  nameClub1: Fresno
+  Pos: OF
+  G: '16'
+  PO: '24'
+  A: '2'
+  E: '5'
+  DP: '0'
+  PCT: '.839'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Vargas
+  nameClub1: Ventura
+  Pos: OF
+  G: '21'
+  PO: '39'
+  A: '5'
+  E: '9'
+  DP: '0'
+  PCT: '.830'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Johnston
+  nameFirst: D. L.
+  nameClub1: Visalia
+  Pos: OF
+  G: '19'
+  PO: '15'
+  A: '2'
+  E: '5'
+  DP: '1'
+  PCT: '.773'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perez
+  nameClub1: Ventura
+  Pos: C
+  G: '15'
+  PO: '66'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Olson
+  nameClub1: Santa Barbara
+  Pos: C
+  G: '25'
+  PO: '187'
+  A: '28'
+  E: '1'
+  DP: '7'
+  PB: '2'
+  PCT: '.995'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Zimmerman
+  nameClub1: San Jose
+  Pos: C
+  G: '101'
+  PO: '699'
+  A: '63'
+  E: '13'
+  DP: '11'
+  PB: '5'
+  PCT: '.983'
+  TP: '1'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Thomas
+  nameClub1: Ventura
+  Pos: C
+  G: '26'
+  PO: '155'
+  A: '22'
+  E: '3'
+  DP: '3'
+  PB: '4'
+  PCT: '.983'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cheshier
+  nameClub1: Bakersfield
+  Pos: C
+  G: '10'
+  PO: '46'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PB: '0'
+  PCT: '.983'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bortz
+  nameClub1: Stockton
+  Pos: C
+  G: '50'
+  PO: '292'
+  A: '42'
+  E: '6'
+  DP: '4'
+  PB: '7'
+  PCT: '.982'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Staniland
+  nameClub1: Fresno
+  Pos: C
+  G: '34'
+  PO: '191'
+  A: '18'
+  E: '4'
+  DP: '3'
+  PB: '9'
+  PCT: '.981'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: LeBlanc
+  nameClub1: Fresno
+  Pos: C
+  G: '91'
+  PO: '514'
+  A: '66'
+  E: '12'
+  DP: '9'
+  PB: '3'
+  PCT: '.980'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gardner
+  nameClub1: Visalia
+  Pos: C
+  G: '66'
+  PO: '420'
+  A: '49'
+  E: '10'
+  DP: '8'
+  PB: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Gill
+  nameClub1: Santa Barbara
+  Pos: C
+  G: '45'
+  PO: '336'
+  A: '43'
+  E: '9'
+  DP: '6'
+  PB: '10'
+  PCT: '.977'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Marcucci
+  nameClub1: Modesto
+  Pos: C
+  G: '30'
+  PO: '149'
+  A: '19'
+  E: '4'
+  DP: '4'
+  PB: '4'
+  PCT: '.977'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Salkeld
+  nameClub1: Stockton
+  Pos: C
+  G: '74'
+  PO: '431'
+  A: '52'
+  E: '12'
+  DP: '4'
+  PB: '2'
+  PCT: '.976'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Irons
+  nameClub1: San Jose
+  Pos: C
+  G: '54'
+  PO: '311'
+  A: '34'
+  E: '9'
+  DP: '4'
+  PB: '0'
+  PCT: '.975'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Barnes
+  nameClub1: Visalia
+  Pos: C
+  G: '82'
+  PO: '489'
+  A: '68'
+  E: '15'
+  DP: '5'
+  PB: '9'
+  PCT: '.974'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sommers
+  nameClub1: Santa Barbara
+  Pos: C
+  G: '37'
+  PO: '243'
+  A: '27'
+  E: '8'
+  DP: '7'
+  PB: '5'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Dacko
+  nameClub1: Santa Barbara
+  Pos: C
+  G: '34'
+  PO: '215'
+  A: '21'
+  E: '7'
+  DP: '1'
+  PB: '4'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Poole
+  nameClub1: Ventura
+  Pos: C
+  G: '18'
+  PO: '114'
+  A: '16'
+  E: '4'
+  DP: '0'
+  PB: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moats
+  nameClub1: Modesto
+  Pos: C
+  G: '68'
+  PO: '370'
+  A: '43'
+  E: '13'
+  DP: '3'
+  PB: '9'
+  PCT: '.969'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Claridge
+  nameClub1: Stockton
+  nameClub2: Bakersfield
+  Pos: C
+  G: '62'
+  PO: '309'
+  A: '53'
+  E: '12'
+  DP: '3'
+  PB: '6'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sisler
+  nameClub1: Bakersfield
+  Pos: C
+  G: '16'
+  PO: '87'
+  A: '3'
+  E: '3'
+  DP: '0'
+  PB: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roselli
+  nameClub1: Modesto
+  Pos: C
+  G: '43'
+  PO: '231'
+  A: '31'
+  E: '9'
+  DP: '3'
+  PB: '5'
+  PCT: '.967'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Sack
+  nameClub1: Bakersfield
+  Pos: C
+  G: '59'
+  PO: '339'
+  A: '31'
+  E: '16'
+  DP: '5'
+  PB: '5'
+  PCT: '.959'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jenkins
+  nameClub1: Fresno
+  Pos: C
+  G: '14'
+  PO: '98'
+  A: '13'
+  E: '5'
+  DP: '3'
+  PB: '2'
+  PCT: '.957'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Perry
+  nameClub1: Bakersfield
+  Pos: C
+  G: '18'
+  PO: '98'
+  A: '10'
+  E: '5'
+  DP: '0'
+  PB: '1'
+  PCT: '.956'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Noce
+  nameClub1: Ventura
+  Pos: C
+  G: '34'
+  PO: '197'
+  A: '13'
+  E: '11'
+  DP: '3'
+  PB: '5'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Neufeld
+  nameClub1: Ventura
+  Pos: C
+  G: '57'
+  PO: '283'
+  A: '38'
+  E: '17'
+  DP: '6'
+  PB: '7'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hatzenbuhler
+  nameClub1: Bakersfield
+  Pos: C
+  G: '12'
+  PO: '43'
+  A: '14'
+  E: '4'
+  DP: '0'
+  PB: '3'
+  PCT: '.934'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bryant
+  nameClub1: Modesto
+  Pos: P
+  G: '37'
+  PO: '8'
+  A: '363'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Utter
+  nameClub1: Bakersfield
+  Pos: P
+  G: '33'
+  PO: '14'
+  A: '24'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Williams
+  nameClub1: Bakersfield
+  Pos: P
+  G: '20'
+  PO: '8'
+  A: '29'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McMinn
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '20'
+  PO: '5'
+  A: '22'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Brower
+  nameClub1: Visalia
+  nameClub2: San Jose
+  Pos: P
+  G: '21'
+  PO: '6'
+  A: '18'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cornsilk
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '27'
+  PO: '4'
+  A: '19'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Whitson
+  nameClub1: San Jose
+  Pos: P
+  G: '15'
+  PO: '2'
+  A: '19'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mauriello
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '15'
+  PO: '5'
+  A: '13'
+  E: '0'
+  DP: '4'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Roman
+  nameClub1: Visalia
+  Pos: P
+  G: '21'
+  PO: '4'
+  A: '12'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Clark
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '31'
+  PO: '4'
+  A: '9'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Grunsky
+  nameClub1: Bakersfield
+  Pos: P
+  G: '18'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Weakley
+  nameClub1: Visalia
+  Pos: P
+  G: '10'
+  PO: '3'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wortley
+  nameClub1: Visalia
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bonser
+  nameClub1: Bakersfield
+  Pos: P
+  G: '10'
+  PO: '1'
+  A: '3'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: LaBounty
+  nameClub1: Stockton
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Whiting
+  nameClub1: Bakersfield
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '1'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Williams
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '2'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Parkin
+  nameClub1: San Jose
+  Pos: P
+  G: '31'
+  PO: '12'
+  A: '36'
+  E: '1'
+  DP: '4'
+  PCT: '.980'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Burgess
+  nameClub1: Modesto
+  throws: L
+  Pos: P
+  G: '42'
+  PO: '7'
+  A: '39'
+  E: '1'
+  DP: '1'
+  PCT: '.979'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Townsend
+  nameClub1: Fresno
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '29'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: O'Connor
+  nameClub1: Visalia
+  Pos: P
+  G: '39'
+  PO: '20'
+  A: '33'
+  E: '2'
+  DP: '4'
+  PCT: '.964'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Kornack
+  nameClub1: Modesto
+  Pos: P
+  G: '33'
+  PO: '2'
+  A: '24'
+  E: '1'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Adams
+  nameFirst: C. A.
+  nameClub1: Santa Barbara
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '2'
+  A: '49'
+  E: '2'
+  DP: '1'
+  PCT: '.962'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Collins
+  nameClub1: Ventura
+  throws: L
+  Pos: P
+  G: '38'
+  PO: '9'
+  A: '36'
+  E: '2'
+  DP: '1'
+  PCT: '.957'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Watkins
+  nameClub1: Stockton
+  Pos: P
+  G: '23'
+  PO: '8'
+  A: '36'
+  E: '2'
+  DP: '6'
+  PCT: '.957'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Wright
+  nameClub1: Ventura
+  Pos: P
+  G: '36'
+  PO: '7'
+  A: '53'
+  E: '3'
+  DP: '2'
+  PCT: '.952'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Surprenant
+  nameClub1: Bakersfield
+  nameClub2: Ventura
+  Pos: P
+  G: '44'
+  PO: '14'
+  A: '44'
+  E: '3'
+  DP: '5'
+  PCT: '.951'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Shaw
+  nameClub1: Visalia
+  Pos: P
+  G: '39'
+  PO: '10'
+  A: '28'
+  E: '2'
+  DP: '1'
+  PCT: '.950'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ponce
+  nameClub1: Ventura
+  Pos: P
+  G: '45'
+  PO: '10'
+  A: '45'
+  E: '3'
+  DP: '5'
+  PCT: '.948'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Fletcher
+  nameClub1: Modesto
+  Pos: P
+  G: '31'
+  PO: '13'
+  A: '41'
+  E: '3'
+  DP: '2'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Zonner
+  nameClub1: San Jose
+  Pos: P
+  G: '15'
+  PO: '6'
+  A: '12'
+  E: '1'
+  DP: '4'
+  PCT: '.947'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Christin
+  nameClub1: Fresno
+  Pos: P
+  G: '23'
+  PO: '3'
+  A: '14'
+  E: '1'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Malgradi
+  nameClub1: Bakersfield
+  Pos: P
+  G: '38'
+  PO: '10'
+  A: '38'
+  E: '3'
+  DP: '3'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hooper
+  nameClub1: Bakersfield
+  throws: L
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '15'
+  E: '1'
+  DP: '0'
+  PCT: '.941'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Palica
+  nameClub1: San Jose
+  Pos: P
+  G: '46'
+  PO: '6'
+  A: '25'
+  E: '2'
+  DP: '2'
+  PCT: '.939'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Demery
+  nameClub1: Bakersfield
+  Pos: P
+  G: '32'
+  PO: '4'
+  A: '27'
+  E: '2'
+  DP: '3'
+  PCT: '.939'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Thorpe
+  nameClub1: Stockton
+  Pos: P
+  G: '33'
+  PO: '15'
+  A: '61'
+  E: '5'
+  DP: '6'
+  PCT: '.938'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Benedict
+  nameClub1: Fresno
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '13'
+  E: '1'
+  DP: '0'
+  PCT: '.933'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bielefeld
+  nameClub1: Stockton
+  Pos: P
+  G: '33'
+  PO: '10'
+  A: '42'
+  E: '4'
+  DP: '4'
+  PCT: '.929'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Freitas
+  nameClub1: Stockton
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '18'
+  A: '54'
+  E: '6'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spencer
+  nameClub1: Fresno
+  Pos: P
+  G: '36'
+  PO: '4'
+  A: '32'
+  E: '3'
+  DP: '2'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Donley
+  nameClub1: Ventura
+  Pos: P
+  G: '46'
+  PO: '4'
+  A: '20'
+  E: '2'
+  DP: '1'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: James
+  nameClub1: Modesto
+  Pos: P
+  G: '14'
+  PO: '1'
+  A: '23'
+  E: '2'
+  DP: '3'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Hall
+  nameClub1: San Jose
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '11'
+  E: '1'
+  DP: '0'
+  PCT: '.923'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Andrews
+  nameClub1: Modesto
+  throws: L
+  Pos: P
+  G: '10'
+  PO: '8'
+  A: '15'
+  E: '2'
+  DP: '1'
+  PCT: '.920'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Schroyer
+  nameClub1: Visalia
+  Pos: P
+  G: '38'
+  PO: '9'
+  A: '25'
+  E: '3'
+  DP: '3'
+  PCT: '.919'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Mayer
+  nameClub1: San Jose
+  throws: L
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.909'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Thompson
+  nameClub1: Modesto
+  Pos: P
+  G: '16'
+  PO: '3'
+  A: '24'
+  E: '3'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Moore
+  nameFirst: W.
+  nameClub1: Stockton
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '1'
+  A: '8'
+  E: '1'
+  DP: '1'
+  PCT: '.900'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Geels
+  nameClub1: Fresno
+  throws: L
+  Pos: P
+  G: '33'
+  PO: '3'
+  A: '14'
+  E: '2'
+  DP: '0'
+  PCT: '.895'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: McGee
+  nameClub1: Bakersfield
+  nameClub2: Modesto
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '8'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Allmon
+  nameClub1: San Jose
+  Pos: P
+  G: '31'
+  PO: '5'
+  A: '18'
+  E: '3'
+  DP: '2'
+  PCT: '.885'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bloxam
+  nameClub1: Visalia
+  Pos: P
+  G: '33'
+  PO: '6'
+  A: '36'
+  E: '6'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Corella
+  nameClub1: Visalia
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '20'
+  E: '3'
+  DP: '0'
+  PCT: '.875'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Clevenger
+  nameClub1: San Jose
+  Pos: P
+  G: '19'
+  PO: '6'
+  A: '15'
+  E: '3'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bowman
+  nameClub1: Modesto
+  Pos: P
+  G: '24'
+  PO: '1'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.870'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Jacquier
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '30'
+  PO: '4'
+  A: '27'
+  E: '5'
+  DP: '2'
+  PCT: '.861'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Bolger
+  nameClub1: Fresno
+  Pos: P
+  G: '10'
+  PO: '0'
+  A: '6'
+  E: '1'
+  DP: '1'
+  PCT: '.857'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ban
+  nameClub1: Fresno
+  throws: L
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ropek
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '38'
+  PO: '6'
+  A: '19'
+  E: '5'
+  DP: '2'
+  PCT: '.833'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Ryan
+  nameClub1: Fresno
+  Pos: P
+  G: '18'
+  PO: '3'
+  A: '12'
+  E: '3'
+  DP: '2'
+  PCT: '.833'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Dawson
+  nameClub1: Bakersfield
+  Pos: P
+  G: '15'
+  PO: '4'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.824'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Forrest
+  nameClub1: Fresno
+  Pos: P
+  G: '33'
+  PO: '10'
+  A: '19'
+  E: '7'
+  DP: '0'
+  PCT: '.806'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Crane
+  nameClub1: Stockton
+  Pos: P
+  G: '37'
+  PO: '4'
+  A: '20'
+  E: '6'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Nunn
+  nameClub1: Stockton
+  Pos: P
+  G: '23'
+  PO: '4'
+  A: '16'
+  E: '5'
+  DP: '1'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Theodosis
+  nameClub1: Visalia
+  nameClub2: Bakersfield
+  Pos: P
+  G: '21'
+  PO: '2'
+  A: '14'
+  E: '4'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Meyer
+  nameClub1: Fresno
+  nameClub2: Visalia
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '1'
+  A: '7'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Witt
+  nameClub1: Santa Barbara
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Spence
+  nameFirst: R.
+  nameClub1: San Jose
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '0'
+  A: '4'
+  E: '1'
+  DP: '0'
+  PCT: '.800'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Higgins
+  nameClub1: Ventura
+  Pos: P
+  G: '17'
+  PO: '1'
+  A: '5'
+  E: '2'
+  DP: '0'
+  PCT: '.750'
+  TP: '0'
+- year: '1953'
+  nameLeague: California League
+  nameLast: Cloud
+  nameClub1: Fresno
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '4'
+  E: '2'
+  DP: '2'
+  PCT: '.750'
+  TP: '0'

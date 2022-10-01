@@ -1,0 +1,100 @@
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: regular
+  W: '62'
+  L: '46'
+  T: '0'
+  PCT: '.574'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: regular
+  W: '56'
+  L: '51'
+  T: '0'
+  PCT: '.523'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: regular
+  W: '57'
+  L: '53'
+  T: '0'
+  PCT: '.518'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: regular
+  W: '56'
+  L: '54'
+  T: '0'
+  PCT: '.509'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Dublin
+  phase: regular
+  W: '49'
+  L: '61'
+  T: '0'
+  PCT: '.445'
+  RANK: '5'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Statesboro
+  phase: regular
+  W: '25'
+  L: '40'
+  T: '0'
+  PCT: '.385'
+  RANK: '6'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '1'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Vidalia
+  phase: semifinal
+  division: Semifinal 1
+  W: '1'
+  L: '3'
+  RANK: '2'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '1'
+  RANK: '3'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Hazlehurst-Baxley
+  phase: semifinal
+  division: Semifinal 2
+  W: '1'
+  L: '3'
+  RANK: '4'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Douglas
+  phase: final
+  W: '3'
+  L: '3'
+  RANK: '1'
+- year: '1955'
+  nameLeague: Georgia State League
+  nameClub: Sandersville
+  phase: final
+  W: '3'
+  L: '3'
+  RANK: '1'

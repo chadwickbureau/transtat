@@ -1,0 +1,66 @@
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Davenport
+  G: '126'
+  DP: '116'
+  PB: '13'
+  PO: '3297'
+  A: '1395'
+  E: '193'
+  PCT: '.961'
+  TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Sioux City
+  G: '125'
+  DP: '132'
+  PB: '9'
+  PO: '3251'
+  A: '1522'
+  E: '211'
+  PCT: '.958'
+  TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Waterloo
+  G: '129'
+  DP: '96'
+  PB: '15'
+  PO: '3325'
+  A: '1507'
+  E: '220'
+  PCT: '.956'
+  TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Cedar Rapids
+  G: '128'
+  DP: '103'
+  PB: '5'
+  PO: '3293'
+  A: '1408'
+  E: '216'
+  PCT: '.956'
+  TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Omaha/Rock Island
+  G: '126'
+  DP: '91'
+  PB: '18'
+  PO: '3214'
+  A: '1380'
+  E: '229'
+  PCT: '.953'
+  TP: '0'
+- year: '1936'
+  nameLeague: Western League
+  nameClub: Des Moines
+  G: '128'
+  DP: '122'
+  PB: '12'
+  PO: '3311'
+  A: '1516'
+  E: '247'
+  PCT: '.951'
+  TP: '0'

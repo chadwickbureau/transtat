@@ -1,0 +1,80 @@
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  Thibodaux: '15'
+  Crowley: '12'
+  Lake Charles: '11'
+  Alexandria: '14'
+  Monroe: '10'
+  Baton Rouge: '13'
+  New Iberia: '3'
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  Lafayette: '5'
+  Crowley: '11'
+  Lake Charles: '11'
+  Alexandria: '13'
+  Monroe: '11'
+  Baton Rouge: '13'
+  New Iberia: '2'
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  Lafayette: '7'
+  Thibodaux: '9'
+  Lake Charles: '9'
+  Alexandria: '10'
+  Monroe: '13'
+  Baton Rouge: '13'
+  New Iberia: '2'
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  Lafayette: '9'
+  Thibodaux: '9'
+  Crowley: '11'
+  Alexandria: '11'
+  Monroe: '11'
+  Baton Rouge: '8'
+  New Iberia: '3'
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  Lafayette: '6'
+  Thibodaux: '7'
+  Crowley: '10'
+  Lake Charles: '9'
+  Monroe: '10'
+  Baton Rouge: '10'
+  New Iberia: '3'
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: Monroe
+  Lafayette: '10'
+  Thibodaux: '9'
+  Crowley: '7'
+  Lake Charles: '9'
+  Alexandria: '9'
+  Baton Rouge: '9'
+  New Iberia: '1'
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  Lafayette: '7'
+  Thibodaux: '7'
+  Crowley: '7'
+  Lake Charles: '12'
+  Alexandria: '9'
+  Monroe: '11'
+  New Iberia: '0'
+- year: '1956'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  Lafayette: '5'
+  Thibodaux: '0'
+  Crowley: '2'
+  Lake Charles: '1'
+  Alexandria: '1'
+  Monroe: '2'
+  Baton Rouge: '4'

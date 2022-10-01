@@ -1,0 +1,3028 @@
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Sommers
+  nameFirst: Donald
+  nameClub1: St. Petersburg
+  bats: L
+  G: '11'
+  AB: '26'
+  R: '4'
+  H: '11'
+  TB: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '2'
+  SO: '0'
+  AVG: '.423'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Torres
+  nameFirst: Gilberto
+  nameClub1: West Palm Beach
+  G: '35'
+  AB: '63'
+  R: '11'
+  H: '24'
+  TB: '28'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '17'
+  SO: '1'
+  AVG: '.381'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Sanner
+  nameFirst: Dale
+  nameClub1: Tampa
+  G: '18'
+  AB: '62'
+  R: '11'
+  H: '22'
+  TB: '25'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '5'
+  SB: '6'
+  BB: '12'
+  HP: '1'
+  RBI: '11'
+  SO: '8'
+  AVG: '.355'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Jimenez
+  nameFirst: Al
+  nameClub1: Tampa
+  G: '28'
+  AB: '96'
+  R: '25'
+  H: '34'
+  TB: '48'
+  H2B: '3'
+  H3B: '4'
+  HR: '1'
+  SH: '1'
+  SB: '11'
+  BB: '27'
+  HP: '1'
+  RBI: '20'
+  SO: '10'
+  AVG: '.354'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: Humberto
+  nameClub1: Miami Beach/Greater Miami
+  G: '14'
+  AB: '20'
+  R: '4'
+  H: '7'
+  TB: '7'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '5'
+  SO: '5'
+  AVG: '.350'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Levan
+  nameFirst: Jesse
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '101'
+  AB: '374'
+  R: '83'
+  H: '130'
+  TB: '230'
+  H2B: '21'
+  H3B: '5'
+  HR: '23'
+  SH: '6'
+  SB: '18'
+  BB: '70'
+  HP: '3'
+  RBI: '89'
+  SO: '10'
+  AVG: '.348'
+  AVG_RANK: '1'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Foster
+  nameFirst: James
+  nameClub1: Tallahassee
+  G: '18'
+  AB: '60'
+  R: '11'
+  H: '20'
+  TB: '27'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '21'
+  HP: '0'
+  RBI: '5'
+  SO: '11'
+  AVG: '.333'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Krupp
+  nameFirst: Eugene
+  nameClub1: St. Petersburg
+  bats: L
+  G: '97'
+  AB: '319'
+  R: '64'
+  H: '106'
+  TB: '148'
+  H2B: '14'
+  H3B: '8'
+  HR: '4'
+  SH: '11'
+  SB: '10'
+  BB: '91'
+  HP: '0'
+  RBI: '74'
+  SO: '18'
+  AVG: '.332'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Wilson
+  nameFirst: Nesbit
+  nameClub1: St. Petersburg
+  G: '103'
+  AB: '389'
+  R: '96'
+  H: '128'
+  TB: '228'
+  H2B: '32'
+  H3B: '4'
+  HR: '20'
+  SH: '5'
+  SB: '7'
+  BB: '61'
+  HP: '10'
+  RBI: '109'
+  SO: '30'
+  AVG: '.329'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Durkin
+  nameFirst: James
+  nameClub1: West Palm Beach
+  G: '17'
+  AB: '49'
+  R: '5'
+  H: '16'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '10'
+  AVG: '.327'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Ilitch
+  nameFirst: Michael
+  nameClub1: 19@Tampa
+  nameClub2: 32@Miami Beach/Greater Miami
+  G: '51'
+  AB: '185'
+  R: '34'
+  H: '60'
+  TB: '74'
+  H2B: '7'
+  H3B: '2'
+  HR: '1'
+  SH: '6'
+  SB: '8'
+  BB: '14'
+  HP: '1'
+  RBI: '21'
+  SO: '9'
+  AVG: '.324'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Rosa
+  nameFirst: August
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '10'
+  AB: '31'
+  R: '8'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '9'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.323'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Armstrong
+  nameFirst: Paul
+  nameClub1: 22@Miami
+  nameClub2: 70@Miami Beach/Greater Miami
+  G: '92'
+  AB: '349'
+  R: '59'
+  H: '112'
+  TB: '146'
+  H2B: '16'
+  H3B: '3'
+  HR: '4'
+  SH: '17'
+  SB: '18'
+  BB: '39'
+  HP: '2'
+  RBI: '49'
+  SO: '12'
+  AVG: '.321'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Gonzalez
+  nameFirst: Hiram
+  nameClub1: 28@Tampa
+  nameClub2: 73@St. Petersburg
+  bats: L
+  G: '101'
+  AB: '369'
+  R: '70'
+  H: '117'
+  TB: '139'
+  H2B: '18'
+  H3B: '2'
+  HR: '0'
+  SH: '3'
+  SB: '15'
+  BB: '77'
+  HP: '1'
+  RBI: '49'
+  SO: '17'
+  AVG: '.317'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lynch
+  nameFirst: Dale
+  nameClub1: Miami Beach/Greater Miami
+  G: '54'
+  AB: '219'
+  R: '40'
+  H: '70'
+  TB: '97'
+  H2B: '19'
+  H3B: '1'
+  HR: '2'
+  SH: '8'
+  SB: '3'
+  BB: '30'
+  HP: '0'
+  RBI: '26'
+  SO: '17'
+  AVG: '.320'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: O'Neill
+  nameFirst: Patrick
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '25'
+  AB: '99'
+  R: '21'
+  H: '31'
+  TB: '42'
+  H2B: '8'
+  H3B: '0'
+  HR: '1'
+  SH: '4'
+  SB: '3'
+  BB: '15'
+  HP: '0'
+  RBI: '16'
+  SO: '3'
+  AVG: '.313'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Platt
+  nameFirst: Mizell
+  nameClub1: West Palm Beach
+  G: '28'
+  AB: '109'
+  R: '15'
+  H: '34'
+  TB: '55'
+  H2B: '6'
+  H3B: '0'
+  HR: '5'
+  SH: '4'
+  SB: '0'
+  BB: '12'
+  HP: '0'
+  RBI: '27'
+  SO: '8'
+  AVG: '.312'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Mays
+  nameFirst: Everette
+  nameClub1: 19@Tampa
+  nameClub2: 6@Tallahassee
+  bats: L
+  G: '25'
+  AB: '104'
+  R: '16'
+  H: '32'
+  TB: '46'
+  H2B: '5'
+  H3B: '0'
+  HR: '3'
+  SH: '1'
+  SB: '3'
+  BB: '8'
+  HP: '0'
+  RBI: '21'
+  SO: '17'
+  AVG: '.308'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Brown
+  nameFirst: Winston
+  nameClub1: Miami Beach/Greater Miami
+  G: '27'
+  AB: '49'
+  R: '9'
+  H: '15'
+  TB: '18'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '6'
+  HP: '1'
+  RBI: '9'
+  SO: '4'
+  AVG: '.306'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Barbon
+  nameFirst: Humberto
+  nameClub1: Miami Beach/Greater Miami
+  G: '29'
+  AB: '105'
+  R: '22'
+  H: '32'
+  TB: '46'
+  H2B: '9'
+  H3B: '1'
+  HR: '1'
+  SH: '2'
+  SB: '2'
+  BB: '11'
+  HP: '0'
+  RBI: '15'
+  SO: '16'
+  AVG: '.305'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Morejon
+  nameFirst: Daniel
+  nameClub1: Miami Beach/Greater Miami
+  G: '38'
+  AB: '130'
+  R: '23'
+  H: '39'
+  TB: '57'
+  H2B: '3'
+  H3B: '6'
+  HR: '1'
+  SH: '5'
+  SB: '5'
+  BB: '25'
+  HP: '1'
+  RBI: '19'
+  SO: '13'
+  AVG: '.300'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Tosheff
+  nameFirst: William
+  nameClub1: 16@Tampa
+  nameClub2: 16@St. Petersburg
+  G: '32'
+  AB: '67'
+  R: '10'
+  H: '20'
+  TB: '23'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '5'
+  SO: '14'
+  AVG: '.299'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Dean
+  nameFirst: Elisha
+  nameClub1: Miami Beach/Greater Miami
+  G: '31'
+  AB: '47'
+  R: '6'
+  H: '14'
+  TB: '20'
+  H2B: '3'
+  H3B: '0'
+  HR: '1'
+  SH: '3'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '7'
+  SO: '3'
+  AVG: '.298'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Falter
+  nameFirst: T. Francis
+  nameClub1: Miami
+  G: '25'
+  AB: '105'
+  R: '21'
+  H: '31'
+  TB: '37'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '13'
+  HP: '0'
+  RBI: '6'
+  SO: '10'
+  AVG: '.295'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Santiago
+  nameFirst: Carlos
+  nameClub1: Tallahassee
+  G: '66'
+  AB: '254'
+  R: '45'
+  H: '74'
+  TB: '101'
+  H2B: '17'
+  H3B: '2'
+  HR: '2'
+  SH: '7'
+  SB: '1'
+  BB: '41'
+  HP: '1'
+  RBI: '27'
+  SO: '32'
+  AVG: '.291'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Smith
+  nameFirst: Bobby
+  nameClub1: Miami Beach/Greater Miami
+  G: '16'
+  AB: '55'
+  R: '8'
+  H: '16'
+  TB: '20'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '6'
+  SO: '9'
+  AVG: '.291'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Gnagy
+  nameFirst: Max
+  nameClub1: St. Petersburg
+  bats: L
+  G: '93'
+  AB: '346'
+  R: '65'
+  H: '100'
+  TB: '124'
+  H2B: '12'
+  H3B: '6'
+  HR: '0'
+  SH: '11'
+  SB: '9'
+  BB: '69'
+  HP: '0'
+  RBI: '27'
+  SO: '31'
+  AVG: '.289'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Little
+  nameFirst: C. Edward
+  nameClub1: Miami Beach/Greater Miami
+  G: '79'
+  AB: '286'
+  R: '31'
+  H: '82'
+  TB: '129'
+  H2B: '14'
+  H3B: '3'
+  HR: '9'
+  SH: '7'
+  SB: '1'
+  BB: '24'
+  HP: '3'
+  RBI: '47'
+  SO: '24'
+  AVG: '.287'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Walega
+  nameFirst: Richard
+  nameClub1: Tallahassee
+  G: '15'
+  AB: '7'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '1'
+  SO: '3'
+  AVG: '.286'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Koby
+  nameFirst: Richard
+  nameClub1: St. Petersburg
+  G: '87'
+  AB: '279'
+  R: '44'
+  H: '79'
+  TB: '110'
+  H2B: '11'
+  H3B: '4'
+  HR: '4'
+  SH: '4'
+  SB: '3'
+  BB: '72'
+  HP: '6'
+  RBI: '61'
+  SO: '46'
+  AVG: '.283'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Tanner
+  nameFirst: William
+  nameClub1: 16@Tallahassee
+  nameClub2: 9@St. Petersburg
+  G: '25'
+  AB: '46'
+  R: '5'
+  H: '13'
+  TB: '16'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '4'
+  SO: '11'
+  AVG: '.283'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Wehmeyer
+  nameFirst: George
+  nameClub1: Miami Beach/Greater Miami
+  G: '104'
+  AB: '380'
+  R: '67'
+  H: '107'
+  TB: '134'
+  H2B: '16'
+  H3B: '4'
+  HR: '1'
+  SH: '13'
+  SB: '22'
+  BB: '47'
+  HP: '1'
+  RBI: '35'
+  SO: '14'
+  AVG: '.282'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Prince
+  nameFirst: Ralph
+  nameClub1: West Palm Beach
+  G: '99'
+  AB: '355'
+  R: '46'
+  H: '100'
+  TB: '112'
+  H2B: '10'
+  H3B: '1'
+  HR: '0'
+  SH: '13'
+  SB: '7'
+  BB: '51'
+  HP: '1'
+  RBI: '40'
+  SO: '16'
+  AVG: '.282'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Plarski
+  nameFirst: Donald
+  nameClub1: Tallahassee
+  G: '55'
+  AB: '209'
+  R: '46'
+  H: '59'
+  TB: '76'
+  H2B: '6'
+  H3B: '1'
+  HR: '3'
+  SH: '4'
+  SB: '5'
+  BB: '41'
+  HP: '3'
+  RBI: '27'
+  SO: '21'
+  AVG: '.282'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Meeks
+  nameFirst: Mack
+  nameClub1: West Palm Beach
+  bats: L
+  G: '99'
+  AB: '368'
+  R: '62'
+  H: '103'
+  TB: '173'
+  H2B: '25'
+  H3B: '3'
+  HR: '13'
+  SH: '5'
+  SB: '6'
+  BB: '67'
+  HP: '2'
+  RBI: '61'
+  SO: '33'
+  AVG: '.280'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Meriwether
+  nameFirst: Conklyn
+  nameClub1: Tallahassee
+  bats: L
+  G: '94'
+  AB: '346'
+  R: '54'
+  H: '97'
+  TB: '155'
+  H2B: '14'
+  H3B: '1'
+  HR: '14'
+  SH: '7'
+  SB: '1'
+  BB: '56'
+  HP: '0'
+  RBI: '74'
+  SO: '34'
+  AVG: '.280'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Maroney
+  nameFirst: John
+  nameClub1: Tallahassee
+  G: '54'
+  AB: '214'
+  R: '31'
+  H: '60'
+  TB: '82'
+  H2B: '13'
+  H3B: '3'
+  HR: '1'
+  SH: '4'
+  SB: '7'
+  BB: '17'
+  HP: '0'
+  RBI: '33'
+  SO: '25'
+  AVG: '.280'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Suba
+  nameFirst: Robert
+  nameClub1: St. Petersburg
+  bats: L
+  G: '49'
+  AB: '172'
+  R: '38'
+  H: '48'
+  TB: '61'
+  H2B: '7'
+  H3B: '0'
+  HR: '2'
+  SH: '3'
+  SB: '2'
+  BB: '29'
+  HP: '0'
+  RBI: '24'
+  SO: '6'
+  AVG: '.279'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Clark
+  nameFirst: Joseph
+  nameClub1: Tallahassee
+  G: '24'
+  AB: '86'
+  R: '18'
+  H: '24'
+  TB: '34'
+  H2B: '4'
+  H3B: '0'
+  HR: '2'
+  SH: '1'
+  SB: '1'
+  BB: '14'
+  HP: '2'
+  RBI: '18'
+  SO: '16'
+  AVG: '.279'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Smith
+  nameFirst: Frank
+  nameClub1: Miami Beach/Greater Miami
+  G: '89'
+  AB: '364'
+  R: '67'
+  H: '101'
+  TB: '145'
+  H2B: '12'
+  H3B: '7'
+  HR: '6'
+  SH: '7'
+  SB: '18'
+  BB: '48'
+  HP: '1'
+  RBI: '36'
+  SO: '58'
+  AVG: '.277'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: DiMott
+  nameFirst: Donald
+  nameClub1: Miami
+  bats: L
+  G: '24'
+  AB: '84'
+  R: '12'
+  H: '23'
+  TB: '31'
+  H2B: '5'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '14'
+  HP: '0'
+  RBI: '19'
+  SO: '7'
+  AVG: '.274'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Cooper
+  nameFirst: Randall
+  nameClub1: Miami Beach/Greater Miami
+  G: '16'
+  AB: '55'
+  R: '8'
+  H: '15'
+  TB: '21'
+  H2B: '1'
+  H3B: '1'
+  HR: '1'
+  SH: '0'
+  SB: '4'
+  BB: '9'
+  HP: '1'
+  RBI: '7'
+  SO: '11'
+  AVG: '.273'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Blinn
+  nameFirst: Ralph
+  nameClub1: Tallahassee
+  G: '10'
+  AB: '22'
+  R: '4'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '1'
+  SO: '6'
+  AVG: '.273'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Stewart
+  nameFirst: Eugene
+  nameClub1: West Palm Beach
+  bats: L
+  G: '81'
+  AB: '294'
+  R: '42'
+  H: '80'
+  TB: '123'
+  H2B: '14'
+  H3B: '1'
+  HR: '9'
+  SH: '8'
+  SB: '0'
+  BB: '46'
+  HP: '5'
+  RBI: '37'
+  SO: '22'
+  AVG: '.272'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Smith
+  nameFirst: Elmer
+  nameClub1: Miami Beach/Greater Miami
+  G: '60'
+  AB: '219'
+  R: '39'
+  H: '59'
+  TB: '83'
+  H2B: '9'
+  H3B: '6'
+  HR: '1'
+  SH: '7'
+  SB: '2'
+  BB: '36'
+  HP: '2'
+  RBI: '36'
+  SO: '51'
+  AVG: '.269'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Stanziani
+  nameFirst: Nicholas
+  nameClub1: Tallahassee
+  G: '26'
+  AB: '97'
+  R: '9'
+  H: '26'
+  TB: '35'
+  H2B: '9'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '12'
+  SO: '12'
+  AVG: '.268'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Diaz
+  nameFirst: Mario
+  nameClub1: 20@Tampa
+  nameClub2: 62@West Palm Beach
+  G: '82'
+  AB: '273'
+  R: '37'
+  H: '73'
+  TB: '96'
+  H2B: '15'
+  H3B: '1'
+  HR: '2'
+  SH: '14'
+  SB: '5'
+  BB: '41'
+  HP: '3'
+  RBI: '43'
+  SO: '20'
+  AVG: '.267'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Gill
+  nameFirst: William
+  nameClub1: Miami
+  G: '25'
+  AB: '98'
+  R: '11'
+  H: '26'
+  TB: '38'
+  H2B: '5'
+  H3B: '2'
+  HR: '1'
+  SH: '1'
+  SB: '1'
+  BB: '9'
+  HP: '0'
+  RBI: '12'
+  SO: '10'
+  AVG: '.265'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Karan
+  nameFirst: Albert
+  nameClub1: Miami
+  G: '15'
+  AB: '49'
+  R: '12'
+  H: '13'
+  TB: '20'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '11'
+  HP: '1'
+  RBI: '10'
+  SO: '9'
+  AVG: '.265'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Stroud
+  nameFirst: Earl P.
+  nameClub1: St. Petersburg
+  G: '54'
+  AB: '201'
+  R: '13'
+  H: '53'
+  TB: '67'
+  H2B: '8'
+  H3B: '3'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '12'
+  HP: '2'
+  RBI: '30'
+  SO: '35'
+  AVG: '.264'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Doolittle
+  nameFirst: Marland
+  nameClub1: Tallahassee
+  G: '49'
+  AB: '167'
+  R: '6'
+  H: '44'
+  TB: '55'
+  H2B: '8'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '15'
+  HP: '2'
+  RBI: '21'
+  SO: '13'
+  AVG: '.263'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Iott
+  nameFirst: Clarence
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '10'
+  AB: '23'
+  R: '6'
+  H: '6'
+  TB: '7'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  AVG: '.261'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Mendenhall
+  nameFirst: James
+  nameClub1: St. Petersburg
+  G: '101'
+  AB: '371'
+  R: '72'
+  H: '96'
+  TB: '142'
+  H2B: '16'
+  H3B: '6'
+  HR: '6'
+  SH: '8'
+  SB: '6'
+  BB: '53'
+  HP: '2'
+  RBI: '60'
+  SO: '47'
+  AVG: '.259'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Wegerek
+  nameFirst: George
+  nameClub1: St. Petersburg
+  G: '95'
+  AB: '392'
+  R: '75'
+  H: '101'
+  TB: '136'
+  H2B: '15'
+  H3B: '4'
+  HR: '4'
+  SH: '9'
+  SB: '11'
+  BB: '51'
+  HP: '0'
+  RBI: '36'
+  SO: '56'
+  AVG: '.258'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Solis
+  nameFirst: Rene
+  nameClub1: West Palm Beach
+  G: '47'
+  AB: '125'
+  R: '15'
+  H: '32'
+  TB: '49'
+  H2B: '9'
+  H3B: '1'
+  HR: '2'
+  SH: '2'
+  SB: '1'
+  BB: '6'
+  HP: '2'
+  RBI: '17'
+  SO: '16'
+  AVG: '.256'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Pacheco
+  nameFirst: Anthony
+  nameClub1: West Palm Beach
+  G: '55'
+  AB: '194'
+  R: '35'
+  H: '49'
+  TB: '65'
+  H2B: '7'
+  H3B: '3'
+  HR: '1'
+  SH: '2'
+  SB: '7'
+  BB: '38'
+  HP: '1'
+  RBI: '17'
+  SO: '18'
+  AVG: '.253'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Gonzalez
+  nameFirst: Orlando
+  nameClub1: West Palm Beach
+  G: '81'
+  AB: '258'
+  R: '28'
+  H: '65'
+  TB: '78'
+  H2B: '8'
+  H3B: '1'
+  HR: '1'
+  SH: '10'
+  SB: '4'
+  BB: '26'
+  HP: '3'
+  RBI: '35'
+  SO: '55'
+  AVG: '.252'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Ellison
+  nameFirst: John
+  nameClub1: Tallahassee
+  bats: L
+  G: '21'
+  AB: '80'
+  R: '11'
+  H: '20'
+  TB: '33'
+  H2B: '4'
+  H3B: '0'
+  HR: '3'
+  SH: '2'
+  SB: '2'
+  BB: '11'
+  HP: '2'
+  RBI: '10'
+  SO: '21'
+  AVG: '.250'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Cox
+  nameFirst: Kenneth
+  nameClub1: Miami
+  bats: L
+  G: '22'
+  AB: '64'
+  R: '17'
+  H: '16'
+  TB: '23'
+  H2B: '2'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '2'
+  BB: '21'
+  HP: '0'
+  RBI: '8'
+  SO: '10'
+  AVG: '.250'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Nunez
+  nameFirst: Gabriel
+  nameClub1: Miami Beach/Greater Miami
+  G: '19'
+  AB: '44'
+  R: '3'
+  H: '11'
+  TB: '11'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '7'
+  HP: '0'
+  RBI: '4'
+  SO: '12'
+  AVG: '.250'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Alsup
+  nameFirst: Jerry
+  nameClub1: Tallahassee
+  G: '17'
+  AB: '36'
+  R: '3'
+  H: '9'
+  TB: '11'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '5'
+  SO: '5'
+  AVG: '.250'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: Miguel
+  nameClub1: 4@St. Petersburg
+  nameClub2: 2@Tampa
+  nameClub3: 6@St. Petersburg
+  G: '12'
+  AB: '24'
+  R: '2'
+  H: '6'
+  TB: '6'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '4'
+  AVG: '.250'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Suarez
+  nameFirst: Armando
+  nameClub1: West Palm Beach
+  G: '47'
+  AB: '138'
+  R: '20'
+  H: '34'
+  TB: '43'
+  H2B: '5'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '22'
+  HP: '0'
+  RBI: '3'
+  SO: '18'
+  AVG: '.246'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Pecou
+  nameFirst: Len
+  nameClub1: Tampa
+  G: '28'
+  AB: '114'
+  R: '27'
+  H: '28'
+  TB: '35'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '1'
+  SB: '12'
+  BB: '16'
+  HP: '2'
+  RBI: '9'
+  SO: '12'
+  AVG: '.246'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Patrick
+  nameFirst: Clifton
+  nameClub1: Tallahassee
+  G: '65'
+  AB: '236'
+  R: '34'
+  H: '57'
+  TB: '79'
+  H2B: '13'
+  H3B: '0'
+  HR: '3'
+  SH: '2'
+  SB: '2'
+  BB: '26'
+  HP: '2'
+  RBI: '27'
+  SO: '53'
+  AVG: '.242'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Smirnoff
+  nameFirst: John
+  nameClub1: Tallahassee
+  G: '12'
+  AB: '50'
+  R: '7'
+  H: '12'
+  TB: '14'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '7'
+  SO: '8'
+  AVG: '.240'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Tuttle
+  nameFirst: Charles
+  nameClub1: Tallahassee
+  G: '37'
+  AB: '142'
+  R: '14'
+  H: '34'
+  TB: '52'
+  H2B: '4'
+  H3B: '1'
+  HR: '4'
+  SH: '0'
+  SB: '3'
+  BB: '19'
+  HP: '0'
+  RBI: '13'
+  SO: '21'
+  AVG: '.239'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Alexson
+  nameFirst: Andrew
+  nameClub1: Miami
+  bats: L
+  G: '24'
+  AB: '88'
+  R: '12'
+  H: '21'
+  TB: '30'
+  H2B: '7'
+  H3B: '1'
+  HR: '0'
+  SH: '2'
+  SB: '3'
+  BB: '8'
+  HP: '3'
+  RBI: '11'
+  SO: '6'
+  AVG: '.239'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Mendez
+  nameFirst: Severino
+  nameClub1: West Palm Beach
+  G: '94'
+  AB: '387'
+  R: '64'
+  H: '92'
+  TB: '133'
+  H2B: '14'
+  H3B: '9'
+  HR: '3'
+  SH: '6'
+  SB: '13'
+  BB: '41'
+  HP: '2'
+  RBI: '33'
+  SO: '85'
+  AVG: '.238'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Gingerella
+  nameFirst: James
+  nameClub1: St. Petersburg
+  G: '23'
+  AB: '72'
+  R: '3'
+  H: '17'
+  TB: '21'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '7'
+  SO: '21'
+  AVG: '.236'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Laskowski
+  nameFirst: Rudy
+  nameClub1: St. Petersburg
+  G: '39'
+  AB: '68'
+  R: '7'
+  H: '16'
+  TB: '23'
+  H2B: '4'
+  H3B: '0'
+  HR: '1'
+  SH: '2'
+  SB: '1'
+  BB: '11'
+  HP: '0'
+  RBI: '8'
+  SO: '8'
+  AVG: '.235'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Rizzo
+  nameFirst: Philip
+  nameClub1: 11@St. Petersburg
+  nameClub2: 4@Tampa
+  G: '15'
+  AB: '47'
+  R: '5'
+  H: '11'
+  TB: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '8'
+  HP: '0'
+  RBI: '2'
+  SO: '13'
+  AVG: '.234'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Moreno
+  nameFirst: Victoriano
+  nameClub1: Miami Beach/Greater Miami
+  G: '32'
+  AB: '95'
+  R: '14'
+  H: '22'
+  TB: '29'
+  H2B: '3'
+  H3B: '2'
+  HR: '0'
+  SH: '4'
+  SB: '4'
+  BB: '17'
+  HP: '0'
+  RBI: '19'
+  SO: '16'
+  AVG: '.232'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Parker
+  nameFirst: Roy
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '20'
+  AB: '70'
+  R: '11'
+  H: '16'
+  TB: '25'
+  H2B: '4'
+  H3B: '1'
+  HR: '1'
+  SH: '1'
+  SB: '4'
+  BB: '10'
+  HP: '0'
+  RBI: '12'
+  SO: '7'
+  AVG: '.229'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Davis
+  nameFirst: Jefferson
+  nameClub1: St. Petersburg
+  G: '18'
+  AB: '35'
+  R: '1'
+  H: '8'
+  TB: '12'
+  H2B: '2'
+  H3B: '1'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '3'
+  AVG: '.229'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Harvey
+  nameFirst: Gene
+  nameClub1: 51@West Palm Beach
+  nameClub2: 48@Tallahassee
+  G: '99'
+  AB: '365'
+  R: '50'
+  H: '83'
+  TB: '99'
+  H2B: '9'
+  H3B: '2'
+  HR: '1'
+  SH: '7'
+  SB: '6'
+  BB: '46'
+  HP: '4'
+  RBI: '38'
+  SO: '50'
+  AVG: '.227'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Widholm
+  nameFirst: Wallace
+  nameClub1: Miami Beach/Greater Miami
+  G: '80'
+  AB: '237'
+  R: '27'
+  H: '53'
+  TB: '85'
+  H2B: '14'
+  H3B: '0'
+  HR: '6'
+  SH: '6'
+  SB: '2'
+  BB: '16'
+  HP: '2'
+  RBI: '37'
+  SO: '32'
+  AVG: '.224'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Holley
+  nameFirst: Art
+  nameClub1: Tallahassee
+  G: '35'
+  AB: '76'
+  R: '8'
+  H: '17'
+  TB: '17'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '2'
+  BB: '8'
+  HP: '0'
+  RBI: '4'
+  SO: '15'
+  AVG: '.224'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Michalec
+  nameFirst: Victor
+  nameClub1: Tallahassee
+  bats: L
+  G: '25'
+  AB: '54'
+  R: '4'
+  H: '12'
+  TB: '15'
+  H2B: '1'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '3'
+  HP: '0'
+  RBI: '3'
+  SO: '10'
+  AVG: '.222'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Russo
+  nameFirst: Louis
+  nameClub1: Tallahassee
+  G: '22'
+  AB: '36'
+  R: '8'
+  H: '8'
+  TB: '12'
+  H2B: '1'
+  H3B: '0'
+  HR: '1'
+  SH: '1'
+  SB: '0'
+  BB: '10'
+  HP: '0'
+  RBI: '7'
+  SO: '4'
+  AVG: '.222'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Langston
+  nameFirst: Thomas
+  nameClub1: St. Petersburg
+  G: '18'
+  AB: '9'
+  R: '3'
+  H: '2'
+  TB: '3'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '4'
+  AVG: '.222'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Cozart
+  nameFirst: Paul
+  nameClub1: Miami
+  G: '20'
+  AB: '73'
+  R: '6'
+  H: '16'
+  TB: '18'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '4'
+  BB: '5'
+  HP: '0'
+  RBI: '11'
+  SO: '12'
+  AVG: '.219'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Hines
+  nameFirst: Robert
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '41'
+  AB: '69'
+  R: '10'
+  H: '15'
+  TB: '16'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '8'
+  SB: '1'
+  BB: '2'
+  HP: '1'
+  RBI: '6'
+  SO: '11'
+  AVG: '.217'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Ayon
+  nameFirst: Jesus
+  nameClub1: West Palm Beach
+  G: '26'
+  AB: '46'
+  R: '7'
+  H: '10'
+  TB: '12'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '5'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '3'
+  SO: '20'
+  AVG: '.217'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Bettin
+  nameFirst: Robert
+  nameClub1: Tallahassee
+  bats: L
+  G: '89'
+  AB: '290'
+  R: '36'
+  H: '62'
+  TB: '72'
+  H2B: '6'
+  H3B: '2'
+  HR: '0'
+  SH: '8'
+  SB: '4'
+  BB: '50'
+  HP: '7'
+  RBI: '30'
+  SO: '34'
+  AVG: '.214'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Staab
+  nameFirst: Carlyle
+  nameClub1: Miami
+  G: '20'
+  AB: '75'
+  R: '14'
+  H: '16'
+  TB: '19'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '3'
+  BB: '8'
+  HP: '1'
+  RBI: '7'
+  SO: '10'
+  AVG: '.213'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Milankovich
+  nameFirst: Stanley
+  nameClub1: St. Petersburg
+  G: '29'
+  AB: '62'
+  R: '8'
+  H: '13'
+  TB: '14'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '9'
+  SO: '8'
+  AVG: '.210'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Venn
+  nameFirst: Thomas
+  nameClub1: West Palm Beach
+  G: '38'
+  AB: '107'
+  R: '15'
+  H: '22'
+  TB: '31'
+  H2B: '1'
+  H3B: '1'
+  HR: '2'
+  SH: '2'
+  SB: '2'
+  BB: '21'
+  HP: '1'
+  RBI: '13'
+  SO: '26'
+  AVG: '.206'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Cavallero
+  nameFirst: Ferdinand
+  nameClub1: 51@West Palm Beach
+  nameClub2: 8@Tallahassee
+  G: '59'
+  AB: '201'
+  R: '14'
+  H: '41'
+  TB: '53'
+  H2B: '7'
+  H3B: '1'
+  HR: '1'
+  SH: '4'
+  SB: '0'
+  BB: '19'
+  HP: '1'
+  RBI: '16'
+  SO: '31'
+  AVG: '.204'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Ross
+  nameFirst: Richard
+  nameClub1: St. Petersburg
+  G: '32'
+  AB: '105'
+  R: '13'
+  H: '21'
+  TB: '27'
+  H2B: '4'
+  H3B: '1'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '7'
+  HP: '0'
+  RBI: '13'
+  SO: '9'
+  AVG: '.200'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Allen
+  nameFirst: William
+  nameClub1: Miami Beach/Greater Miami
+  G: '24'
+  AB: '32'
+  R: '8'
+  H: '6'
+  TB: '10'
+  H2B: '0'
+  H3B: '2'
+  HR: '0'
+  SH: '2'
+  SB: '1'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '12'
+  AVG: '.188'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Votruba
+  nameFirst: George
+  nameClub1: Tallahassee
+  G: '10'
+  AB: '32'
+  R: '5'
+  H: '6'
+  TB: '8'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '9'
+  HP: '1'
+  RBI: '7'
+  SO: '4'
+  AVG: '.188'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Sharp
+  nameFirst: William
+  nameClub1: Tallahassee
+  G: '22'
+  AB: '92'
+  R: '10'
+  H: '17'
+  TB: '19'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '2'
+  BB: '15'
+  HP: '0'
+  RBI: '2'
+  SO: '12'
+  AVG: '.185'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Pollet
+  nameFirst: Thomas
+  nameClub1: Tallahassee
+  G: '41'
+  AB: '54'
+  R: '8'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '4'
+  HP: '1'
+  RBI: '1'
+  SO: '17'
+  AVG: '.185'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: DelMonte
+  nameFirst: Gaspar
+  nameClub1: Miami Beach/Greater Miami
+  G: '30'
+  AB: '28'
+  R: '2'
+  H: '5'
+  TB: '7'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '4'
+  SO: '7'
+  AVG: '.179'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Wilkinson
+  nameFirst: David
+  nameClub1: Tallahassee
+  G: '26'
+  AB: '47'
+  R: '4'
+  H: '8'
+  TB: '9'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '1'
+  HP: '1'
+  RBI: '2'
+  SO: '6'
+  AVG: '.170'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: DeToia
+  nameFirst: Richard
+  nameClub1: St. Petersburg
+  G: '26'
+  AB: '59'
+  R: '4'
+  H: '10'
+  TB: '10'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '10'
+  HP: '1'
+  RBI: '4'
+  SO: '10'
+  AVG: '.169'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Kiernan
+  nameFirst: Fred
+  nameClub1: 3@West Palm Beach
+  nameClub2: 15@Tallahassee
+  G: '18'
+  AB: '68'
+  R: '9'
+  H: '11'
+  TB: '14'
+  H2B: '3'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '0'
+  SO: '11'
+  AVG: '.162'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: Jose
+  nameClub1: 10@Tampa
+  nameClub2: 1@Tallahassee
+  nameClub3: 9@Miami Beach/Greater Miami
+  G: '20'
+  AB: '37'
+  R: '5'
+  H: '6'
+  TB: '8'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '12'
+  AVG: '.162'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Braughler
+  nameFirst: David
+  nameClub1: Tampa
+  G: '19'
+  AB: '63'
+  R: '8'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '13'
+  HP: '0'
+  RBI: '6'
+  SO: '18'
+  AVG: '.159'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Albritton
+  nameFirst: Dempsey
+  nameClub1: Tallahassee
+  G: '10'
+  AB: '39'
+  R: '9'
+  H: '6'
+  TB: '8'
+  H2B: '0'
+  H3B: '1'
+  HR: '0'
+  SH: '0'
+  SB: '1'
+  BB: '6'
+  HP: '0'
+  RBI: '2'
+  SO: '1'
+  AVG: '.154'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Blackburn
+  nameFirst: Gerald
+  nameClub1: St. Petersburg
+  G: '13'
+  AB: '20'
+  R: '1'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '3'
+  SO: '6'
+  AVG: '.150'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: George
+  nameFirst: John
+  nameClub1: Tallahassee
+  G: '19'
+  AB: '68'
+  R: '1'
+  H: '10'
+  TB: '11'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '5'
+  HP: '0'
+  RBI: '6'
+  SO: '5'
+  AVG: '.147'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Collantes
+  nameFirst: Enrique
+  nameClub1: West Palm Beach
+  G: '25'
+  AB: '48'
+  R: '5'
+  H: '7'
+  TB: '8'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '4'
+  SB: '1'
+  BB: '8'
+  HP: '0'
+  RBI: '2'
+  SO: '15'
+  AVG: '.146'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Chretien
+  nameFirst: Ernest
+  nameClub1: Tallahassee
+  G: '10'
+  AB: '28'
+  R: '1'
+  H: '4'
+  TB: '4'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '1'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '5'
+  AVG: '.143'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Kowalski
+  nameFirst: Edward
+  nameClub1: Miami Beach/Greater Miami
+  G: '19'
+  AB: '37'
+  R: '4'
+  H: '5'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '10'
+  AVG: '.135'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Renn
+  nameFirst: Larry
+  nameClub1: Tallahassee
+  G: '20'
+  AB: '15'
+  R: '2'
+  H: '2'
+  TB: '4'
+  H2B: '2'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '1'
+  HP: '0'
+  RBI: '2'
+  SO: '4'
+  AVG: '.133'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Stevens
+  nameFirst: Walter
+  nameClub1: Tallahassee
+  bats: L
+  G: '33'
+  AB: '41'
+  R: '5'
+  H: '5'
+  TB: '6'
+  H2B: '1'
+  H3B: '0'
+  HR: '0'
+  SH: '1'
+  SB: '0'
+  BB: '7'
+  HP: '1'
+  RBI: '2'
+  SO: '14'
+  AVG: '.122'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Caplette
+  nameFirst: Richard
+  nameClub1: Tallahassee
+  G: '25'
+  AB: '34'
+  R: '2'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '0'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '0'
+  SO: '18'
+  AVG: '.088'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: Rafael
+  nameClub1: West Palm Beach
+  G: '36'
+  AB: '36'
+  R: '0'
+  H: '3'
+  TB: '3'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '2'
+  HP: '0'
+  RBI: '1'
+  SO: '8'
+  AVG: '.083'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Chavez
+  nameFirst: Alejandro
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '21'
+  AB: '13'
+  R: '4'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '3'
+  SB: '0'
+  BB: '7'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.077'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lussier
+  nameFirst: Edmund
+  nameClub1: West Palm Beach
+  G: '18'
+  AB: '27'
+  R: '1'
+  H: '2'
+  TB: '2'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '6'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '0'
+  SO: '7'
+  AVG: '.074'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Witherspoon
+  nameFirst: Lester
+  nameClub1: West Palm Beach
+  G: '11'
+  AB: '38'
+  R: '6'
+  H: '2'
+  TB: '5'
+  H2B: '0'
+  H3B: '0'
+  HR: '1'
+  SH: '0'
+  SB: '1'
+  BB: '5'
+  HP: '1'
+  RBI: '1'
+  SO: '6'
+  AVG: '.053'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Hernandez
+  nameFirst: Henrique
+  nameClub1: Miami Beach/Greater Miami
+  G: '31'
+  AB: '26'
+  R: '5'
+  H: '1'
+  TB: '1'
+  H2B: '0'
+  H3B: '0'
+  HR: '0'
+  SH: '2'
+  SB: '0'
+  BB: '4'
+  HP: '0'
+  RBI: '1'
+  SO: '11'
+  AVG: '.038'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Baker
+  nameFirst: Floyd
+  nameClub1: Miami Beach/Greater Miami
+  G: '3'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Bosch
+  nameFirst: Ortelio
+  nameClub1: Miami Beach/Greater Miami
+  G: '2'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Brittin
+  nameFirst: Jack
+  nameClub1: Miami Beach/Greater Miami
+  G: '7'
+  AB: '11'
+  AVG: '.364'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Cos
+  nameFirst: Harvey
+  nameClub1: Miami Beach/Greater Miami
+  G: '5'
+  AB: '5'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Exter
+  nameFirst: Dave
+  nameClub1: Miami Beach/Greater Miami
+  G: '2'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Henry
+  nameFirst: Silvester
+  nameClub1: Miami Beach/Greater Miami
+  G: '9'
+  AB: '9'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Mendoza
+  nameFirst: Rigoberto
+  nameClub1: Miami Beach/Greater Miami
+  G: '3'
+  AB: '2'
+  AVG: '.500'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Pagley
+  nameFirst: Vincent
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '4'
+  AB: '3'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Phillips
+  nameFirst: Reuben
+  nameClub1: Miami Beach/Greater Miami
+  G: '5'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Quintana
+  nameFirst: Al
+  nameClub1: Miami Beach/Greater Miami
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Rubin
+  nameFirst: Marvin
+  nameClub1: Miami Beach/Greater Miami
+  bats: L
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Colombo
+  nameFirst: Louis
+  nameClub1: Miami
+  bats: L
+  G: '4'
+  AB: '17'
+  AVG: '.471'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Curran
+  nameFirst: John
+  nameClub1: Miami
+  G: '6'
+  AB: '11'
+  AVG: '.091'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Dixon
+  nameFirst: William R.
+  nameClub1: Miami
+  G: '3'
+  AB: '3'
+  AVG: '.333'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Gushanas
+  nameFirst: Joseph
+  nameClub1: Miami
+  bats: L
+  G: '6'
+  AB: '9'
+  AVG: '.222'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Pender
+  nameFirst: Wilbert
+  nameClub1: Miami
+  G: '4'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Pillow
+  nameFirst: Clarence
+  nameClub1: Miami
+  G: '3'
+  AB: '10'
+  AVG: '.600'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Raynor
+  nameFirst: Arthur
+  nameClub1: Miami
+  G: '5'
+  AB: '7'
+  AVG: '.286'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Ready
+  nameFirst: Charles
+  nameClub1: Miami
+  G: '6'
+  AB: '16'
+  AVG: '.188'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Seijas
+  nameFirst: Arturo
+  nameClub1: Miami
+  G: '7'
+  AB: '13'
+  AVG: '.308'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Spier
+  nameFirst: Robert
+  nameClub1: Miami
+  bats: L
+  G: '8'
+  AB: '13'
+  AVG: '.385'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Turek
+  nameFirst: Donald
+  nameClub1: Miami
+  bats: L
+  G: '4'
+  AB: '3'
+  AVG: '.333'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Utley
+  nameFirst: George
+  nameClub1: Miami
+  G: '7'
+  AB: '7'
+  AVG: '.286'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Wasconis
+  nameFirst: George
+  nameClub1: Miami
+  G: '7'
+  AB: '10'
+  AVG: '.200'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Young
+  nameFirst: Oscar
+  nameClub1: Miami
+  G: '7'
+  AB: '25'
+  AVG: '.480'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Brackett
+  nameFirst: Gerald
+  nameClub1: St. Petersburg
+  G: '7'
+  AB: '6'
+  AVG: '.167'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Corbissero
+  nameFirst: Carmen
+  nameClub1: St. Petersburg
+  bats: L
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Dodgin
+  nameFirst: Junior
+  nameClub1: St. Petersburg
+  G: '4'
+  AB: '13'
+  AVG: '.154'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Holloman
+  nameFirst: Alva
+  nameClub1: St. Petersburg
+  G: '9'
+  AB: '12'
+  AVG: '.167'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Huggins
+  nameFirst: Richard
+  nameClub1: St. Petersburg
+  G: '4'
+  AB: '10'
+  AVG: '.200'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Jent
+  nameFirst: Denis
+  nameClub1: St. Petersburg
+  bats: L
+  G: '9'
+  AB: '19'
+  AVG: '.421'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Johnson
+  nameFirst: Roy
+  nameClub1: St. Petersburg
+  bats: L
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Kennard
+  nameFirst: Eugene
+  nameClub1: St. Petersburg
+  G: '2'
+  AB: '1'
+  AVG: '1.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Kovich
+  nameFirst: Milan
+  nameClub1: St. Petersburg
+  G: '1'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lambstaff
+  nameFirst: T.
+  nameClub1: St. Petersburg
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lovett
+  nameFirst: William
+  nameClub1: St. Petersburg
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Manooch
+  nameFirst: Ted
+  nameClub1: St. Petersburg
+  G: '1'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Marino
+  nameFirst: Joseph
+  nameClub1: St. Petersburg
+  bats: L
+  G: '9'
+  AB: '17'
+  AVG: '.176'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Philip
+  nameFirst: Philip
+  nameClub1: St. Petersburg
+  G: '8'
+  AB: '21'
+  AVG: '.095'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Shillings
+  nameFirst: Alger
+  nameClub1: St. Petersburg
+  G: '7'
+  AB: '14'
+  AVG: '.214'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Simanovsky
+  nameFirst: Frank
+  nameClub1: St. Petersburg
+  bats: L
+  G: '2'
+  AB: '1'
+  AVG: '1.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Simons
+  nameFirst: James
+  nameClub1: St. Petersburg
+  G: '4'
+  AB: '9'
+  AVG: '.333'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Williamson
+  nameFirst: Jack
+  nameClub1: St. Petersburg
+  G: '3'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Aguiar
+  nameFirst: Jose
+  nameClub1: West Palm Beach
+  G: '2'
+  AB: '3'
+  AVG: '.333'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Balciulis
+  nameFirst: Charles
+  nameClub1: West Palm Beach
+  G: '1'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Celiberti
+  nameFirst: Frank
+  nameClub1: West Palm Beach
+  G: '5'
+  AB: '4'
+  AVG: '.250'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Conroy
+  nameFirst: William
+  nameClub1: West Palm Beach
+  G: '5'
+  AB: '17'
+  AVG: '.294'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Gonzales
+  nameFirst: Rudy
+  nameClub1: West Palm Beach
+  G: '8'
+  AB: '5'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Hogarth
+  nameFirst: Leeson
+  nameClub1: West Palm Beach
+  G: '2'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: George
+  nameClub1: West Palm Beach
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: McCulloch
+  nameFirst: John
+  nameClub1: West Palm Beach
+  G: '3'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Perez
+  nameFirst: Eusebio
+  nameClub1: West Palm Beach
+  bats: L
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Ruiz
+  nameFirst: Carmelo
+  nameClub1: West Palm Beach
+  G: '6'
+  AB: '10'
+  AVG: '.200'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Sulkowski
+  nameFirst: Frank
+  nameClub1: West Palm Beach
+  G: '1'
+  AB: '2'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Carolan
+  nameFirst: Joseph
+  nameClub1: Tallahassee
+  G: '1'
+  AB: '5'
+  AVG: '.200'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Chergey
+  nameFirst: Paul
+  nameClub1: Tallahassee
+  G: '5'
+  AB: '6'
+  AVG: '.167'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Corona
+  nameFirst: Joseph
+  nameClub1: Tallahassee
+  G: '5'
+  AB: '6'
+  AVG: '.167'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Garcia
+  nameFirst: Manuel
+  nameClub1: Tallahassee
+  G: '5'
+  AB: '5'
+  AVG: '.200'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: King
+  nameFirst: Hugh
+  nameClub1: Tallahassee
+  G: '4'
+  AB: '8'
+  AVG: '.125'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Moore
+  nameClub1: Tallahassee
+  G: '1'
+  AB: '5'
+  AVG: '.400'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Richardson
+  nameFirst: Sylvester
+  nameClub1: Tallahassee
+  G: '3'
+  AB: '11'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Siff
+  nameFirst: Allen
+  nameClub1: Tallahassee
+  G: '6'
+  AB: '7'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Sowins
+  nameClub1: Tallahassee
+  G: '2'
+  AB: '6'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Villamea
+  nameFirst: Paul
+  nameClub1: Tallahassee
+  G: '7'
+  AB: '20'
+  AVG: '.100'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Wood
+  nameFirst: Arthur
+  nameClub1: Tallahassee
+  G: '2'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Zardon
+  nameFirst: Antonio
+  nameClub1: Tallahassee
+  G: '5'
+  AB: '20'
+  AVG: '.300'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Arroyo
+  nameFirst: Thomas
+  nameClub1: Tampa
+  G: '8'
+  AB: '17'
+  AVG: '.176'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Borden
+  nameFirst: Harold
+  nameClub1: Tampa
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Chiquine
+  nameFirst: Mickey
+  nameClub1: Tampa
+  G: '9'
+  AB: '16'
+  AVG: '.188'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Delgado
+  nameFirst: Bob
+  nameClub1: Tampa
+  G: '6'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Diaz
+  nameFirst: Manuel
+  nameClub1: Tampa
+  G: '2'
+  AB: '4'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Garcia
+  nameFirst: Fred
+  nameClub1: Tampa
+  bats: L
+  G: '7'
+  AB: '21'
+  AVG: '.143'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Hidalgo
+  nameFirst: Manuel
+  nameClub1: Tampa
+  G: '9'
+  AB: '39'
+  AVG: '.256'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Iturralde
+  nameFirst: Philip
+  nameClub1: Tampa
+  G: '6'
+  AB: '18'
+  AVG: '.056'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: James
+  nameFirst: Ed
+  nameClub1: Tampa
+  G: '2'
+  AB: '5'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Knodel
+  nameFirst: Len
+  nameClub1: Tampa
+  G: '1'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Martin
+  nameFirst: Alfred
+  nameClub1: Tampa
+  bats: L
+  G: '1'
+  AB: '1'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Martinez
+  nameFirst: Rogelio
+  nameClub1: Tampa
+  G: '4'
+  AB: '4'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Matthewson
+  nameFirst: Dale
+  nameClub1: Tampa
+  G: '7'
+  AB: '11'
+  AVG: '.364'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Morales
+  nameFirst: Eubriel
+  nameClub1: Tampa
+  bats: L
+  G: '1'
+  AB: '1'
+  AVG: '1.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Nunez
+  nameFirst: Gil
+  nameClub1: Tampa
+  G: '2'
+  AB: '8'
+  AVG: '.125'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Seaone
+  nameFirst: Ike
+  nameClub1: Tampa
+  G: '7'
+  AB: '18'
+  AVG: '.167'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Strickland
+  nameFirst: Dave
+  nameClub1: Tampa
+  G: '2'
+  AB: '1'
+  AVG: '1.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Ullrich
+  nameFirst: Santiago
+  nameClub1: Tampa
+  G: '2'
+  AB: '2'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Villarreal
+  nameFirst: Gilberto
+  nameClub1: Tampa
+  G: '9'
+  AB: '33'
+  AVG: '.303'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Yello
+  nameFirst: Raymond
+  nameClub1: Tampa
+  G: '1'
+  AB: '0'
+  AVG: '.000'
+- year: '1954'
+  nameLeague: Florida International League
+  nameLast: Zazueta
+  nameFirst: Bob
+  nameClub1: Tampa
+  G: '7'
+  AB: '6'
+  AVG: '.333'

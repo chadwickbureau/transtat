@@ -1,0 +1,110 @@
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: regular
+  W: '85'
+  L: '57'
+  PCT: '.599'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: regular
+  W: '80'
+  L: '62'
+  PCT: '.563'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: regular
+  W: '80'
+  L: '62'
+  PCT: '.563'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: regular
+  W: '69'
+  L: '71'
+  PCT: '.493'
+  RANK: '4'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Winston-Salem
+  phase: regular
+  W: '68'
+  L: '72'
+  PCT: '.486'
+  RANK: '5'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Martinsville
+  phase: regular
+  W: '67'
+  L: '75'
+  PCT: '.472'
+  RANK: '6'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Danville
+  phase: regular
+  W: '60'
+  L: '82'
+  PCT: '.423'
+  RANK: '7'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Leaksville
+  phase: regular
+  W: '57'
+  L: '85'
+  PCT: '.401'
+  RANK: '8'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Greensboro
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Burlington
+  phase: semifinal
+  division: Semifinal 2
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Raleigh
+  phase: final
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1946'
+  nameLeague: Carolina League
+  nameClub: Durham
+  phase: final
+  W: '2'
+  L: '4'
+  RANK: '2'

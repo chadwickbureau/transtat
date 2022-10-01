@@ -1,0 +1,80 @@
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: New Iberia
+  Port Arthur: '13'
+  Crowley: '13'
+  Lake Charles: '14'
+  Baton Rouge: '13'
+  Alexandria: '10'
+  Thibodaux: '13'
+  Lafayette: '9'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Port Arthur
+  New Iberia: '7'
+  Crowley: '11'
+  Lake Charles: '13'
+  Baton Rouge: '13'
+  Alexandria: '14'
+  Thibodaux: '14'
+  Lafayette: '11'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Crowley
+  New Iberia: '7'
+  Port Arthur: '9'
+  Lake Charles: '12'
+  Baton Rouge: '13'
+  Alexandria: '11'
+  Thibodaux: '11'
+  Lafayette: '14'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Lake Charles
+  New Iberia: '6'
+  Port Arthur: '7'
+  Crowley: '8'
+  Baton Rouge: '8'
+  Alexandria: '13'
+  Thibodaux: '12'
+  Lafayette: '13'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Baton Rouge
+  New Iberia: '7'
+  Port Arthur: '7'
+  Crowley: '7'
+  Lake Charles: '12'
+  Alexandria: '11'
+  Thibodaux: '10'
+  Lafayette: '12'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Alexandria
+  New Iberia: '10'
+  Port Arthur: '6'
+  Crowley: '9'
+  Lake Charles: '6'
+  Baton Rouge: '9'
+  Thibodaux: '11'
+  Lafayette: '14'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Thibodaux
+  New Iberia: '7'
+  Port Arthur: '6'
+  Crowley: '9'
+  Lake Charles: '8'
+  Baton Rouge: '10'
+  Alexandria: '9'
+  Lafayette: '12'
+- year: '1954'
+  nameLeague: Evangeline League
+  nameClub: Lafayette
+  New Iberia: '11'
+  Port Arthur: '9'
+  Crowley: '6'
+  Lake Charles: '7'
+  Baton Rouge: '8'
+  Alexandria: '6'
+  Thibodaux: '8'

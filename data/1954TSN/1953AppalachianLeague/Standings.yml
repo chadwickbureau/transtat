@@ -1,0 +1,176 @@
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: regular/first
+  W: '43'
+  L: '18'
+  T: '1'
+  PCT: '.705'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular/first
+  W: '41'
+  L: '22'
+  T: '1'
+  PCT: '.651'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: regular/first
+  W: '29'
+  L: '31'
+  T: '1'
+  PCT: '.483'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular/first
+  W: '26'
+  L: '36'
+  T: '0'
+  PCT: '.419'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Wytheville
+  phase: regular/first
+  W: '25'
+  L: '36'
+  T: '2'
+  PCT: '.410'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: regular/first
+  W: '20'
+  L: '41'
+  T: '1'
+  PCT: '.328'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular/second
+  W: '43'
+  L: '21'
+  T: '2'
+  PCT: '.672'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: regular/second
+  W: '39'
+  L: '25'
+  T: '1'
+  PCT: '.609'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: regular/second
+  W: '37'
+  L: '28'
+  T: '1'
+  PCT: '.569'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular/second
+  W: '28'
+  L: '36'
+  T: '1'
+  PCT: '.438'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: regular/second
+  W: '23'
+  L: '41'
+  T: '2'
+  PCT: '.359'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Wytheville
+  phase: regular/second
+  W: '23'
+  L: '42'
+  T: '1'
+  PCT: '.354'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: regular
+  W: '84'
+  L: '43'
+  T: '3'
+  PCT: '.661'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: regular
+  W: '82'
+  L: '43'
+  T: '2'
+  PCT: '.656'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Pulaski
+  phase: regular
+  W: '66'
+  L: '59'
+  T: '2'
+  PCT: '.528'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bristol
+  phase: regular
+  W: '54'
+  L: '72'
+  T: '1'
+  PCT: '.429'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Wytheville
+  phase: regular
+  W: '48'
+  L: '78'
+  T: '3'
+  PCT: '.381'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Bluefield
+  phase: regular
+  W: '43'
+  L: '82'
+  T: '3'
+  PCT: '.344'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Welch
+  phase: final
+  W: '3'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Appalachian League
+  nameClub: Johnson City
+  phase: final
+  W: '0'
+  L: '3'
+  RANK: '2'

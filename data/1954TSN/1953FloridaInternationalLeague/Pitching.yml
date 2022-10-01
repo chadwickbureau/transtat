@@ -1,0 +1,1480 @@
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Iott
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '30'
+  GS: '24'
+  CG: '15'
+  SHO: '6'
+  W: '15'
+  L: '6'
+  PCT: '.714'
+  IP: '176'
+  H: '138'
+  HR: '10'
+  R: '59'
+  ER: '39'
+  BB: '85'
+  SO: '139'
+  HB: '3'
+  WP: '2'
+  ERA: '1.99'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Elko
+  nameClub1: Fort Lauderdale
+  GP: '27'
+  GS: '9'
+  CG: '4'
+  SHO: '0'
+  W: '7'
+  L: '5'
+  PCT: '.583'
+  IP: '102'
+  H: '93'
+  HR: '5'
+  R: '48'
+  ER: '30'
+  BB: '55'
+  SO: '48'
+  HB: '3'
+  WP: '3'
+  ERA: '2.65'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Beardslee
+  nameClub1: West Palm Beach
+  GP: '15'
+  GS: '13'
+  CG: '7'
+  SHO: '1'
+  W: '6'
+  L: '5'
+  PCT: '.545'
+  IP: '105'
+  H: '89'
+  HR: '1'
+  R: '36'
+  ER: '31'
+  BB: '49'
+  SO: '72'
+  HB: '1'
+  WP: '2'
+  ERA: '2.66'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Hayling
+  nameClub1: Miami
+  GP: '16'
+  GS: '11'
+  CG: '7'
+  SHO: '0'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '91'
+  H: '70'
+  HR: '2'
+  R: '44'
+  ER: '27'
+  BB: '67'
+  SO: '56'
+  HB: '1'
+  WP: '1'
+  ERA: '2.67'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Seijas
+  nameClub1: Miami
+  GP: '34'
+  GS: '18'
+  CG: '9'
+  SHO: '2'
+  W: '10'
+  L: '7'
+  PCT: '.588'
+  IP: '158'
+  H: '166'
+  HR: '5'
+  R: '67'
+  ER: '47'
+  BB: '67'
+  SO: '42'
+  HB: '3'
+  WP: '3'
+  ERA: '2.68'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Harris
+  nameClub1: West Palm Beach
+  GP: '43'
+  GS: '33'
+  CG: '29'
+  SHO: '3'
+  W: '18'
+  L: '16'
+  PCT: '.529'
+  IP: '280'
+  H: '275'
+  HR: '11'
+  R: '98'
+  ER: '84'
+  BB: '77'
+  SO: '127'
+  HB: '6'
+  WP: '7'
+  ERA: '2.70'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: V.
+  nameClub1: Havana
+  GP: '22'
+  GS: '17'
+  CG: '11'
+  SHO: '3'
+  W: '8'
+  L: '11'
+  PCT: '.421'
+  IP: '153'
+  H: '145'
+  HR: '4'
+  R: '68'
+  ER: '46'
+  BB: '82'
+  SO: '88'
+  HB: '4'
+  WP: '8'
+  ERA: '2.71'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Brown
+  nameClub1: Fort Lauderdale
+  GP: '41'
+  GS: '24'
+  CG: '14'
+  SHO: '1'
+  W: '18'
+  L: '8'
+  PCT: '.692'
+  IP: '217'
+  H: '168'
+  HR: '6'
+  R: '97'
+  ER: '67'
+  BB: '164'
+  SO: '151'
+  HB: '4'
+  WP: '4'
+  ERA: '2.78'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Currie
+  nameClub1: Fort Lauderdale
+  GP: '40'
+  GS: '26'
+  CG: '13'
+  SHO: '2'
+  W: '16'
+  L: '8'
+  PCT: '.667'
+  IP: '211'
+  H: '188'
+  HR: '15'
+  R: '91'
+  ER: '69'
+  BB: '85'
+  SO: '91'
+  HB: '3'
+  WP: '5'
+  ERA: '2.94'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Perez
+  nameClub1: Havana
+  throws: L
+  GP: '31'
+  GS: '25'
+  CG: '14'
+  SHO: '5'
+  W: '13'
+  L: '12'
+  PCT: '.520'
+  IP: '202'
+  H: '191'
+  HR: '8'
+  R: '86'
+  ER: '66'
+  BB: '91'
+  SO: '85'
+  HB: '4'
+  WP: '6'
+  ERA: '2.94'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Pascual
+  nameFirst: Cam.
+  nameClub1: Havana
+  GP: '25'
+  GS: '17'
+  CG: '13'
+  SHO: '3'
+  W: '10'
+  L: '6'
+  PCT: '.625'
+  IP: '141'
+  H: '126'
+  HR: '8'
+  R: '61'
+  ER: '47'
+  BB: '68'
+  SO: '93'
+  HB: '4'
+  WP: '2'
+  ERA: '3.00'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Long
+  nameClub1: St. Petersburg
+  GP: '20'
+  GS: '12'
+  CG: '7'
+  SHO: '3'
+  W: '7'
+  L: '3'
+  PCT: '.700'
+  IP: '103'
+  H: '74'
+  HR: '1'
+  R: '40'
+  ER: '35'
+  BB: '45'
+  SO: '55'
+  HB: '1'
+  WP: '7'
+  ERA: '3.06'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Tosheff
+  nameClub1: Tampa
+  GP: '11'
+  GS: '8'
+  CG: '7'
+  SHO: '1'
+  W: '3'
+  L: '5'
+  PCT: '.375'
+  IP: '70'
+  H: '73'
+  HR: '1'
+  R: '36'
+  ER: '24'
+  BB: '37'
+  SO: '25'
+  HB: '2'
+  WP: '2'
+  ERA: '3.09'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Bernier
+  nameClub1: Miami
+  throws: L
+  GP: '36'
+  GS: '12'
+  CG: '8'
+  SHO: '1'
+  W: '11'
+  L: '5'
+  PCT: '.688'
+  IP: '127'
+  H: '114'
+  HR: '5'
+  R: '58'
+  ER: '44'
+  BB: '53'
+  SO: '64'
+  HB: '4'
+  WP: '3'
+  ERA: '3.12'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lovell
+  nameClub1: Miami
+  GP: '43'
+  GS: '21'
+  CG: '6'
+  SHO: '2'
+  W: '15'
+  L: '10'
+  PCT: '.600'
+  IP: '183'
+  H: '157'
+  HR: '0'
+  R: '83'
+  ER: '64'
+  BB: '140'
+  SO: '74'
+  HB: '7'
+  WP: '2'
+  ERA: '3.15'
+  BK: '1'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Palmer
+  nameClub1: 11@Fort Lauderdale
+  nameClub2: 28@St. Petersburg
+  GP: '39'
+  GS: '27'
+  CG: '16'
+  SHO: '2'
+  W: '13'
+  L: '12'
+  PCT: '.520'
+  IP: '225'
+  H: '231'
+  HR: '17'
+  R: '103'
+  ER: '80'
+  BB: '43'
+  SO: '79'
+  HB: '5'
+  WP: '3'
+  ERA: '3.20'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Matthewson
+  nameClub1: Tampa
+  GP: '38'
+  GS: '27'
+  CG: '21'
+  SHO: '2'
+  W: '15'
+  L: '12'
+  PCT: '.556'
+  IP: '244'
+  H: '210'
+  HR: '17'
+  R: '102'
+  ER: '88'
+  BB: '80'
+  SO: '141'
+  HB: '2'
+  WP: '8'
+  ERA: '3.25'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Hechavarria
+  nameClub1: Havana
+  GP: '39'
+  GS: '20'
+  CG: '7'
+  SHO: '2'
+  W: '10'
+  L: '12'
+  PCT: '.455'
+  IP: '191'
+  H: '197'
+  HR: '6'
+  R: '96'
+  ER: '71'
+  BB: '105'
+  SO: '116'
+  HB: '4'
+  WP: '13'
+  ERA: '3.35'
+  BK: '2'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Nothe
+  nameClub1: Fort Lauderdale
+  throws: L
+  GP: '38'
+  GS: '24'
+  CG: '8'
+  SHO: '2'
+  W: '15'
+  L: '7'
+  PCT: '.682'
+  IP: '194'
+  H: '193'
+  HR: '11'
+  R: '98'
+  ER: '74'
+  BB: '88'
+  SO: '128'
+  HB: '9'
+  WP: '7'
+  ERA: '3.43'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Jent
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '44'
+  GS: '20'
+  CG: '8'
+  SHO: '4'
+  W: '13'
+  L: '9'
+  PCT: '.591'
+  IP: '169'
+  H: '162'
+  HR: '5'
+  R: '76'
+  ER: '65'
+  BB: '85'
+  SO: '115'
+  HB: '7'
+  WP: '5'
+  ERA: '3.46'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Job
+  nameClub1: West Palm Beach
+  GP: '24'
+  GS: '15'
+  CG: '10'
+  SHO: '0'
+  W: '7'
+  L: '8'
+  PCT: '.467'
+  IP: '133'
+  H: '115'
+  HR: '2'
+  R: '63'
+  ER: '52'
+  BB: '81'
+  SO: '80'
+  HB: '5'
+  WP: '8'
+  ERA: '3.52'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Raynor
+  nameClub1: Miami
+  GP: '23'
+  GS: '19'
+  CG: '11'
+  SHO: '2'
+  W: '11'
+  L: '7'
+  PCT: '.611'
+  IP: '152'
+  H: '139'
+  HR: '4'
+  R: '70'
+  ER: '60'
+  BB: '84'
+  SO: '66'
+  HB: '2'
+  WP: '3'
+  ERA: '3.55'
+  BK: '3'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Baxter
+  nameClub1: Tampa
+  GP: '25'
+  GS: '3'
+  CG: '1'
+  SHO: '0'
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  IP: '74'
+  H: '89'
+  HR: '1'
+  R: '50'
+  ER: '30'
+  BB: '57'
+  SO: '30'
+  HB: '1'
+  WP: '6'
+  ERA: '3.65'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Sulkowski
+  nameClub1: West Palm Beach
+  throws: L
+  GP: '38'
+  GS: '25'
+  CG: '10'
+  SHO: '2'
+  W: '9'
+  L: '12'
+  PCT: '.429'
+  IP: '172'
+  H: '209'
+  HR: '10'
+  R: '97'
+  ER: '70'
+  BB: '89'
+  SO: '62'
+  HB: '9'
+  WP: '2'
+  ERA: '3.66'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Chandler
+  nameClub1: Fort Lauderdale
+  throws: L
+  GP: '32'
+  GS: '15'
+  CG: '5'
+  SHO: '0'
+  W: '10'
+  L: '3'
+  PCT: '.769'
+  IP: '125'
+  H: '122'
+  HR: '8'
+  R: '70'
+  ER: '51'
+  BB: '56'
+  SO: '50'
+  HB: '0'
+  WP: '9'
+  ERA: '3.67'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Milankovich
+  nameClub1: St. Petersburg
+  GP: '28'
+  GS: '18'
+  CG: '8'
+  SHO: '0'
+  W: '9'
+  L: '9'
+  PCT: '.500'
+  IP: '146'
+  H: '144'
+  HR: '5'
+  R: '72'
+  ER: '60'
+  BB: '68'
+  SO: '88'
+  HB: '8'
+  WP: '5'
+  ERA: '3.70'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Naranjo
+  nameClub1: Havana
+  throws: L
+  GP: '29'
+  GS: '17'
+  CG: '7'
+  SHO: '0'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '148'
+  H: '168'
+  HR: '6'
+  R: '77'
+  ER: '62'
+  BB: '60'
+  SO: '83'
+  HB: '1'
+  WP: '7'
+  ERA: '3.77'
+  BK: '2'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Pascual
+  nameFirst: Car.
+  nameClub1: Havana
+  GP: '26'
+  GS: '18'
+  CG: '9'
+  SHO: '1'
+  W: '7'
+  L: '12'
+  PCT: '.368'
+  IP: '129'
+  H: '129'
+  HR: '4'
+  R: '75'
+  ER: '54'
+  BB: '92'
+  SO: '80'
+  HB: '6'
+  WP: '5'
+  ERA: '3.77'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Mosley
+  nameClub1: Miami
+  GP: '22'
+  GS: '9'
+  CG: '4'
+  SHO: '0'
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  IP: '71'
+  H: '61'
+  HR: '2'
+  R: '34'
+  ER: '30'
+  BB: '57'
+  SO: '29'
+  HB: '3'
+  WP: '2'
+  ERA: '3.80'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Amor
+  nameClub1: St. Petersburg
+  GP: '43'
+  GS: '28'
+  CG: '10'
+  SHO: '2'
+  W: '13'
+  L: '13'
+  PCT: '.500'
+  IP: '220'
+  H: '225'
+  HR: '10'
+  R: '116'
+  ER: '94'
+  BB: '86'
+  SO: '102'
+  HB: '5'
+  WP: '2'
+  ERA: '3.85'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Smith
+  nameClub1: West Palm Beach
+  GP: '36'
+  GS: '19'
+  CG: '9'
+  SHO: '0'
+  W: '5'
+  L: '15'
+  PCT: '.250'
+  IP: '173'
+  H: '172'
+  HR: '4'
+  R: '97'
+  ER: '76'
+  BB: '107'
+  SO: '66'
+  HB: '0'
+  WP: '10'
+  ERA: '3.95'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Chester
+  nameClub1: Tampa
+  GP: '20'
+  GS: '4'
+  CG: '0'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '52'
+  H: '50'
+  HR: '1'
+  R: '28'
+  ER: '23'
+  BB: '47'
+  SO: '25'
+  HB: '4'
+  WP: '2'
+  ERA: '3.98'
+  BK: '1'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Martin
+  nameClub1: Tampa
+  GP: '19'
+  GS: '14'
+  CG: '7'
+  SHO: '0'
+  W: '2'
+  L: '11'
+  PCT: '.154'
+  IP: '108'
+  H: '110'
+  HR: '7'
+  R: '63'
+  ER: '49'
+  BB: '76'
+  SO: '59'
+  HB: '3'
+  WP: '2'
+  ERA: '4.08'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Boyette
+  nameClub1: West Palm Beach
+  GP: '14'
+  GS: '10'
+  CG: '5'
+  SHO: '0'
+  W: '2'
+  L: '9'
+  PCT: '.182'
+  IP: '80'
+  H: '93'
+  HR: '4'
+  R: '52'
+  ER: '37'
+  BB: '42'
+  SO: '21'
+  HB: '5'
+  WP: '2'
+  ERA: '4.16'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Gushanas
+  nameClub1: Miami
+  throws: L
+  GP: '36'
+  GS: '23'
+  CG: '8'
+  SHO: '1'
+  W: '13'
+  L: '8'
+  PCT: '.619'
+  IP: '191'
+  H: '168'
+  HR: '7'
+  R: '121'
+  ER: '89'
+  BB: '143'
+  SO: '91'
+  HB: '8'
+  WP: '5'
+  ERA: '4.19'
+  BK: '1'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: E.
+  nameClub1: Miami
+  GP: '26'
+  GS: '13'
+  CG: '1'
+  SHO: '0'
+  W: '5'
+  L: '6'
+  PCT: '.455'
+  IP: '101'
+  H: '85'
+  HR: '6'
+  R: '61'
+  ER: '47'
+  BB: '82'
+  SO: '30'
+  HB: '10'
+  WP: '2'
+  ERA: '4.19'
+  BK: '4'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Greene
+  nameClub1: St. Petersburg
+  GP: '14'
+  GS: '8'
+  CG: '2'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '59'
+  H: '63'
+  HR: '4'
+  R: '36'
+  ER: '29'
+  BB: '29'
+  SO: '11'
+  HB: '2'
+  WP: '1'
+  ERA: '4.42'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Vidal
+  nameClub1: St. Petersburg
+  throws: L
+  GP: '18'
+  GS: '16'
+  CG: '8'
+  SHO: '0'
+  W: '8'
+  L: '6'
+  PCT: '.571'
+  IP: '113'
+  H: '117'
+  HR: '8'
+  R: '67'
+  ER: '56'
+  BB: '63'
+  SO: '61'
+  HB: '3'
+  WP: '4'
+  ERA: '4.46'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Irizarry
+  nameClub1: St. Petersburg
+  GP: '10'
+  GS: '4'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '3'
+  PCT: '.250'
+  IP: '49'
+  H: '54'
+  HR: '5'
+  R: '32'
+  ER: '26'
+  BB: '16'
+  SO: '11'
+  HB: '3'
+  WP: '2'
+  ERA: '4.78'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Baez
+  nameClub1: Tampa
+  GP: '29'
+  GS: '13'
+  CG: '5'
+  SHO: '2'
+  W: '6'
+  L: '8'
+  PCT: '.429'
+  IP: '131'
+  H: '162'
+  HR: '10'
+  R: '84'
+  ER: '70'
+  BB: '45'
+  SO: '32'
+  HB: '4'
+  WP: '4'
+  ERA: '4.81'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameFirst: J.
+  nameClub1: Tampa
+  GP: '27'
+  GS: '17'
+  CG: '5'
+  SHO: '0'
+  W: '3'
+  L: '10'
+  PCT: '.231'
+  IP: '105'
+  H: '118'
+  HR: '3'
+  R: '75'
+  ER: '58'
+  BB: '63'
+  SO: '40'
+  HB: '0'
+  WP: '2'
+  ERA: '4.97'
+  BK: '2'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Christophel
+  nameClub1: Tampa
+  throws: L
+  GP: '10'
+  GS: '5'
+  CG: '2'
+  SHO: '0'
+  W: '2'
+  L: '6'
+  PCT: '.250'
+  IP: '52'
+  H: '56'
+  HR: '6'
+  R: '35'
+  ER: '29'
+  BB: '26'
+  SO: '25'
+  HB: '1'
+  WP: '1'
+  ERA: '5.02'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Morilla
+  nameClub1: Fort Lauderdale
+  GP: '16'
+  GS: '1'
+  CG: '0'
+  SHO: '0'
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  IP: '46'
+  H: '58'
+  HR: '7'
+  R: '34'
+  ER: '27'
+  BB: '16'
+  SO: '20'
+  HB: '0'
+  WP: '1'
+  ERA: '5.28'
+  BK: '3'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Luciano
+  nameClub1: West Palm Beach
+  GP: '13'
+  GS: '11'
+  CG: '3'
+  SHO: '0'
+  W: '5'
+  L: '5'
+  PCT: '.500'
+  IP: '76'
+  H: '97'
+  HR: '6'
+  R: '63'
+  ER: '46'
+  BB: '46'
+  SO: '22'
+  HB: '2'
+  WP: '3'
+  ERA: '5.45'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Kleinsmith
+  nameClub1: Tampa
+  GP: '19'
+  GS: '10'
+  CG: '3'
+  SHO: '1'
+  W: '2'
+  L: '8'
+  PCT: '.200'
+  IP: '61'
+  H: '55'
+  HR: '2'
+  R: '52'
+  ER: '39'
+  BB: '72'
+  SO: '46'
+  HB: '5'
+  WP: '4'
+  ERA: '5.75'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: O'Coine
+  nameClub1: St. Petersburg
+  GP: '19'
+  GS: '5'
+  CG: '1'
+  SHO: '0'
+  W: '3'
+  L: '3'
+  PCT: '.500'
+  IP: '53'
+  H: '65'
+  HR: '18'
+  R: '41'
+  ER: '39'
+  BB: '30'
+  SO: '21'
+  HB: '1'
+  WP: '1'
+  ERA: '6.62'
+  BK: '0'
+  T: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Martinez
+  nameClub1: Tampa
+  GP: '12'
+  GS: '8'
+  CG: '1'
+  SHO: '0'
+  W: '1'
+  L: '7'
+  PCT: '.125'
+  IP: '48'
+  H: '75'
+  HR: '8'
+  R: '45'
+  ER: '41'
+  BB: '16'
+  SO: '22'
+  HB: '2'
+  WP: '0'
+  ERA: '7.69'
+  BK: '0'
+  T: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Barnhill
+  nameClub1: Fort Lauderdale
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Chavez
+  nameClub1: Fort Lauderdale
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Covington
+  nameClub1: Fort Lauderdale
+  throws: L
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Davis
+  nameClub1: Fort Lauderdale
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Griffin
+  nameClub1: Fort Lauderdale
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Hines
+  nameClub1: Fort Lauderdale
+  W: '1'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Mitchell
+  nameClub1: Fort Lauderdale
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Rubin
+  nameClub1: Fort Lauderdale
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Torres
+  nameClub1: Fort Lauderdale
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Alvarez
+  nameClub1: Havana
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Becquer
+  nameClub1: Havana
+  throws: L
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Del Monte
+  nameClub1: Havana
+  W: '1'
+  L: '3'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Elba
+  nameClub1: Havana
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Fleitas
+  nameClub1: Havana
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Gonzalez
+  nameClub1: Havana
+  W: '2'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameClub1: Havana
+  W: '2'
+  L: '4'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lorenzo
+  nameClub1: Havana
+  throws: L
+  W: '1'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Muniz
+  nameClub1: Havana
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Oliva
+  nameClub1: Havana
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Pascual
+  nameClub1: Havana
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Torres
+  nameClub1: Havana
+  throws: L
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Viadero
+  nameClub1: Havana
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Alexson
+  nameClub1: Miami
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Champlin
+  nameClub1: Miami
+  W: '2'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Chandler
+  nameClub1: Miami
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Curran
+  nameClub1: Miami
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Kipp
+  nameClub1: Miami
+  throws: L
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lamberti
+  nameClub1: Miami
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: McCombie
+  nameClub1: Miami
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Wells
+  nameClub1: Miami
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Wills
+  nameClub1: Miami
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Bachy
+  nameClub1: St. Petersburg
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Donato
+  nameClub1: St. Petersburg
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Dorosky
+  nameClub1: St. Petersburg
+  W: '2'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Herring
+  nameClub1: St. Petersburg
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lopez
+  nameClub1: St. Petersburg
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Smith
+  nameClub1: St. Petersburg
+  throws: L
+  W: '2'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Senger
+  nameClub1: St. Petersburg
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Atkins
+  nameClub1: Tampa
+  W: '2'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Clark
+  nameClub1: Tampa
+  W: '2'
+  L: '3'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Dale
+  nameClub1: Tampa
+  throws: L
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Gooding
+  nameClub1: Tampa
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Jiminez
+  nameClub1: Tampa
+  W: '0'
+  L: '2'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Ladd
+  nameClub1: Tampa
+  W: '0'
+  L: '5'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: McKinnis
+  nameClub1: Tampa
+  throws: L
+  W: '1'
+  L: '4'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Pecou
+  nameClub1: Tampa
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Shepard
+  nameFirst: Bert
+  nameClub1: Tampa
+  throws: L
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Sheppard
+  nameFirst: Joseph
+  nameClub1: Tampa
+  W: '2'
+  L: '2'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Stahlman
+  nameClub1: Tampa
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Adams
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Dotson
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '1'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Hlava
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Lyons
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: McCulloch
+  nameClub1: West Palm Beach
+  W: '1'
+  L: '2'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Platt
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Reitz
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Rosado
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Ruiz
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '3'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Solis
+  nameClub1: West Palm Beach
+  W: '4'
+  L: '3'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Thrift
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'
+- year: '1953'
+  nameLeague: Florida International League
+  nameLast: Venn
+  nameClub1: West Palm Beach
+  W: '0'
+  L: '0'

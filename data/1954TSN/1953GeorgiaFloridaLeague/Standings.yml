@@ -1,0 +1,118 @@
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: regular
+  W: '90'
+  L: '47'
+  T: '4'
+  PCT: '.657'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: regular
+  W: '85'
+  L: '54'
+  T: '0'
+  PCT: '.612'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Tifton
+  phase: regular
+  W: '84'
+  L: '55'
+  T: '2'
+  PCT: '.604'
+  RANK: '3'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: regular
+  W: '82'
+  L: '56'
+  T: '0'
+  PCT: '.594'
+  RANK: '4'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Fitzgerald
+  phase: regular
+  W: '62'
+  L: '77'
+  T: '0'
+  PCT: '.446'
+  RANK: '5'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Waycross
+  phase: regular
+  W: '59'
+  L: '78'
+  T: '0'
+  PCT: '.431'
+  RANK: '6'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Valdosta
+  phase: regular
+  W: '55'
+  L: '81'
+  T: '3'
+  PCT: '.404'
+  RANK: '7'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Cordele
+  phase: regular
+  W: '35'
+  L: '104'
+  T: '1'
+  PCT: '.252'
+  RANK: '8'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '2'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Albany
+  phase: semifinal
+  division: Semifinal 1
+  W: '2'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '0'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Tifton
+  phase: semifinal
+  division: Semifinal 2
+  W: '0'
+  L: '4'
+  RANK: '2'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Brunswick
+  phase: final
+  W: '4'
+  L: '3'
+  RANK: '1'
+- year: '1953'
+  nameLeague: Georgia-Florida League
+  nameClub: Thomasville
+  phase: final
+  W: '3'
+  L: '4'
+  RANK: '2'

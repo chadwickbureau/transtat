@@ -1,0 +1,116 @@
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Longview
+  phase: regular
+  W: '89'
+  L: '51'
+  PCT: '.636'
+  RANK: '1'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  phase: regular
+  W: '87'
+  L: '53'
+  PCT: '.621'
+  RANK: '2'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Paris
+  phase: regular
+  W: '75'
+  L: '62'
+  PCT: '.547'
+  RANK: '3'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Kilgore
+  phase: regular
+  W: '75'
+  L: '65'
+  PCT: '.536'
+  RANK: '4'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Marshall
+  phase: regular
+  W: '69'
+  L: '68'
+  PCT: '.504'
+  RANK: '5'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Tyler
+  phase: regular
+  W: '62'
+  L: '78'
+  PCT: '.443'
+  RANK: '6'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Henderson
+  phase: regular
+  W: '51'
+  L: '88'
+  PCT: '.367'
+  RANK: '7'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Bryan
+  phase: regular
+  W: '48'
+  L: '91'
+  PCT: '.345'
+  RANK: '8'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Kilgore
+  phase: semifinal
+  division: Semifinal 1
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Longview
+  phase: semifinal
+  division: Semifinal 1
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  phase: semifinal
+  division: Semifinal 2
+  W: '4'
+  L: '3'
+  PCT: '.571'
+  RANK: '1'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Paris
+  phase: semifinal
+  division: Semifinal 2
+  W: '3'
+  L: '4'
+  PCT: '.429'
+  RANK: '2'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Gladewater
+  phase: final
+  W: '4'
+  L: '0'
+  PCT: '1.000'
+  RANK: '1'
+- year: '1949'
+  nameLeague: East Texas League
+  nameClub: Kilgore
+  phase: final
+  W: '0'
+  L: '4'
+  PCT: '.000'
+  RANK: '2'

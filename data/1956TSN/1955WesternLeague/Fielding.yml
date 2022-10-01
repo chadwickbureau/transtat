@@ -1,0 +1,2115 @@
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Davenport
+  nameClub1: Sioux City
+  throws: L
+  Pos: 1B
+  G: '21'
+  PO: '127'
+  A: '9'
+  E: '0'
+  DP: '14'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hallow
+  nameClub1: Wichita
+  throws: L
+  Pos: 1B
+  G: '143'
+  PO: '1201'
+  A: '74'
+  E: '9'
+  DP: '124'
+  PCT: '.993'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Adkins
+  nameClub1: Lincoln
+  throws: L
+  Pos: 1B
+  G: '149'
+  PO: '1127'
+  A: '69'
+  E: '11'
+  DP: '114'
+  PCT: '.991'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Barnhardt
+  nameClub1: Sioux City
+  throws: L
+  Pos: 1B
+  G: '139'
+  PO: '1046'
+  A: '77'
+  E: '11'
+  DP: '89'
+  PCT: '.990'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Landenberger
+  nameClub1: Colorado Springs
+  throws: L
+  Pos: 1B
+  G: '104'
+  PO: '933'
+  A: '65'
+  E: '10'
+  DP: '76'
+  PCT: '.990'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Gabler
+  nameClub1: Pueblo
+  throws: L
+  Pos: 1B
+  G: '91'
+  PO: '728'
+  A: '46'
+  E: '17'
+  DP: '96'
+  PCT: '.979'
+  TP: '2'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Sheets
+  nameClub1: Colorado Springs
+  Pos: 1B
+  G: '33'
+  PO: '307'
+  A: '24'
+  E: '7'
+  DP: '43'
+  PCT: '.979'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Thurlby
+  nameClub1: Des Moines
+  Pos: 1B
+  G: '105'
+  PO: '891'
+  A: '62'
+  E: '21'
+  DP: '115'
+  PCT: '.978'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Storck
+  nameClub1: Pueblo
+  throws: L
+  Pos: 1B
+  G: '58'
+  PO: '467'
+  A: '21'
+  E: '11'
+  DP: '62'
+  PCT: '.978'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Kreuter
+  nameClub1: Des Moines
+  throws: L
+  Pos: 1B
+  G: '50'
+  PO: '422'
+  A: '23'
+  E: '10'
+  DP: '52'
+  PCT: '.978'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Creighton
+  nameClub1: Colorado Springs
+  throws: L
+  Pos: 1B
+  G: '13'
+  PO: '116'
+  A: '4'
+  E: '5'
+  DP: '16'
+  PCT: '.960'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: O'Donnell
+  nameClub1: Wichita
+  throws: L
+  Pos: 1B
+  G: '11'
+  PO: '66'
+  A: '6'
+  E: '3'
+  DP: '6'
+  PCT: '.960'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Conde
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '28'
+  PO: '79'
+  A: '72'
+  E: '4'
+  DP: '21'
+  PCT: '.974'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: David
+  nameClub1: Wichita
+  Pos: 2B
+  G: '59'
+  PO: '132'
+  A: '142'
+  E: '8'
+  DP: '48'
+  PCT: '.972'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Babcock
+  nameClub1: Lincoln
+  Pos: 2B
+  G: '145'
+  PO: '330'
+  A: '365'
+  E: '22'
+  DP: '89'
+  PCT: '.969'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: McKee
+  nameClub1: Des Moines
+  Pos: 2B
+  G: '150'
+  PO: '467'
+  A: '490'
+  E: '31'
+  DP: '138'
+  PCT: '.969'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Gnagy
+  nameClub1: Colorado Springs
+  Pos: 2B
+  G: '146'
+  PO: '342'
+  A: '415'
+  E: '26'
+  DP: '99'
+  PCT: '.967'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Lemmel
+  nameClub1: Pueblo
+  Pos: 2B
+  G: '39'
+  PO: '101'
+  A: '97'
+  E: '7'
+  DP: '28'
+  PCT: '.966'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Snyder
+  nameClub1: Wichita
+  Pos: 2B
+  G: '24'
+  PO: '53'
+  A: '58'
+  E: '4'
+  DP: '14'
+  PCT: '.965'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Goryl
+  nameClub1: Wichita
+  Pos: 2B
+  G: '80'
+  PO: '188'
+  A: '185'
+  E: '16'
+  DP: '42'
+  PCT: '.959'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Falter
+  nameClub1: Pueblo
+  Pos: 2B
+  G: '27'
+  PO: '58'
+  A: '57'
+  E: '5'
+  DP: '20'
+  PCT: '.958'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Parker
+  nameClub1: Pueblo
+  Pos: 2B
+  G: '93'
+  PO: '226'
+  A: '220'
+  E: '22'
+  DP: '74'
+  PCT: '.953'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Fundora
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '57'
+  PO: '149'
+  A: '138'
+  E: '14'
+  DP: '29'
+  PCT: '.953'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Grossman
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '17'
+  PO: '47'
+  A: '34'
+  E: '4'
+  DP: '10'
+  PCT: '.953'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Loftin
+  nameClub1: Sioux City
+  Pos: 2B
+  G: '57'
+  PO: '137'
+  A: '122'
+  E: '18'
+  DP: '31'
+  PCT: '.935'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Pearson
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '17'
+  PO: '11'
+  A: '20'
+  E: '1'
+  DP: '3'
+  PCT: '.969'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Barbarito
+  nameClub1: Wichita
+  Pos: 3B
+  G: '147'
+  PO: '116'
+  A: '312'
+  E: '19'
+  DP: '37'
+  PCT: '.957'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Pedens
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '23'
+  PO: '20'
+  A: '37'
+  E: '3'
+  DP: '6'
+  PCT: '.950'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Ware
+  nameClub1: Colorado Springs
+  Pos: 3B
+  G: '35'
+  PO: '28'
+  A: '91'
+  E: '9'
+  DP: '9'
+  PCT: '.930'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Fundora
+  nameClub1: Sioux City
+  Pos: 3B
+  G: '40'
+  PO: '27'
+  A: '80'
+  E: '8'
+  DP: '6'
+  PCT: '.930'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Bacon
+  nameClub1: Colorado Springs
+  Pos: 3B
+  G: '78'
+  PO: '56'
+  A: '177'
+  E: '18'
+  DP: '9'
+  PCT: '.928'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Parente
+  nameClub1: Sioux City
+  Pos: 3B
+  G: '35'
+  PO: '41'
+  A: '100'
+  E: '11'
+  DP: '8'
+  PCT: '.928'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Davis
+  nameClub1: Pueblo
+  Pos: 3B
+  G: '75'
+  PO: '93'
+  A: '143'
+  E: '20'
+  DP: '16'
+  PCT: '.922'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Sheets
+  nameClub1: Colorado Springs
+  Pos: 3B
+  G: '37'
+  PO: '30'
+  A: '65'
+  E: '9'
+  DP: '6'
+  PCT: '.913'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: McNeal
+  nameClub1: Pueblo
+  Pos: 3B
+  G: '18'
+  PO: '20'
+  A: '36'
+  E: '6'
+  DP: '6'
+  PCT: '.903'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Figard
+  nameClub1: Lincoln
+  Pos: 3B
+  G: '23'
+  PO: '23'
+  A: '40'
+  E: '7'
+  DP: '4'
+  PCT: '.900'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Falls
+  nameClub1: Lincoln
+  Pos: 3B
+  G: '42'
+  PO: '42'
+  A: '54'
+  E: '11'
+  DP: '6'
+  PCT: '.897'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Morgan
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '91'
+  PO: '60'
+  A: '147'
+  E: '24'
+  DP: '22'
+  PCT: '.896'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Sullivan
+  nameClub1: Sioux City
+  Pos: 3B
+  G: '75'
+  PO: '63'
+  A: '139'
+  E: '25'
+  DP: '14'
+  PCT: '.890'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Lemmel
+  nameClub1: Pueblo
+  Pos: 3B
+  G: '60'
+  PO: '52'
+  A: '119'
+  E: '22'
+  DP: '19'
+  PCT: '.886'
+  TP: '2'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Padgett
+  nameClub1: Lincoln
+  Pos: 3B
+  G: '45'
+  PO: '39'
+  A: '74'
+  E: '15'
+  DP: '9'
+  PCT: '.883'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Lauters
+  nameClub1: Des Moines
+  Pos: 3B
+  G: '25'
+  PO: '21'
+  A: '35'
+  E: '9'
+  DP: '7'
+  PCT: '.862'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Goodrich
+  nameClub1: Lincoln
+  Pos: 3B
+  G: '32'
+  PO: '22'
+  A: '38'
+  E: '14'
+  DP: '11'
+  PCT: '.811'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Barron
+  nameClub1: Wichita
+  Pos: SS
+  G: '12'
+  PO: '13'
+  A: '38'
+  E: '2'
+  DP: '4'
+  PCT: '.962'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Bellino
+  nameClub1: Des Moines
+  Pos: SS
+  G: '145'
+  PO: '262'
+  A: '493'
+  E: '39'
+  DP: '107'
+  PCT: '.951'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Damato
+  nameClub1: Lincoln
+  Pos: SS
+  G: '32'
+  PO: '55'
+  A: '100'
+  E: '8'
+  DP: '19'
+  PCT: '.951'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Winkles
+  nameClub1: Colorado Springs
+  Pos: SS
+  G: '108'
+  PO: '176'
+  A: '382'
+  E: '30'
+  DP: '63'
+  PCT: '.949'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Conde
+  nameClub1: Sioux City
+  Pos: SS
+  G: '105'
+  PO: '181'
+  A: '274'
+  E: '28'
+  DP: '53'
+  PCT: '.942'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Moore
+  nameFirst: C.
+  nameClub1: Pueblo
+  Pos: SS
+  G: '150'
+  PO: '302'
+  A: '463'
+  E: '60'
+  DP: '116'
+  PCT: '.927'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Fundora
+  nameClub1: Sioux City
+  Pos: SS
+  G: '17'
+  PO: '16'
+  A: '35'
+  E: '4'
+  DP: '6'
+  PCT: '.927'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Johnson
+  nameClub1: Colorado Springs
+  Pos: SS
+  G: '34'
+  PO: '55'
+  A: '106'
+  E: '13'
+  DP: '34'
+  PCT: '.925'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Springfield
+  nameClub1: Wichita
+  Pos: SS
+  G: '48'
+  PO: '80'
+  A: '140'
+  E: '18'
+  DP: '25'
+  PCT: '.924'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hain
+  nameClub1: Wichita
+  Pos: SS
+  G: '82'
+  PO: '156'
+  A: '209'
+  E: '31'
+  DP: '49'
+  PCT: '.922'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Goodrich
+  nameClub1: Lincoln
+  Pos: SS
+  G: '119'
+  PO: '206'
+  A: '297'
+  E: '52'
+  DP: '57'
+  PCT: '.906'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Loftin
+  nameClub1: Sioux City
+  Pos: SS
+  G: '27'
+  PO: '27'
+  A: '77'
+  E: '11'
+  DP: '16'
+  PCT: '.904'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Cobos
+  nameClub1: Lincoln
+  Pos: OF
+  G: '14'
+  PO: '15'
+  A: '3'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Kwak
+  nameClub1: Wichita
+  throws: L
+  Pos: OF
+  G: '16'
+  PO: '15'
+  A: '0'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hall
+  nameClub1: Lincoln
+  Pos: OF
+  G: '73'
+  PO: '128'
+  A: '4'
+  E: '1'
+  DP: '2'
+  PCT: '.992'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Stair
+  nameClub1: Lincoln
+  Pos: OF
+  G: '54'
+  PO: '86'
+  A: '3'
+  E: '1'
+  DP: '0'
+  PCT: '.989'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Rice
+  nameClub1: Lincoln
+  Pos: OF
+  G: '150'
+  PO: '416'
+  A: '15'
+  E: '8'
+  DP: '3'
+  PCT: '.982'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Smith
+  nameClub1: Sioux City
+  Pos: OF
+  G: '102'
+  PO: '176'
+  A: '16'
+  E: '4'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Storck
+  nameClub1: Pueblo
+  throws: L
+  Pos: OF
+  G: '83'
+  PO: '135'
+  A: '12'
+  E: '3'
+  DP: '0'
+  PCT: '.980'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Green
+  nameClub1: Wichita
+  throws: L
+  Pos: OF
+  G: '78'
+  PO: '205'
+  A: '8'
+  E: '5'
+  DP: '2'
+  PCT: '.977'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Musto
+  nameClub1: Pueblo
+  Pos: OF
+  G: '91'
+  PO: '116'
+  A: '14'
+  E: '3'
+  DP: '1'
+  PCT: '.977'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Glenn
+  nameClub1: Pueblo
+  Pos: OF
+  G: '123'
+  PO: '315'
+  A: '29'
+  E: '9'
+  DP: '6'
+  PCT: '.975'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Taussig
+  nameClub1: Sioux City
+  Pos: OF
+  G: '91'
+  PO: '213'
+  A: '17'
+  E: '6'
+  DP: '2'
+  PCT: '.975'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Goryl
+  nameClub1: Wichita
+  Pos: OF
+  G: '47'
+  PO: '72'
+  A: '2'
+  E: '2'
+  DP: '0'
+  PCT: '.974'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Demeter
+  nameClub1: Pueblo
+  Pos: OF
+  G: '38'
+  PO: '102'
+  A: '6'
+  E: '3'
+  DP: '0'
+  PCT: '.973'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Pearson
+  nameClub1: Des Moines
+  Pos: OF
+  G: '53'
+  PO: '85'
+  A: '5'
+  E: '3'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Senties
+  nameClub1: Wichita
+  throws: L
+  Pos: OF
+  G: '141'
+  PO: '308'
+  A: '15'
+  E: '11'
+  DP: '6'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Lewis
+  nameClub1: Sioux City
+  Pos: OF
+  G: '94'
+  PO: '160'
+  A: '6'
+  E: '6'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Haas
+  nameClub1: Des Moines
+  Pos: OF
+  G: '72'
+  PO: '136'
+  A: '11'
+  E: '5'
+  DP: '2'
+  PCT: '.967'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Springfield
+  nameClub1: Wichita
+  Pos: OF
+  G: '92'
+  PO: '159'
+  A: '6'
+  E: '6'
+  DP: '0'
+  PCT: '.965'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Almenares
+  nameClub1: Pueblo
+  Pos: OF
+  G: '127'
+  PO: '204'
+  A: '8'
+  E: '8'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Robertson
+  nameClub1: Des Moines
+  throws: L
+  Pos: OF
+  G: '37'
+  PO: '79'
+  A: '1'
+  E: '3'
+  DP: '1'
+  PCT: '.964'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: McDaniel
+  nameClub1: Des Moines
+  Pos: OF
+  G: '128'
+  PO: '266'
+  A: '18'
+  E: '11'
+  DP: '2'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Anderson
+  nameClub1: Lincoln
+  Pos: OF
+  G: '22'
+  PO: '26'
+  A: '0'
+  E: '1'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Angelo
+  nameClub1: Wichita
+  throws: L
+  Pos: OF
+  G: '43'
+  PO: '63'
+  A: '7'
+  E: '3'
+  DP: '3'
+  PCT: '.959'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: DiTusa
+  nameClub1: Colorado Springs
+  Pos: OF
+  G: '115'
+  PO: '243'
+  A: '7'
+  E: '12'
+  DP: '2'
+  PCT: '.954'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Cooper
+  nameClub1: Colorado Springs
+  Pos: OF
+  G: '130'
+  PO: '231'
+  A: '15'
+  E: '12'
+  DP: '1'
+  PCT: '.953'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Wren
+  nameClub1: Colorado Springs
+  Pos: OF
+  G: '89'
+  PO: '203'
+  A: '18'
+  E: '11'
+  DP: '2'
+  PCT: '.953'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Thurlby
+  nameClub1: Des Moines
+  Pos: OF
+  G: '32'
+  PO: '60'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.952'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Kirkland
+  nameClub1: Sioux City
+  Pos: OF
+  G: '141'
+  PO: '266'
+  A: '18'
+  E: '15'
+  DP: '3'
+  PCT: '.950'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Cunningham
+  nameClub1: Des Moines
+  Pos: OF
+  G: '142'
+  PO: '251'
+  A: '15'
+  E: '14'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Rogers
+  nameClub1: Sioux City
+  throws: L
+  Pos: OF
+  G: '21'
+  PO: '40'
+  A: '2'
+  E: '3'
+  DP: '1'
+  PCT: '.933'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Sheets
+  nameClub1: Colorado Springs
+  Pos: OF
+  G: '71'
+  PO: '105'
+  A: '3'
+  E: '8'
+  DP: '0'
+  PCT: '.931'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Smith
+  nameClub1: Lincoln
+  Pos: OF
+  G: '28'
+  PO: '51'
+  A: '1'
+  E: '4'
+  DP: '0'
+  PCT: '.929'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: O'Donnell
+  nameClub1: Wichita
+  throws: L
+  Pos: OF
+  G: '37'
+  PO: '48'
+  A: '2'
+  E: '4'
+  DP: '0'
+  PCT: '.926'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Falls
+  nameClub1: Lincoln
+  Pos: OF
+  G: '84'
+  PO: '127'
+  A: '5'
+  E: '12'
+  DP: '1'
+  PCT: '.917'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Lombardi
+  nameClub1: Colorado Springs
+  Pos: OF
+  G: '49'
+  PO: '100'
+  A: '5'
+  E: '10'
+  DP: '0'
+  PCT: '.913'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Christopher
+  nameClub1: Lincoln
+  Pos: OF
+  G: '28'
+  PO: '34'
+  A: '4'
+  E: '4'
+  DP: '0'
+  PCT: '.905'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Molinari
+  nameClub1: Wichita
+  Pos: OF
+  G: '13'
+  PO: '14'
+  A: '0'
+  E: '3'
+  DP: '0'
+  PCT: '.824'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Turner
+  nameClub1: Pueblo
+  Pos: C
+  G: '14'
+  PO: '84'
+  A: '9'
+  E: '0'
+  DP: '2'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Tindall
+  nameClub1: Des Moines
+  Pos: C
+  G: '12'
+  PO: '55'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PB: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Gaspar
+  nameClub1: Wichita
+  Pos: C
+  G: '103'
+  PO: '659'
+  A: '48'
+  E: '5'
+  DP: '6'
+  PB: '7'
+  PCT: '.993'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Ehlers
+  nameClub1: Pueblo
+  Pos: C
+  G: '26'
+  PO: '105'
+  A: '11'
+  E: '1'
+  DP: '1'
+  PB: '4'
+  PCT: '.991'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Rivich
+  nameClub1: Des Moines
+  Pos: C
+  G: '16'
+  PO: '87'
+  A: '9'
+  E: '1'
+  DP: '2'
+  PB: '6'
+  PCT: '.990'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Peden
+  nameClub1: Des Moines
+  Pos: C
+  G: '18'
+  PO: '72'
+  A: '14'
+  E: '1'
+  DP: '4'
+  PB: '6'
+  PCT: '.989'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Dunlop
+  nameClub1: Lincoln
+  Pos: C
+  G: '74'
+  PO: '477'
+  A: '53'
+  E: '8'
+  DP: '4'
+  PB: '10'
+  PCT: '.985'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hariston
+  nameClub1: Colorado Springs
+  Pos: C
+  G: '136'
+  PO: '748'
+  A: '74'
+  E: '13'
+  DP: '14'
+  PB: '15'
+  PCT: '.984'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Grossman
+  nameClub1: Sioux City
+  Pos: C
+  G: '38'
+  PO: '170'
+  A: '17'
+  E: '3'
+  DP: '2'
+  PB: '7'
+  PCT: '.984'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: McLeod
+  nameClub1: Wichita
+  Pos: C
+  G: '55'
+  PO: '293'
+  A: '34'
+  E: '6'
+  DP: '1'
+  PB: '6'
+  PCT: '.982'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Biebel
+  nameClub1: Des Moines
+  Pos: C
+  G: '91'
+  PO: '382'
+  A: '31'
+  E: '8'
+  DP: '1'
+  PB: '10'
+  PCT: '.981'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Cobos
+  nameClub1: Lincoln
+  Pos: C
+  G: '49'
+  PO: '252'
+  A: '27'
+  E: '6'
+  DP: '0'
+  PB: '2'
+  PCT: '.979'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Jenkins
+  nameClub1: Sioux City
+  Pos: C
+  G: '117'
+  PO: '626'
+  A: '62'
+  E: '17'
+  DP: '14'
+  PB: '12'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Koback
+  nameClub1: Lincoln
+  Pos: C
+  G: '30'
+  PO: '183'
+  A: '21'
+  E: '5'
+  DP: '3'
+  PB: '3'
+  PCT: '.976'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Worley
+  nameClub1: Pueblo
+  Pos: C
+  G: '100'
+  PO: '575'
+  A: '55'
+  E: '18'
+  DP: '6'
+  PB: '15'
+  PCT: '.972'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Maley
+  nameClub1: Colorado Springs
+  Pos: C
+  G: '17'
+  PO: '57'
+  A: '8'
+  E: '2'
+  DP: '3'
+  PB: '2'
+  PCT: '.970'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Pramesa
+  nameClub1: Des Moines
+  Pos: C
+  G: '37'
+  PO: '120'
+  A: '14'
+  E: '8'
+  DP: '3'
+  PB: '3'
+  PCT: '.944'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Roseboro
+  nameClub1: Pueblo
+  Pos: C
+  G: '14'
+  PO: '49'
+  A: '7'
+  E: '4'
+  DP: '3'
+  PB: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Menking
+  nameClub1: Des Moines
+  Pos: P
+  G: '31'
+  PO: '13'
+  A: '40'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Graves
+  nameClub1: Sioux City
+  Pos: P
+  G: '22'
+  PO: '9'
+  A: '30'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Brill
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '28'
+  PO: '9'
+  A: '28'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Zilian
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '24'
+  PO: '8'
+  A: '25'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: White
+  nameClub1: Pueblo
+  Pos: P
+  G: '22'
+  PO: '4'
+  A: '28'
+  E: '0'
+  DP: '5'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Warren
+  nameClub1: Wichita
+  Pos: P
+  G: '49'
+  PO: '6'
+  A: '19'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Mahrt
+  nameClub1: Sioux City
+  Pos: P
+  G: '31'
+  PO: '1'
+  A: '23'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hattenbach
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '33'
+  PO: '4'
+  A: '17'
+  E: '0'
+  DP: '3'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Barker
+  nameClub1: Pueblo
+  Pos: P
+  G: '27'
+  PO: '7'
+  A: '14'
+  E: '0'
+  DP: '2'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Rosser
+  nameClub1: Sioux City
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '7'
+  A: '14'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hudson
+  nameClub1: Wichita
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '3'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Peterson
+  nameClub1: Pueblo
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '9'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Kralick
+  nameClub1: Colorado Springs
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '14'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Orwiler
+  nameClub1: Wichita
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '12'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hoffmeister
+  nameClub1: Des Moines
+  Pos: P
+  G: '19'
+  PO: '1'
+  A: '10'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Wollenweber
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '17'
+  PO: '4'
+  A: '5'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Moxley
+  nameClub1: Pueblo
+  Pos: P
+  G: '12'
+  PO: '2'
+  A: '5'
+  E: '0'
+  DP: '1'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Idzkowski
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '12'
+  PO: '1'
+  A: '6'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Schwegman
+  nameClub1: Wichita
+  throws: L
+  Pos: P
+  G: '13'
+  PO: '2'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Daviault
+  nameClub1: Pueblo
+  Pos: P
+  G: '13'
+  PO: '0'
+  A: '4'
+  E: '0'
+  DP: '0'
+  PCT: '1.000'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Fodge
+  nameClub1: Des Moines
+  Pos: P
+  G: '36'
+  PO: '9'
+  A: '57'
+  E: '1'
+  DP: '1'
+  PCT: '.985'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Lowe
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '25'
+  PO: '10'
+  A: '29'
+  E: '1'
+  DP: '3'
+  PCT: '.975'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hall
+  nameClub1: Lincoln
+  Pos: P
+  G: '19'
+  PO: '8'
+  A: '26'
+  E: '1'
+  DP: '1'
+  PCT: '.971'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Drilling
+  nameClub1: Lincoln
+  Pos: P
+  G: '37'
+  PO: '10'
+  A: '20'
+  E: '1'
+  DP: '1'
+  PCT: '.968'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Nordberg
+  nameClub1: Lincoln
+  Pos: P
+  G: '35'
+  PO: '17'
+  A: '41'
+  E: '2'
+  DP: '6'
+  PCT: '.967'
+  TP: '1'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Barclay
+  nameClub1: Sioux City
+  Pos: P
+  G: '32'
+  PO: '14'
+  A: '38'
+  E: '2'
+  DP: '0'
+  PCT: '.963'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Zanni
+  nameClub1: Sioux City
+  Pos: P
+  G: '30'
+  PO: '18'
+  A: '31'
+  E: '2'
+  DP: '2'
+  PCT: '.961'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Anderson
+  nameClub1: Des Moines
+  Pos: P
+  G: '31'
+  PO: '6'
+  A: '40'
+  E: '2'
+  DP: '4'
+  PCT: '.958'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Stoddard
+  nameClub1: Des Moines
+  Pos: P
+  G: '21'
+  PO: '7'
+  A: '16'
+  E: '1'
+  DP: '2'
+  PCT: '.958'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Thorpe
+  nameClub1: Des Moines
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '39'
+  E: '2'
+  DP: '4'
+  PCT: '.957'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Naranjo
+  nameClub1: Lincoln
+  Pos: P
+  G: '12'
+  PO: '4'
+  A: '17'
+  E: '1'
+  DP: '1'
+  PCT: '.955'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Wright
+  nameFirst: R.
+  nameClub1: Pueblo
+  Pos: P
+  G: '39'
+  PO: '2'
+  A: '17'
+  E: '1'
+  DP: '2'
+  PCT: '.950'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Daniels
+  nameClub1: Lincoln
+  Pos: P
+  G: '14'
+  PO: '5'
+  A: '32'
+  E: '2'
+  DP: '4'
+  PCT: '.949'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Evans
+  nameClub1: Wichita
+  Pos: P
+  G: '29'
+  PO: '5'
+  A: '31'
+  E: '2'
+  DP: '3'
+  PCT: '.947'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Mertlik
+  nameClub1: Pueblo
+  throws: L
+  Pos: P
+  G: '34'
+  PO: '0'
+  A: '18'
+  E: '1'
+  DP: '0'
+  PCT: '.947'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hanlon
+  nameClub1: Pueblo
+  Pos: P
+  G: '30'
+  PO: '3'
+  A: '31'
+  E: '2'
+  DP: '0'
+  PCT: '.944'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Hamlin
+  nameClub1: Sioux City
+  Pos: P
+  G: '39'
+  PO: '15'
+  A: '34'
+  E: '3'
+  DP: '2'
+  PCT: '.942'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Pane
+  nameClub1: Sioux City
+  throws: L
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '26'
+  E: '2'
+  DP: '0'
+  PCT: '.939'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Babkoff
+  nameClub1: Wichita
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '5'
+  A: '10'
+  E: '1'
+  DP: '0'
+  PCT: '.938'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Ceplo
+  nameClub1: Pueblo
+  Pos: P
+  G: '36'
+  PO: '6'
+  A: '36'
+  E: '3'
+  DP: '2'
+  PCT: '.933'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: McMinn
+  nameClub1: Pueblo
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '27'
+  E: '3'
+  DP: '2'
+  PCT: '.917'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Bell
+  nameClub1: Lincoln
+  Pos: P
+  G: '35'
+  PO: '16'
+  A: '44'
+  E: '6'
+  DP: '4'
+  PCT: '.909'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Stanka
+  nameClub1: Des Moines
+  Pos: P
+  G: '29'
+  PO: '10'
+  A: '30'
+  E: '4'
+  DP: '1'
+  PCT: '.909'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Brown
+  nameClub1: Lincoln
+  Pos: P
+  G: '22'
+  PO: '5'
+  A: '14'
+  E: '2'
+  DP: '3'
+  PCT: '.905'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Pickart
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '19'
+  PO: '4'
+  A: '5'
+  E: '1'
+  DP: '2'
+  PCT: '.900'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Rodriguez
+  nameClub1: Pueblo
+  Pos: P
+  G: '30'
+  PO: '6'
+  A: '29'
+  E: '4'
+  DP: '2'
+  PCT: '.897'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Selby
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.895'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Flammini
+  nameClub1: Des Moines
+  throws: L
+  Pos: P
+  G: '31'
+  PO: '5'
+  A: '19'
+  E: '3'
+  DP: '1'
+  PCT: '.889'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Landry
+  nameClub1: Sioux City
+  throws: L
+  Pos: P
+  G: '21'
+  PO: '4'
+  A: '20'
+  E: '3'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Burack
+  nameClub1: Wichita
+  Pos: P
+  G: '11'
+  PO: '3'
+  A: '5'
+  E: '1'
+  DP: '0'
+  PCT: '.889'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: O'Donnell
+  nameClub1: Wichita
+  throws: L
+  Pos: P
+  G: '39'
+  PO: '6'
+  A: '40'
+  E: '6'
+  DP: '2'
+  PCT: '.885'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Wren
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '24'
+  PO: '2'
+  A: '13'
+  E: '2'
+  DP: '1'
+  PCT: '.882'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Pope
+  nameClub1: Colorado Springs
+  Pos: P
+  G: '29'
+  PO: '6'
+  A: '29'
+  E: '5'
+  DP: '1'
+  PCT: '.875'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Chapel
+  nameClub1: Wichita
+  Pos: P
+  G: '13'
+  PO: '1'
+  A: '6'
+  E: '1'
+  DP: '2'
+  PCT: '.875'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Williams
+  nameClub1: Lincoln
+  Pos: P
+  G: '16'
+  PO: '4'
+  A: '9'
+  E: '2'
+  DP: '1'
+  PCT: '.867'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Almonte
+  nameClub1: Lincoln
+  Pos: P
+  G: '22'
+  PO: '1'
+  A: '11'
+  E: '2'
+  DP: '2'
+  PCT: '.857'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Perez
+  nameClub1: Sioux City
+  Pos: P
+  G: '11'
+  PO: '6'
+  A: '6'
+  E: '1'
+  DP: '0'
+  PCT: '.857'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Harrison
+  nameClub1: Wichita
+  Pos: P
+  G: '32'
+  PO: '6'
+  A: '23'
+  E: '5'
+  DP: '3'
+  PCT: '.853'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Preston
+  nameClub1: Colorado Springs
+  throws: L
+  Pos: P
+  G: '11'
+  PO: '2'
+  A: '9'
+  E: '2'
+  DP: '0'
+  PCT: '.846'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Watkins
+  nameClub1: Des Moines
+  Pos: P
+  G: '35'
+  PO: '1'
+  A: '9'
+  E: '2'
+  DP: '1'
+  PCT: '.833'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Witt
+  nameClub1: Lincoln
+  Pos: P
+  G: '18'
+  PO: '5'
+  A: '14'
+  E: '5'
+  DP: '0'
+  PCT: '.792'
+  TP: '0'
+- year: '1955'
+  nameLeague: Western League
+  nameLast: Weglarz
+  nameClub1: Wichita
+  throws: L
+  Pos: P
+  G: '25'
+  PO: '1'
+  A: '10'
+  E: '3'
+  DP: '0'
+  PCT: '.786'
+  TP: '0'

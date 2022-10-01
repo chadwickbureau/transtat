@@ -1,0 +1,80 @@
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Paris
+  Ardmore: '6'
+  Muskogee: '12'
+  Shawnee: '12'
+  Greenville: '11'
+  Lawton: '9'
+  Ponca City: '12'
+  Seminole: '12'
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Ardmore
+  Paris: '12'
+  Muskogee: '8'
+  Shawnee: '7'
+  Greenville: '10'
+  Lawton: '12'
+  Ponca City: '12'
+  Seminole: '13'
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Muskogee
+  Paris: '6'
+  Ardmore: '10'
+  Shawnee: '11'
+  Greenville: '12'
+  Lawton: '9'
+  Ponca City: '10'
+  Seminole: '13'
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Shawnee
+  Paris: '6'
+  Ardmore: '11'
+  Muskogee: '7'
+  Greenville: '13'
+  Lawton: '7'
+  Ponca City: '9'
+  Seminole: '11'
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Greenville
+  Paris: '7'
+  Ardmore: '8'
+  Muskogee: '6'
+  Shawnee: '5'
+  Lawton: '12'
+  Ponca City: '13'
+  Seminole: '11'
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Lawton
+  Paris: '9'
+  Ardmore: '6'
+  Muskogee: '9'
+  Shawnee: '11'
+  Greenville: '5'
+  Ponca City: '8'
+  Seminole: '11'
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Ponca City
+  Paris: '6'
+  Ardmore: '6'
+  Muskogee: '8'
+  Shawnee: '9'
+  Greenville: '5'
+  Lawton: '10'
+  Seminole: '8'
+- year: '1957'
+  nameLeague: Sooner State League
+  nameClub: Seminole
+  Paris: '5'
+  Ardmore: '5'
+  Muskogee: '5'
+  Shawnee: '7'
+  Greenville: '7'
+  Lawton: '7'
+  Ponca City: '10'

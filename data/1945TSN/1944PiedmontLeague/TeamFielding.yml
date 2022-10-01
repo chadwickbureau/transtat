@@ -1,0 +1,66 @@
+- year: '1944'
+  nameLeague: Piedmont League
+  nameClub: Richmond
+  G: '141'
+  DP: '127'
+  TP: '0'
+  PB: '20'
+  PO: '3644'
+  A: '1605'
+  E: '252'
+  PCT: '.954'
+- year: '1944'
+  nameLeague: Piedmont League
+  nameClub: Norfolk
+  G: '142'
+  DP: '89'
+  TP: '1'
+  PB: '55'
+  PO: '3646'
+  A: '1520'
+  E: '276'
+  PCT: '.949'
+- year: '1944'
+  nameLeague: Piedmont League
+  nameClub: Roanoke
+  G: '139'
+  DP: '126'
+  TP: '0'
+  PB: '18'
+  PO: '3615'
+  A: '1698'
+  E: '301'
+  PCT: '.946'
+- year: '1944'
+  nameLeague: Piedmont League
+  nameClub: Portsmouth
+  G: '139'
+  DP: '95'
+  TP: '0'
+  PB: '25'
+  PO: '3617'
+  A: '1616'
+  E: '302'
+  PCT: '.945'
+- year: '1944'
+  nameLeague: Piedmont League
+  nameClub: Lynchburg
+  G: '143'
+  DP: '105'
+  TP: '0'
+  PB: '47'
+  PO: '3688'
+  A: '1581'
+  E: '319'
+  PCT: '.943'
+- year: '1944'
+  nameLeague: Piedmont League
+  nameClub: Newport News
+  G: '142'
+  DP: '82'
+  TP: '0'
+  PB: '46'
+  PO: '3593'
+  A: '1477'
+  E: '376'
+  PCT: '.931'

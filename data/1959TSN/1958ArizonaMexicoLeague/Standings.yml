@@ -1,0 +1,48 @@
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Douglas
+  W: '68'
+  L: '52'
+  T: '1'
+  PCT: '.567'
+  RANK: '1'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Tucson
+  W: '66'
+  L: '54'
+  T: '0'
+  PCT: '.550'
+  RANK: '2'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Nogales
+  W: '59'
+  L: '59'
+  T: '2'
+  PCT: '.500'
+  RANK: '3'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Chihuahua
+  W: '56'
+  L: '62'
+  T: '2'
+  PCT: '.475'
+  RANK: '4'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Juarez
+  W: '55'
+  L: '64'
+  T: '0'
+  PCT: '.462'
+  RANK: '5'
+- year: '1958'
+  nameLeague: Arizona-Mexico League
+  nameClub: Mexicali
+  W: '53'
+  L: '66'
+  T: '1'
+  PCT: '.445'
+  RANK: '6'

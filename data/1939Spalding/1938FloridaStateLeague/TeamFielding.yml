@@ -1,0 +1,88 @@
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: Leesburg
+  G: '140'
+  PO: '3720'
+  A: '1709'
+  E: '271'
+  LOB: '1213'
+  DP: '109'
+  PCT: '.952'
+  TP: '0'
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: Gainesville
+  G: '140'
+  PO: '3733'
+  A: '1625'
+  E: '278'
+  LOB: '1142'
+  DP: '126'
+  PCT: '.951'
+  TP: '1'
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: St. Augustine
+  G: '140'
+  PO: '3740'
+  A: '1748'
+  E: '298'
+  LOB: '1138'
+  DP: '119'
+  PCT: '.948'
+  TP: '1'
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: Palatka
+  G: '139'
+  PO: '3680'
+  A: '1656'
+  E: '310'
+  LOB: '1098'
+  DP: '101'
+  PCT: '.947'
+  TP: '0'
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: Daytona Beach
+  G: '139'
+  PO: '3689'
+  A: '1569'
+  E: '300'
+  LOB: '1085'
+  DP: '98'
+  PCT: '.946'
+  TP: '1'
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: DeLand
+  G: '141'
+  PO: '3672'
+  A: '1617'
+  E: '302'
+  LOB: '1187'
+  DP: '96'
+  PCT: '.946'
+  TP: '0'
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: Orlando
+  G: '139'
+  PO: '3693'
+  A: '1624'
+  E: '312'
+  LOB: '1120'
+  DP: '94'
+  PCT: '.945'
+  TP: '0'
+- year: '1938'
+  nameLeague: Florida State League
+  nameClub: Sanford
+  G: '140'
+  PO: '3717'
+  A: '1629'
+  E: '322'
+  LOB: '1119'
+  DP: '106'
+  PCT: '.943'
+  TP: '0'
